@@ -88,7 +88,7 @@ func TestMetadataRereadAndScanFailureStatus(t *testing.T) {
 	if status.Error == "" || !status.LastSuccess.Equal(good) || status.Running {
 		t.Fatalf("failed scan status incorrect: %+v", status)
 	}
-	page := send(t, h, "GET", "/admin/settings?view=data", nil, cookie)
+	page := send(t, h, "GET", "/admin/settings?view=library", nil, cookie)
 	assertCode(t, page, 200)
 	if !strings.Contains(page.Body.String(), "扫描失败") || !strings.Contains(page.Body.String(), "继续使用上次可用索引") {
 		t.Fatal("scan error was not visible in settings")

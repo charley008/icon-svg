@@ -226,6 +226,8 @@ func (a *App) adminHome(w http.ResponseWriter, r *http.Request) {
 type AdminSettings struct {
 	Scan               LibraryScanStatus
 	ScanSchedule       string
+	ScanMinutes        int
+	ScanPreviews       []Icon
 	CSRF, View         string
 	Categories         []string
 	ManagedCategories  []ManagedCategory
@@ -236,12 +238,30 @@ type AdminSettings struct {
 
 func (a *App) adminSettings(w http.ResponseWriter, r *http.Request) {
 	p := AdminSettings{CSRF: csrf(r), View: r.URL.Query().Get("view")}
-	if p.View != "data" && p.View != "account" && p.View != "logs" && p.View != "categories" {
+	if p.View != "data" && p.View != "account" && p.View != "logs" && p.View != "categories" && p.View != "library" {
 		p.View = ""
 	}
-	if p.View == "data" {
+	if p.View == "library" {
 		p.Scan = a.store.library.scanStatus()
-		p.ScanSchedule = scanSchedule(a.scanInterval)
+		interval := time.Duration(a.scanInterval.Load())
+		p.ScanSchedule = scanSchedule(interval)
+		p.ScanMinutes = int(interval / time.Minute)
+		if interval%time.Minute != 0 {
+			p.ScanMinutes++
+		}
+		for _, filename := range p.Scan.RecentAdded {
+			brand, file, ok := strings.Cut(filename, "/")
+			if !ok {
+				continue
+			}
+			var id int64
+			if err := a.store.db.QueryRow(`SELECT i.id FROM icons i JOIN brands b ON b.id=i.brand_id WHERE b.slug=? AND i.filename=? AND i.deleted=0`, brand, file).Scan(&id); err != nil {
+				continue
+			}
+			if icon, err := iconByID(a.store.db, id); err == nil {
+				p.ScanPreviews = append(p.ScanPreviews, icon)
+			}
+		}
 	}
 	if p.View == "categories" {
 		var e error

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/fs"
 	"os"
+	"sort"
 	"strings"
 	"time"
 )
@@ -27,6 +28,9 @@ type LibraryScanStatus struct {
 	Error                                               string
 	Files, Collections, Icons, Added, Modified, Removed int
 	Read, Reused                                        int
+	RecentAdded                                         []string
+	RecentAddedTotal                                    int
+	AddedAt                                             time.Time
 }
 
 // Metadata is always reread. SVG content can be reused after checking identity,
@@ -106,6 +110,7 @@ func (s *Store) scanLibrary(full bool) error {
 		status.Collections = 0
 		status.Icons = 0
 		next := map[string]string{}
+		addedSVG := []string{}
 		l.mu.Lock()
 		for name, content := range run.Files {
 			if strings.HasSuffix(name, "/meta.json") {
@@ -118,6 +123,9 @@ func (s *Store) scanLibrary(full bool) error {
 			next[name] = hash
 			if old, ok := l.scanned[name]; !ok {
 				status.Added++
+				if strings.HasSuffix(name, ".svg") {
+					addedSVG = append(addedSVG, name)
+				}
 			} else if old != hash {
 				status.Modified++
 			}
@@ -131,6 +139,12 @@ func (s *Store) scanLibrary(full bool) error {
 			l.scanned = next
 		}
 		l.mu.Unlock()
+		if len(addedSVG) > 0 {
+			sort.Strings(addedSVG)
+			status.RecentAddedTotal = len(addedSVG)
+			status.RecentAdded = append([]string(nil), addedSVG[:min(60, len(addedSVG))]...)
+			status.AddedAt = status.Finished
+		}
 	}
 	l.statusMu.Lock()
 	l.status = status

@@ -135,7 +135,7 @@ func TestFileLibraryRoundTrip(t *testing.T) {
 
 func TestFreshInstallationState(t *testing.T) {
 	a, _, _, file := fileLibraryApp(t)
-	for _, table := range []string{"audit", "sessions", "attempts", "downloads"} {
+	for _, table := range []string{"audit", "sessions", "attempts", "downloads", "settings"} {
 		var count int
 		if e := a.store.db.QueryRow("SELECT COUNT(*) FROM runtime." + table).Scan(&count); e != nil || count != 0 {
 			t.Fatalf("fresh %s: %d %v", table, count, e)
@@ -147,7 +147,7 @@ func TestFreshInstallationState(t *testing.T) {
 	}
 	defer disk.Close()
 	var count int
-	if e = disk.QueryRow(`SELECT COUNT(*) FROM sqlite_master WHERE type='table'`).Scan(&count); e != nil || count != 5 {
+	if e = disk.QueryRow(`SELECT COUNT(*) FROM sqlite_master WHERE type='table'`).Scan(&count); e != nil || count != 6 {
 		t.Fatalf("runtime must contain only operational tables: %d %v", count, e)
 	}
 	if e = disk.QueryRow(`SELECT COUNT(*) FROM admins`).Scan(&count); e != nil || count != 1 {

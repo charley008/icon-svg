@@ -13,7 +13,7 @@ func TestAdminSettingsRequiresLoginAndSeparatesControls(t *testing.T) {
 	cookie, token := authenticate(t, a, h)
 	w := send(t, h, "GET", "/admin/settings", nil, cookie)
 	assertCode(t, w, 200)
-	for _, want := range []string{"数据备份", "账号安全", "操作日志", token} {
+	for _, want := range []string{"数据库备份", "素材库管理", "账号安全", "操作日志", token} {
 		if !strings.Contains(w.Body.String(), want) {
 			t.Fatalf("settings missing %q", want)
 		}
@@ -36,7 +36,7 @@ func TestAdminSettingsRequiresLoginAndSeparatesControls(t *testing.T) {
 		if view == "account" && (!strings.Contains(body, `minlength="8"`) || !strings.Contains(body, `action="/admin/password"`)) {
 			t.Fatal("account panel must preserve password controls")
 		}
-		if view == "data" && (!strings.Contains(body, `href="/admin/backup"`) || !strings.Contains(body, `href="/admin/export-library"`)) {
+		if view == "data" && (!strings.Contains(body, `href="/admin/backup-database"`) || strings.Contains(body, `action="/admin/library/scan"`)) {
 			t.Fatal("data panel must preserve download controls")
 		}
 	}

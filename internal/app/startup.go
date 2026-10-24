@@ -145,28 +145,14 @@ func Run(version string) error {
 	if err != nil {
 		return err
 	}
-	app.scanInterval = *scanInterval
+	if err := app.configureScanInterval(*scanInterval); err != nil {
+		return err
+	}
 	scanDone := make(chan struct{})
 	var scanWG sync.WaitGroup
+	scanWG.Add(1)
+	go func() { defer scanWG.Done(); app.runLibraryScanner(scanDone) }()
 	defer func() { close(scanDone); scanWG.Wait() }()
-	if *scanInterval > 0 {
-		scanWG.Add(1)
-		go func() {
-			defer scanWG.Done()
-			ticker := time.NewTicker(*scanInterval)
-			defer ticker.Stop()
-			for {
-				select {
-				case <-scanDone:
-					return
-				case <-ticker.C:
-					if e := store.reloadLibrary(); e != nil && e != errLibraryScanRunning {
-						log.Printf("素材库扫描失败，保留当前索引: %v", e)
-					}
-				}
-			}
-		}()
-	}
 	listener, err := net.Listen("tcp", *address)
 	if err != nil {
 		return fmt.Errorf("监听失败，请检查程序是否已启动或更改 LISTEN_ADDR: %w", err)

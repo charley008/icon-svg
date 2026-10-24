@@ -15,6 +15,7 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"sync/atomic"
 	"time"
 )
 
@@ -24,7 +25,8 @@ type App struct {
 	secure       bool
 	templates    *template.Template
 	files        AppResources
-	scanInterval time.Duration
+	scanInterval atomic.Int64
+	scanChanged  chan struct{}
 }
 
 type AppResources struct{ Web, Library, Root fs.FS }
@@ -52,7 +54,11 @@ func newApp(s *Store, data, origin string, secure bool, resources ...AppResource
 	if e != nil {
 		return nil, fmt.Errorf("读取 web/templates 失败，请解压完整安装包：%w", e)
 	}
-	return &App{store: s, data: data, origin: strings.TrimRight(origin, "/"), secure: secure, templates: t, files: files, scanInterval: 5 * time.Minute}, nil
+	a := &App{store: s, data: data, origin: strings.TrimRight(origin, "/"), secure: secure, templates: t, files: files, scanChanged: make(chan struct{}, 1)}
+	if err := a.configureScanInterval(5 * time.Minute); err != nil {
+		return nil, err
+	}
+	return a, nil
 }
 func (a *App) routes() http.Handler {
 	mux := http.NewServeMux()
@@ -80,6 +86,8 @@ func (a *App) routes() http.Handler {
 	mux.HandleFunc("GET /admin/login", a.loginPage)
 	mux.HandleFunc("POST /admin/login", a.login)
 	mux.Handle("GET /admin", a.auth(http.HandlerFunc(a.adminHome)))
+	mux.Handle("POST /admin/library/schedule", a.auth(http.HandlerFunc(a.saveScanSchedule)))
+	mux.Handle("GET /admin/backup-database", a.auth(http.HandlerFunc(a.backupDatabase)))
 	mux.Handle("POST /admin/library/scan", a.auth(http.HandlerFunc(a.scanLibrary)))
 	mux.Handle("GET /admin/settings", a.auth(http.HandlerFunc(a.adminSettings)))
 	mux.Handle("POST /admin/categories/{action}", a.auth(http.HandlerFunc(a.categoryAction)))

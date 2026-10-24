@@ -5,7 +5,7 @@
 <main class="admin-page settings-page">
   <a class="text-button" href="/admin">← 返回合集管理</a>
   <div class="page-heading"><div><div class="eyebrow">WORKSPACE SETTINGS</div><h1>设置</h1><p class="muted">管理数据、账号安全，查看操作记录。</p></div></div>
-  <nav class="editor-nav" aria-label="设置导航"><a href="/admin/settings?view=data" {{if eq .View "data"}}aria-current="page"{{end}}>数据备份</a><a href="/admin/settings?view=account" {{if eq .View "account"}}aria-current="page"{{end}}>账号安全</a><a href="/admin/settings?view=categories" {{if eq .View "categories"}}aria-current="page"{{end}}>分类管理</a><a href="/admin/settings?view=logs" {{if eq .View "logs"}}aria-current="page"{{end}}>操作日志</a></nav>
+  <nav class="editor-nav" aria-label="设置导航"><a href="/admin/settings?view=data" {{if eq .View "data"}}aria-current="page"{{end}}>数据库备份</a><a href="/admin/settings?view=library" {{if eq .View "library"}}aria-current="page"{{end}}>素材库管理</a><a href="/admin/settings?view=account" {{if eq .View "account"}}aria-current="page"{{end}}>账号安全</a><a href="/admin/settings?view=categories" {{if eq .View "categories"}}aria-current="page"{{end}}>分类管理</a><a href="/admin/settings?view=logs" {{if eq .View "logs"}}aria-current="page"{{end}}>操作日志</a></nav>
   {{if not .View}}<p class="muted">请选择上方的设置项目。</p>{{end}}
   {{if eq .View "categories"}}<section class="panel" id="categories" aria-labelledby="categories-title">
     <h2 id="categories-title">分类管理</h2><p class="muted">统一管理分类名称。改名会同步已有合集和产品；移除分类时将内容迁移到选定分类，不删除图标。数量包含草稿和回收站。</p>
@@ -13,7 +13,20 @@
     <div class="category-manager">{{range .ManagedCategories}}{{$name:=.Name}}<article class="category-row"><div><b>{{.Name}}</b><span class="muted">{{.Count}} 个图标组</span></div>{{if eq .Name "其他"}}<p class="muted">默认分类，保留作为未分类内容的去向。</p>{{else}}<form action="/admin/categories/rename" method="post" class="category-edit"><input type="hidden" name="csrf" value="{{$.CSRF}}"><input type="hidden" name="name" value="{{.Name}}"><input name="next" value="{{.Name}}" required maxlength="60" aria-label="重命名 {{.Name}}"><button class="button">保存名称</button></form><form action="/admin/categories/delete" method="post" class="category-edit" data-confirm="移除此分类并迁移内容？图标会保留。"><input type="hidden" name="csrf" value="{{$.CSRF}}"><input type="hidden" name="name" value="{{.Name}}"><select name="next" aria-label="{{.Name}} 的迁移目标">{{range $.Categories}}{{if ne . $name}}<option value="{{.}}" {{if eq . "其他"}}selected{{end}}>迁移到 {{.}}</option>{{end}}{{end}}</select><button class="button danger">移除并迁移</button></form>{{end}}</article>{{end}}</div>
   </section>{{end}}
   {{if eq .View "data"}}<section class="panel" id="data" aria-labelledby="data-title">
-    <h2 id="data-title">素材库与备份</h2>
+    <h2 id="data-title">数据库备份</h2>
+    <p class="muted">备份管理员账号、操作日志、下载统计和扫描设置，不包含 SVG 素材。素材导出请进入“素材库管理”。</p>
+    <div class="export-actions"><a class="button button-primary" href="/admin/backup-database">↓ 下载数据库备份</a></div>
+    <p class="muted">恢复前停止程序，将备份中的 data/runtime.sqlite3 放回 data 目录；素材目录需要单独保留。</p>
+  </section>{{end}}
+  {{if eq .View "library"}}<section class="panel" id="library" aria-labelledby="library-title">
+    <h2 id="library-title">素材库管理</h2>
+    <div class="library-workspace"><div>
+    <form class="field-grid" action="/admin/library/schedule" method="post">
+      <input type="hidden" name="csrf" value="{{.CSRF}}">
+      <label>定期扫描间隔（分钟）<input name="minutes" type="number" min="0" max="43200" step="1" required value="{{.ScanMinutes}}"></label>
+      <p class="muted">填写 0 关闭定期扫描，最长 30 天。保存后立即生效，重启后保留；覆盖环境变量中的初始间隔。</p>
+      <button class="button button-primary">保存扫描设置</button>
+    </form>
     <form action="/admin/library/scan" method="post"><input type="hidden" name="csrf" value="{{.CSRF}}"><div class="export-actions"><button class="button button-primary" name="mode" value="changes">↻ 扫描变更</button><button class="button" name="mode" value="full">完整扫描</button></div></form>
     <p class="muted">{{.ScanSchedule}}。启动时扫描素材库；后台修改立即生效。完整扫描会重新读取所有素材文件。</p>
     <div role="status" aria-live="polite">
@@ -22,8 +35,15 @@
       {{if not .Scan.LastSuccess.IsZero}}<p class="muted">最近成功：{{.Scan.LastSuccess.Format "2006-01-02 15:04:05"}} · {{.Scan.Collections}} 个合集 · {{.Scan.Icons}} 个 SVG</p>{{end}}
       {{if not .Scan.Error}}<p class="muted">新增 {{.Scan.Added}} · 修改 {{.Scan.Modified}} · 移除 {{.Scan.Removed}} 个文件</p>{{end}}
     </div>
-    <div class="export-actions"><a class="button" href="/admin/backup">↓ 完整备份（素材与账号）</a><a class="button" href="/admin/export-library">↓ 导出已上架素材</a></div>
-    <p class="muted">完整备份包含 library 文件及账号、日志等运行数据；素材导出只包含已上架内容。</p>
+
+    <div class="export-actions"><a class="button" href="/admin/export-library">↓ 导出已上架素材</a><a class="button" href="/admin/settings?view=library">刷新状态</a></div>
+    <p class="muted">直接复制 SVG 到 library 后，点击扫描即可登记。新的产品需先在 meta.json 中声明。扫描失败时不会发布错误素材。</p>
+    </div><aside class="scan-preview" aria-labelledby="scan-preview-title">
+      <h3 id="scan-preview-title">最近扫描新增素材</h3>
+      {{if not .Scan.AddedAt.IsZero}}<p class="muted">{{.Scan.AddedAt.Format "2006-01-02 15:04:05"}} · 新增 {{.Scan.RecentAddedTotal}} 个 SVG，最多预览 60 个。</p>{{end}}
+      <div class="scan-preview-grid">{{range .ScanPreviews}}<a class="scan-preview-card" href="/admin?q={{.Brand}}" title="管理 {{.Brand}}"><img src="/admin/preview/{{.ID}}" alt="{{.Meta.File}}" loading="lazy"><span>{{.Meta.File}}</span></a>{{else}}<p class="muted">暂无新增素材。复制文件后扫描，本次发现的新图标会显示在这里。</p>{{end}}</div>
+      <p class="muted">无变化的扫描会保留这批预览；下次发现新增素材时替换，重启程序后清空。</p>
+    </aside></div>
   </section>{{end}}
   {{if eq .View "account"}}<section class="panel" id="account" aria-labelledby="account-title">
     <h2 id="account-title">账号安全</h2><p class="muted">修改管理员密码后，所有登录会话将失效，需要重新登录。</p>

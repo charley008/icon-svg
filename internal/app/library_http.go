@@ -19,17 +19,17 @@ func (a *App) scanLibrary(w http.ResponseWriter, r *http.Request) {
 	}
 	if e := a.store.scanLibrary(mode == "full"); e != nil {
 		if e == errLibraryScanRunning {
-			http.Redirect(w, r, "/admin/settings?view=data", 303)
+			http.Redirect(w, r, "/admin/settings?view=library", 303)
 			return
 		}
-		http.Redirect(w, r, "/admin/settings?view=data", 303)
+		http.Redirect(w, r, "/admin/settings?view=library", 303)
 		return
 	}
 	if e := a.store.transaction(func(tx *sql.Tx) error { return audit(tx, "library_scanned", "library") }); e != nil {
 		renderError(w, e)
 		return
 	}
-	http.Redirect(w, r, "/admin/settings?view=data&scanned=1", 303)
+	http.Redirect(w, r, "/admin/settings?view=library&scanned=1", 303)
 }
 
 func addLibraryFiles(z *zip.Writer, files map[string][]byte) error {
@@ -103,4 +103,27 @@ func (a *App) libraryLicenses(z *zip.Writer) error {
 		}
 	}
 	return nil
+}
+
+func (a *App) backupDatabase(w http.ResponseWriter, r *http.Request) {
+	a.archive(w, r, "icon-svg-database.zip", func(z *zip.Writer) error {
+		a.store.writeMu.Lock()
+		defer a.store.writeMu.Unlock()
+		file, err := os.CreateTemp(filepath.Join(a.data, "cache"), "database-*.sqlite3")
+		if err != nil {
+			return err
+		}
+		name := file.Name()
+		file.Close()
+		os.Remove(name)
+		defer os.Remove(name)
+		if _, err := a.store.db.Exec(`VACUUM runtime INTO ?`, name); err != nil {
+			return err
+		}
+		raw, err := os.ReadFile(name)
+		if err != nil {
+			return err
+		}
+		return zipEntry(z, "data/runtime.sqlite3", raw)
+	})
 }

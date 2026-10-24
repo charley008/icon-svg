@@ -12,6 +12,7 @@ import (
 	"sort"
 	"strings"
 	"sync"
+	"time"
 )
 
 // Library owns the file tree. Root confines operations even if a directory is
@@ -531,6 +532,7 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
  CREATE TABLE IF NOT EXISTS runtime.attempts(ip TEXT NOT NULL,created INTEGER NOT NULL);
  CREATE INDEX IF NOT EXISTS runtime.attempts_time ON attempts(created);
  CREATE TABLE IF NOT EXISTS runtime.audit(id INTEGER PRIMARY KEY,action TEXT NOT NULL,target TEXT NOT NULL,created_at TEXT NOT NULL);
+ CREATE TABLE IF NOT EXISTS runtime.settings(key TEXT PRIMARY KEY,value TEXT NOT NULL);
  CREATE TABLE IF NOT EXISTS runtime.downloads(key TEXT PRIMARY KEY,count INTEGER NOT NULL);`); e != nil {
 		return nil, e
 	}
@@ -554,6 +556,12 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
 	if e = s.reloadLibrary(); e != nil {
 		return nil, e
 	}
+	// Initial indexing establishes a baseline, not an import batch.
+	l.statusMu.Lock()
+	l.status.RecentAdded = nil
+	l.status.RecentAddedTotal = 0
+	l.status.AddedAt = time.Time{}
+	l.statusMu.Unlock()
 	ok = true
 	return s, nil
 }
