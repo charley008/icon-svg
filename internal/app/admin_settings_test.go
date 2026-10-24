@@ -2,6 +2,7 @@ package app
 
 import (
 	"fmt"
+	"net/url"
 	"strings"
 	"testing"
 )
@@ -71,5 +72,36 @@ func TestAdminSettingsPaginatesLogsNewestFirst(t *testing.T) {
 		if strings.Count(last.Body.String(), "<time>") != 1 || !strings.Contains(last.Body.String(), "log-01.svg") {
 			t.Fatal("last page must show only the oldest entry")
 		}
+	}
+}
+
+func TestPasswordConfirmationRejectsMissingAndMismatch(t *testing.T) {
+	a, h := testApp(t)
+	cookie, token := authenticate(t, a, h)
+	page := send(t, h, "GET", "/admin/settings?view=account", nil, cookie)
+	assertCode(t, page, 200)
+	if !strings.Contains(page.Body.String(), `name="password_confirm"`) {
+		t.Fatal("account panel missing password confirmation")
+	}
+	var before string
+	if err := a.store.db.QueryRow(`SELECT password FROM admins LIMIT 1`).Scan(&before); err != nil {
+		t.Fatal(err)
+	}
+	for _, confirmation := range []string{"", "different-password"} {
+		form := url.Values{"csrf": {token}, "current": {testPassword}, "password": {"newpass8"}, "password_confirm": {confirmation}}
+		response := send(t, h, "POST", "/admin/password", form, cookie)
+		assertCode(t, response, 400)
+		if !strings.Contains(response.Body.String(), "两次输入的新密码不一致") {
+			t.Fatal("missing confirmation feedback")
+		}
+		var after string
+		if err := a.store.db.QueryRow(`SELECT password FROM admins LIMIT 1`).Scan(&after); err != nil || after != before {
+			t.Fatalf("rejected confirmation changed password: %v", err)
+		}
+		assertCode(t, send(t, h, "GET", "/admin", nil, cookie), 200)
+	}
+	var changes int
+	if err := a.store.db.QueryRow(`SELECT COUNT(*) FROM audit WHERE action='password_changed'`).Scan(&changes); err != nil || changes != 0 {
+		t.Fatalf("rejected confirmation created password audit: %d %v", changes, err)
 	}
 }

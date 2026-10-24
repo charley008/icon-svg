@@ -27,10 +27,11 @@
   </section>{{end}}
   {{if eq .View "account"}}<section class="panel" id="account" aria-labelledby="account-title">
     <h2 id="account-title">账号安全</h2><p class="muted">修改管理员密码后，所有登录会话将失效，需要重新登录。</p>
-    <form class="field-grid two-columns" action="/admin/password" method="post">
+    <form class="field-grid two-columns" action="/admin/password" method="post" id="password-form">
       <input name="csrf" type="hidden" value="{{.CSRF}}">
       <label>当前密码<input name="current" type="password" required autocomplete="current-password"></label>
       <label>新密码<input name="password" type="password" required minlength="8" maxlength="256" autocomplete="new-password" placeholder="8–256 位"></label>
+      <label>确认新密码<input name="password_confirm" type="password" required minlength="8" maxlength="256" autocomplete="new-password" placeholder="再次输入新密码"></label>
       <button class="button button-primary">更新密码并重新登录</button>
     </form>
   </section>{{end}}

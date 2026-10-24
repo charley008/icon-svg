@@ -58,3 +58,16 @@ function bindAdminDialog(dialogSelector,triggerSelector,closeSelector){
 }
 bindAdminDialog('#add-brand-dialog','#open-add-brand','[data-close-brand-dialog]');
 bindAdminDialog('#add-product-dialog','#open-add-product','[data-close-product-dialog]');
+
+const passwordForm=$('#password-form');
+if(passwordForm){
+  const password=passwordForm.elements.namedItem('password');
+  const confirmation=passwordForm.elements.namedItem('password_confirm');
+  const validateConfirmation=()=>confirmation.setCustomValidity(confirmation.value&&confirmation.value!==password.value?'两次输入的新密码不一致':'');
+  password.addEventListener('input',validateConfirmation);
+  confirmation.addEventListener('input',validateConfirmation);
+  passwordForm.addEventListener('submit',event=>{
+    validateConfirmation();
+    if(!passwordForm.reportValidity())event.preventDefault();
+  });
+}

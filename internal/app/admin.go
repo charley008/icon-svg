@@ -129,6 +129,10 @@ func (a *App) changePassword(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "新密码需要 8–256 位", 400)
 		return
 	}
+	if p != r.FormValue("password_confirm") {
+		http.Error(w, "两次输入的新密码不一致", 400)
+		return
+	}
 	e := a.store.transaction(func(tx *sql.Tx) error {
 		var username, encoded string
 		if e := tx.QueryRow(`SELECT username,password FROM admins LIMIT 1`).Scan(&username, &encoded); e != nil {

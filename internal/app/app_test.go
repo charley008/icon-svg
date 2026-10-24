@@ -222,6 +222,7 @@ func TestUploadLimitAndPasswordRotation(t *testing.T) {
 	form := url.Values{"csrf": {token}, "current": {testPassword}, "password": {"short-7"}}
 	assertCode(t, send(t, h, "POST", "/admin/password", form, c), 400)
 	form.Set("password", "newpass8")
+	form.Set("password_confirm", "newpass8")
 	assertCode(t, send(t, h, "POST", "/admin/password", form, c), 303)
 	assertCode(t, send(t, h, "GET", "/admin", nil, c), 303)
 	response := send(t, h, "POST", "/admin/login", url.Values{"username": {"admin"}, "password": {"newpass8"}}, nil)
