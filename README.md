@@ -68,7 +68,7 @@ docker compose ps
 docker compose logs --tail 50 icon-svg
 ```
 
-默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。可在 `.env` 中设置 `IMAGE_TAG=1.0.0` 固定版本。Compose 默认地址为 <http://127.0.0.1:1089/>。素材通过宿主机 `./library` 目录挂载到 `/app/library`，镜像入口会在首次启动时向空目录复制初始素材；账号与运行数据仍通过宿主机 `./data` 挂载到 `/app/data`。容器名为 `icon-svg`，重启策略为 `always`，Compose 默认每 60 分钟扫描素材。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口调整 data 根目录归属；初始化空素材目录时也会设置该目录归属，已有非空素材目录不会被递归改权限。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
+默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。需要固定版本时，直接修改 Compose 中的 `image` 标签。Compose 默认地址为 <http://127.0.0.1:1089/>。素材通过宿主机 `./library` 目录挂载到 `/app/library`，镜像入口会在首次启动时向空目录复制初始素材；账号与运行数据仍通过宿主机 `./data` 挂载到 `/app/data`。容器名为 `icon-svg`，重启策略为 `always`，Compose 默认每 60 分钟扫描素材。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口调整 data 根目录归属；初始化空素材目录时也会设置该目录归属，已有非空素材目录不会被递归改权限。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
 
 查看首次凭据：
 
@@ -111,8 +111,6 @@ docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v
 | `DATA_DIR` | 数据目录，可选绝对路径 |
 | `OPEN_BROWSER` | 是否自动打开浏览器 |
 | `ADMIN_USERNAME` / `ADMIN_PASSWORD` | 仅创建第一个管理员时使用；密码为空则自动生成 |
-| `IMAGE_TAG` | Docker Hub 镜像版本，默认 `latest`，也可固定为 `1.0.0` |
-| `BIND_ADDRESS` / `PORT` | Compose 宿主机地址和端口 |
 | `PUBLIC_ORIGIN` | 反向代理后的完整外部地址 |
 | `COOKIE_SECURE` | HTTPS 部署设为 `true` |
 | `LIBRARY_DIR` | 素材库目录，默认程序旁的 `library/`，合集目录直接位于其下 |
