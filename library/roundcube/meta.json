@@ -1,0 +1,41 @@
+{
+  "title": "Roundcube",
+  "url": "https://roundcube.net/",
+  "domains": [
+    "roundcube.net"
+  ],
+  "description": "网页电子邮件客户端。",
+  "category": "办公效率",
+  "tags": [
+    "网页邮箱",
+    "邮件客户端",
+    "Roundcube"
+  ],
+  "aliases": [
+    "roundcube",
+    "网页邮箱",
+    "邮件客户端"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "roundcube.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "83fdbf0a71a273b38a5f0874e3565f0a000ae5d0031015b973d43ab5da513dac",
+      "bytes": 785,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/roundcube.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "roundcube.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

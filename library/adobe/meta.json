@@ -1,0 +1,238 @@
+{
+  "collection_id": 24,
+  "schema_version": 1,
+  "id": 25,
+  "title": "Adobe",
+  "url": "https://www.adobe.com",
+  "domains": [
+    "adobe.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "设计",
+    "素材",
+    "Adobe",
+    "奥多比",
+    "adobe.com"
+  ],
+  "aliases": [
+    "adobe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 532,
+      "collection": "theSVG",
+      "file": "adobe.svg",
+      "id": 42,
+      "is_default": true,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "adobe.svg",
+        "original_is_default": true,
+        "original_slug": "adobe"
+      },
+      "sha256": "b471aea858fe0a6a445f4e73880fa63a75b1df713c819a920cdda37ca5c628cc",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/adobe/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 383,
+      "collection": "Dashboard Icons",
+      "file": "adobe-1.svg",
+      "id": 43,
+      "is_default": false,
+      "label": "adobe",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "adobe-1.svg",
+        "original_is_default": false,
+        "original_slug": "adobe"
+      },
+      "sha256": "51d130e54ca84afbf65d3c51b8d641d0fdcf91163bbf460be187f4015d98f723",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adobe.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2321,
+      "collection": "Iconify / logos",
+      "file": "adobe-2.svg",
+      "id": 44,
+      "is_default": false,
+      "label": "adobe",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "adobe-2.svg",
+        "original_is_default": false,
+        "original_slug": "adobe"
+      },
+      "sha256": "d16135f650425a6b022c7b18cf0d97b3c635467dcd1d53ba4a2bbe190db966a7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#adobe",
+      "version": 2
+    },
+    {
+      "bytes": 294,
+      "collection": "Iconify / logos",
+      "file": "adobe-3.svg",
+      "id": 45,
+      "is_default": false,
+      "label": "adobe-icon",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "adobe-3.svg",
+        "original_is_default": false,
+        "original_slug": "adobe"
+      },
+      "sha256": "33f70e1c3ca0b7717ba037962e066937cec5ed99ee86d1a47f7abd2b96d9dde9",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#adobe-icon",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": [
+    {
+      "id": 26,
+      "key": "illustrator",
+      "title": "Adobe Illustrator",
+      "url": "https://adobe.com/products/illustrator.html",
+      "domains": [
+        "adobe.com/products/illustrator.html"
+      ],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "Worldvectorlogo补充",
+        "设计",
+        "素材",
+        "Adobe",
+        "奥多比",
+        "Adobe Illustrator",
+        "illustrator",
+        "adobe.com/products/illustrator.html"
+      ],
+      "aliases": [
+        "illustrator"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1042,
+          "collection": "Worldvectorlogo",
+          "file": "adobe-illustrator.svg",
+          "id": 46,
+          "is_default": true,
+          "label": "adobe-illustrator-cc-3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "illustrator.svg",
+            "original_is_default": true,
+            "original_slug": "illustrator"
+          },
+          "sha256": "c2d7f92bfd6e6de304f3b59b81af641d64d7d8a9d2ea2d3e7c5378e8d9e01771",
+          "source": "https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/adobe-illustrator-cc-3",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 27,
+      "key": "photoshop",
+      "title": "Adobe Photoshop",
+      "url": "https://adobe.com/products/photoshop.html",
+      "domains": [
+        "adobe.com/products/photoshop.html"
+      ],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "Worldvectorlogo补充",
+        "设计",
+        "素材",
+        "Adobe",
+        "奥多比",
+        "Adobe Photoshop",
+        "photoshop",
+        "adobe.com/products/photoshop.html"
+      ],
+      "aliases": [
+        "photoshop"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1664,
+          "collection": "Worldvectorlogo",
+          "file": "adobe-photoshop.svg",
+          "id": 47,
+          "is_default": true,
+          "label": "adobe-photoshop-2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "photoshop.svg",
+            "original_is_default": true,
+            "original_slug": "photoshop"
+          },
+          "sha256": "7d3c55461655d764999ae526214713c544fb2f9598e7ad8f62cded7bc180aa85",
+          "source": "https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/adobe-photoshop-2",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 28,
+      "key": "xd",
+      "title": "XD",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "全球App补充",
+        "设计",
+        "素材",
+        "Adobe",
+        "奥多比",
+        "XD"
+      ],
+      "aliases": [
+        "xd"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1552,
+          "collection": "theSVG",
+          "file": "adobe-xd.svg",
+          "id": 48,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xd.svg",
+            "original_is_default": true,
+            "original_slug": "xd"
+          },
+          "sha256": "aaadebc3e8b68df24a09a6833db06a883a1754956ae466f048e5048921048fc5",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xd/default.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

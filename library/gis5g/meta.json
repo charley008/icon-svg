@@ -1,0 +1,51 @@
+{
+  "collection_id": 168,
+  "schema_version": 1,
+  "id": 239,
+  "title": "地球资源数据云",
+  "url": "https://gis5g.com",
+  "domains": [
+    "gis5g.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "地球资源数据云",
+    "gis5g",
+    "gis5g.com"
+  ],
+  "aliases": [
+    "gis5g"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2462,
+      "collection": "GoTab 公开资源库",
+      "file": "gis5g.svg",
+      "gotab_id": 249,
+      "id": 589,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "gis5g.svg",
+        "original_is_default": true,
+        "original_slug": "gis5g"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2240,
+        "previous_sha256": "28fc67172d1761efb1fdbb6bf67c12880fa0a248fd509b168b64811f6c333331",
+        "ratio": 0.2
+      },
+      "sha256": "3d19ee4fa851de0ea55bb07f252e070430d678f4fff6a610feb38e0243861690",
+      "source": "https://web.gotab.cn/sourceStore/website/01KERGS2VWQH7TPERCRVTFEEX4.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

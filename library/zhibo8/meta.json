@@ -1,0 +1,50 @@
+{
+  "collection_id": 447,
+  "schema_version": 1,
+  "id": 608,
+  "title": "直播吧",
+  "url": "https://zhibo8.com",
+  "domains": [
+    "zhibo8.com"
+  ],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "体育",
+    "直播吧",
+    "zhibo8",
+    "zhibo8.com"
+  ],
+  "aliases": [
+    "zhibo8"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1362,
+      "collection": "GoTab 公开资源库",
+      "file": "zhibo8.svg",
+      "gotab_id": 252,
+      "id": 1525,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zhibo8.svg",
+        "original_is_default": true,
+        "original_slug": "zhibo8"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1140,
+        "previous_sha256": "27df9b1ba2d94528000757c240428f49c4d3e7f52877469093a3436fc2b56aa7",
+        "ratio": 0.2
+      },
+      "sha256": "97f5a6be4345e8c78bba07329c9f28669109183971558fe496a96babcb1ec1f1",
+      "source": "https://web.gotab.cn/sourceStore/website/01KGKPJFTA04QKRJB21WXM2YXB.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

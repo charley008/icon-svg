@@ -1,0 +1,224 @@
+{
+  "collection_id": 361,
+  "schema_version": 1,
+  "id": 492,
+  "title": "Sony 索尼",
+  "url": "https://sony.com",
+  "domains": [
+    "sony.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Worldvectorlogo补充",
+    "硬件",
+    "设备",
+    "索尼",
+    "Sony 索尼",
+    "sony",
+    "sony.com"
+  ],
+  "aliases": [
+    "sony"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2825,
+      "collection": "Worldvectorlogo",
+      "file": "sony.svg",
+      "id": 1233,
+      "is_default": true,
+      "label": "sony-logo-1",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sony.svg",
+        "original_is_default": true,
+        "original_slug": "sony"
+      },
+      "sha256": "7bd43c9938d6a72cf2abe0979f3025505c05c0bb465ca6b85eaa4a444ebfc842",
+      "source": "https://cdn.worldvectorlogo.com/logos/sony-logo-1.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/sony-logo-1",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 493,
+      "key": "playstation",
+      "title": "PlayStation",
+      "url": "https://playstation.com",
+      "domains": [
+        "playstation.com"
+      ],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "全球App补充",
+        "游戏",
+        "索尼",
+        "PlayStation",
+        "playstation.com"
+      ],
+      "aliases": [
+        "playstation"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1103,
+          "collection": "theSVG",
+          "file": "sony-playstation.svg",
+          "id": 1234,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "playstation.svg",
+            "original_is_default": true,
+            "original_slug": "playstation"
+          },
+          "sha256": "e13e1365c39e852b0ea0d3b83e48cd4960664a09ba79a568edd3b914dd52d4b2",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/playstation/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1185,
+          "collection": "theSVG",
+          "file": "sony-playstation-1.svg",
+          "id": 1235,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "playstation-1.svg",
+            "original_is_default": false,
+            "original_slug": "playstation"
+          },
+          "rounded_corners": {
+            "previous_bytes": 960,
+            "previous_sha256": "faf97210af1fe37cb82a88dd116ab68860bb75c1d1f59ac043adfae23970ce11",
+            "ratio": 0.2
+          },
+          "sha256": "bc2bce62ebae3c875b0a987f71a9e8e256f2999a99286e0d09c183b4613a6eb2",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/playstation-badge/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1107,
+          "collection": "theSVG",
+          "file": "sony-playstation-2.svg",
+          "id": 1236,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "playstation-2.svg",
+            "original_is_default": false,
+            "original_slug": "playstation"
+          },
+          "rounded_corners": {
+            "previous_bytes": 874,
+            "previous_sha256": "243761b147c0d0cf6613e0d15c481c89c7c428b07026ad081e9438ffbd6b26d5",
+            "ratio": 0.2
+          },
+          "sha256": "3e51aa615ded43d9d18e6a5f48f413d20f09d9ed54809568c1c444e23ffe5208",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/playstation/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1336,
+          "collection": "Dashboard Icons",
+          "file": "sony-playstation-3.svg",
+          "id": 1237,
+          "is_default": false,
+          "label": "playstation",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "playstation-3.svg",
+            "original_is_default": false,
+            "original_slug": "playstation"
+          },
+          "sha256": "75b5167072558075568b37cbe5772323b3ac7fba2d9add52bdd03fe9057325ae",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/playstation.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1107,
+          "collection": "Simple Icons",
+          "file": "sony-playstation-4.svg",
+          "id": 1238,
+          "is_default": false,
+          "label": "playstation",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "playstation-4.svg",
+            "original_is_default": false,
+            "original_slug": "playstation"
+          },
+          "rounded_corners": {
+            "previous_bytes": 874,
+            "previous_sha256": "8a74f15cee14d575daa93ee686a11e70fb004e9a0581de7a18f1f99557036fd4",
+            "ratio": 0.2
+          },
+          "sha256": "e330ab64c4ae294c021ca3f45265cd6a20fd89ef9187223f1c83a8c628e312e6",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playstation.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 494,
+      "key": "ps5",
+      "title": "PlayStation 5",
+      "url": "https://playstation.com/ps5/",
+      "domains": [
+        "playstation.com/ps5/"
+      ],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "Worldvectorlogo补充",
+        "游戏",
+        "索尼",
+        "PlayStation 5",
+        "ps5",
+        "playstation.com/ps5/"
+      ],
+      "aliases": [
+        "ps5"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3020,
+          "collection": "Worldvectorlogo",
+          "file": "sony-ps5.svg",
+          "id": 1239,
+          "is_default": true,
+          "label": "ps5",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "ps5.svg",
+            "original_is_default": true,
+            "original_slug": "ps5"
+          },
+          "sha256": "e095bb2ec3e2835ec7ae367d2421c1dc6f833153ab9ecd8cbe0887081b8fc99b",
+          "source": "https://cdn.worldvectorlogo.com/logos/ps5.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/ps5",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

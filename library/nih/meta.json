@@ -1,0 +1,59 @@
+{
+  "collection_id": 285,
+  "schema_version": 1,
+  "id": 409,
+  "title": "美国国立卫生研究院 NIH",
+  "url": "https://nih.gov",
+  "domains": [
+    "nih.gov"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "教育",
+    "科研",
+    "美国国立卫生研究院 NIH",
+    "nih",
+    "national-institutes-of-health",
+    "nih.gov"
+  ],
+  "aliases": [
+    "nih",
+    "national-institutes-of-health"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 139781,
+      "collection": "原图描摹",
+      "file": "nih.svg",
+      "id": 1025,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-detail",
+      "provenance": {
+        "original_file": "nih.svg",
+        "original_is_default": true,
+        "original_slug": "nih"
+      },
+      "render_rmse": 30.711,
+      "rounded_corners": {
+        "previous_bytes": 139559,
+        "previous_sha256": "a0106dd204b5c749e5661c8e02a2ec7534e78044737896d86a8821b6a51d83b7",
+        "ratio": 0.2
+      },
+      "sha256": "d1d27f332e19dc4223c901fdd5ce765478222b5b0b1998fd361ad853bcf16f6f",
+      "source": "https://icon.horse/icon/nih.gov",
+      "source_size": [
+        192,
+        192
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

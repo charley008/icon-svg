@@ -1,0 +1,81 @@
+{
+  "collection_id": 446,
+  "schema_version": 1,
+  "id": 607,
+  "title": "智联招聘",
+  "url": "https://zhaopin.com",
+  "domains": [
+    "zhaopin.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "智联招聘",
+    "zhaopin",
+    "zhaopin.com"
+  ],
+  "aliases": [
+    "zhaopin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5200,
+      "collection": "轻量矢量替换",
+      "file": "zhaopin.svg",
+      "id": 1523,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "native-vector-reuse",
+      "provenance": {
+        "original_file": "zhaopin.svg",
+        "original_is_default": true,
+        "original_slug": "zhaopin"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "f3b3cbf04c12106c88e79793cc3ae70feee3cb15243f60b30d3c63adf8f17441",
+        "previous_bytes": 540864,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/1a/64/dd1a6477-5a59-65d6-24ea-bfbaaa1d9989/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "reference": "seed/icons/zhaopin/zhaopin-1.svg",
+        "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "21ba9ba3dc57d9665ffa2505412583d0b85b0f18bc0ed3ec1dd4b571cdb036ba",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HNAXY20T5J57H1NNEE4VNB.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5200,
+      "collection": "GoTab 公开资源库",
+      "file": "zhaopin-1.svg",
+      "gotab_id": 86,
+      "id": 1524,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zhaopin-1.svg",
+        "original_is_default": false,
+        "original_slug": "zhaopin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4978,
+        "previous_sha256": "2601f0215d741160b452f69bad633251161f4b7c4fca40872795a13f1a5396a9",
+        "ratio": 0.2
+      },
+      "sha256": "21ba9ba3dc57d9665ffa2505412583d0b85b0f18bc0ed3ec1dd4b571cdb036ba",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HNAXY20T5J57H1NNEE4VNB.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

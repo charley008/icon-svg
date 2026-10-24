@@ -1,0 +1,51 @@
+{
+  "collection_id": 252,
+  "schema_version": 1,
+  "id": 352,
+  "title": "美图",
+  "url": "https://meitu.com",
+  "domains": [
+    "meitu.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "美图",
+    "meitu",
+    "meitu.com"
+  ],
+  "aliases": [
+    "meitu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 780,
+      "collection": "Iconify / arcticons",
+      "file": "meitu.svg",
+      "id": 867,
+      "is_default": true,
+      "label": "meitu",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meitu.svg",
+        "original_is_default": true,
+        "original_slug": "meitu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 547,
+        "previous_sha256": "e105c71ac9ecc69c671ada507d0e6d6ccba8327705ded7b4948b76ffcbcb2ecd",
+        "ratio": 0.2
+      },
+      "sha256": "9c2ec35dd7c4707cc02e12764b4eaf9fffd1fddcfff0fd717f5c0a93db4d0eb2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#meitu",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

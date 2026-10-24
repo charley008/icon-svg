@@ -1,0 +1,348 @@
+{
+  "collection_id": 331,
+  "schema_version": 1,
+  "parent_brand": "tencent",
+  "id": 458,
+  "title": "QQ",
+  "url": "https://im.qq.com",
+  "domains": [
+    "im.qq.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "Worldvectorlogo补充",
+    "社交",
+    "通讯",
+    "QQ",
+    "腾讯",
+    "tencent-qq",
+    "im.qq.com"
+  ],
+  "aliases": [
+    "qq",
+    "tencent-qq"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2825,
+      "collection": "Dashboard Icons",
+      "file": "qq.svg",
+      "id": 1140,
+      "is_default": true,
+      "label": "qq",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qq.svg",
+        "original_is_default": true,
+        "original_slug": "qq"
+      },
+      "sha256": "ab4cb606ef91fd5453cdc28dc299be8a0fa0b6cf620534113c39682bc31f1fd4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qq.svg",
+      "version": 0
+    },
+    {
+      "bytes": 976,
+      "collection": "theSVG",
+      "file": "qq-1.svg",
+      "id": 1141,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qq-1.svg",
+        "original_is_default": false,
+        "original_slug": "qq"
+      },
+      "rounded_corners": {
+        "previous_bytes": 743,
+        "previous_sha256": "44768fbeae5a54db32633402f0ab1c0bf30c0575573058528c9e1648c4edbfde",
+        "ratio": 0.2
+      },
+      "sha256": "a3876165ee987005fbd9649e2ef22c8e133cd56f783edd722532fba949bf0cef",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qq/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 976,
+      "collection": "theSVG",
+      "file": "qq-2.svg",
+      "id": 1142,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qq-2.svg",
+        "original_is_default": false,
+        "original_slug": "qq"
+      },
+      "rounded_corners": {
+        "previous_bytes": 743,
+        "previous_sha256": "5b3bf0439f892b43511ce980ec8d142bd81cc1544a722337d9afc370208622d1",
+        "ratio": 0.2
+      },
+      "sha256": "3c6e699880980172d984b62b9055bee2712600ee9541ffb35cb3371c33b69e8d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qq/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4219,
+      "collection": "Iconify / icon-park",
+      "file": "qq-3.svg",
+      "id": 1143,
+      "is_default": false,
+      "label": "tencent-qq",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qq-3.svg",
+        "original_is_default": false,
+        "original_slug": "qq"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3986,
+        "previous_sha256": "a3bf05f5ea130e7bd41cde344c1334067d8dd20ebd2cfd705c0929f60f34bdba",
+        "ratio": 0.2
+      },
+      "sha256": "b57ce9f005d4553d363c8448f39990c0697f4343816fdcd8a06e057d8d7a78be",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#tencent-qq",
+      "version": 3
+    },
+    {
+      "bytes": 618,
+      "collection": "Worldvectorlogo",
+      "file": "qq-4.svg",
+      "id": 1144,
+      "is_default": false,
+      "label": "tencent-qq",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qq-4.svg",
+        "original_is_default": false,
+        "original_slug": "qq"
+      },
+      "sha256": "f27a3670532e63a55fe27156a5bd14e96d53964887a9aea0dea973284deb3820",
+      "source": "https://cdn.worldvectorlogo.com/logos/tencent-qq.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/tencent-qq",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 459,
+      "key": "mail",
+      "title": "QQ 邮箱",
+      "url": "https://mail.qq.com",
+      "domains": [
+        "mail.qq.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "办公",
+        "效率工具",
+        "QQ",
+        "腾讯",
+        "电子邮件",
+        "邮箱",
+        "QQ 邮箱",
+        "qq-mail",
+        "mail.qq.com"
+      ],
+      "aliases": [
+        "qq-mail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3074,
+          "collection": "GoTab 公开资源库",
+          "file": "qq-mail.svg",
+          "gotab_id": 48,
+          "id": 1145,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "qq-mail.svg",
+            "original_is_default": true,
+            "original_slug": "qq-mail"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2852,
+            "previous_sha256": "2a476b6fcb7fd92639ddc2b9b484f6cf9c60ce577d339c07c4f3c0b511745797",
+            "ratio": 0.2
+          },
+          "sha256": "ebd8cd2834dde8ed0279e66a346cf80bace06ec526bc536cf3e77efa1e0ca2be",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HD5EK4SG7CJY0JQW10V11D.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 460,
+      "key": "music",
+      "title": "QQ音乐",
+      "url": "https://y.qq.com",
+      "domains": [
+        "y.qq.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "影音",
+        "QQ",
+        "腾讯",
+        "音乐",
+        "听歌",
+        "QQ音乐",
+        "qq-music",
+        "qqmusic",
+        "y.qq.com"
+      ],
+      "aliases": [
+        "qq-music",
+        "qqmusic"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2064,
+          "collection": "GoTab 公开资源库",
+          "file": "qq-music-1.svg",
+          "gotab_id": 11,
+          "id": 1146,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "qq-music-1.svg",
+            "original_is_default": false,
+            "original_slug": "qq-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1842,
+            "previous_sha256": "0338dd81ff649e80040d8f526b0fd575ff97a5f35390313316b5032bd035a310",
+            "ratio": 0.2
+          },
+          "sha256": "3959dbdea8bde81591517a8a0ac7a612ec7fdbf40bb1b0128920d971c43e1da1",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GZYHS8N8XEK1NZDRX68VSV.svg",
+          "version": 1
+        },
+        {
+          "bytes": 841,
+          "collection": "已有图标",
+          "file": "qq-music.svg",
+          "id": 1147,
+          "is_default": false,
+          "label": "默认版本",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qq-music.svg",
+            "original_is_default": true,
+            "original_slug": "qq-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 608,
+            "previous_sha256": "f641e85190165f3237f22a12d00e4ee8b809f622cd3d49b295f819aaab73afe2",
+            "ratio": 0.2
+          },
+          "sha256": "6f0dd649ac223d3943fd8703a5b7e689c02c3f5c76345390c98814c8464af1b5",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#qq-music",
+          "version": 0
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 461,
+      "key": "zone",
+      "title": "QQ空间",
+      "url": "https://qzone.qq.com",
+      "domains": [
+        "qzone.qq.com"
+      ],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "国内补充",
+        "社交",
+        "通讯",
+        "QQ",
+        "腾讯",
+        "QQ空间",
+        "qq-zone",
+        "qzone",
+        "qzone.qq.com"
+      ],
+      "aliases": [
+        "qq-zone",
+        "qzone"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1783,
+          "collection": "theSVG",
+          "file": "qq-zone.svg",
+          "id": 1148,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qq-zone.svg",
+            "original_is_default": true,
+            "original_slug": "qq-zone"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1550,
+            "previous_sha256": "0c756500414b79e80dd4e89f3dcb6eecea36f4c150a87a8713ffefae9239e56e",
+            "ratio": 0.2
+          },
+          "sha256": "ac48708d4977432ff68c646d3d2fcb69c4804c50c55917eacc923f39424fac7f",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qzone/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1783,
+          "collection": "theSVG",
+          "file": "qq-zone-1.svg",
+          "id": 1149,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qq-zone-1.svg",
+            "original_is_default": false,
+            "original_slug": "qq-zone"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1550,
+            "previous_sha256": "1b665a4a511179bc51df93683450ebe087a086fe09811cb26b8ad5e761f2ea10",
+            "ratio": 0.2
+          },
+          "sha256": "4375fa9932b353e5d90081e9e3819276b075da7f7ad20aadb8ce101215584b58",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qzone/mono.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

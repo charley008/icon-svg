@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffcb32" /><svg width="256" height="256" viewBox="0 0 128 128" fill="none" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+ 
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.409 90.8179C34.9093 89.8187 35.3245 88.6178 36.3617 88.2025C40.438 86.57 50.8296 83 63.75 83C76.3264 83 87.0707 86.6644 91.6441 88.4905C92.8533 88.9733 93.1919 90.4697 92.3584 91.4699L92.0227 91.8727C91.7185 92.2378 91.715 92.7608 92.0422 93.1054C93.3863 94.5207 97.3099 98.1923 104.705 101.695C105.158 101.91 105.7 101.749 105.959 101.321C110.428 93.931 113 85.2659 113 76C113 48.938 91.062 27 64 27C36.938 27 15 48.938 15 76C15 85.3144 17.5989 94.0218 22.1111 101.437C22.3394 101.812 22.7916 101.988 23.2124 101.863C30.7254 99.622 34.9462 94.9584 36.1428 93.4684C36.3714 93.1837 36.3985 92.797 36.2352 92.4704L35.409 90.8179ZM83.6222 69.7348C91.9807 71.6101 96.8266 72.6972 95 66C92.0001 55 79.5 43 64 43C48.5001 43 37.5 52.5 33 65C30.1865 72.8152 35.5819 71.6398 44.6649 69.661C50.1095 68.4748 56.8792 67 64 67C71.4321 67 78.2521 68.5301 83.6222 69.7348Z" fill="url(#paint1_linear_326_197)" />
+<defs>
+ 
+<linearGradient id="paint1_linear_326_197" x1="64" y1="27" x2="64" y2="102.065" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B4329" />
+<stop offset="1" stop-color="#192424" />
+</linearGradient>
+</defs>
+</svg></g></g></svg>

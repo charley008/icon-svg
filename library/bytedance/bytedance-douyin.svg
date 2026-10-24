@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 176 176" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="176" height="176" rx="35.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs><clipPath id="website-icon-rounded-corners" clipPathUnits="userSpaceOnUse"><rect x="0.0" y="0.0" width="176.0" height="176.0" rx="33.0" ry="33.0" /></clipPath></defs><g clip-path="url(#website-icon-rounded-corners)"><title>抖音标志 · 矢量重绘</title>
+  <defs>
+    <radialGradient id="background" cx="50%" cy="58%" r="72%">
+      <stop offset="0" stop-color="#270c20" />
+      <stop offset="1" stop-color="#0c0c15" />
+    </radialGradient>
+    <path id="note" d="M88 20 H109.5 C110.7 37.7 122.8 49.7 141.5 51 V71.8 C129.7 71.8 119.2 67.8 109.5 60.7 V110.3 C109.5 133.1 91.5 150 69 150 C46.4 150 28 132.4 28 110 C28 87.3 46.6 68.5 69 68.5 C71 68.5 73 68.6 75 69 V89.8 C73.1 89.2 71.1 88.9 69 88.9 C57.9 88.9 49.1 98.4 49.1 109.9 C49.1 121.5 57.9 130 69 130 C80.3 130 88 121.6 88 109.9 Z" />
+    <clipPath id="overlap"><use href="#note" /></clipPath>
+  </defs>
+  <rect width="176" height="176" fill="url(#background)" />
+  <use href="#note" fill="#25f4ee" />
+  <use href="#note" transform="translate(6.5 6)" fill="#fe2c55" />
+  <g clip-path="url(#overlap)">
+    <use href="#note" transform="translate(6.5 6)" fill="#fff" />
+  </g>
+</g></g></svg>

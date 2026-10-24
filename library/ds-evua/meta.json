@@ -1,0 +1,52 @@
+{
+  "collection_id": 133,
+  "schema_version": 1,
+  "id": 204,
+  "title": "游戏手柄",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "用户优选",
+    "自用",
+    "硬件",
+    "设备",
+    "游戏手柄",
+    "ds-evua"
+  ],
+  "aliases": [
+    "ds-evua"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。",
+    "原展示名称：游戏手柄（ds.evua.cc）"
+  ],
+  "icons": [
+    {
+      "bytes": 8784,
+      "collection": "用户优化 SVG",
+      "file": "ds-evua.svg",
+      "id": 501,
+      "is_default": true,
+      "label": "ds.evua.cc",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "ds-evua.svg",
+        "original_is_default": true,
+        "original_slug": "ds-evua"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8562,
+        "previous_sha256": "352cb3010eb02d1b493ab55ee94942032c0b2fbac72cf60a55037088893a4ed3",
+        "ratio": 0.2
+      },
+      "sha256": "3e179f7d449aee009c139007d6b5a91202d2e5f0687cfe13191aa5a6692d71b5",
+      "source": "用户确认优化：https://www.svgrepo.com/svg/324525/dualsense (CC0) 按键路径，重绘黑白外壳、蓝色灯带及摇杆",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,729 @@
+{
+  "collection_id": 30,
+  "schema_version": 1,
+  "id": 58,
+  "title": "Amazon",
+  "url": "https://www.amazon.com",
+  "domains": [
+    "amazon.com",
+    "amazon.de",
+    "amazon.co.jp",
+    "amazon.co.uk",
+    "amazon.in",
+    "amazon.it"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "电商",
+    "购物",
+    "亚马逊",
+    "Amazon",
+    "amazon.com",
+    "amazon.de",
+    "amazon.co.jp",
+    "amazon.co.uk",
+    "amazon.in",
+    "amazon.it"
+  ],
+  "aliases": [
+    "amazon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3637,
+      "collection": "已有图标",
+      "file": "amazon.svg",
+      "id": 137,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "Fair use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amazon.svg",
+        "original_is_default": true,
+        "original_slug": "amazon"
+      },
+      "sha256": "a986f08e14174acfeb55a6cf19e20016672992ff7ad9cc50bc501da99cfe6a71",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2575,
+      "collection": "GoTab 公开资源库",
+      "file": "amazon-1.svg",
+      "gotab_id": 265,
+      "id": 138,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "amazon-1.svg",
+        "original_is_default": false,
+        "original_slug": "amazon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2353,
+        "previous_sha256": "bd36105254901caeabe8d6b079ddd44a0bb553f67830d4a52dbec198b4dfd8d6",
+        "ratio": 0.2
+      },
+      "sha256": "696842a9e34a8310821490dee317c9c5fb68ded67d51b5ea8262160f2bc8c60f",
+      "source": "https://web.gotab.cn/sourceStore/website/01KJAC7KRZFZDF9TV1N9EDE8AR.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2406,
+      "collection": "已有图标",
+      "file": "amazon-2.svg",
+      "id": 139,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amazon-2.svg",
+        "original_is_default": false,
+        "original_slug": "amazon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2181,
+        "previous_sha256": "72a1c2d130f3da3e1b4d4c06bb64ebb1af1ad9eff9fe5a27a7c3504a83df2757",
+        "ratio": 0.2
+      },
+      "sha256": "6ab4fd6794e0e877ce7a5963cbbc301fd7a2418d393eaf8ee4fc867635833b50",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2554,
+      "collection": "已有图标",
+      "file": "amazon-3.svg",
+      "id": 140,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amazon-3.svg",
+        "original_is_default": false,
+        "original_slug": "amazon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2331,
+        "previous_sha256": "398628fd8fab4a6fc9d0e628e081af17cc3940df1643490dc6f6e07444364b67",
+        "ratio": 0.2
+      },
+      "sha256": "d397b5e7f4ca2618bc4107a33bce96f47444f8cac8ea0882efee5e4e0bf84b88",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2602,
+      "collection": "已有图标",
+      "file": "amazon-4.svg",
+      "id": 141,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amazon-4.svg",
+        "original_is_default": false,
+        "original_slug": "amazon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2379,
+        "previous_sha256": "52a5eef88b57fc284d76d742e91425e93a879eeb1dc157381a809f872cb6f0b5",
+        "ratio": 0.2
+      },
+      "sha256": "abe1efbd66b61d5f82f4d4b98e87a6e540a4c31fdfd1a1ae288b96ad0829c47c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-light.svg",
+      "version": 4
+    },
+    {
+      "bytes": 3839,
+      "collection": "已有图标",
+      "file": "amazon-5.svg",
+      "id": 142,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amazon-5.svg",
+        "original_is_default": false,
+        "original_slug": "amazon"
+      },
+      "sha256": "ddb0720fa76afa3ad01194aaeeb0f9f95c8bdf2695d5662ca2dd34e7309e600f",
+      "source": "https://cdn.worldvectorlogo.com/logos/logo-amazon.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 59,
+      "key": "audible",
+      "title": "Audible",
+      "url": "https://audible.com",
+      "domains": [
+        "audible.com"
+      ],
+      "description": "",
+      "category": "阅读",
+      "tags": [
+        "全球App补充",
+        "阅读",
+        "亚马逊",
+        "Audible",
+        "audible.com"
+      ],
+      "aliases": [
+        "audible"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 967,
+          "collection": "theSVG",
+          "file": "amazon-audible.svg",
+          "id": 143,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "audible.svg",
+            "original_is_default": true,
+            "original_slug": "audible"
+          },
+          "rounded_corners": {
+            "previous_bytes": 734,
+            "previous_sha256": "3bfc33e96f555a7ffc188e2151d8908e7297646e1821e8573d24e40d71c5c76e",
+            "ratio": 0.2
+          },
+          "sha256": "6635228b4e9fdf48e223cfed08c32ab42cf0feb0cdd2ab6bfe02f0d93f56e6a3",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/audible/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 967,
+          "collection": "theSVG",
+          "file": "amazon-audible-1.svg",
+          "id": 144,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "audible-1.svg",
+            "original_is_default": false,
+            "original_slug": "audible"
+          },
+          "rounded_corners": {
+            "previous_bytes": 734,
+            "previous_sha256": "fc8471acb1d4d8ec8822b7c7a8726272ea93e02b08379d9ed8acd555055f931a",
+            "ratio": 0.2
+          },
+          "sha256": "1a3c463053d15c97b83d1b173c6e263975e329102be3586317e18df7ea52316b",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/audible/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1206,
+          "collection": "Iconify / arcticons",
+          "file": "amazon-audible-2.svg",
+          "id": 145,
+          "is_default": false,
+          "label": "audible",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "audible-2.svg",
+            "original_is_default": false,
+            "original_slug": "audible"
+          },
+          "rounded_corners": {
+            "previous_bytes": 973,
+            "previous_sha256": "75e1edba1998fb50d7d55b1c6ea6833512d4223d5fcb4197585250000d600005",
+            "ratio": 0.2
+          },
+          "sha256": "bc887a0c94191b8e94ff1e505d5f2831c66bfc1e13661b62efdb2e8cf966b4f6",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#audible",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 60,
+      "key": "aws",
+      "title": "Amazon Web Services",
+      "url": "https://aws.amazon.com",
+      "domains": [
+        "aws.amazon.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "全球App补充",
+        "云计算",
+        "亚马逊",
+        "Amazon Web Services",
+        "aws",
+        "amazonwebservices",
+        "amazon-web-services",
+        "aws.amazon.com"
+      ],
+      "aliases": [
+        "aws",
+        "amazonwebservices",
+        "amazon-web-services"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3495,
+          "collection": "theSVG",
+          "file": "amazon-aws.svg",
+          "id": 146,
+          "is_default": true,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws.svg",
+            "original_is_default": true,
+            "original_slug": "aws"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3262,
+            "previous_sha256": "ee1cdff8d507503336f5ebacab8e168ff5284d2fd1b41a9ad1ea4001eccdb5cc",
+            "ratio": 0.2
+          },
+          "sha256": "01c9848a952485601b90105408c3139b8c36b0d2d68e93081a3806c439477d39",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/aws/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1306,
+          "collection": "theSVG",
+          "file": "amazon-aws-1.svg",
+          "id": 147,
+          "is_default": false,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-1.svg",
+            "original_is_default": false,
+            "original_slug": "aws"
+          },
+          "sha256": "119605a7d4e9186713da6ad95308add272b27beb3d7f58081821da462bc35755",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon-web-services/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3705,
+          "collection": "theSVG",
+          "file": "amazon-aws-2.svg",
+          "id": 148,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-2.svg",
+            "original_is_default": false,
+            "original_slug": "aws"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3480,
+            "previous_sha256": "0a4d59cc55a4a629827a694385129defca541d476735abad9cf8dd41381fc904",
+            "ratio": 0.2
+          },
+          "sha256": "7b1c1eac4d5af4c63cced0e98f7380e5e4b8e30b30a7b74198e0c95fbf72d38f",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon-web-services-badge/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1306,
+          "collection": "theSVG",
+          "file": "amazon-aws-3.svg",
+          "id": 149,
+          "is_default": false,
+          "label": "light",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-3.svg",
+            "original_is_default": false,
+            "original_slug": "aws"
+          },
+          "sha256": "2a5d9c990e5a5a7fea10ad64c8298c42fc2b92acff777d9638a102c0174b350e",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon-web-services/light.svg",
+          "version": 3
+        },
+        {
+          "bytes": 3487,
+          "collection": "theSVG",
+          "file": "amazon-aws-4.svg",
+          "id": 150,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-4.svg",
+            "original_is_default": false,
+            "original_slug": "aws"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3254,
+            "previous_sha256": "9064b4ffa60f975032a5aa120ae4929b063b2994e12f21bf81f74317f04082bc",
+            "ratio": 0.2
+          },
+          "sha256": "63ec6e87d4f0ad13f14d45e641b16e029987a291e6d47457c4b7975fd9cec2ab",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/aws/mono.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 61,
+      "key": "kindle",
+      "title": "Kindle",
+      "url": "https://read.amazon.com",
+      "domains": [
+        "read.amazon.com"
+      ],
+      "description": "",
+      "category": "阅读",
+      "tags": [
+        "全球App补充",
+        "阅读",
+        "亚马逊",
+        "Kindle",
+        "amazonkindle",
+        "amazon-kindle",
+        "read.amazon.com"
+      ],
+      "aliases": [
+        "kindle",
+        "amazonkindle",
+        "amazon-kindle"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5513,
+          "collection": "theSVG",
+          "file": "amazon-kindle.svg",
+          "id": 151,
+          "is_default": true,
+          "label": "default",
+          "license": "Fair use",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "kindle.svg",
+            "original_is_default": true,
+            "original_slug": "kindle"
+          },
+          "sha256": "66dca4d4d6e047d6e1991cb6b47f80e6c9e468d06ba050372b84a4dd30485eaa",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon-kindle/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3557,
+          "collection": "theSVG",
+          "file": "amazon-kindle-1.svg",
+          "id": 152,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "Fair use",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "kindle-1.svg",
+            "original_is_default": false,
+            "original_slug": "kindle"
+          },
+          "sha256": "70d24bba1e2c020204f30280ee58447faaa02d36292937c160042e44fa0e76a6",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/amazon-kindle/wordmark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2251,
+          "collection": "Iconify / arcticons",
+          "file": "amazon-kindle-2.svg",
+          "id": 153,
+          "is_default": false,
+          "label": "kindle",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "kindle-2.svg",
+            "original_is_default": false,
+            "original_slug": "kindle"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2018,
+            "previous_sha256": "7f381869a31f74fecc61faebf71ccfba6b041950cdd8ba29a1924522aafc5d80",
+            "ratio": 0.2
+          },
+          "sha256": "25c97e02247eab76d34ce4d25dd5bd1dd3d7bf98bdaa2c43c11998e3c7e4f341",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#kindle",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 62,
+      "key": "prime-video",
+      "title": "Prime video",
+      "url": "https://primevideo.com",
+      "domains": [
+        "primevideo.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球Top100",
+        "影音",
+        "亚马逊",
+        "视频",
+        "在线视频",
+        "Prime video",
+        "prime-video",
+        "primevideo.com"
+      ],
+      "aliases": [
+        "prime-video"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 7009,
+          "collection": "theSVG",
+          "file": "amazon-prime-video.svg",
+          "id": 154,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "prime-video.svg",
+            "original_is_default": true,
+            "original_slug": "prime-video"
+          },
+          "sha256": "d0ef5769abc61efda983affa9fe3e6a0aeb10e4b501bb7f3adf96a16e875af25",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/prime-video/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 17928,
+          "collection": "Dashboard Icons",
+          "file": "amazon-prime-video-1.svg",
+          "id": 155,
+          "is_default": false,
+          "label": "prime-video-alt",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "prime-video-1.svg",
+            "original_is_default": false,
+            "original_slug": "prime-video"
+          },
+          "rounded_corners": {
+            "previous_bytes": 17705,
+            "previous_sha256": "40e4e6853046b117adeea1dd3061de47f367f208b0bc3f6af9a846966dd75cdb",
+            "ratio": 0.2
+          },
+          "sha256": "a4beb66e86b92c98d86a5024aac0959f093e8ad7dd124290b61421601d400c54",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prime-video-alt.svg",
+          "version": 1
+        },
+        {
+          "bytes": 6924,
+          "collection": "Dashboard Icons",
+          "file": "amazon-prime-video-2.svg",
+          "id": 156,
+          "is_default": false,
+          "label": "prime-video-light",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "prime-video-2.svg",
+            "original_is_default": false,
+            "original_slug": "prime-video"
+          },
+          "sha256": "a3a310d26ad80bc6daffd9981c7ce5cfae9b720b45da9d565a1c8ad690eb0901",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prime-video-light.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 63,
+      "key": "twitch",
+      "title": "Twitch",
+      "url": "https://twitch.tv",
+      "domains": [
+        "twitch.tv"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "影音",
+        "亚马逊",
+        "Twitch",
+        "twitch.tv"
+      ],
+      "aliases": [
+        "twitch"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 459,
+          "collection": "已有图标",
+          "file": "amazon-twitch.svg",
+          "id": 157,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "twitch.svg",
+            "original_is_default": true,
+            "original_slug": "twitch"
+          },
+          "sha256": "b7ad55baeeb11a87ad79572eb159c9692232c03ebbaf4d5f1eb173dd41b4ef61",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/twitch/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1144,
+          "collection": "GoTab 公开资源库",
+          "file": "amazon-twitch-1.svg",
+          "gotab_id": 289,
+          "id": 158,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "twitch-1.svg",
+            "original_is_default": false,
+            "original_slug": "twitch"
+          },
+          "rounded_corners": {
+            "previous_bytes": 922,
+            "previous_sha256": "53b82937d6264de4ad4b2d002ab52eaae175cdfab2680bd6acb9d14c7488fc8c",
+            "ratio": 0.2
+          },
+          "sha256": "53beb5dca09d905aff226d7bbdc853dbb037e3eb8bc58c4f0cccdeaae0bf8757",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNWQZ1KT1ENN8ACKX6HQ755.svg",
+          "version": 1
+        },
+        {
+          "bytes": 662,
+          "collection": "已有图标",
+          "file": "amazon-twitch-2.svg",
+          "id": 159,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "twitch-2.svg",
+            "original_is_default": false,
+            "original_slug": "twitch"
+          },
+          "rounded_corners": {
+            "previous_bytes": 437,
+            "previous_sha256": "03676473aff13fb46c000c8f21cc7f0bfa581c2ff22ca3a423430c6c3c7831b0",
+            "ratio": 0.2
+          },
+          "sha256": "ff91ef97438701fc97340b2529dca8f0108ba8ab1086cf032387b8a752b18c34",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/twitch-badge/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 618,
+          "collection": "已有图标",
+          "file": "amazon-twitch-3.svg",
+          "id": 160,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "twitch-3.svg",
+            "original_is_default": false,
+            "original_slug": "twitch"
+          },
+          "rounded_corners": {
+            "previous_bytes": 385,
+            "previous_sha256": "2093d98c0126bd9ab9403bf2e72c015e71e9f7e525ddb63fe49992d93debf032",
+            "ratio": 0.2
+          },
+          "sha256": "01b49c3f2d52944e629480f323cb9730187f6d4d24cad546af7ea08604b4c7f7",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/twitch/mono.svg",
+          "version": 3
+        },
+        {
+          "bytes": 693,
+          "collection": "已有图标",
+          "file": "amazon-twitch-4.svg",
+          "id": 161,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "twitch-4.svg",
+            "original_is_default": false,
+            "original_slug": "twitch"
+          },
+          "sha256": "f77fed83f0aa068d3e1452b951d8dc06e154db6da36de3042511a27e1ee10a22",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twitch.svg",
+          "version": 4
+        },
+        {
+          "bytes": 618,
+          "collection": "已有图标",
+          "file": "amazon-twitch-5.svg",
+          "id": 162,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "twitch-5.svg",
+            "original_is_default": false,
+            "original_slug": "twitch"
+          },
+          "rounded_corners": {
+            "previous_bytes": 385,
+            "previous_sha256": "156fc1595ea141a464efb3d4bddb0a9a517f78a7953d9169e751e6492b125c2c",
+            "ratio": 0.2
+          },
+          "sha256": "23d2fcb212213da5359120b5979ca9ca38059efec7bfa452e4d9e07b0f5e0c2e",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitch.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    }
+  ]
+}

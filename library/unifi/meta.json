@@ -1,0 +1,158 @@
+{
+  "collection_id": 397,
+  "schema_version": 1,
+  "id": 547,
+  "title": "UniFi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "用户优选",
+    "自用",
+    "硬件",
+    "设备",
+    "UniFi",
+    "Ubiquiti",
+    "路由器",
+    "网络设备"
+  ],
+  "aliases": [
+    "unifi"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1328,
+      "collection": "用户优选",
+      "file": "unifi.svg",
+      "id": 1373,
+      "is_default": true,
+      "label": "unifi",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "unifi.svg",
+        "original_is_default": true,
+        "original_slug": "unifi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1106,
+        "previous_sha256": "08a95baf96c5a87a004879a38bd6202e81d4867bdff90f61f3f83183659aa36b",
+        "ratio": 0.2
+      },
+      "sha256": "3445c644796309e1ef50215a76e47e70d851ec8729736a27b1bde7b2d1eb2a10",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 548,
+      "key": "cloud-gateway-fiber",
+      "title": "UniFi Cloud Gateway Fiber",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "用户优选",
+        "自用",
+        "硬件",
+        "设备",
+        "UniFi",
+        "Ubiquiti",
+        "路由器",
+        "网络设备",
+        "UniFi Cloud Gateway Fiber",
+        "unifi-cloud-gateway-fiber"
+      ],
+      "aliases": [
+        "unifi-cloud-gateway-fiber"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 189482,
+          "collection": "用户优化 SVG",
+          "file": "unifi-cloud-gateway-fiber.svg",
+          "id": 1374,
+          "is_default": true,
+          "label": "UCG FIBER",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "unifi-cloud-gateway-fiber.svg",
+            "original_is_default": true,
+            "original_slug": "unifi-cloud-gateway-fiber"
+          },
+          "rounded_corners": {
+            "previous_bytes": 189260,
+            "previous_sha256": "2bac3fd21624ffef555426e358abb1e8019c5a79b95eff32d95bf41d975e97d4",
+            "ratio": 0.2
+          },
+          "sha256": "b94f282f1dc5341bd9e53139cd63bfc11f3cdebfaab0632a9481778d1884b659",
+          "source": "用户确认优化：Cloud Gateway Fiber 保留原机身轮廓、圆角与阴影，合并相似颜色及透明度路径",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 549,
+      "key": "cloud-key-gen2",
+      "title": "UniFi Cloud Key Gen2",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "用户优选",
+        "自用",
+        "硬件",
+        "设备",
+        "UniFi",
+        "Ubiquiti",
+        "UniFi Cloud Key Gen2",
+        "unifi-cloud-key-gen2"
+      ],
+      "aliases": [
+        "unifi-cloud-key-gen2"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2886,
+          "collection": "用户优化 SVG",
+          "file": "unifi-cloud-key-gen2.svg",
+          "id": 1375,
+          "is_default": true,
+          "label": "uck-g2",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "unifi-cloud-key-gen2.svg",
+            "original_is_default": true,
+            "original_slug": "unifi-cloud-key-gen2"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2664,
+            "previous_sha256": "cb0d68b90603eb4b54942cf6f48ec2fc4b2609aed3e62fac01d4972ef8ce37ac",
+            "ratio": 0.2
+          },
+          "sha256": "37cf0661dbef5663e4f7b87a53f0d9ae63e1e49d58a2f58d633e349f8e649557",
+          "source": "用户确认重绘：UniFi Cloud Key Gen2 银色渐变机身、黑色前面板与蓝色指示灯",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

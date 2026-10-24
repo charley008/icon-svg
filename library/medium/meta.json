@@ -1,0 +1,126 @@
+{
+  "collection_id": 251,
+  "schema_version": 1,
+  "id": 351,
+  "title": "Medium",
+  "url": "https://medium.com",
+  "domains": [
+    "medium.com"
+  ],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "全球App补充",
+    "阅读",
+    "Medium",
+    "medium.com"
+  ],
+  "aliases": [
+    "medium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1305,
+      "collection": "theSVG",
+      "file": "medium.svg",
+      "id": 862,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medium.svg",
+        "original_is_default": true,
+        "original_slug": "medium"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1072,
+        "previous_sha256": "9d2d87d357c39c231b342046d6795a2b1505459b4f0e8b5e213127cb59b8d3bc",
+        "ratio": 0.2
+      },
+      "sha256": "b361f63c37fc3d95224f260871ebc55c3977cdf0918884c30ec04152ecb45b05",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/medium/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 640,
+      "collection": "Dashboard Icons",
+      "file": "medium-1.svg",
+      "id": 863,
+      "is_default": false,
+      "label": "medium",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medium-1.svg",
+        "original_is_default": false,
+        "original_slug": "medium"
+      },
+      "sha256": "9cc7e021a0e422ce48bfa742daa369dfbc9b557ad41b65e7349869a6e9d5b709",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/medium.svg",
+      "version": 1
+    },
+    {
+      "bytes": 685,
+      "collection": "Dashboard Icons",
+      "file": "medium-2.svg",
+      "id": 864,
+      "is_default": false,
+      "label": "medium-light",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medium-2.svg",
+        "original_is_default": false,
+        "original_slug": "medium"
+      },
+      "sha256": "0e15047626981e9065ff168d08a3b2091c7d43e49a6b48c0095d9b256ddf0ba6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/medium-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3127,
+      "collection": "Iconify / logos",
+      "file": "medium-3.svg",
+      "id": 865,
+      "is_default": false,
+      "label": "medium",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medium-3.svg",
+        "original_is_default": false,
+        "original_slug": "medium"
+      },
+      "sha256": "56f4a03cd46f834152d523ba99af21229ef07df364d60d3aa394e146413dba8d",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#medium",
+      "version": 3
+    },
+    {
+      "bytes": 1258,
+      "collection": "Iconify / ri",
+      "file": "medium-4.svg",
+      "id": 866,
+      "is_default": false,
+      "label": "medium-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medium-4.svg",
+        "original_is_default": false,
+        "original_slug": "medium"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1025,
+        "previous_sha256": "5eae201755870b6192eb439c264bb262a4718f6e3a3788de38af41e25a756bef",
+        "ratio": 0.2
+      },
+      "sha256": "34210cafe891fffaa02dde40abdade432436bc87815e55b000f71aeffe19099f",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#medium-line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

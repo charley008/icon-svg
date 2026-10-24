@@ -1,0 +1,143 @@
+{
+  "collection_id": 7,
+  "schema_version": 1,
+  "id": 7,
+  "title": "1Password",
+  "url": "https://1password.com",
+  "domains": [
+    "1password.com"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "全球App补充",
+    "系统工具",
+    "密码管理",
+    "密码保险箱",
+    "1Password",
+    "1password.com"
+  ],
+  "aliases": [
+    "1password"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1536,
+      "collection": "theSVG",
+      "file": "1password.svg",
+      "id": 14,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "1password.svg",
+        "original_is_default": true,
+        "original_slug": "1password"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1311,
+        "previous_sha256": "49f9953edcd2e8c8e29325bec178a8cbb870edacabc8a93c392d5e6b3e3cbd71",
+        "ratio": 0.2
+      },
+      "sha256": "7a0f804df76d51c5a77476779e93a68d854a5ff51a0e99a79c26b52501fb32e4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/1password-badge/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1449,
+      "collection": "theSVG",
+      "file": "1password-1.svg",
+      "id": 15,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "1password-1.svg",
+        "original_is_default": false,
+        "original_slug": "1password"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1230,
+        "previous_sha256": "78f348d0ae31faf2bb2bbfe5abef9d3efc31d1672d410b63839fa59d2e4e740f",
+        "ratio": 0.2
+      },
+      "sha256": "3e6b49b4b427cdb75a9fb00bee36a0e7fd577676ca80360ded1524f2fcc43015",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/1password/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1449,
+      "collection": "theSVG",
+      "file": "1password-2.svg",
+      "id": 16,
+      "is_default": false,
+      "label": "light",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "1password-2.svg",
+        "original_is_default": false,
+        "original_slug": "1password"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1230,
+        "previous_sha256": "f2bf791a5a5f32288f8b1ab3ea56dcaac4021660980d36623a78a34bf305f933",
+        "ratio": 0.2
+      },
+      "sha256": "85d9746d78514c5abf6c44d457e9993664251693e3afc2d57a52234a07465940",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/1password/light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1619,
+      "collection": "Dashboard Icons",
+      "file": "1password-3.svg",
+      "id": 17,
+      "is_default": false,
+      "label": "1password",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "1password-3.svg",
+        "original_is_default": false,
+        "original_slug": "1password"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1380,
+        "previous_sha256": "6ac81fb7d4b3447ad615d2c013d78df1d50dfb25d99cbb51ec63806fed21465b",
+        "ratio": 0.2
+      },
+      "sha256": "1658583ea44987fac1992064199c2fffb7d37e5c97de8219f5e96f51fcb62953",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/1password.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1619,
+      "collection": "Dashboard Icons",
+      "file": "1password-4.svg",
+      "id": 18,
+      "is_default": false,
+      "label": "1password-dark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "1password-4.svg",
+        "original_is_default": false,
+        "original_slug": "1password"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1380,
+        "previous_sha256": "c50b48769c13285aa6acf332b5f80da3d211fb8a270f047556f0f6e650d3034e",
+        "ratio": 0.2
+      },
+      "sha256": "850acbfcaebc279a5194d810788cbc3a49235b6aac72336b92695a42dda9f926",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/1password-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

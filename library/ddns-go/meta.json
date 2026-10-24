@@ -1,0 +1,46 @@
+{
+  "collection_id": 110,
+  "schema_version": 1,
+  "id": 180,
+  "title": "DDNS-GO",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "动态域名",
+    "DDNS",
+    "DDNS-GO"
+  ],
+  "aliases": [
+    "ddns-go"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 6491,
+      "collection": "用户优化 SVG",
+      "file": "ddns-go.svg",
+      "id": 433,
+      "is_default": true,
+      "label": "ddns-go",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "ddns-go.svg",
+        "original_is_default": true,
+        "original_slug": "ddns-go"
+      },
+      "sha256": "e64f26797c9c48b08b7615adec35b1459a6b6cc53524091d987919f9fff88e90",
+      "source": "用户提供替换：ddns-go.svg（DNS 吉祥物版）",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

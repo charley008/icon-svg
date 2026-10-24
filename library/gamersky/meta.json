@@ -1,0 +1,54 @@
+{
+  "collection_id": 164,
+  "schema_version": 1,
+  "id": 235,
+  "title": "游民星空",
+  "url": "https://gamersky.com",
+  "domains": [
+    "gamersky.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "游戏",
+    "游民星空",
+    "gamersky",
+    "gamersky.com"
+  ],
+  "aliases": [
+    "gamersky"
+  ],
+  "notes": [
+    "按用户提供素材重新描摹，背景使用原生矢量形状及渐变。"
+  ],
+  "icons": [
+    {
+      "bytes": 21780,
+      "collection": "用户提供素材",
+      "file": "gamersky.svg",
+      "id": 582,
+      "is_default": true,
+      "label": "参考图重绘",
+      "license": "品牌商标归权利人；用户提供参考素材",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "gamersky.svg",
+        "original_is_default": true,
+        "original_slug": "gamersky"
+      },
+      "render_rmse": 25.989,
+      "rounded_corners": {
+        "previous_bytes": 21558,
+        "previous_sha256": "4105b58ac28f268a6b8ee6d70fbfb4ff6406739b18e6172359c71f03655a52bb",
+        "ratio": 0.2
+      },
+      "sha256": "5f0bcc8a3776dd90dd1f522d42a01dbbe0a6fd1c4eec1e5d67b8bb47ae105e02",
+      "source": "用户提供素材",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

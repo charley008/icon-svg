@@ -1,0 +1,44 @@
+{
+  "collection_id": 394,
+  "schema_version": 1,
+  "id": 543,
+  "title": "Tynimedia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "用户优选",
+    "自用",
+    "Tynimedia"
+  ],
+  "aliases": [
+    "tynimedia"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。",
+    "原展示名称：Tynimedia（原目录图标）"
+  ],
+  "icons": [
+    {
+      "bytes": 2316,
+      "collection": "用户优化 SVG",
+      "file": "tynimedia.svg",
+      "id": 1362,
+      "is_default": true,
+      "label": "tynimedia",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "tynimedia.svg",
+        "original_is_default": true,
+        "original_slug": "tynimedia"
+      },
+      "sha256": "802ef0ff4c3896c21dca758cf98245fb701447f135c763503244423137a6a509",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiny-media-manager.svg；用户确认同款彩色矢量版，统一画布与留白",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

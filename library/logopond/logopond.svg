@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-7185.28,-3305.01)">
+        <g id="设计素材">
+        </g>
+        <g id="样机">
+        </g>
+        <g id="LogoPond" transform="matrix(1,0,0,1,7185.28,3305.01)">
+            <rect x="0" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1,0,0,1,-6200.47,-599.224)">
+                <path d="M6478.05,985.554C6470.97,986.102 6463.77,986.383 6456.47,986.383C6349.09,986.383 6261.91,925.389 6261.91,850.26C6261.91,775.132 6349.09,714.137 6456.47,714.137C6559.33,714.137 6643.66,770.103 6650.57,840.848C6650.57,864.25 6632.64,927.472 6542.57,896.294C6540.38,898.496 6539.07,900.416 6537.56,902.109C6550.68,912.345 6582.41,971.321 6478.05,985.554Z" style="fill:rgb(64,175,73);" />
+            </g>
+            <g transform="matrix(1,0,0,1,-6200.47,-599.224)">
+                <path d="M6554.49,793.816L6595.3,793.816C6595.3,873.392 6530.69,937.997 6451.11,937.997C6371.54,937.997 6306.93,873.392 6306.93,793.816L6346.73,793.816C6348.35,778.246 6352.79,762.907 6360.06,748.59C6379.62,752.421 6397.75,760.65 6413.24,772.355C6422.03,755.045 6434.71,739.704 6450.61,727.684C6466.52,739.704 6479.2,755.045 6487.99,772.355C6503.47,760.65 6521.6,752.421 6541.16,748.59C6548.43,762.907 6552.88,778.246 6554.49,793.816Z" style="fill:white;" />
+            </g>
+            <g transform="matrix(1,0,0,1,-6200.47,-599.224)">
+                <path d="M6407.75,828.688C6430.99,842.849 6451.07,870.638 6456.47,883.493C6490.7,862.261 6500.22,828.308 6501.88,814.174C6484.43,812.788 6453.94,828.862 6450.61,832.188C6451.17,820.548 6449.78,802.257 6446.46,796.714C6435.09,801.426 6416.25,811.464 6407.75,828.688Z" style="fill:rgb(252,175,23);" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

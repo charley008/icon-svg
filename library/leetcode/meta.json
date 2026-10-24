@@ -1,0 +1,51 @@
+{
+  "collection_id": 235,
+  "schema_version": 1,
+  "id": 335,
+  "title": "力扣 LeetCode",
+  "url": "https://leetcode.cn",
+  "domains": [
+    "leetcode.cn"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "力扣 LeetCode",
+    "leetcode",
+    "leetcode.cn"
+  ],
+  "aliases": [
+    "leetcode"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2125,
+      "collection": "GoTab 公开资源库",
+      "file": "leetcode.svg",
+      "gotab_id": 68,
+      "id": 829,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "leetcode.svg",
+        "original_is_default": true,
+        "original_slug": "leetcode"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1903,
+        "previous_sha256": "f468d1209cd3a36b24a63025c0afb6b0679fe6e982b0544fc86ad0354b10d098",
+        "ratio": 0.2
+      },
+      "sha256": "972502b0286ccbbffceeeb3d4e5683854af616970035a2f7c2064bff3da8247a",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKE7SH8828H3AJHJSH9DBT.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

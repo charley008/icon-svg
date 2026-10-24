@@ -1,0 +1,57 @@
+{
+  "collection_id": 384,
+  "schema_version": 1,
+  "id": 533,
+  "title": "tenki.jp 日本天气",
+  "url": "https://tenki.jp",
+  "domains": [
+    "tenki.jp"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "全球Top100",
+    "生活服务",
+    "tenki.jp 日本天气",
+    "tenki",
+    "tenki.jp"
+  ],
+  "aliases": [
+    "tenki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2777,
+      "collection": "轻量矢量替换",
+      "file": "tenki.svg",
+      "id": 1330,
+      "is_default": true,
+      "label": "mark",
+      "license": "CC0-1.0; trademark-owner",
+      "method": "downloaded-vector-adaptation",
+      "provenance": {
+        "original_file": "tenki.svg",
+        "original_is_default": true,
+        "original_slug": "tenki"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "45d6c143a4c062064196e63c3da52d8e360063252da0611d646ce429634aa203",
+        "previous_bytes": 832669,
+        "previous_method": "traced-detail",
+        "previous_source": "https://tenki.jp/favicon.ico",
+        "reference": "https://www.svgrepo.com/show/519670/tenki-jp.svg",
+        "note": "采用 SVG Repo 的原生几何路径，按原图恢复蓝色立方体、红色太阳和白云；页面标注 CC0，品牌商标权归原权利人。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "3effa6ea60e1d6986452f7b6788dedda4022ac17eb00b3db6c0daaaadb4d4096",
+      "source": "https://www.svgrepo.com/show/519670/tenki-jp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

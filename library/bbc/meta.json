@@ -1,0 +1,70 @@
+{
+  "collection_id": 50,
+  "schema_version": 1,
+  "id": 97,
+  "title": "BBC",
+  "url": "https://bbc.com",
+  "domains": [
+    "bbc.com",
+    "bbc.co.uk"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "全球Top100",
+    "新闻",
+    "资讯",
+    "BBC",
+    "bbc.com",
+    "bbc.co.uk"
+  ],
+  "aliases": [
+    "bbc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1320,
+      "collection": "theSVG",
+      "file": "bbc.svg",
+      "id": 241,
+      "is_default": true,
+      "label": "default",
+      "license": "Fair Use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bbc.svg",
+        "original_is_default": true,
+        "original_slug": "bbc"
+      },
+      "sha256": "c25bf654a5c3a96810d5f32efdbb491e65831da52b307e3d953910d109e3f74f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bbc/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1074,
+      "collection": "Iconify / arcticons",
+      "file": "bbc-1.svg",
+      "id": 242,
+      "is_default": false,
+      "label": "bbc",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bbc-1.svg",
+        "original_is_default": false,
+        "original_slug": "bbc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 841,
+        "previous_sha256": "68e8149f8cb8e0665b0484b1d0e851e27cce48df859804e8b0494971d14e68c9",
+        "ratio": 0.2
+      },
+      "sha256": "a9d18df9861bf8a14fb116d27f484f0008d1f1a8f12d58e79c9b7fe9a77bf4ac",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#bbc",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

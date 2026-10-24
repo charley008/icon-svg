@@ -1,0 +1,52 @@
+{
+  "collection_id": 374,
+  "schema_version": 1,
+  "id": 507,
+  "title": "苏宁易购",
+  "url": "https://suning.com",
+  "domains": [
+    "suning.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "苏宁易购",
+    "suning",
+    "suning.com"
+  ],
+  "aliases": [
+    "suning"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2972,
+      "collection": "GoTab 公开资源库",
+      "file": "suning.svg",
+      "gotab_id": 100,
+      "id": 1281,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "suning-1.svg",
+        "original_is_default": true,
+        "original_slug": "suning"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2750,
+        "previous_sha256": "164b204f5b45ce6929bf93b974dbada6d6c8481796fd35728201d2c1e0e49836",
+        "ratio": 0.2
+      },
+      "sha256": "db7e9f76e44615638936ce986a2221d0f162006f3f7ccc8c1fae55628068b294",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HQYZ4HK0R5XAE1CJ8XMQCC.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

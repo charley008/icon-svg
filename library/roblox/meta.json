@@ -1,0 +1,132 @@
+{
+  "collection_id": 339,
+  "schema_version": 1,
+  "id": 469,
+  "title": "Roblox",
+  "url": "https://roblox.com",
+  "domains": [
+    "roblox.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "游戏",
+    "Roblox",
+    "roblox.com"
+  ],
+  "aliases": [
+    "roblox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 530,
+      "collection": "theSVG",
+      "file": "roblox.svg",
+      "id": 1170,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "roblox.svg",
+        "original_is_default": true,
+        "original_slug": "roblox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 297,
+        "previous_sha256": "6648c616168884abfa193b2201aa057a594ceff598992014381d692b0f68df68",
+        "ratio": 0.2
+      },
+      "sha256": "6b29ac007496c419464c821f2767a8a7453e279ea727cbed55fe17cd49eea332",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/roblox/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 572,
+      "collection": "theSVG",
+      "file": "roblox-1.svg",
+      "id": 1171,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "roblox-1.svg",
+        "original_is_default": false,
+        "original_slug": "roblox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 347,
+        "previous_sha256": "895b3d0c7f3cc7c7e77bf5a8668f870a1e79fffce595b9c8cdd62493125970a1",
+        "ratio": 0.2
+      },
+      "sha256": "5362075b564fc6b6b21b64899b26f4c58cdeb148fe130bc4e591b5cfd9ebca70",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/roblox-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1483,
+      "collection": "theSVG",
+      "file": "roblox-2.svg",
+      "id": 1172,
+      "is_default": false,
+      "label": "light",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "roblox-2.svg",
+        "original_is_default": false,
+        "original_slug": "roblox"
+      },
+      "sha256": "a973aeb3f0eb11af3d3043deb7f66017d7665b75be931f1301badfc10f4851b4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/roblox/light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1483,
+      "collection": "theSVG",
+      "file": "roblox-3.svg",
+      "id": 1173,
+      "is_default": false,
+      "label": "dark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "roblox-3.svg",
+        "original_is_default": false,
+        "original_slug": "roblox"
+      },
+      "sha256": "20dc7830516332ce5654dd9e17271da724aef28f10332b0868425de308e25be9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/roblox/dark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 917,
+      "collection": "Iconify / arcticons",
+      "file": "roblox-4.svg",
+      "id": 1174,
+      "is_default": false,
+      "label": "roblox",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "roblox-4.svg",
+        "original_is_default": false,
+        "original_slug": "roblox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 684,
+        "previous_sha256": "ba71e1882475f6f2fed4a1a7a40d5236af79a176572d3c5111eaa3e3fa5a3e3b",
+        "ratio": 0.2
+      },
+      "sha256": "4d14ed8904ff0af094bbb1d3afaa2170c7c81ffd248c759b1c2fa7f8eb818eaf",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#roblox",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

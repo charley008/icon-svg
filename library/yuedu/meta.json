@@ -1,0 +1,49 @@
+{
+  "collection_id": 442,
+  "schema_version": 1,
+  "id": 603,
+  "title": "阅读",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "用户优选",
+    "自用",
+    "阅读",
+    "yuedu"
+  ],
+  "aliases": [
+    "yuedu"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1183,
+      "collection": "用户优化 SVG",
+      "file": "yuedu.svg",
+      "id": 1511,
+      "is_default": true,
+      "label": "yuedu",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "yuedu.svg",
+        "original_is_default": true,
+        "original_slug": "yuedu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 961,
+        "previous_sha256": "f13e411ed522cb810da485374cb7114d95b67c4f221fc7b438d1d39ecb2abad6",
+        "ratio": 0.2
+      },
+      "sha256": "02e13a025a1b1f668fce386efd590d94644127fbd300320d9a8b84131e56928e",
+      "source": "用户确认重绘：阅读图标深灰圆角渐变底与绿色渐变M",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,99 @@
+{
+  "collection_id": 392,
+  "schema_version": 1,
+  "id": 541,
+  "title": "Trip.com",
+  "url": "https://trip.com",
+  "domains": [
+    "trip.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球Top100",
+    "出行",
+    "Trip.com",
+    "trip-com",
+    "tripdotcom",
+    "trip"
+  ],
+  "aliases": [
+    "trip-com",
+    "tripdotcom",
+    "trip"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1077,
+      "collection": "theSVG",
+      "file": "trip-com.svg",
+      "id": 1354,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trip-com.svg",
+        "original_is_default": true,
+        "original_slug": "trip-com"
+      },
+      "rounded_corners": {
+        "previous_bytes": 844,
+        "previous_sha256": "549bc4d8e4284832393f1833a236bd9fce72c82fa4807a3c988b801b41988227",
+        "ratio": 0.2
+      },
+      "sha256": "3aa4d7142f7485e5930de54a6682ca9fc0ed78e4bcb88559d1a3e31c8296ed8f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tripdotcom/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1077,
+      "collection": "theSVG",
+      "file": "trip-com-1.svg",
+      "id": 1355,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trip-com-1.svg",
+        "original_is_default": false,
+        "original_slug": "trip-com"
+      },
+      "rounded_corners": {
+        "previous_bytes": 844,
+        "previous_sha256": "b63a9d03aeebc73bdd5968c7beab809e3bad538a216ea66bddd50cc90b038a99",
+        "ratio": 0.2
+      },
+      "sha256": "7212959f6e59048676a69a8cd6b0c939dfcc4a3d3ce18d647b23ba195dc4753c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tripdotcom/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1143,
+      "collection": "Iconify / arcticons",
+      "file": "trip-com-2.svg",
+      "id": 1356,
+      "is_default": false,
+      "label": "tripcom",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trip-com-2.svg",
+        "original_is_default": false,
+        "original_slug": "trip-com"
+      },
+      "rounded_corners": {
+        "previous_bytes": 910,
+        "previous_sha256": "e3aff077651e879dafb281928229a413ec6757265afa664aa4bf6ac41b7a45e0",
+        "ratio": 0.2
+      },
+      "sha256": "f9fe5ac638409167f9b069d05a8d6aa97c16974128369a0f3ed3a6d00415c667",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#tripcom",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

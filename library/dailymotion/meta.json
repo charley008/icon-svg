@@ -1,0 +1,72 @@
+{
+  "collection_id": 107,
+  "schema_version": 1,
+  "id": 177,
+  "title": "dailymotion",
+  "url": "https://dailymotion.com",
+  "domains": [
+    "dailymotion.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "dailymotion",
+    "dailymotion.com"
+  ],
+  "aliases": [
+    "dailymotion"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1779,
+      "collection": "theSVG",
+      "file": "dailymotion.svg",
+      "id": 429,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dailymotion.svg",
+        "original_is_default": true,
+        "original_slug": "dailymotion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1546,
+        "previous_sha256": "51867780bf421ffbbdaff7b40d3448c6d9a5a9255ea492e436aee8ed60c902f3",
+        "ratio": 0.2
+      },
+      "sha256": "0d6e1e8dc1fe8616c0a4286d6d3726d3832dab617709614d2e78b500bb814c16",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dailymotion/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1485,
+      "collection": "Iconify / arcticons",
+      "file": "dailymotion-1.svg",
+      "id": 430,
+      "is_default": false,
+      "label": "dailymotion",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dailymotion-1.svg",
+        "original_is_default": false,
+        "original_slug": "dailymotion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1252,
+        "previous_sha256": "93901fd575d58eae421a9b2a195267b3e349e36f9709f691e84888987177349d",
+        "ratio": 0.2
+      },
+      "sha256": "ea605788c069b8b191c841ecc56d1718f357c4c71f5f537ff60942d337ae0092",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#dailymotion",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

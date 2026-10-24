@@ -1,0 +1,167 @@
+{
+  "collection_id": 444,
+  "schema_version": 1,
+  "id": 605,
+  "title": "站酷",
+  "url": "https://zcool.com.cn",
+  "domains": [
+    "zcool.com.cn"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "站酷",
+    "zcool",
+    "zcool.com.cn"
+  ],
+  "aliases": [
+    "zcool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1512,
+      "collection": "已有图标",
+      "file": "zcool.svg",
+      "id": 1515,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zcool.svg",
+        "original_is_default": true,
+        "original_slug": "zcool"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1279,
+        "previous_sha256": "cb85206faebbd8114b52226ceeb49e7cba74c4bdb7919d0431cf64f18ff73554",
+        "ratio": 0.2
+      },
+      "sha256": "26feff6a54b762ee5c9a15121598f8aff6b4871ae8bc20e1e05a57fc140469b9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zcool/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1951,
+      "collection": "GoTab 公开资源库",
+      "file": "zcool-1.svg",
+      "gotab_id": 71,
+      "id": 1516,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zcool-1.svg",
+        "original_is_default": false,
+        "original_slug": "zcool"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1729,
+        "previous_sha256": "fdaf82627a4749cbb5e0d693182ab70478222aba1a50fa389fc4b60d3c24aa35",
+        "ratio": 0.2
+      },
+      "sha256": "061147bcae1ad97777d191d5bba3796219abac96010bacc1fab91a8640e772ac",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKP2SFVCJ88MXAC3CEE5TY.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1512,
+      "collection": "已有图标",
+      "file": "zcool-2.svg",
+      "id": 1517,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zcool-2.svg",
+        "original_is_default": false,
+        "original_slug": "zcool"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1279,
+        "previous_sha256": "853cf9981036aeb9e27643bc40e005b2a32a4c27188bd5282c0fad2c734a0363",
+        "ratio": 0.2
+      },
+      "sha256": "13fd0a4542c024df97249191a737803e1ed88370c3d300c435140e57943c4447",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zcool/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1144,
+      "collection": "已有图标",
+      "file": "zcool-3.svg",
+      "id": 1518,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zcool-3.svg",
+        "original_is_default": false,
+        "original_slug": "zcool"
+      },
+      "rounded_corners": {
+        "previous_bytes": 911,
+        "previous_sha256": "a29ed17deaf5a2bd7aea170ada9baa51f3f9032d3ff58d354e441905d899e253",
+        "ratio": 0.2
+      },
+      "sha256": "a7388dca1d695deb4bc71902a8556ad9387958f2e08314f57635ecc8a9f950d4",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#zcool-fill",
+      "version": 3
+    },
+    {
+      "bytes": 1350,
+      "collection": "已有图标",
+      "file": "zcool-4.svg",
+      "id": 1519,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zcool-4.svg",
+        "original_is_default": false,
+        "original_slug": "zcool"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1117,
+        "previous_sha256": "7431e71fdb7ab0fc5ef7ea0810510c98a02dac69a7f7b4de466478aa46398588",
+        "ratio": 0.2
+      },
+      "sha256": "b1a9cb4243e985d085be81974e2d2836e69eb2325bc738d36b0b4fee6f155291",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#zcool-line",
+      "version": 4
+    },
+    {
+      "bytes": 2444,
+      "collection": "已有图标",
+      "file": "zcool-5.svg",
+      "id": 1520,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zcool-5.svg",
+        "original_is_default": false,
+        "original_slug": "zcool"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2224,
+        "previous_sha256": "dc3ea946b2005567c28d60e5e48d6467f2ffd3f9855a860af440165e7b6d5461",
+        "ratio": 0.2
+      },
+      "sha256": "b2dd036762643d490b4248d90b05be5517a5ed0d3de8ca7b213b0f91f3e3ace0",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/zcool.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

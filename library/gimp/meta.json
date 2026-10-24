@@ -1,0 +1,41 @@
+{
+  "title": "GIMP",
+  "url": "https://www.gimp.org/",
+  "domains": [
+    "www.gimp.org"
+  ],
+  "description": "开源图像编辑应用。",
+  "category": "设计素材",
+  "tags": [
+    "图像编辑",
+    "修图",
+    "GIMP"
+  ],
+  "aliases": [
+    "gimp",
+    "图像编辑",
+    "修图"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "gimp.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "519f0501d830242840db1aa632a65a2853fd5821c98c3abb5cfac3daa6c1dae5",
+      "bytes": 29410,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gimp.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "gimp.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

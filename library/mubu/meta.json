@@ -1,0 +1,58 @@
+{
+  "collection_id": 271,
+  "schema_version": 1,
+  "id": 389,
+  "title": "幕布",
+  "url": "https://mubu.com",
+  "domains": [
+    "mubu.com"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "国内补充",
+    "办公",
+    "效率工具",
+    "幕布",
+    "mubu",
+    "mubu.com"
+  ],
+  "aliases": [
+    "mubu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.mubu.iosapp",
+      "appstore_track": "https://apps.apple.com/cn/app/%E5%B9%95%E5%B8%83-%E5%A4%A7%E7%BA%B2%E7%AC%94%E8%AE%B0-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/id1214302139?uo=4",
+      "bytes": 75936,
+      "collection": "原图描摹",
+      "file": "mubu.svg",
+      "id": 980,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-detail",
+      "provenance": {
+        "original_file": "mubu.svg",
+        "original_is_default": true,
+        "original_slug": "mubu"
+      },
+      "render_rmse": 7.118,
+      "rounded_corners": {
+        "previous_bytes": 75714,
+        "previous_sha256": "96cafb06b2199e47cb4fd282f3693447c00300d3ad725310038e5f4f44908af5",
+        "ratio": 0.2
+      },
+      "sha256": "9935284f0fc42ae6385cf01e5ab5fce5b890bad04abe9984abb8144d4f412c49",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/57/af/b857af10-0185-b606-d6e2-98bb35552d01/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "source_size": [
+        512,
+        512
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

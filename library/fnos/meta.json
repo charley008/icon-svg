@@ -1,0 +1,79 @@
+{
+  "collection_id": 159,
+  "schema_version": 1,
+  "id": 230,
+  "title": "飞牛 fnOS",
+  "url": "https://fnnas.com",
+  "domains": [
+    "fnnas.com"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "系统工具",
+    "NAS",
+    "私有存储",
+    "飞牛 fnOS",
+    "fnos",
+    "fnnas.com"
+  ],
+  "aliases": [
+    "fnos"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1503,
+      "collection": "已有图标",
+      "file": "fnos.svg",
+      "id": 576,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "fnos.svg",
+        "original_is_default": true,
+        "original_slug": "fnos"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1281,
+        "previous_sha256": "0d3a31664561475aa3f824f2e4cc411e11be32315f4feecf9904e00c5258f36a",
+        "ratio": 0.2
+      },
+      "sha256": "37fc16f9c01c1a40d6e04cae20a978d7c3dc9042ce2c7c4fc82b4df9501d4252",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1722,
+      "collection": "GoTab 公开资源库",
+      "file": "fnos-1.svg",
+      "gotab_id": 228,
+      "id": 577,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "fnos-1.svg",
+        "original_is_default": false,
+        "original_slug": "fnos"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1500,
+        "previous_sha256": "d3fdcfddc1f418f5200a40526686a7c6c39c61b298ec8335a75be6ef86081958",
+        "ratio": 0.2
+      },
+      "sha256": "e22960aa68cd1fc953272714eb90517c3121b9310ff2648d5dceb460413b46de",
+      "source": "https://web.gotab.cn/uploads/202507/01K0R63PH44T3PFKW7T3X4YDQS.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

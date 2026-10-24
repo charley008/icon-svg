@@ -1,0 +1,68 @@
+{
+  "title": "Logitech",
+  "url": "https://www.logitech.com/",
+  "domains": [
+    "www.logitech.com"
+  ],
+  "description": "Logitech 旗下产品与服务。",
+  "category": "设备硬件",
+  "tags": [
+    "罗技",
+    "外设",
+    "Logitech"
+  ],
+  "aliases": [
+    "logitech",
+    "罗技",
+    "外设"
+  ],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "schema_version": 1,
+  "products": [
+    {
+      "title": "Logitech G",
+      "url": "https://www.logitechg.com/",
+      "domains": [
+        "www.logitechg.com"
+      ],
+      "description": "罗技游戏外设品牌。",
+      "category": "设备硬件",
+      "tags": [
+        "罗技G",
+        "游戏外设",
+        "电竞",
+        "Logitech G"
+      ],
+      "aliases": [
+        "logitech-g",
+        "logitech-gaming",
+        "罗技G",
+        "游戏外设",
+        "电竞"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "logitech-g.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "4e43c4241b45a28017270c4b14e21e09a3da5fecddb1da15207e812e2566b003",
+          "bytes": 548,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logitech-gaming.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "logitech-gaming.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "g"
+    }
+  ]
+}

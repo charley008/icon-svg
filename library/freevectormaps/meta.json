@@ -1,0 +1,51 @@
+{
+  "collection_id": 161,
+  "schema_version": 1,
+  "id": 232,
+  "title": "Free Vector Maps",
+  "url": "https://freevectormaps.com",
+  "domains": [
+    "freevectormaps.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Free Vector Maps",
+    "freevectormaps",
+    "freevectormaps.com"
+  ],
+  "aliases": [
+    "freevectormaps"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2180,
+      "collection": "GoTab 公开资源库",
+      "file": "freevectormaps.svg",
+      "gotab_id": 121,
+      "id": 579,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "freevectormaps.svg",
+        "original_is_default": true,
+        "original_slug": "freevectormaps"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1958,
+        "previous_sha256": "f35ddcee08eed7092a9ae342dc0c6b1cfbf4bf372d662c943dc4eac2dfca6d7f",
+        "ratio": 0.2
+      },
+      "sha256": "296cfea7415df0b0111669cd165164eef21be61fafe59e27b3391d47c2849d41",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PNAX3RZQCFBT8YC7WSX1K7.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

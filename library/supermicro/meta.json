@@ -1,0 +1,43 @@
+{
+  "title": "Supermicro",
+  "url": "https://www.supermicro.com/",
+  "domains": [
+    "www.supermicro.com"
+  ],
+  "description": "服务器与主板厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "超微",
+    "服务器",
+    "主板",
+    "Supermicro"
+  ],
+  "aliases": [
+    "supermicro",
+    "超微",
+    "服务器",
+    "主板"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "supermicro.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2629ba672cb555c68a5111f15a61696495eb0394bfff7711fcbc12a1db6dbaf6",
+      "bytes": 4786,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/supermicro.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "supermicro.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

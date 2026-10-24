@@ -1,0 +1,103 @@
+{
+  "collection_id": 292,
+  "schema_version": 1,
+  "id": 416,
+  "title": "坚果云",
+  "url": "https://jianguoyun.com",
+  "domains": [
+    "jianguoyun.com"
+  ],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "网盘",
+    "云存储",
+    "坚果云",
+    "nutstore",
+    "jianguoyun",
+    "jianguoyun.com"
+  ],
+  "aliases": [
+    "nutstore",
+    "jianguoyun"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2481,
+      "collection": "用户优化 SVG",
+      "file": "nutstore.svg",
+      "id": 1046,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "nutstore.svg",
+        "original_is_default": true,
+        "original_slug": "nutstore"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2259,
+        "previous_sha256": "d8d439320b17d337e5330efb4a45fb1c8eb2a4b5765cd6279290ea782773ca3b",
+        "ratio": 0.2
+      },
+      "sha256": "1f64e0602112710828451e08df801e8fbdecc815af7df92dcb7767c9f6646288",
+      "source": "用户确认优化：基于 theSVG 坚果云矢量路径重新配色，保留云朵与渐变坚果",
+      "version": 0
+    },
+    {
+      "bytes": 5704,
+      "collection": "GoTab 公开资源库",
+      "file": "nutstore-1.svg",
+      "gotab_id": 290,
+      "id": 1047,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "nutstore-1.svg",
+        "original_is_default": false,
+        "original_slug": "nutstore"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5482,
+        "previous_sha256": "ae77ad28191838d7cd5675c7b48aadda9b5193d637f6df0d0c3c2dbae29e8119",
+        "ratio": 0.2
+      },
+      "sha256": "6259e5622cbc3a08026232cf579020cdb496d697cc388db306dec43ba9d58042",
+      "source": "https://web.gotab.cn/sourceStore/website/01KYNX1DTNNMT1PZ9EQ8ZWGNFD.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1710,
+      "collection": "已有图标",
+      "file": "nutstore-2.svg",
+      "id": 1048,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nutstore-2.svg",
+        "original_is_default": false,
+        "original_slug": "nutstore"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1485,
+        "previous_sha256": "a2126da22edbd76fd557738ec8c72e3368b89ce166a6f03c2929db460b1eb5fd",
+        "ratio": 0.2
+      },
+      "sha256": "7895fe69eb9bf5b9934c82e66162ae4e82b8e563da732cd91e9fb18b94cd6a81",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/nutstore-badge/default.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

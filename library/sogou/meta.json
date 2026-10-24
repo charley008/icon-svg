@@ -1,0 +1,97 @@
+{
+  "collection_id": 359,
+  "schema_version": 1,
+  "id": 490,
+  "title": "搜狗",
+  "url": "https://sogou.com",
+  "domains": [
+    "sogou.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "国内补充",
+    "搜索",
+    "导航",
+    "搜狗",
+    "sogou",
+    "sogou.com"
+  ],
+  "aliases": [
+    "sogou"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1263,
+      "collection": "theSVG",
+      "file": "sogou.svg",
+      "id": 1228,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sogou.svg",
+        "original_is_default": true,
+        "original_slug": "sogou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1030,
+        "previous_sha256": "9f058ab3a866257444c2ff6d6333894230671be98ed02599c9b07bf68e4080ab",
+        "ratio": 0.2
+      },
+      "sha256": "1bf548c3f2fa9f8d92f63249bcabde9963dc65e074359e96f2c0d92ca5541233",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/sogou/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1263,
+      "collection": "theSVG",
+      "file": "sogou-1.svg",
+      "id": 1229,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sogou-1.svg",
+        "original_is_default": false,
+        "original_slug": "sogou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1030,
+        "previous_sha256": "caa4355fad962edd285c4599282d2c29d70b37bd5a1d2414a36ab371ee0153f8",
+        "ratio": 0.2
+      },
+      "sha256": "cfc88407cd474661bdc21c5a3326ea9cc6acd7a020eea9b98e18bb740c5704a7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/sogou/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2203,
+      "collection": "jaywcjlove/logo",
+      "file": "sogou-2.svg",
+      "id": 1230,
+      "is_default": false,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sogou-2.svg",
+        "original_is_default": false,
+        "original_slug": "sogou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1983,
+        "previous_sha256": "531d5a7da36dbab94320377db05daa958a7e6d205bc0265fde0b1cc07092e03a",
+        "ratio": 0.2
+      },
+      "sha256": "291b2dfc154a9c0df11f3cf63950ada9c829df73c782ff5e6839616aeac7c9b8",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/sogou.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

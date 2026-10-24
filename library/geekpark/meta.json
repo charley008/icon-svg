@@ -1,0 +1,58 @@
+{
+  "collection_id": 166,
+  "schema_version": 1,
+  "id": 237,
+  "title": "极客公园",
+  "url": "https://geekpark.net",
+  "domains": [
+    "geekpark.net"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "新闻",
+    "资讯",
+    "极客公园",
+    "geekpark",
+    "geekpark.net"
+  ],
+  "aliases": [
+    "geekpark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 491,
+      "collection": "轻量矢量替换",
+      "file": "geekpark.svg",
+      "id": 587,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "geekpark.svg",
+        "original_is_default": true,
+        "original_slug": "geekpark"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "6d82d52009ef796cfcf75cef5fef746dc4107629e98a7b3491747ae6dde7d8bb",
+        "previous_bytes": 490649,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.google.com/s2/favicons?domain=www.geekpark.net\u0026sz=256",
+        "reference": "https://www.google.com/s2/favicons?domain=www.geekpark.net\u0026sz=256",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "94ba2dc6f3085173000191a0d791d087bd85e8a37e39f151c274213e0a504d95",
+      "source": "https://www.google.com/s2/favicons?domain=www.geekpark.net\u0026sz=256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

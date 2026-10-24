@@ -1,0 +1,132 @@
+{
+  "collection_id": 388,
+  "schema_version": 1,
+  "id": 537,
+  "title": "threads",
+  "url": "https://threads.com",
+  "domains": [
+    "threads.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "社交",
+    "通讯",
+    "threads",
+    "threads.com"
+  ],
+  "aliases": [
+    "threads"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1854,
+      "collection": "theSVG",
+      "file": "threads.svg",
+      "id": 1336,
+      "is_default": true,
+      "label": "light",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "threads.svg",
+        "original_is_default": true,
+        "original_slug": "threads"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1618,
+        "previous_sha256": "a1857ac58c781868323614b6b2f4ab5f327586bb1a91d6b775c639227dc26647",
+        "ratio": 0.2
+      },
+      "sha256": "a1341c4671e78b557a2adc68b27081bcd6fd0b88a28716a5b5d4e43c45e50627",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/threads/light.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1866,
+      "collection": "theSVG",
+      "file": "threads-1.svg",
+      "id": 1337,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "threads-1.svg",
+        "original_is_default": false,
+        "original_slug": "threads"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1630,
+        "previous_sha256": "c71aaba905a37724baf7a76d83dcbd29c276a5877e9420b9f899636b6175bdbc",
+        "ratio": 0.2
+      },
+      "sha256": "a5575832aa7f1b878101420e6f3038712b0c3f318e511c04763738b0ed302e1d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/threads/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1613,
+      "collection": "theSVG",
+      "file": "threads-2.svg",
+      "id": 1338,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "threads-2.svg",
+        "original_is_default": false,
+        "original_slug": "threads"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1380,
+        "previous_sha256": "958a4c48d222d54cb73550f5ba0eaf3f332b3afe64aef9b91805a828f8f3402c",
+        "ratio": 0.2
+      },
+      "sha256": "cd82b8e801a3964199f9c3b7e9d245d0717a7f5967070781bf979bdfb687d479",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/threads/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1236,
+      "collection": "Dashboard Icons",
+      "file": "threads-3.svg",
+      "id": 1339,
+      "is_default": false,
+      "label": "threads",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "threads-3.svg",
+        "original_is_default": false,
+        "original_slug": "threads"
+      },
+      "sha256": "8d4b32026310d20e7158052616fa80661594d280dbff4145036ad31fea8f523e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/threads.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1251,
+      "collection": "Dashboard Icons",
+      "file": "threads-4.svg",
+      "id": 1340,
+      "is_default": false,
+      "label": "threads-light",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "threads-4.svg",
+        "original_is_default": false,
+        "original_slug": "threads"
+      },
+      "sha256": "af2d6cfde644700c573bc33d17c1aa308db980e7a097e3e9ed05c46946035111",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/threads-light.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

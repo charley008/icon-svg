@@ -1,0 +1,147 @@
+{
+  "collection_id": 128,
+  "schema_version": 1,
+  "id": 199,
+  "title": "豆瓣",
+  "url": "https://douban.com",
+  "domains": [
+    "douban.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "用户优选",
+    "社交",
+    "通讯",
+    "豆瓣",
+    "douban",
+    "douban.com"
+  ],
+  "aliases": [
+    "douban"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 4639,
+      "collection": "用户优选",
+      "file": "douban.svg",
+      "id": 484,
+      "is_default": true,
+      "label": "douban",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "douban.svg",
+        "original_is_default": true,
+        "original_slug": "douban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4417,
+        "previous_sha256": "186d59b455ab44d1767471c348a2bcdf10622914b73b2ae3bd6df603fc1252f4",
+        "ratio": 0.2
+      },
+      "sha256": "87b2a97011727a9375d952f6fba261085d07f6959272ac6add225f69eac5c028",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 636,
+      "collection": "theSVG",
+      "file": "douban-1.svg",
+      "id": 485,
+      "is_default": false,
+      "label": "default",
+      "license": "Custom",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "douban-1.svg",
+        "original_is_default": false,
+        "original_slug": "douban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 403,
+        "previous_sha256": "5ad715d00fc9358587fbd021135aa11a9b8b6bf86bf85acb51358dc1133c88c2",
+        "ratio": 0.2
+      },
+      "sha256": "8976028a05d8f93f935af62b94f3b80e67000fa395b34969ac06c83f89e0497d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/douban/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 636,
+      "collection": "theSVG",
+      "file": "douban-2.svg",
+      "id": 486,
+      "is_default": false,
+      "label": "mono",
+      "license": "Custom",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "douban-2.svg",
+        "original_is_default": false,
+        "original_slug": "douban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 403,
+        "previous_sha256": "f1dc1a76b8f0ecbd7b75124d28c0066bd35e65ef8780b4cf39f69ef260f13106",
+        "ratio": 0.2
+      },
+      "sha256": "72c752cd26b0009a4457437a8d8df04a9aae5f5ee1fe92ae93b4f8a3d890cd9d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/douban/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 968,
+      "collection": "Iconify / ri",
+      "file": "douban-3.svg",
+      "id": 487,
+      "is_default": false,
+      "label": "douban-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "douban-3.svg",
+        "original_is_default": false,
+        "original_slug": "douban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 735,
+        "previous_sha256": "950ef38c0aca15035a73caa52f8358f1652d0404bc93df56e72cb150a785d9da",
+        "ratio": 0.2
+      },
+      "sha256": "71ec3390378dc44a8070e6ef70bffd26be60997fe524a235eceec525b8222532",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#douban-fill",
+      "version": 3
+    },
+    {
+      "bytes": 537,
+      "collection": "Iconify / ri",
+      "file": "douban-4.svg",
+      "id": 488,
+      "is_default": false,
+      "label": "douban-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "douban-4.svg",
+        "original_is_default": false,
+        "original_slug": "douban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 304,
+        "previous_sha256": "86552e9a8dc0af5b03fe2f12ac90eb307a3560c39519cde84edadf6f5ef34c3e",
+        "ratio": 0.2
+      },
+      "sha256": "d6fa45d7a50f6d8fbb5bd959e3ced8aaad0b4df750688869ba3fa4143e4611b6",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#douban-line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

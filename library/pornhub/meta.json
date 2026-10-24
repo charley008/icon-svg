@@ -1,0 +1,63 @@
+{
+  "collection_id": 318,
+  "schema_version": 1,
+  "id": 445,
+  "title": "Pornhub",
+  "url": "https://pornhub.com",
+  "domains": [
+    "pornhub.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "影音",
+    "Pornhub",
+    "pornhub.com"
+  ],
+  "aliases": [
+    "pornhub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5716,
+      "collection": "官网 SVG",
+      "file": "pornhub.svg",
+      "id": 1119,
+      "is_default": true,
+      "label": "official-mark",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pornhub.svg",
+        "original_is_default": true,
+        "original_slug": "pornhub"
+      },
+      "sha256": "8387a0e2c5f2cb7c47cfe21a65e7f914182afececefbbeb210410b11fb6636fd",
+      "source": "https://ei.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2026102106",
+      "version": 0
+    },
+    {
+      "bytes": 4841,
+      "collection": "官网 SVG",
+      "file": "pornhub-1.svg",
+      "id": 1120,
+      "is_default": false,
+      "label": "official-mark",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pornhub-1.svg",
+        "original_is_default": false,
+        "original_slug": "pornhub"
+      },
+      "sha256": "a063ac7d409b7047049c98662c105a030e810cd1484b745f1db35b7a1c715ccb",
+      "source": "https://ei.phncdn.com/www-static/images/pornhubX.svg?cache=2026102106",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

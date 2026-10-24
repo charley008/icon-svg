@@ -1,0 +1,51 @@
+{
+  "collection_id": 108,
+  "schema_version": 1,
+  "id": 178,
+  "title": "当当",
+  "url": "https://dangdang.com",
+  "domains": [
+    "dangdang.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "当当",
+    "dangdang",
+    "dangdang.com"
+  ],
+  "aliases": [
+    "dangdang"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4888,
+      "collection": "jaywcjlove/logo",
+      "file": "dangdang.svg",
+      "id": 431,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dangdang.svg",
+        "original_is_default": true,
+        "original_slug": "dangdang"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4668,
+        "previous_sha256": "467dc2bc243d75e6b62f2681f54845b406b943c1f39c07e4c8adc01ad1745caa",
+        "ratio": 0.2
+      },
+      "sha256": "51eb7e6cdd6d0ad6ef2397abd53581d8ef700cc8cad4e0da2b253fd499b75ce8",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/dangdang.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

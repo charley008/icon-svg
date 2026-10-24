@@ -1,0 +1,43 @@
+{
+  "title": "APC",
+  "url": "https://www.apc.com/",
+  "domains": [
+    "www.apc.com"
+  ],
+  "description": "不间断电源与供电设备品牌。",
+  "category": "设备硬件",
+  "tags": [
+    "UPS",
+    "电源",
+    "不间断电源",
+    "APC"
+  ],
+  "aliases": [
+    "apc",
+    "UPS",
+    "电源",
+    "不间断电源"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "apc.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "1894d4256418336c0098aad8f467cd80ef6af2af90e9348027d1e25b5ed11cd7",
+      "bytes": 1504,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apc.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "apc.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

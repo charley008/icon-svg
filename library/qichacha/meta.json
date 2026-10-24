@@ -1,0 +1,52 @@
+{
+  "collection_id": 327,
+  "schema_version": 1,
+  "id": 454,
+  "title": "企查查",
+  "url": "https://qcc.com",
+  "domains": [
+    "qcc.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "中国地区Top100",
+    "生活服务",
+    "企查查",
+    "qichacha",
+    "qcc",
+    "qcc.com"
+  ],
+  "aliases": [
+    "qichacha",
+    "qcc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 962,
+      "collection": "Iconify / arcticons",
+      "file": "qichacha.svg",
+      "id": 1134,
+      "is_default": true,
+      "label": "qcc",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qichacha.svg",
+        "original_is_default": true,
+        "original_slug": "qichacha"
+      },
+      "rounded_corners": {
+        "previous_bytes": 729,
+        "previous_sha256": "efc9adf53e8047eeec781652f92c15a04915c17213d2c3fc46065f8fd1805846",
+        "ratio": 0.2
+      },
+      "sha256": "e2af9a50391f1792ad465a99f57923e4e5b955b97b8a2bdff26024761974ead3",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#qcc",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

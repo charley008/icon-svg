@@ -1,0 +1,1924 @@
+{
+  "collection_id": 67,
+  "schema_version": 1,
+  "id": 114,
+  "title": "字节跳动",
+  "url": "https://www.bytedance.com",
+  "domains": [
+    "bytedance.com",
+    "bytedance.net"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "影音",
+    "字节跳动",
+    "bytedance",
+    "bytedance.com",
+    "bytedance.net"
+  ],
+  "aliases": [
+    "bytedance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 657,
+      "collection": "theSVG",
+      "file": "bytedance.svg",
+      "id": 279,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bytedance.svg",
+        "original_is_default": true,
+        "original_slug": "bytedance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 424,
+        "previous_sha256": "cc95aec6e4311ecbca430396ba7f502cb577255aaa71de5d436751b00fe25876",
+        "ratio": 0.2
+      },
+      "sha256": "4e411be03b47bdba4b8e4b4673d2628d42609e69b752acf7ad0bc726f3a8cc1d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bytedance/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 657,
+      "collection": "theSVG",
+      "file": "bytedance-1.svg",
+      "id": 280,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bytedance-1.svg",
+        "original_is_default": false,
+        "original_slug": "bytedance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 424,
+        "previous_sha256": "b42c34fb1ca0e1adc3ebe8ffa38c73e3aa7478d04581c19b23926f16be214c79",
+        "ratio": 0.2
+      },
+      "sha256": "e49179e4aaa3176f3b4123decb56817fa41c112589c75797cf6f66725966155b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bytedance/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 613,
+      "collection": "Iconify / icon-park",
+      "file": "bytedance-2.svg",
+      "id": 281,
+      "is_default": false,
+      "label": "bytedance",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bytedance-2.svg",
+        "original_is_default": false,
+        "original_slug": "bytedance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 380,
+        "previous_sha256": "00b67c7094687f535bdc36f4cf07eb6fc7b90f8d8456b2f351f72c3f8daf7a9a",
+        "ratio": 0.2
+      },
+      "sha256": "f4e323a3924e7e2cc855e5ef4dbf70af97a9654a7ae3a794b9ec9d50591eaa17",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#bytedance",
+      "version": 2
+    },
+    {
+      "bytes": 673,
+      "collection": "SVGLOGO",
+      "file": "bytedance-3.svg",
+      "id": 282,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bytedance-3.svg",
+        "original_is_default": false,
+        "original_slug": "bytedance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 440,
+        "previous_sha256": "fad1bca8cd693735822716a1517ae9b53fb7494aec58f440990f91da01bfdf37",
+        "ratio": 0.2
+      },
+      "sha256": "080c4831be02f80e318034b149cc2c09d4927093b74b37563dba51e7c0695248",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/bytedance.svg",
+      "version": 3
+    },
+    {
+      "bytes": 7311,
+      "collection": "SVGLOGO",
+      "file": "bytedance-4.svg",
+      "id": 283,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bytedance-4.svg",
+        "original_is_default": false,
+        "original_slug": "bytedance"
+      },
+      "sha256": "7fa1d2eb3d38a24980b0408d04e667d4e4a5a39f112a507b1c62d2d4e0b89143",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/bytedance_wordmark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 115,
+      "key": "capcut",
+      "title": "CapCut",
+      "url": "https://capcut.com",
+      "domains": [
+        "capcut.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球App补充",
+        "影音",
+        "字节跳动",
+        "视频剪辑",
+        "剪辑工具",
+        "CapCut",
+        "capcut.com"
+      ],
+      "aliases": [
+        "capcut"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 784,
+          "collection": "theSVG",
+          "file": "bytedance-capcut.svg",
+          "id": 284,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "capcut.svg",
+            "original_is_default": true,
+            "original_slug": "capcut"
+          },
+          "rounded_corners": {
+            "previous_bytes": 551,
+            "previous_sha256": "5114a3ab41a3418f3fa4b4dbbfed86d143f982d0d56dadc735e39b5886a9b9a6",
+            "ratio": 0.2
+          },
+          "sha256": "be481ef11cf8490038630bab5340b8084730a6f1a7a0f421bafebf84687b32ba",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/capcut/mono.svg",
+          "version": 0
+        },
+        {
+          "bytes": 579,
+          "collection": "Dashboard Icons",
+          "file": "bytedance-capcut-1.svg",
+          "id": 285,
+          "is_default": false,
+          "label": "cap-cut",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "capcut-1.svg",
+            "original_is_default": false,
+            "original_slug": "capcut"
+          },
+          "sha256": "48f34b229bb653f98be626795d787f3e0cec24cca697276f371d553f4844b49f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cap-cut.svg",
+          "version": 1
+        },
+        {
+          "bytes": 576,
+          "collection": "Dashboard Icons",
+          "file": "bytedance-capcut-2.svg",
+          "id": 286,
+          "is_default": false,
+          "label": "cap-cut-dark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "capcut-2.svg",
+            "original_is_default": false,
+            "original_slug": "capcut"
+          },
+          "sha256": "20285ea1ccd77e1be63285b1b6b4b8412e3b9ebf864bed50c75e9e65a31987c5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cap-cut-dark.svg",
+          "version": 2
+        },
+        {
+          "bytes": 789,
+          "collection": "Iconify / arcticons",
+          "file": "bytedance-capcut-3.svg",
+          "id": 287,
+          "is_default": false,
+          "label": "capcut",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "capcut-3.svg",
+            "original_is_default": false,
+            "original_slug": "capcut"
+          },
+          "rounded_corners": {
+            "previous_bytes": 556,
+            "previous_sha256": "65646d945e504b4094d52b9b72f9f3db700a6da150935f8ca7bd96d3ed3caa5b",
+            "ratio": 0.2
+          },
+          "sha256": "91909deffc3f2243fb186ea14a658dcacc4d04e3ec94dd24c9cfca5d2be2d13c",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#capcut",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 116,
+      "key": "coze",
+      "title": "扣子",
+      "url": "https://coze.cn",
+      "domains": [
+        "coze.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "字节跳动",
+        "扣子",
+        "coze",
+        "coze.cn"
+      ],
+      "aliases": [
+        "coze"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1218,
+          "collection": "已有图标",
+          "file": "bytedance-coze.svg",
+          "id": 288,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "coze.svg",
+            "original_is_default": true,
+            "original_slug": "coze"
+          },
+          "rounded_corners": {
+            "previous_bytes": 985,
+            "previous_sha256": "ec2d20a29e1b28ccaf52bb5ef9a2d7d5a6d45395ab61d9929aa825b2aa6b8da8",
+            "ratio": 0.2
+          },
+          "sha256": "98f3186a21ab9133f1ad5d39f5101d45a689be85969814846488fea28f8b4634",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coze/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3767,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-coze-1.svg",
+          "gotab_id": 288,
+          "id": 289,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "coze-1.svg",
+            "original_is_default": false,
+            "original_slug": "coze"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3545,
+            "previous_sha256": "1b89525ab869e1618c23ea5ec5b8791fa770a46e0d254655488a25e52f9ea89b",
+            "ratio": 0.2
+          },
+          "sha256": "5b805bebe3e3b176d4f99f25daa872e85857f55cd21c7e0ab8ce5d1a9d0742b2",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNWFYYADWH0F275DM79V1WJ.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1218,
+          "collection": "已有图标",
+          "file": "bytedance-coze-2.svg",
+          "id": 290,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "coze-2.svg",
+            "original_is_default": false,
+            "original_slug": "coze"
+          },
+          "rounded_corners": {
+            "previous_bytes": 985,
+            "previous_sha256": "7c4f54b9f5213bdd409fcfa8a524f5ee06c06e8cd007a3ae8f37d8635928f4ef",
+            "ratio": 0.2
+          },
+          "sha256": "0030f8f9422f2d32f2c02a7b318e8f0c2ee12b8fb26c23ed56af64c8fd943720",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coze/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1323,
+          "collection": "已有图标",
+          "file": "bytedance-coze-3.svg",
+          "id": 291,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "coze-3.svg",
+            "original_is_default": false,
+            "original_slug": "coze"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1090,
+            "previous_sha256": "12eec9347b9944fc04e915e400e0ba11a7d5ba3c1b6f6b2e993daaa1895a4100",
+            "ratio": 0.2
+          },
+          "sha256": "3c49ad7dc327bb0ad379c32255813801a2a73654bd3d7d5cc4be38be637ec0ee",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Coze.svg",
+          "version": 3
+        },
+        {
+          "bytes": 2578,
+          "collection": "已有图标",
+          "file": "bytedance-coze-4.svg",
+          "id": 292,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "coze-4.svg",
+            "original_is_default": false,
+            "original_slug": "coze"
+          },
+          "sha256": "a095024d58959c09a2049dd2aa36d569d18cd3bc3455eac2fe524603f5424e8d",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Coze_wordmark.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 117,
+      "key": "doubao",
+      "title": "豆包",
+      "url": "https://doubao.com",
+      "domains": [
+        "doubao.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "用户优选",
+        "人工智能",
+        "字节跳动",
+        "AI 对话",
+        "聊天助手",
+        "豆包",
+        "doubao",
+        "doubao.com"
+      ],
+      "aliases": [
+        "doubao"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 6846,
+          "collection": "用户优选",
+          "file": "bytedance-doubao.svg",
+          "id": 293,
+          "is_default": true,
+          "label": "doubao",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "doubao.svg",
+            "original_is_default": true,
+            "original_slug": "doubao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 6624,
+            "previous_sha256": "e4a56f2d9604f56195cc0ac3657cb44fe3d26e636576ab24e6d7cab1f119e195",
+            "ratio": 0.2
+          },
+          "sha256": "b0dc391cf2fe0fa96acf26b8973bad3c3afc74a1b2ce1282cb744918d6b903c7",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1426,
+          "collection": "theSVG",
+          "file": "bytedance-doubao-1.svg",
+          "id": 294,
+          "is_default": false,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "doubao-1.svg",
+            "original_is_default": false,
+            "original_slug": "doubao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1193,
+            "previous_sha256": "a0941451b80598b7d3de02f7775cfe15e89e5c29b70fc68453cc139ac3fd2849",
+            "ratio": 0.2
+          },
+          "sha256": "e753db60deba9e13a11fc62d4fb186cdd12758bdfec7a81d8c2f2eb79fdf4b28",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/doubao/color.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1411,
+          "collection": "theSVG",
+          "file": "bytedance-doubao-2.svg",
+          "id": 295,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "doubao-2.svg",
+            "original_is_default": false,
+            "original_slug": "doubao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1178,
+            "previous_sha256": "67d2eed0efd0d1ae90de71d86b2bdac556dd0da22bfe912926aca4171ae34548",
+            "ratio": 0.2
+          },
+          "sha256": "d80d6680bea4c200b4b02a9ca95684f3ccb5a7c4ff64d5792a4bf3d293381bcd",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/doubao/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 3889,
+          "collection": "SVGLOGO",
+          "file": "bytedance-doubao-3.svg",
+          "id": 296,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "doubao-3.svg",
+            "original_is_default": false,
+            "original_slug": "doubao"
+          },
+          "sha256": "7d7f1560e436b844ff51a5504cb57526cfce1ed95079bf847a86b971326cc03d",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Doubao_wordmark.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 118,
+      "key": "douyin",
+      "title": "抖音",
+      "url": "https://douyin.com",
+      "domains": [
+        "douyin.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "用户优选",
+        "影音",
+        "字节跳动",
+        "短视频",
+        "抖音",
+        "douyin",
+        "douyin.com"
+      ],
+      "aliases": [
+        "douyin"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1540,
+          "collection": "已有图标",
+          "file": "bytedance-douyin.svg",
+          "id": 297,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "douyin.svg",
+            "original_is_default": true,
+            "original_slug": "douyin"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1318,
+            "previous_sha256": "5c8d2e596b10ab9285cbcd4e1476475d21ad370ee54bae525461f8f114150746",
+            "ratio": 0.2
+          },
+          "sha256": "ce4698cdbdbcec67252804e7f857ef73ee56465b8017a80e6bdeb987143651fd",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 2793,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-douyin-1.svg",
+          "gotab_id": 1,
+          "id": 298,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "douyin-1.svg",
+            "original_is_default": false,
+            "original_slug": "douyin"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2571,
+            "previous_sha256": "ee55616ab177e155c5ecd058c297c90a3be4fd4f00d33a1ed118944571b47405",
+            "ratio": 0.2
+          },
+          "sha256": "13ec0467165715503513c3fe52927a43d990f64ec04aba99ba2d3fec3fafad99",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GTDYZPHKXE4VF6614C45VM.svg",
+          "version": 1
+        },
+        {
+          "bytes": 895,
+          "collection": "已有图标",
+          "file": "bytedance-douyin-2.svg",
+          "id": 299,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "douyin-2.svg",
+            "original_is_default": false,
+            "original_slug": "douyin"
+          },
+          "sha256": "8d4b80875b78e737ed9fba347462465ae41589d0dca276817ae8452e90ee6bc3",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/douYin.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 119,
+      "key": "douyin-shop",
+      "title": "抖音电商",
+      "url": "https://jinritemai.com",
+      "domains": [
+        "jinritemai.com",
+        "fxg.jinritemai.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "中国地区Top100",
+        "电商",
+        "购物",
+        "字节跳动",
+        "抖音电商",
+        "douyin-shop",
+        "douyin",
+        "jinritemai.com",
+        "fxg.jinritemai.com"
+      ],
+      "aliases": [
+        "douyin-shop",
+        "douyin"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 895,
+          "collection": "已有图标",
+          "file": "bytedance-douyin-shop.svg",
+          "id": 300,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "douyin-shop.svg",
+            "original_is_default": true,
+            "original_slug": "douyin-shop"
+          },
+          "sha256": "8d4b80875b78e737ed9fba347462465ae41589d0dca276817ae8452e90ee6bc3",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/douYin.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1333,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-douyin-shop-1.svg",
+          "gotab_id": 250,
+          "id": 301,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "douyin-shop-1.svg",
+            "original_is_default": false,
+            "original_slug": "douyin-shop"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1111,
+            "previous_sha256": "f2999c33c5a0dbd9bd27e8ed6950a980c049866fcfe33c6cb37bb159b3f41306",
+            "ratio": 0.2
+          },
+          "sha256": "eb4fd2f5cad66c59076833b065253868e8dfa8f1cca9852f3cb279b4bb2ae665",
+          "source": "https://web.gotab.cn/sourceStore/website/01KFWHJGJJ6946FZPJHYVB5GQ2.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 120,
+      "key": "fanqie",
+      "title": "番茄小说",
+      "url": "https://fanqienovel.com",
+      "domains": [
+        "fanqienovel.com"
+      ],
+      "description": "",
+      "category": "阅读",
+      "tags": [
+        "国内补充",
+        "阅读",
+        "字节跳动",
+        "番茄小说",
+        "fanqie",
+        "tomato-novel",
+        "fanqienovel.com"
+      ],
+      "aliases": [
+        "fanqie",
+        "tomato-novel"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2608,
+          "collection": "轻量矢量替换",
+          "file": "bytedance-fanqie.svg",
+          "id": 302,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "native-vector-reuse",
+          "provenance": {
+            "original_file": "fanqie.svg",
+            "original_is_default": true,
+            "original_slug": "fanqie"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "aef173616088632873e2536f6eeb9b115f7e42bd2d33cabc8d33a0e92d6c6475",
+            "previous_bytes": 243114,
+            "previous_method": "traced-detail",
+            "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/95/43/9695437f-a41e-5c5d-0e07-17318b52fbf5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "reference": "seed/icons/bytedance/bytedance-fanqie-1.svg",
+            "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "7e815124c12215258e105ebfea48cbc23b739223ef5030b482926b0f7619c024",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HR38XYFPWD5Y71ARY5XZHH.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2608,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-fanqie-1.svg",
+          "gotab_id": 101,
+          "id": 303,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "fanqie-1.svg",
+            "original_is_default": false,
+            "original_slug": "fanqie"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2386,
+            "previous_sha256": "450e86d9b3330b708a1a79be100ebcafda7972078fc5e482e2b201f24efa537e",
+            "ratio": 0.2
+          },
+          "sha256": "7e815124c12215258e105ebfea48cbc23b739223ef5030b482926b0f7619c024",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HR38XYFPWD5Y71ARY5XZHH.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 121,
+      "key": "feishu",
+      "title": "飞书",
+      "url": "https://feishu.cn",
+      "domains": [
+        "feishu.cn",
+        "larkoffice.com",
+        "docs.feishu.cn"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "办公",
+        "效率工具",
+        "字节跳动",
+        "飞书",
+        "feishu",
+        "lark",
+        "feishu.cn",
+        "larkoffice.com",
+        "docs.feishu.cn"
+      ],
+      "aliases": [
+        "feishu",
+        "lark"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1556,
+          "collection": "已有图标",
+          "file": "bytedance-feishu.svg",
+          "id": 304,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "feishu.svg",
+            "original_is_default": true,
+            "original_slug": "feishu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1331,
+            "previous_sha256": "4dd15be3b98ae91d2c68320da1c0e45018f6bb03ea5fb5b1d82455dafc57eac7",
+            "ratio": 0.2
+          },
+          "sha256": "54fb943eadf7fbc273ef4582b21a1296caa9e55e428c1b3b1f779991cc615a50",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/lark-badge/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2189,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-feishu-1.svg",
+          "gotab_id": 91,
+          "id": 305,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "feishu-1.svg",
+            "original_is_default": false,
+            "original_slug": "feishu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1967,
+            "previous_sha256": "e8a6597beeb53169f2e6a05be47175026f350561d5c77b5995047fdd9cc3dcf7",
+            "ratio": 0.2
+          },
+          "sha256": "4c1a691e5973a2c6fa7223eb9e710b0e50ff56ee88084522aa5d00929399d52a",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HP3SR1R2PWE3JE5H4RECYS.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1641,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-feishu-2.svg",
+          "gotab_id": 214,
+          "id": 306,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "feishu-2.svg",
+            "original_is_default": false,
+            "original_slug": "feishu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1419,
+            "previous_sha256": "eb2fa2ac44dcbb98fa65a25239aa98b73e2c01101b2f80c7e2eab5eae83b9f30",
+            "ratio": 0.2
+          },
+          "sha256": "bfb5215455ede81dd2e187cc0ca5305609d47599e349eab76adea03b99e65d3d",
+          "source": "https://web.gotab.cn/uploads/202503/01JQKY9N58XFGS9KT2GEGE0WEY.svg",
+          "version": 2
+        },
+        {
+          "bytes": 4710,
+          "collection": "已有图标",
+          "file": "bytedance-feishu-3.svg",
+          "id": 307,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "feishu-3.svg",
+            "original_is_default": false,
+            "original_slug": "feishu"
+          },
+          "sha256": "4653c3ed3b9cc2f64f04800333e68e7c790003865097394fadcdfaf50cc8effd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lark.svg",
+          "version": 3
+        },
+        {
+          "bytes": 991,
+          "collection": "已有图标",
+          "file": "bytedance-feishu-4.svg",
+          "id": 308,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "feishu-4.svg",
+            "original_is_default": false,
+            "original_slug": "feishu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 758,
+            "previous_sha256": "9331e2900b9e2f2663af45c925daead30ba5dddba4710f2dc49a372371cbfbbe",
+            "ratio": 0.2
+          },
+          "sha256": "1be022e1696591f23c60be90fdc6877f9c9d909b1a2b6c340a2f97737607962f",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#lark",
+          "version": 4
+        },
+        {
+          "bytes": 944,
+          "collection": "已有图标",
+          "file": "bytedance-feishu-5.svg",
+          "id": 309,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "feishu-5.svg",
+            "original_is_default": false,
+            "original_slug": "feishu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 711,
+            "previous_sha256": "e94cc7ed7f73b631f6da73706a85b50d12511900667146bee592f4025556c24a",
+            "ratio": 0.2
+          },
+          "sha256": "ee322d881a88380c58d3f61fed3d545bee3d9b64dcebb41b69a2b2cbdf3f84ea",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/feiShu.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 122,
+      "key": "iconpark",
+      "title": "IconPark",
+      "url": "https://iconpark.oceanengine.com",
+      "domains": [
+        "iconpark.oceanengine.com"
+      ],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "设计",
+        "素材",
+        "字节跳动",
+        "IconPark",
+        "iconpark.oceanengine.com"
+      ],
+      "aliases": [
+        "iconpark"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 6889,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-iconpark.svg",
+          "gotab_id": 117,
+          "id": 310,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "iconpark.svg",
+            "original_is_default": true,
+            "original_slug": "iconpark"
+          },
+          "rounded_corners": {
+            "previous_bytes": 6667,
+            "previous_sha256": "eb512fd0eb1ede7d93a1ad5676c9723237745bb38c892f67d5207987a88ea6de",
+            "ratio": 0.2
+          },
+          "sha256": "91186812ad493ee344b8bab94e1da9f10ce03623ec708077ec41b4eb177bdf35",
+          "source": "https://web.gotab.cn/uploads/202409/01J8PMJ9WHRB84J3TB6V2XJ9ZP.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 123,
+      "key": "jianying",
+      "title": "剪映",
+      "url": "https://jianying.com",
+      "domains": [
+        "jianying.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "影音",
+        "字节跳动",
+        "视频剪辑",
+        "剪辑工具",
+        "剪映",
+        "jianying",
+        "capcut",
+        "jianying.com"
+      ],
+      "aliases": [
+        "jianying",
+        "capcut"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 784,
+          "collection": "theSVG",
+          "file": "bytedance-jianying.svg",
+          "id": 311,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jianying.svg",
+            "original_is_default": true,
+            "original_slug": "jianying"
+          },
+          "rounded_corners": {
+            "previous_bytes": 551,
+            "previous_sha256": "5114a3ab41a3418f3fa4b4dbbfed86d143f982d0d56dadc735e39b5886a9b9a6",
+            "ratio": 0.2
+          },
+          "sha256": "be481ef11cf8490038630bab5340b8084730a6f1a7a0f421bafebf84687b32ba",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/capcut/mono.svg",
+          "version": 0
+        },
+        {
+          "bytes": 579,
+          "collection": "Dashboard Icons",
+          "file": "bytedance-jianying-1.svg",
+          "id": 312,
+          "is_default": false,
+          "label": "cap-cut",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jianying-1.svg",
+            "original_is_default": false,
+            "original_slug": "jianying"
+          },
+          "sha256": "48f34b229bb653f98be626795d787f3e0cec24cca697276f371d553f4844b49f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cap-cut.svg",
+          "version": 1
+        },
+        {
+          "bytes": 576,
+          "collection": "Dashboard Icons",
+          "file": "bytedance-jianying-2.svg",
+          "id": 313,
+          "is_default": false,
+          "label": "cap-cut-dark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jianying-2.svg",
+            "original_is_default": false,
+            "original_slug": "jianying"
+          },
+          "sha256": "20285ea1ccd77e1be63285b1b6b4b8412e3b9ebf864bed50c75e9e65a31987c5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cap-cut-dark.svg",
+          "version": 2
+        },
+        {
+          "bytes": 789,
+          "collection": "Iconify / arcticons",
+          "file": "bytedance-jianying-3.svg",
+          "id": 314,
+          "is_default": false,
+          "label": "capcut",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jianying-3.svg",
+            "original_is_default": false,
+            "original_slug": "jianying"
+          },
+          "rounded_corners": {
+            "previous_bytes": 556,
+            "previous_sha256": "65646d945e504b4094d52b9b72f9f3db700a6da150935f8ca7bd96d3ed3caa5b",
+            "ratio": 0.2
+          },
+          "sha256": "91909deffc3f2243fb186ea14a658dcacc4d04e3ec94dd24c9cfca5d2be2d13c",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#capcut",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 124,
+      "key": "jimeng",
+      "title": "即梦AI",
+      "url": "https://jimeng.jianying.com",
+      "domains": [
+        "jimeng.jianying.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "字节跳动",
+        "AI 绘画",
+        "图像生成",
+        "即梦AI",
+        "jimeng",
+        "jimeng.jianying.com"
+      ],
+      "aliases": [
+        "jimeng"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3626,
+          "collection": "已有图标",
+          "file": "bytedance-jimeng.svg",
+          "id": 315,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jimeng.svg",
+            "original_is_default": true,
+            "original_slug": "jimeng"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3393,
+            "previous_sha256": "fa312155d042e7f3f04b874ac1cfb0ee465ee4595ac36590ad5abbf93b2dc77e",
+            "ratio": 0.2
+          },
+          "sha256": "9f60e8d4a8a1c5b7325c26e780ce1ee7928158de0b14658130b7dc5704dfffb3",
+          "source": "https://registry.npmjs.org/@lobehub/icons-static-svg/-/icons-static-svg-1.97.0.tgz#package/icons/jimeng-color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 16425,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-jimeng-1.svg",
+          "gotab_id": 306,
+          "id": 316,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "jimeng-1.svg",
+            "original_is_default": false,
+            "original_slug": "jimeng"
+          },
+          "rounded_corners": {
+            "previous_bytes": 16203,
+            "previous_sha256": "2e2418a519bba1aa60cbcb65d2b5f13a85d60e93c2f554a8be4993c575c6a648",
+            "ratio": 0.2
+          },
+          "sha256": "dc3a02764777bf34c79a4390484e2f49322bcc2a8df771ba32bb258174bea69f",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZ7YVWGDTJRCWKD6NMVH4FKY.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1076,
+          "collection": "已有图标",
+          "file": "bytedance-jimeng-2.svg",
+          "id": 317,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jimeng-2.svg",
+            "original_is_default": false,
+            "original_slug": "jimeng"
+          },
+          "rounded_corners": {
+            "previous_bytes": 843,
+            "previous_sha256": "c9b3395cc97c21471064ce5168347e6ef578d2afc37aea0a2617dc466f6082a5",
+            "ratio": 0.2
+          },
+          "sha256": "503b1667a22469e6ee06b3b1cc87a11a2e330701c9b9d508087d35d5b117e9df",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/jimeng/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 6218,
+          "collection": "已有图标",
+          "file": "bytedance-jimeng-3.svg",
+          "id": 318,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jimeng-3.svg",
+            "original_is_default": false,
+            "original_slug": "jimeng"
+          },
+          "sha256": "af70517b1845ed3613b3bbe93f39091106b9d3ad973126243b06f0cc0467c15e",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Jimeng_wordmark.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 125,
+      "key": "qishui",
+      "title": "汽水音乐",
+      "url": "https://qishui.douyin.com",
+      "domains": [
+        "qishui.douyin.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "影音",
+        "字节跳动",
+        "音乐",
+        "听歌",
+        "汽水音乐",
+        "qishui",
+        "qishui-music",
+        "qishui.douyin.com"
+      ],
+      "aliases": [
+        "qishui",
+        "qishui-music"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 6426,
+          "collection": "官网 SVG",
+          "file": "bytedance-qishui.svg",
+          "id": 319,
+          "is_default": true,
+          "label": "official-mark",
+          "license": "trademark-owner",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qishui.svg",
+            "original_is_default": true,
+            "original_slug": "qishui"
+          },
+          "sha256": "dbbd6de52b05563c615f2b87f80307f8e9af93564e3f6d8e8704d9e8b2b90f22",
+          "source": "https://lf-luna.qishui.com/obj/music-luna-fe/luna/home/1.0.0.274/assets/logo-0921b993.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 126,
+      "key": "tiktok",
+      "title": "TikTok",
+      "url": "https://tiktok.com",
+      "domains": [
+        "tiktok.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "影音",
+        "字节跳动",
+        "短视频",
+        "TikTok",
+        "tiktok.com"
+      ],
+      "aliases": [
+        "tiktok"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1962,
+          "collection": "已有图标",
+          "file": "bytedance-tiktok.svg",
+          "id": 320,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok.svg",
+            "original_is_default": true,
+            "original_slug": "tiktok"
+          },
+          "sha256": "3e8177aa27d5c39c887343d3ae26a306bb2358b565a1a385521cc41bb222b2d0",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tiktok/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2793,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-tiktok-1.svg",
+          "gotab_id": 159,
+          "id": 321,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tiktok-1.svg",
+            "original_is_default": false,
+            "original_slug": "tiktok"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2571,
+            "previous_sha256": "90e8dc8057dfa656935b76698ba1b7464921b2cc9e42d2291a27df255388ea0a",
+            "ratio": 0.2
+          },
+          "sha256": "950e62c8fedcd5e957ce6402954c35668bb77a5887013f20a2e4a2d2bb5592a5",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GTDYZPHKXE4VF6614C45VM.svg",
+          "version": 1
+        },
+        {
+          "bytes": 965,
+          "collection": "已有图标",
+          "file": "bytedance-tiktok-2.svg",
+          "id": 322,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok-2.svg",
+            "original_is_default": false,
+            "original_slug": "tiktok"
+          },
+          "rounded_corners": {
+            "previous_bytes": 740,
+            "previous_sha256": "6a41fa55c411fc07e250fce111426bba713a50345c0759018ea00a508975f09e",
+            "ratio": 0.2
+          },
+          "sha256": "8f309dae05cc321f68fabe616fa2f7b49dd0b294455cdc2083d62ffd3056e6ef",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tiktok-badge/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1944,
+          "collection": "已有图标",
+          "file": "bytedance-tiktok-3.svg",
+          "id": 323,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok-3.svg",
+            "original_is_default": false,
+            "original_slug": "tiktok"
+          },
+          "sha256": "e9c8fe9bb55378ba7d67ecd0fe5835cc6b3f52f819d7bca06c5006343e44abdd",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tiktok/light.svg",
+          "version": 3
+        },
+        {
+          "bytes": 3020,
+          "collection": "已有图标",
+          "file": "bytedance-tiktok-4.svg",
+          "id": 324,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok-4.svg",
+            "original_is_default": false,
+            "original_slug": "tiktok"
+          },
+          "sha256": "7ca61872b7a3ae47bc72ca2a902363ffdf85a6a56d03ab208a366bc6bfc69a87",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tiktok/wordmark.svg",
+          "version": 4
+        },
+        {
+          "bytes": 1033,
+          "collection": "已有图标",
+          "file": "bytedance-tiktok-5.svg",
+          "id": 325,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok-5.svg",
+            "original_is_default": false,
+            "original_slug": "tiktok"
+          },
+          "rounded_corners": {
+            "previous_bytes": 800,
+            "previous_sha256": "465c74e36920fe5cb239264ab6135061fd4c4283c7ab4caf72f0b12406624130",
+            "ratio": 0.2
+          },
+          "sha256": "83d5ce84b60c741acc092ed9bce062a19b09cb6ac8f633730852b0cdfa9dcf22",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tiktok/mono.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 127,
+      "key": "toutiao",
+      "title": "今日头条",
+      "url": "https://toutiao.com",
+      "domains": [
+        "toutiao.com"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "新闻",
+        "资讯",
+        "字节跳动",
+        "今日头条",
+        "toutiao",
+        "bytedance-toutiao",
+        "toutiao.com"
+      ],
+      "aliases": [
+        "toutiao",
+        "bytedance-toutiao"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 929,
+          "collection": "SVGLOGO",
+          "file": "bytedance-toutiao.svg",
+          "id": 326,
+          "is_default": true,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "toutiao.svg",
+            "original_is_default": true,
+            "original_slug": "toutiao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 696,
+            "previous_sha256": "37af1bd3f230724ecf4ab24fd1ef35d0e24496f903d9fc9dbf0e907577422318",
+            "ratio": 0.2
+          },
+          "sha256": "55fcb8070ce9a0f0156e42d971a659d414518678f8e58dba21a85d486587f736",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/jinRiTouTiao.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1081,
+          "collection": "Iconify / arcticons",
+          "file": "bytedance-toutiao-1.svg",
+          "id": 327,
+          "is_default": false,
+          "label": "toutiao",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "toutiao-1.svg",
+            "original_is_default": false,
+            "original_slug": "toutiao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 848,
+            "previous_sha256": "5afd9be33ff3f4d14e1d2ecea128ead395ad5d96a2f128c51560c9ae492b06b0",
+            "ratio": 0.2
+          },
+          "sha256": "f0aaa51f0cd390b73c7b776d95b446568c397789e614e39e89a6f63ed66a879e",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#toutiao",
+          "version": 1
+        },
+        {
+          "bytes": 635,
+          "collection": "jaywcjlove/logo",
+          "file": "bytedance-toutiao-2.svg",
+          "id": 328,
+          "is_default": false,
+          "label": "mark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "toutiao-2.svg",
+            "original_is_default": false,
+            "original_slug": "toutiao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 415,
+            "previous_sha256": "138e6e4868af3d014faf8825b2e0af385076d2447a0ff962bd9f12f53056819d",
+            "ratio": 0.2
+          },
+          "sha256": "57a46458d762e7f8ecb07e3b82ad53f2b8ecf32a5e2568fd9e95b2a8aa6a6dc2",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/toutiao.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 128,
+      "key": "trae",
+      "title": "Trae",
+      "url": "https://trae.cn",
+      "domains": [
+        "trae.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "字节跳动",
+        "AI 编程",
+        "代码助手",
+        "Trae",
+        "trae.cn"
+      ],
+      "aliases": [
+        "trae"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 647,
+          "collection": "已有图标",
+          "file": "bytedance-trae.svg",
+          "id": 329,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trae.svg",
+            "original_is_default": true,
+            "original_slug": "trae"
+          },
+          "rounded_corners": {
+            "previous_bytes": 414,
+            "previous_sha256": "c02b3ddf763f0eebb8f311a8fffbe24e9f07e92d7ac4da918fd79dae94d15af7",
+            "ratio": 0.2
+          },
+          "sha256": "615855bfbe054be79111ad78d738880da6cc7172db6e3be9e970ae84c0cf0166",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/trae/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 952,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-trae-1.svg",
+          "gotab_id": 309,
+          "id": 330,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "trae-1.svg",
+            "original_is_default": false,
+            "original_slug": "trae"
+          },
+          "rounded_corners": {
+            "previous_bytes": 730,
+            "previous_sha256": "a577f9e71d3adb8fa38eadbf89d97382464a2766ad982e7df6b58276e5883075",
+            "ratio": 0.2
+          },
+          "sha256": "481170c07cd824d95a37965c4e9729ed694c226b404724e5197ef6e01ab5674b",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZ7Z6CVZPHPS0YMJW9XDPJ1C.svg",
+          "version": 1
+        },
+        {
+          "bytes": 657,
+          "collection": "已有图标",
+          "file": "bytedance-trae-2.svg",
+          "id": 331,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trae-2.svg",
+            "original_is_default": false,
+            "original_slug": "trae"
+          },
+          "rounded_corners": {
+            "previous_bytes": 424,
+            "previous_sha256": "6d7c45585cc18372ea193c26240246dc8abec6d328a04f3a98b7dec09adaa6df",
+            "ratio": 0.2
+          },
+          "sha256": "b99ad006a2d99ec31fa4482a54830d279cf81f445b43d35d5c31bbef8ea144c4",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/trae/mono.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 129,
+      "key": "volcengine",
+      "title": "火山引擎",
+      "url": "https://volcengine.com",
+      "domains": [
+        "volcengine.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "云计算",
+        "字节跳动",
+        "火山引擎",
+        "volcengine",
+        "volc-engine",
+        "volcengine.com"
+      ],
+      "aliases": [
+        "volcengine",
+        "volc-engine"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1137,
+          "collection": "已有图标",
+          "file": "bytedance-volcengine.svg",
+          "id": 332,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "volcengine.svg",
+            "original_is_default": true,
+            "original_slug": "volcengine"
+          },
+          "rounded_corners": {
+            "previous_bytes": 904,
+            "previous_sha256": "eac38633066483dfbbb859eaf8cb2541ff220753786d06a07a688320589c24dc",
+            "ratio": 0.2
+          },
+          "sha256": "ef2e46a5ccdc5b893775ae06b56f26d125f57853a95185e9d17a0d4da14ac62b",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/volcengine/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1829,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-volcengine-1.svg",
+          "gotab_id": 294,
+          "id": 333,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "volcengine-1.svg",
+            "original_is_default": false,
+            "original_slug": "volcengine"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1607,
+            "previous_sha256": "ddcca49c5b0239eb8f8cbec09b5195ea95993200f0bca01661e6767d9ac33821",
+            "ratio": 0.2
+          },
+          "sha256": "bdea8d0838f70d296258cf4ab4bcae3bdd684c9101213d943e017fe4ac6e027f",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNXCSBZ8Z0764CYVBABRG72.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1206,
+          "collection": "已有图标",
+          "file": "bytedance-volcengine-2.svg",
+          "id": 334,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "volcengine-2.svg",
+            "original_is_default": false,
+            "original_slug": "volcengine"
+          },
+          "rounded_corners": {
+            "previous_bytes": 973,
+            "previous_sha256": "e00064abe201f911cfb67413f466982ce83d13cbcbfa115be71ab8950a9cb98f",
+            "ratio": 0.2
+          },
+          "sha256": "2a09830e37a6f48a030c7bd9735430e6fa17ba5e1eedecd9720ef31e4b7bb1a2",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/volcengine/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1234,
+          "collection": "已有图标",
+          "file": "bytedance-volcengine-3.svg",
+          "id": 335,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "volcengine-3.svg",
+            "original_is_default": false,
+            "original_slug": "volcengine"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1001,
+            "previous_sha256": "407b31487886fef139ff6978a47279b9eb85bc9640c6e1b38839abe07bb60530",
+            "ratio": 0.2
+          },
+          "sha256": "47599ff411ec0f1f613bf84fca5786d69b152f543086bb69cd7c4da111f19e90",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/volcengine.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 130,
+      "key": "volcengine-translate",
+      "title": "火山翻译",
+      "url": "https://translate.volcengine.com",
+      "domains": [
+        "translate.volcengine.com"
+      ],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "系统工具",
+        "字节跳动",
+        "翻译",
+        "语言工具",
+        "火山翻译",
+        "volcengine-translate",
+        "translate.volcengine.com"
+      ],
+      "aliases": [
+        "volcengine-translate"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3876,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-volcengine-translate.svg",
+          "gotab_id": 89,
+          "id": 336,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "volcengine-translate.svg",
+            "original_is_default": true,
+            "original_slug": "volcengine-translate"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3654,
+            "previous_sha256": "3511ba8a131acdde05b38ea61f94d55d490471d5540493078186c8ac2fbd2e69",
+            "ratio": 0.2
+          },
+          "sha256": "68a74c0a8a5123eadf8261d0c4ff6d9dfd91786e7ac17e5b5cec03f9641455d2",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HNMGQ2GAW9PY2GXHEAD325.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 131,
+      "key": "xiaoyunque",
+      "title": "小云雀 AI",
+      "url": "https://xyq.jianying.com",
+      "domains": [
+        "xyq.jianying.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "人工智能",
+        "字节跳动",
+        "小云雀 AI",
+        "xiaoyunque",
+        "xyq.jianying.com"
+      ],
+      "aliases": [
+        "xiaoyunque"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1160,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-xiaoyunque.svg",
+          "gotab_id": 308,
+          "id": 337,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "xiaoyunque.svg",
+            "original_is_default": true,
+            "original_slug": "xiaoyunque"
+          },
+          "rounded_corners": {
+            "previous_bytes": 938,
+            "previous_sha256": "082306a9718cf53d680b040d3c3d97dcee4af884c311dad303fd4cda55c9c654",
+            "ratio": 0.2
+          },
+          "sha256": "927adf6e0905acecd8ab849fed21e27bf95cb3923c574a2973a8a9b707beee6e",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZ7Z325AKPQ6QQ0NK98R8K1R.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 132,
+      "key": "xigua",
+      "title": "西瓜视频",
+      "url": "https://ixigua.com",
+      "domains": [
+        "ixigua.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "影音",
+        "字节跳动",
+        "西瓜视频",
+        "xigua",
+        "ixigua",
+        "xigua-video",
+        "ixigua.com"
+      ],
+      "aliases": [
+        "xigua",
+        "ixigua",
+        "xigua-video"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2534,
+          "collection": "GoTab 公开资源库",
+          "file": "bytedance-xigua.svg",
+          "gotab_id": 14,
+          "id": 338,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "xigua.svg",
+            "original_is_default": true,
+            "original_slug": "xigua"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2312,
+            "previous_sha256": "397d04a662b5235dd55eb422f9f8bd97860a3eeac8bd1cfb8023c14dfeb46c80",
+            "ratio": 0.2
+          },
+          "sha256": "316d171204b7908583ba64a4105c77b97dadc456be26ec086d0dfa07331f8c10",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8H0DFQ7E92ZBE8VB59BV1B9.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1475,
+          "collection": "已有图标",
+          "file": "bytedance-xigua-1.svg",
+          "id": 339,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xigua-2.svg",
+            "original_is_default": false,
+            "original_slug": "xigua"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1242,
+            "previous_sha256": "3221714a4f58cccf197234af5f807dbd72080958cb8522927c465b9c0d202ec5",
+            "ratio": 0.2
+          },
+          "sha256": "0da880cd6334ca6916e3aba22ab971214f72cdd4f36286541ed65cb04e9820b0",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#xigua",
+          "version": 1
+        },
+        {
+          "bytes": 604,
+          "collection": "已有图标",
+          "file": "bytedance-xigua-2.svg",
+          "id": 340,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xigua-3.svg",
+            "original_is_default": false,
+            "original_slug": "xigua"
+          },
+          "rounded_corners": {
+            "previous_bytes": 371,
+            "previous_sha256": "0beb5f03b5546462a114e5f94bb1eeaa823610a70471fc32e6793dfc2e65c5df",
+            "ratio": 0.2
+          },
+          "sha256": "4a8f38f5b0c88bb63b44900754a7fbb5cf1bf688e5c2e3cbe639af7c47c9eaf5",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/xiGuaShiPing.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "collection_id": 194,
+  "schema_version": 1,
+  "id": 290,
+  "title": "花瓣网",
+  "url": "https://huaban.com",
+  "domains": [
+    "huaban.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "设计",
+    "素材",
+    "花瓣网",
+    "huaban",
+    "huaban.com"
+  ],
+  "aliases": [
+    "huaban"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1909,
+      "collection": "GoTab 公开资源库",
+      "file": "huaban.svg",
+      "gotab_id": 69,
+      "id": 717,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "huaban-1.svg",
+        "original_is_default": true,
+        "original_slug": "huaban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1687,
+        "previous_sha256": "a0abccfa89cc64e074b4b3e1b5ff6d8bdcd32af31b3cf0db134b0a46c41de4b8",
+        "ratio": 0.2
+      },
+      "sha256": "fd5e945272f7d15900a8a2746b4989342726284241b7d2b0c12a7d074b6be92a",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKFCE02MKM0T3F55XHKBYJ.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1326,
+      "collection": "已有图标",
+      "file": "huaban-1.svg",
+      "id": 718,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "attribution-required",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huaban.svg",
+        "original_is_default": false,
+        "original_slug": "huaban"
+      },
+      "sha256": "577e9c8d769c1f62273037fc7298c553ff0e0a3a41a3f9ce9ec1d083c7d49da5",
+      "source": "https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/svg/CN_huaban.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1091,
+      "collection": "已有图标",
+      "file": "huaban-2.svg",
+      "id": 719,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huaban-2.svg",
+        "original_is_default": false,
+        "original_slug": "huaban"
+      },
+      "rounded_corners": {
+        "previous_bytes": 871,
+        "previous_sha256": "d13e7bdffbb2435014ba14f93cfe29d1c325cd80f46874fd05385030c7cd1158",
+        "ratio": 0.2
+      },
+      "sha256": "db7ff69b9928b7c894b0d4034700eb1a2317527f0cfd2fde72a35720af6cd1ba",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/huaban.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

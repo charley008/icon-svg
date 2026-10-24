@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 630 630" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="630" height="630" rx="126"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs><clipPath id="website-icon-rounded-corners" clipPathUnits="userSpaceOnUse"><rect x="0.0" y="0.0" width="630.0" height="630.0" rx="118.125" ry="118.125" /></clipPath></defs><g clip-path="url(#website-icon-rounded-corners)"><rect width="630" height="630" fill="#d22322" />
+  <path fill="#fff" d="M139 169.5H492A26.5 26.5 0 0 1 518.5 196V420A26.5 26.5 0 0 1 492 446.5H419.5V502.5L346 446.5H139A26.5 26.5 0 0 1 112.5 420V196A26.5 26.5 0 0 1 139 169.5Z" />
+  <path fill="#d22322" d="M197 206H258V410H197ZM296 206H451V262.5H404V411H343V262.5H296Z" />
+</g></g></svg>

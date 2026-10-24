@@ -1,0 +1,45 @@
+{
+  "title": "Western Digital",
+  "url": "https://www.westerndigital.com/",
+  "domains": [
+    "www.westerndigital.com"
+  ],
+  "description": "硬盘与数据存储设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "西部数据",
+    "WD",
+    "硬盘",
+    "存储",
+    "Western Digital"
+  ],
+  "aliases": [
+    "western-digital",
+    "西部数据",
+    "WD",
+    "硬盘",
+    "存储"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "western-digital.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "08ce4514c3c44dbb58a3a7d5139d3ef128a81fd0ccac93b3642308f247831af8",
+      "bytes": 2177,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/western-digital.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "western-digital.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

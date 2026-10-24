@@ -1,0 +1,43 @@
+{
+  "title": "AlmaLinux",
+  "url": "https://almalinux.org/",
+  "domains": [
+    "almalinux.org"
+  ],
+  "description": "企业 Linux 操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "服务器",
+    "发行版",
+    "AlmaLinux"
+  ],
+  "aliases": [
+    "alma-linux",
+    "Linux",
+    "服务器",
+    "发行版"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "alma-linux.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "c903b955d6c407e854929c189e27025f617797919999917866ddeedb024c5525",
+      "bytes": 2718,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alma-linux.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "alma-linux.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

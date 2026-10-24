@@ -1,0 +1,44 @@
+{
+  "collection_id": 467,
+  "schema_version": 1,
+  "id": 631,
+  "title": "Dell",
+  "url": "https://www.dell.com/",
+  "domains": [
+    "dell.com"
+  ],
+  "description": "Dell 图标合集。",
+  "category": "设备硬件",
+  "tags": [
+    "Dell",
+    "dell",
+    "戴尔",
+    "电脑",
+    "服务器"
+  ],
+  "aliases": [
+    "戴尔"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1368,
+      "collection": "用户补充 SVG",
+      "file": "dell.svg",
+      "id": 1571,
+      "is_default": true,
+      "label": "dell-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "dell-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/dell-1.svg"
+      },
+      "sha256": "283a0276d6dbd515f2a78e853958e17d6d49eec10b8594313c66305e7dbecf7b",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/dell-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

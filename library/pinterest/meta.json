@@ -1,0 +1,167 @@
+{
+  "collection_id": 313,
+  "schema_version": 1,
+  "id": 440,
+  "title": "Pinterest",
+  "url": "https://pinterest.com",
+  "domains": [
+    "pinterest.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "Pinterest",
+    "pinterest.com"
+  ],
+  "aliases": [
+    "pinterest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1360,
+      "collection": "已有图标",
+      "file": "pinterest.svg",
+      "id": 1108,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinterest.svg",
+        "original_is_default": true,
+        "original_slug": "pinterest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1138,
+        "previous_sha256": "3aef0f3dbded58ee334f2357db216f00f7e5059cd83b0cfca4ac9019225ab051",
+        "ratio": 0.2
+      },
+      "sha256": "84b03d88afe646a6660a1091dca2286f1dbeb7a9ea2b0e17bc237a996a595e2d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/pinterest/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2333,
+      "collection": "GoTab 公开资源库",
+      "file": "pinterest-1.svg",
+      "gotab_id": 128,
+      "id": 1109,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pinterest-1.svg",
+        "original_is_default": false,
+        "original_slug": "pinterest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2111,
+        "previous_sha256": "69a0ea230e16271d8853c41fdfae1592990206c823200cfe8b55c6a3dafc1180",
+        "ratio": 0.2
+      },
+      "sha256": "69d22c3590921bedef84120555f6102fbb969b355e4724dca8bb4a92e292c546",
+      "source": "https://web.gotab.cn/uploads/202409/01J8S4REW03GW3PH0MQTSEZPP0.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1301,
+      "collection": "已有图标",
+      "file": "pinterest-2.svg",
+      "id": 1110,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinterest-2.svg",
+        "original_is_default": false,
+        "original_slug": "pinterest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1076,
+        "previous_sha256": "afa640824ba4b1116288486b635c2e9299ffc165ca89c4f5fbcccc6de9fff1ad",
+        "ratio": 0.2
+      },
+      "sha256": "efd74355f56fb59b252a2481ea6292dd4f09373239f12f155ab1a2ae54c43844",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/pinterest-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1235,
+      "collection": "已有图标",
+      "file": "pinterest-3.svg",
+      "id": 1111,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinterest-3.svg",
+        "original_is_default": false,
+        "original_slug": "pinterest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1002,
+        "previous_sha256": "b80d76c44b3bcf7e6acacbf9b1dad97cbc5a4c7f8abf27e93d78cc9d0fc60f63",
+        "ratio": 0.2
+      },
+      "sha256": "09385352b603f18de7e7915c401e6bab9a87e5fb90778ec266d8d255f951b692",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/pinterest/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1309,
+      "collection": "已有图标",
+      "file": "pinterest-4.svg",
+      "id": 1112,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinterest-4.svg",
+        "original_is_default": false,
+        "original_slug": "pinterest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1086,
+        "previous_sha256": "bb12f6338768f1d9822f19d8d4e33b527c710f731b10769be0da0b74ea07c0ff",
+        "ratio": 0.2
+      },
+      "sha256": "d1db1bca8c26ebb0e435c77ab6bba38fb61a776efaa0d24531468d2cc5b192e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pinterest.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1235,
+      "collection": "已有图标",
+      "file": "pinterest-5.svg",
+      "id": 1113,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinterest-5.svg",
+        "original_is_default": false,
+        "original_slug": "pinterest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1002,
+        "previous_sha256": "7324fe72bcd745e5246560c10af635fddd42bd57508c0af0aa91c852a77ec1ec",
+        "ratio": 0.2
+      },
+      "sha256": "687ed5c08defd4b63d7d9d67b2c844c6b78b41e40583e1e8529a46628ba6bd0b",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinterest.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

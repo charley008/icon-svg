@@ -1,0 +1,43 @@
+{
+  "title": "Alpine Linux",
+  "url": "https://alpinelinux.org/",
+  "domains": [
+    "alpinelinux.org"
+  ],
+  "description": "轻量 Linux 操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "操作系统",
+    "发行版",
+    "Alpine Linux"
+  ],
+  "aliases": [
+    "alpine-linux",
+    "Linux",
+    "操作系统",
+    "发行版"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "alpine-linux.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2b43c659afde42e48d15c79e60f966d327b025d073a748c950611854cd6e1f74",
+      "bytes": 981,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alpine-linux.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "alpine-linux.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

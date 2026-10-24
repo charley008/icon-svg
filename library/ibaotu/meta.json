@@ -1,0 +1,51 @@
+{
+  "collection_id": 200,
+  "schema_version": 1,
+  "id": 297,
+  "title": "包图网",
+  "url": "https://ibaotu.com",
+  "domains": [
+    "ibaotu.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "包图网",
+    "ibaotu",
+    "ibaotu.com"
+  ],
+  "aliases": [
+    "ibaotu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3193,
+      "collection": "GoTab 公开资源库",
+      "file": "ibaotu.svg",
+      "gotab_id": 107,
+      "id": 740,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ibaotu.svg",
+        "original_is_default": true,
+        "original_slug": "ibaotu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2971,
+        "previous_sha256": "099d9f39436c0e318a188bff29b3b815441b660225bb1bf4efe031923ef2f353",
+        "ratio": 0.2
+      },
+      "sha256": "d55ceba9beea540aec9d9d30ab15a57e74c4ae4c7febcd77580ae0c5845defd1",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8P3SS4PD6PDJ1G1Y86HMSXW.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

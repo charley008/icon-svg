@@ -1,0 +1,284 @@
+{
+  "collection_id": 229,
+  "schema_version": 1,
+  "id": 328,
+  "title": "快手",
+  "url": "https://kuaishou.com",
+  "domains": [
+    "kuaishou.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "影音",
+    "短视频",
+    "快手",
+    "kuaishou",
+    "kwai",
+    "kuaishou.com"
+  ],
+  "aliases": [
+    "kuaishou",
+    "kwai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1491,
+      "collection": "已有图标",
+      "file": "kuaishou.svg",
+      "id": 812,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kuaishou.svg",
+        "original_is_default": true,
+        "original_slug": "kuaishou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1258,
+        "previous_sha256": "38d617a495151e847f047fb8b77e464d5343c01cb66226fd83659a9a3391ee75",
+        "ratio": 0.2
+      },
+      "sha256": "ab0ccd08c29c21320e54b21bcc8a3da0d8b3d7247a42ef58b0ff408d8661b16e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/kuaishou/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3291,
+      "collection": "GoTab 公开资源库",
+      "file": "kuaishou-1.svg",
+      "gotab_id": 78,
+      "id": 813,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "kuaishou-1.svg",
+        "original_is_default": false,
+        "original_slug": "kuaishou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3069,
+        "previous_sha256": "b6d7a56bb1cc6c55cad20d9282136ff25c9fd02b8bfed5106302f4c0d56bc995",
+        "ratio": 0.2
+      },
+      "sha256": "6e9bb6f65df1c1a587503d85def365c213385180539605bd4de34d813be45e81",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HMP7FZ93AMHN301JNM2F0D.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1491,
+      "collection": "已有图标",
+      "file": "kuaishou-2.svg",
+      "id": 814,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kuaishou-2.svg",
+        "original_is_default": false,
+        "original_slug": "kuaishou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1258,
+        "previous_sha256": "b07905a711e8edac93721403e558e04d1b7a2ac86dc98041ec57b7e7000342df",
+        "ratio": 0.2
+      },
+      "sha256": "2d576333e9b3f9f2c62ef2bbef068fa160149b95959896d600690f04fc8433c7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/kuaishou/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1009,
+      "collection": "已有图标",
+      "file": "kuaishou-3.svg",
+      "id": 815,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kuaishou-3.svg",
+        "original_is_default": false,
+        "original_slug": "kuaishou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 776,
+        "previous_sha256": "aa49b7dd3e507d122ca3f85b0c6b456e860c64100eff4cf0bacee2194e1ef2dc",
+        "ratio": 0.2
+      },
+      "sha256": "f97e6758d5b7c6aa276492b8683f4b19edbd9e387a3aab9297d17761ef0cfad6",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#kwai",
+      "version": 3
+    },
+    {
+      "bytes": 1807,
+      "collection": "已有图标",
+      "file": "kuaishou-4.svg",
+      "id": 816,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kuaishou-4.svg",
+        "original_is_default": false,
+        "original_slug": "kuaishou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1574,
+        "previous_sha256": "5b85b27ce87c572f05a9b8a85ed5fbe7fa2377368691106d93021465644c059a",
+        "ratio": 0.2
+      },
+      "sha256": "fc0dc986d1a14afce1b8a48bc4f07f8d5f8a1b6394292bb13040bc7cf55d026e",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/kuaiShou.svg",
+      "version": 4
+    },
+    {
+      "bytes": 3214,
+      "collection": "已有图标",
+      "file": "kuaishou-5.svg",
+      "id": 817,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kuaishou-5.svg",
+        "original_is_default": false,
+        "original_slug": "kuaishou"
+      },
+      "sha256": "d7b442d9094703a4ac20fd2b2455d72ace1813784ac792854db2cb30b1d9d9c5",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/kuaiShou_wordmark.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 329,
+      "key": "kling",
+      "title": "可灵AI",
+      "url": "https://klingai.com",
+      "domains": [
+        "klingai.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "人工智能",
+        "AI 视频",
+        "视频生成",
+        "可灵AI",
+        "kling",
+        "klingai",
+        "klingai.com"
+      ],
+      "aliases": [
+        "kling",
+        "klingai"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2418,
+          "collection": "用户优选",
+          "file": "kuaishou-kling.svg",
+          "id": 818,
+          "is_default": true,
+          "label": "klingai",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "kling.svg",
+            "original_is_default": true,
+            "original_slug": "kling"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2185,
+            "previous_sha256": "adb1a3a6ca0510152faa1d4ec6b50184aa050ecaa5a56e5372d9a53274af197b",
+            "ratio": 0.2
+          },
+          "sha256": "e9be00d578446211da31ef575154ab9622ef2c65054555d3d8b87f086f15cf2c",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 4689,
+          "collection": "用户优化 SVG",
+          "file": "kuaishou-kling-1.svg",
+          "id": 819,
+          "is_default": false,
+          "label": "klingai.com",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "kling-1.svg",
+            "original_is_default": false,
+            "original_slug": "kling"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4467,
+            "previous_sha256": "abbb2540a65dff5ec8c0d17d43d49dd4e82277b047213e636970b092b63d63ce",
+            "ratio": 0.2
+          },
+          "sha256": "9e8c47fc3d02de14f65b226f3eebcfdb57ec424ad31ad08f40d8b925e2c574c8",
+          "source": "用户确认优化：klingai.com-candidate.svg；保留原图布局的纯矢量候选（人民网标志复用图库已有矢量）",
+          "version": 1
+        },
+        {
+          "bytes": 1152,
+          "collection": "theSVG",
+          "file": "kuaishou-kling-2.svg",
+          "id": 820,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "kling-2.svg",
+            "original_is_default": false,
+            "original_slug": "kling"
+          },
+          "rounded_corners": {
+            "previous_bytes": 919,
+            "previous_sha256": "27bbfa1cbf0a6f486f4ca0a66d08a2b3820c4a2b99bb331d398e566c438b01d9",
+            "ratio": 0.2
+          },
+          "sha256": "77627ceef20f5170f71fdd9f1910389da12e9763118bea757aba5374548b375c",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/kling/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 3156,
+          "collection": "SVGLOGO",
+          "file": "kuaishou-kling-3.svg",
+          "id": 821,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "kling-3.svg",
+            "original_is_default": false,
+            "original_slug": "kling"
+          },
+          "sha256": "26cf65eb6ea29a2f6b9dc2b3ad241f1376cb7249993a4bd311aec60939d811c6",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Kling_wordmark.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    }
+  ]
+}

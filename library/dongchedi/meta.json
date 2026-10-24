@@ -1,0 +1,123 @@
+{
+  "collection_id": 126,
+  "schema_version": 1,
+  "id": 197,
+  "title": "懂车帝",
+  "url": "https://dongchedi.com",
+  "domains": [
+    "dongchedi.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "出行",
+    "懂车帝",
+    "dongchedi",
+    "dongchedi.com"
+  ],
+  "aliases": [
+    "dongchedi"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 6345,
+      "collection": "已有图标",
+      "file": "dongchedi.svg",
+      "id": 477,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "dongchedi.svg",
+        "original_is_default": true,
+        "original_slug": "dongchedi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6123,
+        "previous_sha256": "19dbc0c0201d3f1c09f5ac373fbe2d6c560073be43dfddb7ad8fa8d89ddda2f4",
+        "ratio": 0.2
+      },
+      "sha256": "991b5d660b34979f57db0d3a380a08cdac12da62ee108626b81e6f168205d0d6",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1840,
+      "collection": "GoTab 公开资源库",
+      "file": "dongchedi-1.svg",
+      "gotab_id": 226,
+      "id": 478,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "dongchedi-1.svg",
+        "original_is_default": false,
+        "original_slug": "dongchedi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1618,
+        "previous_sha256": "6c90952a8a366a216ebe46640334b191dd0d348bf3241fc877d6a963792c4bd4",
+        "ratio": 0.2
+      },
+      "sha256": "5612a513a7b03867ddea87f6b32943989f0bd0d182dad69be87b703b42a9698c",
+      "source": "https://web.gotab.cn/uploads/202507/01K0R53HHCP0RQ4DB4GHYA9GQF.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1146,
+      "collection": "已有图标",
+      "file": "dongchedi-2.svg",
+      "id": 479,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dongchedi-2.svg",
+        "original_is_default": false,
+        "original_slug": "dongchedi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 913,
+        "previous_sha256": "5933ea36ea2128685d7670eb456c72e4ec4a67fc8145176a6cc42318c18e1bdd",
+        "ratio": 0.2
+      },
+      "sha256": "0a83f19e1b17b3a3ad61d67c99fc3ccbceb6bb80c02ff58c49e140f2bd989ece",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#dongchedi",
+      "version": 2
+    },
+    {
+      "bytes": 788,
+      "collection": "已有图标",
+      "file": "dongchedi-3.svg",
+      "id": 480,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dongchedi-3.svg",
+        "original_is_default": false,
+        "original_slug": "dongchedi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 555,
+        "previous_sha256": "82b829423cfe60f04cb9a9249ac48045309ad0aee9769b11c9faa76e09c0885a",
+        "ratio": 0.2
+      },
+      "sha256": "6816e5215d60bcd055dcf32d5d72625c57407d0667cb5b3e7edb84e4858b1a04",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#dongchedi",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

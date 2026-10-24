@@ -1,0 +1,51 @@
+{
+  "collection_id": 191,
+  "schema_version": 1,
+  "id": 287,
+  "title": "荣耀",
+  "url": "https://honor.com",
+  "domains": [
+    "honor.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "国内补充",
+    "硬件",
+    "设备",
+    "荣耀",
+    "honor",
+    "honor.com"
+  ],
+  "aliases": [
+    "honor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1400,
+      "collection": "theSVG",
+      "file": "honor.svg",
+      "id": 714,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "honor.svg",
+        "original_is_default": true,
+        "original_slug": "honor"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1167,
+        "previous_sha256": "b5d2b1ecc0634058d56b72829090dff668715f78723d104819d16c13eb461940",
+        "ratio": 0.2
+      },
+      "sha256": "183219b96f06dc37a0dc5637e0e0e3620bdbf1dc12499cdcf30440cf30f5c7e2",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/honor/default.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 266,
+  "schema_version": 1,
+  "id": 384,
+  "title": "Mockup Planet",
+  "url": "https://mockupplanet.com",
+  "domains": [
+    "mockupplanet.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Mockup Planet",
+    "mockupplanet",
+    "mockupplanet.com"
+  ],
+  "aliases": [
+    "mockupplanet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7543,
+      "collection": "GoTab 公开资源库",
+      "file": "mockupplanet.svg",
+      "gotab_id": 126,
+      "id": 970,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "mockupplanet.svg",
+        "original_is_default": true,
+        "original_slug": "mockupplanet"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7321,
+        "previous_sha256": "fd74535689aac71bdd09db5a4949f4f15546501aa3f7d25e9e743dddaef623f5",
+        "ratio": 0.2
+      },
+      "sha256": "45df0ac369f00ef69258555e400088eee53c73791d8e322945c7b1a26d324bf2",
+      "source": "https://web.gotab.cn/uploads/202409/01J8QCB04VGQZ53A6NENSME83H.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

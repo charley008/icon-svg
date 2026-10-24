@@ -1,0 +1,155 @@
+{
+  "collection_id": 117,
+  "schema_version": 1,
+  "id": 187,
+  "title": "Dify",
+  "url": "https://dify.ai",
+  "domains": [
+    "dify.ai"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "人工智能",
+    "Dify",
+    "dify.ai"
+  ],
+  "aliases": [
+    "dify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 969,
+      "collection": "已有图标",
+      "file": "dify.svg",
+      "id": 445,
+      "is_default": true,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dify-3.svg",
+        "original_is_default": true,
+        "original_slug": "dify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 736,
+        "previous_sha256": "282363fa6e3b503ea2c33f193f0adc008130274a9638fb49ce9827e79faac827",
+        "ratio": 0.2
+      },
+      "sha256": "d32eb6b0a6f0f547da235e9eeeac562543d01919de1635cc43947990c514f173",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dify.svg",
+      "version": 0
+    },
+    {
+      "bytes": 763,
+      "collection": "已有图标",
+      "file": "dify-1.svg",
+      "id": 446,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dify.svg",
+        "original_is_default": false,
+        "original_slug": "dify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 530,
+        "previous_sha256": "0de95858da2c1b5511d38111b73111a198e862f2dc81013e3328b720e11b9ba3",
+        "ratio": 0.2
+      },
+      "sha256": "63e05683cf10dca8d4ed4e65652fa1e857b93a3473c9898e49431bfd18cf3d38",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dify/color.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1312,
+      "collection": "GoTab 公开资源库",
+      "file": "dify-2.svg",
+      "gotab_id": 246,
+      "id": 447,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "dify-1.svg",
+        "original_is_default": false,
+        "original_slug": "dify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1090,
+        "previous_sha256": "4b26cb192957042f97f84ab1487dc2a14dc3786627430fd96b0aad0f4bfd0e72",
+        "ratio": 0.2
+      },
+      "sha256": "3795129d75ba90c163e4ac53c75124baac4747461d9a73787608f781ce0d1de6",
+      "source": "https://web.gotab.cn/sourceStore/website/01KDC627Q5NR3BC52K05NDZ5NS.svg",
+      "version": 2
+    },
+    {
+      "bytes": 764,
+      "collection": "已有图标",
+      "file": "dify-3.svg",
+      "id": 448,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dify-2.svg",
+        "original_is_default": false,
+        "original_slug": "dify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 531,
+        "previous_sha256": "afc70a5651d401fe5719b5fb4f98ece6e099c3857c7fb782ef43ec527377995c",
+        "ratio": 0.2
+      },
+      "sha256": "9aa0a37fbe476b3e516b984ba1f3ba6c1e3c7c3878de0acb5a13f8db6f4be875",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dify/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 943,
+      "collection": "已有图标",
+      "file": "dify-4.svg",
+      "id": 449,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dify-4.svg",
+        "original_is_default": false,
+        "original_slug": "dify"
+      },
+      "sha256": "a5e43cf39d524e6c8dae5307efaa4ec14420ee30c0e61ed925420e34c00bbfec",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#dify",
+      "version": 4
+    },
+    {
+      "bytes": 1046,
+      "collection": "已有图标",
+      "file": "dify-5.svg",
+      "id": 450,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dify-5.svg",
+        "original_is_default": false,
+        "original_slug": "dify"
+      },
+      "sha256": "f1db9f40af973ccb88d83ee015c2499354c64dab52cc599a33594703ca20d842",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Dify_wordmark.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

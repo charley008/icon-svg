@@ -1,0 +1,93 @@
+{
+  "collection_id": 59,
+  "schema_version": 1,
+  "id": 106,
+  "title": "中国银行",
+  "url": "https://boc.cn",
+  "domains": [
+    "boc.cn"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "中国银行",
+    "boc",
+    "bank-of-china",
+    "boc.cn"
+  ],
+  "aliases": [
+    "boc",
+    "bank-of-china"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 972,
+      "collection": "SVGLOGO",
+      "file": "boc.svg",
+      "id": 263,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "boc.svg",
+        "original_is_default": true,
+        "original_slug": "boc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 750,
+        "previous_sha256": "96f9bf250a2b91f1304fa9d21d47fb421bacdeada5e55afebeb05fd941dae87d",
+        "ratio": 0.2
+      },
+      "sha256": "8a699d63afe33790c8289ea59d710b8d419ee531d4079853c50576867b48fcde",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/BOC.svg",
+      "version": 0
+    },
+    {
+      "bytes": 19700,
+      "collection": "SVGLOGO",
+      "file": "boc-1.svg",
+      "id": 264,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "boc-1.svg",
+        "original_is_default": false,
+        "original_slug": "boc"
+      },
+      "sha256": "5df3d0b86d6d7dfcaa41e29e62d194a755fc87cd677e88b95e46e35a43936a0f",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/BOC_wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 761,
+      "collection": "Iconify / arcticons",
+      "file": "boc-2.svg",
+      "id": 265,
+      "is_default": false,
+      "label": "boc",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "boc-2.svg",
+        "original_is_default": false,
+        "original_slug": "boc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 528,
+        "previous_sha256": "31204909c9214d07a11f5bf18fa82ec4952248e034ec6a34ee157dae3a539b82",
+        "ratio": 0.2
+      },
+      "sha256": "22e6a55f2592cf48ea319ca6042e4ec96cdb41186d48d35c833f14911bab8b7f",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#boc",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Joomla",
+  "url": "https://www.joomla.org/",
+  "domains": [
+    "www.joomla.org"
+  ],
+  "description": "开源内容管理系统。",
+  "category": "开发编程",
+  "tags": [
+    "CMS",
+    "网站建设",
+    "内容管理",
+    "Joomla"
+  ],
+  "aliases": [
+    "joomla",
+    "CMS",
+    "网站建设",
+    "内容管理",
+    "content-management-system",
+    "website-builder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "joomla.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "27ffbbe17e835a80ef750ad8887f1b6aa169b0568d5f4e403e73dd2cf9975e85",
+      "bytes": 1210,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/joomla.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "joomla.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

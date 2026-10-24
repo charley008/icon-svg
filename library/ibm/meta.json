@@ -1,0 +1,46 @@
+{
+  "collection_id": 201,
+  "schema_version": 1,
+  "id": 298,
+  "title": "IBM",
+  "url": "https://ibm.com",
+  "domains": [
+    "ibm.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Worldvectorlogo补充",
+    "硬件",
+    "设备",
+    "IBM",
+    "ibm.com"
+  ],
+  "aliases": [
+    "ibm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2039,
+      "collection": "Worldvectorlogo",
+      "file": "ibm.svg",
+      "id": 741,
+      "is_default": true,
+      "label": "ibm",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ibm.svg",
+        "original_is_default": true,
+        "original_slug": "ibm"
+      },
+      "sha256": "a5d7885212f3c9e21363b532b79ca41fe61ddb5804340f6762fa663ce626984e",
+      "source": "https://cdn.worldvectorlogo.com/logos/ibm.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/ibm",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

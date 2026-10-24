@@ -1,0 +1,72 @@
+{
+  "collection_id": 227,
+  "schema_version": 1,
+  "id": 326,
+  "title": "Keep",
+  "url": "https://gotokeep.com",
+  "domains": [
+    "gotokeep.com"
+  ],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "国内补充",
+    "体育",
+    "Keep",
+    "gotokeep.com"
+  ],
+  "aliases": [
+    "keep"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 803,
+      "collection": "SVGLOGO",
+      "file": "keep.svg",
+      "id": 806,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keep.svg",
+        "original_is_default": true,
+        "original_slug": "keep"
+      },
+      "rounded_corners": {
+        "previous_bytes": 570,
+        "previous_sha256": "01d8ceda80670ff83f887c5c10248f5e0925af2c392da36a3df56947ebe595f0",
+        "ratio": 0.2
+      },
+      "sha256": "484b535edec38ec3aa8ba6850ea459c4f4097c987990ee872be5a901da8f226f",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/keep.svg",
+      "version": 0
+    },
+    {
+      "bytes": 816,
+      "collection": "Iconify / arcticons",
+      "file": "keep-1.svg",
+      "id": 807,
+      "is_default": false,
+      "label": "keep",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keep-1.svg",
+        "original_is_default": false,
+        "original_slug": "keep"
+      },
+      "rounded_corners": {
+        "previous_bytes": 583,
+        "previous_sha256": "4ab2ba0d424137ffe1b6494ee54ada283ebc81d6525fb562d7a0f870db5b0eca",
+        "ratio": 0.2
+      },
+      "sha256": "aee85b87b9ec7c0bd87cc19934f60b9843e5552acffc38dc278041503e026031",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#keep",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,138 @@
+{
+  "collection_id": 228,
+  "schema_version": 1,
+  "id": 327,
+  "title": "Kimi",
+  "url": "https://kimi.com",
+  "domains": [
+    "kimi.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "用户优选",
+    "人工智能",
+    "AI 对话",
+    "聊天助手",
+    "Kimi",
+    "moonshot",
+    "kimi.com"
+  ],
+  "aliases": [
+    "kimi",
+    "moonshot"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1275,
+      "collection": "theSVG",
+      "file": "kimi.svg",
+      "id": 808,
+      "is_default": true,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kimi.svg",
+        "original_is_default": true,
+        "original_slug": "kimi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1052,
+        "previous_sha256": "b78469ab1276e9d6f4fc6bd0498b948e265c2400be725a487e877a538543ffbf",
+        "ratio": 0.2
+      },
+      "sha256": "8ff1ed74ed1fdf818370e69dce47b696daa8a3d1bc7a31b8631959ae9b57ca2b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/kimi/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4296,
+      "collection": "theSVG",
+      "file": "kimi-1.svg",
+      "id": 809,
+      "is_default": false,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kimi-2.svg",
+        "original_is_default": false,
+        "original_slug": "kimi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4063,
+        "previous_sha256": "0702e22e05dbd2ecb98d005c859a3dd7533d84f28e2431a5bcee3cea01cac832",
+        "ratio": 0.2
+      },
+      "sha256": "be29bafed4ad5e3bc77b47b73b09fb42f09ae1b7630b9807b39077ccf0fddf17",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/moonshot/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 571,
+      "collection": "theSVG",
+      "file": "kimi-2.svg",
+      "id": 810,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kimi-3.svg",
+        "original_is_default": false,
+        "original_slug": "kimi"
+      },
+      "sha256": "26602e86b6246951b755f0205d39208e0d1f55f77f63ddd2a0f45bb90812cc06",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/kimi/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 980,
+      "collection": "Simple Icons",
+      "file": "kimi-3.svg",
+      "id": 811,
+      "is_default": false,
+      "label": "kimi",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kimi-4.svg",
+        "original_is_default": false,
+        "original_slug": "kimi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 747,
+        "previous_sha256": "e43551e69bf93cdbf61e612c1a5e94013b41ee341f9eda0b22e6c299dc33898b",
+        "ratio": 0.2
+      },
+      "sha256": "c357665afc009544b02dea40b5edb72480499a0eb98dfb889c6fc3d5523aa2bb",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kimi.svg",
+      "version": 3
+    },
+    {
+      "bytes": 966,
+      "collection": "用户补充 SVG",
+      "file": "kimi-4.svg",
+      "id": 1583,
+      "is_default": false,
+      "label": "黑底蓝点 K 图标",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "official-vector-adapted",
+      "provenance": {
+        "original_file": "kimi-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/kimi-3.svg"
+      },
+      "sha256": "e4d9956fa01f4e1079021e0c6a26b23f271160fb63b86bdae486b2838c3c43dc",
+      "source": "https://moonshotai.github.io/Branding-Guide/scenarios/04-k-only/k-only-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

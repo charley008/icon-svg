@@ -1,0 +1,41 @@
+{
+  "title": "Portainer",
+  "url": "https://www.portainer.io/",
+  "domains": [
+    "www.portainer.io"
+  ],
+  "description": "容器管理应用。",
+  "category": "系统工具",
+  "tags": [
+    "Docker",
+    "容器管理",
+    "Portainer"
+  ],
+  "aliases": [
+    "portainer",
+    "Docker",
+    "容器管理"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "portainer.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "5d1e07021683d15ea67225c60975729f4ee0ed380f3a0fb21ffb2ad00eb6e85b",
+      "bytes": 675,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portainer.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "portainer.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

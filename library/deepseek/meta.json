@@ -1,0 +1,138 @@
+{
+  "collection_id": 112,
+  "schema_version": 1,
+  "id": 182,
+  "title": "DeepSeek",
+  "url": "https://deepseek.com",
+  "domains": [
+    "deepseek.com",
+    "platform.deepseek.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "全球Top100",
+    "中国地区Top100",
+    "人工智能",
+    "AI 对话",
+    "聊天助手",
+    "DeepSeek",
+    "deepseek.com",
+    "platform.deepseek.com"
+  ],
+  "aliases": [
+    "deepseek"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2452,
+      "collection": "已有图标",
+      "file": "deepseek.svg",
+      "id": 435,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepseek.svg",
+        "original_is_default": true,
+        "original_slug": "deepseek"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2219,
+        "previous_sha256": "cdea1b4a64c709ea3f3ed3bd1d6ea78d8d75ac86a966d98ac009fcab3f984197",
+        "ratio": 0.2
+      },
+      "sha256": "81d0edb3b1563cc9307ba9a9394982127792dffad8663b5e45c73023a0480f7f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/deepseek/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2801,
+      "collection": "GoTab 公开资源库",
+      "file": "deepseek-1.svg",
+      "gotab_id": 304,
+      "id": 436,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "deepseek-1.svg",
+        "original_is_default": false,
+        "original_slug": "deepseek"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2579,
+        "previous_sha256": "4cc455ef7991cfebd1d4c9c3ce8918d725f6afff53f3bc970aa2d1d3de68a340",
+        "ratio": 0.2
+      },
+      "sha256": "a7c38e910b488f04d70b86895cdfd4db663dbf4be6b8af016b07116ba362a5b9",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7YH2HW5763CM1GDGG1W1HM.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5359,
+      "collection": "已有图标",
+      "file": "deepseek-2.svg",
+      "id": 437,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepseek-2.svg",
+        "original_is_default": false,
+        "original_slug": "deepseek"
+      },
+      "sha256": "d70c4472c4bbcf001151b1080eb5fc8efa265ef894b8128deee355adb2529103",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/deepseek/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2412,
+      "collection": "已有图标",
+      "file": "deepseek-3.svg",
+      "id": 438,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepseek-3.svg",
+        "original_is_default": false,
+        "original_slug": "deepseek"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2179,
+        "previous_sha256": "05722af864924f49ff94548fb180eaa62e3e9cd43a3497a1b75509d9836d7549",
+        "ratio": 0.2
+      },
+      "sha256": "7ad50285400a508f665f9a604d67ba6514af7a52f07df45f7ded6712b57e3e97",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg",
+      "version": 3
+    },
+    {
+      "bytes": 6543,
+      "collection": "已有图标",
+      "file": "deepseek-4.svg",
+      "id": 439,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepseek-4.svg",
+        "original_is_default": false,
+        "original_slug": "deepseek"
+      },
+      "sha256": "bb9c84bbe8f4bf118aa1e5326526a9b034a37f605b21a6c86758e801c3b42d4f",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#deepseek",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

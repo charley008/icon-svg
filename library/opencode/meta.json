@@ -1,0 +1,51 @@
+{
+  "collection_id": 297,
+  "schema_version": 1,
+  "id": 423,
+  "title": "OpenCode",
+  "url": "https://opencode.ai",
+  "domains": [
+    "opencode.ai"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "AI 编程",
+    "代码助手",
+    "OpenCode",
+    "opencode.ai"
+  ],
+  "aliases": [
+    "opencode"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 841,
+      "collection": "GoTab 公开资源库",
+      "file": "opencode.svg",
+      "gotab_id": 317,
+      "id": 1074,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "opencode.svg",
+        "original_is_default": true,
+        "original_slug": "opencode"
+      },
+      "rounded_corners": {
+        "previous_bytes": 619,
+        "previous_sha256": "5b9e566acde47b3c20987e2a443ce69816a170b06403c08b915345e5ea68849b",
+        "ratio": 0.2
+      },
+      "sha256": "0bbd72f9b9d33091fac6ede0ac75df19f54fdf210f85fa5d9b4dbc481c2f63c8",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ80431467J69WSK7R1043DQ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

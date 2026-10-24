@@ -1,0 +1,57 @@
+{
+  "collection_id": 355,
+  "schema_version": 1,
+  "id": 486,
+  "title": "Skyjem",
+  "url": "https://skyjem.com",
+  "domains": [
+    "skyjem.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "中国地区Top100",
+    "搜索",
+    "导航",
+    "Skyjem",
+    "skyjem.com"
+  ],
+  "aliases": [
+    "skyjem"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 513,
+      "collection": "轻量矢量替换",
+      "file": "skyjem.svg",
+      "id": 1215,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "skyjem.svg",
+        "original_is_default": true,
+        "original_slug": "skyjem"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "51bd74418dd5dd8768ef2ed8ed260b228a226535304da1bf1727b34cb34add03",
+        "previous_bytes": 433815,
+        "previous_method": "traced-detail",
+        "previous_source": "https://skyjem.com/favicon.ico",
+        "reference": "https://skyjem.com/favicon.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "96d0eaa4ff4639df91fd5afe07c92e738b9e8fb0c776a71a92ffffffd2646821",
+      "source": "https://skyjem.com/favicon.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

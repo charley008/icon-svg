@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg version="1.1" id="图层_1" x="0" y="0" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+<style type="text/css">
+	.st0{fill:url(#Shape_00000177445712475151461950000010447044656223437224_);}
+	.st1{fill:url(#Shape_00000147900896231486188450000013816765715666779567_);}
+	.st2{fill:url(#Shape_00000121275622073734627660000014074155707699372950_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Combined-Shape_00000038407680953427744650000002119634304227627165_);}
+</style>
+<g id="Page-1">
+	<g id="logo" transform="translate(-20.000000, -20.000000)">
+		<g id="Group-28-Copy-5" transform="translate(20.000000, 20.000000)">
+			<g id="Group-27-Copy-3">
+				<g id="Group-25">
+					<g id="_x32_">
+						
+							<linearGradient id="Shape_00000145748710783013905870000015781732246197307581_" gradientUnits="userSpaceOnUse" x1="4.4226" y1="195.6927" x2="4.7859" y2="195.3943" gradientTransform="matrix(147.7263 0 0 -198.7057 -586.2496 38950.9648)">
+							<stop offset="0" style="stop-color:#4285EB" />
+							<stop offset="1" style="stop-color:#2EC7FF" />
+						</linearGradient>
+						<path id="Shape" style="fill:url(#Shape_00000145748710783013905870000015781732246197307581_);" d="M93.3,24.5L24.4,93.3        c-3.7,3.7-3.7,9.7,0,13.4l68.9,68.8c3.7,3.7,9.7,3.7,13.4,0l28.9-28.9c3.3-3.3,3.3-8.7,0-12c-3.3-3.3-8.7-3.3-12,0l-21.9,21.9        c-0.9,0.9-2.3,0.9-3.2,0l-55-55c-0.9-0.9-0.9-2.3,0-3.2l55-55c0.9-0.9,2.3-0.9,3.2,0l21.9,21.9c3.3,3.3,8.7,3.3,12,0        c3.3-3.3,3.3-8.7,0-12l-28.9-28.9C103,20.8,97,20.8,93.3,24.5z" />
+						
+							<linearGradient id="Shape_00000115487554280294104860000010755905449163048636_" gradientUnits="userSpaceOnUse" x1="4.5822" y1="195.9259" x2="4.4592" y2="195.0712" gradientTransform="matrix(147.7263 0 0 -198.7057 -586.2496 38950.9648)">
+							<stop offset="0" style="stop-color:#29CDFF" />
+							<stop offset="0.3786" style="stop-color:#148EFF" />
+							<stop offset="1" style="stop-color:#0A60FF" />
+						</linearGradient>
+						
+							<path id="Shape_00000069362595763328343950000002861795713300373695_" style="fill:url(#Shape_00000115487554280294104860000010755905449163048636_);" d="        M93.3,24.5L24.4,93.3c-3.7,3.7-3.7,9.7,0,13.4l68.9,68.8c3.7,3.7,9.7,3.7,13.4,0l28.9-28.9c3.3-3.3,3.3-8.7,0-12        c-3.3-3.3-8.7-3.3-12,0l-21.9,21.9c-0.9,0.9-2.3,0.9-3.2,0l-55-55c-0.9-0.9-0.9-2.3,0-3.2l55-55c2.3-2,6-6,11.5-6.9        c4.1-0.7,8.6,0.8,13.4,4.6c-3.2-3.2-8.8-8.8-16.7-16.7C103,20.8,97,20.8,93.3,24.5z" />
+					</g>
+					
+						<linearGradient id="Shape_00000105385318562325085330000016192357760099709353_" gradientUnits="userSpaceOnUse" x1="4.2409" y1="196.0524" x2="3.8234" y2="195.0251" gradientTransform="matrix(49.2049 0 0 -77.4363 -42.5401 15243.0859)">
+						<stop offset="0" style="stop-color:#FA816E" />
+						<stop offset="0.4147" style="stop-color:#F74A5C" />
+						<stop offset="1" style="stop-color:#F51D2C" />
+					</linearGradient>
+					
+						<path id="Shape_00000132780593899408817910000008057513385777554820_" style="fill:url(#Shape_00000105385318562325085330000016192357760099709353_);" d="       M142.3,128.3c3.3,3.3,8.7,3.3,12,0l21.3-21.3c3.7-3.7,3.7-9.7,0-13.4l-21.5-21.4c-3.3-3.3-8.7-3.3-12,0c-3.3,3.3-3.3,8.7,0,12       l14.5,14.5c0.9,0.9,0.9,2.3,0,3.2l-14.3,14.3C138.9,119.6,138.9,124.9,142.3,128.3z" />
+				</g>
+				
+					<linearGradient id="Combined-Shape_00000010301063755805062170000001662204415373828999_" gradientUnits="userSpaceOnUse" x1="4.5792" y1="196.2558" x2="4.2822" y2="195.0687" gradientTransform="matrix(47.2004 0 0 -47.1616 -107.8824 9324.5234)">
+					<stop offset="0" style="stop-color:#FA8E7D" />
+					<stop offset="0.5126" style="stop-color:#F74A5C" />
+					<stop offset="1" style="stop-color:#F51D2C" />
+				</linearGradient>
+				
+					<ellipse id="Combined-Shape" style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#Combined-Shape_00000010301063755805062170000001662204415373828999_);" cx="100.4" cy="100.4" rx="18.6" ry="18.6" />
+			</g>
+		</g>
+	</g>
+</g>
+</svg></g></g></svg>

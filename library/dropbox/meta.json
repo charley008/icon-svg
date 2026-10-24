@@ -1,0 +1,132 @@
+{
+  "collection_id": 132,
+  "schema_version": 1,
+  "id": 203,
+  "title": "Dropbox",
+  "url": "https://dropbox.com",
+  "domains": [
+    "dropbox.com"
+  ],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "全球App补充",
+    "网盘",
+    "云存储",
+    "Dropbox",
+    "dropbox.com"
+  ],
+  "aliases": [
+    "dropbox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 709,
+      "collection": "theSVG",
+      "file": "dropbox.svg",
+      "id": 496,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropbox.svg",
+        "original_is_default": true,
+        "original_slug": "dropbox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 487,
+        "previous_sha256": "ec8b606ee7f81b20aa8f17fb09f5303665efb69778425c59797e3c4a45868b1a",
+        "ratio": 0.2
+      },
+      "sha256": "fb1cd6db047473e7eea1227a48f82cc6aeb118b8313c575d0a42ca6ca306c690",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dropbox/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 712,
+      "collection": "theSVG",
+      "file": "dropbox-1.svg",
+      "id": 497,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropbox-1.svg",
+        "original_is_default": false,
+        "original_slug": "dropbox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 487,
+        "previous_sha256": "dc55e5266a7f85a98c180e7f14857a0f86ade88ad6a60a80e3eed61fdaa1deb4",
+        "ratio": 0.2
+      },
+      "sha256": "8aa5fda8906c250c1f11542bdcbe3429ea76a7cc959833f1f3a8cbeb115cbc7f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dropbox-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2353,
+      "collection": "theSVG",
+      "file": "dropbox-2.svg",
+      "id": 498,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropbox-2.svg",
+        "original_is_default": false,
+        "original_slug": "dropbox"
+      },
+      "sha256": "fb4a7bfa18b431b2a64edf9322bf84677bcfe4b663b4a09ce06374e8976cc127",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dropbox/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 662,
+      "collection": "theSVG",
+      "file": "dropbox-3.svg",
+      "id": 499,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropbox-3.svg",
+        "original_is_default": false,
+        "original_slug": "dropbox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 429,
+        "previous_sha256": "7be56222ae36c17fe9a3da31e80a79e285c097e90c4e3f3a897b02bd7caa51df",
+        "ratio": 0.2
+      },
+      "sha256": "b4db4ecb4ffe25e08e73299a6efb9e8b0e82ab00a3a8e00f0bb89c6178d716e4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dropbox/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 510,
+      "collection": "Dashboard Icons",
+      "file": "dropbox-4.svg",
+      "id": 500,
+      "is_default": false,
+      "label": "dropbox",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropbox-4.svg",
+        "original_is_default": false,
+        "original_slug": "dropbox"
+      },
+      "sha256": "e17317d1bdd9fdbab64d0993590b31d177b74d891fca6be86a3bb93bfc799c66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dropbox.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Audacity",
+  "url": "https://www.audacityteam.org/",
+  "domains": [
+    "www.audacityteam.org"
+  ],
+  "description": "开源音频编辑应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "音频编辑",
+    "录音",
+    "Audacity"
+  ],
+  "aliases": [
+    "audacity",
+    "音频编辑",
+    "录音",
+    "audio-editing-software",
+    "sound-editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "audacity.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "e452f47ce7df87e088bbfbe8073c3385bda59f0f0a4dce8bf0b5c42ab2f5caca",
+      "bytes": 2983,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/audacity.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "audacity.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

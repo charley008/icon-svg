@@ -1,0 +1,42 @@
+{
+  "title": "Hulu",
+  "url": "https://www.hulu.com/",
+  "domains": [
+    "www.hulu.com"
+  ],
+  "description": "视频流媒体服务。",
+  "category": "影音娱乐",
+  "tags": [
+    "视频",
+    "流媒体",
+    "Hulu"
+  ],
+  "aliases": [
+    "hulu",
+    "视频",
+    "流媒体",
+    "Streaming Service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "hulu.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "b1edb8d6ffa25fa030d9dbba46f0f686e6873d3d35b5f4cddc73dc913823b7e1",
+      "bytes": 819,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hulu.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "hulu.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

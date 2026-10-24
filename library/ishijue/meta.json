@@ -1,0 +1,51 @@
+{
+  "collection_id": 218,
+  "schema_version": 1,
+  "id": 315,
+  "title": "爱视觉",
+  "url": "https://ishijue.com",
+  "domains": [
+    "ishijue.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "爱视觉",
+    "ishijue",
+    "ishijue.com"
+  ],
+  "aliases": [
+    "ishijue"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13347,
+      "collection": "GoTab 公开资源库",
+      "file": "ishijue.svg",
+      "gotab_id": 131,
+      "id": 785,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ishijue.svg",
+        "original_is_default": true,
+        "original_slug": "ishijue"
+      },
+      "rounded_corners": {
+        "previous_bytes": 13125,
+        "previous_sha256": "08ee31aee1a7b3cad0e4c803ab5de72c63c52bf87996404c35361dcedef4c835",
+        "ratio": 0.2
+      },
+      "sha256": "e5e9eba8a2d276e7e73d6638d1500c294ba6af93db4276566e8fc3da68de21d0",
+      "source": "https://web.gotab.cn/uploads/202409/01J8S5J8PRN209006JFHXDFRMB.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Lexmark",
+  "url": "https://www.lexmark.com/",
+  "domains": [
+    "www.lexmark.com"
+  ],
+  "description": "打印与文档设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "利盟",
+    "打印机",
+    "办公设备",
+    "Lexmark"
+  ],
+  "aliases": [
+    "lexmark",
+    "利盟",
+    "打印机",
+    "办公设备"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "lexmark.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "91f045ae43278860d2bfb730d0258c7b436b7262e169e4c06cbfa99286b0895a",
+      "bytes": 385,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lexmark.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "lexmark.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

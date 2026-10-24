@@ -1,0 +1,42 @@
+{
+  "title": "Backblaze",
+  "url": "https://www.backblaze.com/",
+  "domains": [
+    "www.backblaze.com"
+  ],
+  "description": "云备份与存储服务。",
+  "category": "网盘存储",
+  "tags": [
+    "云备份",
+    "对象存储",
+    "Backblaze"
+  ],
+  "aliases": [
+    "backblaze",
+    "云备份",
+    "对象存储",
+    "Cloud Backup"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "backblaze.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ffd8ce8508b6a8faa6be5ba8e470c1bd878d9b27fe7b8b0a0ef3f47ad9ffbf41",
+      "bytes": 679,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/backblaze.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "backblaze.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

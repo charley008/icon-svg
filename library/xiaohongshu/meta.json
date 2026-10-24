@@ -1,0 +1,120 @@
+{
+  "collection_id": 429,
+  "schema_version": 1,
+  "id": 589,
+  "title": "小红书",
+  "url": "https://xiaohongshu.com",
+  "domains": [
+    "xiaohongshu.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "小红书",
+    "xiaohongshu",
+    "rednote",
+    "red-book",
+    "xiaohongshu.com"
+  ],
+  "aliases": [
+    "xiaohongshu",
+    "rednote",
+    "red-book"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3910,
+      "collection": "theSVG",
+      "file": "xiaohongshu.svg",
+      "id": 1478,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaohongshu.svg",
+        "original_is_default": true,
+        "original_slug": "xiaohongshu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3677,
+        "previous_sha256": "094810c5910054e1a6d99b3edbfdedfad1f6ac0d9834e5b97f6ff1b7f9c77c1b",
+        "ratio": 0.2
+      },
+      "sha256": "e5cba12cd42cc926a98aa8969add17a8d19686fcaafb8896278ce3937f374cee",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xiaohongshu/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3910,
+      "collection": "theSVG",
+      "file": "xiaohongshu-1.svg",
+      "id": 1479,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaohongshu-1.svg",
+        "original_is_default": false,
+        "original_slug": "xiaohongshu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3677,
+        "previous_sha256": "3c8988553f53c975948c6a7a6683437bf3893f5ffd79bc77d3c7d17e674ccc30",
+        "ratio": 0.2
+      },
+      "sha256": "4e0d143fca99b3b29f452f5d721efb5e6aafa96ab4cbfccac01e6b82bccad15b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xiaohongshu/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 785,
+      "collection": "SVGLOGO",
+      "file": "xiaohongshu-2.svg",
+      "id": 1480,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaohongshu-2.svg",
+        "original_is_default": false,
+        "original_slug": "xiaohongshu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 552,
+        "previous_sha256": "99c2dc871895c4ab7a18771768c00f6a164904eab019266b51c5ccaab6534a76",
+        "ratio": 0.2
+      },
+      "sha256": "f6657439989f5ae60a1f83b7df1414acdc8531928502ca5eed3f1e0449f2ccae",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/xiaoHongShu.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4659,
+      "collection": "SVGLOGO",
+      "file": "xiaohongshu-3.svg",
+      "id": 1481,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaohongshu-3.svg",
+        "original_is_default": false,
+        "original_slug": "xiaohongshu"
+      },
+      "sha256": "679b1de5796655d416531f1b5ce9b9a4e6a95f942031e425dcca15c69234608d",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/xiaoHongShu_wordmark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Jellyfin",
+  "url": "https://jellyfin.org/",
+  "domains": [
+    "jellyfin.org"
+  ],
+  "description": "开源媒体服务器。",
+  "category": "影音娱乐",
+  "tags": [
+    "媒体服务器",
+    "影音库",
+    "自托管",
+    "Jellyfin"
+  ],
+  "aliases": [
+    "jellyfin",
+    "媒体服务器",
+    "影音库",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "jellyfin.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "7f53cf083dbb3119ec8c5acbd8049c5033227617e461540f70591ac109124306",
+      "bytes": 896,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jellyfin.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "jellyfin.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

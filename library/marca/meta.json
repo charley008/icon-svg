@@ -1,0 +1,62 @@
+{
+  "collection_id": 248,
+  "schema_version": 1,
+  "id": 348,
+  "title": "MARCA",
+  "url": "https://marca.com",
+  "domains": [
+    "marca.com"
+  ],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "全球Top100",
+    "体育",
+    "MARCA",
+    "marca.com"
+  ],
+  "aliases": [
+    "marca"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 862,
+      "collection": "官网内联 SVG",
+      "file": "marca.svg",
+      "id": 857,
+      "is_default": true,
+      "label": "official-mark",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "marca.svg",
+        "original_is_default": true,
+        "original_slug": "marca"
+      },
+      "sha256": "17a4c35527e2ad5561948cae97075e9f5cf463962aa08f8d11741c356d662a8a",
+      "source": "https://marca.com#inline-logo",
+      "version": 0
+    },
+    {
+      "bytes": 1776,
+      "collection": "官网内联 SVG",
+      "file": "marca-1.svg",
+      "id": 858,
+      "is_default": false,
+      "label": "official-mark",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "marca-1.svg",
+        "original_is_default": false,
+        "original_slug": "marca"
+      },
+      "sha256": "9e4bbfa946be02b0fbfa88581673c195bffa015023e932d71c608592ee16e779",
+      "source": "https://marca.com#inline-logo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

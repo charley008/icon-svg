@@ -1,0 +1,43 @@
+{
+  "title": "Pi-hole",
+  "url": "https://pi-hole.net/",
+  "domains": [
+    "pi-hole.net"
+  ],
+  "description": "DNS 广告拦截应用。",
+  "category": "网络工具",
+  "tags": [
+    "DNS",
+    "广告拦截",
+    "隐私",
+    "Pi-hole"
+  ],
+  "aliases": [
+    "pi-hole",
+    "DNS",
+    "广告拦截",
+    "隐私"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "pi-hole.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "44944e34a721797c3271cfc6b15dff81cd6fbbf66c7c96da53a34ed39be06ea5",
+      "bytes": 1434,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pi-hole.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "pi-hole.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

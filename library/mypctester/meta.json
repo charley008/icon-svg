@@ -1,0 +1,50 @@
+{
+  "collection_id": 273,
+  "schema_version": 1,
+  "id": 391,
+  "title": "My PC Tester",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "系统工具",
+    "My PC Tester",
+    "mypctester"
+  ],
+  "aliases": [
+    "mypctester"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 6078,
+      "collection": "用户优化 SVG",
+      "file": "mypctester.svg",
+      "id": 982,
+      "is_default": true,
+      "label": "mypctester",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "mypctester.svg",
+        "original_is_default": true,
+        "original_slug": "mypctester"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5856,
+        "previous_sha256": "7551698855488f10cfa89e940b437dfad57944c76e9521ad0b8e996d9803d1b5",
+        "ratio": 0.2
+      },
+      "sha256": "059cfecff141dab4d9df2e1593e467cd88d62133f680a554bb5679041d38a001",
+      "source": "用户确认重绘：MyPCtester 鼠标计算器放大镜版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

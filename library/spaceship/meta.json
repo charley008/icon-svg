@@ -1,0 +1,49 @@
+{
+  "collection_id": 363,
+  "schema_version": 1,
+  "id": 496,
+  "title": "Spaceship",
+  "url": "https://spaceship.com",
+  "domains": [
+    "spaceship.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "云计算",
+    "Spaceship",
+    "spaceship.com"
+  ],
+  "aliases": [
+    "spaceship"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1038,
+      "collection": "GoTab 公开资源库",
+      "file": "spaceship.svg",
+      "gotab_id": 223,
+      "id": 1245,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "spaceship.svg",
+        "original_is_default": true,
+        "original_slug": "spaceship"
+      },
+      "rounded_corners": {
+        "previous_bytes": 816,
+        "previous_sha256": "b73f80e0c68e96ca42cb9974b73a8d32392daf7ae9844986ef587759c1fb1f8e",
+        "ratio": 0.2
+      },
+      "sha256": "850edac37579e2740409213c81c130304836d9306d52b77629d5a78ca9c68e99",
+      "source": "https://web.gotab.cn/uploads/202507/01K0JP3N6834VX5KW1NJ6WYZX7.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 468,
+  "schema_version": 1,
+  "id": 632,
+  "title": "Django",
+  "url": "https://www.djangoproject.com/",
+  "domains": [
+    "djangoproject.com"
+  ],
+  "description": "Django 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "Django",
+    "django",
+    "Python",
+    "Web框架",
+    "后端开发"
+  ],
+  "aliases": [
+    "django"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 731,
+      "collection": "用户补充 SVG",
+      "file": "django.svg",
+      "id": 1572,
+      "is_default": true,
+      "label": "django-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "django-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/django-1.svg"
+      },
+      "sha256": "e68afc7e88ac347d40d7cbd4b1f8b0e0423799c3d2b46abb01fbe953e649db37",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/django-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

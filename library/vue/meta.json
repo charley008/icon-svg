@@ -1,0 +1,51 @@
+{
+  "collection_id": 413,
+  "schema_version": 1,
+  "id": 566,
+  "title": "Vue.js",
+  "url": "https://cn.vuejs.org",
+  "domains": [
+    "cn.vuejs.org"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "Vue.js",
+    "vue",
+    "cn.vuejs.org"
+  ],
+  "aliases": [
+    "vue"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1010,
+      "collection": "GoTab 公开资源库",
+      "file": "vue.svg",
+      "gotab_id": 155,
+      "id": 1418,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "vue.svg",
+        "original_is_default": true,
+        "original_slug": "vue"
+      },
+      "rounded_corners": {
+        "previous_bytes": 788,
+        "previous_sha256": "1c106463e2f3008664e729bac29fa39196a4ac7e0860fab5f0c5729b470cd163",
+        "ratio": 0.2
+      },
+      "sha256": "85a5e6dc1d9d1a879284ea4d65e65c41ca00793e9725f6bdd8d094f269ccc2c4",
+      "source": "https://web.gotab.cn/sourceStore/website/01JB3Y37K1AGVSKKHAJ1J7BV6N.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

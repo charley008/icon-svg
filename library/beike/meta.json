@@ -1,0 +1,50 @@
+{
+  "collection_id": 52,
+  "schema_version": 1,
+  "id": 99,
+  "title": "贝壳找房",
+  "url": "https://ke.com",
+  "domains": [
+    "ke.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "贝壳找房",
+    "beike",
+    "ke.com"
+  ],
+  "aliases": [
+    "beike"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 545,
+      "collection": "Iconify / arcticons",
+      "file": "beike.svg",
+      "id": 244,
+      "is_default": true,
+      "label": "beike",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beike.svg",
+        "original_is_default": true,
+        "original_slug": "beike"
+      },
+      "rounded_corners": {
+        "previous_bytes": 312,
+        "previous_sha256": "e4ab6c271383126ab51cf0a6c38d668c42cfc17aa9678fd3f180e4ffba32e1d4",
+        "ratio": 0.2
+      },
+      "sha256": "a586cef1e3fe10686c8fc3e723674599a73a881ca67c5f9f11d9c2709aaf51f5",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#beike",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

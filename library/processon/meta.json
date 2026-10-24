@@ -1,0 +1,73 @@
+{
+  "collection_id": 320,
+  "schema_version": 1,
+  "id": 447,
+  "title": "ProcessOn",
+  "url": "https://processon.com",
+  "domains": [
+    "processon.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "ProcessOn",
+    "processon.com"
+  ],
+  "aliases": [
+    "processon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1094,
+      "collection": "theSVG",
+      "file": "processon.svg",
+      "id": 1122,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "processon.svg",
+        "original_is_default": true,
+        "original_slug": "processon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 861,
+        "previous_sha256": "67bcb1200e1c29f4365d0b3a6ae933b8dff1a590e76d449d25f6610946d0ded4",
+        "ratio": 0.2
+      },
+      "sha256": "87afeda3064a55406ba951385f31a82ca4635dd5250ebba2df2eec0fe8d9d346",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/processon/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1094,
+      "collection": "theSVG",
+      "file": "processon-1.svg",
+      "id": 1123,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "processon-1.svg",
+        "original_is_default": false,
+        "original_slug": "processon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 861,
+        "previous_sha256": "570a7ad727ef75611b1b9ad6b4fadec35ea3e4e7dee6b1aacaf35ebefb2e8c5f",
+        "ratio": 0.2
+      },
+      "sha256": "c64b0f0bda679140af66a527767e58919e2172978cccd56059ea7c3d78a0dcae",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/processon/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

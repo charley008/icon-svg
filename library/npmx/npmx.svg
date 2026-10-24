@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg viewBox="0 0 512 512" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <rect width="512" height="512" rx="64" fill="#0a0a0a" />
+  <rect x="110" y="310" width="60" height="60" fill="#525252" />
+  <text x="320" y="370" font-family="'Geist Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="420" font-weight="500" text-anchor="middle" fill="#fafafa"><tspan>/</tspan></text>
+</svg></g></g></svg>

@@ -1,0 +1,139 @@
+{
+  "collection_id": 82,
+  "schema_version": 1,
+  "id": 151,
+  "title": "中国电信",
+  "url": "https://189.cn",
+  "domains": [
+    "189.cn"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "社交",
+    "通讯",
+    "中国电信",
+    "china-telecom",
+    "chinatelecom",
+    "189.cn"
+  ],
+  "aliases": [
+    "china-telecom",
+    "chinatelecom"
+  ],
+  "notes": [
+    "按用户提供素材重新描摹，背景使用原生矢量形状及渐变。仅保留主图案，去除下方文字及多余留白。"
+  ],
+  "icons": [
+    {
+      "bytes": 3666,
+      "collection": "用户提供素材",
+      "file": "china-telecom.svg",
+      "id": 380,
+      "is_default": true,
+      "label": "参考图重绘",
+      "license": "品牌商标归权利人；用户提供参考素材",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "china-telecom.svg",
+        "original_is_default": true,
+        "original_slug": "china-telecom"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3444,
+        "previous_sha256": "b3d46a21855a40f3039241091e2db9b31af0371fb3f695c2ce6322e91f9eed69",
+        "ratio": 0.2
+      },
+      "sha256": "adcb4dbaefda555fc2af0db51646d061a4dac602e4741a73a8e6d243518a013d",
+      "source": "用户提供素材",
+      "version": 0
+    },
+    {
+      "bytes": 1051,
+      "collection": "Iconify / arcticons",
+      "file": "china-telecom-1.svg",
+      "id": 381,
+      "is_default": false,
+      "label": "china-telecom",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "china-telecom-1.svg",
+        "original_is_default": false,
+        "original_slug": "china-telecom"
+      },
+      "rounded_corners": {
+        "previous_bytes": 818,
+        "previous_sha256": "483e22851990ebcd493053f4170d97435074fc41634a965d6a4381620c094ac9",
+        "ratio": 0.2
+      },
+      "sha256": "29674d43ed1d92feb2a77a62cf142e1b7e9284ff555b5e56522a082a6676bb68",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#china-telecom",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 152,
+      "key": "cloud",
+      "title": "天翼云盘",
+      "url": "https://cloud.189.cn",
+      "domains": [
+        "cloud.189.cn"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "国内补充",
+        "网盘",
+        "云存储",
+        "天翼云盘",
+        "189cloud",
+        "tianyi-cloud",
+        "cloud.189.cn"
+      ],
+      "aliases": [
+        "189cloud",
+        "tianyi-cloud"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "appstore_bundle": "com.21cn.cloud189",
+          "appstore_track": "https://apps.apple.com/cn/app/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98-%E5%AE%B6%E5%BA%AD%E4%BA%91-%E7%9B%B8%E5%86%8C%E5%85%B1%E4%BA%AB-%E4%BA%91%E5%9B%9E%E7%9C%8B/id507944293?uo=4",
+          "bytes": 828,
+          "collection": "轻量矢量替换",
+          "file": "china-telecom-cloud.svg",
+          "id": 382,
+          "is_default": true,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "manual-vector-redraw",
+          "provenance": {
+            "original_file": "189cloud.svg",
+            "original_is_default": true,
+            "original_slug": "189cloud"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "626d8062e8e7140964f91c00c508b991ee73ac468a8ee1076d128e1e94e29503",
+            "previous_bytes": 343956,
+            "previous_method": "traced-detail",
+            "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9f/2d/9f9f2da8-723b-02c9-8bf6-92d01d9e9d8f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+            "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9f/2d/9f9f2da8-723b-02c9-8bf6-92d01d9e9d8f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+            "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "10b0d4cb97c2079578e2d8a5cb86e7001b652597c7a5166411c4b1f83cf7a59b",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9f/2d/9f9f2da8-723b-02c9-8bf6-92d01d9e9d8f/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

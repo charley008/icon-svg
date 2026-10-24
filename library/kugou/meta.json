@@ -1,0 +1,102 @@
+{
+  "collection_id": 230,
+  "schema_version": 1,
+  "id": 330,
+  "title": "酷狗音乐",
+  "url": "https://kugou.com",
+  "domains": [
+    "kugou.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "Worldvectorlogo补充",
+    "影音",
+    "音乐",
+    "听歌",
+    "酷狗音乐",
+    "kugou",
+    "kugou.com"
+  ],
+  "aliases": [
+    "kugou"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1409,
+      "collection": "已有图标",
+      "file": "kugou.svg",
+      "id": 822,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kugou.svg",
+        "original_is_default": true,
+        "original_slug": "kugou"
+      },
+      "sha256": "921cd573f6f489d98fe148f55191d8b3468807af1b2861497bc56aadceb990a7",
+      "source": "https://cdn.worldvectorlogo.com/logos/kugou.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1242,
+      "collection": "GoTab 公开资源库",
+      "file": "kugou-1.svg",
+      "gotab_id": 15,
+      "id": 823,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "kugou-1.svg",
+        "original_is_default": false,
+        "original_slug": "kugou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1020,
+        "previous_sha256": "013ae4a7429edb261693de27863a49bbd153109f23668d2917afcaf31d816ddc",
+        "ratio": 0.2
+      },
+      "sha256": "2473b9bb74d2d6974be2e8c4f2670d45f786f942392058e4635c8d6527b73ee1",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H0GMG7ZM1M5S46C8XAS9TM.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1241,
+      "collection": "轻量矢量替换",
+      "file": "kugou-2.svg",
+      "id": 824,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "native-vector-reuse",
+      "provenance": {
+        "original_file": "kugou-2.svg",
+        "original_is_default": false,
+        "original_slug": "kugou"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "0236ed879d20cf2bcf2d04acb281921253e3bf926c3ae5efb300b8f3fc92ef47",
+        "previous_bytes": 219715,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/3a/d4/ad3ad455-06c1-eaa5-7c47-a99169cb599d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+        "reference": "seed/icons/kugou/kugou-1.svg",
+        "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "03f00a372e7d02d74e1c75f654d0a2eb5ead96596608cd4d314d1aa0c7096f30",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H0GMG7ZM1M5S46C8XAS9TM.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

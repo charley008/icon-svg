@@ -1,0 +1,43 @@
+{
+  "title": "Hikvision",
+  "url": "https://www.hikvision.com/",
+  "domains": [
+    "www.hikvision.com"
+  ],
+  "description": "视频监控与安防设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "海康威视",
+    "摄像机",
+    "安防",
+    "Hikvision"
+  ],
+  "aliases": [
+    "hikvision",
+    "海康威视",
+    "摄像机",
+    "安防"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "hikvision.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "d02d7157da7df6bd24237b6f040371750c4ad0e9a0985b9dff49ba21dbe04cc3",
+      "bytes": 591,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hikvision.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "hikvision.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

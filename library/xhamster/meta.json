@@ -1,0 +1,73 @@
+{
+  "collection_id": 427,
+  "schema_version": 1,
+  "id": 587,
+  "title": "xHamster",
+  "url": "https://xhamster.com",
+  "domains": [
+    "xhamster.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "Worldvectorlogo补充",
+    "影音",
+    "xHamster",
+    "xhamster.com"
+  ],
+  "aliases": [
+    "xhamster"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2880,
+      "collection": "Worldvectorlogo",
+      "file": "xhamster.svg",
+      "id": 1475,
+      "is_default": true,
+      "label": "xhamster-3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xhamster.svg",
+        "original_is_default": true,
+        "original_slug": "xhamster"
+      },
+      "sha256": "0107328f90b2089083b908add536e63417107034c0c82b87b946be9e2a4bf0a4",
+      "source": "https://cdn.worldvectorlogo.com/logos/xhamster-3.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/xhamster-3",
+      "version": 0
+    },
+    {
+      "bytes": 2880,
+      "collection": "轻量矢量替换",
+      "file": "xhamster-1.svg",
+      "id": 1476,
+      "is_default": false,
+      "label": "mark",
+      "license": "see-source",
+      "method": "native-vector-reuse",
+      "provenance": {
+        "original_file": "xhamster-1.svg",
+        "original_is_default": false,
+        "original_slug": "xhamster"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "87e4c4b315aedcaf9181b55ceefeb603312303923f4d33d7f163e7844f22a1c7",
+        "previous_bytes": 601958,
+        "previous_method": "traced-detail",
+        "previous_source": "https://xhamster.com/favicon.ico",
+        "reference": "seed/icons/xhamster/xhamster.svg",
+        "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+      },
+      "sha256": "0107328f90b2089083b908add536e63417107034c0c82b87b946be9e2a4bf0a4",
+      "source": "https://cdn.worldvectorlogo.com/logos/xhamster-3.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

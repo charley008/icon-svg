@@ -1,0 +1,52 @@
+{
+  "collection_id": 192,
+  "schema_version": 1,
+  "id": 288,
+  "title": "HP 惠普",
+  "url": "https://hp.com",
+  "domains": [
+    "hp.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Worldvectorlogo补充",
+    "硬件",
+    "设备",
+    "HP 惠普",
+    "hp",
+    "hp.com"
+  ],
+  "aliases": [
+    "hp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1968,
+      "collection": "Worldvectorlogo",
+      "file": "hp.svg",
+      "id": 715,
+      "is_default": true,
+      "label": "hp-hewlett-packard",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hp.svg",
+        "original_is_default": true,
+        "original_slug": "hp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1746,
+        "previous_sha256": "87ad4f623f5ebbccb47f8038d41389f5fa5528578ace7fd6bb3a767d762601d3",
+        "ratio": 0.2
+      },
+      "sha256": "319ece45fd5e5a59dc8314855ce3353421ffd31825ee95f42da6bd252a2eb59c",
+      "source": "https://cdn.worldvectorlogo.com/logos/hp-hewlett-packard.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/hp-hewlett-packard",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

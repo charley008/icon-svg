@@ -1,0 +1,43 @@
+{
+  "title": "Raspberry Pi",
+  "url": "https://www.raspberrypi.com/",
+  "domains": [
+    "www.raspberrypi.com"
+  ],
+  "description": "单板电脑与计算设备品牌。",
+  "category": "设备硬件",
+  "tags": [
+    "树莓派",
+    "单板电脑",
+    "开发板",
+    "Raspberry Pi"
+  ],
+  "aliases": [
+    "raspberry-pi",
+    "树莓派",
+    "单板电脑",
+    "开发板"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "raspberry-pi.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "eeb51968665e51a4bb91e052a1593bdd1665909f7afe8f6c5999bd50452460b1",
+      "bytes": 4552,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/raspberry-pi.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "raspberry-pi.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

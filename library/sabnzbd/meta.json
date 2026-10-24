@@ -1,0 +1,41 @@
+{
+  "title": "SABnzbd",
+  "url": "https://sabnzbd.org/",
+  "domains": [
+    "sabnzbd.org"
+  ],
+  "description": "Usenet 下载应用。",
+  "category": "网络工具",
+  "tags": [
+    "Usenet",
+    "下载工具",
+    "SABnzbd"
+  ],
+  "aliases": [
+    "sabnzbd",
+    "Usenet",
+    "下载工具"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "sabnzbd.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "1253fd62e310f2c7c436002a7864b8135654a20d36b2177e3900542fcf8497b0",
+      "bytes": 921,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sabnzbd.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "sabnzbd.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

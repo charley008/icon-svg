@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#101014" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,0,-4352.33)">
+        <g id="设计素材">
+        </g>
+        <g id="样机">
+        </g>
+        <g id="ArtStation" transform="matrix(1,0,0,1,0,4352.33)">
+            <rect x="0" y="0" width="512" height="512" style="fill:none;" />
+            <g id="下载.svg" transform="matrix(11.1177,0,0,11.1177,256,256)">
+                <g transform="matrix(1,0,0,1,-17.5,-16)">
+                    <path d="M35,24.354C35,23.65 34.792,22.994 34.435,22.444L22.937,2.525C22.322,1.373 21.118,0.652 19.813,0.652L13.736,0.652L31.496,31.318L34.296,26.485C34.849,25.56 35,25.151 35,24.354M0,24.317L2.956,29.41L2.957,29.41C3.559,30.597 4.783,31.348 6.114,31.348L25.738,31.348L21.666,24.318L0,24.317ZM10.832,5.621L18.77,19.322L2.893,19.322L10.832,5.621Z" style="fill:rgb(19,175,240);" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

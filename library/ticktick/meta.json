@@ -1,0 +1,99 @@
+{
+  "collection_id": 389,
+  "schema_version": 1,
+  "id": 538,
+  "title": "滴答清单",
+  "url": "https://dida365.com",
+  "domains": [
+    "dida365.com"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "国内补充",
+    "办公",
+    "效率工具",
+    "滴答清单",
+    "ticktick",
+    "dida365",
+    "dida365.com"
+  ],
+  "aliases": [
+    "ticktick",
+    "dida365"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 692,
+      "collection": "theSVG",
+      "file": "ticktick.svg",
+      "id": 1341,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ticktick.svg",
+        "original_is_default": true,
+        "original_slug": "ticktick"
+      },
+      "rounded_corners": {
+        "previous_bytes": 459,
+        "previous_sha256": "8710de174e7c3d4b05ef38f2d97da65aeb78325e880c7acf34ac4d518dd7fd34",
+        "ratio": 0.2
+      },
+      "sha256": "5e635309317a7d5e4121087fd6a24c87a6727f27aee793d22c78021e1d528b2f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ticktick/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 692,
+      "collection": "theSVG",
+      "file": "ticktick-1.svg",
+      "id": 1342,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ticktick-1.svg",
+        "original_is_default": false,
+        "original_slug": "ticktick"
+      },
+      "rounded_corners": {
+        "previous_bytes": 459,
+        "previous_sha256": "a1051f875a1b280b3dcb2afed56475628654c443573b26e0fa36456d000cf627",
+        "ratio": 0.2
+      },
+      "sha256": "e13d670887b3b455ca86497939708beeb869b93f2fa819343f604dad62c28bde",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ticktick/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 570,
+      "collection": "Iconify / arcticons",
+      "file": "ticktick-2.svg",
+      "id": 1343,
+      "is_default": false,
+      "label": "ticktick",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ticktick-2.svg",
+        "original_is_default": false,
+        "original_slug": "ticktick"
+      },
+      "rounded_corners": {
+        "previous_bytes": 337,
+        "previous_sha256": "8f156056df999d2386483da8efb8bb93a1dd3e3c8da81048bb588655673e0856",
+        "ratio": 0.2
+      },
+      "sha256": "d5a1c0ece34dc487e1b7546cc78c73ce64fec5943b25e53ee6eacabe73eb7f94",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ticktick",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

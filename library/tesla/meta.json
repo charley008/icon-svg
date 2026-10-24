@@ -1,0 +1,61 @@
+{
+  "collection_id": 490,
+  "schema_version": 1,
+  "id": 655,
+  "title": "Tesla",
+  "url": "https://www.tesla.com/",
+  "domains": [
+    "tesla.com"
+  ],
+  "description": "Tesla 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "Tesla",
+    "tesla",
+    "特斯拉",
+    "汽车",
+    "电动汽车"
+  ],
+  "aliases": [
+    "特斯拉"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 691,
+      "collection": "用户补充 SVG",
+      "file": "tesla-1.svg",
+      "id": 1613,
+      "is_default": true,
+      "label": "tesla-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "tesla-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/tesla-1.svg"
+      },
+      "sha256": "25f3965ffd5ee72ff2c9ddf95175711d469dfcdbff895fe20463e1c6a50aecca",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/tesla-1.svg",
+      "version": 1
+    },
+    {
+      "bytes": 648,
+      "collection": "用户补充 SVG",
+      "file": "tesla.svg",
+      "id": 1612,
+      "is_default": false,
+      "label": "tesla-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "tesla-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/tesla-2.svg"
+      },
+      "sha256": "7b854eedbdd5d5f6fe246cbfa13937da710cd79886d4c6c1f09f040a3f8ea8b2",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/tesla-2.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,96 @@
+{
+  "collection_id": 253,
+  "schema_version": 1,
+  "id": 353,
+  "title": "美团",
+  "url": "https://meituan.com",
+  "domains": [
+    "meituan.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "美团",
+    "meituan",
+    "meituan.com"
+  ],
+  "aliases": [
+    "meituan"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1526,
+      "collection": "theSVG",
+      "file": "meituan.svg",
+      "id": 868,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meituan.svg",
+        "original_is_default": true,
+        "original_slug": "meituan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1293,
+        "previous_sha256": "eb74dad7381325a7a4f86ba2882985caf53c3e496267f059a12e5546a7c53758",
+        "ratio": 0.2
+      },
+      "sha256": "b9cf212f902b926360f5ba814d6c50f9630959ed06ce5a2891c7c88ae41a267f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/meituan/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1526,
+      "collection": "theSVG",
+      "file": "meituan-1.svg",
+      "id": 869,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meituan-1.svg",
+        "original_is_default": false,
+        "original_slug": "meituan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1293,
+        "previous_sha256": "5f4723aeff6996a823cc1a99b6e324d370b21010e0436709a05479e2e9ce9425",
+        "ratio": 0.2
+      },
+      "sha256": "b0acc21d8b5f5a9e402755fcbdffd567e75e932be9fbe854774cb38a324e0291",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/meituan/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1279,
+      "collection": "Iconify / arcticons",
+      "file": "meituan-2.svg",
+      "id": 870,
+      "is_default": false,
+      "label": "meituan",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meituan-2.svg",
+        "original_is_default": false,
+        "original_slug": "meituan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1046,
+        "previous_sha256": "0b4e975f1361103d02021311c16cc7695ca43447ad620962639748e3310dab66",
+        "ratio": 0.2
+      },
+      "sha256": "0d53e00ecfd9113965dc12d98d6a6155782f409edd75b5a4a071f6208e778df5",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#meituan",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

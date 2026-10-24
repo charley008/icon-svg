@@ -1,0 +1,50 @@
+{
+  "collection_id": 334,
+  "schema_version": 1,
+  "id": 464,
+  "title": "雨云",
+  "url": "https://rainyun.com",
+  "domains": [
+    "rainyun.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "云计算",
+    "雨云",
+    "rainyun",
+    "rainyun.com"
+  ],
+  "aliases": [
+    "rainyun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3443,
+      "collection": "GoTab 公开资源库",
+      "file": "rainyun.svg",
+      "gotab_id": 104,
+      "id": 1155,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "rainyun.svg",
+        "original_is_default": true,
+        "original_slug": "rainyun"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3221,
+        "previous_sha256": "5becbcea0c85e5b6007b728adf1342c2e4e8a2e59df947d65433b98d2b9b6ca2",
+        "ratio": 0.2
+      },
+      "sha256": "77a720376fc610681c3b47381ecd2214458cbf7fc09fa1d8b8dbf0e57ba82cfa",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8J19PV7B4755AETNTX200KD.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,58 @@
+{
+  "collection_id": 86,
+  "schema_version": 1,
+  "id": 156,
+  "title": "创客贴",
+  "url": "https://chuangkit.com",
+  "domains": [
+    "chuangkit.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "创客贴",
+    "chuangkit",
+    "chuangkit.com"
+  ],
+  "aliases": [
+    "chuangkit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 712,
+      "collection": "轻量矢量替换",
+      "file": "chuangkit.svg",
+      "id": 387,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "chuangkit.svg",
+        "original_is_default": true,
+        "original_slug": "chuangkit"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "f8b3e40455c785926b604088b778bb3e8c2fa8b702b296e11be8972ade6f8b5d",
+        "previous_bytes": 778605,
+        "previous_method": "traced-detail",
+        "previous_source": "https://chuangkit.com/favicon.ico",
+        "reference": "https://chuangkit.com/favicon.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "86f1b188f237ceb75beb064400a3d6c791daabaed66f2314681edcd4213209ec",
+      "source": "https://chuangkit.com/favicon.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

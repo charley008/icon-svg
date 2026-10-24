@@ -1,0 +1,51 @@
+{
+  "collection_id": 365,
+  "schema_version": 1,
+  "id": 498,
+  "title": "Speedtest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "网络测速",
+    "宽带测速",
+    "Speedtest"
+  ],
+  "aliases": [
+    "speedtest"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1398,
+      "collection": "用户优化 SVG",
+      "file": "speedtest.svg",
+      "id": 1251,
+      "is_default": true,
+      "label": "speedtest",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "speedtest.svg",
+        "original_is_default": true,
+        "original_slug": "speedtest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1176,
+        "previous_sha256": "3f09f32fe94a3380cac7605759865d231c0e6a86650efacc89313c33839ea016",
+        "ratio": 0.2
+      },
+      "sha256": "a70bd0c9648b1b137f63b3faa39e3d204488e7f24b3b2e38b95d39cccf9b8c18",
+      "source": "用户确认重绘：Speedtest 彩色仪表盘、灰紫外圈、白色指针与底部三点",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

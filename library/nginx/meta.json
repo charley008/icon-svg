@@ -1,0 +1,61 @@
+{
+  "collection_id": 480,
+  "schema_version": 1,
+  "id": 644,
+  "title": "NGINX",
+  "url": "https://nginx.org/",
+  "domains": [
+    "nginx.org"
+  ],
+  "description": "NGINX 图标合集。",
+  "category": "网络工具",
+  "tags": [
+    "NGINX",
+    "nginx",
+    "反向代理",
+    "Web服务器",
+    "负载均衡"
+  ],
+  "aliases": [
+    "nginx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 345,
+      "collection": "用户补充 SVG",
+      "file": "nginx.svg",
+      "id": 1592,
+      "is_default": true,
+      "label": "nginx-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nginx-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nginx-2.svg"
+      },
+      "sha256": "fd7b6395fa2d35a469ec9158a2d6562b48e7a371ec67666de5fc405ca5c3e0ab",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nginx-2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 550,
+      "collection": "用户补充 SVG",
+      "file": "nginx-1.svg",
+      "id": 1593,
+      "is_default": false,
+      "label": "nginx-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nginx-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nginx-1.svg"
+      },
+      "sha256": "556e3fe2549a4a3b23a3d69fbcae6fe2d08654adb3ae3bc63f80b0fb53adc0a8",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nginx-1.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

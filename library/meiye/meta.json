@@ -1,0 +1,51 @@
+{
+  "collection_id": 254,
+  "schema_version": 1,
+  "id": 354,
+  "title": "美叶",
+  "url": "https://meiye.art",
+  "domains": [
+    "meiye.art"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "美叶",
+    "meiye",
+    "meiye.art"
+  ],
+  "aliases": [
+    "meiye"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2162,
+      "collection": "GoTab 公开资源库",
+      "file": "meiye.svg",
+      "gotab_id": 140,
+      "id": 871,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "meiye.svg",
+        "original_is_default": true,
+        "original_slug": "meiye"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1940,
+        "previous_sha256": "23994c679b3ee27608211407d09cfb90300630f2034599ef950e0c3f1cc2eddc",
+        "ratio": 0.2
+      },
+      "sha256": "dfce2fed607aa9573fb9311a8fc468b3ee29e349ead8c1a72da4117436dec541",
+      "source": "https://web.gotab.cn/uploads/202410/01J9C8S4JRQFRSVCCMRCQ0DK3Q.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,137 @@
+{
+  "collection_id": 139,
+  "schema_version": 1,
+  "id": 210,
+  "title": "eBay",
+  "url": "https://ebay.com",
+  "domains": [
+    "ebay.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "电商",
+    "购物",
+    "eBay",
+    "ebay.com"
+  ],
+  "aliases": [
+    "ebay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1598,
+      "collection": "theSVG",
+      "file": "ebay.svg",
+      "id": 520,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ebay.svg",
+        "original_is_default": true,
+        "original_slug": "ebay"
+      },
+      "sha256": "3a0ab28741f0af74932f36232ad9a7983103462def1b6d0042a0f427b88c5c47",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ebay/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1996,
+      "collection": "theSVG",
+      "file": "ebay-1.svg",
+      "id": 521,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ebay-1.svg",
+        "original_is_default": false,
+        "original_slug": "ebay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1771,
+        "previous_sha256": "2613ff7285a16e1cce699557423c19337955a271b35f0f12e538cfb5c0dc371c",
+        "ratio": 0.2
+      },
+      "sha256": "dfb5370bb024934eb9f07afaea530982aa251ef887ef36ce1b07aafdb62f1ccf",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ebay-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1594,
+      "collection": "theSVG",
+      "file": "ebay-2.svg",
+      "id": 522,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ebay-2.svg",
+        "original_is_default": false,
+        "original_slug": "ebay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1361,
+        "previous_sha256": "69662868d7366fa7f19b95cdf23db79e1f975628df3354b1bf6ae2d146890c8e",
+        "ratio": 0.2
+      },
+      "sha256": "90f7a305d5a335ec8ba50a0514da705115fda7daa773129e8faebeccc919fe17",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ebay/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1594,
+      "collection": "Simple Icons",
+      "file": "ebay-3.svg",
+      "id": 523,
+      "is_default": false,
+      "label": "ebay",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ebay-3.svg",
+        "original_is_default": false,
+        "original_slug": "ebay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1361,
+        "previous_sha256": "a7f21c93e77f930af4626d44bcdf92b6db78b4df0f90b0f24e71fc3a4ada2f4d",
+        "ratio": 0.2
+      },
+      "sha256": "69a4d4d3b02b9489c5f2d425f8a3260e57de99c7fc7c21ed78d9008f795baa84",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ebay.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1237,
+      "collection": "Iconify / arcticons",
+      "file": "ebay-4.svg",
+      "id": 524,
+      "is_default": false,
+      "label": "ebay",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ebay-4.svg",
+        "original_is_default": false,
+        "original_slug": "ebay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1004,
+        "previous_sha256": "ee3d17cbb250ce1bb10839b1c4708bcb90198ff8966e1955d1efe64f0698cf94",
+        "ratio": 0.2
+      },
+      "sha256": "efa1f973bfc28a807394172044407bfe6414fa1164b1719375166839ac4a69de",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ebay",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

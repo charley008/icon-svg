@@ -1,0 +1,144 @@
+{
+  "collection_id": 257,
+  "schema_version": 1,
+  "id": 357,
+  "title": "Messenger",
+  "url": "https://messenger.com",
+  "domains": [
+    "messenger.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球App补充",
+    "社交",
+    "通讯",
+    "Messenger",
+    "facebook-messenger",
+    "messenger.com"
+  ],
+  "aliases": [
+    "messenger",
+    "facebook-messenger"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1293,
+      "collection": "theSVG",
+      "file": "messenger.svg",
+      "id": 874,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "messenger.svg",
+        "original_is_default": true,
+        "original_slug": "messenger"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1071,
+        "previous_sha256": "8c6849c63a8392cb118a067b80844288fd3393cd742b138131bc344330326cf1",
+        "ratio": 0.2
+      },
+      "sha256": "0b6efaec388a72c22a8d51190f11d693bf7e99bae7210a5ef20d4c18bd358055",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/messenger/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 901,
+      "collection": "theSVG",
+      "file": "messenger-1.svg",
+      "id": 875,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "messenger-1.svg",
+        "original_is_default": false,
+        "original_slug": "messenger"
+      },
+      "rounded_corners": {
+        "previous_bytes": 668,
+        "previous_sha256": "818ffe12ba28b14c9f312b2d65a4c85ca51ac367a9187a9287967a43ea9ddbe9",
+        "ratio": 0.2
+      },
+      "sha256": "e12792905d0b132f480c1e540d5544ea90bb09610444fd79a865639ab153223e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/messenger/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 901,
+      "collection": "Simple Icons",
+      "file": "messenger-2.svg",
+      "id": 876,
+      "is_default": false,
+      "label": "messenger",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "messenger-2.svg",
+        "original_is_default": false,
+        "original_slug": "messenger"
+      },
+      "rounded_corners": {
+        "previous_bytes": 668,
+        "previous_sha256": "8d67b911c0155edcc48e0e7cf0e5f0615ddeaa6bdb80c765f7058895a2dce04b",
+        "ratio": 0.2
+      },
+      "sha256": "c5b12c8bc8c856b36f8ad40fbb075c434bc3d88cdfd4d1a86ae691606215c6ae",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/messenger.svg",
+      "version": 2
+    },
+    {
+      "bytes": 850,
+      "collection": "Iconify / ri",
+      "file": "messenger-3.svg",
+      "id": 877,
+      "is_default": false,
+      "label": "messenger-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "messenger-3.svg",
+        "original_is_default": false,
+        "original_slug": "messenger"
+      },
+      "rounded_corners": {
+        "previous_bytes": 617,
+        "previous_sha256": "d6e2bf81b2a32d029578b1b81a25f72bd6529111984e50dd34a43315616dcea6",
+        "ratio": 0.2
+      },
+      "sha256": "b9d1a4fbfb68db3df10ca0debddd9bdeedc43a4164f05d40b4fde3d098d98df3",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#messenger-fill",
+      "version": 3
+    },
+    {
+      "bytes": 1036,
+      "collection": "Iconify / ri",
+      "file": "messenger-4.svg",
+      "id": 878,
+      "is_default": false,
+      "label": "messenger-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "messenger-4.svg",
+        "original_is_default": false,
+        "original_slug": "messenger"
+      },
+      "rounded_corners": {
+        "previous_bytes": 803,
+        "previous_sha256": "609739f206fa2527ff33451ebeda9c7edcaffd1b315c81e4617bf14513e7d46a",
+        "ratio": 0.2
+      },
+      "sha256": "9dbe5a1022d23317fa678cd92628ee6872e1df1f7cf114289cd304fa917e8b24",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#messenger-line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

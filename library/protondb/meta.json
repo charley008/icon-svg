@@ -1,0 +1,49 @@
+{
+  "collection_id": 322,
+  "schema_version": 1,
+  "id": 449,
+  "title": "ProtonDB",
+  "url": "https://protondb.com",
+  "domains": [
+    "protondb.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "游戏",
+    "ProtonDB",
+    "protondb.com"
+  ],
+  "aliases": [
+    "protondb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3819,
+      "collection": "GoTab 公开资源库",
+      "file": "protondb.svg",
+      "gotab_id": 318,
+      "id": 1129,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "protondb.svg",
+        "original_is_default": true,
+        "original_slug": "protondb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3597,
+        "previous_sha256": "ed47d029ed71b4f1b127ae7b9242763a2778735dd531429ca7eb56aeb8a9c870",
+        "ratio": 0.2
+      },
+      "sha256": "f7fdde3bac5cef6a9f922f471662fc8066e965ce02c20f87c2211223d4a08918",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ9C6HC5THZ82SMA6V4GTBBG.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

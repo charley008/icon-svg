@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-1424,-3305.01)">
+        <g id="设计素材">
+        </g>
+        <g id="样机">
+        </g>
+        <g id="包联网" transform="matrix(1,0,0,1,1424,3305.01)">
+            <rect x="0" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1.9274,0,0,1.9274,-1399.26,-3465.79)">
+                <path d="M876.924,1918.98L757.861,1918.98L757.861,1874.31L802.124,1830.05L959.75,1830.05L959.75,1922.48L905.144,1977.08L790.128,1977.08L790.128,2006.69L904.08,2006.69L959.75,1951.02L959.75,1989.92L917.732,2031.94L757.861,2031.94L757.861,1948.03L876.924,1948.03L876.924,1918.98ZM931.769,1908.29L931.769,1860.87L813.472,1860.87L784.419,1889.93L904.08,1889.93L904.08,1935.97L931.769,1908.29Z" style="fill:rgb(255,51,0);" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

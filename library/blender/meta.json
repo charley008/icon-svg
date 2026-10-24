@@ -1,0 +1,46 @@
+{
+  "collection_id": 57,
+  "schema_version": 1,
+  "id": 104,
+  "title": "Blender",
+  "url": "https://blender.org",
+  "domains": [
+    "blender.org"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Worldvectorlogo补充",
+    "设计",
+    "素材",
+    "Blender",
+    "blender.org"
+  ],
+  "aliases": [
+    "blender"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1818,
+      "collection": "Worldvectorlogo",
+      "file": "blender.svg",
+      "id": 261,
+      "is_default": true,
+      "label": "blender-1",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "blender.svg",
+        "original_is_default": true,
+        "original_slug": "blender"
+      },
+      "sha256": "5d2273ad31488b4181677347781d1428c8512bbbf8a635a15289370d242a5dc6",
+      "source": "https://cdn.worldvectorlogo.com/logos/blender-1.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/blender-1",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

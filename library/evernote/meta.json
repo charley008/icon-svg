@@ -1,0 +1,144 @@
+{
+  "collection_id": 148,
+  "schema_version": 1,
+  "id": 219,
+  "title": "Evernote",
+  "url": "https://evernote.com",
+  "domains": [
+    "evernote.com"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球App补充",
+    "办公",
+    "效率工具",
+    "笔记",
+    "知识管理",
+    "Evernote",
+    "evernote.com"
+  ],
+  "aliases": [
+    "evernote"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1802,
+      "collection": "theSVG",
+      "file": "evernote.svg",
+      "id": 547,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evernote.svg",
+        "original_is_default": true,
+        "original_slug": "evernote"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1569,
+        "previous_sha256": "31035be76d13f760fa11029cc5bd67f0a8a5dcc56882bd03cd9a9e44ba83b69a",
+        "ratio": 0.2
+      },
+      "sha256": "02eb54bdfcc9f290d1705b99561e49c8f589462bb604b97818d8950f9a788843",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/evernote/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1959,
+      "collection": "theSVG",
+      "file": "evernote-1.svg",
+      "id": 548,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evernote-1.svg",
+        "original_is_default": false,
+        "original_slug": "evernote"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1734,
+        "previous_sha256": "daa7a8296be09265904948c22768a301ca77f50353fb6c2fbc496ef62129b805",
+        "ratio": 0.2
+      },
+      "sha256": "d2a4c931abada27f6a80c74f659160c2c5d9e08e7bb7be25f41624dfca05afbd",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/evernote-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1802,
+      "collection": "theSVG",
+      "file": "evernote-2.svg",
+      "id": 549,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evernote-2.svg",
+        "original_is_default": false,
+        "original_slug": "evernote"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1569,
+        "previous_sha256": "faa5afcbd787702ac9322d220d546e61f7db54b7900f7b630b44c3c8da486403",
+        "ratio": 0.2
+      },
+      "sha256": "43943ebbc9ba3cb6c1f7197891a567a889b53b2a5b0498e63a76d335a1425bab",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/evernote/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1820,
+      "collection": "Iconify / ri",
+      "file": "evernote-3.svg",
+      "id": 550,
+      "is_default": false,
+      "label": "evernote-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evernote-3.svg",
+        "original_is_default": false,
+        "original_slug": "evernote"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1587,
+        "previous_sha256": "1be3446a4452bbf0a6dd6b857faa3b1f89c74fca7d388eef7351985b5c8f699b",
+        "ratio": 0.2
+      },
+      "sha256": "42479095706815eb56588151712448a053eb86efe2830a92b51f0ed26145ad1b",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#evernote-fill",
+      "version": 3
+    },
+    {
+      "bytes": 1850,
+      "collection": "Iconify / ri",
+      "file": "evernote-4.svg",
+      "id": 551,
+      "is_default": false,
+      "label": "evernote-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evernote-4.svg",
+        "original_is_default": false,
+        "original_slug": "evernote"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1617,
+        "previous_sha256": "8ec49fb83e046dcb77875717851dc6dad35c2b52b3687a0dc5d6445bfe724a92",
+        "ratio": 0.2
+      },
+      "sha256": "eac365d95f74a5424ac1223dece7782af43ea2be5e74502f29fc1dbf0b0c717a",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#evernote-line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

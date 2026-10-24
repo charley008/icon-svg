@@ -1,0 +1,249 @@
+{
+  "collection_id": 264,
+  "schema_version": 1,
+  "id": 381,
+  "title": "MiniMax",
+  "url": "https://minimaxi.com",
+  "domains": [
+    "minimaxi.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "人工智能",
+    "MiniMax",
+    "minimaxi.com"
+  ],
+  "aliases": [
+    "minimax"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1047,
+      "collection": "已有图标",
+      "file": "minimax.svg",
+      "id": 960,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "Custom",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax.svg",
+        "original_is_default": true,
+        "original_slug": "minimax"
+      },
+      "rounded_corners": {
+        "previous_bytes": 814,
+        "previous_sha256": "c67ef6e431cdcf8773fdb2b7697c502c08c39f8a97c352a23bd882a536ce5929",
+        "ratio": 0.2
+      },
+      "sha256": "e56cc04f39caa81e76bbf2562eb399a87bf9ff6b931254cd5bbb4d096bdb0522",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/minimax/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2184,
+      "collection": "GoTab 公开资源库",
+      "file": "minimax-1.svg",
+      "gotab_id": 303,
+      "id": 961,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "minimax-1.svg",
+        "original_is_default": false,
+        "original_slug": "minimax"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1962,
+        "previous_sha256": "7a3f2dd202324062fe7e96cb050320b528a5a7bb401d239ff63702ad33519482",
+        "ratio": 0.2
+      },
+      "sha256": "aaf4d01c5c56aaa7c1b23749b28b72ec5476b34bc732385c71487f6b4d6e9fa7",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7YE1VBZ2QVY8949VJECVAC.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1047,
+      "collection": "已有图标",
+      "file": "minimax-2.svg",
+      "id": 962,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "Custom",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax-2.svg",
+        "original_is_default": false,
+        "original_slug": "minimax"
+      },
+      "rounded_corners": {
+        "previous_bytes": 814,
+        "previous_sha256": "f8b09b0cfd2fe01b246d3999ff08f21b3d6837c7a3434dc1f582c2c687fb7145",
+        "ratio": 0.2
+      },
+      "sha256": "0f677f28b1d27ca5919cb7b198a16a4bd25e76995df12e642031a02aaf94fb5b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/minimax/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1047,
+      "collection": "已有图标",
+      "file": "minimax-3.svg",
+      "id": 963,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax-3.svg",
+        "original_is_default": false,
+        "original_slug": "minimax"
+      },
+      "rounded_corners": {
+        "previous_bytes": 814,
+        "previous_sha256": "9710f30f353a7b05093b2a5dbf28bba54c1b06816bd1900133e3e748ffd9cf03",
+        "ratio": 0.2
+      },
+      "sha256": "30273860e1e0149472734881e4228c9e212c3fbe75ef47194296f5ec32ec6a2b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minimax-dark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2474,
+      "collection": "已有图标",
+      "file": "minimax-4.svg",
+      "id": 964,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax-4.svg",
+        "original_is_default": false,
+        "original_slug": "minimax"
+      },
+      "sha256": "e1f622c937d51df2c58e57e75af9c8eebf5b6e357fa9ad4e8083da0065cdc6f6",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#minimax",
+      "version": 4
+    },
+    {
+      "bytes": 1816,
+      "collection": "已有图标",
+      "file": "minimax-5.svg",
+      "id": 965,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax-5.svg",
+        "original_is_default": false,
+        "original_slug": "minimax"
+      },
+      "sha256": "e81f756735ccffde6d2e12e705aa7e0b2fb7a16e022d781e21dbbb0a8fed90d2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#minimax-icon",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 382,
+      "key": "hailuo",
+      "title": "海螺AI",
+      "url": "https://hailuoai.com",
+      "domains": [
+        "hailuoai.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "AI 视频",
+        "视频生成",
+        "海螺AI",
+        "hailuo",
+        "hailuoai.com"
+      ],
+      "aliases": [
+        "hailuo"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1751,
+          "collection": "Dashboard Icons",
+          "file": "minimax-hailuo-1.svg",
+          "id": 966,
+          "is_default": true,
+          "label": "hailuo",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hailuo-1.svg",
+            "original_is_default": false,
+            "original_slug": "hailuo"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1518,
+            "previous_sha256": "6f69545609ca51f8d25bd011df456987e91a20b9eadfc9de1b8d94eaa67434f8",
+            "ratio": 0.2
+          },
+          "sha256": "3b08c398fff3bfeeb007d730b6703a54e6e6e45dc535be5f8dc9ea72b9133c2d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hailuo.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1363,
+          "collection": "theSVG",
+          "file": "minimax-hailuo.svg",
+          "id": 967,
+          "is_default": false,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hailuo.svg",
+            "original_is_default": true,
+            "original_slug": "hailuo"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1130,
+            "previous_sha256": "e767dbabd821fcf7d8f0ab7208996419f070d0c02e45fea89a55276b655d1080",
+            "ratio": 0.2
+          },
+          "sha256": "f78d5c4dcd829fa6ed6bdbf918a599fab5fb83eff5377670028f93d656aec4f7",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/hailuo/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3320,
+          "collection": "SVGLOGO",
+          "file": "minimax-hailuo-2.svg",
+          "id": 968,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hailuo-2.svg",
+            "original_is_default": false,
+            "original_slug": "hailuo"
+          },
+          "sha256": "af59bfe98e03e091d6a30e23f6454ac879b99eaa177d6243d906a32ed12f5fe6",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Hailuo_wordmark.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    }
+  ]
+}

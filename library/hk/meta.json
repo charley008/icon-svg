@@ -1,0 +1,51 @@
+{
+  "collection_id": 190,
+  "schema_version": 1,
+  "id": 286,
+  "title": "香港旗帜",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "用户优选",
+    "自用",
+    "旗帜",
+    "香港",
+    "香港旗帜",
+    "hk"
+  ],
+  "aliases": [
+    "hk"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1108,
+      "collection": "flag-icons（用户确认）",
+      "file": "hk.svg",
+      "id": 713,
+      "is_default": true,
+      "label": "hk",
+      "license": "MIT · lipis/flag-icons",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "hk.svg",
+        "original_is_default": true,
+        "original_slug": "hk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 886,
+        "previous_sha256": "ed69a1f067fa3bf1de09850c257afa4988274b54850551eca8bcecb40e9489fc",
+        "ratio": 0.2
+      },
+      "sha256": "4c82163bb4bcc0b108d624bf0ff8b1134730b92acbbd4721f3d5728374f24ac4",
+      "source": "https://github.com/lipis/flag-icons/blob/main/flags/1x1/hk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

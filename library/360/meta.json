@@ -1,0 +1,111 @@
+{
+  "collection_id": 9,
+  "schema_version": 1,
+  "id": 9,
+  "title": "360",
+  "url": "https://360.cn",
+  "domains": [
+    "360.cn",
+    "360.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "搜索",
+    "导航",
+    "360",
+    "qihoo360",
+    "qihoo-360",
+    "360.cn",
+    "360.com"
+  ],
+  "aliases": [
+    "360",
+    "qihoo360",
+    "qihoo-360"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1801,
+      "collection": "NViconsLib",
+      "file": "360.svg",
+      "id": 20,
+      "is_default": true,
+      "label": "historic-silhouette",
+      "license": "attribution-required",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "360.svg",
+        "original_is_default": true,
+        "original_slug": "360"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1570,
+        "previous_sha256": "a8f9a2e5a8f92f2a215e6977261680144562930cf101ca26f8e8a3a690605a8b",
+        "ratio": 0.2
+      },
+      "sha256": "d57a85e1c57714d96dc4bb2269f6431b50b449d1d9ce1d66a1f389de185d6796",
+      "source": "https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/svg/CN_Qihoo_360_sj.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 10,
+      "key": "search",
+      "title": "360搜索",
+      "url": "https://so.com",
+      "domains": [
+        "so.com"
+      ],
+      "description": "",
+      "category": "搜索导航",
+      "tags": [
+        "中国地区Top100",
+        "搜索",
+        "导航",
+        "360搜索",
+        "360-search",
+        "qihoo360",
+        "360",
+        "so.com"
+      ],
+      "aliases": [
+        "360-search",
+        "qihoo360",
+        "360"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1830,
+          "collection": "jaywcjlove/logo",
+          "file": "360-search.svg",
+          "id": 21,
+          "is_default": true,
+          "label": "mark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "360-search.svg",
+            "original_is_default": true,
+            "original_slug": "360-search"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1610,
+            "previous_sha256": "ed32d3dd237ac27e1def0e9ee5a0f20f0dde710156eab13b10f78c2827bf82d3",
+            "ratio": 0.2
+          },
+          "sha256": "e85a1b96e6d5b506cd2f87007028d60977ef3959062bf19db8aae03dd49fc84f",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/so.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

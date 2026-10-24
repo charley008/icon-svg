@@ -1,0 +1,43 @@
+{
+  "title": "Fedora",
+  "url": "https://fedoraproject.org/",
+  "domains": [
+    "fedoraproject.org"
+  ],
+  "description": "Linux 操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "操作系统",
+    "发行版",
+    "Fedora"
+  ],
+  "aliases": [
+    "fedora",
+    "Linux",
+    "操作系统",
+    "发行版"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "fedora.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "9934cb989148048b570c29eb0fc0ed585a2d8cdc661f0f3156fb2e40a4bb0add",
+      "bytes": 2579,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fedora.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "fedora.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

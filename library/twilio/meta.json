@@ -1,0 +1,66 @@
+{
+  "title": "Twilio",
+  "url": "https://www.twilio.com/",
+  "domains": [
+    "www.twilio.com"
+  ],
+  "description": "Twilio 旗下产品与服务。",
+  "category": "开发编程",
+  "tags": [
+    "通信 API",
+    "邮件服务",
+    "Twilio"
+  ],
+  "aliases": [
+    "twilio",
+    "通信 API",
+    "邮件服务"
+  ],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "schema_version": 1,
+  "products": [
+    {
+      "title": "SendGrid",
+      "url": "https://sendgrid.com/",
+      "domains": [
+        "sendgrid.com"
+      ],
+      "description": "Twilio 邮件发送服务。",
+      "category": "开发编程",
+      "tags": [
+        "邮件API",
+        "邮件发送",
+        "SendGrid"
+      ],
+      "aliases": [
+        "twilio-sendgrid",
+        "sendgrid",
+        "邮件API",
+        "邮件发送"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "twilio-sendgrid.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "6dd55d2a40f947ce9928f3d483167cf1c39b60e8beb60cba5a7b2ae582b5e966",
+          "bytes": 480,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sendgrid.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "sendgrid.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "sendgrid"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 386,
+  "schema_version": 1,
+  "id": 535,
+  "title": "The Mockup Club",
+  "url": "https://themockup.club",
+  "domains": [
+    "themockup.club"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "The Mockup Club",
+    "themockupclub",
+    "themockup.club"
+  ],
+  "aliases": [
+    "themockupclub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9120,
+      "collection": "GoTab 公开资源库",
+      "file": "themockupclub.svg",
+      "gotab_id": 124,
+      "id": 1333,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "themockupclub.svg",
+        "original_is_default": true,
+        "original_slug": "themockupclub"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8898,
+        "previous_sha256": "a6c35695f9990c1efbbd04f100ab42285c389b61a0c595096ec2b24e3fb67879",
+        "ratio": 0.2
+      },
+      "sha256": "5f1ff0a5abf75f0156c71e1160fd1bb1cea0951bfeaa0c247e779927f8dbbaa5",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PRTRQ1D90F94P24T6RRH4P.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

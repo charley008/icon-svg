@@ -1,0 +1,77 @@
+{
+  "collection_id": 282,
+  "schema_version": 1,
+  "id": 406,
+  "title": "NewsNow",
+  "url": "https://newsnow.busiyi.world",
+  "domains": [
+    "newsnow.busiyi.world"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "用户优选",
+    "自用",
+    "新闻",
+    "资讯",
+    "NewsNow",
+    "newsnow.busiyi.world"
+  ],
+  "aliases": [
+    "newsnow"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 7607,
+      "collection": "用户优化 SVG",
+      "file": "newsnow.svg",
+      "id": 1019,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "newsnow.svg",
+        "original_is_default": true,
+        "original_slug": "newsnow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7385,
+        "previous_sha256": "ba5421b51e252f89fbc8a6e916904493808748b147c39263879e9c9863aa10e1",
+        "ratio": 0.2
+      },
+      "sha256": "73af01b4a150c0a6e86ebb62ad167764a42e091ab126262f48f312336ddd305b",
+      "source": "用户授权连续处理；复用图库newsnow-1.svg文字和图案矢量，恢复原红色满幅圆角布局，256x256",
+      "version": 0
+    },
+    {
+      "bytes": 8160,
+      "collection": "GoTab 公开资源库",
+      "file": "newsnow-1.svg",
+      "gotab_id": 251,
+      "id": 1020,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "newsnow-1.svg",
+        "original_is_default": false,
+        "original_slug": "newsnow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7938,
+        "previous_sha256": "64deb6823e8264982c760de0a440d63f9c89f3f9534e2aa9d15cb19a3ab09029",
+        "ratio": 0.2
+      },
+      "sha256": "e14fc4eb5d58395ec88243b478055efa001ee951f812814632aa9d7930520b8f",
+      "source": "https://web.gotab.cn/sourceStore/website/01KGH6EYMP0MS0TC73NK6QS35X.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

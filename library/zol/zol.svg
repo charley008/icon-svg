@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#084a9e" /><svg width="256" height="256" viewBox="0 0 128 128" fill="none" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+ 
+<path fill-rule="evenodd" clip-rule="evenodd" d="M91 81.1831C94.1656 76.2192 96 70.3238 96 64C96 57.6762 94.1656 51.7808 91 46.8169V37L59.5 83L91 91V81.1831ZM81.1831 91H46.8169C51.7808 94.1656 57.6762 96 64 96C70.3238 96 76.2192 94.1656 81.1831 91ZM37 91L67.5 45.5L37 37V46.8169C33.8344 51.7808 32 57.6762 32 64C32 70.3238 33.8344 76.2192 37 81.1831V91ZM46.8169 37H81.1831C76.2192 33.8344 70.3238 32 64 32C57.6762 32 51.7808 33.8344 46.8169 37Z" fill="white" />
+</svg></g></g></svg>

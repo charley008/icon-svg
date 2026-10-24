@@ -1,0 +1,158 @@
+{
+  "collection_id": 288,
+  "schema_version": 1,
+  "id": 412,
+  "title": "Notion",
+  "url": "https://notion.so",
+  "domains": [
+    "notion.so"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球App补充",
+    "办公",
+    "效率工具",
+    "笔记",
+    "知识管理",
+    "Notion",
+    "notion.so"
+  ],
+  "aliases": [
+    "notion"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1617,
+      "collection": "已有图标",
+      "file": "notion.svg",
+      "id": 1032,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notion.svg",
+        "original_is_default": true,
+        "original_slug": "notion"
+      },
+      "sha256": "5041d45753071d0123828bb49c677f1e0ee89d436db3f93bd65f0cbd59ac05d3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/notion/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2935,
+      "collection": "GoTab 公开资源库",
+      "file": "notion-1.svg",
+      "gotab_id": 215,
+      "id": 1033,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "notion-1.svg",
+        "original_is_default": false,
+        "original_slug": "notion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2713,
+        "previous_sha256": "cb51a63a7dd6d4793908ac8c251362ac4e44871a1e4d1b320dba6b9ed5317a38",
+        "ratio": 0.2
+      },
+      "sha256": "d4efe13ba4c3aef884053240c0bb9c7ffc5e9505705c16f83feb9a696c6c432e",
+      "source": "https://web.gotab.cn/sourceStore/website/01JXCX9VHJGH9896CWJ0WDCS1B.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1522,
+      "collection": "已有图标",
+      "file": "notion-2.svg",
+      "id": 1034,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notion-2.svg",
+        "original_is_default": false,
+        "original_slug": "notion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1297,
+        "previous_sha256": "b7a842a4b4bbaca9a870665ddb520b2429cde1102a6927c5042437aa0d4f690f",
+        "ratio": 0.2
+      },
+      "sha256": "bac7175429c2437660905ac960f19ac89ea5f289096ae645ed09ca646ec3f3a4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/notion-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2833,
+      "collection": "已有图标",
+      "file": "notion-3.svg",
+      "id": 1035,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notion-3.svg",
+        "original_is_default": false,
+        "original_slug": "notion"
+      },
+      "sha256": "f40000e68274826610cd68735a63df74f47d259946a213dbc1393b59f9499c23",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/notion/wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1304,
+      "collection": "已有图标",
+      "file": "notion-4.svg",
+      "id": 1036,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notion-4.svg",
+        "original_is_default": false,
+        "original_slug": "notion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1071,
+        "previous_sha256": "085869f0381d82d698644ac83c63a0327733d9cb196c0c589b4be9df8b39a18b",
+        "ratio": 0.2
+      },
+      "sha256": "3f962ab05659d7883b9eb48a48afc4a891114d0ba6fa8d11661efc7c04010e2c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/notion/mono.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1473,
+      "collection": "已有图标",
+      "file": "notion-5.svg",
+      "id": 1037,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notion-5.svg",
+        "original_is_default": false,
+        "original_slug": "notion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1250,
+        "previous_sha256": "eb261d3fb9350c5836bd49238b245f26d88ad581dc9dc0df6ef13c67f17fedc0",
+        "ratio": 0.2
+      },
+      "sha256": "a0ade5b2577f3e3035132950b91d097093302752d110d1678a36331bba5173dd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notion-light.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

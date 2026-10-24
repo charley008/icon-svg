@@ -1,0 +1,1154 @@
+{
+  "collection_id": 383,
+  "schema_version": 1,
+  "id": 519,
+  "title": "腾讯",
+  "url": "https://www.tencent.com",
+  "domains": [
+    "tencent.com",
+    "woa.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "社交",
+    "通讯",
+    "腾讯",
+    "tencent",
+    "tencent.com",
+    "woa.com"
+  ],
+  "aliases": [
+    "tencent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 547,
+      "collection": "theSVG",
+      "file": "tencent.svg",
+      "id": 1297,
+      "is_default": true,
+      "label": "color",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tencent.svg",
+        "original_is_default": true,
+        "original_slug": "tencent"
+      },
+      "rounded_corners": {
+        "previous_bytes": 314,
+        "previous_sha256": "feee7a556b637d574483c3ef81e39849783d222561e979e50d7cc1dddfab877f",
+        "ratio": 0.2
+      },
+      "sha256": "0a7d342174fe1b6da3bf7f6a20f016cc31605fa780186b9c980347978fb85e86",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tencent/color.svg",
+      "version": 0
+    },
+    {
+      "bytes": 537,
+      "collection": "theSVG",
+      "file": "tencent-1.svg",
+      "id": 1298,
+      "is_default": false,
+      "label": "mono",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tencent-1.svg",
+        "original_is_default": false,
+        "original_slug": "tencent"
+      },
+      "rounded_corners": {
+        "previous_bytes": 304,
+        "previous_sha256": "a399a5b459d4940ec24f40a356e05908eedd432ddfb27d7126914ac437146ceb",
+        "ratio": 0.2
+      },
+      "sha256": "0ab199c26707295e53c89e8baf9b32588267428b583fba45b407015e95bd9667",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tencent/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4844,
+      "collection": "SVGLOGO",
+      "file": "tencent-2.svg",
+      "id": 1299,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tencent-2.svg",
+        "original_is_default": false,
+        "original_slug": "tencent"
+      },
+      "sha256": "a5ad949f6e9b0d14799c69bbdf2b04cc880fbfbf3d4633b86b23e9d28ffeecb7",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/Tencent.svg",
+      "version": 2
+    },
+    {
+      "bytes": 6242,
+      "collection": "Worldvectorlogo",
+      "file": "tencent-3.svg",
+      "id": 1300,
+      "is_default": false,
+      "label": "tencent",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tencent-3.svg",
+        "original_is_default": false,
+        "original_slug": "tencent"
+      },
+      "sha256": "7bf2b498e35a32a97dab202884d3a3a39424febf7d37178787e0e7a02c736fb5",
+      "source": "https://cdn.worldvectorlogo.com/logos/tencent.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/tencent",
+      "version": 3
+    },
+    {
+      "bytes": 272,
+      "collection": "Worldvectorlogo",
+      "file": "tencent-4.svg",
+      "id": 1301,
+      "is_default": false,
+      "label": "tencent-simple-flat",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tencent-4.svg",
+        "original_is_default": false,
+        "original_slug": "tencent"
+      },
+      "sha256": "33542ee28f29443c91307de54bbcfe623557cb64824f003f21493f5f42af04df",
+      "source": "https://cdn.worldvectorlogo.com/logos/tencent-simple-flat.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/tencent-simple-flat",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 520,
+      "key": "cloud",
+      "title": "腾讯云",
+      "url": "https://cloud.tencent.com",
+      "domains": [
+        "cloud.tencent.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "云计算",
+        "腾讯",
+        "腾讯云",
+        "tencent-cloud",
+        "tencentcloud",
+        "cloud.tencent.com"
+      ],
+      "aliases": [
+        "tencent-cloud",
+        "tencentcloud"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1627,
+          "collection": "User preferred out",
+          "file": "tencent-cloud.svg",
+          "id": 1302,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "tencent-cloud.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1391,
+            "previous_sha256": "c5e8ae484a873f5e617848572515dc76b0b7392f3948c1c4ff58b074944cf41b",
+            "ratio": 0.2
+          },
+          "sha256": "e81f368dab7aef57bf0d1465f900a9fa4d734d0935a1eda040d666accfd37ff0",
+          "source": "User preferred out: cloud.tencent.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1900,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-cloud-1.svg",
+          "gotab_id": 207,
+          "id": 1303,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tencent-cloud-1.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1678,
+            "previous_sha256": "11356439d6ee243b661051faeb51b5d0fbdc10df42de8583fadd1fb73170d3ac",
+            "ratio": 0.2
+          },
+          "sha256": "83e49f4460313ffb58176635079d87ebc77c92c5fd81548beb5e3a08e47d3ff8",
+          "source": "https://web.gotab.cn/sourceStore/website/01JW63AAXFGFS05F9B2ECRP4XR.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2402,
+          "collection": "已有图标",
+          "file": "tencent-cloud-2.svg",
+          "id": 1304,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-cloud-2.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2169,
+            "previous_sha256": "0095296fa1d15c57fbc6d56d0bae541806b0737b05b4b88cdb03061c212bb403",
+            "ratio": 0.2
+          },
+          "sha256": "7f590b776bbb7326a5b773e9265e775406c3c08827641832a9163eda0d78cd37",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tencentcloud/color.svg",
+          "version": 2
+        },
+        {
+          "bytes": 2382,
+          "collection": "已有图标",
+          "file": "tencent-cloud-3.svg",
+          "id": 1305,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-cloud-3.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2149,
+            "previous_sha256": "d5511de1744ef0de82dd7d364420909d6ffb850a5805356a58c158207053cd07",
+            "ratio": 0.2
+          },
+          "sha256": "5587e252ba8452cc18108d1a30305a708128c80be0999b5859b70f3bb29f2879",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tencentcloud/mono.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 521,
+      "key": "codebuddy",
+      "title": "CodeBuddy",
+      "url": "https://codebuddy.ai",
+      "domains": [
+        "codebuddy.ai"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "腾讯",
+        "AI 编程",
+        "代码助手",
+        "CodeBuddy",
+        "codebuddy.ai"
+      ],
+      "aliases": [
+        "codebuddy"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1377,
+          "collection": "Simple Icons",
+          "file": "tencent-codebuddy.svg",
+          "id": 1306,
+          "is_default": true,
+          "label": "codebuddy",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "codebuddy.svg",
+            "original_is_default": true,
+            "original_slug": "codebuddy"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1144,
+            "previous_sha256": "0ad04ce0888197c19d09d4c880a9a65a980b242d5d702925aa553b32de7d7a7b",
+            "ratio": 0.2
+          },
+          "sha256": "7293af474e0c0010056fc19ea6361bfb26c3ca0fd5035ab5974a0362dc59010e",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codebuddy.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 522,
+      "key": "docs",
+      "title": "腾讯文档",
+      "url": "https://docs.qq.com",
+      "domains": [
+        "docs.qq.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "办公",
+        "效率工具",
+        "腾讯",
+        "文档",
+        "在线文档",
+        "腾讯文档",
+        "tencent-docs",
+        "tencentdocs",
+        "docs.qq.com"
+      ],
+      "aliases": [
+        "tencent-docs",
+        "tencentdocs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 20803,
+          "collection": "已有图标",
+          "file": "tencent-docs.svg",
+          "id": 1307,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "trademark-owner",
+          "method": "traced-outline",
+          "provenance": {
+            "original_file": "tencent-docs.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-docs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 20580,
+            "previous_sha256": "b68ffd3a8a9278706c0fc2d63cead82ac7f3ecd1c5aba3e6caca6beb43480162",
+            "ratio": 0.2
+          },
+          "sha256": "cb05f3160a0597fc1fc504384efc66dfa1d8c680fa20a4113e4f81c885c786bd",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/16/7d/cf167dfd-70c3-a16c-9545-8abb0bc14e6a/AppIcon-0-0-1x_U007epad-0-11-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
+          "version": 0
+        },
+        {
+          "bytes": 1992,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-docs-1.svg",
+          "gotab_id": 62,
+          "id": 1308,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tencent-docs-1.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-docs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1770,
+            "previous_sha256": "19dc42aebf7f0622f1760eeabadbdd1b0bb9d8a3a182bed0c8607f99e55b0dca",
+            "ratio": 0.2
+          },
+          "sha256": "9fdccc6c89b9d2430d721b2ccfa40bb63e4d0fc0b52fbe535d9b939c052834f3",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJRTRKHZ1NPWCCFRMY32KQ.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 523,
+      "key": "edgeone",
+      "title": "Tencent EdgeOne",
+      "url": "https://edgeone.ai",
+      "domains": [
+        "edgeone.ai",
+        "cloud.tencent.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "云计算",
+        "腾讯",
+        "Tencent EdgeOne",
+        "tencent-edgeone",
+        "edgeone.ai",
+        "cloud.tencent.com"
+      ],
+      "aliases": [
+        "tencent-edgeone"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1747,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-edgeone.svg",
+          "gotab_id": 219,
+          "id": 1309,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tencent-edgeone.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-edgeone"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1525,
+            "previous_sha256": "532b534d793d5f929160172652c97bbeb36ef77b87564e8e4deb7d7ee780ce53",
+            "ratio": 0.2
+          },
+          "sha256": "b3a405bad7a1dcf6daae4f9fa3895d967f866b80c4aa06556d7d1daa84c16378",
+          "source": "https://web.gotab.cn/uploads/202507/01JZB73QBJH9Y1MDBBX3D34RQN.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 524,
+      "key": "hunyuan",
+      "title": "腾讯混元",
+      "url": "https://aistudio.tencent.com",
+      "domains": [
+        "aistudio.tencent.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "人工智能",
+        "腾讯",
+        "腾讯混元",
+        "tencent-hunyuan",
+        "aistudio.tencent.com"
+      ],
+      "aliases": [
+        "tencent-hunyuan"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2282,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-hunyuan.svg",
+          "gotab_id": 300,
+          "id": 1310,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tencent-hunyuan.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-hunyuan"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2060,
+            "previous_sha256": "04a8b855ee012375e4e51437d04c9eba80a18039fce9a1f1852de6dfd8db1f7a",
+            "ratio": 0.2
+          },
+          "sha256": "23fd80cb701a99ca5b9ae7aef637247c8bb7367383cdba3cd83b40d66d043e39",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNYDPRFTZ6695H3G85JPAKV.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 525,
+      "key": "maps",
+      "title": "腾讯地图",
+      "url": "https://map.qq.com",
+      "domains": [
+        "map.qq.com"
+      ],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "国内补充",
+        "出行",
+        "腾讯",
+        "腾讯地图",
+        "tencent-maps",
+        "tencentmaps",
+        "map.qq.com"
+      ],
+      "aliases": [
+        "tencent-maps",
+        "tencentmaps"
+      ],
+      "notes": [
+        "默认展示用户指定的浅色地图、蓝橙渐变指针重建版；原 303KB 逐像素描摹文件已替换，原始摘要保留在 provenance。",
+        "蓝绿底色矢量版保留为另一版本，版本计数不变。"
+      ],
+      "icons": [
+        {
+          "appstore_bundle": "com.tencent.sosomap",
+          "appstore_track": "https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E5%9C%B0%E5%9B%BE-ai%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92-%E5%AF%BC%E8%88%AA%E5%85%AC%E4%BA%A4%E6%89%93%E8%BD%A6%E5%9C%B0%E9%93%81%E5%87%BA%E8%A1%8C/id481623196?uo=4",
+          "bytes": 1507,
+          "collection": "用户参考图矢量重建",
+          "file": "tencent-maps.svg",
+          "id": 1311,
+          "is_default": true,
+          "label": "浅色地图渐变指针矢量重建版",
+          "license": "trademark-owner",
+          "method": "manual-vector-redraw",
+          "provenance": {
+            "original_file": "tencent-maps.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-maps",
+            "reference_file": "codex-clipboard-42d74306-67dc-4eb9-993c-1c9edd3aff06.png",
+            "replaced_bytes": 310462,
+            "replaced_method": "traced-detail",
+            "replaced_sha256": "29424805e13b43e29866cabfb2088e62d079b4527672642508b9be2a8ff6302c"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1285,
+            "previous_sha256": "19e391f93e0c792f29492f1c71ccbf99d7ce065f7b2044beeb3a091e1a8e6fbc",
+            "ratio": 0.2
+          },
+          "sha256": "6fd6beea54b20a522f6b4c53a3c67be1a9022df87c8670196e2906512fcfae6a",
+          "source": "按用户提供的 codex-clipboard-42d74306-67dc-4eb9-993c-1c9edd3aff06.png 截图重建；浅色地图网格、蓝橙渐变指针、平滑贝塞尔路径；非官方原始 SVG",
+          "version": 0
+        },
+        {
+          "bytes": 953,
+          "collection": "用户参考图矢量重建",
+          "file": "tencent-maps-1.svg",
+          "id": 1312,
+          "is_default": false,
+          "label": "平滑矢量重建版",
+          "license": "原图版权及商标归权利人",
+          "method": "manual-vector-redraw",
+          "provenance": {
+            "reference_file": "ceG2ynzbjE7A.jpg",
+            "reference_sha256": "4bd0a5a3815328430d6b7788b80229faf485a857ef9f55f33396765d4a05e317"
+          },
+          "rounded_corners": {
+            "previous_bytes": 732,
+            "previous_sha256": "8b9d108b9dfc8e0f48682fb8722325294de27dea650f85715d7ec99fff7425e0",
+            "ratio": 0.2
+          },
+          "sha256": "78891946c182a068bf068e3b98d50cacbc6941d9b65a320c373ac1359cfef99e",
+          "source": "按用户提供的 ceG2ynzbjE7A.jpg 参考图，以几何路径和贝塞尔曲线重建；非官方原始 SVG",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 526,
+      "key": "meeting",
+      "title": "腾讯会议",
+      "url": "https://meeting.tencent.com",
+      "domains": [
+        "meeting.tencent.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "办公",
+        "效率工具",
+        "腾讯",
+        "视频会议",
+        "远程会议",
+        "腾讯会议",
+        "tencent-meeting",
+        "tencentmeeting",
+        "voov-meeting",
+        "meeting.tencent.com"
+      ],
+      "aliases": [
+        "tencent-meeting",
+        "tencentmeeting",
+        "voov-meeting"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 7233,
+          "collection": "官网 SVG",
+          "file": "tencent-meeting.svg",
+          "id": 1313,
+          "is_default": true,
+          "label": "official-mark",
+          "license": "trademark-owner",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-meeting.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-meeting"
+          },
+          "sha256": "0fc147b9b3e3ad6e617da71c2e4aba7c512676da26f321ba8e8145692116478e",
+          "source": "https://cdn.meeting.tencent.com/pro/Y2JmNmM1ODYtNGFmYS00MzNkLWFhNDItOWJkOGUzODc5M2Ri.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 527,
+      "key": "news",
+      "title": "腾讯新闻",
+      "url": "https://news.qq.com",
+      "domains": [
+        "news.qq.com"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "新闻",
+        "资讯",
+        "腾讯",
+        "腾讯新闻",
+        "qq-news",
+        "tencent-news",
+        "news.qq.com"
+      ],
+      "aliases": [
+        "qq-news",
+        "tencent-news"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1984,
+          "collection": "用户优化 SVG",
+          "file": "tencent-news.svg",
+          "id": 1314,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "qq-news.svg",
+            "original_is_default": true,
+            "original_slug": "qq-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1764,
+            "previous_sha256": "10cf4e0f0e4be36d5c2efc79bc401dd3d508f854fbc0ffb560d51c13d7de9fc3",
+            "ratio": 0.2
+          },
+          "sha256": "e1ff210518322c8af3a423900bde3fa3f2dc4abe69030684f03984eb5b9eb029",
+          "source": "用户优化：news.tencent.svg",
+          "version": 0
+        },
+        {
+          "bytes": 7445,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-news-1.svg",
+          "gotab_id": 42,
+          "id": 1315,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "qq-news-1.svg",
+            "original_is_default": false,
+            "original_slug": "qq-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 7223,
+            "previous_sha256": "5fca77f7b523c581209be771e54a67ca104d82ce7b7531e9836fdf798b67decf",
+            "ratio": 0.2
+          },
+          "sha256": "69d6989719d56221d5afe9e218d56a77de80650a1ff9abff25e3b02631ebe4a6",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HCJJRB1RHD35B5472EH2WM.svg",
+          "version": 1
+        },
+        {
+          "bytes": 51888,
+          "collection": "已有图标",
+          "file": "tencent-news-2.svg",
+          "id": 1316,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "trademark-owner",
+          "method": "traced-outline",
+          "provenance": {
+            "original_file": "qq-news-2.svg",
+            "original_is_default": false,
+            "original_slug": "qq-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 51665,
+            "previous_sha256": "f1ccf09a400b9b98cac8a766e41700547fe6b573f08ddc2a592aba063bf0848e",
+            "ratio": 0.2
+          },
+          "sha256": "ffa3721d054ca6156726e905b91b1b214370ae13570fb2565a7028dcb9b74004",
+          "source": "原图描摹",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 528,
+      "key": "portal",
+      "title": "腾讯网",
+      "url": "https://qq.com",
+      "domains": [
+        "qq.com"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "新闻",
+        "资讯",
+        "腾讯",
+        "腾讯网",
+        "tencent-portal",
+        "qq.com"
+      ],
+      "aliases": [
+        "tencent-portal"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2273,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-portal.svg",
+          "gotab_id": 151,
+          "id": 1317,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tencent-portal.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-portal"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2051,
+            "previous_sha256": "e83f27454cacfbed4674fbdf225e07bd1698ff44c61ba69b9b0fbead8c4ed038",
+            "ratio": 0.2
+          },
+          "sha256": "2006a21e87074fffdcc9f4b438ec24be60f868846b9176a5a60962256d09fcfe",
+          "source": "https://web.gotab.cn/sourceStore/website/01JB3X8NRNTRYF1EAFJJF9Z7SH.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 529,
+      "key": "video",
+      "title": "腾讯视频",
+      "url": "https://v.qq.com",
+      "domains": [
+        "v.qq.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "Worldvectorlogo补充",
+        "用户优选",
+        "影音",
+        "腾讯",
+        "视频",
+        "在线视频",
+        "腾讯视频",
+        "tencent-video",
+        "qqvideo",
+        "tencentvideo",
+        "v.qq.com"
+      ],
+      "aliases": [
+        "tencent-video",
+        "qqvideo",
+        "tencentvideo"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 7202,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-video.svg",
+          "gotab_id": 4,
+          "id": 1318,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tencent-video.svg",
+            "original_is_default": true,
+            "original_slug": "tencent-video"
+          },
+          "rounded_corners": {
+            "previous_bytes": 6980,
+            "previous_sha256": "76ee9f1abb207930ebca8554b4084c132df88dce743010c51328b8919bc426eb",
+            "ratio": 0.2
+          },
+          "sha256": "5cb11bc19feac2d82785609e13fa2c8e4155fbbbc8271b1a1271e1ff6d56ba66",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GWA65QE5FR0Y0JM0GPT4BT.svg",
+          "version": 0
+        },
+        {
+          "bytes": 4889,
+          "collection": "已有图标",
+          "file": "tencent-video-1.svg",
+          "id": 1319,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "attribution-required",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-video-2.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-video"
+          },
+          "sha256": "cd8f1abbf6343a8a88c1796854a745bef318823503c70c8b885b938c459ad1c3",
+          "source": "https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/svg/CN_tencent_video_.svg",
+          "version": 1
+        },
+        {
+          "bytes": 9404,
+          "collection": "已有图标",
+          "file": "tencent-video-2.svg",
+          "id": 1320,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-video-3.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-video"
+          },
+          "rounded_corners": {
+            "previous_bytes": 9184,
+            "previous_sha256": "c6637b8410ecd0d05d20566f79236e652a2341a0e52c87b1e7a235f481a69135",
+            "ratio": 0.2
+          },
+          "sha256": "9d765c4d533058fb6100b02b0a44e8459e87c91dca4ffd7eb2a6a3e6978b63a2",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/v.qq.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1519,
+          "collection": "已有图标",
+          "file": "tencent-video-3.svg",
+          "id": 1321,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-video-4.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-video"
+          },
+          "sha256": "41956a7115f501a069de4f1946780e6a4ecb4846e602e48e30c51d0ebd079c44",
+          "source": "https://cdn.worldvectorlogo.com/logos/tencent-video.svg",
+          "version": 3
+        },
+        {
+          "bytes": 5645,
+          "collection": "已有图标",
+          "file": "tencent-video-4.svg",
+          "id": 1322,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tencent-video-5.svg",
+            "original_is_default": false,
+            "original_slug": "tencent-video"
+          },
+          "sha256": "217606dd476250bcb7775e251fe510df5e7ca94a2e990bee6a3ad097b41236a3",
+          "source": "https://cdn.worldvectorlogo.com/logos/tencentvideo.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 530,
+      "key": "wegame",
+      "title": "WeGame",
+      "url": "https://wegame.com.cn",
+      "domains": [
+        "wegame.com.cn"
+      ],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "国内补充",
+        "游戏",
+        "腾讯",
+        "WeGame",
+        "wegame.com.cn"
+      ],
+      "aliases": [
+        "wegame"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2426,
+          "collection": "theSVG",
+          "file": "tencent-wegame.svg",
+          "id": 1323,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wegame.svg",
+            "original_is_default": true,
+            "original_slug": "wegame"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2193,
+            "previous_sha256": "8984a39349df0db2a93719f254f1c4f3b093372daea9dcd7d62e4f8a45d5e1b1",
+            "ratio": 0.2
+          },
+          "sha256": "d9415fe82a3b8a292faec8c37077bcfdf7aade01e7883db348fa465948827a90",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wegame/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2426,
+          "collection": "theSVG",
+          "file": "tencent-wegame-1.svg",
+          "id": 1324,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wegame-1.svg",
+            "original_is_default": false,
+            "original_slug": "wegame"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2193,
+            "previous_sha256": "d9d2fa98b90ef969ca21258f4b11832420797264961feb3a4a4b7bd1ef8ea7ce",
+            "ratio": 0.2
+          },
+          "sha256": "b1eaa57dfb18da15dd9bdd51ba0067655466bb290b0615e2d090b06f0c8b2445",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wegame/mono.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 531,
+      "key": "workbuddy",
+      "title": "Workbuddy",
+      "url": "https://workbuddy.cn",
+      "domains": [
+        "workbuddy.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "中国地区Top100",
+        "人工智能",
+        "腾讯",
+        "Workbuddy",
+        "workbuddy.cn"
+      ],
+      "aliases": [
+        "workbuddy"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4519,
+          "collection": "已有图标",
+          "file": "tencent-workbuddy.svg",
+          "id": 1325,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "workbuddy.svg",
+            "original_is_default": true,
+            "original_slug": "workbuddy"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4299,
+            "previous_sha256": "9f98c4ffd0330348d3bdd87a2470da3b8d88f2a7b3f0516ff70e795854a3c983",
+            "ratio": 0.2
+          },
+          "sha256": "6840f8d6878197f5a98a6413e1128a9389afa8e4746300ba8aad3e228fbe3bd3",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/workbuddy/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 4301,
+          "collection": "GoTab 公开资源库",
+          "file": "tencent-workbuddy-1.svg",
+          "gotab_id": 297,
+          "id": 1326,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "workbuddy-1.svg",
+            "original_is_default": false,
+            "original_slug": "workbuddy"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4079,
+            "previous_sha256": "1eec7a95a85d850b97859ac006da7f5fe76f7869a2419a10d53948d717b656da",
+            "ratio": 0.2
+          },
+          "sha256": "c86b51cd7c046b876674bcb5cce0720e16e80242791edf742dade0fdbfc799a0",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNY0JJVV5VTGTZ9T4P3Y1VP.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 532,
+      "key": "yuanbao",
+      "title": "腾讯元宝",
+      "url": "https://yuanbao.tencent.com",
+      "domains": [
+        "yuanbao.tencent.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "人工智能",
+        "腾讯",
+        "AI 对话",
+        "聊天助手",
+        "腾讯元宝",
+        "yuanbao",
+        "tencent-yuanbao",
+        "yuanbao.tencent.com"
+      ],
+      "aliases": [
+        "yuanbao",
+        "tencent-yuanbao"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2590,
+          "collection": "用户优选",
+          "file": "tencent-yuanbao.svg",
+          "id": 1327,
+          "is_default": true,
+          "label": "yuanbao",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "yuanbao.svg",
+            "original_is_default": true,
+            "original_slug": "yuanbao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2357,
+            "previous_sha256": "5b6eb3e4c57b455028238c885cfd0d6c7f7c860e4979c653e356095e11e5b29b",
+            "ratio": 0.2
+          },
+          "sha256": "b9a0c01c1dd93d57c243376190e67c7a06636335eccd746a3b1367992286a1d5",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1304,
+          "collection": "theSVG",
+          "file": "tencent-yuanbao-1.svg",
+          "id": 1328,
+          "is_default": false,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "yuanbao-1.svg",
+            "original_is_default": false,
+            "original_slug": "yuanbao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1071,
+            "previous_sha256": "d8b4a363133b88f6b9f68f2cc434de09c543111ae9d96af49decd13ec751dd0f",
+            "ratio": 0.2
+          },
+          "sha256": "6ab7aa779f8f43cc9e0ced4f8fa975b4b150613e25c97822c58e5a15fec3ab2e",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/yuanbao/color.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1019,
+          "collection": "theSVG",
+          "file": "tencent-yuanbao-2.svg",
+          "id": 1329,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "yuanbao-2.svg",
+            "original_is_default": false,
+            "original_slug": "yuanbao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 786,
+            "previous_sha256": "eaf9228ca3f2b1be04466d97cd019ae054b29935ee5f8974c288a2239ed23c64",
+            "ratio": 0.2
+          },
+          "sha256": "e120390d2271d650a6f97c4a4878dd9e4fb78190e9a37a117082b147e8ac8a98",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/yuanbao/mono.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    }
+  ]
+}

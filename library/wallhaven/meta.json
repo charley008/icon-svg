@@ -1,0 +1,50 @@
+{
+  "collection_id": 414,
+  "schema_version": 1,
+  "id": 567,
+  "title": "Wallhaven",
+  "url": "https://wallhaven.cc",
+  "domains": [
+    "wallhaven.cc"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Wallhaven",
+    "wallhaven.cc"
+  ],
+  "aliases": [
+    "wallhaven"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2483,
+      "collection": "GoTab 公开资源库",
+      "file": "wallhaven.svg",
+      "gotab_id": 138,
+      "id": 1419,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "wallhaven.svg",
+        "original_is_default": true,
+        "original_slug": "wallhaven"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2261,
+        "previous_sha256": "108ec1aec8e4ca51e6a2f31c8812b124b9f38e96e4e371c897517bf2e1ce5e21",
+        "ratio": 0.2
+      },
+      "sha256": "ba4402eb7c8a2cd3585a81b8d06e736afa504eedc1360dcb61afbfb17563faad",
+      "source": "https://web.gotab.cn/uploads/202410/01J9C58PM2TA9W8430F5JZC712.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

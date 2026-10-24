@@ -1,0 +1,45 @@
+{
+  "collection_id": 459,
+  "schema_version": 1,
+  "id": 623,
+  "title": "Apache",
+  "url": "https://www.apache.org/",
+  "domains": [
+    "apache.org"
+  ],
+  "description": "Apache 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "Apache",
+    "apache",
+    "阿帕奇",
+    "开源",
+    "Apache Software Foundation"
+  ],
+  "aliases": [
+    "ASF",
+    "阿帕奇"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5326,
+      "collection": "用户补充 SVG",
+      "file": "apache.svg",
+      "id": 1555,
+      "is_default": true,
+      "label": "apache-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "apache-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/apache-3.svg"
+      },
+      "sha256": "b72aa7783fab02130d714703ad9847b3c2e9a21b99cf17549bedbb1fd7466fa6",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/apache-3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

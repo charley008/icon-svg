@@ -1,0 +1,139 @@
+{
+  "collection_id": 400,
+  "schema_version": 1,
+  "id": 552,
+  "title": "UOL",
+  "url": "https://uol.com.br",
+  "domains": [
+    "uol.com.br"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "全球Top100",
+    "Worldvectorlogo补充",
+    "新闻",
+    "资讯",
+    "UOL",
+    "uol.com.br"
+  ],
+  "aliases": [
+    "uol"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1035,
+      "collection": "Worldvectorlogo",
+      "file": "uol.svg",
+      "id": 1378,
+      "is_default": true,
+      "label": "uol-logo",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uol.svg",
+        "original_is_default": true,
+        "original_slug": "uol"
+      },
+      "sha256": "c398bb74cda0cd21179c9cd7b63e574fb35fdabedded1aa8ef451606a89d6c79",
+      "source": "https://cdn.worldvectorlogo.com/logos/uol-logo.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/uol-logo",
+      "version": 0
+    },
+    {
+      "bytes": 6467,
+      "collection": "Worldvectorlogo",
+      "file": "uol-1.svg",
+      "id": 1379,
+      "is_default": false,
+      "label": "uol-universo-online",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uol-1.svg",
+        "original_is_default": false,
+        "original_slug": "uol"
+      },
+      "sha256": "86538227c013a24acba14319e235a77d5530480c83e045fe0034a8c461e11fad",
+      "source": "https://cdn.worldvectorlogo.com/logos/uol-universo-online.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/uol-universo-online",
+      "version": 1
+    },
+    {
+      "bytes": 6008,
+      "collection": "Worldvectorlogo",
+      "file": "uol-2.svg",
+      "id": 1380,
+      "is_default": false,
+      "label": "uol-universo-on-line",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uol-2.svg",
+        "original_is_default": false,
+        "original_slug": "uol"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5775,
+        "previous_sha256": "3302e7cd0773b31dac565b4038799f51fcc7b43617686081b628af5156e39416",
+        "ratio": 0.2
+      },
+      "sha256": "4a5ba973055b92136322fdf34db9f19a54ce76610e71a95277822a74ce1ec34c",
+      "source": "https://cdn.worldvectorlogo.com/logos/uol-universo-on-line.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/uol-universo-on-line",
+      "version": 2
+    },
+    {
+      "bytes": 2798,
+      "collection": "Worldvectorlogo",
+      "file": "uol-3.svg",
+      "id": 1381,
+      "is_default": false,
+      "label": "uol-footer",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uol-3.svg",
+        "original_is_default": false,
+        "original_slug": "uol"
+      },
+      "sha256": "a65a3711045ffd0140dcb0c17e8dcafa4cec978043cf1b37e9c6b2169900e366",
+      "source": "https://cdn.worldvectorlogo.com/logos/uol-footer.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/uol-footer",
+      "version": 3
+    },
+    {
+      "bytes": 1397,
+      "collection": "轻量矢量替换",
+      "file": "uol-4.svg",
+      "id": 1382,
+      "is_default": false,
+      "label": "mark",
+      "license": "see-source",
+      "method": "native-vector-composition",
+      "provenance": {
+        "original_file": "uol-4.svg",
+        "original_is_default": false,
+        "original_slug": "uol"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "e7c09977eb99f3875c4acf414333b4298614fef27342a19da6a386067fd78b2b",
+        "previous_bytes": 289070,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.google.com/s2/favicons?domain=uol.com.br\u0026sz=256",
+        "reference": "seed/icons/uol/uol.svg",
+        "note": "保留蓝底白字的应用图标样式，使用已有彩色标识路径。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "775c8cc6cf9f53262327645b5bce31f39897b6a098c7b6805d8a79a19eb5216f",
+      "source": "https://cdn.worldvectorlogo.com/logos/uol-logo.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

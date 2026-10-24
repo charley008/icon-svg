@@ -1,0 +1,2 @@
+/* All assets and fonts are local/system; no external CDN is required. */
+html{scroll-behavior:smooth}::selection{background:#d8cdf7;color:#362763}button,input,select,textarea{font-family:inherit}input[type=range]{cursor:pointer}body:has(dialog[open]){overflow:hidden}button{touch-action:manipulation}img{vertical-align:middle}svg{vertical-align:middle}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 20,
+  "schema_version": 1,
+  "id": 21,
+  "title": "科研通",
+  "url": "https://ablesci.com",
+  "domains": [
+    "ablesci.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "科研通",
+    "ablesci",
+    "ablesci.com"
+  ],
+  "aliases": [
+    "ablesci"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2098,
+      "collection": "GoTab 公开资源库",
+      "file": "ablesci.svg",
+      "gotab_id": 281,
+      "id": 36,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ablesci.svg",
+        "original_is_default": true,
+        "original_slug": "ablesci"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1876,
+        "previous_sha256": "40a872dc9e63c2dda7169f8e4497e3731248d17acbdefb751ccf8de3bf69dfdd",
+        "ratio": 0.2
+      },
+      "sha256": "a3e79b9b5d1a0f1ad60a47fe6bbe832a2e88f8f4112720853bd8e63793df02fe",
+      "source": "https://web.gotab.cn/sourceStore/website/01KY21KNX0TCR90NSW1G9X02W3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

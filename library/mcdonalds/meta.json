@@ -1,0 +1,79 @@
+{
+  "collection_id": 478,
+  "schema_version": 1,
+  "id": 642,
+  "title": "McDonald's",
+  "url": "https://www.mcdonalds.com/",
+  "domains": [
+    "mcdonalds.com"
+  ],
+  "description": "McDonald's 图标合集。",
+  "category": "生活服务",
+  "tags": [
+    "McDonald's",
+    "mcdonalds",
+    "麦当劳",
+    "快餐",
+    "餐饮"
+  ],
+  "aliases": [
+    "麦当劳",
+    "mcdonalds"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1342,
+      "collection": "用户补充 SVG",
+      "file": "mcdonalds.svg",
+      "id": 1588,
+      "is_default": true,
+      "label": "mcdonalds-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "mcdonalds-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/mcdonalds-2.svg"
+      },
+      "sha256": "e37efb83a1cedd33f12e334d09d3d84f659bab70ff11211565f860aca407e151",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/mcdonalds-2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1798,
+      "collection": "用户补充 SVG",
+      "file": "mcdonalds-1.svg",
+      "id": 1589,
+      "is_default": false,
+      "label": "mcdonalds-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "mcdonalds-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/mcdonalds-1.svg"
+      },
+      "sha256": "130598cbcf467e8ac4db57c17e78e19e9e1f475e18a64b5d206efa1d7587b845",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/mcdonalds-1.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1538,
+      "collection": "用户补充 SVG",
+      "file": "mcdonalds-2.svg",
+      "id": 1590,
+      "is_default": false,
+      "label": "mcdonalds-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "mcdonalds-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/mcdonalds-3.svg"
+      },
+      "sha256": "046b3d05fbae0d03d2122ec8bf495823b345fdcb68f7a3153ef3e3bbc80cd4a7",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/mcdonalds-3.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

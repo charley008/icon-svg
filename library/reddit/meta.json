@@ -1,0 +1,168 @@
+{
+  "collection_id": 336,
+  "schema_version": 1,
+  "id": 466,
+  "title": "Reddit",
+  "url": "https://reddit.com",
+  "domains": [
+    "reddit.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球App补充",
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "Reddit",
+    "reddit.com"
+  ],
+  "aliases": [
+    "reddit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5523,
+      "collection": "已有图标",
+      "file": "reddit.svg",
+      "id": 1160,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reddit.svg",
+        "original_is_default": true,
+        "original_slug": "reddit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5301,
+        "previous_sha256": "950fc90305221095af42773313c3b94e6a7795ca80dc237d90087b20f1f3c85a",
+        "ratio": 0.2
+      },
+      "sha256": "8c85fc2887366f486f4b9f5b08ce7ec41eea2c57670381f9faba82ffe461633e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/reddit/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2618,
+      "collection": "GoTab 公开资源库",
+      "file": "reddit-1.svg",
+      "gotab_id": 224,
+      "id": 1161,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "reddit-1.svg",
+        "original_is_default": false,
+        "original_slug": "reddit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2396,
+        "previous_sha256": "7a873b41524d77952bbc25c1e9df584127c74cb4ad2d9d5d631d57828faffa09",
+        "ratio": 0.2
+      },
+      "sha256": "e00f707b69f408ba4d903ce2f1132be370f94977b60370c9279cecd3fe77610c",
+      "source": "https://web.gotab.cn/uploads/202507/01K0R4WQ4TN2RQQZFEWDRBC16D.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1347,
+      "collection": "已有图标",
+      "file": "reddit-2.svg",
+      "id": 1162,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reddit-2.svg",
+        "original_is_default": false,
+        "original_slug": "reddit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1122,
+        "previous_sha256": "6eec8e01ab0bc3bd14acb63c10832f6bab2fba95b46260f54a4f249d935480d4",
+        "ratio": 0.2
+      },
+      "sha256": "3c0c2ffbd95cdde70055e4ff7254709a346b8b2d62913d665d995d1993a02738",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/reddit-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1559,
+      "collection": "已有图标",
+      "file": "reddit-3.svg",
+      "id": 1163,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reddit-3.svg",
+        "original_is_default": false,
+        "original_slug": "reddit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1326,
+        "previous_sha256": "98382a6a60a3fcd0e0efced5ddb93ad8036fddeb53a6160f3bce2bb47de5bfc3",
+        "ratio": 0.2
+      },
+      "sha256": "ad320adc9857c54afd904e86615e94efa44820bd9d94ac5bd4ada163e373236c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/reddit/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 10040,
+      "collection": "已有图标",
+      "file": "reddit-4.svg",
+      "id": 1164,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reddit-4.svg",
+        "original_is_default": false,
+        "original_slug": "reddit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 9818,
+        "previous_sha256": "028616f09eb655dc84a1a32ef9f52438cadec96930400c6f8e7d516fbf2ebb34",
+        "ratio": 0.2
+      },
+      "sha256": "711d8a51e9285779640d67a482d15562122aeff26060b45c72419ccedcccb62e",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/reddit.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1290,
+      "collection": "已有图标",
+      "file": "reddit-5.svg",
+      "id": 1165,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reddit-5.svg",
+        "original_is_default": false,
+        "original_slug": "reddit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1067,
+        "previous_sha256": "d28d9bac26439bb6c00fd21a39065093cbd6011290299ed3c3ff788895364ce2",
+        "ratio": 0.2
+      },
+      "sha256": "e759779b896131d31799ac953c366f883bb6306af50d98e8574e98036948f944",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/reddit.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

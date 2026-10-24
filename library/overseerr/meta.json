@@ -1,0 +1,42 @@
+{
+  "title": "Overseerr",
+  "url": "https://overseerr.dev/",
+  "domains": [
+    "overseerr.dev"
+  ],
+  "description": "影音库内容请求管理应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "媒体请求",
+    "影音库",
+    "Overseerr"
+  ],
+  "aliases": [
+    "overseerr",
+    "媒体请求",
+    "影音库",
+    "Media Request"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "overseerr.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "73238e3aba8dce63e4ef0fcf37c59759b25155cc36a9adc38e507f4e66bc22fb",
+      "bytes": 1486,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/overseerr.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "overseerr.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

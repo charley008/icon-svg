@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.serif.com/" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-2369.29,-4352.33)">
+        <g id="CG-Goat" ns1:id="CG Goat" transform="matrix(1,0,0,1,2369.29,4352.33)">
+            <rect x="0" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1,0,0,1,-2369.23,-4352.33)">
+                <path d="M2625.29,4413.77C2732.67,4413.77 2819.85,4500.95 2819.85,4608.33C2819.85,4715.71 2732.67,4802.89 2625.29,4802.89C2517.91,4802.89 2430.73,4715.71 2430.73,4608.33C2430.73,4500.95 2517.91,4413.77 2625.29,4413.77ZM2629.63,4629.38L2683.29,4629.38C2674.68,4653.08 2651.95,4670.03 2625.29,4670.03C2591.24,4670.03 2563.59,4642.38 2563.59,4608.33C2563.59,4574.28 2591.24,4546.64 2625.29,4546.64C2641.99,4546.64 2657.16,4553.3 2668.27,4564.1L2697.61,4533.91C2678.91,4515.74 2653.39,4504.54 2625.29,4504.54C2568,4504.54 2521.5,4551.05 2521.5,4608.33C2521.5,4665.62 2568,4712.12 2625.29,4712.12C2682.57,4712.12 2729.08,4665.62 2729.08,4608.33L2729.08,4587.29L2629.63,4587.29L2629.63,4629.38Z" style="fill:rgb(35,35,35);" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

@@ -1,0 +1,43 @@
+{
+  "title": "Komga",
+  "url": "https://komga.org/",
+  "domains": [
+    "komga.org"
+  ],
+  "description": "自托管漫画与电子书服务器。",
+  "category": "阅读",
+  "tags": [
+    "漫画",
+    "电子书",
+    "自托管",
+    "Komga"
+  ],
+  "aliases": [
+    "komga",
+    "漫画",
+    "电子书",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "komga.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "3db326796a5b019a7b65e8682588d039726fd0e820896565cc8af6dc1a0c9242",
+      "bytes": 2019,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/komga.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "komga.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

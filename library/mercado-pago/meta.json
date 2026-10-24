@@ -1,0 +1,46 @@
+{
+  "collection_id": 255,
+  "schema_version": 1,
+  "id": 355,
+  "title": "Mercado Pago",
+  "url": "https://mercadopago.com",
+  "domains": [
+    "mercadopago.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Worldvectorlogo补充",
+    "金融",
+    "Mercado Pago",
+    "mercado-pago",
+    "mercadopago.com"
+  ],
+  "aliases": [
+    "mercado-pago"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12850,
+      "collection": "Worldvectorlogo",
+      "file": "mercado-pago.svg",
+      "id": 872,
+      "is_default": true,
+      "label": "mercado-pago-1",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mercado-pago.svg",
+        "original_is_default": true,
+        "original_slug": "mercado-pago"
+      },
+      "sha256": "940afbc784950da46e70ec3804e6de07ea2b7cc24c6dc74b96806db2d41d4c09",
+      "source": "https://cdn.worldvectorlogo.com/logos/cd4804d4-fa18-4481-8595-e4fff80e6ce8/mercado-pago-1.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/mercado-pago-1",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,95 @@
+{
+  "collection_id": 346,
+  "schema_version": 1,
+  "id": 476,
+  "title": "Shazam",
+  "url": "https://shazam.com",
+  "domains": [
+    "shazam.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球App补充",
+    "影音",
+    "Shazam",
+    "shazam.com"
+  ],
+  "aliases": [
+    "shazam"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1486,
+      "collection": "theSVG",
+      "file": "shazam.svg",
+      "id": 1191,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shazam.svg",
+        "original_is_default": true,
+        "original_slug": "shazam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1253,
+        "previous_sha256": "2c37a3617a4fdb825c222095f3c4b25040151808acf5e2425d58df11709f4e61",
+        "ratio": 0.2
+      },
+      "sha256": "97b886d1f714291d6ede76b55a6c2450ce879c88130a12b9a7bd410938098c8f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/shazam/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1486,
+      "collection": "theSVG",
+      "file": "shazam-1.svg",
+      "id": 1192,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shazam-1.svg",
+        "original_is_default": false,
+        "original_slug": "shazam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1253,
+        "previous_sha256": "b84c0b0a530ef04bea26a80b333beefaa339c6e9227632e2a6683d6b3a3658b4",
+        "ratio": 0.2
+      },
+      "sha256": "62f00f2c869574a4de7fa5f0462d34f6a843c820efa71bf574adb087a4a03545",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/shazam/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1547,
+      "collection": "Iconify / arcticons",
+      "file": "shazam-2.svg",
+      "id": 1193,
+      "is_default": false,
+      "label": "shazam",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shazam-2.svg",
+        "original_is_default": false,
+        "original_slug": "shazam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1314,
+        "previous_sha256": "11ec6474404191d3c911bdde9c21c2138deb4033887bf4d3c5800add2b31efe4",
+        "ratio": 0.2
+      },
+      "sha256": "f67d1907adb5c0df887ce87a9b3554b7582ac2095599ab147ce7cce65c930b8d",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#shazam",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

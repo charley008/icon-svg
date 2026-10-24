@@ -1,0 +1,50 @@
+{
+  "collection_id": 77,
+  "schema_version": 1,
+  "id": 145,
+  "title": "CGWallpapers",
+  "url": "https://cgwallpapers.com",
+  "domains": [
+    "cgwallpapers.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "CGWallpapers",
+    "cgwallpapers.com"
+  ],
+  "aliases": [
+    "cgwallpapers"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5295,
+      "collection": "GoTab 公开资源库",
+      "file": "cgwallpapers.svg",
+      "gotab_id": 139,
+      "id": 369,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cgwallpapers.svg",
+        "original_is_default": true,
+        "original_slug": "cgwallpapers"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5073,
+        "previous_sha256": "e3369f8a7e34d0e5c4833c6fd50cd763c3cf6586ef3ea316fa797e2b1d97dd94",
+        "ratio": 0.2
+      },
+      "sha256": "97ec05ebbe1331c209639247349058dc878abebdebc7c7077126715eb183fd41",
+      "source": "https://web.gotab.cn/uploads/202410/01J9C7C6XJHSQ9YGD0NZJJVGTM.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

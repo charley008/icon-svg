@@ -1,0 +1,50 @@
+{
+  "collection_id": 219,
+  "schema_version": 1,
+  "id": 316,
+  "title": "IT-Tools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "用户优选",
+    "自用",
+    "开发",
+    "编程",
+    "IT-Tools"
+  ],
+  "aliases": [
+    "it-tools"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 5742,
+      "collection": "用户优选",
+      "file": "it-tools.svg",
+      "id": 786,
+      "is_default": true,
+      "label": "it-tools",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "it-tools.svg",
+        "original_is_default": true,
+        "original_slug": "it-tools"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5506,
+        "previous_sha256": "45228e33b617e2a0ca5aff4e16976c79487a9beb9bde2ef9f644f5a93ddb9d57",
+        "ratio": 0.2
+      },
+      "sha256": "fd2eef0ab1cf086b072fe1960117c587436eff65631f1a9ff0ea7745ac2dba0e",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

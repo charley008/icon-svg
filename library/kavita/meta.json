@@ -1,0 +1,43 @@
+{
+  "title": "Kavita",
+  "url": "https://www.kavitareader.com/",
+  "domains": [
+    "www.kavitareader.com"
+  ],
+  "description": "自托管漫画与电子书阅读服务。",
+  "category": "阅读",
+  "tags": [
+    "漫画",
+    "电子书",
+    "阅读器",
+    "Kavita"
+  ],
+  "aliases": [
+    "kavita",
+    "漫画",
+    "电子书",
+    "阅读器"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "kavita.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "f03ab7420b8b36ad6b43e88723f794d76c411f728fb020fbeee470f6e1e7696b",
+      "bytes": 1996,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kavita.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "kavita.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

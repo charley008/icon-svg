@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+<defs>
+ <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efdb87" /><stop offset=".2" stop-color="#b88e38" /><stop offset=".5" stop-color="#f8e597" /><stop offset=".73" stop-color="#ba8f38" /><stop offset="1" stop-color="#efdf8b" /></linearGradient>
+ <linearGradient id="gold" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#f4dc83" /><stop offset=".22" stop-color="#c6a34c" /><stop offset=".5" stop-color="#92702c" /><stop offset=".72" stop-color="#d9b65d" /><stop offset="1" stop-color="#856327" /></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#778ba6" /><stop offset=".5" stop-color="#465e84" /><stop offset="1" stop-color="#6b7a9b" /></linearGradient>
+ <radialGradient id="stone" cx=".4" cy=".3" r=".8"><stop stop-color="#a6996b" /><stop offset=".55" stop-color="#7c785b" /><stop offset="1" stop-color="#66694f" /></radialGradient>
+ <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8ef7ff" /><stop offset=".35" stop-color="#28d4ff" /><stop offset=".65" stop-color="#24b7fc" /><stop offset="1" stop-color="#66edff" /></linearGradient>
+ <clipPath id="corners"><rect x="1" y="1" width="254" height="254" rx="20" /></clipPath>
+</defs>
+<g clip-path="url(#corners)">
+ <rect x="1" y="1" width="254" height="254" rx="20" fill="url(#frame)" stroke="#7c662e" stroke-width="3" />
+ <path d="M20 10h216l10 13v216l-10 8H20L10 237V22Z" fill="none" stroke="#f9e898" stroke-width="6" />
+ <rect x="20" y="21" width="216" height="216" rx="5" fill="#654e28" />
+ <rect x="28" y="29" width="199" height="199" rx="3" fill="url(#card)" stroke="#9ca5b8" stroke-width="3" />
+ <path d="m30 44 42-13 110 3-25 44 56 35-42 56 49 50H35l44-40-36-45 25-43Z" fill="#7286a7" opacity=".55" />
+ <path d="M37 39h178v177H37Z" fill="none" stroke="#344a6a" stroke-width="4" opacity=".65" />
+ <path d="M10 27v68m4 66v58m17 23h49m95 0h45M31 13h59m78 0h54" stroke="#83682d" stroke-width="5" stroke-linecap="round" />
+ <path d="M7 25 19 8h23M214 8h23l12 14M8 223l12 24h24m169 0h23l12-23" fill="none" stroke="#e9cd72" stroke-width="5" />
+</g>
+<g transform="translate(-17 -17) scale(1.5)"><path d="m94.721 171.955 16.111-27.44 15.829-7.842 16.078 5.102-6.385-17.322s6.997-5.953 9.318-16.081l24.844-14.167-26.249-14.444s-1.682-8.785-7.636-14.355l3.792-17.332-18.632 5.651s-3.328-4.663-9.629-6.113l-16.76-27.567L79.84 48.56s-5.885 1.132-12.012 5.007l-17.71-7.334 5.95 17.505s-4.26 6.37-6.056 14.493L21.484 94.132l27.276 15.372s.46 7.806 6.19 13.923l-5.966 16.166 17.125-4.183s9.208 8.919 16.532 9.341l12.08 27.204Z" fill="url(#gold)" stroke="#74541e" stroke-width="5" stroke-linejoin="round" /><path d="m95 22-7 25 16 1Z M141 48l-16 10 11 10Z M169 94l-26-3 3 12Z M51 48l15 18-15-6Z M22 94l27 10-2-11Z" fill="#f0d579" opacity=".8" /><circle cx="96" cy="96" r="54" fill="url(#gold)" stroke="#745522" stroke-width="4" /><circle cx="96" cy="96" r="47" fill="url(#stone)" stroke="#d0a550" stroke-width="3" /><path d="M56 89a41 41 0 0 1 63-28" fill="none" stroke="#f6dc86" opacity=".5" stroke-width="2" stroke-linecap="round" /><path d="m94.812 93.48.255 8.375c.162 5.298-31.408-3.958-16.647-24.166 15.966-21.856 34.826-2.688 36.796.47 2.151 3.448 13.756 32.532-13.434 40.645-18.074 5.393-22.778 5.173-22.778 5.173" fill="none" stroke="#0089c1" opacity=".65" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" /><path d="m94.812 93.48.255 8.375c.162 5.298-31.408-3.958-16.647-24.166 15.966-21.856 34.826-2.688 36.796.47 2.151 3.448 13.756 32.532-13.434 40.645-18.074 5.393-22.778 5.173-22.778 5.173" fill="none" stroke="url(#cyan)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" /><path d="M81 78c9-14 23-10 31-1M82 121l19-4" fill="none" stroke="#b8faff" opacity=".7" stroke-width="2" stroke-linecap="round" /></g></g></svg>

@@ -1,0 +1,44 @@
+{
+  "title": "Transmission",
+  "url": "https://transmissionbt.com/",
+  "domains": [
+    "transmissionbt.com"
+  ],
+  "description": "开源 BitTorrent 下载应用。",
+  "category": "网络工具",
+  "tags": [
+    "BT",
+    "下载",
+    "BitTorrent",
+    "Transmission"
+  ],
+  "aliases": [
+    "transmission",
+    "BT",
+    "下载",
+    "BitTorrent",
+    "Torrent Client"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "transmission.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "f834ca2d002afebe8cda5d500512797d4fb97256ad38cdea1c93aea422b874de",
+      "bytes": 7954,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/transmission.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "transmission.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

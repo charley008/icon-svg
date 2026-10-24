@@ -1,0 +1,59 @@
+{
+  "collection_id": 233,
+  "schema_version": 1,
+  "id": 333,
+  "title": "蓝奏云",
+  "url": "https://lanzou.com",
+  "domains": [
+    "lanzou.com"
+  ],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "国内补充",
+    "网盘",
+    "云存储",
+    "蓝奏云",
+    "lanzou",
+    "lanzou-cloud",
+    "lanzou.com"
+  ],
+  "aliases": [
+    "lanzou",
+    "lanzou-cloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 406,
+      "collection": "手工矢量重绘",
+      "file": "lanzou.svg",
+      "id": 827,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "lanzou.svg",
+        "original_is_default": true,
+        "original_slug": "lanzou"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:48:21+08:00",
+        "previous_sha256": "b10efbd42a647ef10235e46833f37ab3707f67a33de8a275830de3cecf853c7b",
+        "previous_bytes": 172706,
+        "previous_source": "https://lanzou.com/favicon.ico",
+        "previous_method": "traced-detail",
+        "note": "依据原图的橙色底与右下白云手绘平滑曲线，替换 16×16 favicon 的模糊描摹。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "34803c27e880f76c30b1a6713aed39082f64cbd4af127f7e5c90ada58b6e9bdc",
+      "source": "https://lanzou.com/favicon.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

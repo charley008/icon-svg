@@ -1,0 +1,231 @@
+{
+  "collection_id": 35,
+  "schema_version": 1,
+  "id": 68,
+  "title": "Anthropic",
+  "url": "https://www.anthropic.com",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "Anthropic"
+  ],
+  "aliases": [],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "products": [
+    {
+      "id": 69,
+      "key": "claude",
+      "title": "Claude",
+      "url": "https://claude.ai",
+      "domains": [
+        "claude.ai"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "用户优选",
+        "人工智能",
+        "Anthropic",
+        "AI 对话",
+        "聊天助手",
+        "Claude",
+        "claude.ai"
+      ],
+      "aliases": [
+        "claude"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1436,
+          "collection": "已有图标",
+          "file": "anthropic-claude.svg",
+          "id": 167,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "claude.svg",
+            "original_is_default": true,
+            "original_slug": "claude"
+          },
+          "sha256": "cce677ec36ed111bc5ac942d10b6dd02cb02789a52baeb5425e70e4e6350c6bb",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 2247,
+          "collection": "GoTab 公开资源库",
+          "file": "anthropic-claude-1.svg",
+          "gotab_id": 302,
+          "id": 168,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "claude-1.svg",
+            "original_is_default": false,
+            "original_slug": "claude"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2025,
+            "previous_sha256": "e322066809a9f06c3766a6a872df67446cf1b29c2eebb9b1fa93bd2474c5fccb",
+            "ratio": 0.2
+          },
+          "sha256": "109c2936f885e23072c4a129e78a638f15b8e1e6f39609493498b16d37faad8c",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZ7YA86H7JRTQTNZQJV297A6.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2247,
+          "collection": "已有图标",
+          "file": "anthropic-claude-2.svg",
+          "id": 169,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "claude-2.svg",
+            "original_is_default": false,
+            "original_slug": "claude"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2014,
+            "previous_sha256": "82e83a78b597d930e6942f24d5bf096a579ee336eff9834bb0110d5c81cefa86",
+            "ratio": 0.2
+          },
+          "sha256": "fcf45174db5f8a244ea62ec6f05e24d84069f6cd51cb2f55b5daa2eb8a6b49fb",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/claude/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 4448,
+          "collection": "已有图标",
+          "file": "anthropic-claude-3.svg",
+          "id": 170,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "claude-3.svg",
+            "original_is_default": false,
+            "original_slug": "claude"
+          },
+          "sha256": "ee8a324d8eee346dca9d4e48508536639a26c908ab615ce21146adf055c96881",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#claude",
+          "version": 3
+        },
+        {
+          "bytes": 1654,
+          "collection": "已有图标",
+          "file": "anthropic-claude-4.svg",
+          "id": 171,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "claude-4.svg",
+            "original_is_default": false,
+            "original_slug": "claude"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1421,
+            "previous_sha256": "6a635bc75c934472e09166f120ae0eec6a0b688965c49e97482c5b5c779e7140",
+            "ratio": 0.2
+          },
+          "sha256": "608117c8aad3c0780641f430ecea6333caa1d3cc6f63b2671f9a3bc95f60c8f1",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#claude-fill",
+          "version": 4
+        },
+        {
+          "bytes": 944,
+          "collection": "已有图标",
+          "file": "anthropic-claude-5.svg",
+          "id": 172,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "claude-5.svg",
+            "original_is_default": false,
+            "original_slug": "claude"
+          },
+          "rounded_corners": {
+            "previous_bytes": 711,
+            "previous_sha256": "4e924f0b3e2db16657162db8791cb878a49f4f6566e7ed2ca9d1b79e742b9fc1",
+            "ratio": 0.2
+          },
+          "sha256": "ef3ff7889c2ece975ad6638b7bd688deaffe07bda55eea355030fe7db8eec8f2",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#claude-line",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 70,
+      "key": "claude-code",
+      "title": "Claude Code",
+      "url": "https://claude.com",
+      "domains": [
+        "claude.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "人工智能",
+        "Anthropic",
+        "AI 编程",
+        "代码助手",
+        "Claude Code",
+        "claude-code",
+        "claude.com"
+      ],
+      "aliases": [
+        "claude-code"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2247,
+          "collection": "GoTab 公开资源库",
+          "file": "anthropic-claude-code.svg",
+          "gotab_id": 305,
+          "id": 173,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "claude-code.svg",
+            "original_is_default": true,
+            "original_slug": "claude-code"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2025,
+            "previous_sha256": "e322066809a9f06c3766a6a872df67446cf1b29c2eebb9b1fa93bd2474c5fccb",
+            "ratio": 0.2
+          },
+          "sha256": "109c2936f885e23072c4a129e78a638f15b8e1e6f39609493498b16d37faad8c",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZ7YA86H7JRTQTNZQJV297A6.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

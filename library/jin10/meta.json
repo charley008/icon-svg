@@ -1,0 +1,51 @@
+{
+  "collection_id": 224,
+  "schema_version": 1,
+  "id": 323,
+  "title": "金十数据",
+  "url": "https://jin10.com",
+  "domains": [
+    "jin10.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "新闻",
+    "资讯",
+    "金十数据",
+    "jin10",
+    "jin10.com"
+  ],
+  "aliases": [
+    "jin10"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2298,
+      "collection": "GoTab 公开资源库",
+      "file": "jin10.svg",
+      "gotab_id": 253,
+      "id": 799,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "jin10.svg",
+        "original_is_default": true,
+        "original_slug": "jin10"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2076,
+        "previous_sha256": "b7d3eddd398b7eb6b36809df02d30f8c0a1f3789e53201962858b7d1ed91e78d",
+        "ratio": 0.2
+      },
+      "sha256": "4a0d9836ebc3c36346acecb5fc41fafc5ee14c97323f61485cbab9941812ac9b",
+      "source": "https://web.gotab.cn/sourceStore/website/01KGSSEM7WSKW85KQRX55M9R8Z.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 60,
+  "schema_version": 1,
+  "id": 107,
+  "title": "Bodies in Motion",
+  "url": "https://bodiesinmotion.photo",
+  "domains": [
+    "bodiesinmotion.photo"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Bodies in Motion",
+    "bodiesinmotion",
+    "bodiesinmotion.photo"
+  ],
+  "aliases": [
+    "bodiesinmotion"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18745,
+      "collection": "GoTab 公开资源库",
+      "file": "bodiesinmotion.svg",
+      "gotab_id": 144,
+      "id": 266,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "bodiesinmotion.svg",
+        "original_is_default": true,
+        "original_slug": "bodiesinmotion"
+      },
+      "rounded_corners": {
+        "previous_bytes": 18523,
+        "previous_sha256": "4b44d7d4e908f6c7e3f6836c8ff6b0e7963c0c3ebd0c564a63b388adf25b08bf",
+        "ratio": 0.2
+      },
+      "sha256": "f2da064f86bfce6b03de6cf0a39b8c40a204383e0f7fd639992ef4309acdf632",
+      "source": "https://web.gotab.cn/uploads/202410/01JAYT7H2SBVZE2VTKE0MNRGK2.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

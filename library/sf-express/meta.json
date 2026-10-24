@@ -1,0 +1,72 @@
+{
+  "collection_id": 345,
+  "schema_version": 1,
+  "id": 475,
+  "title": "顺丰速运",
+  "url": "https://sf-express.com",
+  "domains": [
+    "sf-express.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "Worldvectorlogo补充",
+    "生活服务",
+    "顺丰速运",
+    "sf-express",
+    "sfexpress",
+    "sf-express.com"
+  ],
+  "aliases": [
+    "sf-express",
+    "sfexpress"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2528,
+      "collection": "jaywcjlove/logo",
+      "file": "sf-express.svg",
+      "id": 1189,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sf-express.svg",
+        "original_is_default": true,
+        "original_slug": "sf-express"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2308,
+        "previous_sha256": "1b4b31b562f577bbd4fccec2d66f63255dd4ab27aaa6049249bb913d38155f3f",
+        "ratio": 0.2
+      },
+      "sha256": "cd97d3bcb7f29c71ce0dcfa8584878e3727fb7f42d4fde50f9359432df4caf5d",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/sf-express.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3824,
+      "collection": "Worldvectorlogo",
+      "file": "sf-express-1.svg",
+      "id": 1190,
+      "is_default": false,
+      "label": "sf-express",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sf-express-1.svg",
+        "original_is_default": false,
+        "original_slug": "sf-express"
+      },
+      "sha256": "d1b75076e73eec6e9bafe8d537e07b8f4822de8cde5b49aac8bd3d13cb389409",
+      "source": "https://cdn.worldvectorlogo.com/logos/sf-express.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/sf-express",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

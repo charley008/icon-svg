@@ -1,0 +1,43 @@
+{
+  "title": "Syncthing",
+  "url": "https://syncthing.net/",
+  "domains": [
+    "syncthing.net"
+  ],
+  "description": "开源点对点文件同步应用。",
+  "category": "网盘存储",
+  "tags": [
+    "文件同步",
+    "点对点",
+    "开源",
+    "Syncthing"
+  ],
+  "aliases": [
+    "syncthing",
+    "文件同步",
+    "点对点",
+    "开源"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "syncthing.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "65d1430f7522bea0507259929f0033d7c62539d14757d7c6f5b62574eb4da2d3",
+      "bytes": 1187,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/syncthing.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "syncthing.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

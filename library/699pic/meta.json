@@ -1,0 +1,51 @@
+{
+  "collection_id": 18,
+  "schema_version": 1,
+  "id": 19,
+  "title": "摄图网",
+  "url": "https://699pic.com",
+  "domains": [
+    "699pic.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "摄图网",
+    "699pic",
+    "699pic.com"
+  ],
+  "aliases": [
+    "699pic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2713,
+      "collection": "GoTab 公开资源库",
+      "file": "699pic.svg",
+      "gotab_id": 109,
+      "id": 32,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "699pic.svg",
+        "original_is_default": true,
+        "original_slug": "699pic"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2491,
+        "previous_sha256": "ac46fc1e813c0f805b2d7fdba939f639406f21fb97396d1e22df067d7d141739",
+        "ratio": 0.2
+      },
+      "sha256": "f6a40ecbf41bd2aa3b49ebe259830f8a1a0d1b78286b69800d49015a94639477",
+      "source": "https://web.gotab.cn/uploads/202409/01J8P5W97Q0JKSP0XVV6KW3NMN.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

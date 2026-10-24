@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 176 176" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="176" height="176" rx="35.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs><clipPath id="website-icon-rounded-corners" clipPathUnits="userSpaceOnUse"><rect x="0.0" y="0.0" width="176.0" height="176.0" rx="33.0" ry="33.0" /></clipPath></defs><g clip-path="url(#website-icon-rounded-corners)"><defs>
+    <linearGradient id="lower" x1="0" y1="128" x2="0" y2="175" gradientUnits="userSpaceOnUse"><stop stop-color="#f4c99e" /><stop offset=".65" stop-color="#eaaea0" /></linearGradient>
+    <linearGradient id="shadow" x1="0" y1="70" x2="0" y2="108" gradientUnits="userSpaceOnUse"><stop stop-color="#f2dca6" stop-opacity=".7" /><stop offset="1" stop-color="#f2dca6" stop-opacity="0" /></linearGradient>
+    <clipPath id="letters"><path fill-rule="evenodd" d="M17 121 24 76Q25.3 68 31.5 68H33Q37.5 68 39.5 74L48.4 96.5 53 68H65L58.3 113.5Q57.1 121 51 121H49Q44.5 121 42.5 115.5L34 92 29.5 121ZM113 68H83Q74 68 72 78L67 111Q65.5 121 75.5 121H97Q107 121 109 111L113 88H94L87 99H98L96.5 108H80L84 80H113ZM113 121 132 77Q135.5 68 142 68H145Q152 68 153 76L158 121H145.5L144.2 110H130.5L125.5 121ZM135 99H142.7L141.3 85Z" /></clipPath>
+  </defs>
+  <path fill="#fef9e3" d="M0 0H176V176H0Z" />
+  <path fill="#f7ce98" d="M36 41 50 14 53.5 30.5 61 37 50 46ZM68 30 85.5 0 85 35ZM91.5 39 111 0.5 107.5 43ZM114 47 134 14 130.5 52ZM138 56.5 153 35 153 61ZM30 60.5 38 50.5 59 57 78.5 41.5 135.5 60.5Z" />
+  <path fill="url(#lower)" d="M30 128.5H133.5L123 144 79 150 115.5 152.5 104 175 78 161.5 57.5 141.5 111 137.5 40 134Z" />
+  <path fill="url(#shadow)" d="M64.5 68 83 95 81 115 57 120ZM113 68 134 100 117 119 107 111ZM152 72 176 111 156 119Z" />
+  <g clip-path="url(#letters)">
+    <path fill="#793b2c" d="M0 60H176V125H0Z" />
+    <path fill="#955343" d="M0 60H66V87L0 108ZM66 60H118V76L66 86ZM124 60H160V71L124 77Z" />
+    <path fill="#5e2317" d="M65 117 115 95 115 125H65ZM110 101 160 85 165 125H110Z" />
+  </g>
+</g></g></svg>

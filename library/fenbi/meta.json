@@ -1,0 +1,51 @@
+{
+  "collection_id": 153,
+  "schema_version": 1,
+  "id": 224,
+  "title": "粉笔",
+  "url": "https://fenbi.com",
+  "domains": [
+    "fenbi.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "粉笔",
+    "fenbi",
+    "fenbi.com"
+  ],
+  "aliases": [
+    "fenbi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1511,
+      "collection": "GoTab 公开资源库",
+      "file": "fenbi.svg",
+      "gotab_id": 85,
+      "id": 562,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "fenbi.svg",
+        "original_is_default": true,
+        "original_slug": "fenbi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1289,
+        "previous_sha256": "a95c7ff968494e49d77c46980519836a836bd969e69be1ebbe72ad9daed84842",
+        "ratio": 0.2
+      },
+      "sha256": "dfec7268403547081e6e6453974d9470c9c47719dadaaeaf705547d080d3db29",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HN8Z470Q675AQFB3EK1SB1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

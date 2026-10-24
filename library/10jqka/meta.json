@@ -1,0 +1,78 @@
+{
+  "collection_id": 1,
+  "schema_version": 1,
+  "id": 1,
+  "title": "同花顺",
+  "url": "https://10jqka.com.cn",
+  "domains": [
+    "10jqka.com.cn"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "同花顺",
+    "10jqka",
+    "ths",
+    "tonghuashun",
+    "10jqka.com.cn"
+  ],
+  "aliases": [
+    "10jqka",
+    "ths",
+    "tonghuashun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 31594,
+      "collection": "已有图标",
+      "file": "10jqka.svg",
+      "id": 1,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "10jqka.svg",
+        "original_is_default": true,
+        "original_slug": "10jqka"
+      },
+      "rounded_corners": {
+        "previous_bytes": 31371,
+        "previous_sha256": "d0717d0568dd744335926609f18d87c5be46e13816249c05e6afef2fa82f83f5",
+        "ratio": 0.2
+      },
+      "sha256": "cb40841ed0434694ab69a90ebb0743921a80ea8a789763594432d3ae9a39c767",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/5e/d2/935ed2f2-ab02-b297-2095-812a48b9b059/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    },
+    {
+      "bytes": 2049,
+      "collection": "GoTab 公开资源库",
+      "file": "10jqka-1.svg",
+      "gotab_id": 158,
+      "id": 2,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "10jqka-1.svg",
+        "original_is_default": false,
+        "original_slug": "10jqka"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1827,
+        "previous_sha256": "04659c5f2e6f8d24ea2f00e11fd04dbc5573d058ab45f4f225f88a87f1deb436",
+        "ratio": 0.2
+      },
+      "sha256": "ff394e03d68200b20907fa31f3060aee899e60f390613132068dc5b091126ba6",
+      "source": "https://web.gotab.cn/sourceStore/website/01JB3YKXV2D974T2QTX30AKPE2.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

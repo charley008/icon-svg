@@ -1,0 +1,45 @@
+{
+  "title": "Obsidian",
+  "url": "https://obsidian.md/",
+  "domains": [
+    "obsidian.md"
+  ],
+  "description": "本地 Markdown 笔记与知识管理应用。",
+  "category": "办公效率",
+  "tags": [
+    "黑曜石",
+    "Markdown",
+    "笔记",
+    "知识管理",
+    "Obsidian"
+  ],
+  "aliases": [
+    "obsidian",
+    "黑曜石",
+    "Markdown",
+    "笔记",
+    "知识管理"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "obsidian.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8dd1855430357c5ce6f76e7722b5f6b68a712ad98d2be5be6ba77616bfc69754",
+      "bytes": 4806,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/obsidian.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "obsidian.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

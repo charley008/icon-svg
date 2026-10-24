@@ -1,0 +1,119 @@
+{
+  "collection_id": 335,
+  "schema_version": 1,
+  "id": 465,
+  "title": "rakuten",
+  "url": "https://rakuten.co.jp",
+  "domains": [
+    "rakuten.co.jp"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "电商",
+    "购物",
+    "rakuten",
+    "rakuten.co.jp"
+  ],
+  "aliases": [
+    "rakuten"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 688,
+      "collection": "theSVG",
+      "file": "rakuten.svg",
+      "id": 1156,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rakuten.svg",
+        "original_is_default": true,
+        "original_slug": "rakuten"
+      },
+      "rounded_corners": {
+        "previous_bytes": 455,
+        "previous_sha256": "9cda86ff03122d3ec2e43e035677fac1353b705b4d977eb3394cbd49709a212e",
+        "ratio": 0.2
+      },
+      "sha256": "c5feafe94f5e764f64dfc6d55d5a5d8f47eb77d6f738c4d71c435ae17a3bedbd",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/rakuten/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2201,
+      "collection": "theSVG",
+      "file": "rakuten-1.svg",
+      "id": 1157,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rakuten-1.svg",
+        "original_is_default": false,
+        "original_slug": "rakuten"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1976,
+        "previous_sha256": "72f70c203491d38afd3cfd3caa1e637a76984e3225aa70e63e7841bfa2b30ae0",
+        "ratio": 0.2
+      },
+      "sha256": "a4c707d3787e646044c39182a0d6ec1cb9a6e3a64f70582ce451a642c29e598b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/rakuten-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 688,
+      "collection": "theSVG",
+      "file": "rakuten-2.svg",
+      "id": 1158,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rakuten-2.svg",
+        "original_is_default": false,
+        "original_slug": "rakuten"
+      },
+      "rounded_corners": {
+        "previous_bytes": 455,
+        "previous_sha256": "d5cbe893edab12e89e39db6b6fe70cf9bb9dc1f846d2fd9a3d020a42c15184bc",
+        "ratio": 0.2
+      },
+      "sha256": "af7989e2a9a969458673b8e75f6c24307d068648b92601a6b020673124898fbb",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/rakuten/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 636,
+      "collection": "Iconify / arcticons",
+      "file": "rakuten-3.svg",
+      "id": 1159,
+      "is_default": false,
+      "label": "rakuten",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rakuten-3.svg",
+        "original_is_default": false,
+        "original_slug": "rakuten"
+      },
+      "rounded_corners": {
+        "previous_bytes": 403,
+        "previous_sha256": "6d7642513e64b1c6c252c83b3b23847b4c385af35e9ddbdd94bb7e9fbef67c48",
+        "ratio": 0.2
+      },
+      "sha256": "b426eb3cd7ade4c4e9a76ea6b2319dbdfe93ad6fd0b41ed992d2c8e0779820ce",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#rakuten",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

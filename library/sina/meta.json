@@ -1,0 +1,152 @@
+{
+  "collection_id": 352,
+  "schema_version": 1,
+  "id": 482,
+  "title": "新浪",
+  "url": "https://sina.com.cn",
+  "domains": [
+    "sina.com.cn"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "新闻",
+    "资讯",
+    "新浪",
+    "sina",
+    "sina.com.cn"
+  ],
+  "aliases": [
+    "sina"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13731,
+      "collection": "已有图标",
+      "file": "sina.svg",
+      "id": 1209,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sina.svg",
+        "original_is_default": true,
+        "original_slug": "sina"
+      },
+      "sha256": "032661ab8c9b5604ea4626e1ed171138d816f7fdac13eca48422cd53d90c8150",
+      "source": "https://cdn.worldvectorlogo.com/logos/sina.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5473,
+      "collection": "GoTab 公开资源库",
+      "file": "sina-1.svg",
+      "gotab_id": 36,
+      "id": 1210,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "sina-1.svg",
+        "original_is_default": false,
+        "original_slug": "sina"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5251,
+        "previous_sha256": "2240d9fd60320807e5f30a74d2d4c68981c9904d7d35f66d872fbc3b296c0a30",
+        "ratio": 0.2
+      },
+      "sha256": "3fe8cc87460bdbc89131e3437ba62614f2e68841e56ed69651b6108dbee54d88",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HBSS1JVYFZABVGR04KNBZB.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2381,
+      "collection": "轻量矢量替换",
+      "file": "sina-2.svg",
+      "id": 1211,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "trademark-owner",
+      "method": "official-vector-composition",
+      "provenance": {
+        "original_file": "sina-2.svg",
+        "original_is_default": false,
+        "original_slug": "sina"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "0d89a7632ca33085ec58f4b2c3b652c3ae6090a2a13a47beb10c96e29bcb5d93",
+        "previous_bytes": 359950,
+        "previous_method": "traced-detail",
+        "previous_source": "https://i3.sinaimg.cn/home/2013/0331/U586P30DT20130331093840.png",
+        "reference": "https://www.sina.com.cn/favicon.svg",
+        "note": "组合新浪官网原生眼睛符号与手绘 Sina 字标；保留白底黑字的版本风格。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "7a58cc61b816c7373e359afe42f33ea232ed28b46a88f9dbde78829f23fd0c0b",
+      "source": "https://www.sina.com.cn/favicon.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": [
+    {
+      "id": 483,
+      "key": "news",
+      "title": "新浪新闻",
+      "url": "https://news.sina.com.cn",
+      "domains": [
+        "news.sina.com.cn"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "新闻",
+        "资讯",
+        "新浪新闻",
+        "sina-news",
+        "news.sina.com.cn"
+      ],
+      "aliases": [
+        "sina-news"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2220,
+          "collection": "GoTab 公开资源库",
+          "file": "sina-news.svg",
+          "gotab_id": 37,
+          "id": 1212,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "sina-news.svg",
+            "original_is_default": true,
+            "original_slug": "sina-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1998,
+            "previous_sha256": "826ec5297c321d4d510ff80b13e25e324df4425029bcf5ac07272fc68c8da221",
+            "ratio": 0.2
+          },
+          "sha256": "764600f7767a50a6eb74de39a79990975e438f1b28a32a73e99f8b13dd015109",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HBX890BT66BTMGZBSJD3EA.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

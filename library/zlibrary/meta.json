@@ -1,0 +1,50 @@
+{
+  "collection_id": 455,
+  "schema_version": 1,
+  "id": 619,
+  "title": "Z-Library",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "用户优选",
+    "自用",
+    "阅读",
+    "Z-Library",
+    "zlibrary"
+  ],
+  "aliases": [
+    "zlibrary"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 855,
+      "collection": "用户优化 SVG",
+      "file": "zlibrary.svg",
+      "id": 1547,
+      "is_default": true,
+      "label": "zlibrary",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "zlibrary.svg",
+        "original_is_default": true,
+        "original_slug": "zlibrary"
+      },
+      "rounded_corners": {
+        "previous_bytes": 633,
+        "previous_sha256": "9b871091cf4913d6ddf921a9288121be9504872b8e8ed0d25395ed6a47d0c5e7",
+        "ratio": 0.2
+      },
+      "sha256": "fd5754fd875e7c487a670eb394bc272348493e8f60164833ada25580a1c36eab",
+      "source": "用户确认重绘：Z-Library 灰色书页、蓝色书签与白色圆角框",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

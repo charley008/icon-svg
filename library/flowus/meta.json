@@ -1,0 +1,53 @@
+{
+  "collection_id": 158,
+  "schema_version": 1,
+  "id": 229,
+  "title": "FlowUs 息流",
+  "url": "https://flowus.cn",
+  "domains": [
+    "flowus.cn"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "办公",
+    "效率工具",
+    "笔记",
+    "知识管理",
+    "FlowUs 息流",
+    "flowus",
+    "flowus.cn"
+  ],
+  "aliases": [
+    "flowus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5767,
+      "collection": "GoTab 公开资源库",
+      "file": "flowus.svg",
+      "gotab_id": 57,
+      "id": 575,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "flowus.svg",
+        "original_is_default": true,
+        "original_slug": "flowus"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5545,
+        "previous_sha256": "de1a2fe5949b44531ca4559bef6e177e97bbdbe0363d19ace5a86143e75beff4",
+        "ratio": 0.2
+      },
+      "sha256": "f45065b7498b12cbccc437652ea2a347290aa7b1af4f606a3049cda11a6b4adb",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HJ4SC3BAVY0043KR3B9QS3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Airtable",
+  "url": "https://www.airtable.com/",
+  "domains": [
+    "www.airtable.com"
+  ],
+  "description": "表格与数据库协作服务。",
+  "category": "办公效率",
+  "tags": [
+    "多维表格",
+    "数据库",
+    "协作",
+    "Airtable"
+  ],
+  "aliases": [
+    "airtable",
+    "多维表格",
+    "数据库",
+    "协作"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "airtable.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "6f4737902d988649cd49ac2402823a43e51dcbdc3d0fe332684cd587a9e74276",
+      "bytes": 847,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/airtable.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "airtable.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

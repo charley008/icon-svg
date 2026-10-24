@@ -1,0 +1,50 @@
+{
+  "collection_id": 423,
+  "schema_version": 1,
+  "id": 581,
+  "title": "Wake-on-LAN",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "Wake-on-LAN",
+    "wol"
+  ],
+  "aliases": [
+    "wol"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 3566,
+      "collection": "用户优化 SVG",
+      "file": "wol.svg",
+      "id": 1463,
+      "is_default": true,
+      "label": "wol",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "wol.svg",
+        "original_is_default": true,
+        "original_slug": "wol"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3344,
+        "previous_sha256": "c0805dacaa166e177870de2ad5a1f2037ddcbe4c6f486a150db2c242c1afb906",
+        "ratio": 0.2
+      },
+      "sha256": "57b22dec6532dd18e211943f133f7b623e92ac672d387e35253c34085655f873",
+      "source": "用户确认重绘：WOL 灰青底电源无线圆标版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 176 176" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="176" height="176" rx="35.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs>
+    <clipPath id="left"><path d="M52.678 68.322 101.678 117.322A25 25 0 0 1 66.322 152.678L17.322 103.678A25 25 0 0 1 52.678 68.322Z" /></clipPath>
+  </defs>
+  <path fill="#00e19b" d="M62.08 63.92A31 31 0 1 1 105.92 63.92L84 85.84Z" />
+  <path d="M134 86 84 135" fill="none" stroke="#b682ff" stroke-width="50" stroke-linecap="round" />
+  <path d="M35 86 84 135" fill="none" stroke="#ff3396" stroke-width="50" stroke-linecap="round" />
+  <path d="M134 86 84 135" fill="none" stroke="#f01a94" stroke-width="50" stroke-linecap="round" clip-path="url(#left)" />
+</g></svg>

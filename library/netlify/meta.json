@@ -1,0 +1,131 @@
+{
+  "collection_id": 280,
+  "schema_version": 1,
+  "id": 404,
+  "title": "Netlify",
+  "url": "https://netlify.com",
+  "domains": [
+    "netlify.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "全球App补充",
+    "云计算",
+    "Netlify",
+    "netlify.com"
+  ],
+  "aliases": [
+    "netlify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 976,
+      "collection": "theSVG",
+      "file": "netlify.svg",
+      "id": 1012,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netlify.svg",
+        "original_is_default": true,
+        "original_slug": "netlify"
+      },
+      "sha256": "d31bb444697a57d3d6ef71723bb3298b8df334b7c0748ca6efeede52b99d8661",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netlify/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2579,
+      "collection": "theSVG",
+      "file": "netlify-1.svg",
+      "id": 1013,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netlify-1.svg",
+        "original_is_default": false,
+        "original_slug": "netlify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2354,
+        "previous_sha256": "fa441168233697b8ac8a4ded498ffbff5f03b2f2f6f4fd1eca32e3e615080692",
+        "ratio": 0.2
+      },
+      "sha256": "e09afa34c4290a3018e157cc607aab9e826bcea55082a2f9b12f83a8d3a54b8d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netlify-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2480,
+      "collection": "theSVG",
+      "file": "netlify-2.svg",
+      "id": 1014,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netlify-2.svg",
+        "original_is_default": false,
+        "original_slug": "netlify"
+      },
+      "sha256": "555d2a5f11aed8794dab03cfecd34f53a11c7da327614db7f1231e517b58bde0",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netlify/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 982,
+      "collection": "theSVG",
+      "file": "netlify-3.svg",
+      "id": 1015,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netlify-3.svg",
+        "original_is_default": false,
+        "original_slug": "netlify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 749,
+        "previous_sha256": "c368d79d9f6ceee5807813af984b30c68bbb20bd2622fa96b1e5c2838d9ed0e0",
+        "ratio": 0.2
+      },
+      "sha256": "ab5940b679981cd3e839f0e06dc1d86a0c00cfa7bc3b3a9a8442464a7a569ff5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netlify/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3271,
+      "collection": "Dashboard Icons",
+      "file": "netlify-4.svg",
+      "id": 1016,
+      "is_default": false,
+      "label": "netlify",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netlify-4.svg",
+        "original_is_default": false,
+        "original_slug": "netlify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3048,
+        "previous_sha256": "7e45a719808efdf1fa6809e308bac7d8ec27156822870b50a470f1551c184279",
+        "ratio": 0.2
+      },
+      "sha256": "7064ef18051ce9483c480dd547062ab639cb395c3af5f01160387b804c9e8cee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netlify.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

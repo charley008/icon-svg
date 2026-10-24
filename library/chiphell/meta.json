@@ -1,0 +1,57 @@
+{
+  "collection_id": 84,
+  "schema_version": 1,
+  "id": 154,
+  "title": "Chiphell",
+  "url": "https://chiphell.com",
+  "domains": [
+    "chiphell.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "社交",
+    "通讯",
+    "Chiphell",
+    "chiphell.com"
+  ],
+  "aliases": [
+    "chiphell"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 722,
+      "collection": "轻量矢量替换",
+      "file": "chiphell.svg",
+      "id": 385,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "chiphell.svg",
+        "original_is_default": true,
+        "original_slug": "chiphell"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "4aa5f9e9248948f9f832fd8c2a3be45ad1f7d8c71568608f62394ac454669ffc",
+        "previous_bytes": 269608,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.google.com/s2/favicons?domain=chiphell.com\u0026sz=256",
+        "reference": "https://www.google.com/s2/favicons?domain=chiphell.com\u0026sz=256",
+        "note": "根据原有 Chiphell 字形标识手工重建几何笔画，属于近似版，后续可用品牌提供的原始矢量精修。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "37be2f4ef7d4fca43d3e776cc5d7b77a9e512778a880419baecfa9366e9abbaa",
+      "source": "https://www.google.com/s2/favicons?domain=chiphell.com\u0026sz=256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

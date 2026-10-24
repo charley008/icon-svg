@@ -1,0 +1,451 @@
+{
+  "collection_id": 295,
+  "schema_version": 1,
+  "id": 419,
+  "title": "OpenAI",
+  "url": "https://openai.com",
+  "domains": [
+    "openai.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "人工智能",
+    "OpenAI",
+    "openai.com"
+  ],
+  "aliases": [
+    "openai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2232,
+      "collection": "已有图标",
+      "file": "openai.svg",
+      "id": 1056,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai.svg",
+        "original_is_default": true,
+        "original_slug": "openai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2007,
+        "previous_sha256": "3bde94aab10ba5d101831fd354b5b4c7c649664b15cfd723741d6956f08c18bf",
+        "ratio": 0.2
+      },
+      "sha256": "fbbea2864ba6a8833b9ca07b0f9e1243292fbf3f1c18a3a6a2a9889b806be5b7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/openai-badge/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2272,
+      "collection": "GoTab 公开资源库",
+      "file": "openai-1.svg",
+      "gotab_id": 67,
+      "id": 1057,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "openai-1.svg",
+        "original_is_default": false,
+        "original_slug": "openai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2050,
+        "previous_sha256": "fa007aa37ae009b2a95f42b3aeb4dc57f592f9bb5788840557b28bcc86ae54e5",
+        "ratio": 0.2
+      },
+      "sha256": "5480e18b761f32af5a512dae6fe2f7a09e810ae088e7715a37ce2c6aa3b0e03b",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKB4QX9X7Z9RG3AXK909G4.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1739,
+      "collection": "已有图标",
+      "file": "openai-2.svg",
+      "id": 1058,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai-2.svg",
+        "original_is_default": false,
+        "original_slug": "openai"
+      },
+      "sha256": "e7435fb0f438452e7b78e0f2402ac9c8c765c8d2b2ad8e2015902f60fee34999",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/openai/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1727,
+      "collection": "已有图标",
+      "file": "openai-3.svg",
+      "id": 1059,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai-3.svg",
+        "original_is_default": false,
+        "original_slug": "openai"
+      },
+      "sha256": "2d7a117b475690dcef79d9a3ca412d16147a1d8f7791031e00afcb95a5293deb",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/openai/light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3118,
+      "collection": "已有图标",
+      "file": "openai-4.svg",
+      "id": 1060,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai-4.svg",
+        "original_is_default": false,
+        "original_slug": "openai"
+      },
+      "sha256": "5896d513e19f486c374edcf7dc846cb4495872fb1355a2d68496ef007f8c3801",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/openai/wordmark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 2705,
+      "collection": "已有图标",
+      "file": "openai-5.svg",
+      "id": 1061,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai-5.svg",
+        "original_is_default": false,
+        "original_slug": "openai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2482,
+        "previous_sha256": "0fb4da390d9c65e8b1f1a4efed32339e85cd7bbaed8b81f4f6435ab312668057",
+        "ratio": 0.2
+      },
+      "sha256": "e17514430c130b7a1fb915af17136822eb2c58aeeed2e7663af6b3dfdad1415c",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 420,
+      "key": "chatgpt",
+      "title": "ChatGPT",
+      "url": "https://chatgpt.com",
+      "domains": [
+        "chatgpt.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "Worldvectorlogo补充",
+        "用户优选",
+        "人工智能",
+        "OpenAI",
+        "AI 对话",
+        "聊天助手",
+        "ChatGPT",
+        "chatgpt.com"
+      ],
+      "aliases": [
+        "chatgpt"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2795,
+          "collection": "已有图标",
+          "file": "openai-chatgpt.svg",
+          "id": 1062,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "chatgpt.svg",
+            "original_is_default": true,
+            "original_slug": "chatgpt"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2572,
+            "previous_sha256": "5fb3ca85bd3d0d96700a177b0e1ac852a14c4c8ef0d3e259fd126eb2d8070f2f",
+            "ratio": 0.2
+          },
+          "sha256": "7f1ff4ba8bb97f142e096f0ca75e5dafa271b0ade529a0b7d08b5e1cdd826900",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 2577,
+          "collection": "GoTab 公开资源库",
+          "file": "openai-chatgpt-1.svg",
+          "gotab_id": 239,
+          "id": 1063,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "chatgpt-1.svg",
+            "original_is_default": false,
+            "original_slug": "chatgpt"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2355,
+            "previous_sha256": "1817b672b5e1e94326333df0c646135a56565fdcb64d08d30f8fb6e8ca685b81",
+            "ratio": 0.2
+          },
+          "sha256": "270f010c3a10c542625fbca18379e97737ec11227966b984dc5c8843a0dc0634",
+          "source": "https://web.gotab.cn/sourceStore/website/01KDC5EWBP771F8J2E6BT8S704.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3654,
+          "collection": "已有图标",
+          "file": "openai-chatgpt-2.svg",
+          "id": 1064,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "chatgpt-2.svg",
+            "original_is_default": false,
+            "original_slug": "chatgpt"
+          },
+          "sha256": "7f736b30043bb42cf166aa001f46a3ff7c4951c909826369da01ebb6cb92bf2b",
+          "source": "用户优选",
+          "version": 2
+        },
+        {
+          "bytes": 1297,
+          "collection": "已有图标",
+          "file": "openai-chatgpt-3.svg",
+          "id": 1065,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chatgpt-3.svg",
+            "original_is_default": false,
+            "original_slug": "chatgpt"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1059,
+            "previous_sha256": "495f84ba0722e2682d8c6ee881357a91a457e543f285e260a678079aa07e4fe2",
+            "ratio": 0.2
+          },
+          "sha256": "300e97aea5bdd054bc2c2a933e5d1f6edeee9fb99e8ee7df5f52edec64eec00b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chatgpt.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1788,
+          "collection": "已有图标",
+          "file": "openai-chatgpt-4.svg",
+          "id": 1066,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chatgpt-4.svg",
+            "original_is_default": false,
+            "original_slug": "chatgpt"
+          },
+          "sha256": "100d327c484c7bbb0da120133ef4a3a550b82b85aea7d921e1ba879765161126",
+          "source": "https://cdn.worldvectorlogo.com/logos/chatgpt-6.svg",
+          "version": 4
+        },
+        {
+          "bytes": 8286,
+          "collection": "已有图标",
+          "file": "openai-chatgpt-5.svg",
+          "id": 1067,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chatgpt-5.svg",
+            "original_is_default": false,
+            "original_slug": "chatgpt"
+          },
+          "sha256": "6555ba504184ff877c463c28edd9c0d248932f1c3b99360cf73d0bdcd3d41c0a",
+          "source": "https://cdn.worldvectorlogo.com/logos/chatgpt-3.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 421,
+      "key": "codex",
+      "title": "Codex",
+      "url": "https://openai.com",
+      "domains": [
+        "openai.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "全球App补充",
+        "人工智能",
+        "OpenAI",
+        "AI 编程",
+        "代码助手",
+        "Codex",
+        "openai.com"
+      ],
+      "aliases": [
+        "codex"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2002,
+          "collection": "已有图标",
+          "file": "openai-codex.svg",
+          "id": 1068,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "brand-use",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "codex.svg",
+            "original_is_default": true,
+            "original_slug": "codex"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1769,
+            "previous_sha256": "4a2f43ce46b5b6e3722c95088f88d26ef91e6a8c2e598e70642a1c54367386e4",
+            "ratio": 0.2
+          },
+          "sha256": "5d0ffe0b88d56b2e569e649d318e788a0359496f60e22a0ef91b40e0c6bc1423",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/codex/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 12691,
+          "collection": "GoTab 公开资源库",
+          "file": "openai-codex-1.svg",
+          "gotab_id": 313,
+          "id": 1069,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "codex-1.svg",
+            "original_is_default": false,
+            "original_slug": "codex"
+          },
+          "rounded_corners": {
+            "previous_bytes": 12469,
+            "previous_sha256": "946328ad2d8709186d2555b18eb521b98a620fc1830e5ee6739069faf11828ed",
+            "ratio": 0.2
+          },
+          "sha256": "638345079e32be49e77c2f9d3e4bc2a4ee0d4b831dd995e84bc2378111bc7fab",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZ7ZHF4ZJP6JWTDPR2Z7KWJM.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1640,
+          "collection": "已有图标",
+          "file": "openai-codex-2.svg",
+          "id": 1070,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "brand-use",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "codex-2.svg",
+            "original_is_default": false,
+            "original_slug": "codex"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1407,
+            "previous_sha256": "ac0a560e9ea9e9957b8ff08589ae73470e89b0af7d958e28f05705d61ae753ce",
+            "ratio": 0.2
+          },
+          "sha256": "d2215d5e4142e7ddaf794a53f9db44af400d7fa930278ea3b28045753d49b4a9",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/codex/dark.svg",
+          "version": 2
+        },
+        {
+          "bytes": 5167,
+          "collection": "已有图标",
+          "file": "openai-codex-3.svg",
+          "id": 1071,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "codex-3.svg",
+            "original_is_default": false,
+            "original_slug": "codex"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4944,
+            "previous_sha256": "f3faac8f07c4b567027aabe75c9bba15e39866db70ed9ad759b1528dcb27331a",
+            "ratio": 0.2
+          },
+          "sha256": "1f11bb93be2e6dd3905ceac120b481106220c86ce8d53ec1635a51a22fd865bd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codex.svg",
+          "version": 3
+        },
+        {
+          "bytes": 5248,
+          "collection": "已有图标",
+          "file": "openai-codex-4.svg",
+          "id": 1072,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "codex-4.svg",
+            "original_is_default": false,
+            "original_slug": "codex"
+          },
+          "rounded_corners": {
+            "previous_bytes": 5025,
+            "previous_sha256": "4a38020ba7e1b2cd517e9e33fecefed0bbbf20ccaaf297931bb530642aaaa8cf",
+            "ratio": 0.2
+          },
+          "sha256": "6e5a386d4418bba86d7742314079b9f42633975e2b133decf5e6a2623bb3dd70",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codex-light.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "collection_id": 27,
+  "schema_version": 1,
+  "id": 31,
+  "title": "Airbnb",
+  "url": "https://airbnb.com",
+  "domains": [
+    "airbnb.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球App补充",
+    "出行",
+    "Airbnb",
+    "airbnb.com"
+  ],
+  "aliases": [
+    "airbnb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2241,
+      "collection": "theSVG",
+      "file": "airbnb.svg",
+      "id": 51,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airbnb.svg",
+        "original_is_default": true,
+        "original_slug": "airbnb"
+      },
+      "sha256": "d9f1d272a43177ffeaff58d41ea154d68421c763dbf559ff48d24d931168548b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/airbnb/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4128,
+      "collection": "theSVG",
+      "file": "airbnb-1.svg",
+      "id": 52,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airbnb-1.svg",
+        "original_is_default": false,
+        "original_slug": "airbnb"
+      },
+      "sha256": "c669ca7b4742d5c87af04dd49e3b870a51153d49731523802b22fbbcf3b2cb28",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/airbnb/wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1689,
+      "collection": "theSVG",
+      "file": "airbnb-2.svg",
+      "id": 53,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airbnb-2.svg",
+        "original_is_default": false,
+        "original_slug": "airbnb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1456,
+        "previous_sha256": "d84ae25c2fd26f8835cce6a2a5b6d1bfb4b32415907aa905ab216c9fbf521176",
+        "ratio": 0.2
+      },
+      "sha256": "5a7a6f9285861ce701d27ea84a88727e800f3a566881ebcda1ddbe0f8c0363a4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/airbnb/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1689,
+      "collection": "Simple Icons",
+      "file": "airbnb-3.svg",
+      "id": 54,
+      "is_default": false,
+      "label": "airbnb",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airbnb-3.svg",
+        "original_is_default": false,
+        "original_slug": "airbnb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1456,
+        "previous_sha256": "1c2c4ee7c5f2d1934f02243c581fab80fb23cd6b8f0e72357b6d517108f57724",
+        "ratio": 0.2
+      },
+      "sha256": "800503e56e415fa239d0b42c8d8dc892f23946ff6cca82cc601edcdc90fd2086",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/airbnb.svg",
+      "version": 3
+    },
+    {
+      "bytes": 5945,
+      "collection": "Iconify / logos",
+      "file": "airbnb-4.svg",
+      "id": 55,
+      "is_default": false,
+      "label": "airbnb",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airbnb-4.svg",
+        "original_is_default": false,
+        "original_slug": "airbnb"
+      },
+      "sha256": "8cdcda8ab2567e33d7a79fe1526a5d278cc9f003275d3fde7f739643ebb3af1c",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#airbnb",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

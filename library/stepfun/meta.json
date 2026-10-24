@@ -1,0 +1,50 @@
+{
+  "collection_id": 370,
+  "schema_version": 1,
+  "id": 503,
+  "title": "阶跃星辰",
+  "url": "https://stepfun.com",
+  "domains": [
+    "stepfun.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "人工智能",
+    "阶跃星辰",
+    "stepfun",
+    "stepfun.com"
+  ],
+  "aliases": [
+    "stepfun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 696,
+      "collection": "theSVG",
+      "file": "stepfun.svg",
+      "id": 1271,
+      "is_default": true,
+      "label": "color",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stepfun.svg",
+        "original_is_default": true,
+        "original_slug": "stepfun"
+      },
+      "rounded_corners": {
+        "previous_bytes": 463,
+        "previous_sha256": "b9246ca5735d1bd8fc2bd6dabffb0cbb83a21e7bc027a7d80c73174c5b1f5aad",
+        "ratio": 0.2
+      },
+      "sha256": "97262a689570a24f20d0e73201a4728c9e02ed459ee0278635d21d5e4968e971",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stepfun/color.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

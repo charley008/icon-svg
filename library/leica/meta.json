@@ -1,0 +1,46 @@
+{
+  "collection_id": 475,
+  "schema_version": 1,
+  "id": 639,
+  "title": "Leica Geosystems",
+  "url": "https://leica-geosystems.com/",
+  "domains": [
+    "leica-geosystems.com"
+  ],
+  "description": "Leica Geosystems 徕卡测量系统标识。",
+  "category": "设备硬件",
+  "tags": [
+    "Leica",
+    "徕卡",
+    "徕卡测量",
+    "测绘设备",
+    "测量设备"
+  ],
+  "aliases": [
+    "leica",
+    "徕卡",
+    "徕卡测量"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12919,
+      "collection": "用户补充 SVG",
+      "file": "leica.svg",
+      "id": 1584,
+      "is_default": true,
+      "label": "leica-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "leica-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/leica-3.svg"
+      },
+      "sha256": "926180687fdd8fcde87015ea923de483fd33ef0e7a883104610e39814b22428b",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/leica-3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,47 @@
+{
+  "collection_id": 269,
+  "schema_version": 1,
+  "id": 387,
+  "title": "Motorola 摩托罗拉",
+  "url": "https://motorola.com",
+  "domains": [
+    "motorola.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Worldvectorlogo补充",
+    "硬件",
+    "设备",
+    "Motorola 摩托罗拉",
+    "motorola",
+    "motorola.com"
+  ],
+  "aliases": [
+    "motorola"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2462,
+      "collection": "Worldvectorlogo",
+      "file": "motorola.svg",
+      "id": 976,
+      "is_default": true,
+      "label": "motorola-new-logo",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "motorola.svg",
+        "original_is_default": true,
+        "original_slug": "motorola"
+      },
+      "sha256": "a626d86e09f38dbcc39684e3bac35c4bfa0e717bf41956a43646344610b128d2",
+      "source": "https://cdn.worldvectorlogo.com/logos/motorola-new-logo.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/motorola-new-logo",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

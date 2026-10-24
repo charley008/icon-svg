@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-10190.5,0)">
+        <g id="Unsplash" transform="matrix(1,0,0,1,8517.52,0)">
+            <rect x="1673" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1,0,0,1,-2814.72,-0.0715326)">
+                <path d="M4669.95,340.703L4817.5,340.703L4817.5,231.526L4938.28,231.526L4938.28,450.703L4549.16,450.703L4549.16,231.526L4669.95,231.526L4669.95,340.703ZM4816.07,61.44L4816.07,170.773L4671.38,170.773L4671.38,61.44L4816.07,61.44Z" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

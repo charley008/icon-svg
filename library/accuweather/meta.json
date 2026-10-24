@@ -1,0 +1,95 @@
+{
+  "collection_id": 21,
+  "schema_version": 1,
+  "id": 22,
+  "title": "AccuWeather",
+  "url": "https://accuweather.com",
+  "domains": [
+    "accuweather.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "全球Top100",
+    "生活服务",
+    "AccuWeather",
+    "accuweather.com"
+  ],
+  "aliases": [
+    "accuweather"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 962,
+      "collection": "theSVG",
+      "file": "accuweather.svg",
+      "id": 37,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "accuweather.svg",
+        "original_is_default": true,
+        "original_slug": "accuweather"
+      },
+      "rounded_corners": {
+        "previous_bytes": 729,
+        "previous_sha256": "bfe2e308884fe2b28a7716d9743d753ef00ebf123debf6100c1dca873e2cd629",
+        "ratio": 0.2
+      },
+      "sha256": "310e713dcdb765305bf1c68643642c7309dc47b1bca266b56d7a8059a93bb1d5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/accuweather/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 962,
+      "collection": "theSVG",
+      "file": "accuweather-1.svg",
+      "id": 38,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "accuweather-1.svg",
+        "original_is_default": false,
+        "original_slug": "accuweather"
+      },
+      "rounded_corners": {
+        "previous_bytes": 729,
+        "previous_sha256": "503461c0b9686fc7d94524899db97e129520ed704a2cd439186132ee3c3deaef",
+        "ratio": 0.2
+      },
+      "sha256": "f2acb34023bc51472b3bf8416d23bf9b38ae487e68f85929510f156c3d8ebd57",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/accuweather/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 938,
+      "collection": "Iconify / arcticons",
+      "file": "accuweather-2.svg",
+      "id": 39,
+      "is_default": false,
+      "label": "accuweather",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "accuweather-2.svg",
+        "original_is_default": false,
+        "original_slug": "accuweather"
+      },
+      "rounded_corners": {
+        "previous_bytes": 705,
+        "previous_sha256": "22aae388f42b32e70ea4007a47160bc7035edfaf293e049cf14aae73837c4e74",
+        "ratio": 0.2
+      },
+      "sha256": "ab4064669c3fb6f8f5ce2a39796f92722bd719de480ae556653d25c68dab0609",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#accuweather",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

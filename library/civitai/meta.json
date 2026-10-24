@@ -1,0 +1,49 @@
+{
+  "collection_id": 87,
+  "schema_version": 1,
+  "id": 157,
+  "title": "Civitai",
+  "url": "https://civitai.com",
+  "domains": [
+    "civitai.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "Civitai",
+    "civitai.com"
+  ],
+  "aliases": [
+    "civitai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1102,
+      "collection": "GoTab 公开资源库",
+      "file": "civitai.svg",
+      "gotab_id": 307,
+      "id": 388,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "civitai.svg",
+        "original_is_default": true,
+        "original_slug": "civitai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 880,
+        "previous_sha256": "e0befb16cb897d18fd4a68d38b89d3fd43832e779739e53fb190cda553e7d11f",
+        "ratio": 0.2
+      },
+      "sha256": "9e59bb164098ba4a29ad249c841d40333914169fd40cf97c7826a0f88dbbabef",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7YXZHYCRBF47VPH7QH4YEQ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

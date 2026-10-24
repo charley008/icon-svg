@@ -1,0 +1,296 @@
+{
+  "collection_id": 450,
+  "schema_version": 1,
+  "id": 611,
+  "title": "智谱",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "智谱"
+  ],
+  "aliases": [],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "products": [
+    {
+      "id": 612,
+      "key": "autoclaw",
+      "title": "AutoClaw",
+      "url": "https://autoclaw.zhipuai.cn",
+      "domains": [
+        "autoclaw.zhipuai.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "人工智能",
+        "智谱",
+        "AutoClaw",
+        "autoclaw.zhipuai.cn"
+      ],
+      "aliases": [
+        "autoclaw"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1340,
+          "collection": "GoTab 公开资源库",
+          "file": "zhipu-autoclaw.svg",
+          "gotab_id": 320,
+          "id": 1533,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "autoclaw.svg",
+            "original_is_default": true,
+            "original_slug": "autoclaw"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1118,
+            "previous_sha256": "a3b3bc11c78005440b8db224d36658972ad2ab4697fd0b5b02c8ecb0171af276",
+            "ratio": 0.2
+          },
+          "sha256": "5b2c50073774af143f1321928bd7face887ed9a1d7b7f93a08ddb69a47b996ee",
+          "source": "https://web.gotab.cn/sourceStore/website/01KZNCWBX1RTGDCHSM87D11564.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 613,
+      "key": "chatglm",
+      "title": "智谱清言",
+      "url": "https://chatglm.cn",
+      "domains": [
+        "chatglm.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "人工智能",
+        "智谱",
+        "AI 对话",
+        "聊天助手",
+        "智谱清言",
+        "zhipu",
+        "chatglm",
+        "zhipuai",
+        "chatglm.cn"
+      ],
+      "aliases": [
+        "zhipu",
+        "chatglm",
+        "zhipuai"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1757,
+          "collection": "用户优选",
+          "file": "zhipu-chatglm.svg",
+          "id": 1534,
+          "is_default": true,
+          "label": "chatglm",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "zhipu.svg",
+            "original_is_default": true,
+            "original_slug": "zhipu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1537,
+            "previous_sha256": "28e3c15e779bc98b28d78216e40da38d8419a6fd92e64307dc8bc5be7f4e4343",
+            "ratio": 0.2
+          },
+          "sha256": "e95fe35429a487c9c793c8b6711ad4ca52747f48185f2bf8bbb3e107d415638c",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 3876,
+          "collection": "theSVG",
+          "file": "zhipu-chatglm-1.svg",
+          "id": 1535,
+          "is_default": false,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zhipu-1.svg",
+            "original_is_default": false,
+            "original_slug": "zhipu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3643,
+            "previous_sha256": "84920fc958e5e28ec5a74dc9682c4ce1c8811e340bedf13f733ae686e0255839",
+            "ratio": 0.2
+          },
+          "sha256": "556963e549719a4cb0f444c14f6b0a6988e91db8485468c8d265d9bb055679aa",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zhipu/color.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2507,
+          "collection": "theSVG",
+          "file": "zhipu-chatglm-2.svg",
+          "id": 1536,
+          "is_default": false,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zhipu-2.svg",
+            "original_is_default": false,
+            "original_slug": "zhipu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2274,
+            "previous_sha256": "8b25aa7a7fa2851c09dd10643844e8f13ff7d4a70a932bbb1f084df411f6eb3a",
+            "ratio": 0.2
+          },
+          "sha256": "6bedd33f2684f08fd7c5993fd9eb84d0447a2e6523e365291760209307ba102d",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/chatglm/color.svg",
+          "version": 2
+        },
+        {
+          "bytes": 3866,
+          "collection": "theSVG",
+          "file": "zhipu-chatglm-3.svg",
+          "id": 1537,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zhipu-3.svg",
+            "original_is_default": false,
+            "original_slug": "zhipu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3633,
+            "previous_sha256": "47773e31d944324f1094bb9954fd831b26857849920024d946cdbad404981b26",
+            "ratio": 0.2
+          },
+          "sha256": "7d1a14ccc25e2ac96cc580624b95c78b23e58ac6923d1959858ea7bee7e7a3e2",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zhipu/mono.svg",
+          "version": 3
+        },
+        {
+          "bytes": 729,
+          "collection": "Iconify / ri",
+          "file": "zhipu-chatglm-4.svg",
+          "id": 1538,
+          "is_default": false,
+          "label": "zhipu-ai-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zhipu-4.svg",
+            "original_is_default": false,
+            "original_slug": "zhipu"
+          },
+          "rounded_corners": {
+            "previous_bytes": 496,
+            "previous_sha256": "de2d43f4ac1d1cdaa56b534351ba6f0dc649139b73348837b8d81741480edae5",
+            "ratio": 0.2
+          },
+          "sha256": "2d234619050ace7078f72240a487d583a3faf8f07bed8755a404cbf28e0f1a95",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#zhipu-ai-fill",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 614,
+      "key": "platform",
+      "title": "智谱开放平台",
+      "url": "https://open.bigmodel.cn",
+      "domains": [
+        "open.bigmodel.cn",
+        "bigmodel.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "用户优选",
+        "自用",
+        "人工智能",
+        "智谱",
+        "智谱开放平台",
+        "zhipu-platform",
+        "open.bigmodel.cn",
+        "bigmodel.cn"
+      ],
+      "aliases": [
+        "zhipu-platform"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1542,
+          "collection": "已有图标",
+          "file": "zhipu-platform.svg",
+          "id": 1539,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "zhipu-platform.svg",
+            "original_is_default": true,
+            "original_slug": "zhipu-platform"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1320,
+            "previous_sha256": "26885b45b045ff23822643f0689ee9d9e8596c42b3ffd987c1190cf4c8a809c2",
+            "ratio": 0.2
+          },
+          "sha256": "ae26b80ad3cd0cb7b0081004f4877368e900405b191c5b80fd8058237189042f",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1730,
+          "collection": "GoTab 公开资源库",
+          "file": "zhipu-platform-1.svg",
+          "gotab_id": 264,
+          "id": 1540,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "zhipu-platform-1.svg",
+            "original_is_default": false,
+            "original_slug": "zhipu-platform"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1508,
+            "previous_sha256": "557c7c97895aea2cc4cedc38a9b278d79d230e24b2d9dc09941377c6f968b1f8",
+            "ratio": 0.2
+          },
+          "sha256": "a1fa1b2661fe8ec7c8264ea0dbf324096a351851d55856ff05c14beae56a407d",
+          "source": "https://web.gotab.cn/sourceStore/website/01KJABWFG5JHRFB4DY6SA2J55A.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

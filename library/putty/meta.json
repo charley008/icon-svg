@@ -1,0 +1,43 @@
+{
+  "title": "PuTTY",
+  "url": "https://www.putty.org/",
+  "domains": [
+    "www.putty.org"
+  ],
+  "description": "SSH 与终端连接应用。",
+  "category": "网络工具",
+  "tags": [
+    "SSH",
+    "终端",
+    "远程连接",
+    "PuTTY"
+  ],
+  "aliases": [
+    "putty",
+    "SSH",
+    "终端",
+    "远程连接"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "putty.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "06b34263735e53a5fdf33cc4778b79a6f407030e23d83aecd1014a5cd17be0fa",
+      "bytes": 2329,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/putty.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "putty.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

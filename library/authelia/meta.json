@@ -1,0 +1,45 @@
+{
+  "title": "Authelia",
+  "url": "https://www.authelia.com/",
+  "domains": [
+    "www.authelia.com"
+  ],
+  "description": "身份认证与访问管理服务。",
+  "category": "系统工具",
+  "tags": [
+    "身份认证",
+    "SSO",
+    "双因素认证",
+    "Authelia"
+  ],
+  "aliases": [
+    "authelia",
+    "身份认证",
+    "SSO",
+    "双因素认证",
+    "reverse-proxy-auth",
+    "identity-provider"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "authelia.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "a6989382bc0a862524445cb4e347bd480bcc0405c1bcc5642e43b6b230000d51",
+      "bytes": 3524,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/authelia.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "authelia.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

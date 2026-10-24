@@ -1,0 +1,59 @@
+{
+  "collection_id": 11,
+  "schema_version": 1,
+  "id": 12,
+  "title": "3DM",
+  "url": "https://3dmgame.com",
+  "domains": [
+    "3dmgame.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "游戏",
+    "3DM",
+    "3dmgame",
+    "3dmgame.com"
+  ],
+  "aliases": [
+    "3dmgame",
+    "3dm"
+  ],
+  "notes": [
+    "参照用户提供的小黄鸭素材手工重绘轮廓、表情及渐变，不包含嵌入位图。"
+  ],
+  "icons": [
+    {
+      "bytes": 2293,
+      "collection": "用户提供素材",
+      "file": "3dmgame.svg",
+      "id": 23,
+      "is_default": true,
+      "label": "参考图手工矢量重绘",
+      "license": "品牌商标归权利人；用户提供参考素材",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "3dmgame.svg",
+        "original_is_default": true,
+        "original_slug": "3dmgame"
+      },
+      "render_rmse": 71.408,
+      "rounded_corners": {
+        "previous_bytes": 2071,
+        "previous_sha256": "b158196b8090a869ba508d535bcee6b9a6157a49914873510f7fb2e0b50a13bc",
+        "ratio": 0.2
+      },
+      "sha256": "d41742293abb21d4b4178b25da5c7527d8323832b989107a7b308a66446809f9",
+      "source": "用户提供素材",
+      "source_size": [
+        256,
+        256
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

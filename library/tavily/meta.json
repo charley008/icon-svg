@@ -1,0 +1,49 @@
+{
+  "collection_id": 379,
+  "schema_version": 1,
+  "id": 515,
+  "title": "Tavily",
+  "url": "https://tavily.com",
+  "domains": [
+    "tavily.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "Tavily",
+    "tavily.com"
+  ],
+  "aliases": [
+    "tavily"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1700,
+      "collection": "GoTab 公开资源库",
+      "file": "tavily.svg",
+      "gotab_id": 296,
+      "id": 1289,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "tavily.svg",
+        "original_is_default": true,
+        "original_slug": "tavily"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1478,
+        "previous_sha256": "dcc22109ce299ca9b432b9148686a74d680249c1e11af6b1fb9c126d77a865fb",
+        "ratio": 0.2
+      },
+      "sha256": "3044fe99883dd671b01266d196f9f7a9a0d92bb7ccdf16da5c64f764a2d99212",
+      "source": "https://web.gotab.cn/sourceStore/website/01KYNXP1VTP1H26MD6XVZT8CT1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

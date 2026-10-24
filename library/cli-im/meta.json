@@ -1,0 +1,50 @@
+{
+  "collection_id": 89,
+  "schema_version": 1,
+  "id": 159,
+  "title": "草料二维码",
+  "url": "https://cli.im",
+  "domains": [
+    "cli.im"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "系统工具",
+    "草料二维码",
+    "cli-im",
+    "cli.im"
+  ],
+  "aliases": [
+    "cli-im"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2676,
+      "collection": "GoTab 公开资源库",
+      "file": "cli-im.svg",
+      "gotab_id": 213,
+      "id": 390,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cli-im.svg",
+        "original_is_default": true,
+        "original_slug": "cli-im"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2454,
+        "previous_sha256": "69e33f41a3927baa743638f23566f75908da8af2da2fc5b8ed5554a39464f0df",
+        "ratio": 0.2
+      },
+      "sha256": "aed371fbbfdf53c422c9895f3f3445f91699fea4f40f1b1a0a83be52e47c07a4",
+      "source": "https://web.gotab.cn/sourceStore/website/01JXCK7ZKEJ3B8J1ZW2W5YN0N9.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

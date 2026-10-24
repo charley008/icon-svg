@@ -1,0 +1,46 @@
+{
+  "collection_id": 275,
+  "schema_version": 1,
+  "id": 393,
+  "title": "NASA",
+  "url": "https://nasa.gov",
+  "domains": [
+    "nasa.gov"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Worldvectorlogo补充",
+    "教育",
+    "科研",
+    "NASA",
+    "nasa.gov"
+  ],
+  "aliases": [
+    "nasa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8841,
+      "collection": "Worldvectorlogo",
+      "file": "nasa.svg",
+      "id": 984,
+      "is_default": true,
+      "label": "nasa-6",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nasa.svg",
+        "original_is_default": true,
+        "original_slug": "nasa"
+      },
+      "sha256": "8f79b0201551b862abfdbbac30ea5cad6c788d6fca90a5ed310becfcf7829812",
+      "source": "https://cdn.worldvectorlogo.com/logos/nasa-6.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/nasa-6",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

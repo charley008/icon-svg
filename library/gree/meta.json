@@ -1,0 +1,63 @@
+{
+  "collection_id": 471,
+  "schema_version": 1,
+  "id": 635,
+  "title": "Gree",
+  "url": "https://www.gree.com/",
+  "domains": [
+    "gree.com"
+  ],
+  "description": "Gree 图标合集。",
+  "category": "设备硬件",
+  "tags": [
+    "Gree",
+    "gree",
+    "格力",
+    "格力空调",
+    "空调",
+    "家电"
+  ],
+  "aliases": [
+    "格力",
+    "格力空调"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1870,
+      "collection": "用户补充 SVG",
+      "file": "gree.svg",
+      "id": 1576,
+      "is_default": true,
+      "label": "gree-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "gree-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/gree-1.svg"
+      },
+      "sha256": "a6bf7db7160114e6c804ac5c685eb77ce922b6ee7787463b1a0b2bd9e3277857",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/gree-1.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1467,
+      "collection": "用户补充 SVG",
+      "file": "gree-1.svg",
+      "id": 1577,
+      "is_default": false,
+      "label": "gree-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "gree-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/gree-2.svg"
+      },
+      "sha256": "1eb9965534cd09c78f425815b19a62f4cde25faeaec1326d4048f6d3cb0cdb89",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/gree-2.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

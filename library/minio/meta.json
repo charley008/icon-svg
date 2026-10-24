@@ -1,0 +1,43 @@
+{
+  "title": "MinIO",
+  "url": "https://www.min.io/",
+  "domains": [
+    "www.min.io"
+  ],
+  "description": "对象存储软件。",
+  "category": "网盘存储",
+  "tags": [
+    "对象存储",
+    "S3",
+    "自托管",
+    "MinIO"
+  ],
+  "aliases": [
+    "minio",
+    "对象存储",
+    "S3",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "minio.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "775c27a9dcbee9f2bd12409a78376c2600612e9c3bea5822ef51e82c8b363c27",
+      "bytes": 774,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minio.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "minio.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 221,
+  "schema_version": 1,
+  "id": 318,
+  "title": "MSDN 我告诉你",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "系统工具",
+    "MSDN 我告诉你",
+    "itellyou"
+  ],
+  "aliases": [
+    "itellyou"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2956,
+      "collection": "用户优化 SVG",
+      "file": "itellyou.svg",
+      "id": 788,
+      "is_default": true,
+      "label": "itellyou",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "itellyou.svg",
+        "original_is_default": true,
+        "original_slug": "itellyou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2734,
+        "previous_sha256": "8df0c9aa275d1c0a6ca41dfd9f9b1c060e4a71f12fd52bd64921af7b5a61a576",
+        "ratio": 0.2
+      },
+      "sha256": "7a27c32f00c1b3ec8d4c42213d7783f7758c0726926f6d9f52d543aaadf1e5e7",
+      "source": "用户确认重绘：iTellYou 红绿圆形蓝黄 U 形版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

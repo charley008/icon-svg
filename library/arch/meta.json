@@ -1,0 +1,45 @@
+{
+  "collection_id": 460,
+  "schema_version": 1,
+  "id": 624,
+  "title": "Arch Linux",
+  "url": "https://archlinux.org/",
+  "domains": [
+    "archlinux.org"
+  ],
+  "description": "Arch Linux 图标合集。",
+  "category": "系统工具",
+  "tags": [
+    "Arch Linux",
+    "arch",
+    "Linux",
+    "操作系统",
+    "发行版"
+  ],
+  "aliases": [
+    "arch",
+    "archlinux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 920,
+      "collection": "用户补充 SVG",
+      "file": "arch.svg",
+      "id": 1556,
+      "is_default": true,
+      "label": "arch-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "arch-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/arch-1.svg"
+      },
+      "sha256": "60ecaac569c9b1fbdb661a65fa3654e41f1a2de2662dfd1c803e8c174c6c3f4d",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/arch-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

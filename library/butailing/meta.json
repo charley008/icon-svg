@@ -1,0 +1,50 @@
+{
+  "collection_id": 66,
+  "schema_version": 1,
+  "id": 113,
+  "title": "不太灵",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "用户优选",
+    "自用",
+    "影音",
+    "不太灵",
+    "butailing"
+  ],
+  "aliases": [
+    "butailing"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 919,
+      "collection": "用户优选",
+      "file": "butailing.svg",
+      "id": 278,
+      "is_default": true,
+      "label": "butailing",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "butailing.svg",
+        "original_is_default": true,
+        "original_slug": "butailing"
+      },
+      "rounded_corners": {
+        "previous_bytes": 697,
+        "previous_sha256": "e85f41a92afcfcedd0a337aa906e3c685d1bb9a7807c5745ebacf7dd69342c73",
+        "ratio": 0.2
+      },
+      "sha256": "e8f7fd52d2fd2b51cc157f8aa83ae11bde048e11bf1d8ba8cffda4741657141f",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

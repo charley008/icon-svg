@@ -1,0 +1,95 @@
+{
+  "collection_id": 127,
+  "schema_version": 1,
+  "id": 198,
+  "title": "DoorDash",
+  "url": "https://doordash.com",
+  "domains": [
+    "doordash.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "全球App补充",
+    "生活服务",
+    "DoorDash",
+    "doordash.com"
+  ],
+  "aliases": [
+    "doordash"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 682,
+      "collection": "theSVG",
+      "file": "doordash.svg",
+      "id": 481,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doordash.svg",
+        "original_is_default": true,
+        "original_slug": "doordash"
+      },
+      "rounded_corners": {
+        "previous_bytes": 449,
+        "previous_sha256": "64819141dd845bbc021535838a50c9b612ac8ac4f68c3b4d830234466f66f8d7",
+        "ratio": 0.2
+      },
+      "sha256": "e7d58228326da9db0d54a7e353f69b949faab5422f2e4622d6d792d3a48dda23",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/doordash/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 682,
+      "collection": "theSVG",
+      "file": "doordash-1.svg",
+      "id": 482,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doordash-1.svg",
+        "original_is_default": false,
+        "original_slug": "doordash"
+      },
+      "rounded_corners": {
+        "previous_bytes": 449,
+        "previous_sha256": "72c20964793a9325e6017ce899e909aeb599ed5da9816bc8fc6349673088bcaa",
+        "ratio": 0.2
+      },
+      "sha256": "38f4e0aa3ad47e8af435a3c8891b37fa79b89a0b4f0f2b7ab7c5ebef3e8e58f3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/doordash/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 689,
+      "collection": "Iconify / arcticons",
+      "file": "doordash-2.svg",
+      "id": 483,
+      "is_default": false,
+      "label": "doordash",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doordash-2.svg",
+        "original_is_default": false,
+        "original_slug": "doordash"
+      },
+      "rounded_corners": {
+        "previous_bytes": 456,
+        "previous_sha256": "c02d9bcf0ed6dacffe01e7acc00272c50cb81a10890236c8a930aa3a49b5fb80",
+        "ratio": 0.2
+      },
+      "sha256": "21412861aecc40091e95b2da2220acf5b3dded49d72c1208e57c12464bac19e1",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#doordash",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

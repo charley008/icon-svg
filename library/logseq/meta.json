@@ -1,0 +1,41 @@
+{
+  "title": "Logseq",
+  "url": "https://logseq.com/",
+  "domains": [
+    "logseq.com"
+  ],
+  "description": "双链笔记与知识管理应用。",
+  "category": "办公效率",
+  "tags": [
+    "双链笔记",
+    "知识管理",
+    "Logseq"
+  ],
+  "aliases": [
+    "logseq",
+    "双链笔记",
+    "知识管理"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "logseq.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "12f3c8b6b61deb360e3dd52a76b54d38bbcff82c26fa4158686733a1ca7c3c3b",
+      "bytes": 733,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logseq.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "logseq.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

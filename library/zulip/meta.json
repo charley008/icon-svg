@@ -1,0 +1,42 @@
+{
+  "title": "Zulip",
+  "url": "https://zulip.com/",
+  "domains": [
+    "zulip.com"
+  ],
+  "description": "开源团队聊天应用。",
+  "category": "社交通讯",
+  "tags": [
+    "团队聊天",
+    "即时通讯",
+    "Zulip"
+  ],
+  "aliases": [
+    "zulip",
+    "团队聊天",
+    "即时通讯",
+    "Team Chat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "zulip.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "a77ee6f1caa6394b2c76e5006ff6a42c81ce596439ef28d7c1d5e955a191d27b",
+      "bytes": 740,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zulip.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "zulip.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

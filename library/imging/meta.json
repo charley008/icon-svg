@@ -1,0 +1,50 @@
+{
+  "collection_id": 209,
+  "schema_version": 1,
+  "id": 306,
+  "title": "ImgIng",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "用户优选",
+    "自用",
+    "设计",
+    "素材",
+    "ImgIng"
+  ],
+  "aliases": [
+    "imging"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 682,
+      "collection": "用户优选",
+      "file": "imging.svg",
+      "id": 759,
+      "is_default": true,
+      "label": "imging",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "imging.svg",
+        "original_is_default": true,
+        "original_slug": "imging"
+      },
+      "rounded_corners": {
+        "previous_bytes": 462,
+        "previous_sha256": "2408526a56c30b8a85af23102bf913ee44b4463664ab99ce9e798aeb51dcaffd",
+        "ratio": 0.2
+      },
+      "sha256": "e9c041c2ce1ad8ea66cd5fbc78e155849aff18728601f8ffa6de78cc41ed2cf9",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

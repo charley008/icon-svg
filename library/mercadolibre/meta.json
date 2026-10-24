@@ -1,0 +1,47 @@
+{
+  "collection_id": 256,
+  "schema_version": 1,
+  "id": 356,
+  "title": "Mercado Libre",
+  "url": "https://mercadolibre.com",
+  "domains": [
+    "mercadolibre.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Worldvectorlogo补充",
+    "电商",
+    "购物",
+    "Mercado Libre",
+    "mercadolibre",
+    "mercadolibre.com"
+  ],
+  "aliases": [
+    "mercadolibre"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7805,
+      "collection": "Worldvectorlogo",
+      "file": "mercadolibre.svg",
+      "id": 873,
+      "is_default": true,
+      "label": "mercadolibre",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mercadolibre.svg",
+        "original_is_default": true,
+        "original_slug": "mercadolibre"
+      },
+      "sha256": "860d81608d8d62f364c3430b92fafa3434b2a8b27c247cb8cc276b4955bb4b3c",
+      "source": "https://cdn.worldvectorlogo.com/logos/mercadolibre.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/mercadolibre",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

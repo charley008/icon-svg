@@ -1,0 +1,78 @@
+{
+  "collection_id": 47,
+  "schema_version": 1,
+  "id": 94,
+  "title": "搬瓦工",
+  "url": "https://bandwagonhost.com",
+  "domains": [
+    "bandwagonhost.com",
+    "stock.bwg.net"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "用户优选",
+    "自用",
+    "云计算",
+    "搬瓦工",
+    "bandwagonhost",
+    "bandwagonhost.com",
+    "stock.bwg.net"
+  ],
+  "aliases": [
+    "bandwagonhost"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1547,
+      "collection": "用户优化 SVG",
+      "file": "bandwagonhost.svg",
+      "id": 233,
+      "is_default": true,
+      "label": "stock.bwg.net",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "bandwagonhost.svg",
+        "original_is_default": true,
+        "original_slug": "bandwagonhost"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1324,
+        "previous_sha256": "14cb7d83987252b5fa9657bef87ec3186e37a46df47546981d6563d2ec3cd317",
+        "ratio": 0.2
+      },
+      "sha256": "0003ed552af7ff3ba30a200f7b7828eefbf15368c4959d20f4959abc27614299",
+      "source": "用户优化：stock.bwg.net.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1684,
+      "collection": "用户优化 SVG",
+      "file": "bandwagonhost-1.svg",
+      "id": 234,
+      "is_default": false,
+      "label": "bandwagonhost",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "bandwagonhost-1.svg",
+        "original_is_default": false,
+        "original_slug": "bandwagonhost"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1461,
+        "previous_sha256": "a86a131b745b670d75bbc49894a4f9cc207a53d4d3670fbf100f1845b41d72d5",
+        "ratio": 0.2
+      },
+      "sha256": "b46ddb000dcb686c19a67e14f653cd81b6b9636380942dc41b1640d0680950b4",
+      "source": "用户优化：banwagon.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,134 @@
+{
+  "collection_id": 156,
+  "schema_version": 1,
+  "id": 227,
+  "title": "Firefox",
+  "url": "https://firefox.com",
+  "domains": [
+    "firefox.com"
+  ],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "全球App补充",
+    "浏览器",
+    "网页浏览",
+    "Firefox",
+    "mozilla-firefox",
+    "firefox.com"
+  ],
+  "aliases": [
+    "firefox",
+    "mozilla-firefox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12284,
+      "collection": "theSVG",
+      "file": "firefox.svg",
+      "id": 569,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox.svg",
+        "original_is_default": true,
+        "original_slug": "firefox"
+      },
+      "sha256": "3d151a51a3434b7d4a4df56b2b00cf9af358eb3a00537063ed50719552810333",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/firefox/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1342,
+      "collection": "theSVG",
+      "file": "firefox-1.svg",
+      "id": 570,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-1.svg",
+        "original_is_default": false,
+        "original_slug": "firefox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1109,
+        "previous_sha256": "f993ac4d63bda0923c86889a0369695d90b5c5c6c24562a49f9d8eb72c271771",
+        "ratio": 0.2
+      },
+      "sha256": "d3550b55b086b5e143283f8dc11d50b173efec92a261a8f11bbd10953cb4eb61",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/firefox/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 10869,
+      "collection": "Dashboard Icons",
+      "file": "firefox-2.svg",
+      "id": 571,
+      "is_default": false,
+      "label": "firefox",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-2.svg",
+        "original_is_default": false,
+        "original_slug": "firefox"
+      },
+      "sha256": "51d85c50a98f82e428d307c48f4cad37c4c07c54146dcfb0c60f13ea7598859e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefox.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1342,
+      "collection": "Simple Icons",
+      "file": "firefox-3.svg",
+      "id": 572,
+      "is_default": false,
+      "label": "firefox",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-3.svg",
+        "original_is_default": false,
+        "original_slug": "firefox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1109,
+        "previous_sha256": "a1104f0a68fe94c783d7bc01366cdaca202591bfd3fc369e6bf884b32c2e53d9",
+        "ratio": 0.2
+      },
+      "sha256": "a2b5ed7017de165535ff5f7d751dff12660bffe52d5c0f63194b6504c4ce7f2f",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefox.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1018,
+      "collection": "Iconify / ri",
+      "file": "firefox-4.svg",
+      "id": 573,
+      "is_default": false,
+      "label": "firefox-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-4.svg",
+        "original_is_default": false,
+        "original_slug": "firefox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 785,
+        "previous_sha256": "e1a3aa5cb1158c65cd57dd47d15a3edd8f997ef5e38bbc61306b6a3319598cd8",
+        "ratio": 0.2
+      },
+      "sha256": "97fe49b48acfb2346a357a77bf7bea16e70f606594f8c42d393513f87f703dc2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#firefox-fill",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

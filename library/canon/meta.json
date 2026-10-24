@@ -1,0 +1,61 @@
+{
+  "collection_id": 465,
+  "schema_version": 1,
+  "id": 629,
+  "title": "Canon",
+  "url": "https://global.canon/",
+  "domains": [
+    "global.canon"
+  ],
+  "description": "Canon 图标合集。",
+  "category": "设备硬件",
+  "tags": [
+    "Canon",
+    "canon",
+    "佳能",
+    "相机",
+    "摄影"
+  ],
+  "aliases": [
+    "佳能"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3249,
+      "collection": "用户补充 SVG",
+      "file": "canon.svg",
+      "id": 1568,
+      "is_default": true,
+      "label": "canon-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "canon-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/canon-2.svg"
+      },
+      "sha256": "0bea6d0aa78d579006ba177884a9a3af0138affee0913a22db1f0612f14ba97c",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/canon-2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1875,
+      "collection": "用户补充 SVG",
+      "file": "canon-1.svg",
+      "id": 1569,
+      "is_default": false,
+      "label": "canon-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "canon-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/canon-1.svg"
+      },
+      "sha256": "81541ee7a2042695470ef60c0da6d2f1f3aafe6bb388cf1942292f979c47a3a6",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/canon-1.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

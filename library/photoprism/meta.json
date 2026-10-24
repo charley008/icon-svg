@@ -1,0 +1,44 @@
+{
+  "title": "PhotoPrism",
+  "url": "https://www.photoprism.app/",
+  "domains": [
+    "www.photoprism.app"
+  ],
+  "description": "自托管照片管理应用。",
+  "category": "网盘存储",
+  "tags": [
+    "相册",
+    "照片管理",
+    "自托管",
+    "PhotoPrism"
+  ],
+  "aliases": [
+    "photoprism",
+    "相册",
+    "照片管理",
+    "自托管",
+    "Photo Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "photoprism.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "71a0103298dcef3ce8ca27c2d3375bd80804f7962efe74848205944bdcc5f001",
+      "bytes": 773,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photoprism.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "photoprism.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

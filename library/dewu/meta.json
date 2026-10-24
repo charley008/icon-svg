@@ -1,0 +1,53 @@
+{
+  "collection_id": 113,
+  "schema_version": 1,
+  "id": 183,
+  "title": "得物",
+  "url": "https://dewu.com",
+  "domains": [
+    "dewu.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "得物",
+    "dewu",
+    "poizon",
+    "dewu.com"
+  ],
+  "aliases": [
+    "dewu",
+    "poizon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 849,
+      "collection": "Iconify / arcticons",
+      "file": "dewu.svg",
+      "id": 440,
+      "is_default": true,
+      "label": "dewu",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dewu.svg",
+        "original_is_default": true,
+        "original_slug": "dewu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 616,
+        "previous_sha256": "c33413daf169512084239e2503d1d97397eba151b80dd8ebaf7be71b104cbe54",
+        "ratio": 0.2
+      },
+      "sha256": "5afb7e759031b15045e1b0891c5a2fabb923bd788cd093f3bc8cf0b5d15e16c2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#dewu",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

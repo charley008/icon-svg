@@ -1,0 +1,43 @@
+{
+  "title": "Prometheus",
+  "url": "https://prometheus.io/",
+  "domains": [
+    "prometheus.io"
+  ],
+  "description": "开源系统监控与指标软件。",
+  "category": "开发编程",
+  "tags": [
+    "监控",
+    "指标",
+    "开源",
+    "Prometheus"
+  ],
+  "aliases": [
+    "prometheus",
+    "监控",
+    "指标",
+    "开源"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "prometheus.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "b8718698ad8afa9ea526a6081f1077f61d974a66b067005469665cfaf88162a6",
+      "bytes": 764,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prometheus.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "prometheus.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

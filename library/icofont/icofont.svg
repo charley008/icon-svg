@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#9d51ff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-13038.5,0)">
+        <g id="icofont" transform="matrix(1,0,0,1,11365.5,0)">
+            <rect x="1673" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(11.1723,0,0,11.1723,1803.06,61.44)">
+                <path d="M13.4,7C14.497,7 15.4,6.097 15.4,5C15.4,3.903 14.497,3 13.4,3C12.303,3 11.4,3.903 11.4,5C11.4,6.097 12.303,7 13.4,7ZM13.4,10C16.143,10 18.4,7.743 18.4,5C18.4,2.257 16.143,0 13.4,0C10.657,0 8.4,2.257 8.4,5C8.4,7.743 10.657,10 13.4,10ZM15.918,14.701L4.799,17.81L6.409,20.214L15.171,17.079L16.181,19.903L12.571,21.196L14.328,23.192L16.806,22.124L17.994,24.878L13.516,26.81L9.531,22.283L5.218,23.827L0,16.035L15.742,11.635C16.471,11.431 17.255,11.664 17.756,12.231C22.852,18.001 23.992,26.307 20.641,33.237L19.871,34.829L12.438,32.427L13.36,29.573L18.286,31.164C20.599,25.669 19.686,19.322 15.918,14.701Z" style="fill:white;" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

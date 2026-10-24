@@ -1,0 +1,78 @@
+{
+  "collection_id": 215,
+  "schema_version": 1,
+  "id": 312,
+  "title": "Internet Archive",
+  "url": "https://archive.org",
+  "domains": [
+    "archive.org"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "全球Top100",
+    "教育",
+    "科研",
+    "Internet Archive",
+    "internet-archive",
+    "internetarchive",
+    "archive-org",
+    "archive.org"
+  ],
+  "aliases": [
+    "internet-archive",
+    "internetarchive",
+    "archive-org"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1191,
+      "collection": "theSVG",
+      "file": "internet-archive.svg",
+      "id": 777,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "internet-archive.svg",
+        "original_is_default": true,
+        "original_slug": "internet-archive"
+      },
+      "rounded_corners": {
+        "previous_bytes": 958,
+        "previous_sha256": "e3bda68d92de64c4e8d758818e5abbe9779fd28b0fb916f5bda70c4df323e408",
+        "ratio": 0.2
+      },
+      "sha256": "4168d9de562874546df6f84f2b72594133a985b8d5a4e12ede46cd3ed8d2e004",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/internet-archive/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1191,
+      "collection": "theSVG",
+      "file": "internet-archive-1.svg",
+      "id": 778,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "internet-archive-1.svg",
+        "original_is_default": false,
+        "original_slug": "internet-archive"
+      },
+      "rounded_corners": {
+        "previous_bytes": 958,
+        "previous_sha256": "cb27b6eb7f51b8a4b3914b92f837bba2c7c5fdc300e1fb75c852c759d376644e",
+        "ratio": 0.2
+      },
+      "sha256": "e24932f4e62b96997e8247d4e4487730d24ca4c4319a90b255ba93a86ba9df6a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/internet-archive/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

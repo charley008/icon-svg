@@ -1,0 +1,95 @@
+{
+  "collection_id": 454,
+  "schema_version": 1,
+  "id": 618,
+  "title": "Zillow",
+  "url": "https://zillow.com",
+  "domains": [
+    "zillow.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "全球Top100",
+    "生活服务",
+    "Zillow",
+    "zillow.com"
+  ],
+  "aliases": [
+    "zillow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 905,
+      "collection": "theSVG",
+      "file": "zillow.svg",
+      "id": 1544,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zillow.svg",
+        "original_is_default": true,
+        "original_slug": "zillow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 672,
+        "previous_sha256": "79b164325a2d7e56cbe81fadb9bed7ce26ffe58e03c7202ae126abbdadf901ad",
+        "ratio": 0.2
+      },
+      "sha256": "41f7ae8ae190d708650b5dca1aca490870387563a7b1a563cfa279dcfd32e3dd",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zillow/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 905,
+      "collection": "theSVG",
+      "file": "zillow-1.svg",
+      "id": 1545,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zillow-1.svg",
+        "original_is_default": false,
+        "original_slug": "zillow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 672,
+        "previous_sha256": "a04ef706de4837daff2f5615b3a15eb3fb540f17f342254cd218b5dc87ce48dc",
+        "ratio": 0.2
+      },
+      "sha256": "94eb6c299d36b617890c2e35ba5167bd8625a63d2235ef647332ebe183704d2b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zillow/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 879,
+      "collection": "Iconify / arcticons",
+      "file": "zillow-2.svg",
+      "id": 1546,
+      "is_default": false,
+      "label": "zillow",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zillow-2.svg",
+        "original_is_default": false,
+        "original_slug": "zillow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 646,
+        "previous_sha256": "6c399faf5a756e0becc5bbff0d62f6dda17d306ef7aa5c72c8ab51a41fc9ce20",
+        "ratio": 0.2
+      },
+      "sha256": "4204090eea3e54b56408ca4038583c8a2998e2ebbbcb489e2d85becd3831692e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#zillow",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

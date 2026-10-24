@@ -1,0 +1,84 @@
+{
+  "collection_id": 436,
+  "schema_version": 1,
+  "id": 597,
+  "title": "学习强国",
+  "url": "https://xuexi.cn",
+  "domains": [
+    "xuexi.cn"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "国内补充",
+    "教育",
+    "科研",
+    "学习强国",
+    "xuexi",
+    "xuexiqiangguo",
+    "xuexi.cn"
+  ],
+  "aliases": [
+    "xuexi",
+    "xuexiqiangguo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10154,
+      "collection": "轻量矢量替换",
+      "file": "xuexi.svg",
+      "id": 1495,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "native-vector-reuse",
+      "provenance": {
+        "original_file": "xuexi.svg",
+        "original_is_default": true,
+        "original_slug": "xuexi"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "32b6362aaf6faa1e4ff36a0c3a1f255a1db424fefbf8a6cb6ad8d1ec9bc439b2",
+        "previous_bytes": 253383,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/0f/a8/d60fa8c9-0d93-9fe1-d66f-9204a0568ae0/StudyAppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+        "reference": "seed/icons/xuexi/xuexi-1.svg",
+        "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "d36525c60e7e4ab0e95959f194999cc3ada3a21d32eda5a29d78aecba873fb8c",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HAY4VTVJP79JJEFMVXAXR5.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10154,
+      "collection": "GoTab 公开资源库",
+      "file": "xuexi-1.svg",
+      "gotab_id": 25,
+      "id": 1496,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "xuexi-1.svg",
+        "original_is_default": false,
+        "original_slug": "xuexi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 9932,
+        "previous_sha256": "214b1d7dfe0f3d725a8da45c9f5282843fd8f41500d91bcaa0e073e650b0e837",
+        "ratio": 0.2
+      },
+      "sha256": "d36525c60e7e4ab0e95959f194999cc3ada3a21d32eda5a29d78aecba873fb8c",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HAY4VTVJP79JJEFMVXAXR5.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

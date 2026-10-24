@@ -1,0 +1,51 @@
+{
+  "collection_id": 220,
+  "schema_version": 1,
+  "id": 317,
+  "title": "ITDOG",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "网络测速",
+    "宽带测速",
+    "ITDOG"
+  ],
+  "aliases": [
+    "itdog"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 661,
+      "collection": "用户优化 SVG",
+      "file": "itdog.svg",
+      "id": 787,
+      "is_default": true,
+      "label": "itdog",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "itdog.svg",
+        "original_is_default": true,
+        "original_slug": "itdog"
+      },
+      "rounded_corners": {
+        "previous_bytes": 439,
+        "previous_sha256": "585cd5850e37a298b259cf116a50286341213689d6d502391fe6ce24f2396349",
+        "ratio": 0.2
+      },
+      "sha256": "c475ce4da701d576728b3d0c5952fdd7c746536b4863ad0b6017c324b9affcda",
+      "source": "用户确认重绘：ITDOG 黄色圆底与黑色狗剪影，纯矢量轮廓",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

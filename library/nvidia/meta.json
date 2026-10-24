@@ -1,0 +1,44 @@
+{
+  "collection_id": 484,
+  "schema_version": 1,
+  "id": 648,
+  "title": "NVIDIA",
+  "url": "https://www.nvidia.com/",
+  "domains": [
+    "nvidia.com"
+  ],
+  "description": "NVIDIA 图标合集。",
+  "category": "设备硬件",
+  "tags": [
+    "NVIDIA",
+    "nvidia",
+    "英伟达",
+    "显卡",
+    "GPU"
+  ],
+  "aliases": [
+    "英伟达"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1842,
+      "collection": "用户补充 SVG",
+      "file": "nvidia.svg",
+      "id": 1599,
+      "is_default": true,
+      "label": "nvidia-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nvidia-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nvidia-1.svg"
+      },
+      "sha256": "dc5c6749947c17bede40ac9da84a68de78d15c8aa2443a757a4b594adb1c6777",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nvidia-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

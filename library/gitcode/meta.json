@@ -1,0 +1,75 @@
+{
+  "collection_id": 169,
+  "schema_version": 1,
+  "id": 240,
+  "title": "GitCode",
+  "url": "https://gitcode.com",
+  "domains": [
+    "gitcode.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "国内补充",
+    "开发",
+    "编程",
+    "代码托管",
+    "Git",
+    "GitCode",
+    "gitcode.com"
+  ],
+  "aliases": [
+    "gitcode"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1303,
+      "collection": "theSVG",
+      "file": "gitcode.svg",
+      "id": 590,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitcode.svg",
+        "original_is_default": true,
+        "original_slug": "gitcode"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1070,
+        "previous_sha256": "11d76fd93ba6dc75f20a8925e4d8bf1d9e7639ee45439712f5f2f4081d5bc370",
+        "ratio": 0.2
+      },
+      "sha256": "2b2e1e993d38122e55da80fd1074a027f22a02e5984e976b64308047a5b1cb74",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitcode/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1303,
+      "collection": "theSVG",
+      "file": "gitcode-1.svg",
+      "id": 591,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitcode-1.svg",
+        "original_is_default": false,
+        "original_slug": "gitcode"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1070,
+        "previous_sha256": "7830311a10605d9eec10d990c09c5f6c615ddb5682c12b0b2c9159127398aafe",
+        "ratio": 0.2
+      },
+      "sha256": "7813a7cb5831b1818e709e4a6237ed31babca48e16d73444f50edadaf6e66d5f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitcode/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

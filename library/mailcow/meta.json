@@ -1,0 +1,43 @@
+{
+  "title": "mailcow",
+  "url": "https://mailcow.email/",
+  "domains": [
+    "mailcow.email"
+  ],
+  "description": "自托管邮件服务器套件。",
+  "category": "办公效率",
+  "tags": [
+    "邮件服务器",
+    "自托管",
+    "电子邮箱",
+    "mailcow"
+  ],
+  "aliases": [
+    "mailcow",
+    "邮件服务器",
+    "自托管",
+    "电子邮箱"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "mailcow.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "d30d969c0ea80e08f259bde2b7b5bf7d2bdaffda81e24fb4582887b84041fe3a",
+      "bytes": 6732,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailcow.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "mailcow.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

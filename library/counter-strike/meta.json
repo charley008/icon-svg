@@ -1,0 +1,45 @@
+{
+  "collection_id": 101,
+  "schema_version": 1,
+  "id": 171,
+  "title": "Counter-Strike",
+  "url": "https://counter-strike.net",
+  "domains": [
+    "counter-strike.net"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Worldvectorlogo补充",
+    "游戏",
+    "Counter-Strike",
+    "counter-strike.net"
+  ],
+  "aliases": [
+    "counter-strike"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7112,
+      "collection": "Worldvectorlogo",
+      "file": "counter-strike.svg",
+      "id": 419,
+      "is_default": true,
+      "label": "csgo-4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "counter-strike.svg",
+        "original_is_default": true,
+        "original_slug": "counter-strike"
+      },
+      "sha256": "e98beba40e6b0ba0bde7c9c427168a40b777d676c68572a1c758486826a3a3f6",
+      "source": "https://cdn.worldvectorlogo.com/logos/csgo-4.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/csgo-4",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

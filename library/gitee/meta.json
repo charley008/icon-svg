@@ -1,0 +1,168 @@
+{
+  "collection_id": 170,
+  "schema_version": 1,
+  "id": 241,
+  "title": "Gitee",
+  "url": "https://gitee.com",
+  "domains": [
+    "gitee.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "国内补充",
+    "开发",
+    "编程",
+    "代码托管",
+    "Git",
+    "Gitee",
+    "gitee.com"
+  ],
+  "aliases": [
+    "gitee"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 916,
+      "collection": "已有图标",
+      "file": "gitee.svg",
+      "id": 592,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitee.svg",
+        "original_is_default": true,
+        "original_slug": "gitee"
+      },
+      "rounded_corners": {
+        "previous_bytes": 683,
+        "previous_sha256": "93ea09254264409f160509f7e7e118fc85c9aa8172eadf6d921617fb9d5aa030",
+        "ratio": 0.2
+      },
+      "sha256": "206622e3ffc676f215cbc01477b4a1161d5fbdcc6f498cc28cc4be283dbec764",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitee/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1143,
+      "collection": "GoTab 公开资源库",
+      "file": "gitee-1.svg",
+      "gotab_id": 210,
+      "id": 593,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "gitee-1.svg",
+        "original_is_default": false,
+        "original_slug": "gitee"
+      },
+      "rounded_corners": {
+        "previous_bytes": 921,
+        "previous_sha256": "5695a9bcdf3e5e2268a974127c72dc86b465e00eabf828b08e4f709939d585e5",
+        "ratio": 0.2
+      },
+      "sha256": "ded67e5728e6cb04046f4624b0eaa4a3d3653dba4531d4d1fd9ad52f91c6a3ad",
+      "source": "https://web.gotab.cn/sourceStore/website/01JXCJR4ZVQ89S5J8V4T4JK2ZR.svg",
+      "version": 1
+    },
+    {
+      "bytes": 916,
+      "collection": "已有图标",
+      "file": "gitee-2.svg",
+      "id": 594,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitee-2.svg",
+        "original_is_default": false,
+        "original_slug": "gitee"
+      },
+      "rounded_corners": {
+        "previous_bytes": 683,
+        "previous_sha256": "72880fcc930b44105fbd36a11837a6c6363cb60d5508e2bec3eba09d1affd2df",
+        "ratio": 0.2
+      },
+      "sha256": "091367ee077f856463105248f3dcccde5dcc770d8178064f08684bf1a3e17246",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitee/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1006,
+      "collection": "已有图标",
+      "file": "gitee-3.svg",
+      "id": 595,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitee-3.svg",
+        "original_is_default": false,
+        "original_slug": "gitee"
+      },
+      "rounded_corners": {
+        "previous_bytes": 788,
+        "previous_sha256": "b4e17e86b21e525d45bfdc9d1d7650a47188bf9017409b37886406d29ea9df0b",
+        "ratio": 0.2
+      },
+      "sha256": "489c95a22a085f702dbb5dee0a998690b26ff6f897fa5436c3b9cb6b3f98c294",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gitee.svg",
+      "version": 3
+    },
+    {
+      "bytes": 884,
+      "collection": "已有图标",
+      "file": "gitee-4.svg",
+      "id": 596,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitee-4.svg",
+        "original_is_default": false,
+        "original_slug": "gitee"
+      },
+      "rounded_corners": {
+        "previous_bytes": 651,
+        "previous_sha256": "247c634796e1b3b55a1f787871b0a71d0fc4c80445c07815c5cdd8f441cd39f2",
+        "ratio": 0.2
+      },
+      "sha256": "e168d1fbd213145ff1434fe95822b736dbd3cd574b30b38256660540117f90d8",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#gitee-fill",
+      "version": 4
+    },
+    {
+      "bytes": 766,
+      "collection": "已有图标",
+      "file": "gitee-5.svg",
+      "id": 597,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitee-5.svg",
+        "original_is_default": false,
+        "original_slug": "gitee"
+      },
+      "rounded_corners": {
+        "previous_bytes": 533,
+        "previous_sha256": "f64c6873fd394d95cc0afd425d4ef043f314948d8e0485ae0bf9d2f98d09da73",
+        "ratio": 0.2
+      },
+      "sha256": "5e35d3ffb1a89b8a2e42fb6003d3d1fec72d0fbd99150b069a409ba7bdb09355",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#gitee-line",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

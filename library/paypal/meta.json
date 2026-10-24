@@ -1,0 +1,128 @@
+{
+  "collection_id": 303,
+  "schema_version": 1,
+  "id": 429,
+  "title": "PayPal",
+  "url": "https://paypal.com",
+  "domains": [
+    "paypal.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球Top100",
+    "金融",
+    "支付",
+    "收款",
+    "PayPal",
+    "paypal.com"
+  ],
+  "aliases": [
+    "paypal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "theSVG",
+      "file": "paypal.svg",
+      "id": 1087,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paypal.svg",
+        "original_is_default": true,
+        "original_slug": "paypal"
+      },
+      "sha256": "6514f86e178b0c37d43333ee1fe7a03f0a42fc4f787c7d79c3038c77c812fd4f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/paypal/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 937,
+      "collection": "theSVG",
+      "file": "paypal-1.svg",
+      "id": 1088,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paypal-1.svg",
+        "original_is_default": false,
+        "original_slug": "paypal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 712,
+        "previous_sha256": "f4f5e92ecc2aaf9ffb21795d9142d275cd70825870bbe14e2acd9c65ee193c8e",
+        "ratio": 0.2
+      },
+      "sha256": "a7ee5d0d82dcab6a721bd5b10b6973fb5924bb415454ae2bb552b2d7da72654f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/paypal-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3778,
+      "collection": "theSVG",
+      "file": "paypal-2.svg",
+      "id": 1089,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paypal-2.svg",
+        "original_is_default": false,
+        "original_slug": "paypal"
+      },
+      "sha256": "9fb4ffcf946b692c7a2d80903f5126404b0df944a238bf1df60c7ae68a0d8304",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/paypal/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 778,
+      "collection": "theSVG",
+      "file": "paypal-3.svg",
+      "id": 1090,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paypal-3.svg",
+        "original_is_default": false,
+        "original_slug": "paypal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 545,
+        "previous_sha256": "7d89b36d1ff425a4b53814a3a3fb01038f60fbb15406f1d1707c7a106fec7482",
+        "ratio": 0.2
+      },
+      "sha256": "275b3a1757fa5f5cce86ae117ab298c01a815102748969917aa76ca5f2be5b50",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/paypal/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1064,
+      "collection": "Dashboard Icons",
+      "file": "paypal-4.svg",
+      "id": 1091,
+      "is_default": false,
+      "label": "paypal",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paypal-4.svg",
+        "original_is_default": false,
+        "original_slug": "paypal"
+      },
+      "sha256": "1e80fa80d9d5aa47070803a4f35f3e77ae24f1f16d8c06f65d16a698fa835540",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paypal.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

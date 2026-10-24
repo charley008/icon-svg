@@ -1,0 +1,60 @@
+{
+  "collection_id": 469,
+  "schema_version": 1,
+  "id": 633,
+  "title": "Fiat",
+  "url": "https://www.fiat.com/",
+  "domains": [
+    "fiat.com"
+  ],
+  "description": "Fiat 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "Fiat",
+    "fiat",
+    "菲亚特",
+    "汽车"
+  ],
+  "aliases": [
+    "菲亚特"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 21114,
+      "collection": "用户补充 SVG",
+      "file": "fiat-1.svg",
+      "id": 1574,
+      "is_default": true,
+      "label": "fiat-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "fiat-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/fiat-1.svg"
+      },
+      "sha256": "5b21c5117e89482f49b3e9513505ab5afa0c1b35f3e813a81a3ed501b55da220",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/fiat-1.svg",
+      "version": 1
+    },
+    {
+      "bytes": 672,
+      "collection": "用户补充 SVG",
+      "file": "fiat.svg",
+      "id": 1573,
+      "is_default": false,
+      "label": "fiat-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "fiat-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/fiat-2.svg"
+      },
+      "sha256": "40ac254c49cff92bfa8f03f6fead92aa0b92d405fab195bc5b4ad5189f0a641a",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/fiat-2.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

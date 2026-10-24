@@ -1,0 +1,97 @@
+{
+  "collection_id": 68,
+  "schema_version": 1,
+  "id": 133,
+  "title": "财新",
+  "url": "https://caixin.com",
+  "domains": [
+    "caixin.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "Worldvectorlogo补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "财新",
+    "caixin",
+    "caixin.com"
+  ],
+  "aliases": [
+    "caixin"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 5994,
+      "collection": "用户优化 SVG",
+      "file": "caixin.svg",
+      "id": 341,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "caixin.svg",
+        "original_is_default": true,
+        "original_slug": "caixin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5772,
+        "previous_sha256": "7e9892660505100127c093dd55e0b8f983c8aff1acd10f159732f79d44f718d4",
+        "ratio": 0.2
+      },
+      "sha256": "9035f91282ee23b2822c32024965203c63b35f51a6b7edfb97dfc5acf2e091f9",
+      "source": "https://cdn.worldvectorlogo.com/logos/caixin.svg；用户确认网络矢量字标，白色财新与Caixin配深蓝圆角底",
+      "version": 0
+    },
+    {
+      "bytes": 1909,
+      "collection": "GoTab 公开资源库",
+      "file": "caixin-1.svg",
+      "gotab_id": 43,
+      "id": 342,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "caixin-1.svg",
+        "original_is_default": false,
+        "original_slug": "caixin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1687,
+        "previous_sha256": "c4ae6f4a1b25a67e984803342e5eeb568a9999569cbd26f3deed2e294a5c5968",
+        "ratio": 0.2
+      },
+      "sha256": "cdefc22ded92c124ce7559a299063d5eaa2f425ca419cecf8500d60177459d76",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HCMC4VB7QZV46GDGEF4VHH.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5706,
+      "collection": "已有图标",
+      "file": "caixin-2.svg",
+      "id": 343,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "caixin-2.svg",
+        "original_is_default": false,
+        "original_slug": "caixin"
+      },
+      "sha256": "f59b887d0fc6a55dcb7a93e11eb95b2458ebb6d033283621dcc73737e5ab7947",
+      "source": "https://cdn.worldvectorlogo.com/logos/caixin.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

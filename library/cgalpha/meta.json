@@ -1,0 +1,51 @@
+{
+  "collection_id": 75,
+  "schema_version": 1,
+  "id": 143,
+  "title": "CG Alpha",
+  "url": "https://cgalpha.com",
+  "domains": [
+    "cgalpha.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "CG Alpha",
+    "cgalpha",
+    "cgalpha.com"
+  ],
+  "aliases": [
+    "cgalpha"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8768,
+      "collection": "GoTab 公开资源库",
+      "file": "cgalpha.svg",
+      "gotab_id": 191,
+      "id": 367,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cgalpha.svg",
+        "original_is_default": true,
+        "original_slug": "cgalpha"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8546,
+        "previous_sha256": "93f9c417264b65cc4f7cdcacfbabde03e2cf9122fb74017dbdd748bc4c45b38e",
+        "ratio": 0.2
+      },
+      "sha256": "b8e73b66d0c6aa7f911eacc28678d6aecc6da82bca8db9df5676cec11d54c1de",
+      "source": "https://web.gotab.cn/uploads/202412/01JENJDYJSZCMZHGXK8XR2SXKW.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

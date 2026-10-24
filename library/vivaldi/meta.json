@@ -1,0 +1,41 @@
+{
+  "title": "Vivaldi",
+  "url": "https://vivaldi.com/",
+  "domains": [
+    "vivaldi.com"
+  ],
+  "description": "网页浏览器。",
+  "category": "浏览器",
+  "tags": [
+    "浏览器",
+    "网页浏览",
+    "Vivaldi"
+  ],
+  "aliases": [
+    "vivaldi",
+    "浏览器",
+    "网页浏览"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "vivaldi.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "d3b91abbecc6603a3bf4a4e86458553460c49156a7c219296b3af26f66a3f369",
+      "bytes": 1014,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vivaldi.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "vivaldi.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

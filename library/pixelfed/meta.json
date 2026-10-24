@@ -1,0 +1,41 @@
+{
+  "title": "Pixelfed",
+  "url": "https://pixelfed.org/",
+  "domains": [
+    "pixelfed.org"
+  ],
+  "description": "去中心化图片社交平台。",
+  "category": "社交通讯",
+  "tags": [
+    "图片社交",
+    "联邦宇宙",
+    "Pixelfed"
+  ],
+  "aliases": [
+    "pixelfed",
+    "图片社交",
+    "联邦宇宙"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "pixelfed.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "4207a2047b897c17a449de88f3285666c355913b277a609b50b5409d8a709f3c",
+      "bytes": 7202,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pixelfed.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "pixelfed.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

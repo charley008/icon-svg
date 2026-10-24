@@ -1,0 +1,49 @@
+{
+  "collection_id": 291,
+  "schema_version": 1,
+  "id": 415,
+  "title": "NPS",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "NPS"
+  ],
+  "aliases": [
+    "nps"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2128,
+      "collection": "用户优化 SVG",
+      "file": "nps.svg",
+      "id": 1045,
+      "is_default": true,
+      "label": "nps",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "nps.svg",
+        "original_is_default": true,
+        "original_slug": "nps"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1906,
+        "previous_sha256": "cec2e547acd427c0389a014a4e46452ac8104f68fd2ee1d2fb457cdfb48a1707",
+        "ratio": 0.2
+      },
+      "sha256": "432ab394dda87651d05306289b6dd03a90019ba5677ba49aef480873a29a99a3",
+      "source": "用户确认重绘：NPS 渐变圆环版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

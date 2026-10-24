@@ -1,0 +1,43 @@
+{
+  "title": "Arm",
+  "url": "https://www.arm.com/",
+  "domains": [
+    "www.arm.com"
+  ],
+  "description": "处理器架构与半导体技术厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "芯片",
+    "处理器",
+    "半导体",
+    "Arm"
+  ],
+  "aliases": [
+    "arm",
+    "芯片",
+    "处理器",
+    "半导体"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "arm.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "75199c6e88d3968bad08cf67857bd49501e0337cb6a793653f9523da63a7d045",
+      "bytes": 1122,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arm.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "arm.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

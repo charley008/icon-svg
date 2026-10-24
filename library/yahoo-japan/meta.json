@@ -1,0 +1,137 @@
+{
+  "collection_id": 440,
+  "schema_version": 1,
+  "id": 601,
+  "title": "Yahoo! JAPAN",
+  "url": "https://yahoo.co.jp",
+  "domains": [
+    "yahoo.co.jp"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "全球Top100",
+    "搜索",
+    "导航",
+    "Yahoo! JAPAN",
+    "yahoo-japan",
+    "yahoojapan",
+    "yahoo",
+    "yahoo.co.jp"
+  ],
+  "aliases": [
+    "yahoo-japan",
+    "yahoojapan",
+    "yahoo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 671,
+      "collection": "theSVG",
+      "file": "yahoo-japan.svg",
+      "id": 1503,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yahoo-japan.svg",
+        "original_is_default": true,
+        "original_slug": "yahoo-japan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 446,
+        "previous_sha256": "2cf37b83517e28ffabf5c256db6998ef9d39f876173f11a7e3e370ffd062f85b",
+        "ratio": 0.2
+      },
+      "sha256": "fef49a15ca6ef6f4db2dbd238e4999470822f8ed3026c8e9b947801f9833f18c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/yahoo-badge/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 666,
+      "collection": "Dashboard Icons",
+      "file": "yahoo-japan-1.svg",
+      "id": 1504,
+      "is_default": false,
+      "label": "yahoo",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yahoo-japan-1.svg",
+        "original_is_default": false,
+        "original_slug": "yahoo-japan"
+      },
+      "sha256": "add51f225466eec993e1b40fdf0e2acd303ffa6af848a67d35b60fe380c1212b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yahoo.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1581,
+      "collection": "Iconify / logos",
+      "file": "yahoo-japan-2.svg",
+      "id": 1505,
+      "is_default": false,
+      "label": "yahoo",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yahoo-japan-2.svg",
+        "original_is_default": false,
+        "original_slug": "yahoo-japan"
+      },
+      "sha256": "f7017412826581ebb47eae391dc666677bac980b927ec34f2652ee7451dc837a",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#yahoo",
+      "version": 2
+    },
+    {
+      "bytes": 818,
+      "collection": "Iconify / arcticons",
+      "file": "yahoo-japan-3.svg",
+      "id": 1506,
+      "is_default": false,
+      "label": "yahoo",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yahoo-japan-3.svg",
+        "original_is_default": false,
+        "original_slug": "yahoo-japan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 585,
+        "previous_sha256": "aa804340fe7ae1ba7079272a69fbe094ecb9178c62861485f0c7f74363df4433",
+        "ratio": 0.2
+      },
+      "sha256": "9a2051027a8cc336fade29d5b078aeb832acb37734fd0458d1056d2a75ffea25",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#yahoo",
+      "version": 3
+    },
+    {
+      "bytes": 745,
+      "collection": "Iconify / arcticons",
+      "file": "yahoo-japan-4.svg",
+      "id": 1507,
+      "is_default": false,
+      "label": "yahoo-japan",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yahoo-japan-4.svg",
+        "original_is_default": false,
+        "original_slug": "yahoo-japan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 512,
+        "previous_sha256": "c2167ae403fb8522fe7fbfbcca7370899f91ecc3db91091a27ecd533360aa733",
+        "ratio": 0.2
+      },
+      "sha256": "33e5211493717894145fa876069077933b6a040ea4ca48d9bb3b65a6d77903e4",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#yahoo-japan",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

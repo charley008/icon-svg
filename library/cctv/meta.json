@@ -1,0 +1,318 @@
+{
+  "collection_id": 73,
+  "schema_version": 1,
+  "id": 138,
+  "title": "央视网",
+  "url": "https://cctv.com",
+  "domains": [
+    "cctv.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "新闻",
+    "资讯",
+    "央视网",
+    "cctv",
+    "cctv.com"
+  ],
+  "aliases": [
+    "cctv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5749,
+      "collection": "已有图标",
+      "file": "cctv.svg",
+      "id": 357,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cctv.svg",
+        "original_is_default": true,
+        "original_slug": "cctv"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5529,
+        "previous_sha256": "2e34326b7b5355aa236b1edbc91e06d2e061da90facafc3f4537812a0e637af4",
+        "ratio": 0.2
+      },
+      "sha256": "fb2b4d6571ae5b282b83c49fe2419a6c0d6cfd5ea749dbc3dd48c6c92fa8a127",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/cctv.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1652,
+      "collection": "GoTab 公开资源库",
+      "file": "cctv-1.svg",
+      "gotab_id": 22,
+      "id": 358,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cctv-1.svg",
+        "original_is_default": false,
+        "original_slug": "cctv"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1430,
+        "previous_sha256": "1ef98d971c94e6bec409c9d3277e35d787a07499eb85adfb1824182d56cee8da",
+        "ratio": 0.2
+      },
+      "sha256": "fa7f9333ca1d260d3d75d37f4d61fa56dcd5f658db94e2b014d9c06c2b809e19",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H10A0EQTVG2ST2W8Z5BQJJ.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3121,
+      "collection": "已有图标",
+      "file": "cctv-2.svg",
+      "id": 359,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cctv-2.svg",
+        "original_is_default": false,
+        "original_slug": "cctv"
+      },
+      "sha256": "6d0e3a39228c313dd713182270c498bde87fc06ef9d8057a1edf32aaf3559567",
+      "source": "https://cdn.worldvectorlogo.com/logos/cctv.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4032,
+      "collection": "已有图标",
+      "file": "cctv-3.svg",
+      "id": 360,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cctv-3.svg",
+        "original_is_default": false,
+        "original_slug": "cctv"
+      },
+      "sha256": "88aab8763c7160a6aa5d8f9db933dce5002eca994a1fa185516b6a244890e86a",
+      "source": "https://cdn.worldvectorlogo.com/logos/cctvnewlogo.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": [
+    {
+      "id": 139,
+      "key": "news",
+      "title": "央视新闻",
+      "url": "https://news.cctv.com",
+      "domains": [
+        "news.cctv.com"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "用户优选",
+        "自用",
+        "新闻",
+        "资讯",
+        "央视新闻",
+        "cctv-news",
+        "news.cctv.com"
+      ],
+      "aliases": [
+        "cctv-news"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2753,
+          "collection": "用户优化 SVG",
+          "file": "cctv-news.svg",
+          "id": 361,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "cctv-news.svg",
+            "original_is_default": true,
+            "original_slug": "cctv-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2531,
+            "previous_sha256": "56de5b5df29ac4462a1fe9e27e9bef48b7cb821134974f9e0b340e220c67bb25",
+            "ratio": 0.2
+          },
+          "sha256": "1982c7d98e373796a9d04562994d69c6e0373ed89a06704d4729f3262053d883",
+          "source": "用户确认优化：cctv-news-candidate.svg；保留原图布局的纯矢量候选（人民网标志复用图库已有矢量）",
+          "version": 0
+        },
+        {
+          "bytes": 5963,
+          "collection": "GoTab 公开资源库",
+          "file": "cctv-news-1.svg",
+          "gotab_id": 34,
+          "id": 362,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "cctv-news-1.svg",
+            "original_is_default": false,
+            "original_slug": "cctv-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 5741,
+            "previous_sha256": "fbc07d4745358d87f595add0d42058cb266e59c790bbbf63d2eb31dcb4e66d79",
+            "ratio": 0.2
+          },
+          "sha256": "e2dc823de8649860310ba9f6241e1ac981d9e600eabf048ab897f59c9efc96ad",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HBP252MT9MGFKYNWRX67CJ.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 140,
+      "key": "programs",
+      "title": "CCTV 节目官网",
+      "url": "https://tv.cctv.com",
+      "domains": [
+        "tv.cctv.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "影音",
+        "CCTV 节目官网",
+        "cctv-programs",
+        "tv.cctv.com"
+      ],
+      "aliases": [
+        "cctv-programs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1652,
+          "collection": "GoTab 公开资源库",
+          "file": "cctv-programs.svg",
+          "gotab_id": 17,
+          "id": 363,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "cctv-programs.svg",
+            "original_is_default": true,
+            "original_slug": "cctv-programs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1430,
+            "previous_sha256": "1ef98d971c94e6bec409c9d3277e35d787a07499eb85adfb1824182d56cee8da",
+            "ratio": 0.2
+          },
+          "sha256": "fa7f9333ca1d260d3d75d37f4d61fa56dcd5f658db94e2b014d9c06c2b809e19",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8H10A0EQTVG2ST2W8Z5BQJJ.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 141,
+      "key": "yangshipin",
+      "title": "央视频",
+      "url": "https://ysp.cctv.cn",
+      "domains": [
+        "ysp.cctv.cn"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "影音",
+        "央视频",
+        "yangshipin",
+        "ysp.cctv.cn"
+      ],
+      "aliases": [
+        "yangshipin"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 3488,
+          "collection": "用户优化 SVG",
+          "file": "cctv-yangshipin.svg",
+          "id": 364,
+          "is_default": true,
+          "label": "tv.cctv.com",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "yangshipin.svg",
+            "original_is_default": true,
+            "original_slug": "yangshipin"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3266,
+            "previous_sha256": "e37c9cd159d3640d75f7f03ca44ff092a123a9481bb7788a9b1993673a2ca879",
+            "ratio": 0.2
+          },
+          "sha256": "7124471e6e4ac2bcfe309113619324fa992f60abcaeabe1b30c863a56fc19b7f",
+          "source": "用户确认重绘：央视频红色圆角方块及幼圆文字轮廓；浅色圆角底，256x256",
+          "version": 0
+        },
+        {
+          "appstore_track": "https://apps.apple.com/cn/app/%E5%A4%AE%E8%A7%86%E9%A2%91/id1479814602?uo=4",
+          "bytes": 27605,
+          "collection": "原图描摹",
+          "file": "cctv-yangshipin-1.svg",
+          "id": 365,
+          "is_default": false,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "traced-outline",
+          "provenance": {
+            "original_file": "yangshipin-1.svg",
+            "original_is_default": false,
+            "original_slug": "yangshipin"
+          },
+          "render_rmse": 6.637,
+          "rounded_corners": {
+            "previous_bytes": 27382,
+            "previous_sha256": "b6eecdd41eca4bdc9c061afcc6f12ed34c416324035aab092f328db816d1ee87",
+            "ratio": 0.2
+          },
+          "sha256": "fcaa1f9d10e6ff25f9ac28da2716c41a90722e0a964514c4527f65842ab1cf4c",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/04/4a/c9044a79-aac8-b496-70df-fb47feb5cbff/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/512x512bb.jpg",
+          "source_size": [
+            512,
+            512
+          ],
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

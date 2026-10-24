@@ -1,0 +1,178 @@
+{
+  "collection_id": 286,
+  "schema_version": 1,
+  "id": 410,
+  "title": "Nintendo",
+  "url": "https://nintendo.com",
+  "domains": [
+    "nintendo.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "全球App补充",
+    "Worldvectorlogo补充",
+    "游戏",
+    "Nintendo",
+    "nintendo.com"
+  ],
+  "aliases": [
+    "nintendo"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 3430,
+      "collection": "Worldvectorlogo",
+      "file": "nintendo-4.svg",
+      "id": 1026,
+      "is_default": true,
+      "label": "nintendo-2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nintendo-4.svg",
+        "original_is_default": false,
+        "original_slug": "nintendo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3197,
+        "previous_sha256": "2ea432b480691ebde0db0c9a68e4147da2233cf806b4b9366c1a0f9c30912d43",
+        "ratio": 0.2
+      },
+      "sha256": "a620f5af4a902e0bdb95be512f8c18150a5110d6e14ab9ba928b9f48621b6618",
+      "source": "https://cdn.worldvectorlogo.com/logos/nintendo-2.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/nintendo-2",
+      "version": 4
+    },
+    {
+      "bytes": 1856,
+      "collection": "theSVG",
+      "file": "nintendo.svg",
+      "id": 1027,
+      "is_default": false,
+      "label": "default",
+      "license": "Fair Use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nintendo.svg",
+        "original_is_default": true,
+        "original_slug": "nintendo"
+      },
+      "sha256": "c2527d119ced9675c389f621b53c9cef6f60f5b5f02b67802f57b4f5b98e8874",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/nintendo/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 571,
+      "collection": "theSVG",
+      "file": "nintendo-1.svg",
+      "id": 1028,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nintendo-1.svg",
+        "original_is_default": false,
+        "original_slug": "nintendo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 346,
+        "previous_sha256": "c40040a10688a8e7f536134efa79b810336d07a3582547b62bb6f4595f86e50c",
+        "ratio": 0.2
+      },
+      "sha256": "92eba758c137e4a66c9b6d91387418b76607a57f7a880adac745f27c88980659",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/nintendo-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1874,
+      "collection": "theSVG",
+      "file": "nintendo-2.svg",
+      "id": 1029,
+      "is_default": false,
+      "label": "light",
+      "license": "Fair Use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nintendo-2.svg",
+        "original_is_default": false,
+        "original_slug": "nintendo"
+      },
+      "sha256": "f5c94df353ed2596fb8ebf21cbdf2122210471ba5df3514473a7fa19d9646da2",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/nintendo/light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 671,
+      "collection": "Iconify / arcticons",
+      "file": "nintendo-3.svg",
+      "id": 1030,
+      "is_default": false,
+      "label": "nintendo",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nintendo-3.svg",
+        "original_is_default": false,
+        "original_slug": "nintendo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 438,
+        "previous_sha256": "f1c4179f3707a70d010ce0f701b1f85389fd3902aa94c3511ed60906a46d2e9f",
+        "ratio": 0.2
+      },
+      "sha256": "701c4c07a3e72f1b4f2425aa74ee88a645c3a6f6b7a68616716d76e8898fb55d",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#nintendo",
+      "version": 3
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "title": "Nintendo Switch",
+      "url": "https://www.nintendo.com/us/gaming-systems/switch/",
+      "domains": [
+        "www.nintendo.com"
+      ],
+      "description": "Nintendo 游戏主机产品。",
+      "category": "游戏",
+      "tags": [
+        "任天堂Switch",
+        "游戏主机",
+        "Nintendo Switch"
+      ],
+      "aliases": [
+        "nintendo-switch",
+        "任天堂Switch",
+        "游戏主机",
+        "switch-console",
+        "video-game-system"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "nintendo-switch.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "015647559c35d2ed564b25fa88160023ddd715f9fcf6e278d7975bf0fa90ae75",
+          "bytes": 1686,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nintendo-switch.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "nintendo-switch.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "switch"
+    }
+  ]
+}

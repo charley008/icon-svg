@@ -1,0 +1,119 @@
+{
+  "collection_id": 135,
+  "schema_version": 1,
+  "id": 206,
+  "title": "Duolingo",
+  "url": "https://duolingo.com",
+  "domains": [
+    "duolingo.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "全球App补充",
+    "教育",
+    "科研",
+    "Duolingo",
+    "duolingo.com"
+  ],
+  "aliases": [
+    "duolingo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3320,
+      "collection": "theSVG",
+      "file": "duolingo.svg",
+      "id": 508,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duolingo.svg",
+        "original_is_default": true,
+        "original_slug": "duolingo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3087,
+        "previous_sha256": "45dc4951c73e080f84551dcacc2af74468afc00d1eb8cb08d36d28cd93e159be",
+        "ratio": 0.2
+      },
+      "sha256": "ca65b35f8b7a4a6374cd156e4036c7f74b813afe4c49efd03cfeb66224c9421d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/duolingo/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3320,
+      "collection": "theSVG",
+      "file": "duolingo-1.svg",
+      "id": 509,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duolingo-1.svg",
+        "original_is_default": false,
+        "original_slug": "duolingo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3087,
+        "previous_sha256": "275274c756f76cf4c64d04d73f785a66f5423d12f755f39fe1a20bcd82b4691a",
+        "ratio": 0.2
+      },
+      "sha256": "628550430ce4bc8e5244d763e95efc00e7146384a0f34615259a160940881c4d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/duolingo/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4472,
+      "collection": "Dashboard Icons",
+      "file": "duolingo-2.svg",
+      "id": 510,
+      "is_default": false,
+      "label": "duolingo",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duolingo-2.svg",
+        "original_is_default": false,
+        "original_slug": "duolingo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4252,
+        "previous_sha256": "5d449ebac92575de4f9f6b9bfe8ee53cf5d3871c8b4cc23724394445a7619949",
+        "ratio": 0.2
+      },
+      "sha256": "7c676133e3c14f3a59c9b83d231e46b9bd43a02069fd49f0280f2b798d94d9a5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duolingo.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1955,
+      "collection": "Iconify / arcticons",
+      "file": "duolingo-3.svg",
+      "id": 511,
+      "is_default": false,
+      "label": "duolingo",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duolingo-3.svg",
+        "original_is_default": false,
+        "original_slug": "duolingo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1722,
+        "previous_sha256": "1c53123a2f4371fc2040d8f3cd4a59d7aa0054cf898d3afea534a7093a627c27",
+        "ratio": 0.2
+      },
+      "sha256": "13448b71a7f812d5623d687602d2347c9117b4344ee2a03277bbbef3428f0cf7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#duolingo",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

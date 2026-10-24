@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 658 658" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="658" height="658" rx="131.6"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs><clipPath id="website-icon-rounded-corners" clipPathUnits="userSpaceOnUse"><rect x="0.0" y="0.0" width="658.0" height="658.0" rx="123.375" ry="123.375" /></clipPath></defs><g clip-path="url(#website-icon-rounded-corners)"><rect width="658" height="658" fill="#f4f4f3" />
+  <rect width="658" height="658" rx="164" fill="#fddf7c" />
+  <path fill="none" stroke="#fca221" stroke-width="42" stroke-linecap="round" d="M443 94C540 85 610 173 584 262" />
+  <path fill="none" stroke="#fc9f18" stroke-width="36" stroke-linecap="round" d="M450 165C495 161 528 195 516 244" />
+  <path fill="#e50f15" d="M326 235C322 230 329 216 332 198C339 164 316 145 290 150C249 151 195 190 158 226C111 272 67 340 67 398C67 480 154 536 259 546C364 559 463 516 509 454C534 424 543 393 527 368C514 343 490 313 461 307C456 306 458 295 462 284C473 252 467 228 449 217C419 199 388 212 353 228C339 234 328 240 326 235Z" />
+  <ellipse cx="277" cy="404" rx="168" ry="109" transform="rotate(-8 277 404)" fill="#fdfbfb" />
+  <ellipse cx="266" cy="415" rx="90" ry="75" transform="rotate(-23 266 415)" fill="#020202" />
+  <ellipse cx="238" cy="432" rx="28" ry="27" transform="rotate(-23 238 432)" fill="#fafafa" />
+  <circle cx="287" cy="404" r="12" fill="#f3f3f3" />
+</g></g></svg>

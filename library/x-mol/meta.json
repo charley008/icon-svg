@@ -1,0 +1,50 @@
+{
+  "collection_id": 426,
+  "schema_version": 1,
+  "id": 586,
+  "title": "X-MOL",
+  "url": "https://ispace.x-mol.com",
+  "domains": [
+    "ispace.x-mol.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "X-MOL",
+    "ispace.x-mol.com"
+  ],
+  "aliases": [
+    "x-mol"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1122,
+      "collection": "GoTab 公开资源库",
+      "file": "x-mol.svg",
+      "gotab_id": 282,
+      "id": 1474,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "x-mol.svg",
+        "original_is_default": true,
+        "original_slug": "x-mol"
+      },
+      "rounded_corners": {
+        "previous_bytes": 900,
+        "previous_sha256": "6e466d10471d005160f110c2fc460209b76d4613a39c2fbed95fa8a11d87b2c4",
+        "ratio": 0.2
+      },
+      "sha256": "f2e8247284c7b3410b6fcde589627b82ad29cb959f9475519ad3978fe3f888df",
+      "source": "https://web.gotab.cn/sourceStore/website/01KY221RH8HH7GPRG8B4TM2WZH.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

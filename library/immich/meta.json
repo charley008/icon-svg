@@ -1,0 +1,43 @@
+{
+  "title": "Immich",
+  "url": "https://immich.app/",
+  "domains": [
+    "immich.app"
+  ],
+  "description": "自托管照片与视频备份应用。",
+  "category": "网盘存储",
+  "tags": [
+    "相册",
+    "照片备份",
+    "自托管",
+    "Immich"
+  ],
+  "aliases": [
+    "immich",
+    "相册",
+    "照片备份",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "immich.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "a5d4a43899e63ffc7e97246034f7f63cdfdc410aa803c5713d545290601c4d89",
+      "bytes": 1172,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "immich.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

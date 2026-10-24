@@ -1,0 +1,3136 @@
+{
+  "collection_id": 177,
+  "schema_version": 1,
+  "id": 248,
+  "title": "Google",
+  "url": "https://www.google.com",
+  "domains": [
+    "google.com",
+    "google.com.hk"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "用户优选",
+    "搜索",
+    "导航",
+    "谷歌",
+    "Google",
+    "google.com",
+    "google.com.hk"
+  ],
+  "aliases": [
+    "google"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1118,
+      "collection": "已有图标",
+      "file": "google.svg",
+      "id": 615,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "google.svg",
+        "original_is_default": true,
+        "original_slug": "google"
+      },
+      "rounded_corners": {
+        "previous_bytes": 889,
+        "previous_sha256": "d3674637e8fb4a5b7b9bed2d96ee8096a49b6246dda24e0c465b1d293446a22d",
+        "ratio": 0.2
+      },
+      "sha256": "6750afba0d170365ca0dc8b4026c446e79d96dfe990c4793334b99e80f37b42c",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 2608,
+      "collection": "GoTab 公开资源库",
+      "file": "google-1.svg",
+      "gotab_id": 51,
+      "id": 616,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "google-1.svg",
+        "original_is_default": false,
+        "original_slug": "google"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2386,
+        "previous_sha256": "a77024620dd1772c411790f97cd7a327ac5be99e245e3f02150ea3b51ad15ec7",
+        "ratio": 0.2
+      },
+      "sha256": "b49acffa18beaabb82708b51baf3da07b99d50f27acdda486b8b1925376ddde8",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HDEEQHBAX9GHR3AP368GZD.svg",
+      "version": 1
+    },
+    {
+      "bytes": 8317,
+      "collection": "已有图标",
+      "file": "google-2.svg",
+      "id": 617,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "google-2.svg",
+        "original_is_default": false,
+        "original_slug": "google"
+      },
+      "sha256": "d214874b84089fbea9c406666efd983b6303191ad17c7672e9f19566b39a3518",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 766,
+      "collection": "已有图标",
+      "file": "google-3.svg",
+      "id": 618,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "google-3.svg",
+        "original_is_default": false,
+        "original_slug": "google"
+      },
+      "rounded_corners": {
+        "previous_bytes": 541,
+        "previous_sha256": "d9ec129374bbf9a89200cc1234de51386b8a277e4c1f2b173d7c9ff7d0a62768",
+        "ratio": 0.2
+      },
+      "sha256": "f081927c209a0ae8f8642eb767d87e876fc85d02634c5e0b37226a6d5305fc4c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-badge/default.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2286,
+      "collection": "已有图标",
+      "file": "google-4.svg",
+      "id": 619,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "google-4.svg",
+        "original_is_default": false,
+        "original_slug": "google"
+      },
+      "sha256": "9d699f3a44769b55d94230ab8b1f94d7ea8513a97af4bc96156a384cb852243e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google/wordmark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 783,
+      "collection": "已有图标",
+      "file": "google-5.svg",
+      "id": 620,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "google-5.svg",
+        "original_is_default": false,
+        "original_slug": "google"
+      },
+      "rounded_corners": {
+        "previous_bytes": 550,
+        "previous_sha256": "136a4ce9042280c29bb76cc406713f66fb44cfccffb3bdf70914931f8d530ef1",
+        "ratio": 0.2
+      },
+      "sha256": "45e914d2b28ef30dea809019b337bec694139a4e47c0390fe09c8db8091dbab1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google/mono.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 249,
+      "key": "adsense",
+      "title": "Google AdSense",
+      "url": "https://adsense.google.com",
+      "domains": [
+        "adsense.google.com"
+      ],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "开发",
+        "编程",
+        "谷歌",
+        "Google AdSense",
+        "google-adsense",
+        "adsense.google.com"
+      ],
+      "aliases": [
+        "google-adsense"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1782,
+          "collection": "GoTab 公开资源库",
+          "file": "google-adsense.svg",
+          "gotab_id": 217,
+          "id": 621,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "google-adsense.svg",
+            "original_is_default": true,
+            "original_slug": "google-adsense"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1560,
+            "previous_sha256": "db88710683e84e1ee97b87f98d58e8d23741ecaade59267ef9d59e8a0cf3aa3e",
+            "ratio": 0.2
+          },
+          "sha256": "2babd58ab543c822380d002c848a5464f87534b19899267fff07b3ebb55c61b9",
+          "source": "https://web.gotab.cn/uploads/202507/01JZ2QXBZW9M5JG5527X5KAFAJ.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 250,
+      "key": "android",
+      "title": "Android",
+      "url": "https://android.com",
+      "domains": [
+        "android.com"
+      ],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Worldvectorlogo补充",
+        "系统工具",
+        "谷歌",
+        "Android",
+        "android.com"
+      ],
+      "aliases": [
+        "android"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1653,
+          "collection": "Worldvectorlogo",
+          "file": "google-android.svg",
+          "id": 622,
+          "is_default": true,
+          "label": "android-6",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "android.svg",
+            "original_is_default": true,
+            "original_slug": "android"
+          },
+          "sha256": "ee3139c6405e7cf50b997c2d20ef32afe1fd24b58f806a2da658c27d469442c1",
+          "source": "https://cdn.worldvectorlogo.com/logos/android-6.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/android-6",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 251,
+      "key": "calendar",
+      "title": "Google Calendar",
+      "url": "https://calendar.google.com",
+      "domains": [
+        "calendar.google.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "谷歌",
+        "Google Calendar",
+        "google-calendar",
+        "googlecalendar",
+        "calendar.google.com"
+      ],
+      "aliases": [
+        "google-calendar",
+        "googlecalendar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2818,
+          "collection": "theSVG",
+          "file": "google-calendar.svg",
+          "id": 623,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-calendar.svg",
+            "original_is_default": true,
+            "original_slug": "google-calendar"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2595,
+            "previous_sha256": "dbaae3cdf3f7ac30e25e7e24056f6cc9606b9e9c5f6544a48af2d394eb0568b7",
+            "ratio": 0.2
+          },
+          "sha256": "84f456c3002ceaeba334185f057abdd13eaec4e701dffa7fb7fe4dae5fd67aac",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-calendar/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1536,
+          "collection": "theSVG",
+          "file": "google-calendar-1.svg",
+          "id": 624,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-calendar-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-calendar"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1303,
+            "previous_sha256": "5756b1136cd2141b46ac56d9aef310499533736a883115673868b23185470251",
+            "ratio": 0.2
+          },
+          "sha256": "04a9efbf4b7ca26c8087fe4f3f3fd16e93e8d44733b76e3a2016e16e2e82bd2b",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-calendar/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2009,
+          "collection": "Dashboard Icons",
+          "file": "google-calendar-2.svg",
+          "id": 625,
+          "is_default": false,
+          "label": "google-calendar",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-calendar-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-calendar"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1786,
+            "previous_sha256": "4f33b13a110deb287a0321a271d39d63b45e0eddfc59de18a28c15e4dccd5a7d",
+            "ratio": 0.2
+          },
+          "sha256": "74e410b3ce40ba3cbb3f08545019ee7bb7a0af1390b5ee116801cd46b5f650c0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-calendar.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1536,
+          "collection": "Simple Icons",
+          "file": "google-calendar-3.svg",
+          "id": 626,
+          "is_default": false,
+          "label": "googlecalendar",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-calendar-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-calendar"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1303,
+            "previous_sha256": "2a8cc581e1ed384a635fdc65d844aad58173d7cfe80e149efc7f0bf92e89f3b6",
+            "ratio": 0.2
+          },
+          "sha256": "0c74c979f9cdcd2cfdd64f2664f6557ac51e18b58d36366363660bc0accf2769",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecalendar.svg",
+          "version": 3
+        },
+        {
+          "bytes": 3825,
+          "collection": "Iconify / logos",
+          "file": "google-calendar-4.svg",
+          "id": 627,
+          "is_default": false,
+          "label": "google-calendar",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-calendar-4.svg",
+            "original_is_default": false,
+            "original_slug": "google-calendar"
+          },
+          "sha256": "de1433d7ea32cef55c44f515aafefc88c285fb993e28763eab8b6940c4d8dc1f",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#google-calendar",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 252,
+      "key": "chrome",
+      "title": "Google Chrome",
+      "url": "https://google.com/chrome",
+      "domains": [
+        "google.com/chrome"
+      ],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "全球App补充",
+        "浏览器",
+        "网页浏览",
+        "谷歌",
+        "Google Chrome",
+        "chrome",
+        "googlechrome",
+        "google-chrome",
+        "google.com/chrome"
+      ],
+      "aliases": [
+        "chrome",
+        "googlechrome",
+        "google-chrome"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1475,
+          "collection": "theSVG",
+          "file": "google-chrome.svg",
+          "id": 628,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chrome.svg",
+            "original_is_default": true,
+            "original_slug": "chrome"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1249,
+            "previous_sha256": "f1afe6af24e2db695e6f4a63e7358538d07781d6403206e0c44b830d5034f74a",
+            "ratio": 0.2
+          },
+          "sha256": "2cc534e4e19ceed76c0f9bdff01b87eeb9c9e1a1b774c8a2f6e4395c2bac98e2",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/chrome/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 861,
+          "collection": "theSVG",
+          "file": "google-chrome-1.svg",
+          "id": 629,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chrome-1.svg",
+            "original_is_default": false,
+            "original_slug": "chrome"
+          },
+          "rounded_corners": {
+            "previous_bytes": 628,
+            "previous_sha256": "e7ee42634bfeb5df252285394bbb375af69028c23de553134fc0f2c482e2b797",
+            "ratio": 0.2
+          },
+          "sha256": "dcf68a3bb5eed9815099315c884a963b62b684483824d2bd94c6937bc1823309",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-chrome/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 861,
+          "collection": "theSVG",
+          "file": "google-chrome-2.svg",
+          "id": 630,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chrome-2.svg",
+            "original_is_default": false,
+            "original_slug": "chrome"
+          },
+          "rounded_corners": {
+            "previous_bytes": 628,
+            "previous_sha256": "cd25e963ce929b5aabd0941b3a9b9b382721003c193691f85ec9f11cc4892574",
+            "ratio": 0.2
+          },
+          "sha256": "282c720842fa3e3aa2c9a6fa7027e7e6df010a7edb058cb42a66b65606f67907",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-chrome/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 3226,
+          "collection": "Dashboard Icons",
+          "file": "google-chrome-3.svg",
+          "id": 631,
+          "is_default": false,
+          "label": "chrome",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chrome-3.svg",
+            "original_is_default": false,
+            "original_slug": "chrome"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3006,
+            "previous_sha256": "c56be32ab4cc87ef41257a2a4386c942040674e7c8ffc1c1b2fb546f4e627982",
+            "ratio": 0.2
+          },
+          "sha256": "9242bca9f04405d7757d84e4f9351c03fbcef5513ee4250a9ff22c262cb35453",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chrome.svg",
+          "version": 3
+        },
+        {
+          "bytes": 769,
+          "collection": "Iconify / ri",
+          "file": "google-chrome-4.svg",
+          "id": 632,
+          "is_default": false,
+          "label": "chrome-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "chrome-4.svg",
+            "original_is_default": false,
+            "original_slug": "chrome"
+          },
+          "rounded_corners": {
+            "previous_bytes": 536,
+            "previous_sha256": "c6c8bcd6df6710355af3861215986ab2b222322e715c60a4c3332a39ac933dcb",
+            "ratio": 0.2
+          },
+          "sha256": "c6717408f5519824be3b03851751142436f979cb186f079db709513c90013d16",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#chrome-fill",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 253,
+      "key": "chrome-bookmarks",
+      "title": "Chrome 书签",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "浏览器",
+        "网页浏览",
+        "谷歌",
+        "Chrome 书签",
+        "chrome-bookmarks"
+      ],
+      "aliases": [
+        "chrome-bookmarks"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1159,
+          "collection": "GoTab 公开资源库",
+          "file": "google-chrome-bookmarks.svg",
+          "gotab_id": 261,
+          "id": 633,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "chrome-bookmarks.svg",
+            "original_is_default": true,
+            "original_slug": "chrome-bookmarks"
+          },
+          "rounded_corners": {
+            "previous_bytes": 937,
+            "previous_sha256": "7564a612aae12932deb04c9ba79da4cd58f75a064ec5df08d9e6857c81bce2ca",
+            "ratio": 0.2
+          },
+          "sha256": "5e0562eb56c8e1d89efb96eb7c97ffe0af33eb6666e9c1eb02df0892b58706d6",
+          "source": "https://web.gotab.cn/sourceStore/website/01KJ4GW9N1P6N3Q75RV2RNS9PR.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 254,
+      "key": "chrome-downloads",
+      "title": "Chrome 下载记录",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "浏览器",
+        "网页浏览",
+        "谷歌",
+        "Chrome 下载记录",
+        "chrome-downloads"
+      ],
+      "aliases": [
+        "chrome-downloads"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1196,
+          "collection": "GoTab 公开资源库",
+          "file": "google-chrome-downloads.svg",
+          "gotab_id": 258,
+          "id": 634,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "chrome-downloads.svg",
+            "original_is_default": true,
+            "original_slug": "chrome-downloads"
+          },
+          "rounded_corners": {
+            "previous_bytes": 974,
+            "previous_sha256": "ea48503d59d5cc0bb094dedc54135ee21f12b177e41d890253fa2456b1e2b3cf",
+            "ratio": 0.2
+          },
+          "sha256": "e5c2b463992577ba2cd510965b76cea0f509e2550c3d054efecf4eada6546d3b",
+          "source": "https://web.gotab.cn/sourceStore/website/01KJ4BFEJ7YFT5ESHCFP98ZYW9.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 255,
+      "key": "chrome-extensions",
+      "title": "Chrome 扩展程序",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "浏览器",
+        "网页浏览",
+        "谷歌",
+        "Chrome 扩展程序",
+        "chrome-extensions"
+      ],
+      "aliases": [
+        "chrome-extensions"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1205,
+          "collection": "GoTab 公开资源库",
+          "file": "google-chrome-extensions.svg",
+          "gotab_id": 260,
+          "id": 635,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "chrome-extensions.svg",
+            "original_is_default": true,
+            "original_slug": "chrome-extensions"
+          },
+          "rounded_corners": {
+            "previous_bytes": 983,
+            "previous_sha256": "c38f59f0f69633117a26c3cb2631d4f32da4bb5edd8ee651819e26d264beb5ff",
+            "ratio": 0.2
+          },
+          "sha256": "5d31b2f871edf1a34bc4240f187f379939ca1c56bbd685a01a90a705d6c52ca5",
+          "source": "https://web.gotab.cn/sourceStore/website/01KJ4GNTP90YY90JVTK6X8Q0C1.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 256,
+      "key": "chrome-history",
+      "title": "Chrome 历史记录",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "浏览器",
+        "网页浏览",
+        "谷歌",
+        "Chrome 历史记录",
+        "chrome-history"
+      ],
+      "aliases": [
+        "chrome-history"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1377,
+          "collection": "GoTab 公开资源库",
+          "file": "google-chrome-history.svg",
+          "gotab_id": 259,
+          "id": 636,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "chrome-history.svg",
+            "original_is_default": true,
+            "original_slug": "chrome-history"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1155,
+            "previous_sha256": "66e982be0445a5330fac37a1efc99b947958c5492ffbe5021bb9abad2f838f42",
+            "ratio": 0.2
+          },
+          "sha256": "6dfc07142eb05eab6969789179b01ac233b3a7ea84ecdb37969e176c0a4f0358",
+          "source": "https://web.gotab.cn/sourceStore/website/01KJ4CFHJ53FVKBBD62R4R5M7S.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 257,
+      "key": "chrome-web-store",
+      "title": "Chrome Web Store",
+      "url": "https://chromewebstore.google.com",
+      "domains": [
+        "chromewebstore.google.com"
+      ],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "浏览器",
+        "网页浏览",
+        "谷歌",
+        "Chrome Web Store",
+        "chrome-web-store",
+        "chromewebstore.google.com"
+      ],
+      "aliases": [
+        "chrome-web-store"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8013,
+          "collection": "GoTab 公开资源库",
+          "file": "google-chrome-web-store.svg",
+          "gotab_id": 238,
+          "id": 637,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "chrome-web-store.svg",
+            "original_is_default": true,
+            "original_slug": "chrome-web-store"
+          },
+          "rounded_corners": {
+            "previous_bytes": 7791,
+            "previous_sha256": "68fcad9fe7d62fae4efc827009c16005cf9fa9ac9a06c7d65ccfe8eed6b82e85",
+            "ratio": 0.2
+          },
+          "sha256": "3e4aa66719bd0379048613ef28a174c561ead723bf9c93d85d1e69f9284ad182",
+          "source": "https://web.gotab.cn/sourceStore/website/01KDC5SKEYGMV15WE2SA5A979J.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 258,
+      "key": "cloud",
+      "title": "Google Cloud",
+      "url": "https://cloud.google.com",
+      "domains": [
+        "cloud.google.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "全球App补充",
+        "用户优选",
+        "云计算",
+        "谷歌",
+        "Google Cloud",
+        "google-cloud",
+        "googlecloud",
+        "cloud.google.com"
+      ],
+      "aliases": [
+        "google-cloud",
+        "googlecloud"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1172,
+          "collection": "用户优化 SVG",
+          "file": "google-cloud.svg",
+          "id": 638,
+          "is_default": true,
+          "label": "console.cloud.google.com",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "google-cloud.svg",
+            "original_is_default": true,
+            "original_slug": "google-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 948,
+            "previous_sha256": "df2d96d735586244cbda2264183be7cc9b640c219f819ec5a273582b3534b430",
+            "ratio": 0.2
+          },
+          "sha256": "9b03bc10c3ddd4ecbdc48e4590a455d0cbbc242fb410b382f6b7321d535c39e8",
+          "source": "https://dt-cdn.net/images/google-cloud-platform-signet-5f2c2ccf7d.svg；用户确认网络六边形矢量版，调整色带接点、配色、中心白圆和留白",
+          "version": 0
+        },
+        {
+          "bytes": 1189,
+          "collection": "theSVG",
+          "file": "google-cloud-1.svg",
+          "id": 639,
+          "is_default": false,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-cloud-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 956,
+            "previous_sha256": "1864c3a9837b4cbe06df9821af0f6b84614a4a819d9aebf3fc8775e437f150db",
+            "ratio": 0.2
+          },
+          "sha256": "abb653a96436458e2fbfb21433ef42a860fb3cebc0a411a11faf89783851073d",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/googlecloud/color.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1009,
+          "collection": "theSVG",
+          "file": "google-cloud-2.svg",
+          "id": 640,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-cloud-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 776,
+            "previous_sha256": "f08b03fc23cbfb52689d71552408cc327bef837eb254d473375dbf9e3096d7d0",
+            "ratio": 0.2
+          },
+          "sha256": "d6a7d3e0c660fdce57fd7dd360eb39ff314f23afdb62cbad3c28c644d7ca6194",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-cloud/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1009,
+          "collection": "Dashboard Icons",
+          "file": "google-cloud-3.svg",
+          "id": 641,
+          "is_default": false,
+          "label": "google-cloud",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-cloud-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 776,
+            "previous_sha256": "5ec7a25830c9871b99fa5099a3a8a6d38b652e20da2bd39091bc0a725707923d",
+            "ratio": 0.2
+          },
+          "sha256": "0377b70865c5b629397fb05ee40e8eaee9855890284c2a47ccfd2741e6d7f8e8",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-cloud.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1009,
+          "collection": "Dashboard Icons",
+          "file": "google-cloud-4.svg",
+          "id": 642,
+          "is_default": false,
+          "label": "google-cloud-dark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-cloud-4.svg",
+            "original_is_default": false,
+            "original_slug": "google-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 776,
+            "previous_sha256": "e9efbfa0fd227cf03dd475f1717feb77f422be5f041f82b71ee996b0c6cd9db5",
+            "ratio": 0.2
+          },
+          "sha256": "92b9ca9cd5e02d655cc4dc552bad3b5d772a34fb51494748d9b46d3ac9b4c5c3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-cloud-dark.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 259,
+      "key": "docs",
+      "title": "Google Docs",
+      "url": "https://docs.google.com",
+      "domains": [
+        "docs.google.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "谷歌",
+        "文档",
+        "在线文档",
+        "Google Docs",
+        "google-docs",
+        "googledocs",
+        "docs.google.com"
+      ],
+      "aliases": [
+        "google-docs",
+        "googledocs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 704,
+          "collection": "theSVG",
+          "file": "google-docs.svg",
+          "id": 643,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-docs.svg",
+            "original_is_default": true,
+            "original_slug": "google-docs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 471,
+            "previous_sha256": "9c7b6e4d19e7bdd935f6fb44802a9ea5ff583f0add4fea97d1d2693920f523a6",
+            "ratio": 0.2
+          },
+          "sha256": "31f109b47033e3e446242bb36b5a81c32ecabfdf995c88019452bbb6b8b1b091",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-docs/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 704,
+          "collection": "theSVG",
+          "file": "google-docs-1.svg",
+          "id": 644,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-docs-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-docs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 471,
+            "previous_sha256": "a7970705aadd951889419c605a49d355b66d9fdc9d840d5ae4a11d397108bd40",
+            "ratio": 0.2
+          },
+          "sha256": "710becb1db5246a939ae479448ede3ff84339613ebcf917d096a90f73fbf5d49",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-docs/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3375,
+          "collection": "Dashboard Icons",
+          "file": "google-docs-2.svg",
+          "id": 645,
+          "is_default": false,
+          "label": "google-docs",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-docs-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-docs"
+          },
+          "sha256": "d77c25f582987a8112217408768394cffcaa486a0cf745d35303f4ce3353be49",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-docs.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1104,
+          "collection": "Iconify / arcticons",
+          "file": "google-docs-3.svg",
+          "id": 646,
+          "is_default": false,
+          "label": "google-docs",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-docs-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-docs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 871,
+            "previous_sha256": "f4d7367c94b059020a1d0d8166ab1d5a8c30e8320971f82d2c2242998c098dec",
+            "ratio": 0.2
+          },
+          "sha256": "a940658680e4d5283c67cad209a1af871ac7c1f8ab66bddf811bc8b4ae900e05",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-docs",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 260,
+      "key": "drive",
+      "title": "Google Drive",
+      "url": "https://drive.google.com",
+      "domains": [
+        "drive.google.com"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "全球App补充",
+        "网盘",
+        "云存储",
+        "谷歌",
+        "Google Drive",
+        "google-drive",
+        "googledrive",
+        "drive.google.com"
+      ],
+      "aliases": [
+        "google-drive",
+        "googledrive"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 832,
+          "collection": "theSVG",
+          "file": "google-drive.svg",
+          "id": 647,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-drive.svg",
+            "original_is_default": true,
+            "original_slug": "google-drive"
+          },
+          "sha256": "6076110f7739db754013e9ebea79a9c76e0de1fc38de58523fee27446b056898",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-drive/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 925,
+          "collection": "theSVG",
+          "file": "google-drive-1.svg",
+          "id": 648,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-drive-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-drive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 692,
+            "previous_sha256": "8c620f4bfc84c0b1fe09209e5f2adb846009be6078419f9cda200dc9f2902602",
+            "ratio": 0.2
+          },
+          "sha256": "0585db0b8363883b411c679eac22c7046df60e901b4e9e6b231e2a60d185a0a8",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-drive/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 925,
+          "collection": "Simple Icons",
+          "file": "google-drive-2.svg",
+          "id": 649,
+          "is_default": false,
+          "label": "googledrive",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-drive-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-drive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 692,
+            "previous_sha256": "c0c2650dcbdcd936a7e5b681c144add7b2d00ec0af621effacd30a33a589eb18",
+            "ratio": 0.2
+          },
+          "sha256": "31a8ce6ed81ea22b24b2026d46fe0eb6ab91e20326f3037ae3325fd7551a2e22",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googledrive.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1457,
+          "collection": "Iconify / logos",
+          "file": "google-drive-3.svg",
+          "id": 650,
+          "is_default": false,
+          "label": "google-drive",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-drive-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-drive"
+          },
+          "sha256": "5411f942261daca7fb1b28b0413b246ae01c4f3a1325c6c74d574e6345386068",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#google-drive",
+          "version": 3
+        },
+        {
+          "bytes": 830,
+          "collection": "Iconify / arcticons",
+          "file": "google-drive-4.svg",
+          "id": 651,
+          "is_default": false,
+          "label": "google-drive",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-drive-4.svg",
+            "original_is_default": false,
+            "original_slug": "google-drive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 597,
+            "previous_sha256": "ee7d3f80ad4cdb8d41ba07baeae349fa26ac74f3fcc1685172566676277e3be5",
+            "ratio": 0.2
+          },
+          "sha256": "6808ea56df06101769c1e0e4b2eac8acf75a492344e7c4021fb3d98dee4a62c6",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-drive",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 261,
+      "key": "earth",
+      "title": "Google Earth",
+      "url": "https://earth.google.com",
+      "domains": [
+        "earth.google.com"
+      ],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "出行",
+        "谷歌",
+        "Google Earth",
+        "google-earth",
+        "earth.google.com"
+      ],
+      "aliases": [
+        "google-earth"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3000,
+          "collection": "GoTab 公开资源库",
+          "file": "google-earth.svg",
+          "gotab_id": 212,
+          "id": 652,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "google-earth.svg",
+            "original_is_default": true,
+            "original_slug": "google-earth"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2778,
+            "previous_sha256": "414abbffbcc24c1ceea5b3a3c836ac3b7394e0ca2c1f59c29fb2148d59641f83",
+            "ratio": 0.2
+          },
+          "sha256": "fa56ddd43cca97e24daaaa0f09160d024d47046b1b4f9bc1e5cf4bdcf663bd7f",
+          "source": "https://web.gotab.cn/sourceStore/website/01JXCK14VHJG1H9BVKEXQ2ZBCN.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 262,
+      "key": "gemini",
+      "title": "Gemini",
+      "url": "https://gemini.google.com",
+      "domains": [
+        "gemini.google.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "全球App补充",
+        "用户优选",
+        "人工智能",
+        "谷歌",
+        "AI 对话",
+        "聊天助手",
+        "Gemini",
+        "googlegemini",
+        "google-gemini",
+        "gemini.google.com"
+      ],
+      "aliases": [
+        "gemini",
+        "googlegemini",
+        "google-gemini"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 3041,
+          "collection": "用户优选",
+          "file": "google-gemini.svg",
+          "id": 653,
+          "is_default": true,
+          "label": "gemini",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "gemini.svg",
+            "original_is_default": true,
+            "original_slug": "gemini"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2808,
+            "previous_sha256": "b19ddb7c51715988c4ecde42cd4ee5f378fbe77198ac53642206be5fdf8e89c3",
+            "ratio": 0.2
+          },
+          "sha256": "16fccf97b3cf33550f68a8fd0a4a0ce376f1fdb602165dd8ca7642b87e02ceaf",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 3785,
+          "collection": "theSVG",
+          "file": "google-gemini-1.svg",
+          "id": 654,
+          "is_default": false,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gemini-1.svg",
+            "original_is_default": false,
+            "original_slug": "gemini"
+          },
+          "sha256": "b440fc41857758f38b113fddb22e3eaaf4fe1f122e845918e6890bb17a93aba5",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gemini/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 727,
+          "collection": "theSVG",
+          "file": "google-gemini-2.svg",
+          "id": 655,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gemini-2.svg",
+            "original_is_default": false,
+            "original_slug": "gemini"
+          },
+          "rounded_corners": {
+            "previous_bytes": 494,
+            "previous_sha256": "09fa871ca7419e3c4c5027e945d82ddc17643b42c594bd50bad813255969ffbc",
+            "ratio": 0.2
+          },
+          "sha256": "1d2a203460b5ded20666770191f6e1ee3d67f205f3322e5895f5ffb6c39fecb3",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-gemini/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 978,
+          "collection": "theSVG",
+          "file": "google-gemini-3.svg",
+          "id": 656,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gemini-3.svg",
+            "original_is_default": false,
+            "original_slug": "gemini"
+          },
+          "rounded_corners": {
+            "previous_bytes": 753,
+            "previous_sha256": "494f6266acb3f6c5d57cea4256f3298501b98ba7f0760bf1de4e627aa54c8d58",
+            "ratio": 0.2
+          },
+          "sha256": "6445a0c433f58cf906974d01b38419c3ceba393987b9b91a0e8bbdd652b98373",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gemini-badge/default.svg",
+          "version": 3
+        },
+        {
+          "bytes": 5050,
+          "collection": "theSVG",
+          "file": "google-gemini-4.svg",
+          "id": 657,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gemini-4.svg",
+            "original_is_default": false,
+            "original_slug": "gemini"
+          },
+          "sha256": "e211eaaac014a3c14b8d2542ca51a601be1d74c390ef1f4c9a3db28150d0b421",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gemini/wordmark.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 263,
+      "key": "gmail",
+      "title": "Gmail",
+      "url": "https://mail.google.com",
+      "domains": [
+        "mail.google.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "谷歌",
+        "电子邮件",
+        "邮箱",
+        "Gmail",
+        "mail.google.com"
+      ],
+      "aliases": [
+        "gmail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 816,
+          "collection": "theSVG",
+          "file": "google-gmail.svg",
+          "id": 658,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gmail.svg",
+            "original_is_default": true,
+            "original_slug": "gmail"
+          },
+          "sha256": "b551d4724c65f3de4ddca40d9083e39d1e55567cdef4b06abda7049b6aa52973",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gmail/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 665,
+          "collection": "theSVG",
+          "file": "google-gmail-1.svg",
+          "id": 659,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gmail-1.svg",
+            "original_is_default": false,
+            "original_slug": "gmail"
+          },
+          "rounded_corners": {
+            "previous_bytes": 432,
+            "previous_sha256": "b992b15c7a80a6f67f1d098b0a9a83650d2b3d9e0ce0e24ee4eeed45258cec71",
+            "ratio": 0.2
+          },
+          "sha256": "754876a362a97a28ad00de3917f3f8d89e6a8f77b802603122c6dfdcfd6525b7",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gmail/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 665,
+          "collection": "Simple Icons",
+          "file": "google-gmail-2.svg",
+          "id": 660,
+          "is_default": false,
+          "label": "gmail",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gmail-2.svg",
+            "original_is_default": false,
+            "original_slug": "gmail"
+          },
+          "rounded_corners": {
+            "previous_bytes": 432,
+            "previous_sha256": "6c4f424710ec691b84fec5d089e1483247d0eeb626e080374902cd49aa18e3d2",
+            "ratio": 0.2
+          },
+          "sha256": "cc9711e5f46a748bb609b7da139a2c87121294c5e7984e71c975e6701f3be177",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg",
+          "version": 2
+        },
+        {
+          "bytes": 2482,
+          "collection": "jaywcjlove/logo",
+          "file": "google-gmail-3.svg",
+          "id": 661,
+          "is_default": false,
+          "label": "mark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gmail-3.svg",
+            "original_is_default": false,
+            "original_slug": "gmail"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2262,
+            "previous_sha256": "c627ad9ee9651cfe3146ca382a9ea843087bf908017d161cdc0a49ba32468df7",
+            "ratio": 0.2
+          },
+          "sha256": "d3bdd1998db06efda5c2c04e7956907904350f599f2f255142708f1175cd6006",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/gmail.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 264,
+      "key": "maps",
+      "title": "Google Maps",
+      "url": "https://maps.google.com",
+      "domains": [
+        "maps.google.com"
+      ],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "全球App补充",
+        "出行",
+        "谷歌",
+        "Google Maps",
+        "google-maps",
+        "googlemaps",
+        "maps.google.com"
+      ],
+      "aliases": [
+        "google-maps",
+        "googlemaps"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 862,
+          "collection": "theSVG",
+          "file": "google-maps.svg",
+          "id": 662,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-maps.svg",
+            "original_is_default": true,
+            "original_slug": "google-maps"
+          },
+          "sha256": "fc6826b2356a7343563f1c6be46ae65ceb8ba88238df7ce2829450166b31eb50",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-maps/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1350,
+          "collection": "theSVG",
+          "file": "google-maps-1.svg",
+          "id": 663,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-maps-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-maps"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1117,
+            "previous_sha256": "f99e389959f7cfe9e9c6f70beb7d886bfe4751b056682ab0d8305e1b02bb14c5",
+            "ratio": 0.2
+          },
+          "sha256": "ecb46b95525d2664884ee694febd7e649ae2f9584f3cde7a0b30cfc7a66dcd76",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-maps/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1350,
+          "collection": "Simple Icons",
+          "file": "google-maps-2.svg",
+          "id": 664,
+          "is_default": false,
+          "label": "googlemaps",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-maps-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-maps"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1117,
+            "previous_sha256": "e790b9e7c993bb528d1932e905176c53049b1682e7582e84118254b97d006e4b",
+            "ratio": 0.2
+          },
+          "sha256": "be8598c0e931a7f66a367f664a266a9f5fb365aabde7412b3f43fb2a134b236e",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlemaps.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1364,
+          "collection": "Iconify / arcticons",
+          "file": "google-maps-3.svg",
+          "id": 665,
+          "is_default": false,
+          "label": "google-maps",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-maps-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-maps"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1131,
+            "previous_sha256": "f7ebc7eb06cfc0a1375607b63381b9dc471fdfe0b5d3333f0f207e40e2c078ac",
+            "ratio": 0.2
+          },
+          "sha256": "208603536076cf639ea147b0266c226dc1429b0b34725069c3e56d460dbfeb3e",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-maps",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 265,
+      "key": "meet",
+      "title": "Google Meet",
+      "url": "https://meet.google.com",
+      "domains": [
+        "meet.google.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "谷歌",
+        "视频会议",
+        "远程会议",
+        "Google Meet",
+        "google-meet",
+        "googlemeet",
+        "meet.google.com"
+      ],
+      "aliases": [
+        "google-meet",
+        "googlemeet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1351,
+          "collection": "theSVG",
+          "file": "google-meet.svg",
+          "id": 666,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-meet.svg",
+            "original_is_default": true,
+            "original_slug": "google-meet"
+          },
+          "sha256": "ffaf76089d6652f9c0b28e1e325380e8cf2f4f16ae2c7777b080cf6e3851169a",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-meet/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 942,
+          "collection": "theSVG",
+          "file": "google-meet-1.svg",
+          "id": 667,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-meet-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-meet"
+          },
+          "rounded_corners": {
+            "previous_bytes": 709,
+            "previous_sha256": "a47d8d913bc2085a0067007d6957ff0703499fdf3e26ec2ecdad45fda605a8f0",
+            "ratio": 0.2
+          },
+          "sha256": "4054797de24a3cd7c940d337e056240948507bcddd74dda1476eee02d1d140b0",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-meet/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 942,
+          "collection": "Simple Icons",
+          "file": "google-meet-2.svg",
+          "id": 668,
+          "is_default": false,
+          "label": "googlemeet",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-meet-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-meet"
+          },
+          "rounded_corners": {
+            "previous_bytes": 709,
+            "previous_sha256": "b59d6926f56bb678b749ae07e34524eb7bac3b4eec8024aa0b0151fc056ff8a1",
+            "ratio": 0.2
+          },
+          "sha256": "ef2baf4777bbb5f6f76827140db5817205338f3877cd40175d761d679083d81d",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlemeet.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1991,
+          "collection": "Iconify / logos",
+          "file": "google-meet-3.svg",
+          "id": 669,
+          "is_default": false,
+          "label": "google-meet",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-meet-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-meet"
+          },
+          "sha256": "9da9cf312952ca005bed3f8b9d1589eb3a22faee4bf3ac0ce770aedc3da666f7",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#google-meet",
+          "version": 3
+        },
+        {
+          "bytes": 1089,
+          "collection": "Iconify / arcticons",
+          "file": "google-meet-4.svg",
+          "id": 670,
+          "is_default": false,
+          "label": "google-meet",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-meet-4.svg",
+            "original_is_default": false,
+            "original_slug": "google-meet"
+          },
+          "rounded_corners": {
+            "previous_bytes": 856,
+            "previous_sha256": "f64b59aaaec04436e5413aa4f974c5f459fefe6b23878b281dc9d520e5a14161",
+            "ratio": 0.2
+          },
+          "sha256": "67523416908cc530d1e0a9f3503541cda04f5bc7343486c9a058844c8008597e",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-meet",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 266,
+      "key": "photos",
+      "title": "Google Photos",
+      "url": "https://photos.google.com",
+      "domains": [
+        "photos.google.com"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "全球App补充",
+        "网盘",
+        "云存储",
+        "谷歌",
+        "Google Photos",
+        "google-photos",
+        "googlephotos",
+        "photos.google.com"
+      ],
+      "aliases": [
+        "google-photos",
+        "googlephotos"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1007,
+          "collection": "theSVG",
+          "file": "google-photos.svg",
+          "id": 671,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-photos.svg",
+            "original_is_default": true,
+            "original_slug": "google-photos"
+          },
+          "rounded_corners": {
+            "previous_bytes": 774,
+            "previous_sha256": "f39ee7a5e6af6ab1719604506e84185e7c1a6d09c9f5efc84488c7c9383d4e61",
+            "ratio": 0.2
+          },
+          "sha256": "48676e47554b1be72c47b8ebfd3ef4e4130dd85c731786c214d481b7cb94943f",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-photos/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1007,
+          "collection": "theSVG",
+          "file": "google-photos-1.svg",
+          "id": 672,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-photos-1.svg",
+            "original_is_default": false,
+            "original_slug": "google-photos"
+          },
+          "rounded_corners": {
+            "previous_bytes": 774,
+            "previous_sha256": "70eca64dd73740bd095dc69a461ecd4306c89e0d142eb4877fcaeb4751b3de90",
+            "ratio": 0.2
+          },
+          "sha256": "51051a065363fe6e71e67f92cede9da799d21dd1821dd6f880823b7bbaa1431d",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google-photos/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 952,
+          "collection": "Dashboard Icons",
+          "file": "google-photos-2.svg",
+          "id": 673,
+          "is_default": false,
+          "label": "google-photos",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-photos-2.svg",
+            "original_is_default": false,
+            "original_slug": "google-photos"
+          },
+          "rounded_corners": {
+            "previous_bytes": 729,
+            "previous_sha256": "6d2d6bc8ad52332c661ed8afbd668cb70c78d87fc0d49213a8999d4129182e76",
+            "ratio": 0.2
+          },
+          "sha256": "6445850f13ea8acc7b14acf36a6d64b1178b839bfcd2a5333b2a2416b0e967d7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-photos.svg",
+          "version": 2
+        },
+        {
+          "bytes": 2027,
+          "collection": "Iconify / logos",
+          "file": "google-photos-3.svg",
+          "id": 674,
+          "is_default": false,
+          "label": "google-photos",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-photos-3.svg",
+            "original_is_default": false,
+            "original_slug": "google-photos"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1805,
+            "previous_sha256": "dd41b3fe9f3ec54d5e549302634999c0a5eebfd52780ca2becaf683939a8639f",
+            "ratio": 0.2
+          },
+          "sha256": "2eec5541ef7d2972de3499d485100bee961f25144c7391e265485a30b08520cf",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#google-photos",
+          "version": 3
+        },
+        {
+          "bytes": 967,
+          "collection": "Iconify / arcticons",
+          "file": "google-photos-4.svg",
+          "id": 675,
+          "is_default": false,
+          "label": "google-photos",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-photos-4.svg",
+            "original_is_default": false,
+            "original_slug": "google-photos"
+          },
+          "rounded_corners": {
+            "previous_bytes": 734,
+            "previous_sha256": "aa95c4623d2a217e4ad0ecd708dde8beb2e3dde3be15dc8244cf18402add60b7",
+            "ratio": 0.2
+          },
+          "sha256": "373b024306e7a28ebc1d33bb67661e2bed0fbd9911327b4d91ba44a5d84d4fde",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-photos",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 267,
+      "key": "play",
+      "title": "Google Play",
+      "url": "https://play.google.com",
+      "domains": [
+        "play.google.com"
+      ],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "系统工具",
+        "谷歌",
+        "Google Play",
+        "google-play",
+        "play.google.com"
+      ],
+      "aliases": [
+        "google-play"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1391,
+          "collection": "GoTab 公开资源库",
+          "file": "google-play.svg",
+          "gotab_id": 232,
+          "id": 676,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "google-play.svg",
+            "original_is_default": true,
+            "original_slug": "google-play"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1169,
+            "previous_sha256": "5c5f455702ee1f4bba1c143820bd317af6d2abc4b94ababd1df928015d95f484",
+            "ratio": 0.2
+          },
+          "sha256": "bcdf40e42267281d0cc80054aa3bac3c38fcfa628b49fc5c97ccd2cba3c2873c",
+          "source": "https://web.gotab.cn/sourceStore/website/01K1ASNXTZZK0EBZ34SBAAQP2D.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 268,
+      "key": "scholar",
+      "title": "Google 学术",
+      "url": "https://scholar.google.com",
+      "domains": [
+        "scholar.google.com"
+      ],
+      "description": "",
+      "category": "教育科研",
+      "tags": [
+        "教育",
+        "科研",
+        "谷歌",
+        "Google 学术",
+        "google-scholar",
+        "scholar.google.com"
+      ],
+      "aliases": [
+        "google-scholar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1531,
+          "collection": "GoTab 公开资源库",
+          "file": "google-scholar.svg",
+          "gotab_id": 276,
+          "id": 677,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "google-scholar.svg",
+            "original_is_default": true,
+            "original_slug": "google-scholar"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1309,
+            "previous_sha256": "225b09b41e6cf617d373953022396a0db64a9f44797f70dc86d237114843d3ce",
+            "ratio": 0.2
+          },
+          "sha256": "781e764363edc0326de5e5d4b8c671951331d19ce7dfca13c40e556d54fbe3ea",
+          "source": "https://web.gotab.cn/sourceStore/website/01KPDFP5RYR0R6QMEAFJC8RYJN.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 269,
+      "key": "translate",
+      "title": "Google 翻译",
+      "url": "https://translate.google.com",
+      "domains": [
+        "translate.google.com"
+      ],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "系统工具",
+        "谷歌",
+        "翻译",
+        "语言工具",
+        "Google 翻译",
+        "google-translate",
+        "translate.google.com"
+      ],
+      "aliases": [
+        "google-translate"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3054,
+          "collection": "GoTab 公开资源库",
+          "file": "google-translate.svg",
+          "gotab_id": 54,
+          "id": 678,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "google-translate.svg",
+            "original_is_default": true,
+            "original_slug": "google-translate"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2832,
+            "previous_sha256": "1f186eb96972fad1b1fbb73e4d43f762aa2dc92399494c34096f29cd9f1a54da",
+            "ratio": 0.2
+          },
+          "sha256": "94f4b784e3bc1af5866a59c3b89ba7e56f43f41c11f8304bb075aaf2f174fd5d",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HDT0BBNKC63AFM7HMHQGT4.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 270,
+      "key": "youtube",
+      "title": "YouTube",
+      "url": "https://youtube.com",
+      "domains": [
+        "youtube.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "用户优选",
+        "影音",
+        "谷歌",
+        "视频",
+        "在线视频",
+        "YouTube",
+        "youtube.com"
+      ],
+      "aliases": [
+        "youtube"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 542,
+          "collection": "已有图标",
+          "file": "google-youtube.svg",
+          "id": 679,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "youtube.svg",
+            "original_is_default": true,
+            "original_slug": "youtube"
+          },
+          "sha256": "b3b08077bdc85e84bf69936a9cd3adbbe87467c4ee5544800ddd3cc5b50119d3",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1873,
+          "collection": "GoTab 公开资源库",
+          "file": "google-youtube-1.svg",
+          "gotab_id": 6,
+          "id": 680,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "youtube-1.svg",
+            "original_is_default": false,
+            "original_slug": "youtube"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1651,
+            "previous_sha256": "55846f732a963cbead353228e31cbb60a96884a0ff69ba5f0b5f657742d6133d",
+            "ratio": 0.2
+          },
+          "sha256": "3af4163486d3a776f3650e03564376e6076fc807d15bca95e5a27c0cef134d9c",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GWKEZQ301GNHDPHKVACWYS.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3657,
+          "collection": "已有图标",
+          "file": "google-youtube-2.svg",
+          "id": 681,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-2.svg",
+            "original_is_default": false,
+            "original_slug": "youtube"
+          },
+          "sha256": "438f1f8dc6174d5374678578ac31156c476dd31a1a5b1f052d76bfd7a285e495",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/youtube/wordmark.svg",
+          "version": 2
+        },
+        {
+          "bytes": 785,
+          "collection": "已有图标",
+          "file": "google-youtube-3.svg",
+          "id": 682,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-3.svg",
+            "original_is_default": false,
+            "original_slug": "youtube"
+          },
+          "rounded_corners": {
+            "previous_bytes": 552,
+            "previous_sha256": "ccb5dd6c9af11e8e1545103d2b8bd4cdc73d716a61baa7a574b24ece1634a898",
+            "ratio": 0.2
+          },
+          "sha256": "973fd92c7ad6ea12191741140cad94eab7d6b6c2b875b532adbf9f3154c1185d",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/youtube/mono.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1465,
+          "collection": "已有图标",
+          "file": "google-youtube-4.svg",
+          "id": 683,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-5.svg",
+            "original_is_default": false,
+            "original_slug": "youtube"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1232,
+            "previous_sha256": "4f3e1f3aba1bc479d66c500b29e5aa78136a4c68359a9c55f19bb6ae0c1e8481",
+            "ratio": 0.2
+          },
+          "sha256": "93867bd9e2f5b88da218f07ba3dd83f20773cd64c8deaeaf7dc4ce1ad57cf9b0",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#youtube",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 271,
+      "key": "youtube-music",
+      "title": "YouTube Music",
+      "url": "https://music.youtube.com",
+      "domains": [
+        "music.youtube.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球App补充",
+        "影音",
+        "谷歌",
+        "音乐",
+        "听歌",
+        "YouTube Music",
+        "youtube-music",
+        "youtubemusic",
+        "music.youtube.com"
+      ],
+      "aliases": [
+        "youtube-music",
+        "youtubemusic"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 807,
+          "collection": "theSVG",
+          "file": "google-youtube-music.svg",
+          "id": 684,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-music.svg",
+            "original_is_default": true,
+            "original_slug": "youtube-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 571,
+            "previous_sha256": "5d2a3bc3ae870294df24f77a15404bed18a403ec279e641b25464975aa42ae46",
+            "ratio": 0.2
+          },
+          "sha256": "118c479859df9dd2d3c8b753acde8d98f3a7e356ed5ca912d575c37492354426",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/youtube-music/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 6361,
+          "collection": "theSVG",
+          "file": "google-youtube-music-1.svg",
+          "id": 685,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-music-1.svg",
+            "original_is_default": false,
+            "original_slug": "youtube-music"
+          },
+          "sha256": "c6873ef5e2b960bdd9a4ee726b4783a115baa43b30fb199db39915b503982be5",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/youtube-music/wordmark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 775,
+          "collection": "theSVG",
+          "file": "google-youtube-music-2.svg",
+          "id": 686,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-music-2.svg",
+            "original_is_default": false,
+            "original_slug": "youtube-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 542,
+            "previous_sha256": "86a2471a5f04e8656ace05f469c5fb3989f6bd067e769ae2b5cfecfec24becc1",
+            "ratio": 0.2
+          },
+          "sha256": "9d71f3c70c2a6212d487b00750bf449cdf6a059f8a39c6a3b5faab132b5f6747",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/youtube-music/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 655,
+          "collection": "Dashboard Icons",
+          "file": "google-youtube-music-3.svg",
+          "id": 687,
+          "is_default": false,
+          "label": "youtube-music",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-music-3.svg",
+            "original_is_default": false,
+            "original_slug": "youtube-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 433,
+            "previous_sha256": "e4d5f2989714f966129c95c7bb5a56134c18bc3c7e8abbbc3466c7f0f7699fdf",
+            "ratio": 0.2
+          },
+          "sha256": "1b35e0d1ec80dd6b35a8a664a4f61486ae1590cf4be29655230107b35399a455",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/youtube-music.svg",
+          "version": 3
+        },
+        {
+          "bytes": 775,
+          "collection": "Simple Icons",
+          "file": "google-youtube-music-4.svg",
+          "id": 688,
+          "is_default": false,
+          "label": "youtubemusic",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-music-4.svg",
+            "original_is_default": false,
+            "original_slug": "youtube-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 542,
+            "previous_sha256": "9a4f415aa55db3454966354248898aff9697f4b67f9511a91dbe3241e361accf",
+            "ratio": 0.2
+          },
+          "sha256": "537306e8b685ea01ca1c3e18c8ee18acc49e0738c99446b0b8e1efce879c92d0",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtubemusic.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "title": "Google Keep",
+      "url": "https://keep.google.com/",
+      "domains": [
+        "keep.google.com"
+      ],
+      "description": "Google 笔记与便签应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌Keep",
+        "谷歌笔记",
+        "便签",
+        "Google Keep"
+      ],
+      "aliases": [
+        "google-keep",
+        "谷歌Keep",
+        "谷歌笔记",
+        "便签",
+        "Note Taking"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-keep.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "d33fa664096dda5c1095ad7b7e74b534c3269cab460c5474b73c5ec485bdae17",
+          "bytes": 499,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-keep.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-keep.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "keep"
+    },
+    {
+      "title": "Google Sheets",
+      "url": "https://sheets.google.com/",
+      "domains": [
+        "sheets.google.com"
+      ],
+      "description": "Google 在线电子表格应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌表格",
+        "电子表格",
+        "Google Sheets"
+      ],
+      "aliases": [
+        "google-sheets",
+        "谷歌表格",
+        "电子表格"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-sheets.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "d5b7a4ac78701b87069182b5780d5c966ffcb7715119618ffc215ae429b46898",
+          "bytes": 3663,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-sheets.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-sheets.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "sheets"
+    },
+    {
+      "title": "Google Slides",
+      "url": "https://slides.google.com/",
+      "domains": [
+        "slides.google.com"
+      ],
+      "description": "Google 在线演示文稿应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌幻灯片",
+        "演示文稿",
+        "Google Slides"
+      ],
+      "aliases": [
+        "google-slides",
+        "谷歌幻灯片",
+        "演示文稿"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-slides.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "7dd0da473d39b45005d7d6a10a257252f4e78c63d54561629664e08c954c92b6",
+          "bytes": 3619,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-slides.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-slides.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "slides"
+    },
+    {
+      "title": "Google Forms",
+      "url": "https://forms.google.com/",
+      "domains": [
+        "forms.google.com"
+      ],
+      "description": "Google 在线表单与问卷服务。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌表单",
+        "问卷",
+        "Google Forms"
+      ],
+      "aliases": [
+        "google-forms",
+        "谷歌表单",
+        "问卷"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-forms.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "2b0f4a8d66cceb4773aadd0e3e0e71e718b811566b365c17aa1222a130e54d91",
+          "bytes": 3581,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-forms.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-forms.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "forms"
+    },
+    {
+      "title": "Google Contacts",
+      "url": "https://contacts.google.com/",
+      "domains": [
+        "contacts.google.com"
+      ],
+      "description": "Google 联系人管理应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌通讯录",
+        "联系人",
+        "Google Contacts"
+      ],
+      "aliases": [
+        "google-contacts",
+        "谷歌通讯录",
+        "联系人",
+        "address-book",
+        "people-management"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-contacts.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "3bac4e978450be6eb149fb106998144e4f1ff3a38466a8ee380bd50af130ffbb",
+          "bytes": 892,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-contacts.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-contacts.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "contacts"
+    },
+    {
+      "title": "Google Tasks",
+      "url": "https://tasks.google.com/",
+      "domains": [
+        "tasks.google.com"
+      ],
+      "description": "Google 待办与任务应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌任务",
+        "待办清单",
+        "Google Tasks"
+      ],
+      "aliases": [
+        "google-tasks",
+        "谷歌任务",
+        "待办清单"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-tasks.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "071697599cf1bfeac603e14dd3fa4f946209d68a01946805b2ec8c3258f83e4a",
+          "bytes": 922,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-tasks.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg-cleaned",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-tasks.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "tasks"
+    },
+    {
+      "title": "Google Classroom",
+      "url": "https://classroom.google.com/",
+      "domains": [
+        "classroom.google.com"
+      ],
+      "description": "Google 在线教学与课堂管理应用。",
+      "category": "教育科研",
+      "tags": [
+        "谷歌课堂",
+        "在线教学",
+        "Google Classroom"
+      ],
+      "aliases": [
+        "google-classroom",
+        "谷歌课堂",
+        "在线教学"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-classroom.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "ae5ad27810b5536679148f562d20b28aff903fb5a2158f6b133ffc73f42ac652",
+          "bytes": 2274,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-classroom.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-classroom.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "classroom"
+    },
+    {
+      "title": "Google News",
+      "url": "https://news.google.com/",
+      "domains": [
+        "news.google.com"
+      ],
+      "description": "Google 新闻聚合服务。",
+      "category": "新闻资讯",
+      "tags": [
+        "谷歌新闻",
+        "新闻聚合",
+        "Google News"
+      ],
+      "aliases": [
+        "google-news",
+        "谷歌新闻",
+        "新闻聚合",
+        "news-feed",
+        "current-events"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-news.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "b5b1f2f5adc8d10fce5de6c2e6163354c7914b1a2fc469ab379fbafd374ae1c2",
+          "bytes": 4156,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-news.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-news.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "news"
+    },
+    {
+      "title": "Google Home",
+      "url": "https://home.google.com/",
+      "domains": [
+        "home.google.com"
+      ],
+      "description": "Google 智能家居应用。",
+      "category": "生活服务",
+      "tags": [
+        "谷歌Home",
+        "智能家居",
+        "Google Home"
+      ],
+      "aliases": [
+        "google-home",
+        "谷歌Home",
+        "智能家居",
+        "smart-speaker",
+        "voice-assistant-device"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-home.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "543bf4494cc47691e61cdbd2929e289182a18b91bc321bc4928f2f4d41f21986",
+          "bytes": 1226,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-home.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-home.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "home"
+    },
+    {
+      "title": "Google Messages",
+      "url": "https://messages.google.com/",
+      "domains": [
+        "messages.google.com"
+      ],
+      "description": "Google 信息与短信应用。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌信息",
+        "短信",
+        "RCS",
+        "Google Messages"
+      ],
+      "aliases": [
+        "google-messages",
+        "谷歌信息",
+        "短信",
+        "RCS"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-messages.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "1664f362dbbb47659c7db8d6f51afa7e9d51a91895af62f10a9cdd10eff45a15",
+          "bytes": 688,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-messages.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-messages.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "messages"
+    },
+    {
+      "title": "Google Chat",
+      "url": "https://chat.google.com/",
+      "domains": [
+        "chat.google.com"
+      ],
+      "description": "Google 即时通讯应用。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌Chat",
+        "即时通讯",
+        "团队沟通",
+        "Google Chat"
+      ],
+      "aliases": [
+        "google-chat",
+        "谷歌Chat",
+        "即时通讯",
+        "团队沟通"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-chat.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "249b0127108712a1aa70b0c84dd3d4bb824544194693431617a770a3989df2f3",
+          "bytes": 549,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-chat.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-chat.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "chat"
+    },
+    {
+      "title": "Google Voice",
+      "url": "https://voice.google.com/",
+      "domains": [
+        "voice.google.com"
+      ],
+      "description": "Google 网络电话服务。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌语音",
+        "网络电话",
+        "Google Voice"
+      ],
+      "aliases": [
+        "google-voice",
+        "谷歌语音",
+        "网络电话"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-voice.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "fd5d1a7571bd40cd773551cbb39259615b12d6abf1d2357204e4f85a1e80ffc8",
+          "bytes": 942,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-voice.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-voice.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "voice"
+    },
+    {
+      "title": "Google Wallet",
+      "url": "https://wallet.google/",
+      "domains": [
+        "wallet.google"
+      ],
+      "description": "Google 数字钱包应用。",
+      "category": "金融支付",
+      "tags": [
+        "谷歌钱包",
+        "数字钱包",
+        "Google Wallet"
+      ],
+      "aliases": [
+        "google-wallet",
+        "谷歌钱包",
+        "数字钱包",
+        "mobile-wallet",
+        "payment-app"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-wallet.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "e55a105345f2183b9aa70a00608f85b2e58c5c13fe28a8bbe849e69a431e9632",
+          "bytes": 986,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-wallet.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-wallet.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "wallet"
+    },
+    {
+      "title": "Google One",
+      "url": "https://one.google.com/",
+      "domains": [
+        "one.google.com"
+      ],
+      "description": "Google 云存储订阅服务。",
+      "category": "网盘存储",
+      "tags": [
+        "谷歌One",
+        "云存储",
+        "Google One"
+      ],
+      "aliases": [
+        "google-one",
+        "谷歌One",
+        "云存储"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-one.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "913e54467d24066de0bbe34f6a00969223aba70e736316e1539c7f2ea3176afd",
+          "bytes": 1647,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-one.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-one.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "one"
+    },
+    {
+      "title": "Google Colab",
+      "url": "https://colab.research.google.com/",
+      "domains": [
+        "colab.research.google.com"
+      ],
+      "description": "Google 在线 Notebook 环境。",
+      "category": "开发编程",
+      "tags": [
+        "Colaboratory",
+        "Notebook",
+        "Python",
+        "Google Colab"
+      ],
+      "aliases": [
+        "google-colab",
+        "Colaboratory",
+        "Notebook",
+        "Python"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-colab.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "33cef80bd8b842e9fce4456c2915ad4dcd43e309f5622e3963ace4a1d59ac6de",
+          "bytes": 914,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-colab.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-colab.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "colab"
+    },
+    {
+      "title": "Google Analytics",
+      "url": "https://analytics.google.com/",
+      "domains": [
+        "analytics.google.com"
+      ],
+      "description": "Google 网站与应用分析服务。",
+      "category": "开发编程",
+      "tags": [
+        "谷歌分析",
+        "GA",
+        "网站统计",
+        "Google Analytics"
+      ],
+      "aliases": [
+        "google-analytics",
+        "谷歌分析",
+        "GA",
+        "网站统计",
+        "website-analytics",
+        "tracking-tool"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-analytics.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "b37c65dc4ad2299368aadf8addfe6107bddf115388a2461fe5127e96d0e9910f",
+          "bytes": 679,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-analytics.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-analytics.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "analytics"
+    },
+    {
+      "title": "Google Search Console",
+      "url": "https://search.google.com/search-console/about",
+      "domains": [
+        "search.google.com"
+      ],
+      "description": "Google 网站搜索表现管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "站长工具",
+        "SEO",
+        "谷歌搜索控制台",
+        "Google Search Console"
+      ],
+      "aliases": [
+        "google-search-console",
+        "站长工具",
+        "SEO",
+        "谷歌搜索控制台",
+        "seo-analytics",
+        "website-performance"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-search-console.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "9850939748e70475b0a77664e1fe895f03bb4d8bc026042ae7d67dd48c44efde",
+          "bytes": 1021,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-search-console.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-search-console.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "search-console"
+    },
+    {
+      "title": "Jules",
+      "url": "https://jules.google/",
+      "domains": [
+        "jules.google"
+      ],
+      "description": "Google 编程代理服务。",
+      "category": "AI",
+      "tags": [
+        "Google Jules",
+        "代码助手",
+        "编程助手",
+        "Jules"
+      ],
+      "aliases": [
+        "google-jules",
+        "Google Jules",
+        "代码助手",
+        "编程助手",
+        "jules"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-jules.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "0915a12d99c8b2aa8b6668032730ad4b36ec057679a4f7fd1f2b7d0e74d1a17c",
+          "bytes": 1640,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-jules.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-jules.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "jules"
+    },
+    {
+      "title": "Google Play Books",
+      "url": "https://play.google.com/books",
+      "domains": [
+        "play.google.com"
+      ],
+      "description": "Google 电子书与有声书应用。",
+      "category": "阅读",
+      "tags": [
+        "谷歌图书",
+        "电子书",
+        "Google Play Books"
+      ],
+      "aliases": [
+        "google-play-books",
+        "谷歌图书",
+        "电子书"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-play-books.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "1e3e98baa5bbd4f78aee200a3c9c296f0953fa7f52106d990d67eeb32317fafd",
+          "bytes": 1273,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-play-books.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "google-play-books.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "play-books"
+    },
+    {
+      "title": "Blogger",
+      "url": "https://www.blogger.com/",
+      "domains": [
+        "www.blogger.com"
+      ],
+      "description": "Google 博客发布服务。",
+      "category": "开发编程",
+      "tags": [
+        "博客",
+        "谷歌博客",
+        "Blogspot",
+        "Blogger"
+      ],
+      "aliases": [
+        "google-blogger",
+        "blogger",
+        "博客",
+        "谷歌博客",
+        "Blogspot"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "google-blogger.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "d6dde902422bac2c6710785a3a47aec74cc2baabe30e82efe0a11e1c5a7768af",
+          "bytes": 1834,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blogger.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "blogger.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "blogger"
+    }
+  ]
+}

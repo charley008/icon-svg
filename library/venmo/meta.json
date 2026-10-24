@@ -1,0 +1,95 @@
+{
+  "collection_id": 406,
+  "schema_version": 1,
+  "id": 558,
+  "title": "Venmo",
+  "url": "https://venmo.com",
+  "domains": [
+    "venmo.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球App补充",
+    "金融",
+    "Venmo",
+    "venmo.com"
+  ],
+  "aliases": [
+    "venmo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1815,
+      "collection": "theSVG",
+      "file": "venmo.svg",
+      "id": 1395,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "venmo.svg",
+        "original_is_default": true,
+        "original_slug": "venmo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1582,
+        "previous_sha256": "d9206b5fea995d8864b679b9a620d9c7233380f916cf322273a6101005a590cc",
+        "ratio": 0.2
+      },
+      "sha256": "fbf0884ff06b9f4f1c16098d3d2f2a8384c4039f75648a929426eab2562055b7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/venmo/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1815,
+      "collection": "theSVG",
+      "file": "venmo-1.svg",
+      "id": 1396,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "venmo-1.svg",
+        "original_is_default": false,
+        "original_slug": "venmo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1582,
+        "previous_sha256": "37aa0bd44a4e852eccb77d1c36194863bfd9c71aa0ee0253e6f7e4f43e267549",
+        "ratio": 0.2
+      },
+      "sha256": "02c109b302fb5d504f9f6414a76eacf1de180df5cf15721e55aec60d86f41401",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/venmo/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 639,
+      "collection": "Iconify / arcticons",
+      "file": "venmo-2.svg",
+      "id": 1397,
+      "is_default": false,
+      "label": "venmo",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "venmo-2.svg",
+        "original_is_default": false,
+        "original_slug": "venmo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 406,
+        "previous_sha256": "5d2036504a122f5055ffd178799a2f163f81d364e8ec6b3d361cc5aed31b1de6",
+        "ratio": 0.2
+      },
+      "sha256": "0fcc16b8cf44e5ee8ec4f65e991121bd4b141c7bd91428d06e6f87d545e0b003",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#venmo",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

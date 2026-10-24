@@ -1,0 +1,54 @@
+{
+  "collection_id": 304,
+  "schema_version": 1,
+  "id": 430,
+  "title": "太平洋电脑网",
+  "url": "https://pconline.com.cn",
+  "domains": [
+    "pconline.com.cn"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "用户优选",
+    "自用",
+    "新闻",
+    "资讯",
+    "太平洋电脑网",
+    "pconline",
+    "pconline.com.cn"
+  ],
+  "aliases": [
+    "pconline"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 22524,
+      "collection": "用户优化 SVG",
+      "file": "pconline.svg",
+      "id": 1092,
+      "is_default": true,
+      "label": "pconline",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "pconline.svg",
+        "original_is_default": true,
+        "original_slug": "pconline"
+      },
+      "rounded_corners": {
+        "previous_bytes": 22302,
+        "previous_sha256": "147ee71ad15a8c71d790bb6952fe110beef30bf054f182df3fc290ac8e1db725",
+        "ratio": 0.2
+      },
+      "sha256": "75de69685637171f2a68e47479ba43c04d1bbf6f2362ad6266cc782a6170596b",
+      "source": "用户确认重绘：太平洋电脑网蓝底白标版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

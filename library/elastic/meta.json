@@ -1,0 +1,126 @@
+{
+  "title": "Elastic",
+  "url": "https://www.elastic.co/",
+  "domains": [
+    "www.elastic.co"
+  ],
+  "description": "搜索与数据分析软件厂商。",
+  "category": "开发编程",
+  "tags": [
+    "搜索",
+    "Elasticsearch",
+    "日志分析",
+    "Elastic"
+  ],
+  "aliases": [
+    "elastic",
+    "搜索",
+    "Elasticsearch",
+    "日志分析"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "elastic.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "0c18118afe8be15996dab82206310810c63277fabc9524cfb561f99b38930485",
+      "bytes": 1749,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "elastic.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": [
+    {
+      "title": "Kibana",
+      "url": "https://www.elastic.co/kibana",
+      "domains": [
+        "www.elastic.co"
+      ],
+      "description": "Elastic 数据分析与可视化应用。",
+      "category": "开发编程",
+      "tags": [
+        "数据可视化",
+        "日志分析",
+        "Kibana"
+      ],
+      "aliases": [
+        "elastic-kibana",
+        "数据可视化",
+        "日志分析",
+        "dashboarding-tool",
+        "log-analyzer"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "elastic-kibana.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "5103b067e60d29e02938d391c6c429d37ab5bfefd4beef9fb2965623066d7558",
+          "bytes": 439,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-kibana.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "elastic-kibana.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "kibana"
+    },
+    {
+      "title": "Logstash",
+      "url": "https://www.elastic.co/logstash",
+      "domains": [
+        "www.elastic.co"
+      ],
+      "description": "Elastic 数据采集与处理工具。",
+      "category": "开发编程",
+      "tags": [
+        "日志",
+        "数据处理",
+        "Logstash"
+      ],
+      "aliases": [
+        "elastic-logstash",
+        "日志",
+        "数据处理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "elastic-logstash.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "f841c8c8b4116db7a910cbfd2d01196a055326e4b260fd6b6eb2dff9bcdd842a",
+          "bytes": 392,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-logstash.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "elastic-logstash.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "logstash"
+    }
+  ]
+}

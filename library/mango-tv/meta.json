@@ -1,0 +1,81 @@
+{
+  "collection_id": 247,
+  "schema_version": 1,
+  "id": 347,
+  "title": "芒果TV",
+  "url": "https://mgtv.com",
+  "domains": [
+    "mgtv.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "影音",
+    "芒果TV",
+    "mango-tv",
+    "mgtv",
+    "hunantv",
+    "mgtv.com"
+  ],
+  "aliases": [
+    "mango-tv",
+    "mgtv",
+    "hunantv"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2048,
+      "collection": "GoTab 公开资源库",
+      "file": "mango-tv.svg",
+      "gotab_id": 8,
+      "id": 855,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "mango-tv.svg",
+        "original_is_default": true,
+        "original_slug": "mango-tv"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1826,
+        "previous_sha256": "70609d078f9c80d118c0cb83f8f3d702a06f3cea5ace826bdd3250e92c9e6621",
+        "ratio": 0.2
+      },
+      "sha256": "3bfc87bac6c12a81d548196c98a5dae900520b356da6848d720e1ed8e0eb3697",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8GZMY95YYZAZ80223243NBV.svg",
+      "version": 0
+    },
+    {
+      "bytes": 66606,
+      "collection": "已有图标",
+      "file": "mango-tv-1.svg",
+      "id": 856,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "mango-tv-2.svg",
+        "original_is_default": false,
+        "original_slug": "mango-tv"
+      },
+      "rounded_corners": {
+        "previous_bytes": 66383,
+        "previous_sha256": "67e5c6a23c13f57fb82937663b2fc258eeb58425e62422965832173c7adbc86f",
+        "ratio": 0.2
+      },
+      "sha256": "3cea10b9f4b80bb2f0b676fe7f03bc47549e9d0eeb9d21c3e0c5663ced433e4b",
+      "source": "原图描摹",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

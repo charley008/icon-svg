@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="256" height="256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="512" height="512" rx="102.4"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#FFD21B" />
+      <stop offset="1" stop-color="#F0A900" />
+    </linearGradient>
+    <linearGradient id="cloud" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#4D9AE8" />
+      <stop offset="1" stop-color="#2671B9" />
+    </linearGradient>
+  </defs>
+
+  
+  <rect width="512" height="512" rx="96" fill="#38210B" />
+
+  
+  <path d="M111 139c-17 0-29-12-29-27 0-14 11-25 25-27 5-22 23-37 45-37 23 0 42 17 46 39 16 2 28 15 28 31 0 17-14 31-32 31H111z" fill="url(#cloud)" />
+
+  
+  <g font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="112">
+    <text x="82" y="263" fill="#101A38">B</text>
+    <text x="179" y="263" fill="url(#gold)" letter-spacing="-5">WG</text>
+  </g>
+
+  
+  <rect x="95" y="278" width="322" height="14" rx="2" fill="url(#gold)" />
+
+  
+  <text x="256" y="354" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5" fill="url(#gold)">Bandwagon</text>
+
+  
+  <text x="256" y="414" text-anchor="middle" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="1" fill="#D8D5D0">HOST</text>
+</g></svg>

@@ -1,0 +1,138 @@
+{
+  "collection_id": 371,
+  "schema_version": 1,
+  "id": 504,
+  "title": "Stripe",
+  "url": "https://stripe.com",
+  "domains": [
+    "stripe.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球Top100",
+    "金融",
+    "支付",
+    "收款",
+    "Stripe",
+    "stripe.com"
+  ],
+  "aliases": [
+    "stripe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1710,
+      "collection": "theSVG",
+      "file": "stripe.svg",
+      "id": 1272,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe.svg",
+        "original_is_default": true,
+        "original_slug": "stripe"
+      },
+      "sha256": "1a836c0b73c9aea164fe91eff27f44b4b99a96ada01452414b35c946cdb9525c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stripe/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1774,
+      "collection": "theSVG",
+      "file": "stripe-1.svg",
+      "id": 1273,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe-1.svg",
+        "original_is_default": false,
+        "original_slug": "stripe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1549,
+        "previous_sha256": "44fc1c6e38d1f691f1ab2a915168ce6e2ddd77d37b0a274ddc0c9a3f07d04975",
+        "ratio": 0.2
+      },
+      "sha256": "c939db031439247e678894d99c774a24072d17cb77adaf1fc87bf2c9f051a2d5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stripe-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 914,
+      "collection": "theSVG",
+      "file": "stripe-2.svg",
+      "id": 1274,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe-2.svg",
+        "original_is_default": false,
+        "original_slug": "stripe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 681,
+        "previous_sha256": "708ab101f4c4fc809e73a2ee09de32239e2d7460df3e0680f5f0324fabd1d1de",
+        "ratio": 0.2
+      },
+      "sha256": "ec62a36f6de077b659771cab374058bb77060cbbb3d455641e2b2da84fd84194",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stripe/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 505,
+      "collection": "SVGL",
+      "file": "stripe-3.svg",
+      "id": 1275,
+      "is_default": false,
+      "label": "stripe",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe-3.svg",
+        "original_is_default": false,
+        "original_slug": "stripe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 265,
+        "previous_sha256": "82d31898e3b235a4c48db17849d035389dc47884adf7c7eb7ed8044e9c019262",
+        "ratio": 0.2
+      },
+      "sha256": "605bf2309beba38c938b3ee60f2f7ca525281eda505fa75f422be215472e63d1",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/stripe.svg",
+      "version": 3
+    },
+    {
+      "bytes": 914,
+      "collection": "Dashboard Icons",
+      "file": "stripe-4.svg",
+      "id": 1276,
+      "is_default": false,
+      "label": "stripe",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe-4.svg",
+        "original_is_default": false,
+        "original_slug": "stripe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 681,
+        "previous_sha256": "cfe59b1b96044f16e45e5ae6bcc54a1ebd89d006798666d7c4e650f3b474d6a0",
+        "ratio": 0.2
+      },
+      "sha256": "27306d0e28f50488a2c21e1c9b81e171811fa093bf64bc96d234e82f1b7deea6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stripe.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

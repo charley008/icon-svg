@@ -1,0 +1,78 @@
+{
+  "collection_id": 486,
+  "schema_version": 1,
+  "id": 651,
+  "title": "Plex",
+  "url": "https://www.plex.tv/",
+  "domains": [
+    "plex.tv"
+  ],
+  "description": "Plex 图标合集。",
+  "category": "影音娱乐",
+  "tags": [
+    "Plex",
+    "plex",
+    "媒体服务器",
+    "影音库",
+    "流媒体"
+  ],
+  "aliases": [
+    "plex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1980,
+      "collection": "用户补充 SVG",
+      "file": "plex.svg",
+      "id": 1603,
+      "is_default": true,
+      "label": "plex-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "plex-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/plex-3.svg"
+      },
+      "sha256": "262e39aa2f2e32663b0faaa811813631ac5495e624e1977e7843ca73fa1dfe10",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/plex-3.svg",
+      "version": 0
+    },
+    {
+      "bytes": 414,
+      "collection": "用户补充 SVG",
+      "file": "plex-1.svg",
+      "id": 1604,
+      "is_default": false,
+      "label": "plex-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "plex-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/plex-1.svg"
+      },
+      "sha256": "9417ad93d5c6ef0734d4748d8f57c7eee34f5b542687532ceabe8bc266e327ed",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/plex-1.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1131,
+      "collection": "用户补充 SVG",
+      "file": "plex-2.svg",
+      "id": 1605,
+      "is_default": false,
+      "label": "plex-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "plex-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/plex-2.svg"
+      },
+      "sha256": "66928250c74dca4a76b7b9c8de2a58af02acd9e8e733d96b57414e994c2001d1",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/plex-2.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

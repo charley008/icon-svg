@@ -1,0 +1,58 @@
+{
+  "collection_id": 33,
+  "schema_version": 1,
+  "id": 66,
+  "title": "蚂蚁财富",
+  "url": "https://antfortune.com",
+  "domains": [
+    "antfortune.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "蚂蚁财富",
+    "ant-fortune",
+    "antfortune.com"
+  ],
+  "aliases": [
+    "ant-fortune"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_track": "https://apps.apple.com/cn/app/%E8%9A%82%E8%9A%81%E8%B4%A2%E5%AF%8C-%E5%9F%BA%E9%87%91-%E8%82%A1%E7%A5%A8/id1025628019?uo=4",
+      "bytes": 897,
+      "collection": "轻量矢量替换",
+      "file": "ant-fortune.svg",
+      "id": 165,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "ant-fortune.svg",
+        "original_is_default": true,
+        "original_slug": "ant-fortune"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "7542894a30e839ff3413d6be914b61806baca702bc69a6b30cb3d896d093f871",
+        "previous_bytes": 274232,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c2/74/edc274d7-b21d-bdcb-700c-8a002cc3885d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c2/74/edc274d7-b21d-bdcb-700c-8a002cc3885d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "09bb35d906472a14a926186312b6295ad4a489cd241c8a5e971739f1f9e90ec1",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c2/74/edc274d7-b21d-bdcb-700c-8a002cc3885d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

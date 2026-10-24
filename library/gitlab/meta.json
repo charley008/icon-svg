@@ -1,0 +1,139 @@
+{
+  "collection_id": 172,
+  "schema_version": 1,
+  "id": 243,
+  "title": "GitLab",
+  "url": "https://gitlab.com",
+  "domains": [
+    "gitlab.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "全球App补充",
+    "开发",
+    "编程",
+    "代码托管",
+    "Git",
+    "GitLab",
+    "gitlab.com"
+  ],
+  "aliases": [
+    "gitlab"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1162,
+      "collection": "theSVG",
+      "file": "gitlab.svg",
+      "id": 604,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitlab.svg",
+        "original_is_default": true,
+        "original_slug": "gitlab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 943,
+        "previous_sha256": "90dbb721fa4a496018328856ae65799c4f8d8a95f18295f775f93f56e2b9fa09",
+        "ratio": 0.2
+      },
+      "sha256": "c79097967aaf0fb0fa6f030272d2da41fe039e809656a9980e066e21dbc07c5a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitlab/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 880,
+      "collection": "theSVG",
+      "file": "gitlab-1.svg",
+      "id": 605,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitlab-1.svg",
+        "original_is_default": false,
+        "original_slug": "gitlab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 655,
+        "previous_sha256": "0b2a2f2dd857f83513d089ac44392549bc85ce964caa580e1e0ab9cbea5aa44d",
+        "ratio": 0.2
+      },
+      "sha256": "3c7f38c2e26ff6f9e30da83cc710751fe2197af4908e179e6b93592fffa19e56",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitlab-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2867,
+      "collection": "theSVG",
+      "file": "gitlab-2.svg",
+      "id": 606,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitlab-2.svg",
+        "original_is_default": false,
+        "original_slug": "gitlab"
+      },
+      "sha256": "41fafcdbf342d253b2bf09b69545b890b562dd39330161093718b23668ffccba",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitlab/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 899,
+      "collection": "theSVG",
+      "file": "gitlab-3.svg",
+      "id": 607,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitlab-3.svg",
+        "original_is_default": false,
+        "original_slug": "gitlab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 666,
+        "previous_sha256": "0dacb9dd0c985939527cd430c168b3c51120ad10c171b9e93b6945201b391954",
+        "ratio": 0.2
+      },
+      "sha256": "1681b69f1cf47e1fe9219420c97bf0423e01f4002b593784a225f0123a8eef44",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gitlab/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 899,
+      "collection": "Simple Icons",
+      "file": "gitlab-4.svg",
+      "id": 608,
+      "is_default": false,
+      "label": "gitlab",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitlab-4.svg",
+        "original_is_default": false,
+        "original_slug": "gitlab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 666,
+        "previous_sha256": "09d52314820d11bd2dbc6884df07d18ddde7deb52af804d344828730f1f415aa",
+        "ratio": 0.2
+      },
+      "sha256": "50e527de6f30f366810e0ce4fcebe8c12a846ca7ae68129ce1b699fcf1964cfc",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitlab.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 272,
+  "schema_version": 1,
+  "id": 390,
+  "title": "网商银行",
+  "url": "https://b.mybank.cn",
+  "domains": [
+    "b.mybank.cn"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "金融",
+    "网商银行",
+    "mybank",
+    "b.mybank.cn"
+  ],
+  "aliases": [
+    "mybank"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1563,
+      "collection": "GoTab 公开资源库",
+      "file": "mybank.svg",
+      "gotab_id": 277,
+      "id": 981,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "mybank.svg",
+        "original_is_default": true,
+        "original_slug": "mybank"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1341,
+        "previous_sha256": "49da50f01ed4d6c7b2b161c5b0b8d02e5a64cb26ffc5d0bf5820a24f4d3d1231",
+        "ratio": 0.2
+      },
+      "sha256": "49d8879fc301a7c5ee80ece2b3ad8996573ee77a1ace13d3b06fea80c96df259",
+      "source": "https://web.gotab.cn/sourceStore/website/01KQ2FCEP3K1G7NVPEEAF9MN1Q.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,57 @@
+{
+  "collection_id": 211,
+  "schema_version": 1,
+  "id": 308,
+  "title": "IndiaTimes",
+  "url": "https://indiatimes.com",
+  "domains": [
+    "indiatimes.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "全球Top100",
+    "新闻",
+    "资讯",
+    "IndiaTimes",
+    "indiatimes.com"
+  ],
+  "aliases": [
+    "indiatimes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 470,
+      "collection": "轻量矢量替换",
+      "file": "indiatimes.svg",
+      "id": 764,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "indiatimes.svg",
+        "original_is_default": true,
+        "original_slug": "indiatimes"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "7b01af45ef51b978d3d3a343e3f15207f47c270a1d03e6533774b8ce72140d76",
+        "previous_bytes": 301594,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.indiatimes.com/favicon.ico",
+        "reference": "https://www.indiatimes.com/favicon.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "8b525de7be889a52c1719935bbd7c7340eb3d9e4e39c4c20e591ab450b7802ed",
+      "source": "https://www.indiatimes.com/favicon.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

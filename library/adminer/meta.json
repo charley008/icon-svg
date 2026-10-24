@@ -1,0 +1,42 @@
+{
+  "title": "Adminer",
+  "url": "https://www.adminer.org/",
+  "domains": [
+    "www.adminer.org"
+  ],
+  "description": "网页数据库管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "数据库管理",
+    "SQL",
+    "Adminer"
+  ],
+  "aliases": [
+    "adminer",
+    "数据库管理",
+    "SQL",
+    "Database Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "adminer.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "90a1936349b8297d820d5b62559fe3817304b43ed8ac70c31945adc8c2888fa2",
+      "bytes": 2143,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adminer.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "adminer.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Rclone",
+  "url": "https://rclone.org/",
+  "domains": [
+    "rclone.org"
+  ],
+  "description": "云存储文件同步与传输工具。",
+  "category": "网盘存储",
+  "tags": [
+    "云盘同步",
+    "文件传输",
+    "Rclone"
+  ],
+  "aliases": [
+    "rclone",
+    "云盘同步",
+    "文件传输"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "rclone.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8a7b0d1945fe81d23ca012bf23b9421a985ccfbb93404307ef5e944f6f5b1d8c",
+      "bytes": 1092,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rclone.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "rclone.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

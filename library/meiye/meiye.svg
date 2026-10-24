@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#232529" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-9607,-3305.01)">
+        <g id="设计素材">
+        </g>
+        <g id="样机">
+        </g>
+        <g id="美叶" transform="matrix(1,0,0,1,9607,3305.01)">
+            <rect x="0" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(3.12969,0,0,3.12969,-30612.1,-11131.8)">
+                <path d="M9798.23,3624.76C9794.59,3622.67 9793.26,3618.07 9795.24,3614.37C9805.19,3596.1 9822.3,3582.28 9842.8,3576.72C9845.83,3575.92 9849.06,3577.03 9850.95,3579.54C9853.67,3583.25 9858.06,3585.64 9863,3585.64C9867.94,3585.64 9872.33,3583.25 9875.06,3579.55C9876.95,3577.05 9880.17,3575.93 9883.2,3576.73C9903.7,3582.28 9920.81,3596.1 9930.74,3614.38C9932.71,3618.07 9931.4,3622.66 9927.76,3624.74C9899.79,3641.06 9878.06,3666.94 9867.09,3697.89C9866.49,3699.63 9864.84,3700.8 9863,3700.8C9861.16,3700.8 9859.51,3699.63 9858.91,3697.89C9847.93,3666.94 9826.21,3641.06 9798.23,3624.76Z" style="fill:url(#_Linear1);" />
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.61312e-15,124.332,-124.332,7.61312e-15,9862.99,3576.46)"><stop offset="0" style="stop-color:rgb(252,134,0);stop-opacity:1" /><stop offset="1" style="stop-color:rgb(255,190,68);stop-opacity:1" /></linearGradient>
+    </defs>
+</svg></g></g></svg>

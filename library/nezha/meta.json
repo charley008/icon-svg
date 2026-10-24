@@ -1,0 +1,73 @@
+{
+  "collection_id": 283,
+  "schema_version": 1,
+  "id": 407,
+  "title": "哪吒监控",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "哪吒监控",
+    "nezha"
+  ],
+  "aliases": [
+    "nezha"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 898,
+      "collection": "用户优选",
+      "file": "nezha.svg",
+      "id": 1021,
+      "is_default": true,
+      "label": "nezha",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "nezha.svg",
+        "original_is_default": true,
+        "original_slug": "nezha"
+      },
+      "rounded_corners": {
+        "previous_bytes": 676,
+        "previous_sha256": "57418c3f630511dc715807d4ac726f645c62df2518e047201fc1e7da675fa674",
+        "ratio": 0.2
+      },
+      "sha256": "f567ca5d9143cb69619629b69b034868d8153a5b91926c02ed9af430b320047a",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 478,
+      "collection": "用户优化 SVG",
+      "file": "nezha-1.svg",
+      "id": 1022,
+      "is_default": false,
+      "label": "nezha-1",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "nezha-1.svg",
+        "original_is_default": false,
+        "original_slug": "nezha"
+      },
+      "rounded_corners": {
+        "previous_bytes": 256,
+        "previous_sha256": "c98cb55fd5f947f7db5f4b09a6e536ea1c4bf82d86ebaa62c3d6d36277d148c2",
+        "ratio": 0.2
+      },
+      "sha256": "3be31fce357b329918fb113ebdaa08336d3902f731c0d5adeb33500e35c1a487",
+      "source": "用户授权连续处理；按原黑色圆角底和白色N重绘，256x256",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,76 @@
+{
+  "collection_id": 409,
+  "schema_version": 1,
+  "id": 561,
+  "title": "唯品会",
+  "url": "https://vip.com",
+  "domains": [
+    "vip.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "唯品会",
+    "vip",
+    "vipshop",
+    "vip.com"
+  ],
+  "aliases": [
+    "vip",
+    "vipshop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8614,
+      "collection": "jaywcjlove/logo",
+      "file": "vip.svg",
+      "id": 1406,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vip-1.svg",
+        "original_is_default": true,
+        "original_slug": "vip"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8394,
+        "previous_sha256": "bd48fa0a51940f1be5a0ec327fad33a401072e3eee8d9f1d490b26db043a3abc",
+        "ratio": 0.2
+      },
+      "sha256": "792a384126dbfff5e6a005b391f89b8ad0dc2c1c9c5395d59956deb4a8feeb93",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/vip.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1177,
+      "collection": "Iconify / arcticons",
+      "file": "vip-1.svg",
+      "id": 1407,
+      "is_default": false,
+      "label": "vipshop",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vip.svg",
+        "original_is_default": false,
+        "original_slug": "vip"
+      },
+      "rounded_corners": {
+        "previous_bytes": 944,
+        "previous_sha256": "ca11799beb4ef8f680ca1815bd0b78ee869f5d0792eeb8350a6195fea0b08927",
+        "ratio": 0.2
+      },
+      "sha256": "8c90496dc3b125ac10b62517757a7e8825943f08e349c27579570fba6ae398aa",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#vipshop",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

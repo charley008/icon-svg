@@ -1,0 +1,52 @@
+{
+  "collection_id": 326,
+  "schema_version": 1,
+  "id": 453,
+  "title": "千问AI平台",
+  "url": "https://qianwenai.com",
+  "domains": [
+    "qianwenai.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "千问AI平台",
+    "qianwenai",
+    "qianwenai.com"
+  ],
+  "aliases": [
+    "qianwenai"
+  ],
+  "notes": [
+    "原展示名称：千问AI平台（qianwenai.com）"
+  ],
+  "icons": [
+    {
+      "bytes": 5671,
+      "collection": "GoTab 公开资源库",
+      "file": "qianwenai.svg",
+      "gotab_id": 321,
+      "id": 1133,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "qianwenai.svg",
+        "original_is_default": true,
+        "original_slug": "qianwenai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5449,
+        "previous_sha256": "094bfadeb3374feaf3e2eb4819920dcdaf361ec2a35f3e84d3c4a99c6f0f87e9",
+        "ratio": 0.2
+      },
+      "sha256": "fc5a2c624eda63857d646c40a0b564aab7592e98c6cd1810c0201c2ebb670a0e",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZQAQFP84RPD29R2ATQSQJ9X.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

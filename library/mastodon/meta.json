@@ -1,0 +1,43 @@
+{
+  "title": "Mastodon",
+  "url": "https://joinmastodon.org/",
+  "domains": [
+    "joinmastodon.org"
+  ],
+  "description": "去中心化社交平台。",
+  "category": "社交通讯",
+  "tags": [
+    "长毛象",
+    "联邦宇宙",
+    "社交",
+    "Mastodon"
+  ],
+  "aliases": [
+    "mastodon",
+    "长毛象",
+    "联邦宇宙",
+    "社交"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "mastodon.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "c5d0bbb046587569e575ebda4ae9f32da308f6ecfebe0b84ed0c615b974bc969",
+      "bytes": 1421,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mastodon.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "mastodon.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

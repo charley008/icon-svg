@@ -1,0 +1,79 @@
+{
+  "collection_id": 311,
+  "schema_version": 1,
+  "id": 438,
+  "title": "拼多多",
+  "url": "https://pinduoduo.com",
+  "domains": [
+    "pinduoduo.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "拼多多",
+    "pinduoduo",
+    "pdd",
+    "pinduoduo.com"
+  ],
+  "aliases": [
+    "pinduoduo",
+    "pdd"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 11270,
+      "collection": "GoTab 公开资源库",
+      "file": "pinduoduo-1.svg",
+      "gotab_id": 95,
+      "id": 1105,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pinduoduo-1.svg",
+        "original_is_default": false,
+        "original_slug": "pinduoduo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 11048,
+        "previous_sha256": "644b4db1c35c0dfb9cc2bea81c7d3d85f87910f7714e0775abf033ab4f68661b",
+        "ratio": 0.2
+      },
+      "sha256": "97ff50119dc3a561645221c84ee56734fbc4d90264db881d2c149ef5030ee961",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HPS512278GEP2AQQPG8GH2.svg",
+      "version": 1
+    },
+    {
+      "bytes": 848,
+      "collection": "已有图标",
+      "file": "pinduoduo.svg",
+      "id": 1106,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinduoduo.svg",
+        "original_is_default": true,
+        "original_slug": "pinduoduo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 615,
+        "previous_sha256": "fe4778719b8eb089d9b1e36646d950f8f7204d910344e2174a664ede26bc1176",
+        "ratio": 0.2
+      },
+      "sha256": "8542a1d7e1cc6ed364674de76577f586a43f7bb4dbea5225bf02a2dfa2cb6d15",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#pinduoduo",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

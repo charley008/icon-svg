@@ -1,0 +1,101 @@
+{
+  "collection_id": 342,
+  "schema_version": 1,
+  "id": 472,
+  "title": "ScienceDirect",
+  "url": "https://sciencedirect.com",
+  "domains": [
+    "sciencedirect.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "教育",
+    "科研",
+    "ScienceDirect",
+    "sciencedirect.com"
+  ],
+  "aliases": [
+    "sciencedirect"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2501,
+      "collection": "Worldvectorlogo",
+      "file": "sciencedirect.svg",
+      "id": 1180,
+      "is_default": true,
+      "label": "sciencedirect-logo-2020",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sciencedirect.svg",
+        "original_is_default": true,
+        "original_slug": "sciencedirect"
+      },
+      "sha256": "be84e8134f905f5cffd1dd82e8e19093e4f8b30c01c9b5447fda28eb9d38381b",
+      "source": "https://cdn.worldvectorlogo.com/logos/sciencedirect-logo-2020.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/sciencedirect-logo-2020",
+      "version": 0
+    },
+    {
+      "bytes": 4802,
+      "collection": "Worldvectorlogo",
+      "file": "sciencedirect-1.svg",
+      "id": 1181,
+      "is_default": false,
+      "label": "sciencedirect",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sciencedirect-1.svg",
+        "original_is_default": false,
+        "original_slug": "sciencedirect"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4569,
+        "previous_sha256": "9cd212d65001c3952c68376d66876642bf3871410db795991b83895920e30dc1",
+        "ratio": 0.2
+      },
+      "sha256": "f5e1e1826e31028d4a4f19b291a47f6ae28fb125b8db0455077fb5f1033060c8",
+      "source": "https://cdn.worldvectorlogo.com/logos/sciencedirect.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/sciencedirect",
+      "version": 1
+    },
+    {
+      "bytes": 1305,
+      "collection": "轻量矢量替换",
+      "file": "sciencedirect-2.svg",
+      "id": 1182,
+      "is_default": false,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "sciencedirect-2.svg",
+        "original_is_default": false,
+        "original_slug": "sciencedirect"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "36621c2043f0a1f811b8a6f4223ce13df32635394c4cd2da67831d1ce39a26ab",
+        "previous_bytes": 319122,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.google.com/s2/favicons?domain=sciencedirect.com\u0026sz=256",
+        "reference": "https://www.google.com/s2/favicons?domain=sciencedirect.com\u0026sz=256",
+        "note": "按原有橙色 E 字母图案重建轮廓；文字已转路径，无字体依赖。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "978bcd6d299f80adef7b7ca412a470715302f9946d52ef4ff5652fba5a6becc9",
+      "source": "https://www.google.com/s2/favicons?domain=sciencedirect.com\u0026sz=256",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

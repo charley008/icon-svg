@@ -1,0 +1,51 @@
+{
+  "collection_id": 152,
+  "schema_version": 1,
+  "id": 223,
+  "title": "fast",
+  "url": "https://fast.com",
+  "domains": [
+    "fast.com"
+  ],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "全球Top100",
+    "网络工具",
+    "网络测速",
+    "宽带测速",
+    "fast",
+    "fast.com"
+  ],
+  "aliases": [
+    "fast"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 942,
+      "collection": "Iconify / arcticons",
+      "file": "fast.svg",
+      "id": 561,
+      "is_default": true,
+      "label": "fast",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fast.svg",
+        "original_is_default": true,
+        "original_slug": "fast"
+      },
+      "rounded_corners": {
+        "previous_bytes": 709,
+        "previous_sha256": "0f30fd85e506fb62ef1986140e1d158fbcfd1d60ce2bd929405ba3eee072be23",
+        "ratio": 0.2
+      },
+      "sha256": "82ce540275a91f4f9f0eec4e8548ade0f2bb919f8f149e160788f6a5535daf33",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#fast",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

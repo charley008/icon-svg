@@ -1,0 +1,57 @@
+{
+  "collection_id": 154,
+  "schema_version": 1,
+  "id": 225,
+  "title": "威锋网",
+  "url": "https://www.feng.com/",
+  "domains": [
+    "feng.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "用户优选",
+    "自用",
+    "新闻",
+    "资讯",
+    "feng",
+    "威锋网",
+    "威锋"
+  ],
+  "aliases": [
+    "feng",
+    "威锋",
+    "威锋网"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。",
+    "原展示名称：锋（原目录图标）"
+  ],
+  "icons": [
+    {
+      "bytes": 982,
+      "collection": "用户优化 SVG",
+      "file": "feng.svg",
+      "id": 563,
+      "is_default": true,
+      "label": "feng",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "feng.svg",
+        "original_is_default": true,
+        "original_slug": "feng"
+      },
+      "rounded_corners": {
+        "previous_bytes": 760,
+        "previous_sha256": "0dada3ac9b07a2d4af78f89ab78ca98a3e63f7e2c2026ae1f44e1f64abfbba9a",
+        "ratio": 0.2
+      },
+      "sha256": "1d806cf9cd2526986e2b90d94cc7809246817c87024ec00f87f5d8589cc16e75",
+      "source": "用户授权连续处理；按原蓝色渐变、三圆节点与中心人形重绘，256x256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

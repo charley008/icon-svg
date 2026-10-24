@@ -1,0 +1,44 @@
+{
+  "title": "Shelly",
+  "url": "https://www.shelly.com/",
+  "domains": [
+    "www.shelly.com"
+  ],
+  "description": "智能家居设备品牌。",
+  "category": "设备硬件",
+  "tags": [
+    "智能开关",
+    "智能家居",
+    "家居设备",
+    "Shelly"
+  ],
+  "aliases": [
+    "shelly",
+    "智能开关",
+    "智能家居",
+    "家居设备",
+    "shelly-smart-home"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "shelly.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "f80743136533002cc615262feaafb5aad0e549a978b812e894f452d258c3b16a",
+      "bytes": 1236,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "shelly.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

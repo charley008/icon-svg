@@ -1,0 +1,49 @@
+{
+  "collection_id": 96,
+  "schema_version": 1,
+  "id": 166,
+  "title": "CocoLoop",
+  "url": "https://cocoloop.cn",
+  "domains": [
+    "cocoloop.cn"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "CocoLoop",
+    "cocoloop.cn"
+  ],
+  "aliases": [
+    "cocoloop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1538,
+      "collection": "GoTab 公开资源库",
+      "file": "cocoloop.svg",
+      "gotab_id": 299,
+      "id": 409,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cocoloop.svg",
+        "original_is_default": true,
+        "original_slug": "cocoloop"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1316,
+        "previous_sha256": "7793e062af87ff22deaf64812a3761cdefab4aa1de87361c08d768da7b961a55",
+        "ratio": 0.2
+      },
+      "sha256": "db021af4311ecb26341a6728b990ddc99ecb72c8c325e5fdf21d009f354abf80",
+      "source": "https://web.gotab.cn/sourceStore/website/01KYNY78G833QV6R2YK4ZSRWEE.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

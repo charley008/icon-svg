@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>{{template "site-head"}}<title>设置 — icon-svg</title></head>
+<body>{{template "admin-nav" .CSRF}}
+<main class="admin-page settings-page">
+  <a class="text-button" href="/admin">← 返回合集管理</a>
+  <div class="page-heading"><div><div class="eyebrow">WORKSPACE SETTINGS</div><h1>设置</h1><p class="muted">管理数据、账号安全，查看操作记录。</p></div></div>
+  <nav class="editor-nav" aria-label="设置导航"><a href="/admin/settings?view=data" {{if eq .View "data"}}aria-current="page"{{end}}>数据备份</a><a href="/admin/settings?view=account" {{if eq .View "account"}}aria-current="page"{{end}}>账号安全</a><a href="/admin/settings?view=categories" {{if eq .View "categories"}}aria-current="page"{{end}}>分类管理</a><a href="/admin/settings?view=logs" {{if eq .View "logs"}}aria-current="page"{{end}}>操作日志</a></nav>
+  {{if not .View}}<p class="muted">请选择上方的设置项目。</p>{{end}}
+  {{if eq .View "categories"}}<section class="panel" id="categories" aria-labelledby="categories-title">
+    <h2 id="categories-title">分类管理</h2><p class="muted">统一管理分类名称。改名会同步已有合集和产品；移除分类时将内容迁移到选定分类，不删除图标。数量包含草稿和回收站。</p>
+    <form action="/admin/categories/create" method="post" class="field-grid category-create"><input type="hidden" name="csrf" value="{{.CSRF}}"><label>新增分类<input name="name" required maxlength="60" placeholder="例如：开发编程"></label><button class="button button-primary">添加分类</button></form>
+    <div class="category-manager">{{range .ManagedCategories}}{{$name:=.Name}}<article class="category-row"><div><b>{{.Name}}</b><span class="muted">{{.Count}} 个图标组</span></div>{{if eq .Name "其他"}}<p class="muted">默认分类，保留作为未分类内容的去向。</p>{{else}}<form action="/admin/categories/rename" method="post" class="category-edit"><input type="hidden" name="csrf" value="{{$.CSRF}}"><input type="hidden" name="name" value="{{.Name}}"><input name="next" value="{{.Name}}" required maxlength="60" aria-label="重命名 {{.Name}}"><button class="button">保存名称</button></form><form action="/admin/categories/delete" method="post" class="category-edit" data-confirm="移除此分类并迁移内容？图标会保留。"><input type="hidden" name="csrf" value="{{$.CSRF}}"><input type="hidden" name="name" value="{{.Name}}"><select name="next" aria-label="{{.Name}} 的迁移目标">{{range $.Categories}}{{if ne . $name}}<option value="{{.}}" {{if eq . "其他"}}selected{{end}}>迁移到 {{.}}</option>{{end}}{{end}}</select><button class="button danger">移除并迁移</button></form>{{end}}</article>{{end}}</div>
+  </section>{{end}}
+  {{if eq .View "data"}}<section class="panel" id="data" aria-labelledby="data-title">
+    <h2 id="data-title">素材库与备份</h2>
+    <form action="/admin/library/scan" method="post"><input type="hidden" name="csrf" value="{{.CSRF}}"><div class="export-actions"><button class="button button-primary" name="mode" value="changes">↻ 扫描变更</button><button class="button" name="mode" value="full">完整扫描</button></div></form>
+    <p class="muted">{{.ScanSchedule}}。启动时扫描素材库；后台修改立即生效。完整扫描会重新读取所有素材文件。</p>
+    <div role="status" aria-live="polite">
+      {{if .Scan.Running}}<p>正在扫描素材库，请稍后刷新查看结果。</p>{{else if .Scan.Error}}<p class="form-error">扫描失败：{{.Scan.Error}}。继续使用上次可用索引，请修正文件后重试。</p>{{else if not .Scan.Finished.IsZero}}<p>扫描完成 · {{if .Scan.Updated}}已更新索引{{else}}未发现需要更新的内容{{end}}</p>{{else}}<p class="muted">尚未扫描。</p>{{end}}
+      {{if not .Scan.Finished.IsZero}}<p class="muted">上次扫描：{{.Scan.Finished.Format "2006-01-02 15:04:05"}} · 耗时 {{.Scan.Duration}}</p>{{end}}
+      {{if not .Scan.LastSuccess.IsZero}}<p class="muted">最近成功：{{.Scan.LastSuccess.Format "2006-01-02 15:04:05"}} · {{.Scan.Collections}} 个合集 · {{.Scan.Icons}} 个 SVG</p>{{end}}
+      {{if not .Scan.Error}}<p class="muted">新增 {{.Scan.Added}} · 修改 {{.Scan.Modified}} · 移除 {{.Scan.Removed}} 个文件</p>{{end}}
+    </div>
+    <div class="export-actions"><a class="button" href="/admin/backup">↓ 完整备份（素材与账号）</a><a class="button" href="/admin/export-library">↓ 导出已上架素材</a></div>
+    <p class="muted">完整备份包含 library 文件及账号、日志等运行数据；素材导出只包含已上架内容。</p>
+  </section>{{end}}
+  {{if eq .View "account"}}<section class="panel" id="account" aria-labelledby="account-title">
+    <h2 id="account-title">账号安全</h2><p class="muted">修改管理员密码后，所有登录会话将失效，需要重新登录。</p>
+    <form class="field-grid two-columns" action="/admin/password" method="post">
+      <input name="csrf" type="hidden" value="{{.CSRF}}">
+      <label>当前密码<input name="current" type="password" required autocomplete="current-password"></label>
+      <label>新密码<input name="password" type="password" required minlength="8" maxlength="256" autocomplete="new-password" placeholder="8–256 位"></label>
+      <button class="button button-primary">更新密码并重新登录</button>
+    </form>
+  </section>{{end}}
+  {{if eq .View "logs"}}<section class="panel" id="logs" aria-labelledby="logs-title">
+    <div class="settings-log-heading"><h2 id="logs-title">操作日志</h2><span class="muted">共 {{.Total}} 条 · 第 {{.Page}} / {{.Pages}} 页</span></div>
+    <p class="muted">按操作时间倒序显示，每页 30 条。</p>
+    <div class="settings-log-table"><table><thead><tr><th scope="col">操作</th><th scope="col">对象</th><th scope="col">时间</th></tr></thead><tbody>
+      {{range .Audit}}<tr><td>{{.Action}}</td><td>{{.Target}}</td><td><time>{{.Time}}</time></td></tr>{{else}}<tr><td colspan="3" class="muted">暂无操作记录</td></tr>{{end}}
+    </tbody></table></div>
+    {{if gt .Pages 1}}<nav class="pagination" aria-label="日志分页">{{range .Links}}{{if .Gap}}<span class="pagination-gap" aria-hidden="true">…</span>{{else}}<a class="button {{if .Active}}button-primary{{end}}" href="{{.URL}}#logs" aria-label="第 {{.Number}} 页" {{if .Active}}aria-current="page"{{end}}>{{.Number}}</a>{{end}}{{end}}</nav>{{end}}
+  </section>{{end}}
+</main></body></html>

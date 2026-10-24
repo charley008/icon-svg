@@ -1,0 +1,51 @@
+{
+  "collection_id": 173,
+  "schema_version": 1,
+  "id": 244,
+  "title": "Globo",
+  "url": "https://globo.com",
+  "domains": [
+    "globo.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "Globo",
+    "globoplay",
+    "globo.com"
+  ],
+  "aliases": [
+    "globo",
+    "globoplay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1602,
+      "collection": "Iconify / arcticons",
+      "file": "globo.svg",
+      "id": 609,
+      "is_default": true,
+      "label": "globoplay",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "globo.svg",
+        "original_is_default": true,
+        "original_slug": "globo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1369,
+        "previous_sha256": "b38822b1f183ae8aa9954aed868ffb1dcea1dd639d45edd0b6e506cb993ff337",
+        "ratio": 0.2
+      },
+      "sha256": "19bef4872ef920387aec2042467e8db5ed90a77c1f39ebae27eb2ff1094f5746",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#globoplay",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

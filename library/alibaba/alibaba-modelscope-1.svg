@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="_图层_1" data-name=" 图层 1" viewBox="0 0 200 200" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <path d="M72.91,91.66h18.06v18.06h-18.06v-18.06Z" style="fill: #36ced0;" />
+  <path d="M90.97,109.73h18.06v18.06h-18.06v-18.06Z" style="fill: #624aff;" />
+  <path d="M109.03,91.66h18.06v18.06h-18.06v-18.06Z" style="fill: #36ced0;" />
+  <path d="M37.48,56.23h34.04v15.98h-34.04v-15.98ZM37.48,72.21h15.98v18.06h-15.98v-18.06ZM37.48,108.34h15.98v35.43h-15.98v-35.43Z" style="fill: #624aff;" />
+  <path d="M52.76,127.79h18.06v15.98h-18.06v-15.98Z" style="fill: #624aff;" />
+  <path d="M18.02,72.21h19.45v18.06h-19.45v-18.06Z" style="fill: #36ced0;" />
+  <path d="M18.02,90.27h19.45v18.06h-19.45v-18.06Z" style="fill: #624aff;" />
+  <path d="M128.48,56.23h34.04v15.98h-34.04v-15.98ZM146.55,72.21h15.98v18.06h-15.98v-18.06ZM146.55,108.34h15.98v35.43h-15.98v-35.43Z" style="fill: #624aff;" />
+  <path d="M129.18,127.79h18.06v15.98h-18.06v-15.98Z" style="fill: #624aff;" />
+  <path d="M162.52,72.21h19.45v18.06h-19.45v-18.06Z" style="fill: #36ced0;" />
+  <path d="M162.52,90.27h19.45v18.06h-19.45v-18.06Z" style="fill: #624aff;" />
+</svg></g></g></svg>

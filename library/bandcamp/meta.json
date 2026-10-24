@@ -1,0 +1,41 @@
+{
+  "title": "Bandcamp",
+  "url": "https://bandcamp.com/",
+  "domains": [
+    "bandcamp.com"
+  ],
+  "description": "音乐发现与销售平台。",
+  "category": "影音娱乐",
+  "tags": [
+    "音乐",
+    "独立音乐",
+    "Bandcamp"
+  ],
+  "aliases": [
+    "bandcamp",
+    "音乐",
+    "独立音乐"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "bandcamp.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "e82ce69b9926035f718d2e6dc98870539ebf5afce5e4d66171dbf5a402d84705",
+      "bytes": 243,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bandcamp.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "bandcamp.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 103,
+  "schema_version": 1,
+  "id": 173,
+  "title": "Crx 搜搜",
+  "url": "https://crxsoso.com",
+  "domains": [
+    "crxsoso.com"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "系统工具",
+    "Crx 搜搜",
+    "crxsoso",
+    "crxsoso.com"
+  ],
+  "aliases": [
+    "crxsoso"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2531,
+      "collection": "GoTab 公开资源库",
+      "file": "crxsoso.svg",
+      "gotab_id": 88,
+      "id": 421,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "crxsoso.svg",
+        "original_is_default": true,
+        "original_slug": "crxsoso"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2309,
+        "previous_sha256": "6e1d860beea0d6f129a96730728a59354be6a758ae8fa862fd9189ad7b23cd8b",
+        "ratio": 0.2
+      },
+      "sha256": "ef06f64907549654657e430cbdfece976756a450d4735332cef2d9b00d821dec",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HNHQSVCR87B2B9Q1FX6KGM.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

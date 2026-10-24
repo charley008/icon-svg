@@ -1,0 +1,43 @@
+{
+  "title": "ASRock Rack",
+  "url": "https://www.asrockrack.com/",
+  "domains": [
+    "www.asrockrack.com"
+  ],
+  "description": "服务器主板与服务器设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "华擎",
+    "永擎",
+    "服务器",
+    "ASRock Rack"
+  ],
+  "aliases": [
+    "asrock-rack",
+    "华擎",
+    "永擎",
+    "服务器"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "asrock-rack.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "dd3dacee46fab96cde6aac2b596ba667088614c30d8a7bd90cc1fecb9c901cf2",
+      "bytes": 4415,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asrock-rack.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "asrock-rack.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

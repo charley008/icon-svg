@@ -1,0 +1,51 @@
+{
+  "collection_id": 242,
+  "schema_version": 1,
+  "id": 342,
+  "title": "LINUX DO",
+  "url": "https://linux.do",
+  "domains": [
+    "linux.do"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "LINUX DO",
+    "linux-do",
+    "linux.do"
+  ],
+  "aliases": [
+    "linux-do"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27496,
+      "collection": "GoTab 公开资源库",
+      "file": "linux-do.svg",
+      "gotab_id": 273,
+      "id": 849,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "linux-do.svg",
+        "original_is_default": true,
+        "original_slug": "linux-do"
+      },
+      "rounded_corners": {
+        "previous_bytes": 27274,
+        "previous_sha256": "bb0e4a083c5783928b982efb95bd0e9d2edebab05c70345a3944c5f442d04e07",
+        "ratio": 0.2
+      },
+      "sha256": "035e46d3899acb6ecf176e881b88d4c45fa9afb74ceb80f90ff44369fb3b0877",
+      "source": "https://web.gotab.cn/sourceStore/website/01KK8ZSTM3MG75AQY8TQCTEYAR.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

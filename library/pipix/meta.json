@@ -1,0 +1,50 @@
+{
+  "collection_id": 314,
+  "schema_version": 1,
+  "id": 441,
+  "title": "皮皮虾",
+  "url": "https://mp.pipix.com",
+  "domains": [
+    "mp.pipix.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "影音",
+    "皮皮虾",
+    "pipix",
+    "mp.pipix.com"
+  ],
+  "aliases": [
+    "pipix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4280,
+      "collection": "GoTab 公开资源库",
+      "file": "pipix.svg",
+      "gotab_id": 20,
+      "id": 1114,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pipix.svg",
+        "original_is_default": true,
+        "original_slug": "pipix"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4058,
+        "previous_sha256": "0be5d2fd5c540e9cb100bb925165ef025f629fff5756e30f446e965e61f7eb66",
+        "ratio": 0.2
+      },
+      "sha256": "b4ee1b39ddb474d410108c9609dd4248519e712e6045728bf321a33b4351a8e1",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H1GXEE3MNW92EJSNPRR28K.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

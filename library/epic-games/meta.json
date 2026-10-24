@@ -1,0 +1,158 @@
+{
+  "collection_id": 145,
+  "schema_version": 1,
+  "id": 216,
+  "title": "Epic Games",
+  "url": "https://epicgames.com",
+  "domains": [
+    "epicgames.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "全球App补充",
+    "游戏",
+    "Epic Games",
+    "epic-games",
+    "epicgames",
+    "epicgames.com"
+  ],
+  "aliases": [
+    "epic-games",
+    "epicgames"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3138,
+      "collection": "已有图标",
+      "file": "epic-games.svg",
+      "id": 535,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games.svg",
+        "original_is_default": true,
+        "original_slug": "epic-games"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2905,
+        "previous_sha256": "45ff2507509ffd4c0a84e2d1e2311f23f17dfea59f08194dd3c2906e9eb005ab",
+        "ratio": 0.2
+      },
+      "sha256": "dc9ed2227ed1b52cc4a98489f908dda87358d62df0480b026e32ee159a761560",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/epic-games/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10277,
+      "collection": "GoTab 公开资源库",
+      "file": "epic-games-1.svg",
+      "gotab_id": 208,
+      "id": 536,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "epic-games-1.svg",
+        "original_is_default": false,
+        "original_slug": "epic-games"
+      },
+      "rounded_corners": {
+        "previous_bytes": 10055,
+        "previous_sha256": "ed23ccae9275cc20357a50b4b66ddac497ef7b1ff43eb18321b89e66203d7a6a",
+        "ratio": 0.2
+      },
+      "sha256": "a0a0cf48cff9fa5f4bb7adb3f720aa0bdef8e56e61b3abb993133b433ab767ff",
+      "source": "https://web.gotab.cn/sourceStore/website/01JWX2ZZX3BQ5Z12SRQNVBSTM4.svg",
+      "version": 1
+    },
+    {
+      "bytes": 8627,
+      "collection": "已有图标",
+      "file": "epic-games-2.svg",
+      "id": 537,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games-2.svg",
+        "original_is_default": false,
+        "original_slug": "epic-games"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8402,
+        "previous_sha256": "a6657920ea27aa7451a2ceb7975b523ed98b4314ed15fb559767ab20604c8fc6",
+        "ratio": 0.2
+      },
+      "sha256": "16e100568da4d3d2d8a1f792ab317dea7be584cc868c286cdad492dd451cfdcf",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/epic-games-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3210,
+      "collection": "已有图标",
+      "file": "epic-games-3.svg",
+      "id": 538,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games-3.svg",
+        "original_is_default": false,
+        "original_slug": "epic-games"
+      },
+      "sha256": "08e159b31de4709c31b2a0202481ecde994ef381d6423c625b5d95238099b862",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/epic-games/light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3210,
+      "collection": "已有图标",
+      "file": "epic-games-4.svg",
+      "id": 539,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games-4.svg",
+        "original_is_default": false,
+        "original_slug": "epic-games"
+      },
+      "sha256": "f0fc6e82d099abea71e3cde1932fd6e18371e79e70f9d385d22a053106fa8d2a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/epic-games/dark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 3138,
+      "collection": "已有图标",
+      "file": "epic-games-5.svg",
+      "id": 540,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games-5.svg",
+        "original_is_default": false,
+        "original_slug": "epic-games"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2905,
+        "previous_sha256": "2cc3998e9fc682309d72334911d051b1e808d48d7a491755c9fa02507932ed1c",
+        "ratio": 0.2
+      },
+      "sha256": "3b858b779ce92ad7c744110acc5da0e9f52f3cc0272ca1df6118b8bb575035ac",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/epic-games/mono.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

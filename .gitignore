@@ -1,0 +1,16 @@
+/data/
+/bin/
+/dist/
+/icon-svg
+/icon-svg.exe
+/.env
+*.log
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+/PROJECT_LOG.md
+/DECISIONS.md
+
+/library/.library.lock
+/library/.pending.json
+/library/**/.tmp-*

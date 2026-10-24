@@ -1,0 +1,78 @@
+{
+  "collection_id": 491,
+  "schema_version": 1,
+  "id": 656,
+  "title": "Ubuntu",
+  "url": "https://ubuntu.com/",
+  "domains": [
+    "ubuntu.com"
+  ],
+  "description": "Ubuntu 图标合集。",
+  "category": "系统工具",
+  "tags": [
+    "Ubuntu",
+    "ubuntu",
+    "Linux",
+    "操作系统",
+    "发行版"
+  ],
+  "aliases": [
+    "乌班图"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3893,
+      "collection": "用户补充 SVG",
+      "file": "ubuntu.svg",
+      "id": 1614,
+      "is_default": true,
+      "label": "ubuntu-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "ubuntu-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-3.svg"
+      },
+      "sha256": "e226cb522b5432de2aae256de3573dcea9a888734f8ac6cd1453e0d7182490f2",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-3.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1812,
+      "collection": "用户补充 SVG",
+      "file": "ubuntu-1.svg",
+      "id": 1615,
+      "is_default": false,
+      "label": "ubuntu-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "ubuntu-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-2.svg"
+      },
+      "sha256": "d4ca5d20bb6dd34a623b6bddc4bb5dc5142b65efd33372c262322e8351e2123d",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-2.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3945,
+      "collection": "用户补充 SVG",
+      "file": "ubuntu-2.svg",
+      "id": 1616,
+      "is_default": false,
+      "label": "ubuntu-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "ubuntu-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-1.svg"
+      },
+      "sha256": "d3b7e49173c307e34d764543045253e57540a626306214cc7a65509ac785a712",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-1.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

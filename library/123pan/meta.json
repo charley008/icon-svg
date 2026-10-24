@@ -1,0 +1,77 @@
+{
+  "collection_id": 4,
+  "schema_version": 1,
+  "id": 4,
+  "title": "123云盘",
+  "url": "https://123pan.com",
+  "domains": [
+    "123pan.com"
+  ],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "国内补充",
+    "网盘",
+    "云存储",
+    "123云盘",
+    "123pan",
+    "123-cloud-drive",
+    "123pan.com"
+  ],
+  "aliases": [
+    "123pan",
+    "123-cloud-drive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11371,
+      "collection": "已有图标",
+      "file": "123pan.svg",
+      "id": 10,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "123pan.svg",
+        "original_is_default": true,
+        "original_slug": "123pan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 11148,
+        "previous_sha256": "37835b53dafd7d4cbbbc4cfd1981ed26ce640a56d0d5612e6bac4676d273426b",
+        "ratio": 0.2
+      },
+      "sha256": "d84abec309ccea374372c0a0dcd07492fcd774ba84777efd46daee6f9576d6d2",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/93/39/c39339a9-4a69-6692-c9f9-f255bef46fcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    },
+    {
+      "bytes": 2024,
+      "collection": "GoTab 公开资源库",
+      "file": "123pan-1.svg",
+      "gotab_id": 269,
+      "id": 11,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "123pan-1.svg",
+        "original_is_default": false,
+        "original_slug": "123pan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1802,
+        "previous_sha256": "3490d59be7c7d3262df8f0249cdec54dd80576e0619bbb31f0a6c4228fc8826f",
+        "ratio": 0.2
+      },
+      "sha256": "f083ad465da6b76eefacdd285e4cd053c1692da4f329d91eba5a66314a16d2c7",
+      "source": "https://web.gotab.cn/sourceStore/website/01KK8X0ZM7YPAA647X5RM8SBK2.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

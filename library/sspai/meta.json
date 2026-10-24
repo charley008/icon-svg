@@ -1,0 +1,82 @@
+{
+  "collection_id": 367,
+  "schema_version": 1,
+  "id": 500,
+  "title": "少数派",
+  "url": "https://sspai.com",
+  "domains": [
+    "sspai.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "少数派",
+    "sspai",
+    "sspai.com"
+  ],
+  "aliases": [
+    "sspai"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1908,
+      "collection": "用户优化 SVG",
+      "file": "sspai.svg",
+      "id": 1258,
+      "is_default": true,
+      "label": "sspai",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "sspai.svg",
+        "original_is_default": true,
+        "original_slug": "sspai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1686,
+        "previous_sha256": "03e0fbd77924d7868a5774b7bebc3992821b3004823cea20b40354996a1e5073",
+        "ratio": 0.2
+      },
+      "sha256": "52bde59671ee2abac091f6393e8a1042e0dcfacfad6bedd6601327ee0c98fa04",
+      "source": "https://sspai.com/；用户确认官网pai矢量路径，配回红色圆角底与白色标志",
+      "version": 0
+    },
+    {
+      "bytes": 32986,
+      "collection": "原图描摹",
+      "file": "sspai-1.svg",
+      "id": 1259,
+      "is_default": false,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "sspai-1.svg",
+        "original_is_default": false,
+        "original_slug": "sspai"
+      },
+      "render_rmse": 4.667,
+      "rounded_corners": {
+        "previous_bytes": 32763,
+        "previous_sha256": "e26634c3cedbd9114fd6a5a6f3f1bd38e493c4a9b6e0944f8bf4bac0e8482f67",
+        "ratio": 0.2
+      },
+      "sha256": "827837c856af92c6678a2671dbdaa3cf8fe166958d341ddb750a27fd88dc90a7",
+      "source": "原图描摹",
+      "source_size": [
+        176,
+        176
+      ],
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

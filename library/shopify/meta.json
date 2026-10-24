@@ -1,0 +1,133 @@
+{
+  "collection_id": 349,
+  "schema_version": 1,
+  "id": 479,
+  "title": "Shopify",
+  "url": "https://shopify.com",
+  "domains": [
+    "shopify.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "电商",
+    "购物",
+    "Shopify",
+    "shopify.com"
+  ],
+  "aliases": [
+    "shopify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1750,
+      "collection": "theSVG",
+      "file": "shopify.svg",
+      "id": 1197,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shopify.svg",
+        "original_is_default": true,
+        "original_slug": "shopify"
+      },
+      "sha256": "914a04fb995b07096167ded2686fd77f38bd379300c3b6c969d6680bbee3f881",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/shopify/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1739,
+      "collection": "theSVG",
+      "file": "shopify-1.svg",
+      "id": 1198,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shopify-1.svg",
+        "original_is_default": false,
+        "original_slug": "shopify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1514,
+        "previous_sha256": "ab5244cb81288e0418b458e23c1d3d71b14b13171b756f98fdfa31e2ad9a0105",
+        "ratio": 0.2
+      },
+      "sha256": "8aa651e6b66e0cb9531e8025dbc5d4fc7e12e1f9fc395b302ee1c700a4df0aaf",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/shopify-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2954,
+      "collection": "theSVG",
+      "file": "shopify-2.svg",
+      "id": 1199,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shopify-2.svg",
+        "original_is_default": false,
+        "original_slug": "shopify"
+      },
+      "sha256": "f6a73d2dcb556d6547718c8b4770ad5ccff2e74767def42c0e02699f325f9792",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/shopify/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1560,
+      "collection": "theSVG",
+      "file": "shopify-3.svg",
+      "id": 1200,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shopify-3.svg",
+        "original_is_default": false,
+        "original_slug": "shopify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1327,
+        "previous_sha256": "3890af7dccfa86025fa107f672e0f704035cdc05016d00735a0749d8aec36baa",
+        "ratio": 0.2
+      },
+      "sha256": "84d6b70f686b02cdecfca2ebb47f55ea63e4d64dd33d0138fb50f6e1386bd980",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/shopify/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1697,
+      "collection": "Dashboard Icons",
+      "file": "shopify-4.svg",
+      "id": 1201,
+      "is_default": false,
+      "label": "shopify",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shopify-4.svg",
+        "original_is_default": false,
+        "original_slug": "shopify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1474,
+        "previous_sha256": "2758a081207aa3ea4b6732a71374d6504d4ae992eadcb81c06b6c33154d1cf20",
+        "ratio": 0.2
+      },
+      "sha256": "cc347c471b27e2be75fb6fa552422f5ce7b82f8f29574b1da433443c3dce6c33",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shopify.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

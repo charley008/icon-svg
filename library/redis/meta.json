@@ -1,0 +1,44 @@
+{
+  "title": "Redis",
+  "url": "https://redis.io/",
+  "domains": [
+    "redis.io"
+  ],
+  "description": "内存数据存储与缓存软件。",
+  "category": "开发编程",
+  "tags": [
+    "缓存",
+    "数据库",
+    "键值存储",
+    "Redis"
+  ],
+  "aliases": [
+    "redis",
+    "缓存",
+    "数据库",
+    "键值存储",
+    "In-Memory Database"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "redis.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "9c3d4a6458094687a5b035b1d890b808b3d6d06584625e0cbe38054d24e3b86d",
+      "bytes": 2682,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redis.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "redis.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

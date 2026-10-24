@@ -1,0 +1,66 @@
+{
+  "collection_id": 259,
+  "schema_version": 1,
+  "id": 375,
+  "title": "美的",
+  "url": "https://midea.com",
+  "domains": [
+    "midea.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "国内补充",
+    "Worldvectorlogo补充",
+    "硬件",
+    "设备",
+    "美的",
+    "midea",
+    "midea.com"
+  ],
+  "aliases": [
+    "midea"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2000,
+      "collection": "SVGLOGO",
+      "file": "midea.svg",
+      "id": 947,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midea.svg",
+        "original_is_default": true,
+        "original_slug": "midea"
+      },
+      "sha256": "2f4ee509666008b894479fe56b8d1cbcf8f9474dc7d6ba1e423a0ddca0719aa4",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/Midea.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2173,
+      "collection": "Worldvectorlogo",
+      "file": "midea-1.svg",
+      "id": 948,
+      "is_default": false,
+      "label": "midea-1",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midea-1.svg",
+        "original_is_default": false,
+        "original_slug": "midea"
+      },
+      "sha256": "90e676fe7cf8bb2873203401f239cc2881e35e88bf0877c99f1426ac5a07a7ba",
+      "source": "https://cdn.worldvectorlogo.com/logos/midea-1.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/midea-1",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

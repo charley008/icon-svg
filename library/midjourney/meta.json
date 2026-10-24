@@ -1,0 +1,100 @@
+{
+  "collection_id": 260,
+  "schema_version": 1,
+  "id": 376,
+  "title": "Midjourney",
+  "url": "https://midjourney.com",
+  "domains": [
+    "midjourney.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "全球App补充",
+    "人工智能",
+    "AI 绘画",
+    "图像生成",
+    "Midjourney",
+    "midjourney.com"
+  ],
+  "aliases": [
+    "midjourney"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1095,
+      "collection": "theSVG",
+      "file": "midjourney.svg",
+      "id": 949,
+      "is_default": true,
+      "label": "light",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midjourney.svg",
+        "original_is_default": true,
+        "original_slug": "midjourney"
+      },
+      "sha256": "850779141b073894b87e35a5a37b3a586d1b4215eff99d09143c9d66dc1cae3e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/midjourney/light.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1095,
+      "collection": "theSVG",
+      "file": "midjourney-1.svg",
+      "id": 950,
+      "is_default": false,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midjourney-1.svg",
+        "original_is_default": false,
+        "original_slug": "midjourney"
+      },
+      "sha256": "013572428252af351e849d57f16471bc5abdbb27cecee3e718f5401e61f3a2a8",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/midjourney/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4467,
+      "collection": "Iconify / logos",
+      "file": "midjourney-2.svg",
+      "id": 951,
+      "is_default": false,
+      "label": "midjourney",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midjourney-2.svg",
+        "original_is_default": false,
+        "original_slug": "midjourney"
+      },
+      "sha256": "c2fffd0c6336099fbce87ddad7fe3a28dc9e452a028d270338ba18ca25d06a23",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#midjourney",
+      "version": 2
+    },
+    {
+      "bytes": 3226,
+      "collection": "SVGLOGO",
+      "file": "midjourney-3.svg",
+      "id": 952,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midjourney-3.svg",
+        "original_is_default": false,
+        "original_slug": "midjourney"
+      },
+      "sha256": "ccc5d6b7f3db662ee6b107b41d1640c090c279e6e9b9897287cc1e106dae99c8",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Midjourney_wordmark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

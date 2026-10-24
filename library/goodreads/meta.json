@@ -1,0 +1,97 @@
+{
+  "collection_id": 176,
+  "schema_version": 1,
+  "id": 247,
+  "title": "Goodreads",
+  "url": "https://goodreads.com",
+  "domains": [
+    "goodreads.com"
+  ],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "全球App补充",
+    "阅读",
+    "Goodreads",
+    "goodreads.com"
+  ],
+  "aliases": [
+    "goodreads"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 929,
+      "collection": "Dashboard Icons",
+      "file": "goodreads-2.svg",
+      "id": 612,
+      "is_default": true,
+      "label": "goodreads",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goodreads-2.svg",
+        "original_is_default": false,
+        "original_slug": "goodreads"
+      },
+      "rounded_corners": {
+        "previous_bytes": 706,
+        "previous_sha256": "1488378c20a31c334546a6e07812c6f0faf88ac3ad73a1c06c86cbb1d1411816",
+        "ratio": 0.2
+      },
+      "sha256": "9fe30b9cc65df7c3380401355acb6a64e95c104fa52bb2cf41aba1b7fa2e7a33",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/goodreads.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1725,
+      "collection": "theSVG",
+      "file": "goodreads.svg",
+      "id": 613,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goodreads.svg",
+        "original_is_default": true,
+        "original_slug": "goodreads"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1492,
+        "previous_sha256": "187adaeae61174a90b31413ecf4a54f555c19ceb7e232736866419264dd384f4",
+        "ratio": 0.2
+      },
+      "sha256": "4a613c481440dbbc68baf365997aa10bb8b9c6efa5254723994d114b72ca02b8",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/goodreads/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1725,
+      "collection": "theSVG",
+      "file": "goodreads-1.svg",
+      "id": 614,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goodreads-1.svg",
+        "original_is_default": false,
+        "original_slug": "goodreads"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1492,
+        "previous_sha256": "ab085dc51b2dd28066ecbb858a6a0c4fb6b8f5cf7f1364bcf455b6d2f576020b",
+        "ratio": 0.2
+      },
+      "sha256": "ac39b6f4e4ee57b2ba8c68a397ff7fd194d39aa3a5689a192a3697aa4ba0bf13",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/goodreads/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

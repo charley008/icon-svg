@@ -1,0 +1,136 @@
+{
+  "collection_id": 306,
+  "schema_version": 1,
+  "id": 433,
+  "title": "Perplexity",
+  "url": "https://perplexity.ai",
+  "domains": [
+    "perplexity.ai"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "全球App补充",
+    "人工智能",
+    "Perplexity",
+    "perplexity.ai"
+  ],
+  "aliases": [
+    "perplexity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 944,
+      "collection": "theSVG",
+      "file": "perplexity.svg",
+      "id": 1096,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity.svg",
+        "original_is_default": true,
+        "original_slug": "perplexity"
+      },
+      "rounded_corners": {
+        "previous_bytes": 711,
+        "previous_sha256": "193a836bc1b4d90bf546cade15ed623927d225f5a15a263b113fb07c24aa77cd",
+        "ratio": 0.2
+      },
+      "sha256": "5bbf2e62f3db3b7084839857b8f8c92013ab4addfaec254a1837941be68d5fcb",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/perplexity/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 944,
+      "collection": "theSVG",
+      "file": "perplexity-1.svg",
+      "id": 1097,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-1.svg",
+        "original_is_default": false,
+        "original_slug": "perplexity"
+      },
+      "rounded_corners": {
+        "previous_bytes": 711,
+        "previous_sha256": "69e85f062927cb1dd062de7259bdd66a5c54f5d05d50dd84b057b0cfe02f0a60",
+        "ratio": 0.2
+      },
+      "sha256": "adf42dbd2219f136d2d3b34425a07431f6001cab18535ac2ff169e3ac60b0818",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/perplexity/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 840,
+      "collection": "SVGL",
+      "file": "perplexity-2.svg",
+      "id": 1098,
+      "is_default": false,
+      "label": "perplexity",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-2.svg",
+        "original_is_default": false,
+        "original_slug": "perplexity"
+      },
+      "rounded_corners": {
+        "previous_bytes": 607,
+        "previous_sha256": "42839e4b9340e17012dffa33b21255f3986913c4884e63eef7d9a2f703ae45a5",
+        "ratio": 0.2
+      },
+      "sha256": "1d1e44d77321e19b170457fef30f5c09180fa0cb1419b43e0bf24c485e3c52b5",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/perplexity.svg",
+      "version": 2
+    },
+    {
+      "bytes": 898,
+      "collection": "Dashboard Icons",
+      "file": "perplexity-3.svg",
+      "id": 1099,
+      "is_default": false,
+      "label": "perplexity",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-3.svg",
+        "original_is_default": false,
+        "original_slug": "perplexity"
+      },
+      "rounded_corners": {
+        "previous_bytes": 665,
+        "previous_sha256": "931d49c4c0f691b8e756310a255b9fd3e5aa755cbcee44240937e9de4703fd54",
+        "ratio": 0.2
+      },
+      "sha256": "da5310b9e1f6de5cd54f810b6b8737e46c4494ecd06196e0076e9b2e96c3511d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perplexity.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1134,
+      "collection": "Dashboard Icons",
+      "file": "perplexity-4.svg",
+      "id": 1100,
+      "is_default": false,
+      "label": "perplexity-dark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-4.svg",
+        "original_is_default": false,
+        "original_slug": "perplexity"
+      },
+      "sha256": "584e0fc13565c5031b7639d6b2b6095441e2bd6fef9f65e74a39a6e2c81f571f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perplexity-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

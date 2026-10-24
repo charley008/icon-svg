@@ -1,0 +1,209 @@
+{
+  "collection_id": 125,
+  "schema_version": 1,
+  "id": 195,
+  "title": "Docker",
+  "url": "https://docker.com",
+  "domains": [
+    "docker.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "全球App补充",
+    "开发",
+    "编程",
+    "容器",
+    "Docker",
+    "docker.com"
+  ],
+  "aliases": [
+    "docker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1798,
+      "collection": "已有图标",
+      "file": "docker.svg",
+      "id": 470,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker.svg",
+        "original_is_default": true,
+        "original_slug": "docker"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1565,
+        "previous_sha256": "24ddd33f8b9baa81d80cf17f62ca79ac7619befc2868fbc0982423e682e127a6",
+        "ratio": 0.2
+      },
+      "sha256": "f96b31b302f895ecba557422d5fefec338c1650314a9e26f6629f57f13c08aad",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/docker/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1410,
+      "collection": "GoTab 公开资源库",
+      "file": "docker-1.svg",
+      "gotab_id": 244,
+      "id": 471,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "docker-1.svg",
+        "original_is_default": false,
+        "original_slug": "docker"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1188,
+        "previous_sha256": "d447fecabf59a8a728fb9dc745dddfc9343cd44c716abc62eada145e6d9f29fd",
+        "ratio": 0.2
+      },
+      "sha256": "39618179fece39bffc4164ba6418e1f10700a0c80f3dd11c6dfe0edd1d002b69",
+      "source": "https://web.gotab.cn/sourceStore/website/01KDC3XY4BW1F6MMAJTMFR3Z27.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1967,
+      "collection": "已有图标",
+      "file": "docker-2.svg",
+      "id": 472,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-2.svg",
+        "original_is_default": false,
+        "original_slug": "docker"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1742,
+        "previous_sha256": "9ea1f35b1980ef7cfcaa6b062d6cdffebc57f6b478c3f912f4c59533a06e27ad",
+        "ratio": 0.2
+      },
+      "sha256": "cdec67cf9a5fff856ccb9bc69be17c150dc26b51de4a0ac4d301f33ef93d6433",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/docker-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4154,
+      "collection": "已有图标",
+      "file": "docker-3.svg",
+      "id": 473,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-3.svg",
+        "original_is_default": false,
+        "original_slug": "docker"
+      },
+      "sha256": "df1f53253b68348e68e3844731da97670d7da23b0ba94ee4c9f80e74a2c0f52f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/docker/wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2091,
+      "collection": "已有图标",
+      "file": "docker-4.svg",
+      "id": 474,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-4.svg",
+        "original_is_default": false,
+        "original_slug": "docker"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1858,
+        "previous_sha256": "166afae5301725f33cc9619b8981437b5436719fb328a92139a307916cd2b0f7",
+        "ratio": 0.2
+      },
+      "sha256": "26f4755f0af096d29c0118dfac92676432296a1b2327fc3dbe95494bb8393451",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/docker/mono.svg",
+      "version": 4
+    },
+    {
+      "bytes": 701,
+      "collection": "已有图标",
+      "file": "docker-5.svg",
+      "id": 475,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-5.svg",
+        "original_is_default": false,
+        "original_slug": "docker"
+      },
+      "sha256": "770b315e5a09b8ad56430c3828b31daf9800b013412fe428c8c02c2a6aa44446",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 196,
+      "key": "hub",
+      "title": "Docker Hub",
+      "url": "https://hub.docker.com",
+      "domains": [
+        "hub.docker.com"
+      ],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "开发",
+        "编程",
+        "容器",
+        "Docker",
+        "Docker Hub",
+        "docker-hub",
+        "hub.docker.com"
+      ],
+      "aliases": [
+        "docker-hub"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1539,
+          "collection": "GoTab 公开资源库",
+          "file": "docker-hub.svg",
+          "gotab_id": 245,
+          "id": 476,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "docker-hub.svg",
+            "original_is_default": true,
+            "original_slug": "docker-hub"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1317,
+            "previous_sha256": "c335276a8d3d246c40662b8ae6966c3c78888cd0585ce9732d748b75b78b055b",
+            "ratio": 0.2
+          },
+          "sha256": "07a5ddba26fe8e58ee2f3521fa3ab2d557d65d6dc651b3b5fda7b409d83adea7",
+          "source": "https://web.gotab.cn/sourceStore/website/01KDC517S8VZVHA62DM9QPCHF7.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

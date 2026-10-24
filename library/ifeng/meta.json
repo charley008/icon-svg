@@ -1,0 +1,121 @@
+{
+  "collection_id": 206,
+  "schema_version": 1,
+  "id": 303,
+  "title": "凤凰网",
+  "url": "https://ifeng.com",
+  "domains": [
+    "ifeng.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "凤凰网",
+    "ifeng",
+    "phoenix",
+    "ifeng.com"
+  ],
+  "aliases": [
+    "ifeng",
+    "phoenix"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 3485,
+      "collection": "GoTab 公开资源库",
+      "file": "ifeng.svg",
+      "gotab_id": 28,
+      "id": 749,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ifeng-1.svg",
+        "original_is_default": true,
+        "original_slug": "ifeng"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3263,
+        "previous_sha256": "73c8e0894a5de4335e54d3bd12d209e4fb95c28a54c94ab759fa448bcf8adf1a",
+        "ratio": 0.2
+      },
+      "sha256": "40132858342d615a1d0863c2e6f0b9e24b2fe59cfeb5aeedd1f5def791f370f1",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HB7D08QCTTKRRZ81Q9X6KH.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2521,
+      "collection": "用户优化 SVG",
+      "file": "ifeng-1.svg",
+      "id": 750,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "ifeng.svg",
+        "original_is_default": false,
+        "original_slug": "ifeng"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2299,
+        "previous_sha256": "e7505e20c69b4437ba5cc8a0709cfddb73fd0ba2b821d01f7f4c40a7f7d8ba96",
+        "ratio": 0.2
+      },
+      "sha256": "1fcdf1ff753ad6ea4b7a3fd3167667384f9d712b023967fa3273ad18514e8be4",
+      "source": "用户确认：复用图库已有双凤矢量轮廓，保留原红色内底和浅色圆角外底；256x256",
+      "version": 1
+    },
+    {
+      "bytes": 3716,
+      "collection": "已有图标",
+      "file": "ifeng-2.svg",
+      "id": 751,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "brand-use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ifeng-2.svg",
+        "original_is_default": false,
+        "original_slug": "ifeng"
+      },
+      "sha256": "0fef26d5f0b167e8771a3edae8ce6997702db4d02f53b0f4313ddb4a8397039c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/phoenix/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1196,
+      "collection": "已有图标",
+      "file": "ifeng-3.svg",
+      "id": 752,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ifeng-3.svg",
+        "original_is_default": false,
+        "original_slug": "ifeng"
+      },
+      "rounded_corners": {
+        "previous_bytes": 963,
+        "previous_sha256": "cd0cd845d9d2df1cc2b6300853152fcb74ba901f9a396216cc01a6ff79ddaef3",
+        "ratio": 0.2
+      },
+      "sha256": "e420ea0d92db3e50a385cf7c2dc0271184a3a03f34a47b0c64c3ec4731bad6d9",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#phoenix",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

@@ -1,0 +1,146 @@
+{
+  "collection_id": 448,
+  "schema_version": 1,
+  "id": 609,
+  "title": "知乎",
+  "url": "https://zhihu.com",
+  "domains": [
+    "zhihu.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "社交",
+    "通讯",
+    "知乎",
+    "zhihu",
+    "zhihu.com"
+  ],
+  "aliases": [
+    "zhihu"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1197,
+      "collection": "用户优选",
+      "file": "zhihu.svg",
+      "id": 1526,
+      "is_default": true,
+      "label": "zhihu",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "zhihu.svg",
+        "original_is_default": true,
+        "original_slug": "zhihu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 964,
+        "previous_sha256": "d884a41629ef5094f65560cf94554d65fab7c067623ee62ecd8e34834c5cd2ea",
+        "ratio": 0.2
+      },
+      "sha256": "db50409b6dee6f7387f84bc3f7c98929834a7e1353af4c22559138449682eb1c",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1244,
+      "collection": "theSVG",
+      "file": "zhihu-1.svg",
+      "id": 1527,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zhihu-1.svg",
+        "original_is_default": false,
+        "original_slug": "zhihu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1011,
+        "previous_sha256": "437287f8ccefdaf699b39bd14f76e668d660e36cf3111b83867a39511e7a7ec0",
+        "ratio": 0.2
+      },
+      "sha256": "31f624b2dc6d3cae9e62a0d79a69949958e8584992f5746b20cc6fc5f1fd73f5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zhihu/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1051,
+      "collection": "Iconify / ri",
+      "file": "zhihu-2.svg",
+      "id": 1528,
+      "is_default": false,
+      "label": "zhihu-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zhihu-2.svg",
+        "original_is_default": false,
+        "original_slug": "zhihu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 818,
+        "previous_sha256": "2d848541ff7bb067040154273ce286ee817f54c9bf3e65c9281bf7bfb1964f1d",
+        "ratio": 0.2
+      },
+      "sha256": "4eb383cf7d15c2bf02cb2e6522518e8b5f2b88416ed8c57b264870e0594c1557",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#zhihu-fill",
+      "version": 2
+    },
+    {
+      "bytes": 880,
+      "collection": "Iconify / ri",
+      "file": "zhihu-3.svg",
+      "id": 1529,
+      "is_default": false,
+      "label": "zhihu-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zhihu-3.svg",
+        "original_is_default": false,
+        "original_slug": "zhihu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 647,
+        "previous_sha256": "775830a9f607a01c405b42bb745de026527625f5ec10367746950b257d2b64b2",
+        "ratio": 0.2
+      },
+      "sha256": "ce925cdea0264958d830db85dc2894bd5542df4fb741d486f70e8dcc7885b4f6",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#zhihu-line",
+      "version": 3
+    },
+    {
+      "bytes": 721,
+      "collection": "Iconify / arcticons",
+      "file": "zhihu-4.svg",
+      "id": 1530,
+      "is_default": false,
+      "label": "zhihu",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zhihu-4.svg",
+        "original_is_default": false,
+        "original_slug": "zhihu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 488,
+        "previous_sha256": "7761fe34f7864f3fb5af870c5e9bfdd1157e071d29a37879a41a12124ae973e1",
+        "ratio": 0.2
+      },
+      "sha256": "c73c901797c68622228e172317df5aefe3d28600fab23e5c75ab43127da52caa",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#zhihu",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

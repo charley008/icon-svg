@@ -1,0 +1,50 @@
+{
+  "collection_id": 109,
+  "schema_version": 1,
+  "id": 179,
+  "title": "DDNS",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "动态域名",
+    "DDNS"
+  ],
+  "aliases": [
+    "ddns"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 5811,
+      "collection": "用户优化 SVG",
+      "file": "ddns.svg",
+      "id": 432,
+      "is_default": true,
+      "label": "ddns",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "ddns.svg",
+        "original_is_default": true,
+        "original_slug": "ddns"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5589,
+        "previous_sha256": "dec6a4646c131c6f4417b165519750d7b7e762064244133aa08073edb47efb8e",
+        "ratio": 0.2
+      },
+      "sha256": "4d03cb39e4170ea893cf596629094ef8efab0783c80752a50b7b58c0225618f5",
+      "source": "用户确认重绘：DDNS 蓝色地球网格与白字标牌，文字转矢量轮廓",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

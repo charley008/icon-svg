@@ -1,0 +1,52 @@
+{
+  "collection_id": 5,
+  "schema_version": 1,
+  "id": 5,
+  "title": "17173",
+  "url": "https://17173.com",
+  "domains": [
+    "17173.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "国内补充",
+    "游戏",
+    "17173",
+    "17173.com"
+  ],
+  "aliases": [
+    "17173"
+  ],
+  "notes": [
+    "按用户提供素材重新描摹，背景使用原生矢量形状及渐变。"
+  ],
+  "icons": [
+    {
+      "bytes": 52545,
+      "collection": "用户提供素材",
+      "file": "17173.svg",
+      "id": 12,
+      "is_default": true,
+      "label": "参考图重绘",
+      "license": "品牌商标归权利人；用户提供参考素材",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "17173.svg",
+        "original_is_default": true,
+        "original_slug": "17173"
+      },
+      "render_rmse": 59.835,
+      "rounded_corners": {
+        "previous_bytes": 52323,
+        "previous_sha256": "c7108e9dcb6109c84bf98de2a0cfff85780be485bc3f81ff298a62de2f6e483e",
+        "ratio": 0.2
+      },
+      "sha256": "1e8ac96adf119f6952cb3e42b0ca23ecccd182da1f16e32eea899d5ca26343dc",
+      "source": "用户提供素材",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

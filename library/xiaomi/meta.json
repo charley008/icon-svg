@@ -1,0 +1,217 @@
+{
+  "collection_id": 431,
+  "schema_version": 1,
+  "id": 591,
+  "title": "小米",
+  "url": "https://mi.com",
+  "domains": [
+    "mi.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "国内补充",
+    "硬件",
+    "设备",
+    "小米",
+    "xiaomi",
+    "mi.com"
+  ],
+  "aliases": [
+    "xiaomi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1229,
+      "collection": "已有图标",
+      "file": "xiaomi.svg",
+      "id": 1483,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaomi.svg",
+        "original_is_default": true,
+        "original_slug": "xiaomi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 996,
+        "previous_sha256": "ea2a01aa388c328a4026e10df975a7713d0081da00034ffb86fa90b07d353799",
+        "ratio": 0.2
+      },
+      "sha256": "3ed28ea3627dd57e5fb439393adec1228e90b9260a08ac140a4fc351a0189956",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xiaomi/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2245,
+      "collection": "GoTab 公开资源库",
+      "file": "xiaomi-1.svg",
+      "gotab_id": 66,
+      "id": 1484,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "xiaomi-1.svg",
+        "original_is_default": false,
+        "original_slug": "xiaomi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2023,
+        "previous_sha256": "068d8f1e1f487494d3403494fcd57187e541fc1a2e3b23a795d447c0fe4248a3",
+        "ratio": 0.2
+      },
+      "sha256": "3d725b4ca1bc3eada3fcc45e93e75acd31b68ad88475a4c4b9f3ac2f435244ac",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HK3WSN3PK3W669TTBBR6XR.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1267,
+      "collection": "已有图标",
+      "file": "xiaomi-2.svg",
+      "id": 1485,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaomi-2.svg",
+        "original_is_default": false,
+        "original_slug": "xiaomi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1042,
+        "previous_sha256": "b7808a9bf2e269addb5237a529ae9b1d6b6c79f49676d2eca5515cfba62ca925",
+        "ratio": 0.2
+      },
+      "sha256": "a97a39ea5d125e935e1611ba2d1122a80ca81512f7b4c85233bcee3221058e48",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xiaomi-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1229,
+      "collection": "已有图标",
+      "file": "xiaomi-3.svg",
+      "id": 1486,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaomi-3.svg",
+        "original_is_default": false,
+        "original_slug": "xiaomi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 996,
+        "previous_sha256": "d76d14f81a8207b39693da7197357a864c2841b2ad5226c1a0353b3cedfc950b",
+        "ratio": 0.2
+      },
+      "sha256": "4d0fafb63e820eada60420698016474a4215b77ac8e026f8a8727003cc34873d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xiaomi/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1372,
+      "collection": "已有图标",
+      "file": "xiaomi-4.svg",
+      "id": 1487,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaomi-4.svg",
+        "original_is_default": false,
+        "original_slug": "xiaomi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1139,
+        "previous_sha256": "d0ba317680b8f6d55b66b36d2e0c6826094ad94d4f1353e4e02027ca557fd483",
+        "ratio": 0.2
+      },
+      "sha256": "bdf0339eb768047cdd193345d9ae640fc5a3696a1dea557359533fa7c76b2b21",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/xiaomi.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1798,
+      "collection": "已有图标",
+      "file": "xiaomi-5.svg",
+      "id": 1488,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaomi-5.svg",
+        "original_is_default": false,
+        "original_slug": "xiaomi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1578,
+        "previous_sha256": "dead88323d064a3b6567b848f08d8f65580ba5ba690e21d1d9de6288bb7aafa0",
+        "ratio": 0.2
+      },
+      "sha256": "f4226db0b3b8dc92f46078251d635616e861ba4cbee0b6ae019250b9725071cb",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/mi.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 592,
+      "key": "mimo",
+      "title": "Xiaomi MiMo",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "用户优选",
+        "自用",
+        "人工智能",
+        "小米",
+        "Xiaomi MiMo",
+        "xiaomi-mimo"
+      ],
+      "aliases": [
+        "xiaomi-mimo"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 13305,
+          "collection": "用户优选",
+          "file": "xiaomi-mimo.svg",
+          "id": 1489,
+          "is_default": true,
+          "label": "xiaomimimo",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "xiaomi-mimo.svg",
+            "original_is_default": true,
+            "original_slug": "xiaomi-mimo"
+          },
+          "rounded_corners": {
+            "previous_bytes": 13083,
+            "previous_sha256": "8b8861313b9464f1cd30d562a9a7bc3729ec5873ff7d870f549c2bdad08dbdbf",
+            "ratio": 0.2
+          },
+          "sha256": "f04c26d020b24c3ab4f2816804d36cc4bc35066b6ebb4c813db8a96c83b62649",
+          "source": "用户优选",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

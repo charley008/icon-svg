@@ -1,0 +1,51 @@
+{
+  "collection_id": 136,
+  "schema_version": 1,
+  "id": 207,
+  "title": "大学资源网",
+  "url": "https://dxzy163.com",
+  "domains": [
+    "dxzy163.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "大学资源网",
+    "dxzy163",
+    "dxzy163.com"
+  ],
+  "aliases": [
+    "dxzy163"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1719,
+      "collection": "GoTab 公开资源库",
+      "file": "dxzy163.svg",
+      "gotab_id": 84,
+      "id": 512,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "dxzy163.svg",
+        "original_is_default": true,
+        "original_slug": "dxzy163"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1497,
+        "previous_sha256": "3e8a7a16467bcfe5b6ff931c35453badb2f435b9fe0fe4cb266470267b82b301",
+        "ratio": 0.2
+      },
+      "sha256": "f24e7843100a58bda69e94525cbdbd989ad00a9cb59c4da5f9b82dc04227c54f",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HN76S9NYE42K9A604NGN3M.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

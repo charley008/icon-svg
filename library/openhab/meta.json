@@ -1,0 +1,42 @@
+{
+  "title": "openHAB",
+  "url": "https://www.openhab.org/",
+  "domains": [
+    "www.openhab.org"
+  ],
+  "description": "开源家庭自动化平台。",
+  "category": "生活服务",
+  "tags": [
+    "智能家居",
+    "家庭自动化",
+    "openHAB"
+  ],
+  "aliases": [
+    "openhab",
+    "智能家居",
+    "家庭自动化",
+    "Home Automation"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "openhab.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ce07150018fa624fd27a23cd2ae51961a95994a72c2c6c370b30050d03a30f35",
+      "bytes": 427,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openhab.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "openhab.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

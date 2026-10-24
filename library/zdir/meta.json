@@ -1,0 +1,73 @@
+{
+  "collection_id": 445,
+  "schema_version": 1,
+  "id": 606,
+  "title": "Zdir",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网盘",
+    "云存储",
+    "Zdir"
+  ],
+  "aliases": [
+    "zdir"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 628,
+      "collection": "用户优化 SVG",
+      "file": "zdir.svg",
+      "id": 1521,
+      "is_default": true,
+      "label": "zdir-blue",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "zdir.svg",
+        "original_is_default": true,
+        "original_slug": "zdir"
+      },
+      "rounded_corners": {
+        "previous_bytes": 406,
+        "previous_sha256": "fc8f23560ce39bea9cc20814343aaf4522a29feb67d43209dc63df0ebcf77822",
+        "ratio": 0.2
+      },
+      "sha256": "fcf3f9dd14c41b2085d539b6786d433b5064e5d7626968e96a2974b02df6507a",
+      "source": "用户确认重绘：蓝色文件夹和白色Z；黄色版使用同一造型及原图黄色#ffcc28；256x256纯矢量",
+      "version": 0
+    },
+    {
+      "bytes": 628,
+      "collection": "用户优化 SVG",
+      "file": "zdir-1.svg",
+      "id": 1522,
+      "is_default": false,
+      "label": "zdir-y",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "zdir-1.svg",
+        "original_is_default": false,
+        "original_slug": "zdir"
+      },
+      "rounded_corners": {
+        "previous_bytes": 406,
+        "previous_sha256": "ab9d31f752417a01009bc1bce4d5585f567c05bb1652febb83dbb6b3f43e00fb",
+        "ratio": 0.2
+      },
+      "sha256": "dbaab5ed479c2ff1864a512f31ef24c8ecbdb704d944ee8f92fc3b32f87f3370",
+      "source": "用户确认重绘：蓝色文件夹和白色Z；黄色版使用同一造型及原图黄色#ffcc28；256x256纯矢量",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

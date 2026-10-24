@@ -1,0 +1,44 @@
+{
+  "collection_id": 473,
+  "schema_version": 1,
+  "id": 637,
+  "title": "jQuery",
+  "url": "https://jquery.com/",
+  "domains": [
+    "jquery.com"
+  ],
+  "description": "jQuery 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "jQuery",
+    "jquery",
+    "JavaScript",
+    "前端开发",
+    "前端库"
+  ],
+  "aliases": [
+    "jquery"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5760,
+      "collection": "用户补充 SVG",
+      "file": "jquery.svg",
+      "id": 1580,
+      "is_default": true,
+      "label": "jquery-4",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "jquery-4.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/jquery-4.svg"
+      },
+      "sha256": "1d0059b8d2e9fc3f874a4b0beef6091ecb7de550e299965227c3d266fec70138",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/jquery-4.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

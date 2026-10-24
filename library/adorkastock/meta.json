@@ -1,0 +1,50 @@
+{
+  "collection_id": 25,
+  "schema_version": 1,
+  "id": 29,
+  "title": "AdorkaStock",
+  "url": "https://adorkastock.com",
+  "domains": [
+    "adorkastock.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "AdorkaStock",
+    "adorkastock.com"
+  ],
+  "aliases": [
+    "adorkastock"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2475,
+      "collection": "GoTab 公开资源库",
+      "file": "adorkastock.svg",
+      "gotab_id": 150,
+      "id": 49,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "adorkastock.svg",
+        "original_is_default": true,
+        "original_slug": "adorkastock"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2253,
+        "previous_sha256": "b7d4419f8517bd48548bd3080d263e34e1fd95a2e51eaf201b99b4dd10a682c1",
+        "ratio": 0.2
+      },
+      "sha256": "4b534c2f852523b115c8087d26052732b292f7ad5f398a02a101a47bd94bf456",
+      "source": "https://web.gotab.cn/uploads/202410/01JASPD014NXZ7VRZ9XA5VV108.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

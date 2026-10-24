@@ -1,0 +1,43 @@
+{
+  "title": "Hacker News",
+  "url": "https://news.ycombinator.com/",
+  "domains": [
+    "news.ycombinator.com"
+  ],
+  "description": "技术与创业资讯社区。",
+  "category": "新闻资讯",
+  "tags": [
+    "HackerNews",
+    "技术资讯",
+    "创业",
+    "Hacker News"
+  ],
+  "aliases": [
+    "hacker-news",
+    "HackerNews",
+    "技术资讯",
+    "创业"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "hacker-news.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "4f7c4ad9e1840497c1a44e0b07cb34b3712ae4cf225705ad39d8d04f8b19a353",
+      "bytes": 325,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hacker-news.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "hacker-news.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,154 @@
+{
+  "collection_id": 341,
+  "schema_version": 1,
+  "id": 471,
+  "title": "Samsung",
+  "url": "https://samsung.com",
+  "domains": [
+    "samsung.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "全球Top100",
+    "Worldvectorlogo补充",
+    "硬件",
+    "设备",
+    "Samsung",
+    "samsung.com",
+    "三星",
+    "电子产品",
+    "手机"
+  ],
+  "aliases": [
+    "samsung",
+    "三星"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2613,
+      "collection": "theSVG",
+      "file": "samsung.svg",
+      "id": 1176,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samsung.svg",
+        "original_is_default": true,
+        "original_slug": "samsung"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2380,
+        "previous_sha256": "b3e73768aa04b480df44d9e2cb9ef1278b774eaaef44594253d2430aab093d42",
+        "ratio": 0.2
+      },
+      "sha256": "fb5e4d6c58816f79a77fad927533fc2f96c5099238ea667a3cd9786d85b3ecb7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/samsung/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8205,
+      "collection": "theSVG",
+      "file": "samsung-1.svg",
+      "id": 1177,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samsung-1.svg",
+        "original_is_default": false,
+        "original_slug": "samsung"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7980,
+        "previous_sha256": "c7f27277663cfd7e79abb79d2cdf5990de4a8400cb27c7572db9b3658510ef8d",
+        "ratio": 0.2
+      },
+      "sha256": "41f1900e3b831035f9b4169e98853717a470c04b74678f0ef255b97a7e392494",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/samsung-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2613,
+      "collection": "theSVG",
+      "file": "samsung-2.svg",
+      "id": 1178,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samsung-2.svg",
+        "original_is_default": false,
+        "original_slug": "samsung"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2380,
+        "previous_sha256": "d54c15f5f548cd58bf725dd99d3e74c05ed70983bff456332d553667b92cfdda",
+        "ratio": 0.2
+      },
+      "sha256": "a2b1d752ef7aa953caa8ee90af6d4f69366730f92dd1c1faf246d075e2a13336",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/samsung/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2145,
+      "collection": "Worldvectorlogo",
+      "file": "samsung-3.svg",
+      "id": 1179,
+      "is_default": false,
+      "label": "samsung-8",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samsung-3.svg",
+        "original_is_default": false,
+        "original_slug": "samsung"
+      },
+      "sha256": "3a8aa53036d02d21d9b5eef6f63a81b0cbf24e256f691481460e96172230df38",
+      "source": "https://cdn.worldvectorlogo.com/logos/samsung-8.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/samsung-8",
+      "version": 3
+    },
+    {
+      "bytes": 2712,
+      "collection": "用户补充 SVG",
+      "file": "samsung-4.svg",
+      "id": 1610,
+      "is_default": false,
+      "label": "samsung-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "samsung-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/samsung-1.svg"
+      },
+      "sha256": "5774a281f2a0f4c2cbb63de52c365c02802b0833c5f1dd48054f972be0841796",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/samsung-1.svg",
+      "version": 4
+    },
+    {
+      "bytes": 3502,
+      "collection": "用户补充 SVG",
+      "file": "samsung-5.svg",
+      "id": 1611,
+      "is_default": false,
+      "label": "samsung-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "samsung-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/samsung-2.svg"
+      },
+      "sha256": "1b3c4eb23c2b3d440a99ecf1c378962c1ccb077ef10ba3774594ce852f625e1c",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/samsung-2.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

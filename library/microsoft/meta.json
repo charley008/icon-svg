@@ -1,0 +1,2488 @@
+{
+  "collection_id": 258,
+  "schema_version": 1,
+  "id": 358,
+  "title": "Microsoft",
+  "url": "https://www.microsoft.com",
+  "domains": [
+    "msftconnecttest.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "中国地区Top100",
+    "全球Top100",
+    "硬件",
+    "设备",
+    "微软",
+    "Microsoft",
+    "msftconnecttest.com"
+  ],
+  "aliases": [
+    "microsoft"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 618,
+      "collection": "theSVG",
+      "file": "microsoft.svg",
+      "id": 879,
+      "is_default": true,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "microsoft.svg",
+        "original_is_default": true,
+        "original_slug": "microsoft"
+      },
+      "rounded_corners": {
+        "previous_bytes": 396,
+        "previous_sha256": "d676a8b1486a3d3421f9467890669f26bbf47f9502c34221da976ad1c84f67ae",
+        "ratio": 0.2
+      },
+      "sha256": "84c7c334a60521dc255787ecaba8915d45510199db69ff21281b09ac146c75fa",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 624,
+      "collection": "theSVG",
+      "file": "microsoft-1.svg",
+      "id": 880,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "microsoft-1.svg",
+        "original_is_default": false,
+        "original_slug": "microsoft"
+      },
+      "rounded_corners": {
+        "previous_bytes": 399,
+        "previous_sha256": "d7c1959b60e1dbfb54a0f7cedad366df3de9c71f8b996440df4ecfa6cd139d72",
+        "ratio": 0.2
+      },
+      "sha256": "8288c1a0ece0a6c282b907bbf0bc6b52acba97981a763475c5aea8b085306afd",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4391,
+      "collection": "theSVG",
+      "file": "microsoft-2.svg",
+      "id": 881,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "microsoft-2.svg",
+        "original_is_default": false,
+        "original_slug": "microsoft"
+      },
+      "sha256": "a034ee204acb75b26fe2f867deb9df9905bc2057f40b17088af06d079f6cbd43",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 707,
+      "collection": "Dashboard Icons",
+      "file": "microsoft-3.svg",
+      "id": 882,
+      "is_default": false,
+      "label": "microsoft",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "microsoft-3.svg",
+        "original_is_default": false,
+        "original_slug": "microsoft"
+      },
+      "rounded_corners": {
+        "previous_bytes": 484,
+        "previous_sha256": "dfcdcf87ea2c385194422d63fb4f5bbf7cc1703e8278299a239d56ea1e08ddd1",
+        "ratio": 0.2
+      },
+      "sha256": "06bd98777a3b11e1427a32b7412d70598b4dbca2787d8a483bdc9e09e3242c99",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft.svg",
+      "version": 3
+    },
+    {
+      "bytes": 506,
+      "collection": "Iconify / ri",
+      "file": "microsoft-4.svg",
+      "id": 883,
+      "is_default": false,
+      "label": "microsoft-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "microsoft-4.svg",
+        "original_is_default": false,
+        "original_slug": "microsoft"
+      },
+      "rounded_corners": {
+        "previous_bytes": 273,
+        "previous_sha256": "f4372d1d4f6452be76694d454e8393b9dbb9612cdf3850b5b198afbc50c578a1",
+        "ratio": 0.2
+      },
+      "sha256": "ed513e2dbb200b3ed5de77e28b44624df311d5af6d9544a524b299cb3c105e81",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#microsoft-fill",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 359,
+      "key": "azure",
+      "title": "Microsoft Azure",
+      "url": "https://azure.microsoft.com",
+      "domains": [
+        "azure.microsoft.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "全球App补充",
+        "用户优选",
+        "云计算",
+        "微软",
+        "Microsoft Azure",
+        "azure",
+        "microsoftazure",
+        "microsoft-azure",
+        "azure.microsoft.com"
+      ],
+      "aliases": [
+        "azure",
+        "microsoftazure",
+        "microsoft-azure"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2209,
+          "collection": "用户优选",
+          "file": "microsoft-azure.svg",
+          "id": 884,
+          "is_default": true,
+          "label": "azure",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "azure.svg",
+            "original_is_default": true,
+            "original_slug": "azure"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1987,
+            "previous_sha256": "eded90d4bf1b0f5a7733a5583378d6c9f8143bb8fd137e8ace23301601a4f1ce",
+            "ratio": 0.2
+          },
+          "sha256": "3e841eedbb0264b9460e967f126b728aaadc7bc1e36601dc5cbb8d33a07492f6",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 719,
+          "collection": "theSVG",
+          "file": "microsoft-azure-1.svg",
+          "id": 885,
+          "is_default": false,
+          "label": "default",
+          "license": "brand-use",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-1.svg",
+            "original_is_default": false,
+            "original_slug": "azure"
+          },
+          "sha256": "6dc1fd39a7056e171dd2eeadeff5f90d0df381a477e1195ad345021776397aec",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2020,
+          "collection": "theSVG",
+          "file": "microsoft-azure-2.svg",
+          "id": 886,
+          "is_default": false,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-2.svg",
+            "original_is_default": false,
+            "original_slug": "azure"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1786,
+            "previous_sha256": "1f70cd07822c543c4168a6c99dad01ce4ce7f63c4f136c54b0fcdd6828904a8e",
+            "ratio": 0.2
+          },
+          "sha256": "43196a6cdad4c71b9832e463b30ac5240c6c9c34d5fdca1a18e9ed0427c1953f",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-azure/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 984,
+          "collection": "theSVG",
+          "file": "microsoft-azure-3.svg",
+          "id": 887,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-3.svg",
+            "original_is_default": false,
+            "original_slug": "azure"
+          },
+          "rounded_corners": {
+            "previous_bytes": 759,
+            "previous_sha256": "62fb8b580421615fed957b9bae8551337133dd8e58d4e2f15baa9715ee20bc24",
+            "ratio": 0.2
+          },
+          "sha256": "0075d2888ed934f460a0beeb70153625d72a96aa4328e4948e0b212c965059f5",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure-badge/default.svg",
+          "version": 3
+        },
+        {
+          "bytes": 3450,
+          "collection": "theSVG",
+          "file": "microsoft-azure-4.svg",
+          "id": 888,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "brand-use",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-4.svg",
+            "original_is_default": false,
+            "original_slug": "azure"
+          },
+          "sha256": "65b8b52f1eed0dc1a15dd0195ced89f60e2473cffcec79cfb6668faae8caba1c",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure/wordmark.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 360,
+      "key": "bing",
+      "title": "Bing",
+      "url": "https://bing.com",
+      "domains": [
+        "bing.com"
+      ],
+      "description": "",
+      "category": "搜索导航",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "用户优选",
+        "搜索",
+        "导航",
+        "微软",
+        "Bing",
+        "bing.com"
+      ],
+      "aliases": [
+        "bing"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 5466,
+          "collection": "已有图标",
+          "file": "microsoft-bing.svg",
+          "id": 889,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "bing.svg",
+            "original_is_default": true,
+            "original_slug": "bing"
+          },
+          "sha256": "6d5eb476ded0a2018f2635a61a90a4c38024904b68e5e47143a3880cfbc3898f",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 3388,
+          "collection": "GoTab 公开资源库",
+          "file": "microsoft-bing-1.svg",
+          "gotab_id": 173,
+          "id": 890,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "bing-1.svg",
+            "original_is_default": false,
+            "original_slug": "bing"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3166,
+            "previous_sha256": "d367ef7704a46f9182a47e3ae7f1f915567ba7261ecae74b3741ae6bbc181975",
+            "ratio": 0.2
+          },
+          "sha256": "830136bd0e1b185e1b137688c55ada6878816656318deea0a0d81ae0aa956b28",
+          "source": "https://web.gotab.cn/sourceStore/website/01JCMR1CNKMJR3E9Y4F9VQD27Y.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3813,
+          "collection": "已有图标",
+          "file": "microsoft-bing-2.svg",
+          "id": 891,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bing-2.svg",
+            "original_is_default": false,
+            "original_slug": "bing"
+          },
+          "sha256": "099c4fc3c242de7975ccf5c492a669c4aa4fd323692de57716e8c878c8e2f560",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bing/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 3054,
+          "collection": "已有图标",
+          "file": "microsoft-bing-3.svg",
+          "id": 892,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bing-3.svg",
+            "original_is_default": false,
+            "original_slug": "bing"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2821,
+            "previous_sha256": "5c3a94c77b3f0466b8679023e9f035b40cb6e24d07eb7727dba29500ef305f4e",
+            "ratio": 0.2
+          },
+          "sha256": "0d403c138b9b59f07905d6457dd49fe4d784ed520734dfc894b5f19e6b0fd76d",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Bing.svg",
+          "version": 3
+        },
+        {
+          "bytes": 4690,
+          "collection": "已有图标",
+          "file": "microsoft-bing-4.svg",
+          "id": 893,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bing-4.svg",
+            "original_is_default": false,
+            "original_slug": "bing"
+          },
+          "sha256": "7d006a54a7759643403574a5d0f788c543be1f352e9f97150e3bf6f0b451b129",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Bing_wordmark.svg",
+          "version": 4
+        },
+        {
+          "bytes": 602,
+          "collection": "已有图标",
+          "file": "microsoft-bing-5.svg",
+          "id": 894,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bing-5.svg",
+            "original_is_default": false,
+            "original_slug": "bing"
+          },
+          "rounded_corners": {
+            "previous_bytes": 382,
+            "previous_sha256": "6e2693838ce0e40fb5aa517fb24e17768863a03caaa50611b18a745a990e0786",
+            "ratio": 0.2
+          },
+          "sha256": "4b5f35bf7b5feb40ab6f6744f7e0b0a3688e85887fe2643ef667ba8b07059b49",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/bing.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 361,
+      "key": "copilot",
+      "title": "Microsoft Copilot",
+      "url": "https://copilot.microsoft.com",
+      "domains": [
+        "copilot.microsoft.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "全球App补充",
+        "Worldvectorlogo补充",
+        "人工智能",
+        "微软",
+        "Microsoft Copilot",
+        "copilot",
+        "microsoftcopilot",
+        "microsoft-copilot",
+        "copilot.microsoft.com"
+      ],
+      "aliases": [
+        "copilot",
+        "microsoftcopilot",
+        "microsoft-copilot"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3518,
+          "collection": "theSVG",
+          "file": "microsoft-copilot.svg",
+          "id": 895,
+          "is_default": true,
+          "label": "default",
+          "license": "Trademark of Microsoft Corporation. Used for identification under nominative fair use.",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "copilot.svg",
+            "original_is_default": true,
+            "original_slug": "copilot"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3298,
+            "previous_sha256": "d968597afd126b3a199a44b459d20742fdc02a4a4727a07a5a49609c1bfc43ec",
+            "ratio": 0.2
+          },
+          "sha256": "bb4d9d3fccb6e6c1768e732e7d560122e899fa4033d67165723ee00e8ab73d95",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-copilot/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1591,
+          "collection": "SVGL",
+          "file": "microsoft-copilot-1.svg",
+          "id": 896,
+          "is_default": false,
+          "label": "copilot",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "copilot-1.svg",
+            "original_is_default": false,
+            "original_slug": "copilot"
+          },
+          "sha256": "cf5c35336c75eea2f5a85577ffc3552cae671116f4d023e45a81bc6eed5652c5",
+          "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/copilot.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3200,
+          "collection": "SVGL",
+          "file": "microsoft-copilot-2.svg",
+          "id": 897,
+          "is_default": false,
+          "label": "microsoft-copilot",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "copilot-2.svg",
+            "original_is_default": false,
+            "original_slug": "copilot"
+          },
+          "sha256": "ce5a9e4fe2376f29ed83d4928cdf27eba01a6f167e050fca66cd10ec2bacf187",
+          "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/microsoft-copilot.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1387,
+          "collection": "Iconify / ri",
+          "file": "microsoft-copilot-3.svg",
+          "id": 898,
+          "is_default": false,
+          "label": "copilot-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "copilot-3.svg",
+            "original_is_default": false,
+            "original_slug": "copilot"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1154,
+            "previous_sha256": "08c0f5903c806efad03770a33f53a5e7ae47663e4fe5614be37ffad5cca0d649",
+            "ratio": 0.2
+          },
+          "sha256": "326a4e70597d0dbfefca4c51436c38917ac539cba7ba93a8e0a623813d0523cb",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#copilot-fill",
+          "version": 3
+        },
+        {
+          "bytes": 6358,
+          "collection": "Worldvectorlogo",
+          "file": "microsoft-copilot-4.svg",
+          "id": 899,
+          "is_default": false,
+          "label": "microsoft-copilot-logo",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "copilot-4.svg",
+            "original_is_default": false,
+            "original_slug": "copilot"
+          },
+          "sha256": "5f6786da4ceb7bf8afee42f2a794f45f1a23416f211d98b297e2b571086dd182",
+          "source": "https://cdn.worldvectorlogo.com/logos/microsoft-copilot-logo.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/microsoft-copilot-logo",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 362,
+      "key": "edge",
+      "title": "Microsoft Edge",
+      "url": "https://microsoft.com/edge",
+      "domains": [
+        "microsoft.com/edge"
+      ],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "全球App补充",
+        "浏览器",
+        "网页浏览",
+        "微软",
+        "Microsoft Edge",
+        "edge",
+        "microsoftedge",
+        "microsoft-edge",
+        "microsoft.com/edge"
+      ],
+      "aliases": [
+        "edge",
+        "microsoftedge",
+        "microsoft-edge"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4354,
+          "collection": "theSVG",
+          "file": "microsoft-edge.svg",
+          "id": 900,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "edge.svg",
+            "original_is_default": true,
+            "original_slug": "edge"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4132,
+            "previous_sha256": "73d70271f010eda32bc84fecf464007d15313be8fb42c2411e635e1f77fa9de9",
+            "ratio": 0.2
+          },
+          "sha256": "496a9b782ee0ae0f3efeade534fdc564fe27c3989a42169f89f3c9811c86429a",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/edge/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 918,
+          "collection": "Iconify / ri",
+          "file": "microsoft-edge-1.svg",
+          "id": 901,
+          "is_default": false,
+          "label": "edge-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "edge-1.svg",
+            "original_is_default": false,
+            "original_slug": "edge"
+          },
+          "rounded_corners": {
+            "previous_bytes": 685,
+            "previous_sha256": "086b0c263ab992f1fd1ab588ead88b26adab998a518bf829c6c0ae591fb52952",
+            "ratio": 0.2
+          },
+          "sha256": "ce2596cafec064464596d04437678166a9435f14df37708cb1b88b510140fa28",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#edge-fill",
+          "version": 1
+        },
+        {
+          "bytes": 717,
+          "collection": "Iconify / ri",
+          "file": "microsoft-edge-2.svg",
+          "id": 902,
+          "is_default": false,
+          "label": "edge-line",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "edge-2.svg",
+            "original_is_default": false,
+            "original_slug": "edge"
+          },
+          "rounded_corners": {
+            "previous_bytes": 484,
+            "previous_sha256": "9e53cec05354a974fe4f4b72c6e792a27296157e44a72c6de5462ab88b7cd692",
+            "ratio": 0.2
+          },
+          "sha256": "c8b2828ae978fd59e156cd7c2ba68baacdd569bb6345513eebbf3306bc8685b3",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#edge-line",
+          "version": 2
+        },
+        {
+          "bytes": 677,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-edge-3.svg",
+          "id": 903,
+          "is_default": false,
+          "label": "edge",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "edge-3.svg",
+            "original_is_default": false,
+            "original_slug": "edge"
+          },
+          "rounded_corners": {
+            "previous_bytes": 444,
+            "previous_sha256": "e2d47b3623a1be0739ff364182f2a65335a440f6afc8feee5d86c02eb49bbc13",
+            "ratio": 0.2
+          },
+          "sha256": "468d270a94cedae27e5b0ab73a18495753513f5fc203e27563fc1bbaade47dfd",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#edge",
+          "version": 3
+        },
+        {
+          "bytes": 954,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-edge-4.svg",
+          "id": 904,
+          "is_default": false,
+          "label": "microsoft-edge",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "edge-4.svg",
+            "original_is_default": false,
+            "original_slug": "edge"
+          },
+          "rounded_corners": {
+            "previous_bytes": 721,
+            "previous_sha256": "e2419693564c9354b4f3e091cdfd220bbe87572b64ad26ae47373531cb028b2c",
+            "ratio": 0.2
+          },
+          "sha256": "78994836c1540cc1717e379c8f4713f5fd7c44395edc832bbb4e342cbb9e9b3d",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-edge",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 363,
+      "key": "entra",
+      "title": "Microsoft Entra 登录",
+      "url": "https://login.microsoftonline.com",
+      "domains": [
+        "login.microsoftonline.com"
+      ],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "系统工具",
+        "微软",
+        "Microsoft Entra 登录",
+        "microsoft-entra",
+        "login.microsoftonline.com"
+      ],
+      "aliases": [
+        "microsoft-entra"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1104,
+          "collection": "GoTab 公开资源库",
+          "file": "microsoft-entra.svg",
+          "gotab_id": 174,
+          "id": 905,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "microsoft-entra.svg",
+            "original_is_default": true,
+            "original_slug": "microsoft-entra"
+          },
+          "rounded_corners": {
+            "previous_bytes": 882,
+            "previous_sha256": "a5de4a85a465fed125c0320f266952d49e0c9db9134dff5813810c4bfdf5e9ab",
+            "ratio": 0.2
+          },
+          "sha256": "5071d0049bfb96e194d3cc2d4580f4112ba1c8f0574a61037dd597e37f19603d",
+          "source": "https://web.gotab.cn/sourceStore/website/01JCMQKJ3KYEYHWBR2BDTDGWC9.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 364,
+      "key": "live",
+      "title": "Microsoft Live",
+      "url": "https://live.com",
+      "domains": [
+        "live.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "办公",
+        "效率工具",
+        "微软",
+        "Microsoft Live",
+        "microsoft-live",
+        "windows-live",
+        "microsoft",
+        "outlook",
+        "live.com"
+      ],
+      "aliases": [
+        "microsoft-live",
+        "windows-live",
+        "microsoft",
+        "outlook"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 618,
+          "collection": "theSVG",
+          "file": "microsoft-live.svg",
+          "id": 906,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-live.svg",
+            "original_is_default": true,
+            "original_slug": "microsoft-live"
+          },
+          "rounded_corners": {
+            "previous_bytes": 396,
+            "previous_sha256": "d676a8b1486a3d3421f9467890669f26bbf47f9502c34221da976ad1c84f67ae",
+            "ratio": 0.2
+          },
+          "sha256": "84c7c334a60521dc255787ecaba8915d45510199db69ff21281b09ac146c75fa",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 624,
+          "collection": "theSVG",
+          "file": "microsoft-live-1.svg",
+          "id": 907,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-live-1.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-live"
+          },
+          "rounded_corners": {
+            "previous_bytes": 399,
+            "previous_sha256": "d7c1959b60e1dbfb54a0f7cedad366df3de9c71f8b996440df4ecfa6cd139d72",
+            "ratio": 0.2
+          },
+          "sha256": "8288c1a0ece0a6c282b907bbf0bc6b52acba97981a763475c5aea8b085306afd",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-badge/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 4391,
+          "collection": "theSVG",
+          "file": "microsoft-live-2.svg",
+          "id": 908,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-live-2.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-live"
+          },
+          "sha256": "a034ee204acb75b26fe2f867deb9df9905bc2057f40b17088af06d079f6cbd43",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft/wordmark.svg",
+          "version": 2
+        },
+        {
+          "bytes": 707,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-live-3.svg",
+          "id": 909,
+          "is_default": false,
+          "label": "microsoft",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-live-3.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-live"
+          },
+          "rounded_corners": {
+            "previous_bytes": 484,
+            "previous_sha256": "dfcdcf87ea2c385194422d63fb4f5bbf7cc1703e8278299a239d56ea1e08ddd1",
+            "ratio": 0.2
+          },
+          "sha256": "06bd98777a3b11e1427a32b7412d70598b4dbca2787d8a483bdc9e09e3242c99",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft.svg",
+          "version": 3
+        },
+        {
+          "bytes": 506,
+          "collection": "Iconify / ri",
+          "file": "microsoft-live-4.svg",
+          "id": 910,
+          "is_default": false,
+          "label": "microsoft-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-live-4.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-live"
+          },
+          "rounded_corners": {
+            "previous_bytes": 273,
+            "previous_sha256": "f4372d1d4f6452be76694d454e8393b9dbb9612cdf3850b5b198afbc50c578a1",
+            "ratio": 0.2
+          },
+          "sha256": "ed513e2dbb200b3ed5de77e28b44624df311d5af6d9544a524b299cb3c105e81",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#microsoft-fill",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 365,
+      "key": "msn",
+      "title": "MSN",
+      "url": "https://msn.com",
+      "domains": [
+        "msn.com",
+        "msn.cn"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "全球Top100",
+        "中国地区Top100",
+        "Worldvectorlogo补充",
+        "新闻",
+        "资讯",
+        "微软",
+        "MSN",
+        "microsoft-msn",
+        "msn.com",
+        "msn.cn"
+      ],
+      "aliases": [
+        "msn",
+        "microsoft-msn"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3193,
+          "collection": "网络 SVG（用户确认）",
+          "file": "microsoft-msn.svg",
+          "id": 911,
+          "is_default": true,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "msn-2.svg",
+            "original_is_default": true,
+            "original_slug": "msn"
+          },
+          "render_rmse": 62.793,
+          "rounded_corners": {
+            "previous_bytes": 2974,
+            "previous_sha256": "f00495fb9c00dc06051fceb95d41b0f8637840e430520216ae9bc45ef4c89c2c",
+            "ratio": 0.2
+          },
+          "sha256": "15db1d6ad01c35070fa7b10fd380f3250133ef169bf3b1dac2e21cf44c48cbf7",
+          "source": "https://asvg.app/assets/svg/msn/msn-lockup-color.svg",
+          "source_size": [
+            32,
+            32
+          ],
+          "version": 0
+        },
+        {
+          "bytes": 1973,
+          "collection": "Worldvectorlogo",
+          "file": "microsoft-msn-1.svg",
+          "id": 912,
+          "is_default": false,
+          "label": "msn-2014",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "msn.svg",
+            "original_is_default": false,
+            "original_slug": "msn"
+          },
+          "sha256": "0bbc7fb53d32ac1685ef074988f43a74de31b45fd887b109c90e6acfcdb4bec2",
+          "source": "https://cdn.worldvectorlogo.com/logos/msn-2014.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/msn-2014",
+          "version": 1
+        },
+        {
+          "bytes": 5051,
+          "collection": "Worldvectorlogo",
+          "file": "microsoft-msn-2.svg",
+          "id": 913,
+          "is_default": false,
+          "label": "msn",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "msn-1.svg",
+            "original_is_default": false,
+            "original_slug": "msn"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4818,
+            "previous_sha256": "bcf62f069f1e522e3c6362a8e7fa2db51c6c50981cc8140c9567c7d0fe2779d9",
+            "ratio": 0.2
+          },
+          "sha256": "11d0a55b220c47e6c71efbc19b3827c0e3b0417850065a699d0dc83ad1c9d0a6",
+          "source": "https://cdn.worldvectorlogo.com/logos/msn.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/msn",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 366,
+      "key": "office",
+      "title": "Microsoft Office",
+      "url": "https://office.com",
+      "domains": [
+        "office.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球Top100",
+        "办公",
+        "效率工具",
+        "微软",
+        "Microsoft Office",
+        "microsoft-office",
+        "microsoftoffice",
+        "office",
+        "microsoft365",
+        "office.com"
+      ],
+      "aliases": [
+        "microsoft-office",
+        "microsoftoffice",
+        "office",
+        "microsoft365"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3555,
+          "collection": "theSVG",
+          "file": "microsoft-office.svg",
+          "id": 914,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-office.svg",
+            "original_is_default": true,
+            "original_slug": "microsoft-office"
+          },
+          "sha256": "09c1dd59f107a324b0406c424b7a1af53b792817b5e26fd3fe7c97bdf247a154",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-office/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3318,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-office-1.svg",
+          "id": 915,
+          "is_default": false,
+          "label": "microsoft-365",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-office-1.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-office"
+          },
+          "sha256": "f92a885c36f5dc6b35ffa40724b4189568dbc8e0510806c605c4842f7746f2d9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3127,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-office-2.svg",
+          "id": 916,
+          "is_default": false,
+          "label": "microsoft-office",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-office-2.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-office"
+          },
+          "sha256": "47ce3b7bec539123b1b8a830be6445464821aafc6d53d275fb9d5f889117225c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-office.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1183,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-office-3.svg",
+          "id": 917,
+          "is_default": false,
+          "label": "microsoft-365",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-office-3.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-office"
+          },
+          "rounded_corners": {
+            "previous_bytes": 950,
+            "previous_sha256": "ecd100c9fa6f6412951451d4199b03cac721df9a83172b095334467a046e0db1",
+            "ratio": 0.2
+          },
+          "sha256": "8121a078a310f3ec5e836489b47f6811650c8a6d7748362be9e99285d12bee1c",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-365",
+          "version": 3
+        },
+        {
+          "bytes": 1066,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-office-4.svg",
+          "id": 918,
+          "is_default": false,
+          "label": "microsoft-office",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-office-4.svg",
+            "original_is_default": false,
+            "original_slug": "microsoft-office"
+          },
+          "rounded_corners": {
+            "previous_bytes": 833,
+            "previous_sha256": "1706c169a64b8aa34a872593f17eb92e7e3aea1e35409bc9d9f3fdf8357d0e6c",
+            "ratio": 0.2
+          },
+          "sha256": "7aa401f75392b6682c3af1cc7ecc9f331f099eedd32b8514b4c7a07b55dc8779",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-office",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 367,
+      "key": "onedrive",
+      "title": "OneDrive",
+      "url": "https://onedrive.live.com",
+      "domains": [
+        "onedrive.live.com"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "全球App补充",
+        "网盘",
+        "云存储",
+        "微软",
+        "OneDrive",
+        "microsoftonedrive",
+        "microsoft-onedrive",
+        "onedrive.live.com"
+      ],
+      "aliases": [
+        "onedrive",
+        "microsoftonedrive",
+        "microsoft-onedrive"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5648,
+          "collection": "theSVG",
+          "file": "microsoft-onedrive.svg",
+          "id": 919,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onedrive.svg",
+            "original_is_default": true,
+            "original_slug": "onedrive"
+          },
+          "sha256": "bcedd1329edb826c6e4eaf32379a86c8ee0f4f6b71681d2d93d99b594cd3aafc",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-onedrive/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 8283,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-onedrive-1.svg",
+          "id": 920,
+          "is_default": false,
+          "label": "microsoft-onedrive",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onedrive-1.svg",
+            "original_is_default": false,
+            "original_slug": "onedrive"
+          },
+          "sha256": "97304df153731526db3108a35ac3aec4f3f73ce5569a76789282720c788d152f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-onedrive.svg",
+          "version": 1
+        },
+        {
+          "bytes": 851,
+          "collection": "Iconify / logos",
+          "file": "microsoft-onedrive-2.svg",
+          "id": 921,
+          "is_default": false,
+          "label": "microsoft-onedrive",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onedrive-2.svg",
+            "original_is_default": false,
+            "original_slug": "onedrive"
+          },
+          "sha256": "f5a08c9a185feebef59d5a21d02f04bcf20ae4bb5aeca4f4100c81d7799eb94d",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#microsoft-onedrive",
+          "version": 2
+        },
+        {
+          "bytes": 623,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-onedrive-3.svg",
+          "id": 922,
+          "is_default": false,
+          "label": "microsoft-onedrive",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onedrive-3.svg",
+            "original_is_default": false,
+            "original_slug": "onedrive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 390,
+            "previous_sha256": "995f3a203f36247fbd97031f6abbea68a4f8dfc6b6a9dba93bc7302b6fb8445e",
+            "ratio": 0.2
+          },
+          "sha256": "ce250ea92f229b6bb24eed50552c1c9f359c0898c563a214bab6a4ba2c058439",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-onedrive",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 368,
+      "key": "onenote",
+      "title": "OneNote",
+      "url": "https://onenote.com",
+      "domains": [
+        "onenote.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "微软",
+        "笔记",
+        "知识管理",
+        "OneNote",
+        "microsoftonenote",
+        "microsoft-onenote",
+        "onenote.com"
+      ],
+      "aliases": [
+        "onenote",
+        "microsoftonenote",
+        "microsoft-onenote"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2662,
+          "collection": "theSVG",
+          "file": "microsoft-onenote.svg",
+          "id": 923,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onenote.svg",
+            "original_is_default": true,
+            "original_slug": "onenote"
+          },
+          "sha256": "8bce9cd603af4f2731e68b80afb0949ca8ff4c04ada2b6b9c8e577234271b77e",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-onenote/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1768,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-onenote-1.svg",
+          "id": 924,
+          "is_default": false,
+          "label": "microsoft-onenote",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onenote-1.svg",
+            "original_is_default": false,
+            "original_slug": "onenote"
+          },
+          "sha256": "5d6e0c780dd5db903413a12583b12c57c92fbe19e3b8ee93beae31d986f9c78e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-onenote.svg",
+          "version": 1
+        },
+        {
+          "bytes": 789,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-onenote-2.svg",
+          "id": 925,
+          "is_default": false,
+          "label": "microsoft-onenote",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onenote-2.svg",
+            "original_is_default": false,
+            "original_slug": "onenote"
+          },
+          "rounded_corners": {
+            "previous_bytes": 556,
+            "previous_sha256": "eef1ab9391d05983592ca2d047d7212160fcd9e7ec0881537f098ec749ed04de",
+            "ratio": 0.2
+          },
+          "sha256": "31e7e2c91b34c0bda33b12d71cb55c6e55d9550fac8e709b213fd30fa9746c02",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-onenote",
+          "version": 2
+        },
+        {
+          "bytes": 2080,
+          "collection": "SVGLOGO",
+          "file": "microsoft-onenote-3.svg",
+          "id": 926,
+          "is_default": false,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "onenote-3.svg",
+            "original_is_default": false,
+            "original_slug": "onenote"
+          },
+          "sha256": "bf188d016727729995825c1a64b9df8632afd6af3985d1fcd868c44c06b9c8d1",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/OneNote.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 369,
+      "key": "outlook",
+      "title": "Outlook",
+      "url": "https://outlook.com",
+      "domains": [
+        "outlook.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "微软",
+        "电子邮件",
+        "邮箱",
+        "Outlook",
+        "microsoftoutlook",
+        "microsoft-outlook",
+        "outlook.com"
+      ],
+      "aliases": [
+        "outlook",
+        "microsoftoutlook",
+        "microsoft-outlook"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8677,
+          "collection": "theSVG",
+          "file": "microsoft-outlook.svg",
+          "id": 927,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "outlook.svg",
+            "original_is_default": true,
+            "original_slug": "outlook"
+          },
+          "sha256": "0babb13b49a6d65084431eeb2a7ccbb0a65d74388e1eb9b56aa42b6a25421233",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-outlook/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 4483,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-outlook-1.svg",
+          "id": 928,
+          "is_default": false,
+          "label": "microsoft-outlook-dark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "outlook-1.svg",
+            "original_is_default": false,
+            "original_slug": "outlook"
+          },
+          "sha256": "2c2e5d24d2341083c67b3d0c83f2c8eae1e12a5dfde5d9bc116e7b7aeb98b62b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-outlook-dark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 946,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-outlook-2.svg",
+          "id": 929,
+          "is_default": false,
+          "label": "microsoft-outlook",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "outlook-2.svg",
+            "original_is_default": false,
+            "original_slug": "outlook"
+          },
+          "rounded_corners": {
+            "previous_bytes": 713,
+            "previous_sha256": "f77dac05b83e51a61bdf2190cb65a0c7ce979ed7c529147ec479bd52b6290b1c",
+            "ratio": 0.2
+          },
+          "sha256": "524e8cdbdca91de498b41ad44f12a2a95f14c264abedb98cd728628a6848f5e5",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-outlook",
+          "version": 2
+        },
+        {
+          "bytes": 4646,
+          "collection": "SVGLOGO",
+          "file": "microsoft-outlook-3.svg",
+          "id": 930,
+          "is_default": false,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "outlook-3.svg",
+            "original_is_default": false,
+            "original_slug": "outlook"
+          },
+          "sha256": "e5ec36e75d8a30b1597c037b13cac3090a3cf6f8dc02db09c5eaa7512121e9d6",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/outlook.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 370,
+      "key": "partner",
+      "title": "Microsoft 合作伙伴中心",
+      "url": "https://partner.microsoft.com",
+      "domains": [
+        "partner.microsoft.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "办公",
+        "效率工具",
+        "微软",
+        "Microsoft 合作伙伴中心",
+        "microsoft-partner",
+        "partner.microsoft.com"
+      ],
+      "aliases": [
+        "microsoft-partner"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1104,
+          "collection": "GoTab 公开资源库",
+          "file": "microsoft-partner.svg",
+          "gotab_id": 172,
+          "id": 931,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "microsoft-partner.svg",
+            "original_is_default": true,
+            "original_slug": "microsoft-partner"
+          },
+          "rounded_corners": {
+            "previous_bytes": 882,
+            "previous_sha256": "a5de4a85a465fed125c0320f266952d49e0c9db9134dff5813810c4bfdf5e9ab",
+            "ratio": 0.2
+          },
+          "sha256": "5071d0049bfb96e194d3cc2d4580f4112ba1c8f0574a61037dd597e37f19603d",
+          "source": "https://web.gotab.cn/sourceStore/website/01JCMQKJ3KYEYHWBR2BDTDGWC9.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 371,
+      "key": "rewards",
+      "title": "Microsoft Rewards",
+      "url": "https://rewards.bing.com",
+      "domains": [
+        "rewards.bing.com"
+      ],
+      "description": "",
+      "category": "生活服务",
+      "tags": [
+        "生活服务",
+        "微软",
+        "Microsoft Rewards",
+        "bing-rewards",
+        "rewards.bing.com"
+      ],
+      "aliases": [
+        "bing-rewards"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1104,
+          "collection": "GoTab 公开资源库",
+          "file": "microsoft-rewards.svg",
+          "gotab_id": 256,
+          "id": 932,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "bing-rewards.svg",
+            "original_is_default": true,
+            "original_slug": "bing-rewards"
+          },
+          "rounded_corners": {
+            "previous_bytes": 882,
+            "previous_sha256": "a5de4a85a465fed125c0320f266952d49e0c9db9134dff5813810c4bfdf5e9ab",
+            "ratio": 0.2
+          },
+          "sha256": "5071d0049bfb96e194d3cc2d4580f4112ba1c8f0574a61037dd597e37f19603d",
+          "source": "https://web.gotab.cn/sourceStore/website/01JCMQKJ3KYEYHWBR2BDTDGWC9.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 372,
+      "key": "skype",
+      "title": "Skype",
+      "url": "https://skype.com",
+      "domains": [
+        "skype.com"
+      ],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "全球App补充",
+        "社交",
+        "通讯",
+        "微软",
+        "Skype",
+        "skype.com"
+      ],
+      "aliases": [
+        "skype"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4081,
+          "collection": "theSVG",
+          "file": "microsoft-skype.svg",
+          "id": 933,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "skype.svg",
+            "original_is_default": true,
+            "original_slug": "skype"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3859,
+            "previous_sha256": "45530846e4c847c1338f240dc646bb1144a7fd752ad65403e6e3b3d9aae3a35a",
+            "ratio": 0.2
+          },
+          "sha256": "4f06505cb8ce4d5af0ed50cfe6d474654fcb6e0c496d4c032c689fc4094056dd",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/skype/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3708,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-skype-1.svg",
+          "id": 934,
+          "is_default": false,
+          "label": "skype",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "skype-1.svg",
+            "original_is_default": false,
+            "original_slug": "skype"
+          },
+          "sha256": "0f009019a8a5e70e591588a669a820a63fdc3954997a424ff83b8038427f3956",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/skype.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1018,
+          "collection": "Iconify / ri",
+          "file": "microsoft-skype-2.svg",
+          "id": 935,
+          "is_default": false,
+          "label": "skype-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "skype-2.svg",
+            "original_is_default": false,
+            "original_slug": "skype"
+          },
+          "rounded_corners": {
+            "previous_bytes": 785,
+            "previous_sha256": "4388a686540cc8c1bff7b5a454f940cbd0e5daef8f0bdcb167dcb149984f5f0e",
+            "ratio": 0.2
+          },
+          "sha256": "56f61511ad1e9d7aeaaac0ff1fc4c5942905aa0f6b28f4cc7cbaf08393f10df9",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#skype-fill",
+          "version": 2
+        },
+        {
+          "bytes": 1236,
+          "collection": "Iconify / ri",
+          "file": "microsoft-skype-3.svg",
+          "id": 936,
+          "is_default": false,
+          "label": "skype-line",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "skype-3.svg",
+            "original_is_default": false,
+            "original_slug": "skype"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1003,
+            "previous_sha256": "34b59635e64556c41f6899eadca94414feeee6d86aa3fa2346dfd8997871fa1b",
+            "ratio": 0.2
+          },
+          "sha256": "f975b4434aec22898a30028d0465ab1a4665f9c5cf8cbcc8728c0d46a3c59afc",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#skype-line",
+          "version": 3
+        },
+        {
+          "bytes": 957,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-skype-4.svg",
+          "id": 937,
+          "is_default": false,
+          "label": "skype",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "skype-4.svg",
+            "original_is_default": false,
+            "original_slug": "skype"
+          },
+          "rounded_corners": {
+            "previous_bytes": 724,
+            "previous_sha256": "1c328517c9d2126c7f58393c0cf774c6bf4852699efdc7bd7932ec9771d2d37a",
+            "ratio": 0.2
+          },
+          "sha256": "c61b9130d794ec9c11f43e2d41b9fbdd97037ba81a1f28fa717604f764729c3d",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#skype",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 373,
+      "key": "teams",
+      "title": "Microsoft Teams",
+      "url": "https://teams.microsoft.com",
+      "domains": [
+        "teams.microsoft.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "全球App补充",
+        "办公",
+        "效率工具",
+        "微软",
+        "视频会议",
+        "远程会议",
+        "Microsoft Teams",
+        "teams",
+        "microsoftteams",
+        "microsoft-teams",
+        "teams.microsoft.com"
+      ],
+      "aliases": [
+        "teams",
+        "microsoftteams",
+        "microsoft-teams"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4357,
+          "collection": "theSVG",
+          "file": "microsoft-teams.svg",
+          "id": 938,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "teams.svg",
+            "original_is_default": true,
+            "original_slug": "teams"
+          },
+          "sha256": "7c57e379bf845b7f3657d7260a33d303001cfb07d213e50fb3eae86aa9e5a92c",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-teams/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2643,
+          "collection": "Iconify / logos",
+          "file": "microsoft-teams-1.svg",
+          "id": 939,
+          "is_default": false,
+          "label": "microsoft-teams",
+          "license": "CC0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "teams-1.svg",
+            "original_is_default": false,
+            "original_slug": "teams"
+          },
+          "sha256": "bd7213af2be21c1f752ef387fdbe5e564532246e0eeea83b401e79bdc84e6fb6",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#microsoft-teams",
+          "version": 1
+        },
+        {
+          "bytes": 1214,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-teams-2.svg",
+          "id": 940,
+          "is_default": false,
+          "label": "microsoft-teams",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "teams-2.svg",
+            "original_is_default": false,
+            "original_slug": "teams"
+          },
+          "rounded_corners": {
+            "previous_bytes": 981,
+            "previous_sha256": "51afdeee83b872146983f0fdf7220a190ace03854ecc54dad1b4fc01cbc2cf94",
+            "ratio": 0.2
+          },
+          "sha256": "8fb80588ddd31dda572410d45b3252cd390d1d3925fe6f4f45086619376627cf",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-teams",
+          "version": 2
+        },
+        {
+          "bytes": 3044,
+          "collection": "SVGLOGO",
+          "file": "microsoft-teams-3.svg",
+          "id": 941,
+          "is_default": false,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "teams-3.svg",
+            "original_is_default": false,
+            "original_slug": "teams"
+          },
+          "sha256": "87201e32eb60ab7a55e7ed1606515bd72062ba7bc585b3218d429482443a3f2d",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/MicrosoftTeams.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 374,
+      "key": "xbox",
+      "title": "Xbox",
+      "url": "https://xbox.com",
+      "domains": [
+        "xbox.com"
+      ],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "全球App补充",
+        "游戏",
+        "微软",
+        "Xbox",
+        "xbox.com"
+      ],
+      "aliases": [
+        "xbox"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1696,
+          "collection": "theSVG",
+          "file": "microsoft-xbox.svg",
+          "id": 942,
+          "is_default": true,
+          "label": "default",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xbox.svg",
+            "original_is_default": true,
+            "original_slug": "xbox"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1476,
+            "previous_sha256": "f3575496643adc90dcbf35724127c74ddf40572591d43728448d1b2d83bf6359",
+            "ratio": 0.2
+          },
+          "sha256": "d0a51ff97591a90df71cd67819b50a3a862e93a02f56611226426735d54ff8a5",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xbox/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1701,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-xbox-1.svg",
+          "id": 943,
+          "is_default": false,
+          "label": "xbox",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xbox-1.svg",
+            "original_is_default": false,
+            "original_slug": "xbox"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1478,
+            "previous_sha256": "23a2ac9f74e2090c1d1aabf36c922ac397305a4d48da5ab91d60f2bae4e22031",
+            "ratio": 0.2
+          },
+          "sha256": "85b7c6b1f7c27187eafb7fbaad21f04e52cbcae196c462bce1a61119dbcc98af",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xbox.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1105,
+          "collection": "Iconify / ri",
+          "file": "microsoft-xbox-2.svg",
+          "id": 944,
+          "is_default": false,
+          "label": "xbox-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xbox-2.svg",
+            "original_is_default": false,
+            "original_slug": "xbox"
+          },
+          "rounded_corners": {
+            "previous_bytes": 872,
+            "previous_sha256": "5412268bd46ce0f941207c2d4308a5a2f83f9cefce76466b5aac36b415c2fd6c",
+            "ratio": 0.2
+          },
+          "sha256": "a8d0bd0e8712ce006f9bfde0140456462410d17347428e5281ac58aa3ca7fa0a",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#xbox-fill",
+          "version": 2
+        },
+        {
+          "bytes": 1010,
+          "collection": "Iconify / ri",
+          "file": "microsoft-xbox-3.svg",
+          "id": 945,
+          "is_default": false,
+          "label": "xbox-line",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xbox-3.svg",
+            "original_is_default": false,
+            "original_slug": "xbox"
+          },
+          "rounded_corners": {
+            "previous_bytes": 777,
+            "previous_sha256": "2360e964a3aca94681436fb8cfa4edf72c130a87c31c7307d58c307908e7bcb5",
+            "ratio": 0.2
+          },
+          "sha256": "68bde484af2d2a3ac927039c227fead2e8642c7c22242a2e680e4cc85724ec32",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#xbox-line",
+          "version": 3
+        },
+        {
+          "bytes": 1625,
+          "collection": "Iconify / arcticons",
+          "file": "microsoft-xbox-4.svg",
+          "id": 946,
+          "is_default": false,
+          "label": "xbox",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "xbox-4.svg",
+            "original_is_default": false,
+            "original_slug": "xbox"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1392,
+            "previous_sha256": "2c4e7b6081ea7ed0271930b367a1f6bb0966dc4649093e38874a048ecb0dc0d3",
+            "ratio": 0.2
+          },
+          "sha256": "81f52c3d6ad39424ee127d0c986764e1288245aeb37b38c616419152016d2347",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#xbox",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "title": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/",
+      "domains": [
+        "code.visualstudio.com"
+      ],
+      "description": "Microsoft 代码编辑器。",
+      "category": "开发编程",
+      "tags": [
+        "VSCode",
+        "VS Code",
+        "代码编辑器",
+        "Visual Studio Code"
+      ],
+      "aliases": [
+        "microsoft-vscode",
+        "visual-studio-code",
+        "VSCode",
+        "VS Code",
+        "代码编辑器"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-vscode.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "9678d02f8de50711a9fa468941b9a3acb76aab392518ada8a6b7fe26c5bd0830",
+          "bytes": 2289,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "visual-studio-code.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "vscode"
+    },
+    {
+      "title": "Windows",
+      "url": "https://www.microsoft.com/windows",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 桌面操作系统。",
+      "category": "系统工具",
+      "tags": [
+        "微软Windows",
+        "操作系统",
+        "Windows"
+      ],
+      "aliases": [
+        "microsoft-windows",
+        "微软Windows",
+        "操作系统"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-windows.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "d778548786d06a8ddd87ff43375df55504ee55473b683cede178f3308f00257d",
+          "bytes": 209,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-windows.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-windows.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "windows"
+    },
+    {
+      "title": "Word",
+      "url": "https://www.microsoft.com/microsoft-365/word",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 文档处理应用。",
+      "category": "办公效率",
+      "tags": [
+        "文字处理",
+        "文档",
+        "微软Word",
+        "Word"
+      ],
+      "aliases": [
+        "microsoft-word",
+        "文字处理",
+        "文档",
+        "微软Word"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-word.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "0b10e8d227aebeef03b78f93147da9e21712bf3544df786dcc10c89cf01b853e",
+          "bytes": 1859,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-word.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-word.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "word"
+    },
+    {
+      "title": "Excel",
+      "url": "https://www.microsoft.com/microsoft-365/excel",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 电子表格应用。",
+      "category": "办公效率",
+      "tags": [
+        "电子表格",
+        "表格",
+        "微软Excel",
+        "Excel"
+      ],
+      "aliases": [
+        "microsoft-excel",
+        "电子表格",
+        "表格",
+        "微软Excel",
+        "excel",
+        "spreadsheet-editor"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-excel.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "8f81cc6d7af4d00c3771fa2efaaf883b8fcffcdc38b12b9d168cb5ae2f87886c",
+          "bytes": 1785,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-excel.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-excel.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "excel"
+    },
+    {
+      "title": "PowerPoint",
+      "url": "https://www.microsoft.com/microsoft-365/powerpoint",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 演示文稿应用。",
+      "category": "办公效率",
+      "tags": [
+        "PPT",
+        "演示文稿",
+        "幻灯片",
+        "PowerPoint"
+      ],
+      "aliases": [
+        "microsoft-powerpoint",
+        "PPT",
+        "演示文稿",
+        "幻灯片"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-powerpoint.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "9905e2bbf6589dbcebbef7b5c78f91d401d0627dce6abe469ad7b9f1e42b5114",
+          "bytes": 2090,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-powerpoint.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-powerpoint.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "powerpoint"
+    },
+    {
+      "title": "Access",
+      "url": "https://www.microsoft.com/microsoft-365/access",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 桌面数据库应用。",
+      "category": "办公效率",
+      "tags": [
+        "数据库",
+        "桌面数据库",
+        "Access"
+      ],
+      "aliases": [
+        "microsoft-access",
+        "数据库",
+        "桌面数据库"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-access.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "86cadc868dc42a2c0f2cc36f467493df7d2e62acf4759590855922ed97eb40ee",
+          "bytes": 1643,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-access.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-access.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "access"
+    },
+    {
+      "title": "Microsoft To Do",
+      "url": "https://to-do.office.com/",
+      "domains": [
+        "to-do.office.com"
+      ],
+      "description": "Microsoft 待办与任务管理应用。",
+      "category": "办公效率",
+      "tags": [
+        "微软待办",
+        "待办清单",
+        "任务管理",
+        "Microsoft To Do"
+      ],
+      "aliases": [
+        "microsoft-to-do",
+        "微软待办",
+        "待办清单",
+        "任务管理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-to-do.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "e6dc13c3929485a9fafa660663e3f0848b9beef11a5edba3b751ffca5b005ece",
+          "bytes": 736,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-to-do.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-to-do.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "to-do"
+    },
+    {
+      "title": "Power Automate",
+      "url": "https://www.microsoft.com/power-platform/products/power-automate",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 工作流自动化服务。",
+      "category": "办公效率",
+      "tags": [
+        "自动化",
+        "工作流",
+        "Power Automate"
+      ],
+      "aliases": [
+        "microsoft-power-automate",
+        "自动化",
+        "工作流"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-power-automate.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "8c4dcf52ab2f3891d8f3cfb36120a9d9f2ecc499a51540924a52c747922772f0",
+          "bytes": 2253,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-power-automate.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-power-automate.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "power-automate"
+    },
+    {
+      "title": "SharePoint",
+      "url": "https://www.microsoft.com/microsoft-365/sharepoint/collaboration",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 团队协作与文档平台。",
+      "category": "办公效率",
+      "tags": [
+        "团队协作",
+        "文档管理",
+        "SharePoint"
+      ],
+      "aliases": [
+        "microsoft-sharepoint",
+        "团队协作",
+        "文档管理",
+        "Collaboration Platform"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-sharepoint.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "81e5599073008ef7d2a576216771fa135c25f46d6d7820ed17ddf56d9fb67e3f",
+          "bytes": 2483,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sharepoint.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-sharepoint.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "sharepoint"
+    },
+    {
+      "title": "Exchange",
+      "url": "https://www.microsoft.com/microsoft-365/exchange/email",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 企业邮件服务。",
+      "category": "办公效率",
+      "tags": [
+        "企业邮箱",
+        "邮件服务器",
+        "Exchange"
+      ],
+      "aliases": [
+        "microsoft-exchange",
+        "企业邮箱",
+        "邮件服务器",
+        "Email Server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-exchange.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "606e471e482bf392f6612376666825ceab33004ab5843decac2df19715900eba",
+          "bytes": 1288,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-exchange.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "exchange"
+    },
+    {
+      "title": "SQL Server",
+      "url": "https://www.microsoft.com/sql-server",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 关系型数据库产品。",
+      "category": "开发编程",
+      "tags": [
+        "MSSQL",
+        "微软数据库",
+        "数据库",
+        "SQL Server"
+      ],
+      "aliases": [
+        "microsoft-sql-server",
+        "MSSQL",
+        "微软数据库",
+        "数据库"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-sql-server.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "7ede9f491f858e87f6c90339af3106b4078a06b6200c055b77cc9fd69787d388",
+          "bytes": 14715,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sql-server.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-sql-server.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "sql-server"
+    },
+    {
+      "title": "Microsoft Defender",
+      "url": "https://www.microsoft.com/security/business/microsoft-defender",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 安全防护产品。",
+      "category": "系统工具",
+      "tags": [
+        "安全",
+        "防病毒",
+        "终端保护",
+        "Microsoft Defender"
+      ],
+      "aliases": [
+        "microsoft-defender",
+        "安全",
+        "防病毒",
+        "终端保护"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-defender.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "c7d709ee0240505885a39caa789fe236b466502179496060a221fcb33134399d",
+          "bytes": 1964,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-defender.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "defender"
+    },
+    {
+      "title": "Microsoft Intune",
+      "url": "https://www.microsoft.com/security/business/microsoft-intune",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 终端与设备管理服务。",
+      "category": "系统工具",
+      "tags": [
+        "设备管理",
+        "企业管理",
+        "Microsoft Intune"
+      ],
+      "aliases": [
+        "microsoft-intune",
+        "设备管理",
+        "企业管理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "microsoft-intune.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "01a926015ea5b757ec10749072a3b7feac03a242529560d3dde61b1bdbbdc4f7",
+          "bytes": 6162,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "microsoft-intune.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "intune"
+    }
+  ]
+}

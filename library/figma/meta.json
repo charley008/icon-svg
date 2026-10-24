@@ -1,0 +1,128 @@
+{
+  "collection_id": 155,
+  "schema_version": 1,
+  "id": 226,
+  "title": "Figma",
+  "url": "https://figma.com",
+  "domains": [
+    "figma.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "全球App补充",
+    "中国地区Top100",
+    "设计",
+    "素材",
+    "Figma",
+    "figma.com"
+  ],
+  "aliases": [
+    "figma"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1146,
+      "collection": "theSVG",
+      "file": "figma.svg",
+      "id": 564,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "figma.svg",
+        "original_is_default": true,
+        "original_slug": "figma"
+      },
+      "sha256": "c26f024cc4b8a9fdc501ba30331bbfed1e46d094b2035ae9ad469198e6851b62",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/figma/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 908,
+      "collection": "theSVG",
+      "file": "figma-1.svg",
+      "id": 565,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "figma-1.svg",
+        "original_is_default": false,
+        "original_slug": "figma"
+      },
+      "rounded_corners": {
+        "previous_bytes": 683,
+        "previous_sha256": "46cb425dedb6dfd2ad59ad4c3dce3a73e2152e80b15484163d63425eb69bde06",
+        "ratio": 0.2
+      },
+      "sha256": "a6b594dc0fe547622932a51bd40cb65a7ff7638eccac1ec80dbafb14e27a44a9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/figma-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1782,
+      "collection": "theSVG",
+      "file": "figma-2.svg",
+      "id": 566,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "figma-2.svg",
+        "original_is_default": false,
+        "original_slug": "figma"
+      },
+      "sha256": "a3e3a22f903d3f79ed4f7fc4eb3a6d9368bc8133959868f24a1b5ad19755b614",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/figma/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1419,
+      "collection": "theSVG",
+      "file": "figma-3.svg",
+      "id": 567,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "figma-3.svg",
+        "original_is_default": false,
+        "original_slug": "figma"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1186,
+        "previous_sha256": "a70e53add094eb1b9214ff9889713ca44fa24e18c605832696f8a3cd89c08a69",
+        "ratio": 0.2
+      },
+      "sha256": "9baf68a9a97d265bdf2a986d122e8eaf15271acfef7ee4b77afed586ca299e50",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/figma/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 856,
+      "collection": "Dashboard Icons",
+      "file": "figma-4.svg",
+      "id": 568,
+      "is_default": false,
+      "label": "figma",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "figma-4.svg",
+        "original_is_default": false,
+        "original_slug": "figma"
+      },
+      "sha256": "dd7eb27e29c9986de257074683fd36e12a859e9f6251fa8033330217af47ff15",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/figma.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

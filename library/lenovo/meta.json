@@ -1,0 +1,133 @@
+{
+  "collection_id": 236,
+  "schema_version": 1,
+  "id": 336,
+  "title": "联想",
+  "url": "https://lenovo.com",
+  "domains": [
+    "lenovo.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "国内补充",
+    "硬件",
+    "设备",
+    "联想",
+    "lenovo",
+    "lenovo.com"
+  ],
+  "aliases": [
+    "lenovo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1535,
+      "collection": "theSVG",
+      "file": "lenovo.svg",
+      "id": 830,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lenovo.svg",
+        "original_is_default": true,
+        "original_slug": "lenovo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1302,
+        "previous_sha256": "b5d149b7196a8ad4ffb734f592fc092be7fd4198c114bb7400759f2072742736",
+        "ratio": 0.2
+      },
+      "sha256": "f2d28938560ce2398383120d48cd1a0712ae4e7769c41508ec952538c1da92f5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/lenovo/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 528,
+      "collection": "theSVG",
+      "file": "lenovo-1.svg",
+      "id": 831,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lenovo-1.svg",
+        "original_is_default": false,
+        "original_slug": "lenovo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 303,
+        "previous_sha256": "8196c30754fc5efe79768e377d49336d8bb8543a6ce3a3738f80134fe5b46ca4",
+        "ratio": 0.2
+      },
+      "sha256": "8d2caaa1a8387379ed0d6f27dc2dcf47e81e1bfc4adb72fa88d3623b0a6589a3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/lenovo-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1535,
+      "collection": "theSVG",
+      "file": "lenovo-2.svg",
+      "id": 832,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lenovo-2.svg",
+        "original_is_default": false,
+        "original_slug": "lenovo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1302,
+        "previous_sha256": "0b8a4f3c286d39db1cf6f556dfb3d7e9abbc18249f60063ca5fe238ca8a0170f",
+        "ratio": 0.2
+      },
+      "sha256": "12185f2818f13c67646ba3ecc6be70609221a27288110626f2a8d6611ecd15ef",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/lenovo/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1540,
+      "collection": "Dashboard Icons",
+      "file": "lenovo-3.svg",
+      "id": 833,
+      "is_default": false,
+      "label": "lenovo",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lenovo-3.svg",
+        "original_is_default": false,
+        "original_slug": "lenovo"
+      },
+      "sha256": "56765b3adf4e3fd402850e52335cc1a62d1e407d05eb2a45b9fdea4142ec136c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lenovo.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1540,
+      "collection": "Dashboard Icons",
+      "file": "lenovo-4.svg",
+      "id": 834,
+      "is_default": false,
+      "label": "lenovo-light",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lenovo-4.svg",
+        "original_is_default": false,
+        "original_slug": "lenovo"
+      },
+      "sha256": "6339ff42643ca9b69dfcceeae45b8e51d099b5758aba44075705443c7a40480f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lenovo-light.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

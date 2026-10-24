@@ -1,0 +1,68 @@
+{
+  "collection_id": 48,
+  "schema_version": 1,
+  "id": 95,
+  "title": "交通银行",
+  "url": "https://bankcomm.com",
+  "domains": [
+    "bankcomm.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "交通银行",
+    "bank-of-communications",
+    "bankcomm.com"
+  ],
+  "aliases": [
+    "bank-of-communications"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 939,
+      "collection": "SVGLOGO",
+      "file": "bank-of-communications.svg",
+      "id": 235,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bank-of-communications.svg",
+        "original_is_default": true,
+        "original_slug": "bank-of-communications"
+      },
+      "rounded_corners": {
+        "previous_bytes": 717,
+        "previous_sha256": "d0b651d5ffaf4950617f6ec313283e99ba2e653be85c1da2cde9bf4a2056f9d6",
+        "ratio": 0.2
+      },
+      "sha256": "8fbb56c5fd6311b783ae94c4c89c634c34810337ef041910fbad9ff32b4af068",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/COMM.svg",
+      "version": 0
+    },
+    {
+      "bytes": 11434,
+      "collection": "SVGLOGO",
+      "file": "bank-of-communications-1.svg",
+      "id": 236,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bank-of-communications-1.svg",
+        "original_is_default": false,
+        "original_slug": "bank-of-communications"
+      },
+      "sha256": "aa46b7dfa6ba9d3f0403b96134d6c4acfc875c0747c19896b257122f43737c17",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/COMM_wordmark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

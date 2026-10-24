@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs>
+    <linearGradient id="ne" x1="128" y1="52" x2="204" y2="128" gradientUnits="userSpaceOnUse"><stop stop-color="#e98742" /><stop offset="1" stop-color="#bd628f" /></linearGradient>
+    <linearGradient id="se" x1="204" y1="128" x2="128" y2="204" gradientUnits="userSpaceOnUse"><stop stop-color="#bd628f" /><stop offset="1" stop-color="#3eaeab" /></linearGradient>
+    <linearGradient id="sw" x1="128" y1="204" x2="52" y2="128" gradientUnits="userSpaceOnUse"><stop stop-color="#3eaeab" /><stop offset="1" stop-color="#5a9ca8" /></linearGradient>
+    <linearGradient id="nw" x1="52" y1="128" x2="128" y2="52" gradientUnits="userSpaceOnUse"><stop stop-color="#5a9ca8" /><stop offset=".5" stop-color="#a66baf" /><stop offset="1" stop-color="#e98742" /></linearGradient>
+    <linearGradient id="p" x1="118" y1="150" x2="142" y2="108" gradientUnits="userSpaceOnUse"><stop stop-color="#9276b8" /><stop offset=".5" stop-color="#bb6299" /><stop offset="1" stop-color="#ec9450" /></linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="#fff" />
+  <g fill="none" stroke-width="6">
+    <path d="M128 52a76 76 0 0 1 76 76" stroke="url(#ne)" />
+    <path d="M204 128a76 76 0 0 1-76 76" stroke="url(#se)" />
+    <path d="M128 204a76 76 0 0 1-76-76" stroke="url(#sw)" />
+    <path d="M52 128a76 76 0 0 1 76-76" stroke="url(#nw)" />
+  </g>
+  <path fill="#626565" d="M72 150v-44h6l24 31v-31h7v44h-6l-24-31v31z" />
+  <path fill="url(#p)" fill-rule="evenodd" d="M119 150v-44h15c10 0 16 5 16 14s-6 14-16 14h-8v16zm7-37v14h8c6 0 9-2 9-7s-3-7-9-7z" />
+  <path fill="#626565" d="m181 110-4 6c-4-3-7-4-11-4-5 0-8 2-8 6 0 3 2 5 10 7 10 3 15 6 15 13 0 9-7 14-17 14-7 0-13-2-18-7l4-6c4 4 9 6 14 6 6 0 10-2 10-6 0-3-3-5-11-7-10-3-14-6-14-13 0-8 6-14 16-14 6 0 11 2 14 5z" />
+</g></svg>

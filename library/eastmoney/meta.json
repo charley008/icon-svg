@@ -1,0 +1,101 @@
+{
+  "collection_id": 138,
+  "schema_version": 1,
+  "id": 209,
+  "title": "东方财富",
+  "url": "https://eastmoney.com",
+  "domains": [
+    "eastmoney.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "用户优选",
+    "金融",
+    "东方财富",
+    "eastmoney",
+    "eastmoney.com"
+  ],
+  "aliases": [
+    "eastmoney"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1394,
+      "collection": "已有图标",
+      "file": "eastmoney.svg",
+      "id": 517,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "eastmoney.svg",
+        "original_is_default": true,
+        "original_slug": "eastmoney"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1172,
+        "previous_sha256": "992853e59caf1751d36b131737a5e837aa84b13f5d7fdb6fa4f009961c8bdfe0",
+        "ratio": 0.2
+      },
+      "sha256": "c2d439cc2c717af5d3d4c854dbf6546fc3a8ccb1a9978b481dc21887f0a37a8b",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 2345,
+      "collection": "GoTab 公开资源库",
+      "file": "eastmoney-1.svg",
+      "gotab_id": 211,
+      "id": 518,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "eastmoney-1.svg",
+        "original_is_default": false,
+        "original_slug": "eastmoney"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2123,
+        "previous_sha256": "55b276f9ee2b5d912019c9800e31cf25c214b751fe6e761412f0646850f38ec6",
+        "ratio": 0.2
+      },
+      "sha256": "ae9d4f51ef913a2495d221bf0e9aefa3eca18aa99f99fe86c6616a32d18344ac",
+      "source": "https://web.gotab.cn/sourceStore/website/01JXCJWDJT951NKQ9ZNS2PQMTW.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1160,
+      "collection": "已有图标",
+      "file": "eastmoney-2.svg",
+      "id": 519,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "trademark-owner",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "eastmoney-2.svg",
+        "original_is_default": false,
+        "original_slug": "eastmoney"
+      },
+      "rounded_corners": {
+        "previous_bytes": 938,
+        "previous_sha256": "e4ee685910cfe0c3c5d26c407efb55e9e3b92c000378b4f60fe13ad7bd4eca85",
+        "ratio": 0.2
+      },
+      "sha256": "fcdf9955e5c3816890383ade4041d1fcaa6fefef12db9180fbbcbabfb2fd0666",
+      "source": "用户已有 SVG",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

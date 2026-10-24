@@ -1,0 +1,41 @@
+{
+  "title": "Chromium",
+  "url": "https://www.chromium.org/",
+  "domains": [
+    "www.chromium.org"
+  ],
+  "description": "开源网页浏览器项目。",
+  "category": "浏览器",
+  "tags": [
+    "浏览器",
+    "开源",
+    "Chromium"
+  ],
+  "aliases": [
+    "chromium",
+    "浏览器",
+    "开源"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "chromium.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2a9840039dfd71dc43615df7576ef37882c9f3a98d425cc4146ecf85c0c6b173",
+      "bytes": 1810,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chromium.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "chromium.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

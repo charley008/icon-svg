@@ -1,0 +1,43 @@
+{
+  "title": "Cryptomator",
+  "url": "https://cryptomator.org/",
+  "domains": [
+    "cryptomator.org"
+  ],
+  "description": "云存储文件加密应用。",
+  "category": "网盘存储",
+  "tags": [
+    "加密",
+    "云盘",
+    "隐私",
+    "Cryptomator"
+  ],
+  "aliases": [
+    "cryptomator",
+    "加密",
+    "云盘",
+    "隐私"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "cryptomator.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "46d70530973568900ecf7e7677cb75a3f90959ddd023a70546ed6e8e38b25377",
+      "bytes": 4203,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cryptomator.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "cryptomator.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

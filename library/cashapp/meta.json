@@ -1,0 +1,121 @@
+{
+  "collection_id": 70,
+  "schema_version": 1,
+  "id": 135,
+  "title": "Cash App",
+  "url": "https://cash.app",
+  "domains": [
+    "cash.app"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球App补充",
+    "金融",
+    "Cash App",
+    "cashapp",
+    "cash-app",
+    "cash.app"
+  ],
+  "aliases": [
+    "cashapp",
+    "cash-app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1281,
+      "collection": "theSVG",
+      "file": "cashapp.svg",
+      "id": 349,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cashapp.svg",
+        "original_is_default": true,
+        "original_slug": "cashapp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1048,
+        "previous_sha256": "7ade8bf4e0b252cd39aa9fa64aba6139de1fcb8c0bb35e5e815aa98462dd492e",
+        "ratio": 0.2
+      },
+      "sha256": "955916d0e471d098ee59102a5e070be28931f3d6ea950db4c9cf0aced1215a55",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cash-app/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1500,
+      "collection": "theSVG",
+      "file": "cashapp-1.svg",
+      "id": 350,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cashapp-1.svg",
+        "original_is_default": false,
+        "original_slug": "cashapp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1275,
+        "previous_sha256": "830ebdf7de9dd6fefdc1b5338dc008139decda6f75ad2fdcc475639950cf0741",
+        "ratio": 0.2
+      },
+      "sha256": "2daaf9845cda5b2f12522e30cef0e50b883ce7a8b1b8a06efe6b92010efc1f00",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cash-app-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1281,
+      "collection": "theSVG",
+      "file": "cashapp-2.svg",
+      "id": 351,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cashapp-2.svg",
+        "original_is_default": false,
+        "original_slug": "cashapp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1048,
+        "previous_sha256": "66e4fe638b264f115db6645a47063e77a0c0413b8f238fb151ba9e1c803830ec",
+        "ratio": 0.2
+      },
+      "sha256": "770611e9fee4564049f0ebcab3f107427e333eb8dba905a2893ecf734039091a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cash-app/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1281,
+      "collection": "Simple Icons",
+      "file": "cashapp-3.svg",
+      "id": 352,
+      "is_default": false,
+      "label": "cashapp",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cashapp-3.svg",
+        "original_is_default": false,
+        "original_slug": "cashapp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1048,
+        "previous_sha256": "abd0f965b30d532a839b3dcfe0071256ca08b090c609450acf05ecf249dbb9a0",
+        "ratio": 0.2
+      },
+      "sha256": "43d978eed2c4433c85117f58d48637d95ccfd2463d144d779a4858890fef707b",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cashapp.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

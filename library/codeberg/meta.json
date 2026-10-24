@@ -1,0 +1,44 @@
+{
+  "title": "Codeberg",
+  "url": "https://codeberg.org/",
+  "domains": [
+    "codeberg.org"
+  ],
+  "description": "开源软件代码托管平台。",
+  "category": "开发编程",
+  "tags": [
+    "Git",
+    "代码托管",
+    "开源",
+    "Codeberg"
+  ],
+  "aliases": [
+    "codeberg",
+    "Git",
+    "代码托管",
+    "开源",
+    "Code Hosting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "codeberg.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "78eab5d3c96f2912a5996bdb71fc6cb8e2fc8b5abae7a95ea8adae6aee28c320",
+      "bytes": 814,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codeberg.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "codeberg.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

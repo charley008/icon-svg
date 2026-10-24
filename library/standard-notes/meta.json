@@ -1,0 +1,45 @@
+{
+  "title": "Standard Notes",
+  "url": "https://standardnotes.com/",
+  "domains": [
+    "standardnotes.com"
+  ],
+  "description": "注重隐私与加密的笔记应用。",
+  "category": "办公效率",
+  "tags": [
+    "加密笔记",
+    "隐私",
+    "笔记",
+    "Standard Notes"
+  ],
+  "aliases": [
+    "standard-notes",
+    "加密笔记",
+    "隐私",
+    "笔记",
+    "encrypted-notes",
+    "secure-notes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "standard-notes.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "f70c09887f67f45319a00b4c19a21f1c9d862217dac52236789197dd2abbf0ea",
+      "bytes": 573,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/standard-notes.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "standard-notes.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

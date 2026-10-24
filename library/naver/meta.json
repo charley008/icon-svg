@@ -1,0 +1,96 @@
+{
+  "collection_id": 276,
+  "schema_version": 1,
+  "id": 394,
+  "title": "naver",
+  "url": "https://naver.com",
+  "domains": [
+    "naver.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "全球Top100",
+    "搜索",
+    "导航",
+    "naver",
+    "naver.com"
+  ],
+  "aliases": [
+    "naver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 505,
+      "collection": "theSVG",
+      "file": "naver.svg",
+      "id": 985,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "naver.svg",
+        "original_is_default": true,
+        "original_slug": "naver"
+      },
+      "rounded_corners": {
+        "previous_bytes": 272,
+        "previous_sha256": "7bbc2fa0ffd43b83d4154f1077f200160a398b06825d692b0204a60f20668b82",
+        "ratio": 0.2
+      },
+      "sha256": "274b74de3a6014e57ba15631229aaf0b58301e5583c82c75ab9a7dbe45c711ea",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/naver/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1022,
+      "collection": "theSVG",
+      "file": "naver-1.svg",
+      "id": 986,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "naver-1.svg",
+        "original_is_default": false,
+        "original_slug": "naver"
+      },
+      "rounded_corners": {
+        "previous_bytes": 797,
+        "previous_sha256": "75dc5c7b0568def4ed0e90f8121ed7e49e1e15cc948388f42c57633787d49d2b",
+        "ratio": 0.2
+      },
+      "sha256": "8a37bb621945f338b699e06936a0e257d46e3d90ff5090f6525c47b05d1364fb",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/naver-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 505,
+      "collection": "theSVG",
+      "file": "naver-2.svg",
+      "id": 987,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "naver-2.svg",
+        "original_is_default": false,
+        "original_slug": "naver"
+      },
+      "rounded_corners": {
+        "previous_bytes": 272,
+        "previous_sha256": "d2f43e70e7485e02081960ea1c915f5a0f36240e11e79b79fe8922c9c8c30834",
+        "ratio": 0.2
+      },
+      "sha256": "6422db4aded3c1e96f87843b315db4a3dfbed6b4b364a4f8643e20faf4c63aa1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/naver/mono.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Homebridge",
+  "url": "https://homebridge.io/",
+  "domains": [
+    "homebridge.io"
+  ],
+  "description": "智能家居与 HomeKit 接入服务。",
+  "category": "生活服务",
+  "tags": [
+    "HomeKit",
+    "智能家居",
+    "Homebridge"
+  ],
+  "aliases": [
+    "homebridge",
+    "HomeKit",
+    "智能家居",
+    "Smart Home Bridge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "homebridge.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "02c1067e36b059869ea2f19a9bfdea5c4e03731c7f1f9a1701a01848ff94cb62",
+      "bytes": 1952,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homebridge.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "homebridge.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

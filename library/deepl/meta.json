@@ -1,0 +1,51 @@
+{
+  "collection_id": 111,
+  "schema_version": 1,
+  "id": 181,
+  "title": "DeepL",
+  "url": "https://deepl.com",
+  "domains": [
+    "deepl.com"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "系统工具",
+    "翻译",
+    "语言工具",
+    "DeepL",
+    "deepl.com"
+  ],
+  "aliases": [
+    "deepl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2948,
+      "collection": "GoTab 公开资源库",
+      "file": "deepl.svg",
+      "gotab_id": 58,
+      "id": 434,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "deepl.svg",
+        "original_is_default": true,
+        "original_slug": "deepl"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2726,
+        "previous_sha256": "64e44796d24718c317f0f0cdf5a1a831569a3c9e358c377c76d08d2ad38d3417",
+        "ratio": 0.2
+      },
+      "sha256": "49988a8dba5616eae4c6fa48d01e1e9a9f74f45c9ebacffca5ef845fd3d1220c",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HJ6ZQNYW2SZJ32QX1DJ1GQ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

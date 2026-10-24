@@ -1,0 +1,50 @@
+{
+  "collection_id": 310,
+  "schema_version": 1,
+  "id": 437,
+  "title": "PikPak",
+  "url": "https://mypikpak.com",
+  "domains": [
+    "mypikpak.com"
+  ],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "网盘",
+    "云存储",
+    "PikPak",
+    "mypikpak.com"
+  ],
+  "aliases": [
+    "pikpak"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1737,
+      "collection": "GoTab 公开资源库",
+      "file": "pikpak.svg",
+      "gotab_id": 270,
+      "id": 1104,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pikpak.svg",
+        "original_is_default": true,
+        "original_slug": "pikpak"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1515,
+        "previous_sha256": "832d3e288f449d2c37773aca65f26fc5405a39358aa776e6291b14bce9cf59d5",
+        "ratio": 0.2
+      },
+      "sha256": "85a7d5dcf177ba5ced49a09304606cb031e4f3dd6f99531f4f36c3d244689548",
+      "source": "https://web.gotab.cn/sourceStore/website/01KK8WWY5AYV8RWH4B5VYRX40C.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

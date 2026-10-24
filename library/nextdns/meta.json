@@ -1,0 +1,46 @@
+{
+  "title": "NextDNS",
+  "url": "https://nextdns.io/",
+  "domains": [
+    "nextdns.io"
+  ],
+  "description": "DNS 与网络过滤服务。",
+  "category": "网络工具",
+  "tags": [
+    "DNS",
+    "广告拦截",
+    "网络安全",
+    "NextDNS"
+  ],
+  "aliases": [
+    "nextdns",
+    "DNS",
+    "广告拦截",
+    "网络安全",
+    "NextDNS",
+    "privacy-dns",
+    "secure-dns"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "nextdns.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "3526f19120fa80d0f43cee90f7b85ae3abcd5eb83889270ba17c0009fc119353",
+      "bytes": 923,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextdns.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "nextdns.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

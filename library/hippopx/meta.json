@@ -1,0 +1,50 @@
+{
+  "collection_id": 189,
+  "schema_version": 1,
+  "id": 285,
+  "title": "HippoPX",
+  "url": "https://hippopx.com",
+  "domains": [
+    "hippopx.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "HippoPX",
+    "hippopx.com"
+  ],
+  "aliases": [
+    "hippopx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2453,
+      "collection": "GoTab 公开资源库",
+      "file": "hippopx.svg",
+      "gotab_id": 114,
+      "id": 712,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "hippopx.svg",
+        "original_is_default": true,
+        "original_slug": "hippopx"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2231,
+        "previous_sha256": "92f30f8cfd58df0f97d166d906b0dc4bc35bb3f820dd9fd1c70ce95df17ad2d4",
+        "ratio": 0.2
+      },
+      "sha256": "f9d0567d2c0299a6c742e0f035264d8a2bbad5b302fb11933183a9133477d654",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PK7T6TFNBZ1WF6K68QQDNJ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

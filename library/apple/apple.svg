@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="205 205 570 570" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="205" y="205" width="570" height="570" rx="114"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <circle cx="490" cy="490" r="285" fill="#000" />
+  <g fill="#fff">
+    <path d="M558 317.5C561 356 531 396.5 489.5 396.5C486 359 520.5 320 558 317.5Z" />
+    <path d="M620.5 434.5C605 410.5 581 400 553 400C526 400 509 416 491 416C476 416 455 401 438 401C389 400 352 440 350.5 493C348 553 370 606 407 647C422 664 436 662 450 657C468 651 478 646 495 646C517 645 529 657 543 659C564 663 579 651 592 633C609 611 621 588 629.5 569C600 557 583.5 534 583.5 502C583.5 473 596 450 620.5 434.5Z" />
+  </g>
+</g></svg>

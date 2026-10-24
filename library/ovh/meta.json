@@ -1,0 +1,43 @@
+{
+  "title": "OVHcloud",
+  "url": "https://www.ovhcloud.com/",
+  "domains": [
+    "www.ovhcloud.com"
+  ],
+  "description": "云计算与服务器服务商。",
+  "category": "云服务",
+  "tags": [
+    "OVH",
+    "云主机",
+    "服务器",
+    "OVHcloud"
+  ],
+  "aliases": [
+    "ovh",
+    "OVH",
+    "云主机",
+    "服务器"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "ovh.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2717eaaba48ba2418b834ea257ee5eda98002364b3c78381432b655fe4c0777c",
+      "bytes": 378,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ovh.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "ovh.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

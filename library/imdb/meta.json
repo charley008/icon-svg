@@ -1,0 +1,95 @@
+{
+  "collection_id": 208,
+  "schema_version": 1,
+  "id": 305,
+  "title": "imdb",
+  "url": "https://imdb.com",
+  "domains": [
+    "imdb.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "imdb",
+    "imdb.com"
+  ],
+  "aliases": [
+    "imdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2280,
+      "collection": "theSVG",
+      "file": "imdb.svg",
+      "id": 756,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "imdb.svg",
+        "original_is_default": true,
+        "original_slug": "imdb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2047,
+        "previous_sha256": "da5b7cc3be7ce38ee403829ebbf466b1fd537ceec226d519e510c5aac77340ea",
+        "ratio": 0.2
+      },
+      "sha256": "24df4d194fee5311f460cf0cc4f8ec284c739c588ce04c7d8f2c259053ba1f50",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/imdb/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2280,
+      "collection": "theSVG",
+      "file": "imdb-1.svg",
+      "id": 757,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "imdb-1.svg",
+        "original_is_default": false,
+        "original_slug": "imdb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2047,
+        "previous_sha256": "3d5837282f1c8a808d1873b3565cf0aad301f97837e7315d872b0722b6dcd4cf",
+        "ratio": 0.2
+      },
+      "sha256": "823fd84b17d134e108f364cddc2f50f701815d1fb64ffa223c12451235e9b137",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/imdb/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 953,
+      "collection": "Iconify / arcticons",
+      "file": "imdb-2.svg",
+      "id": 758,
+      "is_default": false,
+      "label": "imdb",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "imdb-2.svg",
+        "original_is_default": false,
+        "original_slug": "imdb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 720,
+        "previous_sha256": "c07c1839170e28b2f9141bededde83e8cbc4a57001405b3c10c02b005ca15e3c",
+        "ratio": 0.2
+      },
+      "sha256": "d8872ee6e4aaae0d5895984a0be27e6e010672a73f911399f906280f6e936aa7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#imdb",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

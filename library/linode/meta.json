@@ -1,0 +1,43 @@
+{
+  "title": "Linode",
+  "url": "https://www.linode.com/",
+  "domains": [
+    "www.linode.com"
+  ],
+  "description": "云计算服务品牌。",
+  "category": "云服务",
+  "tags": [
+    "云主机",
+    "VPS",
+    "服务器",
+    "Linode"
+  ],
+  "aliases": [
+    "linode",
+    "云主机",
+    "VPS",
+    "服务器"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "linode.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "50e9b01d01d1cb3baf95a79f4d670ae98703c6101621efebedb0130a84fd1c79",
+      "bytes": 4802,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linode.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "linode.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

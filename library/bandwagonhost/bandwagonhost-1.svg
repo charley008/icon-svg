@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="256" height="256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="512" height="512" rx="102.4"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E9A300" />
+      <stop offset="34%" stop-color="#B97700" />
+      <stop offset="65%" stop-color="#71400E" />
+      <stop offset="100%" stop-color="#2D1A0C" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE04A" />
+      <stop offset="100%" stop-color="#FFB900" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="80" fill="url(#bg)" />
+  <g font-family="Arial Black,Arial,sans-serif" font-weight="900" text-anchor="middle">
+    <text x="256" y="224" font-size="70" textLength="458" lengthAdjust="spacingAndGlyphs" fill="#5B3100" opacity=".8">bandwagon</text>
+    <text x="256" y="218" font-size="70" textLength="458" lengthAdjust="spacingAndGlyphs" fill="url(#gold)">bandwagon</text>
+    <text x="207" y="350" font-size="105" textLength="310" lengthAdjust="spacingAndGlyphs" fill="#DAD7D1">HOST</text>
+  </g>
+  <path d="M350 329 C350 317 359 308 372 308     C378 288 407 285 419 304 C435 303 446 315 446 329     C446 342 436 351 422 351 H369 C358 351 350 342 350 329Z" fill="#F0EDE5" stroke="#C5BEB1" stroke-width="3" />
+  <path d="M376 328H419" fill="none" stroke="#B9B0A1" stroke-width="3" stroke-linecap="round" opacity=".7" />
+</g></svg>

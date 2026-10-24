@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#d20f24" /><svg width="256" height="256" viewBox="0 0 128 128" version="1.1" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <title>IT之家</title>
+    <g id="IT之家" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M92,41 C94.209139,41 96,42.790861 96,45 L96,81 C96,83.209139 94.209139,85 92,85 L80.780268,85 L80.780268,94.1560709 L69.4391164,85 L36,85 C33.790861,85 32,83.209139 32,81 L32,45 C32,42.790861 33.790861,41 36,41 L92,41 Z M56,47 L46,47 L46,79 L56,79 L56,47 Z M86,47 L61,47 L61,56 L69,56 L69,79 L79,79 L79,56 L86,56 L86,47 Z" id="1" fill="#FFFFFF" />
+    </g>
+</svg></g></g></svg>

@@ -1,0 +1,50 @@
+{
+  "collection_id": 102,
+  "schema_version": 1,
+  "id": 172,
+  "title": "CreativeMass",
+  "url": "https://creativemass.cn",
+  "domains": [
+    "creativemass.cn"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "CreativeMass",
+    "creativemass.cn"
+  ],
+  "aliases": [
+    "creativemass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 19343,
+      "collection": "GoTab 公开资源库",
+      "file": "creativemass.svg",
+      "gotab_id": 132,
+      "id": 420,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "creativemass.svg",
+        "original_is_default": true,
+        "original_slug": "creativemass"
+      },
+      "rounded_corners": {
+        "previous_bytes": 19121,
+        "previous_sha256": "0d19c00799aeab3cbf9ab7214e610f1f1c90eeac7fa1ed3eb801f141f9122ff4",
+        "ratio": 0.2
+      },
+      "sha256": "50211581e058ec0567a1b59e5cb2f8130bb9b21529600b3e61e26dff1259acb6",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8S6KAMKB6JSASS9ZHZHPTY6.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

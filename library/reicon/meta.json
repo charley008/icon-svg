@@ -1,0 +1,49 @@
+{
+  "collection_id": 337,
+  "schema_version": 1,
+  "id": 467,
+  "title": "ReIcon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "系统工具",
+    "ReIcon"
+  ],
+  "aliases": [
+    "reicon"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 5458,
+      "collection": "用户优选",
+      "file": "reicon.svg",
+      "id": 1166,
+      "is_default": true,
+      "label": "reicon",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "reicon.svg",
+        "original_is_default": true,
+        "original_slug": "reicon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5235,
+        "previous_sha256": "8a3dc6e893c1c62e69defd7dab3275f02142eded4a7c5a37b6361c3dd2434b18",
+        "ratio": 0.2
+      },
+      "sha256": "1626374c40655b9c3304f7b5968fa4bf52683f0a97f793b2a44cc21f28088dbb",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Gitea",
+  "url": "https://about.gitea.com/",
+  "domains": [
+    "about.gitea.com"
+  ],
+  "description": "自托管 Git 代码管理应用。",
+  "category": "开发编程",
+  "tags": [
+    "Git",
+    "代码托管",
+    "自托管",
+    "Gitea"
+  ],
+  "aliases": [
+    "gitea",
+    "Git",
+    "代码托管",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "gitea.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "6e2da0b8fbd4e0eec778714f5009361eb0a339967e06d265f3d7d0d50418d7c7",
+      "bytes": 2174,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gitea.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "gitea.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

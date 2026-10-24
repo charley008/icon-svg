@@ -1,0 +1,43 @@
+{
+  "title": "Aruba",
+  "url": "https://www.arubanetworks.com/",
+  "domains": [
+    "www.arubanetworks.com"
+  ],
+  "description": "企业无线与网络设备品牌。",
+  "category": "设备硬件",
+  "tags": [
+    "阿鲁巴",
+    "无线网络",
+    "企业网络",
+    "Aruba"
+  ],
+  "aliases": [
+    "aruba",
+    "阿鲁巴",
+    "无线网络",
+    "企业网络"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "aruba.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "0a2591016c393581e4fd908da5be3c7e0dff74d2c1a8314aa72603eeda8bb69f",
+      "bytes": 397,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aruba.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "aruba.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 160,
+  "schema_version": 1,
+  "id": 231,
+  "title": "Freepik",
+  "url": "https://freepik.com",
+  "domains": [
+    "freepik.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Freepik",
+    "freepik.com"
+  ],
+  "aliases": [
+    "freepik"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3714,
+      "collection": "GoTab 公开资源库",
+      "file": "freepik.svg",
+      "gotab_id": 125,
+      "id": 578,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "freepik.svg",
+        "original_is_default": true,
+        "original_slug": "freepik"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3492,
+        "previous_sha256": "680c146a55f8f05790e7e971082e317d55152e57f6d96fdf28914053e4fe318e",
+        "ratio": 0.2
+      },
+      "sha256": "0aab15ef25bc3511dc1ba6dc26194df643b8591c1be96985decb91ad327a7122",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PNFTZZV0Z32560NFTCKTXS.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

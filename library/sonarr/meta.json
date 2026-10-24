@@ -1,0 +1,43 @@
+{
+  "title": "Sonarr",
+  "url": "https://sonarr.tv/",
+  "domains": [
+    "sonarr.tv"
+  ],
+  "description": "电视剧媒体管理应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "电视剧",
+    "媒体管理",
+    "自托管",
+    "Sonarr"
+  ],
+  "aliases": [
+    "sonarr",
+    "电视剧",
+    "媒体管理",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "sonarr.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "a5debe565281eb16b746d75b9ce72e22f2fb15c19b4f55428fdf62b84be79306",
+      "bytes": 1978,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarr.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "sonarr.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

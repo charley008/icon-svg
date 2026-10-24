@@ -1,0 +1,86 @@
+{
+  "collection_id": 15,
+  "schema_version": 1,
+  "id": 16,
+  "title": "吾爱破解",
+  "url": "https://52pojie.cn",
+  "domains": [
+    "52pojie.cn"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "社交",
+    "通讯",
+    "吾爱破解",
+    "52pojie",
+    "wuaipojie",
+    "52pojie.cn"
+  ],
+  "aliases": [
+    "52pojie",
+    "wuaipojie"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 7017,
+      "collection": "用户优化 SVG",
+      "file": "52pojie.svg",
+      "id": 28,
+      "is_default": true,
+      "label": "52pojie",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "52pojie.svg",
+        "original_is_default": true,
+        "original_slug": "52pojie"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6793,
+        "previous_sha256": "d83b070f08c457b0d331aac89b7e72089b1c009bbdb328bed223993b2cf50b24",
+        "ratio": 0.2
+      },
+      "sha256": "eb9b098aa50c6e6b48c96365efb0d8ce751488b271aea6d810244e79b9599d2c",
+      "source": "https://www.52pojie.cn/favicon.svg；用户确认官网白字路径配回红色圆角底",
+      "version": 0
+    },
+    {
+      "bytes": 7017,
+      "collection": "轻量矢量替换",
+      "file": "52pojie-1.svg",
+      "id": 29,
+      "is_default": false,
+      "label": "mark",
+      "license": "原图版权及商标归权利人",
+      "method": "native-vector-reuse",
+      "provenance": {
+        "original_file": "52pojie-1.svg",
+        "original_is_default": false,
+        "original_slug": "52pojie"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "0b01aa5118baef7a453fd6a0dd654087c11b7f572d2b3be32c8d9b8481c8dee9",
+        "previous_bytes": 322914,
+        "previous_method": "traced-detail",
+        "previous_source": "原图描摹",
+        "reference": "seed/icons/52pojie/52pojie.svg",
+        "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "eb9b098aa50c6e6b48c96365efb0d8ce751488b271aea6d810244e79b9599d2c",
+      "source": "https://www.52pojie.cn/favicon.svg；用户确认官网白字路径配回红色圆角底",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,57 @@
+{
+  "collection_id": 157,
+  "schema_version": 1,
+  "id": 228,
+  "title": "flomo",
+  "url": "https://flomoapp.com",
+  "domains": [
+    "flomoapp.com"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "国内补充",
+    "办公",
+    "效率工具",
+    "笔记",
+    "知识管理",
+    "flomo",
+    "flomoapp.com"
+  ],
+  "aliases": [
+    "flomo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6015,
+      "collection": "原图描摹",
+      "file": "flomo.svg",
+      "id": 574,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "flomo.svg",
+        "original_is_default": true,
+        "original_slug": "flomo"
+      },
+      "render_rmse": 3.075,
+      "rounded_corners": {
+        "previous_bytes": 5779,
+        "previous_sha256": "a9ff65d113d7baff2ff2f0656cd9d0a3a84aee7c64ca1953ccee37cd8aa88816",
+        "ratio": 0.2
+      },
+      "sha256": "4ea596ddb111ce24d75b7fd314b3e462c7402a30d7095929507df19799067ca5",
+      "source": "https://flomoapp.com/images/logo.png",
+      "source_size": [
+        2100,
+        2100
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

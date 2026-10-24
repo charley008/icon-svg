@@ -1,0 +1,51 @@
+{
+  "collection_id": 58,
+  "schema_version": 1,
+  "id": 105,
+  "title": "BoardMix 博思白板",
+  "url": "https://boardmix.cn",
+  "domains": [
+    "boardmix.cn"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "办公",
+    "效率工具",
+    "BoardMix 博思白板",
+    "boardmix",
+    "boardmix.cn"
+  ],
+  "aliases": [
+    "boardmix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2691,
+      "collection": "GoTab 公开资源库",
+      "file": "boardmix.svg",
+      "gotab_id": 227,
+      "id": 262,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "boardmix.svg",
+        "original_is_default": true,
+        "original_slug": "boardmix"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2469,
+        "previous_sha256": "11fe42d676d24472b4788cc9830b7b6b209493e6043328dd545077dcad7a6666",
+        "ratio": 0.2
+      },
+      "sha256": "a9da521ef168e42be67283f3af31674838c0847228558568eead7989998ceed5",
+      "source": "https://web.gotab.cn/uploads/202507/01K0R5GZWP0EA5D80BYN6N31GW.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

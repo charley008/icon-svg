@@ -1,0 +1,96 @@
+{
+  "collection_id": 23,
+  "schema_version": 1,
+  "id": 24,
+  "title": "AdGuard",
+  "url": "https://adguard.com",
+  "domains": [
+    "adguard.com"
+  ],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "AdGuard",
+    "adguard.com"
+  ],
+  "aliases": [
+    "adguard"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 647,
+      "collection": "用户优选",
+      "file": "adguard.svg",
+      "id": 41,
+      "is_default": true,
+      "label": "adguard",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "adguard.svg",
+        "original_is_default": true,
+        "original_slug": "adguard"
+      },
+      "rounded_corners": {
+        "previous_bytes": 414,
+        "previous_sha256": "ec7c3a0678bcb03e29a3a8390c11ea73eb16560c2721c93303811424220c8145",
+        "ratio": 0.2
+      },
+      "sha256": "3a67bfde739c7695e956a5222969f0e13308ba9e8c02640bd23380e2c3f7544e",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "title": "AdGuard Home",
+      "url": "https://adguard.com/adguard-home/overview.html",
+      "domains": [
+        "adguard.com"
+      ],
+      "description": "AdGuard 自托管 DNS 与广告拦截应用。",
+      "category": "网络工具",
+      "tags": [
+        "DNS",
+        "广告拦截",
+        "自托管",
+        "AdGuard Home"
+      ],
+      "aliases": [
+        "adguard-home",
+        "DNS",
+        "广告拦截",
+        "自托管",
+        "AdGuard Home"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "adguard-home.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "4a65b23ae16bf700f35139e2c10a5f731a32530f2db832abd5612be2523b1f9f",
+          "bytes": 672,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adguard-home.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "adguard-home.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "home"
+    }
+  ]
+}

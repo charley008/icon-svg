@@ -1,0 +1,130 @@
+{
+  "collection_id": 368,
+  "schema_version": 1,
+  "id": 501,
+  "title": "Stack Overflow",
+  "url": "https://stackoverflow.com",
+  "domains": [
+    "stackoverflow.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "全球App补充",
+    "开发",
+    "编程",
+    "Stack Overflow",
+    "stackoverflow",
+    "stack-overflow",
+    "stackoverflow.com"
+  ],
+  "aliases": [
+    "stackoverflow",
+    "stack-overflow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 767,
+      "collection": "theSVG",
+      "file": "stackoverflow.svg",
+      "id": 1260,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stackoverflow.svg",
+        "original_is_default": true,
+        "original_slug": "stackoverflow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 534,
+        "previous_sha256": "09a38abd57a80c5d06563e5ec929b80faff28e7511085054a9738864d520dd1f",
+        "ratio": 0.2
+      },
+      "sha256": "7af3f6f0edecbf3368aa3b34171ac34bbf8d48a563ea5675c4ae1a5654f46394",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stack-overflow/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6681,
+      "collection": "theSVG",
+      "file": "stackoverflow-1.svg",
+      "id": 1261,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stackoverflow-1.svg",
+        "original_is_default": false,
+        "original_slug": "stackoverflow"
+      },
+      "sha256": "f3375a7899f4cc0ba0d641550e510a1bb2e85fd9e7d1dcc66b8af80d24b29f0c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stack-overflow/wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 767,
+      "collection": "theSVG",
+      "file": "stackoverflow-2.svg",
+      "id": 1262,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stackoverflow-2.svg",
+        "original_is_default": false,
+        "original_slug": "stackoverflow"
+      },
+      "rounded_corners": {
+        "previous_bytes": 534,
+        "previous_sha256": "fd13e1bf634134a775a257918031cf263861528c8f10552392e48057df0c89c9",
+        "ratio": 0.2
+      },
+      "sha256": "1e1dc867ab4ec50e9b955a0c01c9055c3c41ed063607a39b37004a88832a5ff6",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/stack-overflow/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 502,
+      "collection": "SVGL",
+      "file": "stackoverflow-3.svg",
+      "id": 1263,
+      "is_default": false,
+      "label": "stackoverflow",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stackoverflow-3.svg",
+        "original_is_default": false,
+        "original_slug": "stackoverflow"
+      },
+      "sha256": "0dfeecc1cb525c156bab18ed0a58c00765acf75f704c4e720d90fccc5e963b68",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/stackoverflow.svg",
+      "version": 3
+    },
+    {
+      "bytes": 4415,
+      "collection": "Iconify / logos",
+      "file": "stackoverflow-4.svg",
+      "id": 1264,
+      "is_default": false,
+      "label": "stackoverflow",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stackoverflow-4.svg",
+        "original_is_default": false,
+        "original_slug": "stackoverflow"
+      },
+      "sha256": "756f0cdc65687bc848270f6799da09e1b5c054c2922a5094d4feb1471bfec70e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#stackoverflow",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

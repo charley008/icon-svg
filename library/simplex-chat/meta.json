@@ -1,0 +1,42 @@
+{
+  "title": "SimpleX Chat",
+  "url": "https://simplex.chat/",
+  "domains": [
+    "simplex.chat"
+  ],
+  "description": "注重隐私的即时通讯应用。",
+  "category": "社交通讯",
+  "tags": [
+    "加密聊天",
+    "隐私通讯",
+    "SimpleX Chat"
+  ],
+  "aliases": [
+    "simplex-chat",
+    "加密聊天",
+    "隐私通讯",
+    "Messaging App"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "simplex-chat.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "19a46609ee4197555b516b14eb31b285da1faa12f9d141243645538a5a8dff55",
+      "bytes": 594,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/simplex-chat.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "simplex-chat.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

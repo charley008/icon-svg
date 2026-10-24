@@ -1,0 +1,118 @@
+{
+  "collection_id": 210,
+  "schema_version": 1,
+  "id": 307,
+  "title": "indeed",
+  "url": "https://indeed.com",
+  "domains": [
+    "indeed.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "全球Top100",
+    "生活服务",
+    "indeed",
+    "indeed.com"
+  ],
+  "aliases": [
+    "indeed"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1200,
+      "collection": "theSVG",
+      "file": "indeed.svg",
+      "id": 760,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "indeed.svg",
+        "original_is_default": true,
+        "original_slug": "indeed"
+      },
+      "rounded_corners": {
+        "previous_bytes": 967,
+        "previous_sha256": "6dc7a86e841276f6192dba320c63205b7d68614af7dd24e987d76227e21da08d",
+        "ratio": 0.2
+      },
+      "sha256": "c87969a8cca76a9fdb58566861507fb8dff37d302c4fb7780b0907d49d404221",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/indeed/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5867,
+      "collection": "theSVG",
+      "file": "indeed-1.svg",
+      "id": 761,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "indeed-1.svg",
+        "original_is_default": false,
+        "original_slug": "indeed"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5642,
+        "previous_sha256": "04e485a27ee4b638a28302fb870733bffd3dc448152cef8172ebf76f19ef265d",
+        "ratio": 0.2
+      },
+      "sha256": "943ead97145e661f93b01bf5d6cdeae0a5918f87519ee9e2de71f2a21476e8fe",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/indeed-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1200,
+      "collection": "theSVG",
+      "file": "indeed-2.svg",
+      "id": 762,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "indeed-2.svg",
+        "original_is_default": false,
+        "original_slug": "indeed"
+      },
+      "rounded_corners": {
+        "previous_bytes": 967,
+        "previous_sha256": "6d4008bde87d99b7f486ddaba9c4b89fed0effda3edbaa793667c17dc0f397c4",
+        "ratio": 0.2
+      },
+      "sha256": "f3b0ffa20afd8e399834a896a17870f15f7ee477566260f1c62060fbd4ac3b47",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/indeed/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 846,
+      "collection": "Iconify / arcticons",
+      "file": "indeed-3.svg",
+      "id": 763,
+      "is_default": false,
+      "label": "indeed",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "indeed-3.svg",
+        "original_is_default": false,
+        "original_slug": "indeed"
+      },
+      "rounded_corners": {
+        "previous_bytes": 613,
+        "previous_sha256": "a6ea389830bb3f8b991e56ca728b546f63c6c24a0405b7a8b7cd02dfa101cad0",
+        "ratio": 0.2
+      },
+      "sha256": "481cc07cb41ea44bf1af77bbfaed44b5b927c627d11f160a2057f8f6d944fbd2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#indeed",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

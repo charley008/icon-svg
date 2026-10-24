@@ -1,0 +1,555 @@
+{
+  "collection_id": 417,
+  "schema_version": 1,
+  "parent_brand": "tencent",
+  "id": 570,
+  "title": "微信",
+  "url": "https://weixin.qq.com",
+  "domains": [
+    "weixin.qq.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "社交",
+    "通讯",
+    "微信",
+    "WeChat",
+    "腾讯",
+    "weixin",
+    "we-chat",
+    "weixin.qq.com"
+  ],
+  "aliases": [
+    "wechat",
+    "weixin",
+    "we-chat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1656,
+      "collection": "theSVG",
+      "file": "wechat.svg",
+      "id": 1425,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat.svg",
+        "original_is_default": true,
+        "original_slug": "wechat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1423,
+        "previous_sha256": "e8669bf773e1159d7a716d145f0e7310452665bfd43a27d9c233d2bb27b03193",
+        "ratio": 0.2
+      },
+      "sha256": "dad960219a99cb6e8e5f4f4871d5b5cf542b743ccd3b18fe7f053f5f1728ed24",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wechat/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1656,
+      "collection": "theSVG",
+      "file": "wechat-1.svg",
+      "id": 1426,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat-1.svg",
+        "original_is_default": false,
+        "original_slug": "wechat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1423,
+        "previous_sha256": "bc0a2747e0e94a73d2ad4b92a9dff6c586fc6676fb21b723d707123fa518979e",
+        "ratio": 0.2
+      },
+      "sha256": "cf3a4a7a45ad81a7eea7bf5074ea2d87b6fa8027cdb7507e0018b7723804d588",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wechat/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1656,
+      "collection": "Dashboard Icons",
+      "file": "wechat-2.svg",
+      "id": 1427,
+      "is_default": false,
+      "label": "wechat-dark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat-2.svg",
+        "original_is_default": false,
+        "original_slug": "wechat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1423,
+        "previous_sha256": "942267a61b5bb3c3e503d9c384eb201ec27390cfc48a6cb1000041e7b3a4eb3c",
+        "ratio": 0.2
+      },
+      "sha256": "191bf4c4841598e760acb6ea363324ee7aac12588cfc093a7cbd9442889ba78f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wechat-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2568,
+      "collection": "Iconify / icon-park",
+      "file": "wechat-3.svg",
+      "id": 1428,
+      "is_default": false,
+      "label": "wechat",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat-3.svg",
+        "original_is_default": false,
+        "original_slug": "wechat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2335,
+        "previous_sha256": "38396eaa18a9e69260a9c75402f474342499bbb5063dd84f37b769c27ef41f76",
+        "ratio": 0.2
+      },
+      "sha256": "aa199dd3df5b274a43da64cc2c9b5b508d7776b2b72ff33a796922799fc00027",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#wechat",
+      "version": 3
+    },
+    {
+      "bytes": 1643,
+      "collection": "Iconify / ri",
+      "file": "wechat-4.svg",
+      "id": 1429,
+      "is_default": false,
+      "label": "wechat-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat-4.svg",
+        "original_is_default": false,
+        "original_slug": "wechat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1410,
+        "previous_sha256": "cca674eef3aa9293c532e84a944815a86f0296ecdce13926630b4151ff439564",
+        "ratio": 0.2
+      },
+      "sha256": "cdb6bf77020c749560a5aa222cae2a7ffa939ddbbd6db3088d217a2d4dad9a4e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#wechat-fill",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 571,
+      "key": "official-accounts",
+      "title": "微信公众平台",
+      "url": "https://mp.weixin.qq.com",
+      "domains": [
+        "mp.weixin.qq.com"
+      ],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "社交",
+        "通讯",
+        "微信",
+        "WeChat",
+        "腾讯",
+        "微信公众平台",
+        "wechat-official-accounts",
+        "mp.weixin.qq.com"
+      ],
+      "aliases": [
+        "wechat-official-accounts"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1565,
+          "collection": "GoTab 公开资源库",
+          "file": "wechat-official-accounts.svg",
+          "gotab_id": 60,
+          "id": 1430,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "wechat-official-accounts.svg",
+            "original_is_default": true,
+            "original_slug": "wechat-official-accounts"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1343,
+            "previous_sha256": "b3c832321b1d68eda693c80578f277eaaf008ef622e2c899b0da5f7cfe254215",
+            "ratio": 0.2
+          },
+          "sha256": "60478ab8a4ccf76b0982617a8c71a002f3de57998c6845f7732bedd5777f2877",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJN83R95WP337M54DDMEJE.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 572,
+      "key": "pay",
+      "title": "微信支付",
+      "url": "https://pay.weixin.qq.com",
+      "domains": [
+        "pay.weixin.qq.com"
+      ],
+      "description": "",
+      "category": "金融支付",
+      "tags": [
+        "全球App补充",
+        "金融",
+        "微信",
+        "WeChat",
+        "腾讯",
+        "支付",
+        "收款",
+        "微信支付",
+        "wechat-pay",
+        "wechatpay",
+        "pay.weixin.qq.com"
+      ],
+      "aliases": [
+        "wechat-pay",
+        "wechatpay"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1119,
+          "collection": "SVGLOGO",
+          "file": "wechat-pay.svg",
+          "id": 1431,
+          "is_default": true,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wechat-pay.svg",
+            "original_is_default": true,
+            "original_slug": "wechat-pay"
+          },
+          "rounded_corners": {
+            "previous_bytes": 886,
+            "previous_sha256": "02810d0fa07a9c28226d8196ebc41b265198e0495a44ccb42a0ecb9ba74d75f3",
+            "ratio": 0.2
+          },
+          "sha256": "9e4e97c87f1dcd089fb812cceddfce085b4d6d19a6772c8b90c99df3c856ebaa",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/weixinpay.svg",
+          "version": 0
+        },
+        {
+          "bytes": 940,
+          "collection": "Iconify / ri",
+          "file": "wechat-pay-1.svg",
+          "id": 1432,
+          "is_default": false,
+          "label": "wechat-pay-fill",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wechat-pay-1.svg",
+            "original_is_default": false,
+            "original_slug": "wechat-pay"
+          },
+          "rounded_corners": {
+            "previous_bytes": 707,
+            "previous_sha256": "ecee26fbd033f143a51defbefc58814d23e6f06fb9b0d09a0c826f9dca5784f2",
+            "ratio": 0.2
+          },
+          "sha256": "550aec4c3e8fefa97922a77689871aae2260787d78f32bdd3fd3bf99c689a51f",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#wechat-pay-fill",
+          "version": 1
+        },
+        {
+          "bytes": 1165,
+          "collection": "Iconify / ri",
+          "file": "wechat-pay-2.svg",
+          "id": 1433,
+          "is_default": false,
+          "label": "wechat-pay-line",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wechat-pay-2.svg",
+            "original_is_default": false,
+            "original_slug": "wechat-pay"
+          },
+          "rounded_corners": {
+            "previous_bytes": 932,
+            "previous_sha256": "678fdf0b284bbaa8f1e1ef5f274d588ac4292c0e2cdcbb14e3bd9191b287f3ab",
+            "ratio": 0.2
+          },
+          "sha256": "6ac5c2a209d541944d6bffc88807b4c5aec50f8b6e7e556cc677f4e849d21534",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#wechat-pay-line",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 573,
+      "key": "shop",
+      "title": "微信小店",
+      "url": "https://store.weixin.qq.com",
+      "domains": [
+        "store.weixin.qq.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "电商",
+        "购物",
+        "微信",
+        "WeChat",
+        "腾讯",
+        "微信小店",
+        "wechat-shop",
+        "store.weixin.qq.com"
+      ],
+      "aliases": [
+        "wechat-shop"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1768,
+          "collection": "GoTab 公开资源库",
+          "file": "wechat-shop.svg",
+          "gotab_id": 275,
+          "id": 1434,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "wechat-shop.svg",
+            "original_is_default": true,
+            "original_slug": "wechat-shop"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1546,
+            "previous_sha256": "33646818fbdf6e3b347cf30334630c4ec4d9f58d34f4d5e7b7c516cd5f3676d8",
+            "ratio": 0.2
+          },
+          "sha256": "3905a46de326ce6f2bdef06f80990c9a5707f9fd6e62b1313a0af0efc00ee4ad",
+          "source": "https://web.gotab.cn/sourceStore/website/01KMEYQTJG19627J753X96VKJF.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 574,
+      "key": "wecom",
+      "title": "企业微信",
+      "url": "https://work.weixin.qq.com",
+      "domains": [
+        "work.weixin.qq.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "办公",
+        "效率工具",
+        "微信",
+        "WeChat",
+        "腾讯",
+        "企业微信",
+        "wecom",
+        "qiyeweixin",
+        "work.weixin.qq.com"
+      ],
+      "aliases": [
+        "wecom",
+        "qiyeweixin"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3246,
+          "collection": "SVGLOGO",
+          "file": "wechat-wecom.svg",
+          "id": 1435,
+          "is_default": true,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wecom-1.svg",
+            "original_is_default": true,
+            "original_slug": "wecom"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3013,
+            "previous_sha256": "8ae6dbaebf70bfadb384201c86495fa021215dba45a6dd9a769ae2dce1df53d1",
+            "ratio": 0.2
+          },
+          "sha256": "c527604337cdb7b275043ef3551b5f042b3ff1461d15f781add11a0b4e8c24e3",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/qiyeweixin.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1865,
+          "collection": "Iconify / arcticons",
+          "file": "wechat-wecom-1.svg",
+          "id": 1436,
+          "is_default": false,
+          "label": "wecom",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "wecom.svg",
+            "original_is_default": false,
+            "original_slug": "wecom"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1632,
+            "previous_sha256": "e3a5129e1551019b88c3d7f9518654dc929be6f53c79d7e72634e6a2c011b7c7",
+            "ratio": 0.2
+          },
+          "sha256": "0008c10befc2774709b77657058e473eb0f6dfadaccf91de9ca97909d52038e5",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#wecom",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 575,
+      "key": "weread",
+      "title": "微信读书",
+      "url": "https://weread.qq.com",
+      "domains": [
+        "weread.qq.com"
+      ],
+      "description": "",
+      "category": "阅读",
+      "tags": [
+        "国内补充",
+        "阅读",
+        "微信",
+        "WeChat",
+        "腾讯",
+        "微信读书",
+        "weread",
+        "wechat-read",
+        "weread.qq.com"
+      ],
+      "aliases": [
+        "weread",
+        "wechat-read"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1210,
+          "collection": "已有图标",
+          "file": "wechat-weread.svg",
+          "id": 1437,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "weread.svg",
+            "original_is_default": true,
+            "original_slug": "weread"
+          },
+          "rounded_corners": {
+            "previous_bytes": 977,
+            "previous_sha256": "bcf78d37506f5d649c87008d6e2404a7c021ab367e83ab7be4e90a9125146612",
+            "ratio": 0.2
+          },
+          "sha256": "e8aaadd1abeb2bdf7a38c46d492f339a28ca7b3629253e47f6e1797e3fc3193b",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/weread/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2783,
+          "collection": "GoTab 公开资源库",
+          "file": "wechat-weread-1.svg",
+          "gotab_id": 192,
+          "id": 1438,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "weread-1.svg",
+            "original_is_default": false,
+            "original_slug": "weread"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2561,
+            "previous_sha256": "8352dd5389d23e02cdf68deeff04aa1fde71eb07ad5d8adb5a66eec5844a936a",
+            "ratio": 0.2
+          },
+          "sha256": "73bd790a9a4fb8da93f31c51b806342456c2ff9dd961776a43cb08daf29287c8",
+          "source": "https://web.gotab.cn/sourceStore/website/01JGB9KAS5ASJG0M1XZYPJY90R.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1210,
+          "collection": "已有图标",
+          "file": "wechat-weread-2.svg",
+          "id": 1439,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "weread-2.svg",
+            "original_is_default": false,
+            "original_slug": "weread"
+          },
+          "rounded_corners": {
+            "previous_bytes": 977,
+            "previous_sha256": "ca33deec24b54e9cccdfeb65967d262e3581aa74fcafc262b128b85532e9fa04",
+            "ratio": 0.2
+          },
+          "sha256": "a6a86e99673bb7a7424b282a6a4ece243ffcd8dccf1c2d59eab4ccc5d2ca0955",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/weread/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1004,
+          "collection": "已有图标",
+          "file": "wechat-weread-3.svg",
+          "id": 1440,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "weread-3.svg",
+            "original_is_default": false,
+            "original_slug": "weread"
+          },
+          "rounded_corners": {
+            "previous_bytes": 771,
+            "previous_sha256": "4b3aaf253d77596a9faa99026098407a6fc17bdca5f22164055480116ed24836",
+            "ratio": 0.2
+          },
+          "sha256": "fb858e0e2ab5e665119cdf056b8ef772e12cddda2284ae30328420afd6614364",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#weread",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    }
+  ]
+}

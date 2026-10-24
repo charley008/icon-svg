@@ -1,0 +1,51 @@
+{
+  "collection_id": 330,
+  "schema_version": 1,
+  "id": 457,
+  "title": "Qoder",
+  "url": "https://qoder.com",
+  "domains": [
+    "qoder.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "AI 编程",
+    "代码助手",
+    "Qoder",
+    "qoder.com"
+  ],
+  "aliases": [
+    "qoder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7813,
+      "collection": "GoTab 公开资源库",
+      "file": "qoder.svg",
+      "gotab_id": 311,
+      "id": 1139,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "qoder.svg",
+        "original_is_default": true,
+        "original_slug": "qoder"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7591,
+        "previous_sha256": "db1a03f94226d757dc9f13f381fe7073e826022f823c9bbaf2fc436f8bd21504",
+        "ratio": 0.2
+      },
+      "sha256": "0a1014fe765728c7b27adfc51e5c753921361a1034663a7d156950b013e3e8a2",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7ZBBR003MZNWXWJV2NR2AB.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 324,
+  "schema_version": 1,
+  "id": 451,
+  "title": "PxHere",
+  "url": "https://pxhere.com",
+  "domains": [
+    "pxhere.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "PxHere",
+    "pxhere.com"
+  ],
+  "aliases": [
+    "pxhere"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2024,
+      "collection": "GoTab 公开资源库",
+      "file": "pxhere.svg",
+      "gotab_id": 112,
+      "id": 1131,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pxhere.svg",
+        "original_is_default": true,
+        "original_slug": "pxhere"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1802,
+        "previous_sha256": "aba04593ec40e21cb427b8dd2fa11cb0aaa441041cfccc986d1ddf776ac84649",
+        "ratio": 0.2
+      },
+      "sha256": "ef2d5abb680f47b5e4d8545ee1d43c1c367bc1d5ccebdfb2ac9c2bf99c32b3db",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PJR6EE52D9CKR7XXV32VTW.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

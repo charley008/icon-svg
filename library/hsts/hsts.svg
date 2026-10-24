@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+ <defs>
+  <radialGradient id="background" cx=".53" cy=".58" r=".8"><stop stop-color="#10383e" /><stop offset="1" stop-color="#001d25" /></radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c68a45" /><stop offset=".3" stop-color="#e4a14e" /><stop offset=".55" stop-color="#b97d46" /><stop offset=".8" stop-color="#d69550" /><stop offset="1" stop-color="#90623e" /></linearGradient>
+  <linearGradient id="shield" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#ffbe68" /><stop offset=".5" stop-color="#ffad56" /><stop offset="1" stop-color="#ffa452" /></linearGradient>
+ </defs>
+ <rect width="256" height="256" rx="48" fill="url(#background)" />
+ <circle cx="128" cy="130" r="110" fill="none" stroke="url(#gold)" stroke-width="22" />
+ <circle cx="128" cy="130" r="120" fill="none" stroke="#97683e" stroke-width="2" />
+ <circle cx="128" cy="130" r="98" fill="none" stroke="#e5ae66" stroke-width="2" />
+ <circle cx="128" cy="130" r="108" fill="none" stroke="#ffd481" stroke-width="1" opacity=".4" />
+ <path d="M52 44a111 111 0 0 1 68-25" fill="none" stroke="#f9b75e" stroke-width="10" opacity=".3" />
+ <path d="M122 15a115 115 0 0 1 69 25M233 106a110 110 0 0 1-19 88M78 231a112 112 0 0 1-40-40" fill="none" stroke="#795b3d" stroke-width="10" opacity=".28" />
+ <path d="M128 63c-14 12-33 17-56 20v30c0 37 18 62 56 81 38-19 56-44 56-81V83c-23-3-42-8-56-20Z" fill="url(#shield)" stroke="#dd9549" stroke-width="1" />
+ <path d="M96 94h10v22h16V94h10v22h16V94h10v54h-10v-22h-16v35h-10v-35h-16v22H96Z" fill="#123b3e" />
+</g></svg>

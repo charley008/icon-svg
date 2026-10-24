@@ -1,0 +1,139 @@
+{
+  "collection_id": 457,
+  "schema_version": 1,
+  "id": 621,
+  "title": "Zoom",
+  "url": "https://zoom.us",
+  "domains": [
+    "zoom.us"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球Top100",
+    "办公",
+    "效率工具",
+    "视频会议",
+    "远程会议",
+    "Zoom",
+    "zoom.us"
+  ],
+  "aliases": [
+    "zoom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1646,
+      "collection": "theSVG",
+      "file": "zoom.svg",
+      "id": 1549,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoom.svg",
+        "original_is_default": true,
+        "original_slug": "zoom"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1424,
+        "previous_sha256": "ac5df68dc798960310f5309bd07184a14337bf03df68f90f3aaf99f5a7afc48a",
+        "ratio": 0.2
+      },
+      "sha256": "408c5e0b7dc6c0f49d30a5e843838b1d404c1240419dd2513bcf74c3ec7effe1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zoom/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1598,
+      "collection": "theSVG",
+      "file": "zoom-1.svg",
+      "id": 1550,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoom-1.svg",
+        "original_is_default": false,
+        "original_slug": "zoom"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1373,
+        "previous_sha256": "4ffe66660721d375c5c1353743e2694957fc07b61f30833f58a63883b3dfd969",
+        "ratio": 0.2
+      },
+      "sha256": "9c081aebc231d1fcaa240133040e08c2178ccf7807b31c9343e318b6a1072e55",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zoom-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1163,
+      "collection": "theSVG",
+      "file": "zoom-2.svg",
+      "id": 1551,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoom-2.svg",
+        "original_is_default": false,
+        "original_slug": "zoom"
+      },
+      "rounded_corners": {
+        "previous_bytes": 930,
+        "previous_sha256": "7b58dbffaac40e2f5b8174b5166a8856977db38d8168d8110b70ca8edd3910c4",
+        "ratio": 0.2
+      },
+      "sha256": "e6edcbe0788c9305b3acafdd3c2e745aba297a898c29a3c9ade3cc74501e6a05",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/zoom/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 710,
+      "collection": "Dashboard Icons",
+      "file": "zoom-3.svg",
+      "id": 1552,
+      "is_default": false,
+      "label": "zoom",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoom-3.svg",
+        "original_is_default": false,
+        "original_slug": "zoom"
+      },
+      "rounded_corners": {
+        "previous_bytes": 487,
+        "previous_sha256": "e38a4df30942d97292307dbac2624205377b6d83a4ee7ce48c38b68fa833398a",
+        "ratio": 0.2
+      },
+      "sha256": "4605b5b39a8dd5be2e6dae9a862a861b7bdfa11d0fe879eb609847a86f4c2b50",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zoom.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1266,
+      "collection": "Dashboard Icons",
+      "file": "zoom-4.svg",
+      "id": 1553,
+      "is_default": false,
+      "label": "zoom-alt",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoom-4.svg",
+        "original_is_default": false,
+        "original_slug": "zoom"
+      },
+      "sha256": "8273d3e3fe560d53e3347d4b6e2e415bccbdf424183de15c35acdc9c68202fce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zoom-alt.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

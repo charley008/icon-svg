@@ -1,0 +1,51 @@
+{
+  "collection_id": 437,
+  "schema_version": 1,
+  "id": 598,
+  "title": "迅雷云盘",
+  "url": "https://pan.xunlei.com",
+  "domains": [
+    "pan.xunlei.com"
+  ],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "网盘",
+    "云存储",
+    "迅雷云盘",
+    "xunlei-drive",
+    "pan.xunlei.com"
+  ],
+  "aliases": [
+    "xunlei-drive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1475,
+      "collection": "GoTab 公开资源库",
+      "file": "xunlei-drive.svg",
+      "gotab_id": 76,
+      "id": 1497,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "xunlei-drive.svg",
+        "original_is_default": true,
+        "original_slug": "xunlei-drive"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1253,
+        "previous_sha256": "d7fcd532ef83c6a7910caa42e9fb2d18453e863f63851d65239e7c1a5de608e9",
+        "ratio": 0.2
+      },
+      "sha256": "45a971992e1b47f0c6bf1d935f0fa8a03a3b139e58237e09cb5ddfcf33ba4e65",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HMGA4S4QX7M5E4XVCVZCWQ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

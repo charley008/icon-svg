@@ -1,0 +1,50 @@
+{
+  "collection_id": 308,
+  "schema_version": 1,
+  "id": 435,
+  "title": "PicDone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "用户优选",
+    "自用",
+    "设计",
+    "素材",
+    "PicDone"
+  ],
+  "aliases": [
+    "picdone"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 720,
+      "collection": "用户优选",
+      "file": "picdone.svg",
+      "id": 1102,
+      "is_default": true,
+      "label": "picDone",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "picdone.svg",
+        "original_is_default": true,
+        "original_slug": "picdone"
+      },
+      "rounded_corners": {
+        "previous_bytes": 497,
+        "previous_sha256": "ef9ddc8327a44a0f74ee5adfc53b0a84611a0fa9c1ed4d77a82b216555d79cb8",
+        "ratio": 0.2
+      },
+      "sha256": "5f62199048a449bfe9a1ee8c3bb65a759b24f412d67f907ffe49ec04cee0bdb3",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 17,
+  "schema_version": 1,
+  "id": 18,
+  "title": "千图网",
+  "url": "https://58pic.com",
+  "domains": [
+    "58pic.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "千图网",
+    "58pic",
+    "58pic.com"
+  ],
+  "aliases": [
+    "58pic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3196,
+      "collection": "GoTab 公开资源库",
+      "file": "58pic.svg",
+      "gotab_id": 72,
+      "id": 31,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "58pic.svg",
+        "original_is_default": true,
+        "original_slug": "58pic"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2974,
+        "previous_sha256": "3d682ea4a01add1253781f0363b733ee7fc6a5b93180efc222c8c96379b70bde",
+        "ratio": 0.2
+      },
+      "sha256": "582604082c883add9195fdff7f88fcfcaeec1e30e000ee999b86bce9e7ed3e23",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKWC5HSSSGXJ6A20A9DAF0.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

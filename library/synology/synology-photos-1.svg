@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+ <defs>
+  <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb600" /><stop offset="1" stop-color="#ffd339" /></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff7400" stop-opacity=".58" /><stop offset="1" stop-color="#ff5663" stop-opacity=".95" /></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#df4ac3" stop-opacity=".67" /><stop offset="1" stop-color="#a32dc5" stop-opacity="1" /></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7781e9" /><stop offset="1" stop-color="#6942ce" /></linearGradient>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c5afea" /><stop offset="1" stop-color="#9b82df" /></linearGradient>
+  <linearGradient id="peach" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd49f" stop-opacity=".64" /><stop offset="1" stop-color="#edadd6" stop-opacity="1" /></linearGradient>
+ <mask id="center-hole"><rect width="256" height="256" fill="#fff" /><circle cx="128" cy="128" r="20" fill="#000" /></mask></defs>
+ <g stroke="#fff" stroke-width="1.5" stroke-opacity=".2" fill-opacity=".94" mask="url(#center-hole)">
+  <circle cx="70" cy="94" r="52" fill="url(#yellow)" fill-opacity=".86" />
+  <circle cx="70" cy="162" r="52" fill="url(#orange)" />
+  <circle cx="128" cy="196" r="52" fill="url(#pink)" />
+  <circle cx="186" cy="162" r="52" fill="url(#blue)" />
+  <circle cx="186" cy="94" r="52" fill="url(#purple)" />
+  <circle cx="128" cy="60" r="52" fill="url(#peach)" />
+ </g>
+</g></svg>

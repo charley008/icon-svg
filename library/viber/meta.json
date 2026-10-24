@@ -1,0 +1,96 @@
+{
+  "collection_id": 408,
+  "schema_version": 1,
+  "id": 560,
+  "title": "Viber",
+  "url": "https://viber.com",
+  "domains": [
+    "viber.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球App补充",
+    "社交",
+    "通讯",
+    "Viber",
+    "viber.com"
+  ],
+  "aliases": [
+    "viber"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2639,
+      "collection": "theSVG",
+      "file": "viber.svg",
+      "id": 1403,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viber.svg",
+        "original_is_default": true,
+        "original_slug": "viber"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2406,
+        "previous_sha256": "05ac2d13f239a4629774c909aa4502c33fd8743d373e21f9535174dcceecd6c0",
+        "ratio": 0.2
+      },
+      "sha256": "3b50110795f7894bbbabf9c828ffee84ea43b19265bfec39cc2b728aadd3e2f9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/viber/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2639,
+      "collection": "theSVG",
+      "file": "viber-1.svg",
+      "id": 1404,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viber-1.svg",
+        "original_is_default": false,
+        "original_slug": "viber"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2406,
+        "previous_sha256": "5fa0f2e5ee01b14eaf302e4b4d2d26addf6681c0b41e4eed95de286127dbcc36",
+        "ratio": 0.2
+      },
+      "sha256": "16ca6fb80690136eb2a444fca95c11d5c9e8a926554283d4b5d396c9b35e585e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/viber/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1517,
+      "collection": "Iconify / arcticons",
+      "file": "viber-2.svg",
+      "id": 1405,
+      "is_default": false,
+      "label": "viber",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viber-2.svg",
+        "original_is_default": false,
+        "original_slug": "viber"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1284,
+        "previous_sha256": "53e3c33c1098ccff90c3089916983c63195784cc45fc9114ffbf9f1876436be5",
+        "ratio": 0.2
+      },
+      "sha256": "b78547e279d214e82f26cb4810d4ee41e82d23d89f424ad755e0727c8dd9d2fd",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#viber",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

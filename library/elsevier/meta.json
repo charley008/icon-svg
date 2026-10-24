@@ -1,0 +1,73 @@
+{
+  "collection_id": 143,
+  "schema_version": 1,
+  "id": 214,
+  "title": "Elsevier",
+  "url": "https://elsevier.com",
+  "domains": [
+    "elsevier.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "中国地区Top100",
+    "教育",
+    "科研",
+    "Elsevier",
+    "elsevier.com"
+  ],
+  "aliases": [
+    "elsevier"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 34456,
+      "collection": "theSVG",
+      "file": "elsevier.svg",
+      "id": 532,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elsevier.svg",
+        "original_is_default": true,
+        "original_slug": "elsevier"
+      },
+      "rounded_corners": {
+        "previous_bytes": 34223,
+        "previous_sha256": "8ec6d1f129565929fffe1d121d6bda1a45efe8aa79e220ed3cdbe17e767dce0a",
+        "ratio": 0.2
+      },
+      "sha256": "a3e1ff3a863d4d33a38705559dacc84cbf8a205ce03b3abef1c1126427fdc908",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/elsevier/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 34456,
+      "collection": "theSVG",
+      "file": "elsevier-1.svg",
+      "id": 533,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elsevier-1.svg",
+        "original_is_default": false,
+        "original_slug": "elsevier"
+      },
+      "rounded_corners": {
+        "previous_bytes": 34223,
+        "previous_sha256": "75072c0ad01920f297d1936e3132acecd28280fb5b1aa8435a42069d70fc4ec7",
+        "ratio": 0.2
+      },
+      "sha256": "fd118a8a20164a29764c07de887be1fa85626f3ce2ff9261f018bc26c96b91b7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/elsevier/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

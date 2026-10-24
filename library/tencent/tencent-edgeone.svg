@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="uuid-5a7f7bc3-ba0e-4e57-9e30-05b8925b3933" data-name="图层 1" viewBox="0 0 192 192" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="uuid-19b701a3-c769-4094-9021-528b0449c4fa" data-name="未命名的渐变 2" x1="66.81" y1="22.76" x2="122.23" y2="167.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3dbfe5" />
+      <stop offset="1" stop-color="#0d63f2" />
+    </linearGradient>
+  </defs>
+  <path d="M98.43,18.45c-34.24-1.14-56.68,22.39-59.09,25.01-3.67,3.98-23.66,26.48-20.33,59.31,2.5,24.66,16.67,40.46,21.38,45.31,6.05-22.66,12.09-45.31,18.14-67.97-6.4-.76-12.79-1.53-19.19-2.29,1.81-6.49,3.63-12.98,5.44-19.47,7.42-.81,16.06-2.28,25.49-4.87,10.56-2.9,19.58-6.53,26.92-10.02-10.69,40.66-21.38,81.32-32.07,121.99,6.26,3.25,16.56,7.47,29.78,8.08,20.86,.96,36.29-7.66,42.67-11.8,10.81-7.03,17.4-15.42,20.9-20.62h-58.43c2.87-9.55,5.73-19.09,8.6-28.64h61.85c1.3-3.43,2.98-9.13,2.86-16.32-.11-6.45-1.62-11.61-2.86-14.89h-53.84c2.39-9.16,4.78-18.33,7.17-27.49h35.24c-3.46-5.67-10.61-15.7-23.21-23.77-3.96-2.53-17.88-10.9-37.41-11.55Z" style="fill: url(#uuid-19b701a3-c769-4094-9021-528b0449c4fa);" />
+</svg></g></g></svg>

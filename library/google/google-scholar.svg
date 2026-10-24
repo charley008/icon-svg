@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="_图层_1" data-name="图层_1" version="1.1" viewBox="0 0 30 30" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  
+  <defs>
+    <style>
+      .st0 {
+        fill: #a0c3ff;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st1 {
+        fill: #76a7fa;
+      }
+
+      .st2 {
+        fill: #4285f4;
+      }
+
+      .st3 {
+        fill: #356ac3;
+      }
+    </style>
+  </defs>
+  <path id="_路径_1" data-name="路径_1" class="st2" d="M15,4.5L4.5,12.81l10.5,8.55V4.5Z" />
+  <path id="_路径_2" data-name="路径_2" class="st3" d="M25.5,12.81L15,4.5v16.86l10.5-8.55Z" />
+  <path id="_路径_3" data-name="路径_3" class="st0" d="M11.94,24.68c1.9,1.09,4.23,1.09,6.13,0,1.9-1.09,3.06-3.12,3.06-5.3,0-3.38-2.75-6.12-6.12-6.12s-6.13,2.75-6.13,6.12c0,2.19,1.16,4.21,3.06,5.3Z" />
+  <path id="_路径_4" data-name="路径_4" class="st1" d="M20.53,16.75c-.98-2.07-3.09-3.5-5.53-3.5s-4.56,1.43-5.54,3.5h11.07Z" />
+</svg></g></g></svg>

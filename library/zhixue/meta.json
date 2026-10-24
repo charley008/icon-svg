@@ -1,0 +1,58 @@
+{
+  "collection_id": 451,
+  "schema_version": 1,
+  "id": 615,
+  "title": "智学网",
+  "url": "https://zhixue.com",
+  "domains": [
+    "zhixue.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "国内补充",
+    "教育",
+    "科研",
+    "智学网",
+    "zhixue",
+    "zhixue.com"
+  ],
+  "aliases": [
+    "zhixue"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 814,
+      "collection": "轻量矢量替换",
+      "file": "zhixue.svg",
+      "id": 1541,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "zhixue.svg",
+        "original_is_default": true,
+        "original_slug": "zhixue"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "bb8fbe6efb6a16065195acb2b4b8d7a000536b85010127d7069b24a0c6b51202",
+        "previous_bytes": 546986,
+        "previous_method": "traced-detail",
+        "previous_source": "http://static.zhixue.com/zhixue.ico",
+        "reference": "http://static.zhixue.com/zhixue.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "a73c5f617f0a5753402639507527e739eb4697bceaa41eed4595db6a95548c9c",
+      "source": "http://static.zhixue.com/zhixue.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

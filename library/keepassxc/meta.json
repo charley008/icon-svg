@@ -1,0 +1,41 @@
+{
+  "title": "KeePassXC",
+  "url": "https://keepassxc.org/",
+  "domains": [
+    "keepassxc.org"
+  ],
+  "description": "开源密码管理应用。",
+  "category": "系统工具",
+  "tags": [
+    "密码管理",
+    "密码库",
+    "KeePassXC"
+  ],
+  "aliases": [
+    "keepassxc",
+    "密码管理",
+    "密码库"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "keepassxc.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "665e6c4a63668c2d7c69a68205b507f383598425656af3db576017891e418589",
+      "bytes": 4893,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keepassxc.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "keepassxc.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

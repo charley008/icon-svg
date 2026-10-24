@@ -1,0 +1,125 @@
+{
+  "collection_id": 362,
+  "schema_version": 1,
+  "id": 495,
+  "title": "SoundCloud",
+  "url": "https://soundcloud.com",
+  "domains": [
+    "soundcloud.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球App补充",
+    "影音",
+    "音乐",
+    "听歌",
+    "SoundCloud",
+    "soundcloud.com"
+  ],
+  "aliases": [
+    "soundcloud"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1504,
+      "collection": "Simple Icons",
+      "file": "soundcloud-4.svg",
+      "id": 1240,
+      "is_default": true,
+      "label": "soundcloud",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud-4.svg",
+        "original_is_default": false,
+        "original_slug": "soundcloud"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1271,
+        "previous_sha256": "0694a99dbf4394b3c07a2d08cc0c550f9818eb276c880592098d7fe8dccc014f",
+        "ratio": 0.2
+      },
+      "sha256": "d687cfb9e82f3bc5834c762e19fce4abca2de2654e7bbe7b59db06ae5f1312c4",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/soundcloud.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1147,
+      "collection": "theSVG",
+      "file": "soundcloud.svg",
+      "id": 1241,
+      "is_default": false,
+      "label": "light",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud.svg",
+        "original_is_default": true,
+        "original_slug": "soundcloud"
+      },
+      "sha256": "8d1c478a14dcc2f0bdf429e7438a8488a89d581afcf046d1736777db751a0cab",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/soundcloud/light.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1303,
+      "collection": "theSVG",
+      "file": "soundcloud-1.svg",
+      "id": 1242,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud-1.svg",
+        "original_is_default": false,
+        "original_slug": "soundcloud"
+      },
+      "sha256": "d63c79c91127b9934c64f0fa878ce97cbf3f4a38b0903f900049ae217485a6ed",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/soundcloud/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3023,
+      "collection": "theSVG",
+      "file": "soundcloud-2.svg",
+      "id": 1243,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud-2.svg",
+        "original_is_default": false,
+        "original_slug": "soundcloud"
+      },
+      "sha256": "c6256b74a531ad572325dbf4903d9df4cd31f4f0312bb712968dc991022f12e3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/soundcloud/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2635,
+      "collection": "SVGL",
+      "file": "soundcloud-3.svg",
+      "id": 1244,
+      "is_default": false,
+      "label": "soundcloud-wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud-3.svg",
+        "original_is_default": false,
+        "original_slug": "soundcloud"
+      },
+      "sha256": "52dbd87032579f40ff3b48afc00425c6debea48d413ab7675155f1e28f2705fa",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/soundcloud-wordmark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

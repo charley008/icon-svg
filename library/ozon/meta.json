@@ -1,0 +1,68 @@
+{
+  "collection_id": 302,
+  "schema_version": 1,
+  "id": 428,
+  "title": "Ozon",
+  "url": "https://ozon.ru",
+  "domains": [
+    "ozon.ru"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "电商",
+    "购物",
+    "Ozon",
+    "ozon.ru"
+  ],
+  "aliases": [
+    "ozon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1122,
+      "collection": "theSVG",
+      "file": "ozon.svg",
+      "id": 1085,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ozon.svg",
+        "original_is_default": true,
+        "original_slug": "ozon"
+      },
+      "sha256": "364d10deae7dee423266ffca7cc6a2bf8b6e64f476e421a0b4d5d6fd536a6031",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ozon/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 928,
+      "collection": "Iconify / arcticons",
+      "file": "ozon-1.svg",
+      "id": 1086,
+      "is_default": false,
+      "label": "ozon",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ozon-1.svg",
+        "original_is_default": false,
+        "original_slug": "ozon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 695,
+        "previous_sha256": "565c10e62426e142e366e35497d74c9f0036098833ad9b69bd7b2b4ebacc5360",
+        "ratio": 0.2
+      },
+      "sha256": "30ebd0aa4b025c60a34393bb60621715c49636fef8d2cd4d1b95dd236ac8aa66",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ozon",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

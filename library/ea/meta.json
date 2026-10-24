@@ -1,0 +1,118 @@
+{
+  "collection_id": 137,
+  "schema_version": 1,
+  "id": 208,
+  "title": "Electronic Arts",
+  "url": "https://ea.com",
+  "domains": [
+    "ea.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "全球App补充",
+    "游戏",
+    "Electronic Arts",
+    "ea",
+    "electronicarts",
+    "ea.com"
+  ],
+  "aliases": [
+    "ea",
+    "electronicarts"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 695,
+      "collection": "theSVG",
+      "file": "ea-2.svg",
+      "id": 513,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ea-2.svg",
+        "original_is_default": false,
+        "original_slug": "ea"
+      },
+      "rounded_corners": {
+        "previous_bytes": 470,
+        "previous_sha256": "28872cb3b35bb48b0e0f35fe1a2449e1e2277715c91f40f245cd6edbc9d4e8e0",
+        "ratio": 0.2
+      },
+      "sha256": "fadc3d75020f9834fe7357f5ac6fce0299a0464eb2fcd1dddc1fb2c9265b8079",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/electronic-arts-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 635,
+      "collection": "theSVG",
+      "file": "ea.svg",
+      "id": 514,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ea.svg",
+        "original_is_default": true,
+        "original_slug": "ea"
+      },
+      "rounded_corners": {
+        "previous_bytes": 402,
+        "previous_sha256": "1a30cb1da05d9f16b3f09fa3089fd92f9fd6f8e54a6ba0e8ffff15a8703a699b",
+        "ratio": 0.2
+      },
+      "sha256": "040bdbf19a7e19beb7510b2f65fe9d5279d0d75ae51c8a8bb75a959cc557699b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ea/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4755,
+      "collection": "theSVG",
+      "file": "ea-1.svg",
+      "id": 515,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ea-1.svg",
+        "original_is_default": false,
+        "original_slug": "ea"
+      },
+      "sha256": "5450554b6c1db7f70357f92a8f034340493ae3b1cba29d2f63a6ca4c66f4e15e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/electronic-arts/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 844,
+      "collection": "Dashboard Icons",
+      "file": "ea-3.svg",
+      "id": 516,
+      "is_default": false,
+      "label": "electronic-arts",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ea-3.svg",
+        "original_is_default": false,
+        "original_slug": "ea"
+      },
+      "rounded_corners": {
+        "previous_bytes": 621,
+        "previous_sha256": "3663cd856b926be716165750d226a8d4054f47b12082e90aacf853437302de99",
+        "ratio": 0.2
+      },
+      "sha256": "ab8d5affed46fd6a8440774140798c8c2483170aead7b7a8c7b7fe456a368bf0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/electronic-arts.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

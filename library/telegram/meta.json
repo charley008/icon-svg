@@ -1,0 +1,143 @@
+{
+  "collection_id": 381,
+  "schema_version": 1,
+  "id": 517,
+  "title": "telegram",
+  "url": "https://telegram.org",
+  "domains": [
+    "telegram.org"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "telegram",
+    "telegram.org"
+  ],
+  "aliases": [
+    "telegram"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1461,
+      "collection": "theSVG",
+      "file": "telegram.svg",
+      "id": 1291,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telegram.svg",
+        "original_is_default": true,
+        "original_slug": "telegram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1239,
+        "previous_sha256": "cda148767a65b3a21fb748e160625dd81fdac6570b0c1a622437fb43bb6dcf3e",
+        "ratio": 0.2
+      },
+      "sha256": "147a56e9008b6f912a7016a8713a89f388b31449b5c74b946a9e8f570f10e118",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/telegram/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1068,
+      "collection": "theSVG",
+      "file": "telegram-1.svg",
+      "id": 1292,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telegram-1.svg",
+        "original_is_default": false,
+        "original_slug": "telegram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 835,
+        "previous_sha256": "067ea7126cecd6ce844575365161bc26114a36d5384935d79231385bb97e4291",
+        "ratio": 0.2
+      },
+      "sha256": "5d474f2af7ede5f1c8cbb2be4df98c3b0cbebf3ce80f25af4043e550c4833de2",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/telegram/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1328,
+      "collection": "Dashboard Icons",
+      "file": "telegram-2.svg",
+      "id": 1293,
+      "is_default": false,
+      "label": "telegram",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telegram-2.svg",
+        "original_is_default": false,
+        "original_slug": "telegram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1105,
+        "previous_sha256": "47a3702e0048b4ba3a9e8caec404e055ec5abf71ec2aec743a203220843b1aac",
+        "ratio": 0.2
+      },
+      "sha256": "d725a0470ce92cb1833caa92c95659daa6f2bd7f49c467778681a440c8a32d44",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1068,
+      "collection": "Simple Icons",
+      "file": "telegram-3.svg",
+      "id": 1294,
+      "is_default": false,
+      "label": "telegram",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telegram-3.svg",
+        "original_is_default": false,
+        "original_slug": "telegram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 835,
+        "previous_sha256": "c1fbfa4c12160f56a52dd9c81ccc0d2cec5149b673c7977f219c1457f1e945cf",
+        "ratio": 0.2
+      },
+      "sha256": "975b9624ba8ff7ab7c060282c522e45dcee73173d24bc1e5e85c1f78a44f1a81",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg",
+      "version": 3
+    },
+    {
+      "bytes": 964,
+      "collection": "Iconify / icon-park",
+      "file": "telegram-4.svg",
+      "id": 1295,
+      "is_default": false,
+      "label": "telegram",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telegram-4.svg",
+        "original_is_default": false,
+        "original_slug": "telegram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 731,
+        "previous_sha256": "a2dcb0f14e2dc82da34cf040f4ecea6e44ac99cda98f7af4a47a18f1a4af1d37",
+        "ratio": 0.2
+      },
+      "sha256": "2eaa8e9d1dd205d3983efdffe6893e9072b3e127e2e0f43ddbaa548967d36479",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#telegram",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

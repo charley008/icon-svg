@@ -1,0 +1,58 @@
+{
+  "collection_id": 232,
+  "schema_version": 1,
+  "id": 332,
+  "title": "蓝湖",
+  "url": "https://lanhuapp.com",
+  "domains": [
+    "lanhuapp.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "蓝湖",
+    "lanhu",
+    "lanhuapp.com"
+  ],
+  "aliases": [
+    "lanhu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "轻量矢量替换",
+      "file": "lanhu.svg",
+      "id": 826,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "lanhu.svg",
+        "original_is_default": true,
+        "original_slug": "lanhu"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "a09b1f4b16fd201282af2d15b5bb3d0de7059fe21e6a2c30b58e45bfa16a1a7b",
+        "previous_bytes": 518889,
+        "previous_method": "traced-detail",
+        "previous_source": "原图描摹",
+        "reference": "原图描摹",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "279791e85389c9fe11669274818014025a6771b1db55804acd3d6940e40bdf50",
+      "source": "原图描摹",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

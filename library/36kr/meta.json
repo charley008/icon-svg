@@ -1,0 +1,51 @@
+{
+  "collection_id": 10,
+  "schema_version": 1,
+  "id": 11,
+  "title": "36氪",
+  "url": "https://36kr.com",
+  "domains": [
+    "36kr.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "新闻",
+    "资讯",
+    "36氪",
+    "36kr",
+    "36kr.com"
+  ],
+  "aliases": [
+    "36kr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4733,
+      "collection": "jaywcjlove/logo",
+      "file": "36kr.svg",
+      "id": 22,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "36kr.svg",
+        "original_is_default": true,
+        "original_slug": "36kr"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4513,
+        "previous_sha256": "9a4415a25b834ad41b356122cafc1ed140a9b9a4304edca6172d79036536f5ab",
+        "ratio": 0.2
+      },
+      "sha256": "6382a942abdf7168326a64a90fda3506289f2dc00be47c940826de2ab971407d",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/36kr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

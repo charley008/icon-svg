@@ -1,0 +1,43 @@
+{
+  "title": "Joplin",
+  "url": "https://joplinapp.org/",
+  "domains": [
+    "joplinapp.org"
+  ],
+  "description": "开源笔记与待办应用。",
+  "category": "办公效率",
+  "tags": [
+    "笔记",
+    "Markdown",
+    "开源",
+    "Joplin"
+  ],
+  "aliases": [
+    "joplin",
+    "笔记",
+    "Markdown",
+    "开源"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "joplin.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "9e6ba425b6f1899222001efa82c37afe0bcf8896879abeec7ac50292e8e7b6aa",
+      "bytes": 2881,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/joplin.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "joplin.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

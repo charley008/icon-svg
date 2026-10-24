@@ -1,0 +1,49 @@
+{
+  "collection_id": 124,
+  "schema_version": 1,
+  "id": 194,
+  "title": "DNSHE",
+  "url": "https://my.dnshe.com",
+  "domains": [
+    "my.dnshe.com"
+  ],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "网络工具",
+    "DNSHE",
+    "my.dnshe.com"
+  ],
+  "aliases": [
+    "dnshe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1786,
+      "collection": "GoTab 公开资源库",
+      "file": "dnshe.svg",
+      "gotab_id": 328,
+      "id": 469,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "dnshe.svg",
+        "original_is_default": true,
+        "original_slug": "dnshe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1564,
+        "previous_sha256": "31195835d99956a130d0948848e03b782966cbc100051844fbc7847256f83910",
+        "ratio": 0.2
+      },
+      "sha256": "ded0d6b45bfbdfb97b4f74cf4c2b7dfe9fda72bf6b2ac09292209d12990f062a",
+      "source": "https://web.gotab.cn/sourceStore/website/01M4RE7FBE2AZHD08HW318YP7E.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

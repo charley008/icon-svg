@@ -1,0 +1,50 @@
+{
+  "collection_id": 290,
+  "schema_version": 1,
+  "id": 414,
+  "title": "npmx",
+  "url": "https://npmx.dev",
+  "domains": [
+    "npmx.dev"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "npmx",
+    "npmx.dev"
+  ],
+  "aliases": [
+    "npmx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 996,
+      "collection": "GoTab 公开资源库",
+      "file": "npmx.svg",
+      "gotab_id": 266,
+      "id": 1044,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "npmx.svg",
+        "original_is_default": true,
+        "original_slug": "npmx"
+      },
+      "rounded_corners": {
+        "previous_bytes": 774,
+        "previous_sha256": "af45262ac4109655b3b0f66b72551c52d0e6c4ed63e1395af51f32f3125e5bb8",
+        "ratio": 0.2
+      },
+      "sha256": "00307aa75b6e1b7fc8f63dd790663ed5beaf8d5ff67f6462e09f62957cf17bcb",
+      "source": "https://npmx.dev/favicon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

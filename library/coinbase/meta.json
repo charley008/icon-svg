@@ -1,0 +1,141 @@
+{
+  "collection_id": 98,
+  "schema_version": 1,
+  "id": 168,
+  "title": "Coinbase",
+  "url": "https://coinbase.com",
+  "domains": [
+    "coinbase.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球App补充",
+    "金融",
+    "Coinbase",
+    "coinbase.com"
+  ],
+  "aliases": [
+    "coinbase"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1544,
+      "collection": "theSVG",
+      "file": "coinbase.svg",
+      "id": 412,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coinbase.svg",
+        "original_is_default": true,
+        "original_slug": "coinbase"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1311,
+        "previous_sha256": "26c0660f336b6bd2777d407bc4e1fee8b1fa3de8761769c6f4556e4db3be0785",
+        "ratio": 0.2
+      },
+      "sha256": "a39a4e570adecebd5c9241802971e6c14d28c9a8261f49198d0308c6fcc601c3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coinbase/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2761,
+      "collection": "theSVG",
+      "file": "coinbase-1.svg",
+      "id": 413,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coinbase-1.svg",
+        "original_is_default": false,
+        "original_slug": "coinbase"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2536,
+        "previous_sha256": "8827c6f699d0984564002df892540f3f94e0cd70193433a359710afefddd274e",
+        "ratio": 0.2
+      },
+      "sha256": "bd0a34da3761823973fced6574b58c2a7bd6105a6b5552eac1db1adace69d463",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coinbase-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2424,
+      "collection": "theSVG",
+      "file": "coinbase-2.svg",
+      "id": 414,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coinbase-2.svg",
+        "original_is_default": false,
+        "original_slug": "coinbase"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2191,
+        "previous_sha256": "4d57011840e7ee05804097065991d9baffcbe6a19bc8bd0f55319b7f8d26a25c",
+        "ratio": 0.2
+      },
+      "sha256": "7779e3f088834bbf59307ae2c1f6cf27d0155263ed71b2ed9046b31cc2c247de",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coinbase/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2450,
+      "collection": "theSVG",
+      "file": "coinbase-3.svg",
+      "id": 415,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coinbase-3.svg",
+        "original_is_default": false,
+        "original_slug": "coinbase"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2217,
+        "previous_sha256": "a9bb89c98b8ac5219b6d03dc0c3bf42e2ae7376203b75e50eaa6d1e928a2c189",
+        "ratio": 0.2
+      },
+      "sha256": "de2562276e4a3655027acff49892678e5888c71febff594bf1b5a00acd786c34",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coinbase/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2450,
+      "collection": "Simple Icons",
+      "file": "coinbase-4.svg",
+      "id": 416,
+      "is_default": false,
+      "label": "coinbase",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coinbase-4.svg",
+        "original_is_default": false,
+        "original_slug": "coinbase"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2217,
+        "previous_sha256": "7dca053602a89a21c943bbda9ab31480f7178ca0487b273509c67b5e3233eeeb",
+        "ratio": 0.2
+      },
+      "sha256": "062a6a59db5b2e2027a22f27b97951d196d6f96fa2d35e8c721413f2ac33dcf0",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/coinbase.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "ASUS",
+  "url": "https://www.asus.com/",
+  "domains": [
+    "www.asus.com"
+  ],
+  "description": "电脑与网络设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "华硕",
+    "电脑",
+    "硬件",
+    "ASUS"
+  ],
+  "aliases": [
+    "asus",
+    "华硕",
+    "电脑",
+    "硬件"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "asus.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "7e74e07369cde1074466b6be84dfbf4b79ef547f807548adc803b4ac6e077632",
+      "bytes": 1383,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asus.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "asus.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

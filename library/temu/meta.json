@@ -1,0 +1,52 @@
+{
+  "collection_id": 382,
+  "schema_version": 1,
+  "id": 518,
+  "title": "Temu",
+  "url": "https://temu.com",
+  "domains": [
+    "temu.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "全球Top100",
+    "中国地区Top100",
+    "电商",
+    "购物",
+    "Temu",
+    "temu.com"
+  ],
+  "aliases": [
+    "temu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 795,
+      "collection": "Iconify / arcticons",
+      "file": "temu.svg",
+      "id": 1296,
+      "is_default": true,
+      "label": "temu",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "temu.svg",
+        "original_is_default": true,
+        "original_slug": "temu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 562,
+        "previous_sha256": "3c0f05c6b102e337778cb8d941d80badf1be7f550da0faefccd5f15e310bb67e",
+        "ratio": 0.2
+      },
+      "sha256": "a2d8ad3cd9feb2199adf0ed348636a4ef0de38dfc8616b512ab495ab7f2d698f",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#temu",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

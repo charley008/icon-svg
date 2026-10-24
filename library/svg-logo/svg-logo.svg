@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="512" height="512" rx="102.4"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#36CBFF" /><stop offset="1" stop-color="#1262E8" /></linearGradient>
+    <linearGradient id="v" x1="0" y1="0" x2=".9" y2="1"><stop stop-color="#FFCD29" /><stop offset="1" stop-color="#FF6537" /></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#31DF98" /><stop offset="1" stop-color="#009C99" /></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="106" fill="#101C32" />
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="48">
+    <path d="M 153 193 C 143 175 95 172 80 194 C 56 229 162 238 156 286 C 152 324 95 336 70 305" stroke="url(#s)" />
+    <path d="M 190 184 L 257 325 L 324 184" stroke="url(#v)" />
+    <path d="M 437 193 C 405 170 354 185 353 252 C 351 322 416 340 444 304 L 444 267 L 408 267" stroke="url(#g)" />
+  </g>
+</g></svg>

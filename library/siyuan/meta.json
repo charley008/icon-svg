@@ -1,0 +1,43 @@
+{
+  "title": "SiYuan",
+  "url": "https://b3log.org/siyuan/",
+  "domains": [
+    "b3log.org"
+  ],
+  "description": "本地优先的个人知识管理应用。",
+  "category": "办公效率",
+  "tags": [
+    "思源笔记",
+    "笔记",
+    "知识管理",
+    "SiYuan"
+  ],
+  "aliases": [
+    "siyuan",
+    "思源笔记",
+    "笔记",
+    "知识管理"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "siyuan.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "9272bb4a8629b99cc3e9e2053c7d21fe11328c4198d7df60a21bb1a3e2a64389",
+      "bytes": 432,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/siyuan.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "siyuan.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

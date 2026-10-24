@@ -1,0 +1,900 @@
+{
+  "collection_id": 45,
+  "schema_version": 1,
+  "id": 82,
+  "title": "百度",
+  "url": "https://www.baidu.com",
+  "domains": [
+    "baidu.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "搜索",
+    "导航",
+    "百度",
+    "baidu",
+    "百度搜索",
+    "baidu.com"
+  ],
+  "aliases": [
+    "baidu",
+    "百度搜索"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 5220,
+      "collection": "已有图标",
+      "file": "baidu.svg",
+      "id": 207,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "baidu.svg",
+        "original_is_default": true,
+        "original_slug": "baidu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4998,
+        "previous_sha256": "243ae7f393d156d895d4cfcc6c9e9bc445a828fffca11f7db299d6129b513e4e",
+        "ratio": 0.2
+      },
+      "sha256": "20d84a2d590c1bb374aa2128378b52ef7a5c4672329197258e29b68e49accb6c",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 5929,
+      "collection": "GoTab 公开资源库",
+      "file": "baidu-1.svg",
+      "gotab_id": 52,
+      "id": 208,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "baidu-1.svg",
+        "original_is_default": false,
+        "original_slug": "baidu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5707,
+        "previous_sha256": "8527487af42785a0971563601004c5f41e866ba4b672863d9f322fcddfe27cdb",
+        "ratio": 0.2
+      },
+      "sha256": "8cff5613c83e9a597ca912590a5661136350f9d7df87c3f551032b214544af0d",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HDHVBNV9K7R6SWPTSB6M8E.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1717,
+      "collection": "已有图标",
+      "file": "baidu-2.svg",
+      "id": 209,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baidu-2.svg",
+        "original_is_default": false,
+        "original_slug": "baidu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1484,
+        "previous_sha256": "ab7f395483f033bb1131c8bdefd2ae4b87b769c1ba111cc62c2ca5eaa870deb3",
+        "ratio": 0.2
+      },
+      "sha256": "48ed993f0c38cd257d8baceefb54d815b9999e758f171b114751fd36bdbfac82",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/baidu/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1717,
+      "collection": "已有图标",
+      "file": "baidu-3.svg",
+      "id": 210,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baidu-3.svg",
+        "original_is_default": false,
+        "original_slug": "baidu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1484,
+        "previous_sha256": "d51899889130a43484876fcd0c6965258eacc185066c3422eacc70c072a8893e",
+        "ratio": 0.2
+      },
+      "sha256": "0179d0533e8e35e8bf59ded0e9169caaa0c52ce67570fabc9769b3547a70952d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/baidu/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1717,
+      "collection": "已有图标",
+      "file": "baidu-4.svg",
+      "id": 211,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baidu-4.svg",
+        "original_is_default": false,
+        "original_slug": "baidu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1484,
+        "previous_sha256": "0e234cc8b965b8844af155a44f10f1f1ca27f04dacdf14e0fd7ba36c0ea53f85",
+        "ratio": 0.2
+      },
+      "sha256": "e4af9de46baa3c3aebd5821c5f885590a09fffd61bde05e5a2e8768b9f5bf8e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/baidu-dark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1591,
+      "collection": "已有图标",
+      "file": "baidu-5.svg",
+      "id": 212,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baidu-5.svg",
+        "original_is_default": false,
+        "original_slug": "baidu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1358,
+        "previous_sha256": "9e61e2524f603200a87099b1f1f754ac6c131d9a2bd9e2d7c731342ce025f24c",
+        "ratio": 0.2
+      },
+      "sha256": "a7f26d96be2a328fe91345d3bc1a06f6a25fb4dba49f72c81df0b6ba2674cf70",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#baidu-fill",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 83,
+      "key": "cloud",
+      "title": "百度智能云",
+      "url": "https://cloud.baidu.com",
+      "domains": [
+        "cloud.baidu.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "国内补充",
+        "云计算",
+        "百度",
+        "百度智能云",
+        "baidu-cloud",
+        "baiducloud",
+        "cloud.baidu.com"
+      ],
+      "aliases": [
+        "baidu-cloud",
+        "baiducloud"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1001,
+          "collection": "theSVG",
+          "file": "baidu-cloud.svg",
+          "id": 213,
+          "is_default": true,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "baidu-cloud.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 768,
+            "previous_sha256": "a5d1bf36941263fd6ab9170f709f16af75191ae68d99857eca7edf4a525763b6",
+            "ratio": 0.2
+          },
+          "sha256": "ce3efdd7f0695d5f624ae218b28f2784f29b707e5f769975cdcce93cb7beedd5",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/baiducloud/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 981,
+          "collection": "theSVG",
+          "file": "baidu-cloud-1.svg",
+          "id": 214,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "baidu-cloud-1.svg",
+            "original_is_default": false,
+            "original_slug": "baidu-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 748,
+            "previous_sha256": "4481ea2ebead21906461887de5e08ab3eb6868b67199c1271f2b4b1b0f3358e9",
+            "ratio": 0.2
+          },
+          "sha256": "faaf433dd2703929e664901111e764219819267ac96a7a6cfe813f8a795ffa0a",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/baiducloud/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3716,
+          "collection": "SVGLOGO",
+          "file": "baidu-cloud-2.svg",
+          "id": 215,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "baidu-cloud-2.svg",
+            "original_is_default": false,
+            "original_slug": "baidu-cloud"
+          },
+          "sha256": "720c43ef4f1549e9db1786e3f560a7dedabd73cbef01403023fcb72f1dc1d0b7",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/BaiduCloud_wordmark.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 84,
+      "key": "developer-search",
+      "title": "百度开发者搜索",
+      "url": "https://kaifa.baidu.com",
+      "domains": [
+        "kaifa.baidu.com"
+      ],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "开发",
+        "编程",
+        "百度",
+        "百度开发者搜索",
+        "baidu-developer-search",
+        "kaifa.baidu.com"
+      ],
+      "aliases": [
+        "baidu-developer-search"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3660,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-developer-search.svg",
+          "gotab_id": 23,
+          "id": 216,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "baidu-developer-search.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-developer-search"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3438,
+            "previous_sha256": "2d9a4490aab2146b75a638d0040fcee9eed30bafd39075558360ca0ce63f8cd9",
+            "ratio": 0.2
+          },
+          "sha256": "1c0642a0c060c1d170a8a8dc2cb5373e201b26c6b826a4e273a5d0e599b3658a",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8H2751B9RD2ARFJ4Z4PM9NE.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 85,
+      "key": "ernie",
+      "title": "文心一言",
+      "url": "https://yiyan.baidu.com",
+      "domains": [
+        "yiyan.baidu.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "百度",
+        "AI 对话",
+        "聊天助手",
+        "文心一言",
+        "ernie",
+        "wenxin",
+        "yiyan.baidu.com"
+      ],
+      "aliases": [
+        "ernie",
+        "wenxin"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2451,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-ernie-1.svg",
+          "gotab_id": 146,
+          "id": 217,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "ernie-1.svg",
+            "original_is_default": false,
+            "original_slug": "ernie"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2229,
+            "previous_sha256": "45f5d5be8eb073b03bed5e15b461f47d9dfa4cdc4f587e5f7c796315628e7f85",
+            "ratio": 0.2
+          },
+          "sha256": "fdf50342d7f6091199d75cdea7a9ee38dee881869eb2f5b46bd9ba6884f77998",
+          "source": "https://web.gotab.cn/sourceStore/website/01JAEV4V0ET7QD8V0WQAJVWG2S.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1061,
+          "collection": "已有图标",
+          "file": "baidu-ernie.svg",
+          "id": 218,
+          "is_default": false,
+          "label": "默认版本",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "ernie.svg",
+            "original_is_default": true,
+            "original_slug": "ernie"
+          },
+          "rounded_corners": {
+            "previous_bytes": 828,
+            "previous_sha256": "eb5bfb164f8bb94b5a97800755b02a62c3616e8b29062387dea748077b5cb1bc",
+            "ratio": 0.2
+          },
+          "sha256": "97f466cd7529b4862d997ea12dba837383225d199139069fdc969604bb63c8c8",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wenxin/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 6008,
+          "collection": "已有图标",
+          "file": "baidu-ernie-2.svg",
+          "id": 219,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "ernie-2.svg",
+            "original_is_default": false,
+            "original_slug": "ernie"
+          },
+          "sha256": "3418fbd6ccea8103c98a481ddd3072026c6b26b2174ef05bbaa1d9d253f5f964",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/wenxin.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 86,
+      "key": "hao123",
+      "title": "hao123",
+      "url": "https://hao123.com",
+      "domains": [
+        "hao123.com"
+      ],
+      "description": "",
+      "category": "搜索导航",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "搜索",
+        "导航",
+        "百度",
+        "hao123",
+        "hao123.com"
+      ],
+      "aliases": [
+        "hao123"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2873,
+          "collection": "轻量矢量替换",
+          "file": "baidu-hao123.svg",
+          "id": 220,
+          "is_default": true,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "manual-vector-redraw",
+          "provenance": {
+            "original_file": "hao123.svg",
+            "original_is_default": true,
+            "original_slug": "hao123"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "79287ce83c0ee6d7e117734843532c1ccd1d5a13d4a0e5bc418311714428d9ce",
+            "previous_bytes": 861657,
+            "previous_method": "traced-detail",
+            "previous_source": "https://hao123.com/favicon.ico",
+            "reference": "https://hao123.com/favicon.ico",
+            "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "28af56395218926c1d2e90d4004a8a409eed8de017bce0629a87816e12dbfd1c",
+          "source": "https://hao123.com/favicon.ico",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 87,
+      "key": "maps",
+      "title": "百度地图",
+      "url": "https://map.baidu.com",
+      "domains": [
+        "map.baidu.com"
+      ],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "国内补充",
+        "出行",
+        "百度",
+        "百度地图",
+        "baidu-maps",
+        "baidumaps",
+        "map.baidu.com"
+      ],
+      "aliases": [
+        "baidu-maps",
+        "baidumaps"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2277,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-maps.svg",
+          "gotab_id": 56,
+          "id": 221,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "baidu-maps-1.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-maps"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2055,
+            "previous_sha256": "d633b5a4ce217f25106d1c9526963ae497620a945d534c0e56755ad47751543e",
+            "ratio": 0.2
+          },
+          "sha256": "8c69ef768e4fb6e5ad5ee78f8adab00d473f8f1b8fe20be6f097ad037be9c490",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJ2XPZ6T6R0PMJ4AFJYE16.svg",
+          "version": 0
+        },
+        {
+          "bytes": 758,
+          "collection": "已有图标",
+          "file": "baidu-maps-1.svg",
+          "id": 222,
+          "is_default": false,
+          "label": "默认版本",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "baidu-maps.svg",
+            "original_is_default": false,
+            "original_slug": "baidu-maps"
+          },
+          "rounded_corners": {
+            "previous_bytes": 525,
+            "previous_sha256": "5318fb760b5c5f281fca05ef8f7089b2777ccf1976e58c59f3b91a1a2afbf90a",
+            "ratio": 0.2
+          },
+          "sha256": "970bcf474b48736f47724c57a2cdfcee9e42005bdfa6cb9c9b2a9df287216b5e",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#baidu-map",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 88,
+      "key": "netdisk",
+      "title": "百度网盘",
+      "url": "https://pan.baidu.com",
+      "domains": [
+        "pan.baidu.com"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "国内补充",
+        "网盘",
+        "云存储",
+        "百度",
+        "百度网盘",
+        "baidu-netdisk",
+        "baidunetdisk",
+        "baidupan",
+        "pan.baidu.com"
+      ],
+      "aliases": [
+        "baidu-netdisk",
+        "baidunetdisk",
+        "baidupan"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2406,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-netdisk-1.svg",
+          "gotab_id": 49,
+          "id": 223,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "baidu-netdisk-1.svg",
+            "original_is_default": false,
+            "original_slug": "baidu-netdisk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2184,
+            "previous_sha256": "1e89c8da0b3d71e9dd9c7798d6ed42e47c7d2ce1a80c522eae3d4260eed5f24e",
+            "ratio": 0.2
+          },
+          "sha256": "513db165eee8f44edf2e636a0442925f994225930d4ba50081fec5d86ac28d5c",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HD98RPFJQXWMRPG64M747K.svg",
+          "version": 1
+        },
+        {
+          "bytes": 881,
+          "collection": "已有图标",
+          "file": "baidu-netdisk.svg",
+          "id": 224,
+          "is_default": false,
+          "label": "默认版本",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "baidu-netdisk.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-netdisk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 648,
+            "previous_sha256": "ebe5836f5ea89743f8566afb5c3cd0f6c0d2e6bcea2f0a0eb74d4ed2a9c10368",
+            "ratio": 0.2
+          },
+          "sha256": "7990c4d3b44334063dbc58d54b69a97c9c6f0207ce193799ca9b7037e71b3ea3",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#baidu-netdisk",
+          "version": 0
+        },
+        {
+          "bytes": 2449,
+          "collection": "已有图标",
+          "file": "baidu-netdisk-2.svg",
+          "id": 225,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "baidu-netdisk-2.svg",
+            "original_is_default": false,
+            "original_slug": "baidu-netdisk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2216,
+            "previous_sha256": "0b52922d40ae0b94d67b75ed815a38757f498a21370a5460df48a4614ff00aa3",
+            "ratio": 0.2
+          },
+          "sha256": "afcb4c55df2676762c01dd3ed1ebe32f21978975b90fd0357fdf0604b717b8ca",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/baiducould.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 89,
+      "key": "scholar",
+      "title": "百度学术",
+      "url": "https://xueshu.baidu.com",
+      "domains": [
+        "xueshu.baidu.com"
+      ],
+      "description": "",
+      "category": "教育科研",
+      "tags": [
+        "教育",
+        "科研",
+        "百度",
+        "百度学术",
+        "baidu-scholar",
+        "xueshu.baidu.com"
+      ],
+      "aliases": [
+        "baidu-scholar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5141,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-scholar.svg",
+          "gotab_id": 80,
+          "id": 226,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "baidu-scholar.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-scholar"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4919,
+            "previous_sha256": "9dda5c10ebce5ce2faea3d0a770cd1a51645a2d6d663921fe3e18f20511d5d30",
+            "ratio": 0.2
+          },
+          "sha256": "c32147725eccde7e4a860cacf5b34dca4a25c05377810e4b036fce0f3cf376df",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HMXMMC3M1VPAZPNZ4QDNTJ.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 90,
+      "key": "tieba",
+      "title": "百度贴吧",
+      "url": "https://tieba.baidu.com",
+      "domains": [
+        "tieba.baidu.com"
+      ],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "社交",
+        "通讯",
+        "百度",
+        "百度贴吧",
+        "tieba",
+        "baidu-tieba",
+        "tieba.baidu.com"
+      ],
+      "aliases": [
+        "tieba",
+        "baidu-tieba"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1225,
+          "collection": "已有图标",
+          "file": "baidu-tieba.svg",
+          "id": 227,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "tieba.svg",
+            "original_is_default": true,
+            "original_slug": "tieba"
+          },
+          "rounded_corners": {
+            "previous_bytes": 966,
+            "previous_sha256": "d8e5985854f8b00eb0bbd5765a35be2c26ea2751c96556ef820485ca720ab3e1",
+            "ratio": 0.2
+          },
+          "sha256": "ca3eb273326f85f2eb2c45b57e23e4d853918ab5c0767a753969588f987e7b45",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1971,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-tieba-1.svg",
+          "gotab_id": 157,
+          "id": 228,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tieba-1.svg",
+            "original_is_default": false,
+            "original_slug": "tieba"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1749,
+            "previous_sha256": "b9b368fe229b0c0e1dbafc75358a7225c650cdfd30a43686ed2414d23d3b2e16",
+            "ratio": 0.2
+          },
+          "sha256": "a3c0c252a1000db93d6e61511c17b60d15612fc430ae9f27ae3e953fc7b2e850",
+          "source": "https://web.gotab.cn/sourceStore/website/01JB3YE3ZR2D3C3PMNRB7FDQBC.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1302,
+          "collection": "已有图标",
+          "file": "baidu-tieba-2.svg",
+          "id": 229,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tieba-2.svg",
+            "original_is_default": false,
+            "original_slug": "tieba"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1069,
+            "previous_sha256": "e0aebd79793a9c2f4915b08c6c44583547f3b81955bbb5623218b811da8d16af",
+            "ratio": 0.2
+          },
+          "sha256": "3263a2108ac28d842fe8979e2a541c735b389dd99d7f5504f5fd68cb8f259c5f",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#baidu-tieba",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 91,
+      "key": "tongji",
+      "title": "百度统计",
+      "url": "https://tongji.baidu.com",
+      "domains": [
+        "tongji.baidu.com"
+      ],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "开发",
+        "编程",
+        "百度",
+        "百度统计",
+        "baidu-tongji",
+        "tongji.baidu.com"
+      ],
+      "aliases": [
+        "baidu-tongji"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3366,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-tongji.svg",
+          "gotab_id": 106,
+          "id": 230,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "baidu-tongji.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-tongji"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3144,
+            "previous_sha256": "64f7b174ea69d00546e4748f09e60e6776020a92378f8d877ddd09420c697554",
+            "ratio": 0.2
+          },
+          "sha256": "8c209c5588be92288fbfe865e41c15e47cf456f99a5014601afb55e984ef5007",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8KDH4AHEFPMMW58FXM8VPBA.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 92,
+      "key": "translate",
+      "title": "百度翻译",
+      "url": "https://fanyi.baidu.com",
+      "domains": [
+        "fanyi.baidu.com"
+      ],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "系统工具",
+        "百度",
+        "翻译",
+        "语言工具",
+        "百度翻译",
+        "baidu-translate",
+        "fanyi.baidu.com"
+      ],
+      "aliases": [
+        "baidu-translate"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2843,
+          "collection": "GoTab 公开资源库",
+          "file": "baidu-translate.svg",
+          "gotab_id": 175,
+          "id": 231,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "baidu-translate.svg",
+            "original_is_default": true,
+            "original_slug": "baidu-translate"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2621,
+            "previous_sha256": "f689de66d0d7044b05443cce31f25e0786dd9322105ae169135030787ded39e6",
+            "ratio": 0.2
+          },
+          "sha256": "b8a20e7fa3a51cfab2203b9b6102a4b1bbfc4f41250bb35483a5a00150e18a87",
+          "source": "https://web.gotab.cn/sourceStore/website/01JCPNJ6X4M64DC6JYDXFBJ0F6.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

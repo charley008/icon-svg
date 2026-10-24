@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+<defs>
+ <linearGradient id="case" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#277acc" /><stop offset=".45" stop-color="#123d7a" /><stop offset="1" stop-color="#052049" /></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#207bb5" /><stop offset="1" stop-color="#063158" /></linearGradient>
+ <linearGradient id="display" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#a4edff" /><stop offset="1" stop-color="#3bb2de" /></linearGradient>
+ <linearGradient id="keys" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#f4fbff" /><stop offset="1" stop-color="#83b7dc" /></linearGradient>
+ <linearGradient id="orange" x1="0" y1="0" x2=".2" y2="1"><stop stop-color="#ffe361" /><stop offset="1" stop-color="#ff8100" /></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2=".3" y2="1"><stop stop-color="#5fff8c" /><stop offset="1" stop-color="#04ba3c" /></linearGradient>
+ <linearGradient id="mouse" x1=".1" y1="0" x2=".8" y2="1"><stop stop-color="#c2f6ff" /><stop offset=".28" stop-color="#4ed8ff" /><stop offset=".63" stop-color="#05a5fa" /><stop offset="1" stop-color="#002bdf" /></linearGradient>
+ <linearGradient id="right" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a6f3ff" /><stop offset=".5" stop-color="#31bfff" /><stop offset="1" stop-color="#0062e9" /></linearGradient>
+ <linearGradient id="wheel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#48b1fc" /><stop offset=".5" stop-color="#056cdd" /><stop offset="1" stop-color="#073f9d" /></linearGradient>
+ <linearGradient id="rim" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#e8ffff" /><stop offset=".25" stop-color="#8de9ff" /><stop offset=".5" stop-color="#48b8f6" /><stop offset=".8" stop-color="#0577e5" /><stop offset="1" stop-color="#63ddff" /></linearGradient>
+ <radialGradient id="lens" cx=".25" cy=".2" r=".9"><stop stop-color="#47c6f7" /><stop offset=".35" stop-color="#087ac0" /><stop offset=".7" stop-color="#034a85" /><stop offset="1" stop-color="#002846" /></radialGradient>
+ <linearGradient id="handle" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#5eeaff" /><stop offset=".45" stop-color="#0db9fa" /><stop offset="1" stop-color="#0055d9" /></linearGradient>
+ <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".7" /><stop offset="1" stop-color="#fff" stop-opacity="0" /></linearGradient>
+</defs>
+
+<g transform="rotate(16 185 120)">
+ <rect x="131" y="43" width="108" height="154" rx="19" fill="#03204c" />
+ <rect x="132" y="40" width="105" height="152" rx="18" fill="url(#case)" stroke="#041b49" stroke-width="2" />
+ <path d="M149 44h69c9 0 15 6 15 15" fill="none" stroke="#66c7f9" stroke-opacity=".65" stroke-width="2" />
+ <rect x="141" y="52" width="87" height="127" rx="10" fill="url(#panel)" />
+ <rect x="145" y="57" width="79" height="28" rx="6" fill="#01264a" />
+ <rect x="147" y="57" width="75" height="25" rx="5" fill="url(#display)" />
+ <path d="M152 60h64" stroke="#e1ffff" stroke-opacity=".5" stroke-width="2" stroke-linecap="round" />
+ <g stroke="#062851" stroke-width="1">
+  <rect x="145" y="96" width="21" height="17" rx="5" fill="url(#keys)" />
+  <rect x="171" y="96" width="21" height="17" rx="5" fill="url(#keys)" />
+  <rect x="197" y="96" width="26" height="17" rx="5" fill="url(#orange)" />
+  <rect x="145" y="120" width="21" height="17" rx="5" fill="url(#keys)" />
+  <rect x="171" y="120" width="21" height="17" rx="5" fill="url(#keys)" />
+  <rect x="197" y="120" width="26" height="17" rx="5" fill="url(#green)" />
+  <rect x="145" y="144" width="21" height="17" rx="5" fill="url(#keys)" />
+  <rect x="171" y="144" width="21" height="17" rx="5" fill="url(#keys)" />
+  <rect x="197" y="144" width="26" height="17" rx="5" fill="url(#keys)" />
+ </g>
+</g>
+
+<g transform="translate(74 101) rotate(34)">
+ <path d="M0-78c-29 0-45 23-45 50v55c0 31 17 50 45 50s45-19 45-50v-55c0-27-16-50-45-50Z" fill="url(#mouse)" stroke="#0353c5" stroke-width="2" />
+ <path d="M0-77c29 0 44 23 44 50v15C31-7 18-5 0-5Z" fill="url(#right)" />
+ <path d="M0-77V-5M-44-12Q0 3 44-12" fill="none" stroke="#0854b4" stroke-width="2" />
+ <path d="M-39-30c0-23 14-42 35-44" fill="none" stroke="#e4ffff" stroke-width="2" stroke-linecap="round" />
+ <path d="M-40 3v22c0 27 14 44 38 46" fill="none" stroke="#4cdfff" stroke-opacity=".8" stroke-width="2" stroke-linecap="round" />
+ <rect x="-7" y="-50" width="14" height="28" rx="7" fill="url(#wheel)" stroke="#004296" />
+ <path d="M-3-43v13" stroke="#a2eaff" stroke-opacity=".6" stroke-width="2" stroke-linecap="round" />
+</g>
+
+<path d="m162 188 18 17-11 13-20-18Z" fill="#075aab" stroke="#00326c" stroke-width="2" />
+<path d="M179 199c4-4 10-3 14 1l25 24c5 5 4 11 0 16s-11 6-16 1l-26-24c-5-5-3-12 3-18Z" fill="url(#handle)" stroke="#0060c9" stroke-width="2" />
+<path d="m184 201 25 24" fill="none" stroke="#72eaff" stroke-width="3" stroke-linecap="round" />
+<circle cx="128" cy="157" r="53" fill="#004c99" />
+<circle cx="127" cy="155" r="52" fill="url(#rim)" stroke="#b0f2ff" stroke-width="1.5" />
+<circle cx="127" cy="155" r="43" fill="url(#lens)" stroke="#003b76" stroke-width="3" />
+<path d="M92 140a39 39 0 0 1 65-16" fill="none" stroke="#edffff" stroke-opacity=".7" stroke-width="2" stroke-linecap="round" />
+<path d="M100 175 116 153 130 165 151 136" fill="none" stroke="#002d68" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M100 172 116 150 130 162 151 133" fill="none" stroke="#33deff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="100" cy="172" r="6" fill="#28b8f7" />
+<circle cx="151" cy="133" r="8" fill="url(#green)" />
+<path d="M82 141a48 48 0 0 1 35-32" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="2.5" stroke-linecap="round" />
+</g></svg>

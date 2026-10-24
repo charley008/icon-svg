@@ -1,0 +1,47 @@
+{
+  "collection_id": 410,
+  "schema_version": 1,
+  "id": 562,
+  "title": "VISA",
+  "url": "https://visa.com",
+  "domains": [
+    "visa.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Worldvectorlogo补充",
+    "金融",
+    "支付",
+    "收款",
+    "VISA",
+    "visa.com"
+  ],
+  "aliases": [
+    "visa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1012,
+      "collection": "Worldvectorlogo",
+      "file": "visa.svg",
+      "id": 1408,
+      "is_default": true,
+      "label": "visa-10",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "visa.svg",
+        "original_is_default": true,
+        "original_slug": "visa"
+      },
+      "sha256": "f0f27c51276e5fd44c7fec8b9c803ff09a4fc76b09166cdf7d3a215b221ac640",
+      "source": "https://cdn.worldvectorlogo.com/logos/visa-10.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/visa-10",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

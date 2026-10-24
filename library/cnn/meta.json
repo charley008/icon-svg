@@ -1,0 +1,148 @@
+{
+  "collection_id": 95,
+  "schema_version": 1,
+  "id": 165,
+  "title": "cnn",
+  "url": "https://cnn.com",
+  "domains": [
+    "cnn.com",
+    "edition.cnn.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "全球Top100",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "cnn",
+    "cnn.com",
+    "edition.cnn.com"
+  ],
+  "aliases": [
+    "cnn"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2259,
+      "collection": "已有图标",
+      "file": "cnn.svg",
+      "id": 404,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "cnn.svg",
+        "original_is_default": true,
+        "original_slug": "cnn"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2037,
+        "previous_sha256": "4477b07a3fa42a544cbc9be5a8030774d6e774d98af13ef2700c1a5d65674b82",
+        "ratio": 0.2
+      },
+      "sha256": "b70cdb138a6af0f67ea22849840ca2c82c1ff2f9d7da883de3d405d75ccb0bbb",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 3883,
+      "collection": "GoTab 公开资源库",
+      "file": "cnn-1.svg",
+      "gotab_id": 41,
+      "id": 405,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cnn-1.svg",
+        "original_is_default": false,
+        "original_slug": "cnn"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3661,
+        "previous_sha256": "6671c7d001ea473d756674710772b5192d08ed05ca0eb106935b31ed70ff6af2",
+        "ratio": 0.2
+      },
+      "sha256": "bc8daf6ff1c387d758aab8def0a80dc821c605419dda33a123047f1dfaa22eb6",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HCDYXQ88Z63Z5GXXHHB1G4.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1838,
+      "collection": "已有图标",
+      "file": "cnn-2.svg",
+      "id": 406,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cnn-2.svg",
+        "original_is_default": false,
+        "original_slug": "cnn"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1605,
+        "previous_sha256": "4f2439e41431f687059a27405df7306f6bf1ef9c8a38f9f334b1d048a74d4f9f",
+        "ratio": 0.2
+      },
+      "sha256": "c19ddb7cbeba251d5bed218683676efa4468726f955a5b23933d9ae3a77233b6",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cnn/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1838,
+      "collection": "已有图标",
+      "file": "cnn-3.svg",
+      "id": 407,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cnn-3.svg",
+        "original_is_default": false,
+        "original_slug": "cnn"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1605,
+        "previous_sha256": "38003ca9af4fdc3e7baa18860f919c6a29285ac9cf278f477f5a48ca6f5935f5",
+        "ratio": 0.2
+      },
+      "sha256": "d7d41722e750f8db10c10aa062966e7c322c2ebbb250f70db4e334f3f63c893b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cnn/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 580,
+      "collection": "已有图标",
+      "file": "cnn-4.svg",
+      "id": 408,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cnn-4.svg",
+        "original_is_default": false,
+        "original_slug": "cnn"
+      },
+      "rounded_corners": {
+        "previous_bytes": 347,
+        "previous_sha256": "e1e17fb54b4069f06a3a926bcf53aafe6681593f5839bf3134c192a24726320d",
+        "ratio": 0.2
+      },
+      "sha256": "00b890459de3759bc75df3a83d7335e27c69f1d3b33362279132bc2f67562147",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#cnn",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

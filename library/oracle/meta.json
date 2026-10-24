@@ -1,0 +1,148 @@
+{
+  "collection_id": 485,
+  "schema_version": 1,
+  "id": 649,
+  "title": "Oracle",
+  "url": "https://www.oracle.com/",
+  "domains": [
+    "oracle.com"
+  ],
+  "description": "Oracle 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "Oracle",
+    "oracle",
+    "甲骨文",
+    "数据库",
+    "企业软件"
+  ],
+  "aliases": [
+    "甲骨文"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 312,
+      "collection": "用户补充 SVG",
+      "file": "oracle.svg",
+      "id": 1600,
+      "is_default": true,
+      "label": "oracle-corporation-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "oracle-corporation-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/oracle-corporation-1.svg"
+      },
+      "sha256": "41fbb1d16374be109be9a759026bc336b7798d392a7cfdf9336521ef241eebbc",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/oracle-corporation-1.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1587,
+      "collection": "用户补充 SVG",
+      "file": "oracle-1.svg",
+      "id": 1601,
+      "is_default": false,
+      "label": "oracle-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "oracle-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/oracle-2.svg"
+      },
+      "sha256": "42224f21dbd78532b5c0987cf05ec6b1d854ebf6328b0beca549a185e6c0b9fd",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/oracle-2.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 650,
+      "key": "java",
+      "title": "Java",
+      "url": "https://www.oracle.com/java/",
+      "domains": [
+        "oracle.com"
+      ],
+      "description": "Java 图标合集。",
+      "category": "开发编程",
+      "tags": [
+        "Java",
+        "java",
+        "编程语言",
+        "JDK",
+        "JVM",
+        "Oracle"
+      ],
+      "aliases": [
+        "java",
+        "Java SE"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3178,
+          "collection": "用户补充 SVG",
+          "file": "oracle-java.svg",
+          "id": 1602,
+          "is_default": true,
+          "label": "java-3",
+          "license": "商标及图形版权归各自权利人；参见素材来源",
+          "method": "downloaded-svg-optimized",
+          "provenance": {
+            "original_file": "java-3.svg",
+            "original_url": "https://icon.4738.org/icons/HD-Icons/svg/java-3.svg"
+          },
+          "sha256": "bdec643f1d525a6e60536784bb13d7b659d398a56dd9fcf94db9a289f5b08346",
+          "source": "https://icon.4738.org/icons/HD-Icons/svg/java-3.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "title": "MySQL",
+      "url": "https://www.mysql.com/",
+      "domains": [
+        "www.mysql.com"
+      ],
+      "description": "MySQL 关系型数据库产品。",
+      "category": "开发编程",
+      "tags": [
+        "数据库",
+        "关系型数据库",
+        "MySQL"
+      ],
+      "aliases": [
+        "oracle-mysql",
+        "mysql",
+        "数据库",
+        "关系型数据库",
+        "MySQL"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "oracle-mysql.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "0ea79a37711ab5450b20e99800366cd224f6abd5715af07e1bf97914d45a85d5",
+          "bytes": 5566,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mysql.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "mysql.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "mysql"
+    }
+  ]
+}

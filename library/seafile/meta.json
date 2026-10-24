@@ -1,0 +1,45 @@
+{
+  "title": "Seafile",
+  "url": "https://www.seafile.com/",
+  "domains": [
+    "www.seafile.com"
+  ],
+  "description": "文件同步与共享服务。",
+  "category": "网盘存储",
+  "tags": [
+    "海文互知",
+    "网盘",
+    "同步",
+    "Seafile"
+  ],
+  "aliases": [
+    "seafile",
+    "海文互知",
+    "网盘",
+    "同步",
+    "Cloud Storage",
+    "File Sync"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "seafile.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "1eb18fcb41a54af918a2f6ec6d91c160fdbf89642425810f48e57297cfded769",
+      "bytes": 1387,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/seafile.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "seafile.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

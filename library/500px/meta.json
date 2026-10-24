@@ -1,0 +1,50 @@
+{
+  "collection_id": 13,
+  "schema_version": 1,
+  "id": 14,
+  "title": "500px",
+  "url": "https://500px.com",
+  "domains": [
+    "500px.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "500px",
+    "500px.com"
+  ],
+  "aliases": [
+    "500px"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3611,
+      "collection": "GoTab 公开资源库",
+      "file": "500px.svg",
+      "gotab_id": 136,
+      "id": 26,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "500px.svg",
+        "original_is_default": true,
+        "original_slug": "500px"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3389,
+        "previous_sha256": "684daac357e0c7d1eb7b93fa643e25056489911e55dee9bcb431e0f17121903d",
+        "ratio": 0.2
+      },
+      "sha256": "b26f3f4830449a4983d75026f892b16f3deb9d84b4e757c94caed5abc66fdbf4",
+      "source": "https://web.gotab.cn/uploads/202409/01J8S96NE23N7Z2TX10GF4SPA1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

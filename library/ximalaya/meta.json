@@ -1,0 +1,76 @@
+{
+  "collection_id": 433,
+  "schema_version": 1,
+  "id": 594,
+  "title": "喜马拉雅",
+  "url": "https://ximalaya.com",
+  "domains": [
+    "ximalaya.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "影音",
+    "播客",
+    "音频",
+    "喜马拉雅",
+    "ximalaya",
+    "ximalaya.com"
+  ],
+  "aliases": [
+    "ximalaya"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1040,
+      "collection": "已有图标",
+      "file": "ximalaya.svg",
+      "id": 1491,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ximalaya.svg",
+        "original_is_default": true,
+        "original_slug": "ximalaya"
+      },
+      "rounded_corners": {
+        "previous_bytes": 807,
+        "previous_sha256": "7eb6554393290626661aabda19d3ad4e7e604f285ab062741bfc835088748633",
+        "ratio": 0.2
+      },
+      "sha256": "807c8d887ab5447a8d4eabf5b67382f49999f840da2531ad0e4fd3c6460694f6",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/xiMaLaYa.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2065,
+      "collection": "GoTab 公开资源库",
+      "file": "ximalaya-1.svg",
+      "gotab_id": 18,
+      "id": 1492,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ximalaya-1.svg",
+        "original_is_default": false,
+        "original_slug": "ximalaya"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1843,
+        "previous_sha256": "f63538d70c5924157070f06674ce815f403d91a6a7feccc6aaa56d825a12a352",
+        "ratio": 0.2
+      },
+      "sha256": "2478510dfe5985b3f4cd2d38043fd84e8786ee06af26cf8145796fd6657ac6a7",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H1AXB7PB2AZQ5K2FAPRTDK.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

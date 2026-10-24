@@ -1,0 +1,131 @@
+{
+  "collection_id": 294,
+  "schema_version": 1,
+  "id": 418,
+  "title": "OnlyFans",
+  "url": "https://onlyfans.com",
+  "domains": [
+    "onlyfans.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "OnlyFans",
+    "onlyfans.com"
+  ],
+  "aliases": [
+    "onlyfans"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 881,
+      "collection": "theSVG",
+      "file": "onlyfans.svg",
+      "id": 1051,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onlyfans.svg",
+        "original_is_default": true,
+        "original_slug": "onlyfans"
+      },
+      "rounded_corners": {
+        "previous_bytes": 648,
+        "previous_sha256": "c9fc7b64e6633aded3e4904ffe3a628aa60213eec7c1415725486441fc53178e",
+        "ratio": 0.2
+      },
+      "sha256": "5a78e0b78e18880e07467d69da5a52ce6becf9e71cf62c52ac3b4a6dcc996cc9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/onlyfans/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2884,
+      "collection": "theSVG",
+      "file": "onlyfans-1.svg",
+      "id": 1052,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onlyfans-1.svg",
+        "original_is_default": false,
+        "original_slug": "onlyfans"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2659,
+        "previous_sha256": "dc7bfe9e0a241a00c60af425d45eb25fca7bec72585c0b38add839a967aa3d7f",
+        "ratio": 0.2
+      },
+      "sha256": "d9a0dca5e7b9f1bee2b4493937709789f5bee758cb1c8c7d0b72f94adfed9bf3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/onlyfans-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 881,
+      "collection": "theSVG",
+      "file": "onlyfans-2.svg",
+      "id": 1053,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onlyfans-2.svg",
+        "original_is_default": false,
+        "original_slug": "onlyfans"
+      },
+      "rounded_corners": {
+        "previous_bytes": 648,
+        "previous_sha256": "32b8990b866a6adf3bd68c51756679cc55622a788252ede7de79255a86e9b235",
+        "ratio": 0.2
+      },
+      "sha256": "717f676616415cf7211473629a86531bc128ea5866aef0774c5692aac4d3bbf3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/onlyfans/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 636,
+      "collection": "Dashboard Icons",
+      "file": "onlyfans-3.svg",
+      "id": 1054,
+      "is_default": false,
+      "label": "onlyfans",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onlyfans-3.svg",
+        "original_is_default": false,
+        "original_slug": "onlyfans"
+      },
+      "sha256": "d9c7660bc5e60cfd2d4c1eec51e6a65adf572cb45249f117d631da0d0f1a7706",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onlyfans.svg",
+      "version": 3
+    },
+    {
+      "bytes": 635,
+      "collection": "Dashboard Icons",
+      "file": "onlyfans-4.svg",
+      "id": 1055,
+      "is_default": false,
+      "label": "onlyfans-dark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onlyfans-4.svg",
+        "original_is_default": false,
+        "original_slug": "onlyfans"
+      },
+      "sha256": "538053876c9ed418354bd69a9d43ddfc9e8f4743cf1c646428c43c93095d2689",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onlyfans-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

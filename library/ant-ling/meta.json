@@ -1,0 +1,50 @@
+{
+  "collection_id": 34,
+  "schema_version": 1,
+  "id": 67,
+  "title": "蚂蚁百灵",
+  "url": "https://chat.ant-ling.com",
+  "domains": [
+    "chat.ant-ling.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "蚂蚁百灵",
+    "ant-ling",
+    "chat.ant-ling.com"
+  ],
+  "aliases": [
+    "ant-ling"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 128936,
+      "collection": "GoTab 公开资源库",
+      "file": "ant-ling.svg",
+      "gotab_id": 316,
+      "id": 166,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ant-ling.svg",
+        "original_is_default": true,
+        "original_slug": "ant-ling"
+      },
+      "rounded_corners": {
+        "previous_bytes": 128714,
+        "previous_sha256": "3d969b2a57b5a9257d85174be904ded2b261c111da173547b74b6da168977248",
+        "ratio": 0.2
+      },
+      "sha256": "0903e87b7dc2353feae2e4cb0b6138ce38ced1c222fd045090de8ea289bb8dce",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ801GYBA1N72YBQEE1F5NQ0.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

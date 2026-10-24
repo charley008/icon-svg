@@ -1,0 +1,92 @@
+{
+  "collection_id": 344,
+  "schema_version": 1,
+  "id": 474,
+  "title": "SegmentFault",
+  "url": "https://segmentfault.com",
+  "domains": [
+    "segmentfault.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "国内补充",
+    "开发",
+    "编程",
+    "SegmentFault",
+    "segmentfault.com"
+  ],
+  "aliases": [
+    "segmentfault"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2242,
+      "collection": "已有图标",
+      "file": "segmentfault.svg",
+      "id": 1186,
+      "is_default": true,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "segmentfault-2.svg",
+        "original_is_default": true,
+        "original_slug": "segmentfault"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2022,
+        "previous_sha256": "66c855fd50a8f464157b26ba64fdb5c386794a7fb53d7d3a4e0678ceac079708",
+        "ratio": 0.2
+      },
+      "sha256": "a999ef49dbc1a55a6102b47bfd3030931f2e3f37010d28a4cf83d6e304d8a2da",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/segmentfault.svg",
+      "version": 0
+    },
+    {
+      "bytes": 18952,
+      "collection": "已有图标",
+      "file": "segmentfault-1.svg",
+      "id": 1187,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "segmentfault.svg",
+        "original_is_default": false,
+        "original_slug": "segmentfault"
+      },
+      "sha256": "1b7bfeadc3b1a422c756fdff47cbf3d5be34d1bed9051e4ed9689ffff47e99ff",
+      "source": "https://raw.githubusercontent.com/sparanoid/logos/master/segmentfault/sf-logo-cmyk.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2498,
+      "collection": "GoTab 公开资源库",
+      "file": "segmentfault-2.svg",
+      "gotab_id": 40,
+      "id": 1188,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "segmentfault-1.svg",
+        "original_is_default": false,
+        "original_slug": "segmentfault"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2276,
+        "previous_sha256": "898f45fcb02cf21fbb3354bd920dcadb2b38687fe809b933ac92a3206368d96a",
+        "ratio": 0.2
+      },
+      "sha256": "8ec5151a102d2b41670bb6b2f0e867decde31d018cb62f57a8a4c3b469a61313",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HCCZEENTV30EBHT54V28GR.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,83 @@
+{
+  "collection_id": 94,
+  "schema_version": 1,
+  "id": 164,
+  "title": "中国知网",
+  "url": "https://cnki.net",
+  "domains": [
+    "cnki.net"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "教育",
+    "科研",
+    "中国知网",
+    "cnki",
+    "cnki.net"
+  ],
+  "aliases": [
+    "cnki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7799,
+      "collection": "轻量矢量替换",
+      "file": "cnki.svg",
+      "id": 402,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "native-vector-reuse",
+      "provenance": {
+        "original_file": "cnki.svg",
+        "original_is_default": true,
+        "original_slug": "cnki"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "f7959856673ee8ef29eba5cef43af0e47fd404504282833eca9f6a49d88878c0",
+        "previous_bytes": 266728,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/1b/65/261b65e4-05cf-6897-8f00-549f6229e72b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "reference": "seed/icons/cnki/cnki-1.svg",
+        "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "c76156a89dc42d2d355d409fbb150ade0e651f1486cdfc660faae7805b9d1b30",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HHYXKQ2CG9BSB0PRAA52C4.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7799,
+      "collection": "GoTab 公开资源库",
+      "file": "cnki-1.svg",
+      "gotab_id": 55,
+      "id": 403,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cnki-1.svg",
+        "original_is_default": false,
+        "original_slug": "cnki"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7577,
+        "previous_sha256": "9c2cdc7173dd5e5aab91e1cc4c5a082f6bb7eab6bb6a80dbbfc6a4b819fb9f41",
+        "ratio": 0.2
+      },
+      "sha256": "c76156a89dc42d2d355d409fbb150ade0e651f1486cdfc660faae7805b9d1b30",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HHYXKQ2CG9BSB0PRAA52C4.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

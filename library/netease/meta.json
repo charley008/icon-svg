@@ -1,0 +1,586 @@
+{
+  "collection_id": 278,
+  "schema_version": 1,
+  "id": 396,
+  "title": "网易",
+  "url": "https://163.com",
+  "domains": [
+    "163.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "新闻",
+    "资讯",
+    "网易",
+    "netease",
+    "wangyi",
+    "163.com"
+  ],
+  "aliases": [
+    "netease",
+    "wangyi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2278,
+      "collection": "已有图标",
+      "file": "netease.svg",
+      "id": 990,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netease.svg",
+        "original_is_default": true,
+        "original_slug": "netease"
+      },
+      "sha256": "fde6cbb4cc925b9688229720f67e090e843f559471b0ad91872f178080f89f38",
+      "source": "https://cdn.worldvectorlogo.com/logos/netease-1.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3193,
+      "collection": "GoTab 公开资源库",
+      "file": "netease-1.svg",
+      "gotab_id": 31,
+      "id": 991,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "netease-1.svg",
+        "original_is_default": false,
+        "original_slug": "netease"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2971,
+        "previous_sha256": "6c725efdc592b90213bbea24357040f958fabb513b5fa04ed0884e1cfb182b6c",
+        "ratio": 0.2
+      },
+      "sha256": "aaa986b2629291c7836dd4260803a775f24b79b37feb0e2023e949151c93dd3a",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HBC7XS2KN2Y62QDZRQ2RG3.svg",
+      "version": 1
+    },
+    {
+      "bytes": 13691,
+      "collection": "已有图标",
+      "file": "netease-2.svg",
+      "id": 992,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netease-2.svg",
+        "original_is_default": false,
+        "original_slug": "netease"
+      },
+      "sha256": "d77957ee59adec097ea56f237115d06c395759906fa05829f226ca405ef109df",
+      "source": "https://cdn.worldvectorlogo.com/logos/netease-logo-1.svg",
+      "version": 2
+    },
+    {
+      "bytes": 26410,
+      "collection": "已有图标",
+      "file": "netease-3.svg",
+      "id": 993,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netease-3.svg",
+        "original_is_default": false,
+        "original_slug": "netease"
+      },
+      "sha256": "421529bce9a90a21b4352144ac97942cca60b6b8d4f8559157fc0a5beb204c91",
+      "source": "https://cdn.worldvectorlogo.com/logos/netease-logo-2.svg",
+      "version": 3
+    },
+    {
+      "bytes": 4172,
+      "collection": "轻量矢量替换",
+      "file": "netease-4.svg",
+      "id": 994,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "native-vector-composition",
+      "provenance": {
+        "original_file": "netease-4.svg",
+        "original_is_default": false,
+        "original_slug": "netease"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "79c81893c5c9bfb7060a8cd3ddaf1a0fd5ef50eb399ebe2a5ac0bc95d72ca8ce",
+        "previous_bytes": 217148,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.google.com/s2/favicons?domain=163.com\u0026sz=256",
+        "reference": "seed/icons/netease/netease.svg",
+        "note": "保留红色 NEWS 应用图标，采用已有网易“易”字路径。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "2b0772e21e7cb6e44fb13147af2810e78afcfacffa90955d7751075ee9fdd136",
+      "source": "https://cdn.worldvectorlogo.com/logos/netease-1.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 397,
+      "key": "cloud-music",
+      "title": "网易云音乐",
+      "url": "https://music.163.com",
+      "domains": [
+        "music.163.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "Worldvectorlogo补充",
+        "影音",
+        "网易",
+        "音乐",
+        "听歌",
+        "网易云音乐",
+        "netease-cloud-music",
+        "neteasecloudmusic",
+        "netease-music",
+        "cloudmusic",
+        "music.163.com"
+      ],
+      "aliases": [
+        "netease-cloud-music",
+        "neteasecloudmusic",
+        "netease-music",
+        "cloudmusic"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1663,
+          "collection": "已有图标",
+          "file": "netease-cloud-music.svg",
+          "id": 995,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "netease-cloud-music.svg",
+            "original_is_default": true,
+            "original_slug": "netease-cloud-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1430,
+            "previous_sha256": "e1d8ee6f3692eb8a6d005f589fa514ecfe119678b8dbe69eda940a76dde56ba9",
+            "ratio": 0.2
+          },
+          "sha256": "7d6d68d1e957ef0358ea83068a0c5d1994f95ee435904c5bc6e9f3d4933530b9",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netease-cloud-music/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2812,
+          "collection": "GoTab 公开资源库",
+          "file": "netease-cloud-music-1.svg",
+          "gotab_id": 10,
+          "id": 996,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "netease-cloud-music-1.svg",
+            "original_is_default": false,
+            "original_slug": "netease-cloud-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2590,
+            "previous_sha256": "e7b03071ee82e6f71bac10e9b9b1f7c8e694200d43a5ab81492b9cff621ad799",
+            "ratio": 0.2
+          },
+          "sha256": "4d82225ea85711467960dbc205042147c2107de8d32e3fdb70f4e2b7beaf8c1c",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GZW5M7Y9YD0PEHY08W4GE9.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1663,
+          "collection": "已有图标",
+          "file": "netease-cloud-music-2.svg",
+          "id": 997,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "netease-cloud-music-2.svg",
+            "original_is_default": false,
+            "original_slug": "netease-cloud-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1430,
+            "previous_sha256": "df771308fe579e36f112c95f87aca9182e0315fb10a06cc88471ad4030d1b787",
+            "ratio": 0.2
+          },
+          "sha256": "ec3d1740c6eb2af1d048426bae8e5dfcf2880135ce7e1cc846616107a46db935",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netease-cloud-music/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1474,
+          "collection": "已有图标",
+          "file": "netease-cloud-music-3.svg",
+          "id": 998,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "netease-cloud-music-3.svg",
+            "original_is_default": false,
+            "original_slug": "netease-cloud-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1241,
+            "previous_sha256": "4e494fb586fb14b9381dd3455673609e349760f08c232e8ec5f6f6533e6d8441",
+            "ratio": 0.2
+          },
+          "sha256": "e37bd2a2d78ef407d6a6726f124eace670b23d1c44ef10af334cb77e3cbf15ca",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#netease-cloud-music-fill",
+          "version": 3
+        },
+        {
+          "bytes": 1407,
+          "collection": "已有图标",
+          "file": "netease-cloud-music-4.svg",
+          "id": 999,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "netease-cloud-music-4.svg",
+            "original_is_default": false,
+            "original_slug": "netease-cloud-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1174,
+            "previous_sha256": "9059199e7cd5b78b1bb5777cab3d2c83d1c9739a2887b4d14353e56c6261eea2",
+            "ratio": 0.2
+          },
+          "sha256": "f002a9a48414a807575b7a4ec0f2bfef9e2925abe47d6c658ce9f3e61f819a80",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#netease-cloud-music-line",
+          "version": 4
+        },
+        {
+          "bytes": 3362,
+          "collection": "已有图标",
+          "file": "netease-cloud-music-5.svg",
+          "id": 1000,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "netease-cloud-music-5.svg",
+            "original_is_default": false,
+            "original_slug": "netease-cloud-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3142,
+            "previous_sha256": "b5068f4dc67a2914941a7d7a0fc954cfa7ce20ef2ddf4c666e8b527645957a67",
+            "ratio": 0.2
+          },
+          "sha256": "5dfad83dab99730019aea2601a291e9e588cc01d7a1c6cdb27cf9b93a8b839f0",
+          "source": "https://cdn.worldvectorlogo.com/logos/netease-music.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 398,
+      "key": "lofter",
+      "title": "LOFTER 乐乎",
+      "url": "https://lofter.com",
+      "domains": [
+        "lofter.com"
+      ],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "社交",
+        "通讯",
+        "网易",
+        "LOFTER 乐乎",
+        "lofter",
+        "lofter.com"
+      ],
+      "aliases": [
+        "lofter"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1940,
+          "collection": "GoTab 公开资源库",
+          "file": "netease-lofter.svg",
+          "gotab_id": 103,
+          "id": 1001,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "lofter.svg",
+            "original_is_default": true,
+            "original_slug": "lofter"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1718,
+            "previous_sha256": "ab6c494125dc594e77ab018d9d8a86d0993cd77309f571a81b1e47b64916f5e6",
+            "ratio": 0.2
+          },
+          "sha256": "3be98ebe811b37653a2ed28591cf8de8408dbddbcca4200157bf2191779626d1",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HRCSMXE1B6BVVJ8GTY72K1.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 399,
+      "key": "news",
+      "title": "网易新闻",
+      "url": "https://news.163.com",
+      "domains": [
+        "news.163.com"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "新闻",
+        "资讯",
+        "网易",
+        "网易新闻",
+        "netease-news",
+        "news.163.com"
+      ],
+      "aliases": [
+        "netease-news"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3193,
+          "collection": "GoTab 公开资源库",
+          "file": "netease-news.svg",
+          "gotab_id": 30,
+          "id": 1002,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "netease-news.svg",
+            "original_is_default": true,
+            "original_slug": "netease-news"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2971,
+            "previous_sha256": "6c725efdc592b90213bbea24357040f958fabb513b5fa04ed0884e1cfb182b6c",
+            "ratio": 0.2
+          },
+          "sha256": "aaa986b2629291c7836dd4260803a775f24b79b37feb0e2023e949151c93dd3a",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HBC7XS2KN2Y62QDZRQ2RG3.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 400,
+      "key": "open-course",
+      "title": "网易公开课",
+      "url": "https://open.163.com",
+      "domains": [
+        "open.163.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "影音",
+        "网易",
+        "网易公开课",
+        "netease-open-course",
+        "open.163.com"
+      ],
+      "aliases": [
+        "netease-open-course"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1741,
+          "collection": "GoTab 公开资源库",
+          "file": "netease-open-course.svg",
+          "gotab_id": 16,
+          "id": 1003,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "netease-open-course.svg",
+            "original_is_default": true,
+            "original_slug": "netease-open-course"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1519,
+            "previous_sha256": "cc635b5c6124c48d0d12921ba3d14d01f93eb95ec2f75de60d63d91ec4c4dfad",
+            "ratio": 0.2
+          },
+          "sha256": "284d82cfa20e37c8a0f7f625f3c10a6df1e8371b89fbdd9c608d77e061d92678",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8H0QB5WCSH1HT6E9854F802.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 401,
+      "key": "youdao",
+      "title": "有道",
+      "url": "https://youdao.com",
+      "domains": [
+        "youdao.com"
+      ],
+      "description": "",
+      "category": "教育科研",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "Worldvectorlogo补充",
+        "教育",
+        "科研",
+        "网易",
+        "有道",
+        "youdao",
+        "youdao.com"
+      ],
+      "aliases": [
+        "youdao"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 6324,
+          "collection": "Worldvectorlogo",
+          "file": "netease-youdao-1.svg",
+          "id": 1004,
+          "is_default": true,
+          "label": "youdao",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youdao-1.svg",
+            "original_is_default": false,
+            "original_slug": "youdao"
+          },
+          "sha256": "c2b546ec91549c801b1527265eccf96f85635a9aa670ded4ec55efcff2664e7a",
+          "source": "https://cdn.worldvectorlogo.com/logos/youdao.svg",
+          "source_page": "https://worldvectorlogo.com/zh/logo/youdao",
+          "version": 1
+        },
+        {
+          "bytes": 730,
+          "collection": "NViconsLib",
+          "file": "netease-youdao.svg",
+          "id": 1005,
+          "is_default": false,
+          "label": "historic-silhouette",
+          "license": "attribution-required",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youdao.svg",
+            "original_is_default": true,
+            "original_slug": "youdao"
+          },
+          "sha256": "38e64c3d9678908cfb7afafe9444cb8cabd4093b0bda36e3e4a3f1bea9aac464",
+          "source": "https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/svg/CN_NetEase_youdao_note.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 402,
+      "key": "youdao-note",
+      "title": "有道云笔记",
+      "url": "https://note.youdao.com",
+      "domains": [
+        "note.youdao.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "办公",
+        "效率工具",
+        "网易",
+        "笔记",
+        "知识管理",
+        "有道云笔记",
+        "youdao-note",
+        "youdaonote",
+        "note.youdao.com"
+      ],
+      "aliases": [
+        "youdao-note",
+        "youdaonote"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 550,
+          "collection": "Iconify / arcticons",
+          "file": "netease-youdao-note.svg",
+          "id": 1006,
+          "is_default": true,
+          "label": "youdao-note",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youdao-note.svg",
+            "original_is_default": true,
+            "original_slug": "youdao-note"
+          },
+          "rounded_corners": {
+            "previous_bytes": 317,
+            "previous_sha256": "c677670e8184d7e89343f965142c71daa0415d94f1838db62c20972d1cb892e3",
+            "ratio": 0.2
+          },
+          "sha256": "75ed4637f475809077aa2da11554614ede9d44f30648f736ab6278f2aeca91fd",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#youdao-note",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

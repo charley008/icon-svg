@@ -1,0 +1,50 @@
+{
+  "collection_id": 149,
+  "schema_version": 1,
+  "id": 220,
+  "title": "Excalidraw",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "用户优选",
+    "自用",
+    "设计",
+    "素材",
+    "Excalidraw"
+  ],
+  "aliases": [
+    "excalidraw"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 4748,
+      "collection": "用户优选",
+      "file": "excalidraw.svg",
+      "id": 552,
+      "is_default": true,
+      "label": "excalidraw",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "excalidraw.svg",
+        "original_is_default": true,
+        "original_slug": "excalidraw"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4526,
+        "previous_sha256": "6d90d1d00f8b459c0801e8ef5d66e8023a3f82891798d397150a18eb36f5cc0d",
+        "ratio": 0.2
+      },
+      "sha256": "2cd7a6612e06f52ce8c345a2db2bfd4b68aea334a2fde6e4547be814beb9ae89",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

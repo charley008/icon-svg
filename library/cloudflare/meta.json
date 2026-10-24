@@ -1,0 +1,134 @@
+{
+  "collection_id": 90,
+  "schema_version": 1,
+  "id": 160,
+  "title": "Cloudflare",
+  "url": "https://cloudflare.com",
+  "domains": [
+    "cloudflare.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "全球App补充",
+    "用户优选",
+    "云计算",
+    "Cloudflare",
+    "cloudflare.com"
+  ],
+  "aliases": [
+    "cloudflare"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1150,
+      "collection": "用户优选",
+      "file": "cloudflare.svg",
+      "id": 391,
+      "is_default": true,
+      "label": "cloudflare",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "cloudflare.svg",
+        "original_is_default": true,
+        "original_slug": "cloudflare"
+      },
+      "rounded_corners": {
+        "previous_bytes": 928,
+        "previous_sha256": "173efeecafb9b0ce32cb580fd561bb66b8dad9de8ca7b8ec3060858e75422fd7",
+        "ratio": 0.2
+      },
+      "sha256": "6c2b8abf7d538585e5ba994c07b0ecf624c4fb22ed2a054ec941f08a28c0225b",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1512,
+      "collection": "theSVG",
+      "file": "cloudflare-1.svg",
+      "id": 392,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflare-1.svg",
+        "original_is_default": false,
+        "original_slug": "cloudflare"
+      },
+      "sha256": "2518ba06f31a2f3939f8550d2d8b6737259454a6846f28574022ce4b5d80cada",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cloudflare/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1333,
+      "collection": "theSVG",
+      "file": "cloudflare-2.svg",
+      "id": 393,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflare-2.svg",
+        "original_is_default": false,
+        "original_slug": "cloudflare"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1108,
+        "previous_sha256": "a390e247de787fa78828893d19c6086a64e1cd56179b598d6a3f8dec2df0d4bc",
+        "ratio": 0.2
+      },
+      "sha256": "31f240e0b77a9f62926362fb7ca36da600bb6724e603d9d38dab68bfe90c00b6",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cloudflare-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2862,
+      "collection": "theSVG",
+      "file": "cloudflare-3.svg",
+      "id": 394,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflare-3.svg",
+        "original_is_default": false,
+        "original_slug": "cloudflare"
+      },
+      "sha256": "790e04f7b2a26d0de803d4b3f0ef59ed515b14577106e3f06404bf4c1cf922fc",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cloudflare/wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1504,
+      "collection": "theSVG",
+      "file": "cloudflare-4.svg",
+      "id": 395,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflare-4.svg",
+        "original_is_default": false,
+        "original_slug": "cloudflare"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1271,
+        "previous_sha256": "844b34c1ecada29384803480f899acb53f6428bb9b36afb8b365ffd6a6396dc6",
+        "ratio": 0.2
+      },
+      "sha256": "d8b0f2b88e2c638378295b469cb993009ac3371cad9aa56db1d7844e8a8717fe",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cloudflare/mono.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

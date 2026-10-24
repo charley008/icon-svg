@@ -1,0 +1,43 @@
+{
+  "title": "Cisco",
+  "url": "https://www.cisco.com/",
+  "domains": [
+    "www.cisco.com"
+  ],
+  "description": "企业网络设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "思科",
+    "交换机",
+    "路由器",
+    "Cisco"
+  ],
+  "aliases": [
+    "cisco",
+    "思科",
+    "交换机",
+    "路由器"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "cisco.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "0d3ea0eca935464e033b2d9196957eb91b081c4055557407d36da80fca488507",
+      "bytes": 2223,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cisco.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "cisco.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

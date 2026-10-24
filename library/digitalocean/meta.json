@@ -1,0 +1,131 @@
+{
+  "collection_id": 118,
+  "schema_version": 1,
+  "id": 188,
+  "title": "DigitalOcean",
+  "url": "https://digitalocean.com",
+  "domains": [
+    "digitalocean.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "全球App补充",
+    "云计算",
+    "DigitalOcean",
+    "digitalocean.com"
+  ],
+  "aliases": [
+    "digitalocean"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 757,
+      "collection": "theSVG",
+      "file": "digitalocean.svg",
+      "id": 451,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitalocean.svg",
+        "original_is_default": true,
+        "original_slug": "digitalocean"
+      },
+      "rounded_corners": {
+        "previous_bytes": 524,
+        "previous_sha256": "7e0d41c459c2ef20a4f1dac9a2ae95bf8ff5dea79e24dbf177f9b4f5f123e3ba",
+        "ratio": 0.2
+      },
+      "sha256": "f34f94ae7cb2777fd5a4824124d64eb79e1d5277e5d360e16e9122c96994ad29",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/digitalocean/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 563,
+      "collection": "theSVG",
+      "file": "digitalocean-1.svg",
+      "id": 452,
+      "is_default": false,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitalocean-1.svg",
+        "original_is_default": false,
+        "original_slug": "digitalocean"
+      },
+      "sha256": "77d967d5c60e70565d9e52cf0f3c164490b635f06fa1c8135514422d6875b1e8",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/digital-ocean/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 803,
+      "collection": "theSVG",
+      "file": "digitalocean-2.svg",
+      "id": 453,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitalocean-2.svg",
+        "original_is_default": false,
+        "original_slug": "digitalocean"
+      },
+      "rounded_corners": {
+        "previous_bytes": 578,
+        "previous_sha256": "c049b7fed37d6bc8baa53557b728d665546b00a370676483204232cfb85ecc6b",
+        "ratio": 0.2
+      },
+      "sha256": "19580c4971df5f56dc7bd597deb2b2cca4ad1f25765742fba3a8b8962f85456c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/digitalocean-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 757,
+      "collection": "theSVG",
+      "file": "digitalocean-3.svg",
+      "id": 454,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitalocean-3.svg",
+        "original_is_default": false,
+        "original_slug": "digitalocean"
+      },
+      "rounded_corners": {
+        "previous_bytes": 524,
+        "previous_sha256": "802e6b788ee29583c150ca857aa147e8f3a9dea947e26e7fe84d598ea05455e4",
+        "ratio": 0.2
+      },
+      "sha256": "2668451fbac373028eae2bff911e46622c4e29105a83f4fed7b9dcd9f5ed187e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/digitalocean/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 5653,
+      "collection": "Iconify / logos",
+      "file": "digitalocean-4.svg",
+      "id": 455,
+      "is_default": false,
+      "label": "digital-ocean",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitalocean-4.svg",
+        "original_is_default": false,
+        "original_slug": "digitalocean"
+      },
+      "sha256": "53465d57fefbd6b09bd31472f71b5fb0b8bd3610276fb3c523de9022aaa527c8",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#digital-ocean",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

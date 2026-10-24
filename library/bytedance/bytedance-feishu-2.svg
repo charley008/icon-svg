@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 100 100" fill="none" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+
+<path d="M58.5038 40.998C58.0229 40.5352 57.7055 39.9286 57.5994 39.2697C57.4932 38.6108 57.6041 37.9352 57.9153 37.3448C58.2265 36.7543 58.7211 36.281 59.3247 35.9962C59.9283 35.7113 60.6081 35.6303 61.2617 35.7653C61.3406 35.7813 61.4222 35.778 61.4997 35.7559C61.5771 35.7337 61.648 35.6932 61.7066 35.6379L78.7183 19.8999L29.3916 52.2954L45.9584 53.5426L58.5038 40.998Z" fill="#00D3B4" />
+<path d="M15.2998 38.2167L29.3918 52.2954L78.7186 19.8999L15.2998 38.2167Z" fill="#00EED4" />
+<path d="M63.8625 37.7969C63.8081 37.8554 63.7685 37.9259 63.7469 38.0028C63.7252 38.0796 63.7223 38.1605 63.7381 38.2387C63.8742 38.8926 63.7939 39.5729 63.5093 40.1772C63.2248 40.7814 62.7515 41.2767 62.1608 41.5884C61.5701 41.9 60.8941 42.0112 60.2347 41.905C59.5754 41.7988 58.9684 41.4811 58.5054 40.9997L45.9609 53.5412L47.1979 70.1182L79.6036 20.7852L63.8625 37.7969Z" fill="#0069FF" />
+<path d="M79.6039 20.7852L47.1982 70.115L61.284 84.2L79.6039 20.7852Z" fill="#007FFF" />
+</svg></g></g></svg>

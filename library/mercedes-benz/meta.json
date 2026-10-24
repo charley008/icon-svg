@@ -1,0 +1,46 @@
+{
+  "collection_id": 479,
+  "schema_version": 1,
+  "id": 643,
+  "title": "Mercedes-Benz",
+  "url": "https://www.mercedes-benz.com/",
+  "domains": [
+    "mercedes-benz.com"
+  ],
+  "description": "Mercedes-Benz 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "Mercedes-Benz",
+    "mercedes-benz",
+    "奔驰",
+    "梅赛德斯奔驰",
+    "汽车"
+  ],
+  "aliases": [
+    "奔驰",
+    "梅赛德斯奔驰",
+    "mercedes benz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10753,
+      "collection": "用户补充 SVG",
+      "file": "mercedes-benz.svg",
+      "id": 1591,
+      "is_default": true,
+      "label": "mercedes-benz-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "mercedes-benz-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/mercedes-benz-1.svg"
+      },
+      "sha256": "0e1aa77fdfefe5c1540e96a8dbc0259c70521313a3a0a8707556f039c818213a",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/mercedes-benz-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

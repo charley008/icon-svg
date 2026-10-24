@@ -1,0 +1,52 @@
+{
+  "collection_id": 312,
+  "schema_version": 1,
+  "id": 439,
+  "title": "Ping.pe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "网络测速",
+    "宽带测速",
+    "Ping.pe",
+    "pingpe"
+  ],
+  "aliases": [
+    "pingpe"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 603,
+      "collection": "用户优化 SVG",
+      "file": "pingpe.svg",
+      "id": 1107,
+      "is_default": true,
+      "label": "pingpe",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "pingpe.svg",
+        "original_is_default": true,
+        "original_slug": "pingpe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 381,
+        "previous_sha256": "8b784ad7a712323c61304b38e4b219126d8c00cc6c0d6f8f75c12de057defb00",
+        "ratio": 0.2
+      },
+      "sha256": "0f484635b0dd018233ec4bcffc19b19fd91aceb3701af03936b972af542fffa0",
+      "source": "用户授权连续处理；按原PING几何字形和白色横条底重绘，256x256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,164 @@
+{
+  "collection_id": 366,
+  "schema_version": 1,
+  "id": 499,
+  "title": "Spotify",
+  "url": "https://spotify.com",
+  "domains": [
+    "spotify.com",
+    "open.spotify.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "音乐",
+    "听歌",
+    "Spotify",
+    "spotify.com",
+    "open.spotify.com"
+  ],
+  "aliases": [
+    "spotify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1271,
+      "collection": "已有图标",
+      "file": "spotify.svg",
+      "id": 1252,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spotify.svg",
+        "original_is_default": true,
+        "original_slug": "spotify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1049,
+        "previous_sha256": "cb584640fe3a4ab713d43bf95f56a9257fc805849d9cbc6ec8c3ff2463985416",
+        "ratio": 0.2
+      },
+      "sha256": "e17fa6b0bc1c479d2d8158a5416e44536750fc408e7d57fe968a38f9cb7695b5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/spotify/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2041,
+      "collection": "GoTab 公开资源库",
+      "file": "spotify-1.svg",
+      "gotab_id": 21,
+      "id": 1253,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "spotify-1.svg",
+        "original_is_default": false,
+        "original_slug": "spotify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1819,
+        "previous_sha256": "66d44f56bcd6df530aeabc47155ac56ae3368a93aaa8c01a61b5349ae059f76f",
+        "ratio": 0.2
+      },
+      "sha256": "a3ad6bdfef2ba240232f74cfaca6eb89ead125163b4b4769f325537805c2a467",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H1TB90CZGSHFB5MASKQA9Q.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3740,
+      "collection": "已有图标",
+      "file": "spotify-2.svg",
+      "id": 1254,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spotify-2.svg",
+        "original_is_default": false,
+        "original_slug": "spotify"
+      },
+      "sha256": "f55fe8627490cdee47c4b8b715cdf0f60d902a24a1089b0e8c3ee0ae4b699c5c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/spotify/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1023,
+      "collection": "已有图标",
+      "file": "spotify-3.svg",
+      "id": 1255,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spotify-3.svg",
+        "original_is_default": false,
+        "original_slug": "spotify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 790,
+        "previous_sha256": "6764cdf99a89e87176067c126013ccb3d12ef727bfb6b0e8603a44287cfe2518",
+        "ratio": 0.2
+      },
+      "sha256": "214a4d3dd271dbf16061217ed1de3fc279c23928190ec620bcf443b13b384b07",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/spotify/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1523,
+      "collection": "已有图标",
+      "file": "spotify-4.svg",
+      "id": 1256,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spotify-4.svg",
+        "original_is_default": false,
+        "original_slug": "spotify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1290,
+        "previous_sha256": "37686bcd98a639a45a3234b633c0d8e8c2b401c233e26c4f77233e76d3f52561",
+        "ratio": 0.2
+      },
+      "sha256": "9af6feffde4ed7fe35353d1957b163d25f0a8f7d2a096cfb4fa7141f18609569",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spotify-dark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1520,
+      "collection": "已有图标",
+      "file": "spotify-5.svg",
+      "id": 1257,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spotify-5.svg",
+        "original_is_default": false,
+        "original_slug": "spotify"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1287,
+        "previous_sha256": "7996aa183523d6dc9c57a37bdc125df169942c28ccf8ce9d5c5ed5cfe6ba279c",
+        "ratio": 0.2
+      },
+      "sha256": "d3849bab48896b61520e291c58c3be7ad6ff0f37da70d2593898fdcd6fcdb518",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spotify-light.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

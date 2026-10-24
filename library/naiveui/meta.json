@@ -1,0 +1,51 @@
+{
+  "collection_id": 274,
+  "schema_version": 1,
+  "id": 392,
+  "title": "Naive UI",
+  "url": "https://naiveui.com",
+  "domains": [
+    "naiveui.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "Naive UI",
+    "naiveui",
+    "naiveui.com"
+  ],
+  "aliases": [
+    "naiveui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2700,
+      "collection": "GoTab 公开资源库",
+      "file": "naiveui.svg",
+      "gotab_id": 218,
+      "id": 983,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "naiveui.svg",
+        "original_is_default": true,
+        "original_slug": "naiveui"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2478,
+        "previous_sha256": "6d80156bd6643809d5efe7c31a11425a838dfe61a185d8ec021e044658c2bdfa",
+        "ratio": 0.2
+      },
+      "sha256": "ab56962c94a2b3d53758c46cb9515a68d7674ebe9908bce6bfaf65a144752f16",
+      "source": "https://web.gotab.cn/uploads/202507/01JZ50Z1FA6VMAB6FMG2QJKA00.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

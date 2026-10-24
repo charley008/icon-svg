@@ -1,0 +1,148 @@
+{
+  "title": "JetBrains",
+  "url": "https://www.jetbrains.com/",
+  "domains": [
+    "www.jetbrains.com"
+  ],
+  "description": "JetBrains 旗下产品与服务。",
+  "category": "开发编程",
+  "tags": [
+    "IDE",
+    "开发工具",
+    "JetBrains"
+  ],
+  "aliases": [
+    "jetbrains",
+    "IDE",
+    "开发工具"
+  ],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "schema_version": 1,
+  "products": [
+    {
+      "title": "JetBrains Toolbox",
+      "url": "https://www.jetbrains.com/toolbox-app/",
+      "domains": [
+        "www.jetbrains.com"
+      ],
+      "description": "JetBrains IDE 管理应用。",
+      "category": "开发编程",
+      "tags": [
+        "IDE管理",
+        "开发工具",
+        "JetBrains Toolbox"
+      ],
+      "aliases": [
+        "jetbrains-toolbox",
+        "IDE管理",
+        "开发工具"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "jetbrains-toolbox.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "6322225e83c089e4efcb121436293c03247d1fc144b5da3430c865f7633e3558",
+          "bytes": 572,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetbrains-toolbox.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "jetbrains-toolbox.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "toolbox"
+    },
+    {
+      "title": "YouTrack",
+      "url": "https://www.jetbrains.com/youtrack/",
+      "domains": [
+        "www.jetbrains.com"
+      ],
+      "description": "JetBrains 项目与问题跟踪工具。",
+      "category": "办公效率",
+      "tags": [
+        "问题跟踪",
+        "项目管理",
+        "YouTrack"
+      ],
+      "aliases": [
+        "jetbrains-youtrack",
+        "问题跟踪",
+        "项目管理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "jetbrains-youtrack.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "9089055c6d36fa3541d9f4d404b117734917ede13014b23559c77fa992e763e6",
+          "bytes": 2218,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetbrains-youtrack.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "jetbrains-youtrack.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "youtrack"
+    },
+    {
+      "title": "IntelliJ IDEA",
+      "url": "https://www.jetbrains.com/idea/",
+      "domains": [
+        "www.jetbrains.com"
+      ],
+      "description": "JetBrains 集成开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "IDE",
+        "Java",
+        "集成开发环境",
+        "IntelliJ IDEA"
+      ],
+      "aliases": [
+        "jetbrains-intellij",
+        "intellij",
+        "IDE",
+        "Java",
+        "集成开发环境"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "jetbrains-intellij.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "0891480058f9359b69c656176b240fd7d097da2e7b3af70a7113058389a06855",
+          "bytes": 3586,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/intellij.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "intellij.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "intellij"
+    }
+  ]
+}

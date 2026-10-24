@@ -1,0 +1,45 @@
+{
+  "title": "MEGA",
+  "url": "https://mega.io/",
+  "domains": [
+    "mega.io"
+  ],
+  "description": "加密云存储服务。",
+  "category": "网盘存储",
+  "tags": [
+    "网盘",
+    "云存储",
+    "加密",
+    "MEGA"
+  ],
+  "aliases": [
+    "mega",
+    "mega-nz",
+    "网盘",
+    "云存储",
+    "加密",
+    "Cloud Storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "mega.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "b1eb41ab6f71ad9e44ab627588e595f194620586ad702df9b01e127b3a21c031",
+      "bytes": 264,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mega-nz.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "mega-nz.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

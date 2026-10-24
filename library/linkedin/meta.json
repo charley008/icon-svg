@@ -1,0 +1,163 @@
+{
+  "collection_id": 241,
+  "schema_version": 1,
+  "id": 341,
+  "title": "LinkedIn",
+  "url": "https://linkedin.com",
+  "domains": [
+    "linkedin.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "社交",
+    "通讯",
+    "LinkedIn",
+    "linkedin.com"
+  ],
+  "aliases": [
+    "linkedin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1026,
+      "collection": "已有图标",
+      "file": "linkedin.svg",
+      "id": 843,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkedin.svg",
+        "original_is_default": true,
+        "original_slug": "linkedin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 804,
+        "previous_sha256": "db4298c6b691498aa960e58ea19d945410bceac296de84855d1e3df636d0a619",
+        "ratio": 0.2
+      },
+      "sha256": "037d5e0ca2b344e08209b7733d984ac29d508d903a52edb7ecb37a723820d6a7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/linkedin/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1331,
+      "collection": "GoTab 公开资源库",
+      "file": "linkedin-1.svg",
+      "gotab_id": 329,
+      "id": 844,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "linkedin-1.svg",
+        "original_is_default": false,
+        "original_slug": "linkedin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1109,
+        "previous_sha256": "ccd386750ee9aa9725ba9257439791eca13ce59df967f101866f510ed3b55976",
+        "ratio": 0.2
+      },
+      "sha256": "751ea71867a7735c8bb2d67b606f98e35de9774c6914e20d0f889a5b00908a9d",
+      "source": "https://web.gotab.cn/sourceStore/website/01M4REJMJFQWT48VJNVNWRBT76.svg",
+      "version": 1
+    },
+    {
+      "bytes": 898,
+      "collection": "已有图标",
+      "file": "linkedin-2.svg",
+      "id": 845,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkedin-2.svg",
+        "original_is_default": false,
+        "original_slug": "linkedin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 673,
+        "previous_sha256": "15e6c3eda9ed3e01f37108319f6c36723fcc87f212a45746499e93a0e0adeaa0",
+        "ratio": 0.2
+      },
+      "sha256": "bd2761a60471c419247c785b1632a907ff26be27dc8dcdf932df873653255950",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/linkedin-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1876,
+      "collection": "已有图标",
+      "file": "linkedin-3.svg",
+      "id": 846,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkedin-3.svg",
+        "original_is_default": false,
+        "original_slug": "linkedin"
+      },
+      "sha256": "79314c703faaed09cc886534d592bcaf31f510b9671571f3c715fed5794fc9b9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/linkedin/wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 944,
+      "collection": "已有图标",
+      "file": "linkedin-4.svg",
+      "id": 847,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkedin-4.svg",
+        "original_is_default": false,
+        "original_slug": "linkedin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 721,
+        "previous_sha256": "55048a0795037b4dc8d741b2e9e0b43a3d4e0ca830f3db1cf7ca9d84cdf1255d",
+        "ratio": 0.2
+      },
+      "sha256": "72f0cf3c74533a9d092cba8408eb7db32f977303b5716c8a20e808903a178d3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linkedin.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1088,
+      "collection": "已有图标",
+      "file": "linkedin-5.svg",
+      "id": 848,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkedin-5.svg",
+        "original_is_default": false,
+        "original_slug": "linkedin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 866,
+        "previous_sha256": "83d3361bfec93b8d218137dd456f7f48f9a96ba3303adbf602530e5a716acf9f",
+        "ratio": 0.2
+      },
+      "sha256": "ec4556e469de80f8f9d2ccfba580deb13f3c96737dae3739d8aca291ad2c1719",
+      "source": "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

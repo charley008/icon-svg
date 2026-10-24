@@ -1,0 +1,43 @@
+{
+  "title": "Audiobookshelf",
+  "url": "https://www.audiobookshelf.org/",
+  "domains": [
+    "www.audiobookshelf.org"
+  ],
+  "description": "自托管有声书与播客服务。",
+  "category": "阅读",
+  "tags": [
+    "有声书",
+    "播客",
+    "自托管",
+    "Audiobookshelf"
+  ],
+  "aliases": [
+    "audiobookshelf",
+    "有声书",
+    "播客",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "audiobookshelf.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "48a539c267b88e3898f8e127dacef04e6625a5e99f8d334c392a8aa65668a8e8",
+      "bytes": 1775,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/audiobookshelf.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "audiobookshelf.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

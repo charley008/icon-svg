@@ -1,0 +1,50 @@
+{
+  "collection_id": 428,
+  "schema_version": 1,
+  "id": 588,
+  "title": "香色闺阁",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "用户优选",
+    "自用",
+    "阅读",
+    "香色闺阁",
+    "xiangseguige"
+  ],
+  "aliases": [
+    "xiangseguige"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1195,
+      "collection": "用户优化 SVG",
+      "file": "xiangseguige.svg",
+      "id": 1477,
+      "is_default": true,
+      "label": "xiangseguige",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "xiangseguige.svg",
+        "original_is_default": true,
+        "original_slug": "xiangseguige"
+      },
+      "rounded_corners": {
+        "previous_bytes": 973,
+        "previous_sha256": "b75cc06e11810834ce72cffa0bbd6a1a60fbb5f9dafcb714c1b3bd13a07aade8",
+        "ratio": 0.2
+      },
+      "sha256": "a7a4e5bfd947527c1dd5ad8c810bcb332d7317105055b43779f0871a84fc1098",
+      "source": "用户确认重绘：香色闺阁红底白色书架版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

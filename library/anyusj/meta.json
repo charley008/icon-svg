@@ -1,0 +1,51 @@
+{
+  "collection_id": 36,
+  "schema_version": 1,
+  "id": 71,
+  "title": "安鱼设计资源",
+  "url": "https://anyusj.com",
+  "domains": [
+    "anyusj.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "安鱼设计资源",
+    "anyusj",
+    "anyusj.com"
+  ],
+  "aliases": [
+    "anyusj"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2929,
+      "collection": "GoTab 公开资源库",
+      "file": "anyusj.svg",
+      "gotab_id": 110,
+      "id": 174,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "anyusj.svg",
+        "original_is_default": true,
+        "original_slug": "anyusj"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2707,
+        "previous_sha256": "918e8f0771d94404a76d814e5753f304b714cbd4f8efdafdc02692ac9d45f94a",
+        "ratio": 0.2
+      },
+      "sha256": "3bb518961e45ab93f75374909de9a11b0c37871a14b50bc6184c194e043196ae",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8PD9E64V3R79A2CBKZVYH8K.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

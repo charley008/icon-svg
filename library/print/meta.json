@@ -1,0 +1,51 @@
+{
+  "collection_id": 319,
+  "schema_version": 1,
+  "id": 446,
+  "title": "打印机",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "用户优选",
+    "自用",
+    "硬件",
+    "设备",
+    "打印机",
+    "print"
+  ],
+  "aliases": [
+    "print"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 180793,
+      "collection": "用户优选",
+      "file": "print.svg",
+      "id": 1121,
+      "is_default": true,
+      "label": "print",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "print.svg",
+        "original_is_default": true,
+        "original_slug": "print"
+      },
+      "rounded_corners": {
+        "previous_bytes": 180571,
+        "previous_sha256": "6ebf413ed67b01f94cf4e43d1260249a6f7766f39ac1222b71dcf26d098b4906",
+        "ratio": 0.2
+      },
+      "sha256": "b5c41e45239516d4dda43e215792c73e0051284f5396fef27c4654d72699be38",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

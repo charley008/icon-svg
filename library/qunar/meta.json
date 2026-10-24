@@ -1,0 +1,50 @@
+{
+  "collection_id": 332,
+  "schema_version": 1,
+  "id": 462,
+  "title": "去哪儿",
+  "url": "https://qunar.com",
+  "domains": [
+    "qunar.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "出行",
+    "去哪儿",
+    "qunar",
+    "qunar.com"
+  ],
+  "aliases": [
+    "qunar"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 955,
+      "collection": "Iconify / arcticons",
+      "file": "qunar.svg",
+      "id": 1150,
+      "is_default": true,
+      "label": "qunar",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qunar.svg",
+        "original_is_default": true,
+        "original_slug": "qunar"
+      },
+      "rounded_corners": {
+        "previous_bytes": 722,
+        "previous_sha256": "1927e672294fefd94a54e7a3ce19c42af6f8c4fbfab902fe94d368ced4a27b0a",
+        "ratio": 0.2
+      },
+      "sha256": "7a8f37665a3bd0d38a5ad09f9e2dff79fe4bb9f80885ce51285808c97d61aaa1",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#qunar",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

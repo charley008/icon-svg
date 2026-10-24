@@ -1,0 +1,51 @@
+{
+  "collection_id": 80,
+  "schema_version": 1,
+  "id": 148,
+  "title": "Character Designs",
+  "url": "https://characterdesigns.com",
+  "domains": [
+    "characterdesigns.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Character Designs",
+    "characterdesigns",
+    "characterdesigns.com"
+  ],
+  "aliases": [
+    "characterdesigns"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18832,
+      "collection": "GoTab 公开资源库",
+      "file": "characterdesigns.svg",
+      "gotab_id": 149,
+      "id": 374,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "characterdesigns.svg",
+        "original_is_default": true,
+        "original_slug": "characterdesigns"
+      },
+      "rounded_corners": {
+        "previous_bytes": 18610,
+        "previous_sha256": "eae9b058605b3130ff21c3eb5556ed69c1b67e78a251d62b4272af63ce262906",
+        "ratio": 0.2
+      },
+      "sha256": "d4a978bac128bc1aa6d1ba7f8dea84bb0b394b0d9ff4d8a8914a53f3c8c5d310",
+      "source": "https://web.gotab.cn/uploads/202410/01JAY63TFW14MPV2ZQW5A0BB1D.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

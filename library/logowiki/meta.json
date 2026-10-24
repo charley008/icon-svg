@@ -1,0 +1,51 @@
+{
+  "collection_id": 244,
+  "schema_version": 1,
+  "id": 344,
+  "title": "标志档案库",
+  "url": "https://logowiki.net",
+  "domains": [
+    "logowiki.net"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "标志档案库",
+    "logowiki",
+    "logowiki.net"
+  ],
+  "aliases": [
+    "logowiki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1996,
+      "collection": "GoTab 公开资源库",
+      "file": "logowiki.svg",
+      "gotab_id": 119,
+      "id": 851,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "logowiki.svg",
+        "original_is_default": true,
+        "original_slug": "logowiki"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1774,
+        "previous_sha256": "27700b4569474945668c58319a38985e6ff50107f0fb6865a259345c6ae550d0",
+        "ratio": 0.2
+      },
+      "sha256": "22fd8171b5e15c44a5eb511dc2866d3f1d93ba8148b273b86f7e5e97b1aa5261",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PMTWBFTR4JWN03AKTEBYKH.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

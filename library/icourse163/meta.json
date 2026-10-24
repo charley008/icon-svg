@@ -1,0 +1,79 @@
+{
+  "collection_id": 205,
+  "schema_version": 1,
+  "id": 302,
+  "title": "中国大学MOOC",
+  "url": "https://icourse163.org",
+  "domains": [
+    "icourse163.org"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "国内补充",
+    "教育",
+    "科研",
+    "中国大学MOOC",
+    "icourse163",
+    "china-university-mooc",
+    "icourse163.org"
+  ],
+  "aliases": [
+    "icourse163",
+    "china-university-mooc"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2443,
+      "collection": "GoTab 公开资源库",
+      "file": "icourse163-1.svg",
+      "gotab_id": 82,
+      "id": 747,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "icourse163-1.svg",
+        "original_is_default": false,
+        "original_slug": "icourse163"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2221,
+        "previous_sha256": "c964e3dfdce7756bb738d1858e0e3ae91db253118148ddad5fa4f33d22ac2eba",
+        "ratio": 0.2
+      },
+      "sha256": "6b0b2f38ea52e83df9c5bd7b2cde7a438ad56c26b140a04ecf6c6bb87aa43049",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HN1Y3TSEF0CT624E7R7ZPS.svg",
+      "version": 1
+    },
+    {
+      "bytes": 880,
+      "collection": "已有图标",
+      "file": "icourse163.svg",
+      "id": 748,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icourse163.svg",
+        "original_is_default": true,
+        "original_slug": "icourse163"
+      },
+      "rounded_corners": {
+        "previous_bytes": 647,
+        "previous_sha256": "7e5bfe67905b01b04097fca5c18c8ca604ec9d7739c1b48e2b6dd2446c76dcda",
+        "ratio": 0.2
+      },
+      "sha256": "fe100a91c2137e4dc4e4cd3b9d58fa871e09fa711dd11eafe829449f093d8745",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#china-university-mooc",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

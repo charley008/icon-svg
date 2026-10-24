@@ -1,0 +1,58 @@
+{
+  "collection_id": 238,
+  "schema_version": 1,
+  "id": 338,
+  "title": "猎聘",
+  "url": "https://liepin.com",
+  "domains": [
+    "liepin.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "猎聘",
+    "liepin",
+    "liepin.com"
+  ],
+  "aliases": [
+    "liepin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_track": "https://apps.apple.com/cn/app/%E7%8C%8E%E8%81%98-%E4%B8%93%E4%B8%9A%E6%8B%9B%E8%81%98app/id540996859?uo=4",
+      "bytes": 2971,
+      "collection": "轻量矢量替换",
+      "file": "liepin.svg",
+      "id": 836,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "liepin.svg",
+        "original_is_default": true,
+        "original_slug": "liepin"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "87e68f0f0ff157a370c370ef2b2a34156b8f643750eb9a003bcfcef7aa9b273c",
+        "previous_bytes": 219264,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/d9/c4/03d9c4cc-a90e-53a5-ebf1-1a6c3f97efaa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/d9/c4/03d9c4cc-a90e-53a5-ebf1-1a6c3f97efaa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "note": "重建橙底白圆与猎聘文字；文字已转路径，无字体依赖。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "1b1a6c7345569a2b10438a80ed942a910c45a8f434c29a4c714b5419f6c39437",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/d9/c4/03d9c4cc-a90e-53a5-ebf1-1a6c3f97efaa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

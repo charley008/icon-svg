@@ -1,0 +1,52 @@
+{
+  "collection_id": 353,
+  "schema_version": 1,
+  "id": 484,
+  "title": "SINF",
+  "url": "https://sinf.net",
+  "domains": [
+    "sinf.net"
+  ],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "中国地区Top100",
+    "SINF",
+    "sinf.net"
+  ],
+  "aliases": [
+    "sinf"
+  ],
+  "notes": [
+    "无法核实官方标志；此图为自绘 S 字母域名标识，并非官方 Logo。",
+    "原展示名称：SINF（自绘域名标识）"
+  ],
+  "icons": [
+    {
+      "bytes": 508,
+      "collection": "自绘域名标识（未核实官方标志）",
+      "file": "sinf.svg",
+      "id": 1213,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "custom-domain-badge",
+      "provenance": {
+        "original_file": "sinf.svg",
+        "original_is_default": true,
+        "original_slug": "sinf"
+      },
+      "rounded_corners": {
+        "previous_bytes": 286,
+        "previous_sha256": "640137eea0df30df49fc64980047e83c5a5b69716287670a78de98ffebec8215",
+        "ratio": 0.2
+      },
+      "sha256": "60c66014f9ee100ef5d19b2965ef77af07df2fe30fe7b7a8990d101f85341c20",
+      "source": "https://sinf.net/",
+      "source_size": null,
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

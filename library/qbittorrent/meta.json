@@ -1,0 +1,44 @@
+{
+  "title": "qBittorrent",
+  "url": "https://www.qbittorrent.org/",
+  "domains": [
+    "www.qbittorrent.org"
+  ],
+  "description": "开源 BitTorrent 下载应用。",
+  "category": "网络工具",
+  "tags": [
+    "BT",
+    "下载",
+    "BitTorrent",
+    "qBittorrent"
+  ],
+  "aliases": [
+    "qbittorrent",
+    "BT",
+    "下载",
+    "BitTorrent",
+    "qBittorrent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "qbittorrent.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "dc6a5e20879ad37b6e9367ccc9143fdf90351f40eb08c200cd7d003ff1b1c275",
+      "bytes": 1549,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qbittorrent.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "qbittorrent.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,156 @@
+{
+  "collection_id": 197,
+  "schema_version": 1,
+  "id": 294,
+  "title": "Hugging Face",
+  "url": "https://huggingface.co",
+  "domains": [
+    "huggingface.co"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "全球App补充",
+    "用户优选",
+    "人工智能",
+    "Hugging Face",
+    "huggingface",
+    "hugging-face",
+    "huggingface.co"
+  ],
+  "aliases": [
+    "huggingface",
+    "hugging-face"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 6612,
+      "collection": "已有图标",
+      "file": "huggingface.svg",
+      "id": 728,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "huggingface.svg",
+        "original_is_default": true,
+        "original_slug": "huggingface"
+      },
+      "sha256": "9e95990ef060b703aaa1ecbc3b0e20f816c74bf340c3f0237981208afd48db3d",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 6357,
+      "collection": "GoTab 公开资源库",
+      "file": "huggingface-1.svg",
+      "gotab_id": 287,
+      "id": 729,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "huggingface-1.svg",
+        "original_is_default": false,
+        "original_slug": "huggingface"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6135,
+        "previous_sha256": "4dc27ff24669b3884fd020842740bfc023b08c346dd9e604cddd2cb9bec9903b",
+        "ratio": 0.2
+      },
+      "sha256": "8420016b01a715ca664d107ef27a599a5357a72c6235a60ef16a9945d3330576",
+      "source": "https://web.gotab.cn/sourceStore/website/01KYNW58V9BHC0T664GBAF0XS4.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6836,
+      "collection": "已有图标",
+      "file": "huggingface-2.svg",
+      "id": 730,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huggingface-2.svg",
+        "original_is_default": false,
+        "original_slug": "huggingface"
+      },
+      "sha256": "4850865bd4251ce1900978b692a62b59fb0c38df95f18aa3587ad26008dc7042",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/hugging-face/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3353,
+      "collection": "已有图标",
+      "file": "huggingface-3.svg",
+      "id": 731,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huggingface-3.svg",
+        "original_is_default": false,
+        "original_slug": "huggingface"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3120,
+        "previous_sha256": "cc30ce51017e4219076a618661c7e69da69ff096fee5f80acdd41ec5c51b5233",
+        "ratio": 0.2
+      },
+      "sha256": "364198542a302e48e2d05f4875587d559cd5b416ef309f873cbfdc60f2ef82b1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/hugging-face/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 18764,
+      "collection": "已有图标",
+      "file": "huggingface-4.svg",
+      "id": 732,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huggingface-4.svg",
+        "original_is_default": false,
+        "original_slug": "huggingface"
+      },
+      "sha256": "ef3ee6bdc62179d3ba1bfb18ee6d51752ba0ed3a659f669e70413c19ad68d116",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hugging-face.svg",
+      "version": 4
+    },
+    {
+      "bytes": 3353,
+      "collection": "已有图标",
+      "file": "huggingface-5.svg",
+      "id": 733,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huggingface-5.svg",
+        "original_is_default": false,
+        "original_slug": "huggingface"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3120,
+        "previous_sha256": "0c265b1d46eb403d64df13620271402784b483c0e4acd887393bc9cefbb89eed",
+        "ratio": 0.2
+      },
+      "sha256": "1fd3cf965c7c4fd8a927a2530bb72f31ea36017eb810c5ba957426e35b14c4be",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

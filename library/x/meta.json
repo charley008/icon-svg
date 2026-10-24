@@ -1,0 +1,166 @@
+{
+  "collection_id": 425,
+  "schema_version": 1,
+  "id": 585,
+  "title": "X / Twitter",
+  "url": "https://x.com",
+  "domains": [
+    "x.com",
+    "twitter.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "X / Twitter",
+    "x",
+    "twitter",
+    "x-twitter",
+    "xformerlytwitter",
+    "x.com",
+    "twitter.com"
+  ],
+  "aliases": [
+    "x",
+    "twitter",
+    "x-twitter",
+    "xformerlytwitter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 625,
+      "collection": "已有图标",
+      "file": "x.svg",
+      "id": 1468,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "x.svg",
+        "original_is_default": true,
+        "original_slug": "x"
+      },
+      "rounded_corners": {
+        "previous_bytes": 392,
+        "previous_sha256": "3b58725ca15cde631521fb933f6c46406326b26d456ee6771816f20f4204f8a1",
+        "ratio": 0.2
+      },
+      "sha256": "ebc3bc31ef19b3a378dc4a7f492aaf103beb091d01757ecf77ccae4f6e155e12",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/x/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1999,
+      "collection": "GoTab 公开资源库",
+      "file": "x-1.svg",
+      "gotab_id": 24,
+      "id": 1469,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "x-1.svg",
+        "original_is_default": false,
+        "original_slug": "x"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1777,
+        "previous_sha256": "099857363fb29f5b3b844d283c1c8fd7cd67abdb6af210a6d19a0193656955e9",
+        "ratio": 0.2
+      },
+      "sha256": "1ad6e0698fb98615a34a6ec45c1f0f515969282909729ea97ce8771bf6b5cf7b",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HASDEH6ABY7GHT7B96DBVC.svg",
+      "version": 1
+    },
+    {
+      "bytes": 889,
+      "collection": "已有图标",
+      "file": "x-2.svg",
+      "id": 1470,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "x-2.svg",
+        "original_is_default": false,
+        "original_slug": "x"
+      },
+      "sha256": "528aba22d2093212047ac1714c9514fd7441f99284efcb850bc8f6b8570c1221",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/twitter/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 468,
+      "collection": "已有图标",
+      "file": "x-3.svg",
+      "id": 1471,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "x-3.svg",
+        "original_is_default": false,
+        "original_slug": "x"
+      },
+      "sha256": "89f410cd207f06373ab5c774ceb00fefa8658b70d299bdb3d5e62cee3d2229dc",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/x-formerly-twitter/default.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1047,
+      "collection": "已有图标",
+      "file": "x-4.svg",
+      "id": 1472,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "x-4.svg",
+        "original_is_default": false,
+        "original_slug": "x"
+      },
+      "rounded_corners": {
+        "previous_bytes": 822,
+        "previous_sha256": "507fc87c8f81aa2750d2a6ebcc10514316eae8f018043f3cfb7baaa2dec16389",
+        "ratio": 0.2
+      },
+      "sha256": "9ba98a00a642c187e5b1ac62bc261d90599fc84435aa2870ebe04db2110edec4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/twitter-badge/default.svg",
+      "version": 4
+    },
+    {
+      "bytes": 547,
+      "collection": "已有图标",
+      "file": "x-5.svg",
+      "id": 1473,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "x-5.svg",
+        "original_is_default": false,
+        "original_slug": "x"
+      },
+      "rounded_corners": {
+        "previous_bytes": 324,
+        "previous_sha256": "1466d472ec2d47be8c5ad4a43b43d3a6bed25d74580ef6689e8b88a80657e4d9",
+        "ratio": 0.2
+      },
+      "sha256": "2a63cf88d3c205d497e16893274c015c15c28384b9fa98d095a91cd53bb373da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/x.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

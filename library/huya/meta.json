@@ -1,0 +1,114 @@
+{
+  "collection_id": 199,
+  "schema_version": 1,
+  "id": 296,
+  "title": "虎牙",
+  "url": "https://huya.com",
+  "domains": [
+    "huya.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "用户优选",
+    "影音",
+    "虎牙",
+    "huya",
+    "huya.com"
+  ],
+  "aliases": [
+    "huya"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 9613,
+      "collection": "已有图标",
+      "file": "huya.svg",
+      "id": 736,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "huya.svg",
+        "original_is_default": true,
+        "original_slug": "huya"
+      },
+      "sha256": "43a19ab95fb811e542bf19eb73455167a00a0e4f5e9cbaab7d074d2b4a7d69c4",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 5623,
+      "collection": "GoTab 公开资源库",
+      "file": "huya-1.svg",
+      "gotab_id": 5,
+      "id": 737,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "huya-1.svg",
+        "original_is_default": false,
+        "original_slug": "huya"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5401,
+        "previous_sha256": "87d5e2de1edd60b51a1eb4f4c0d8fe4d3778cd686b31948c4a76813b813119e2",
+        "ratio": 0.2
+      },
+      "sha256": "234cacb1014e205c9e3f6a0b0ebd5541f6025e8c25926bf8e460c0701fea7999",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8GWJGZD3E2AV5J56BJAZ5MQ.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4906,
+      "collection": "已有图标",
+      "file": "huya-2.svg",
+      "id": 738,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huya-2.svg",
+        "original_is_default": false,
+        "original_slug": "huya"
+      },
+      "sha256": "cd261cd533cbd09b9b7cf8b8617aabb31c0c6a08249d26e872fee4a7338a12b9",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/huYa.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1642,
+      "collection": "已有图标",
+      "file": "huya-3.svg",
+      "id": 739,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huya-3.svg",
+        "original_is_default": false,
+        "original_slug": "huya"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1409,
+        "previous_sha256": "4e44b7c6841d49b80f9485ad47dd4148a70f524881dbc5c4f266239ab6ff4dc9",
+        "ratio": 0.2
+      },
+      "sha256": "1453b359966f10741165c2f7c4d5f3efb5bf63c502219cd69c5e28dd82f97053",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#huya-live",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

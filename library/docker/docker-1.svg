@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#1e7cee" /><svg version="1.1" id="图层_1" x="0" y="0" viewBox="0 0 192 192" style="enable-background:new 0 0 192 192;" xml:space="preserve" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M107,91.3H91.5v-14H107V91.3z M107,43.2H91.5v14.2H107V43.2z M125.5,77.3h-15.6v14h15.6V77.3L125.5,77.3z   M88.7,60.3H73.1v14.1h15.6V60.3z M107,60.3H91.5v14.1H107V60.3z M172.2,83.9c-3.4-2.3-11.2-3.1-17.2-2c-0.8-5.6-3.9-10.5-9.7-15  l-3.3-2.2l-2.2,3.3c-4.4,6.6-5.5,17.3-0.9,24.4c-2.1,1.1-6.1,2.6-11.4,2.6H25.3c-2.1,12,1.3,27.4,10.4,38.2  c8.7,10.4,21.8,15.6,38.9,15.6c37,0,64.5-17.1,77.3-48c5,0.1,15.9,0,21.5-10.6c0.4-0.6,1.5-3.1,2-4L172.2,83.9L172.2,83.9z M52,77.3  H36.4v14H52V77.3L52,77.3z M70.3,77.3H54.7v14h15.6V77.3z M88.7,77.3H73.1v14h15.6V77.3z M70.3,60.3H54.7v14.1h15.6V60.3z" />
+</svg></g></g></svg>

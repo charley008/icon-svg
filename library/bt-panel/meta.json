@@ -1,0 +1,53 @@
+{
+  "collection_id": 65,
+  "schema_version": 1,
+  "id": 112,
+  "title": "宝塔面板",
+  "url": "https://bt.cn",
+  "domains": [
+    "bt.cn"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "服务器面板",
+    "运维",
+    "宝塔面板",
+    "bt-panel",
+    "bt.cn"
+  ],
+  "aliases": [
+    "bt-panel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4563,
+      "collection": "GoTab 公开资源库",
+      "file": "bt-panel.svg",
+      "gotab_id": 222,
+      "id": 277,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "bt-panel.svg",
+        "original_is_default": true,
+        "original_slug": "bt-panel"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4341,
+        "previous_sha256": "7773025cd30b295084d6729911e48f970247ca192cb3013d428fa632886ebe63",
+        "ratio": 0.2
+      },
+      "sha256": "3602c8357f406739288f879f12c6d3a561e4677924fc0d157f82f5a084b7d2d0",
+      "source": "https://web.gotab.cn/uploads/202507/01K096TYV50BQFHD2J2RAYWNDV.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

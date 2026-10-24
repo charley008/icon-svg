@@ -1,0 +1,49 @@
+{
+  "collection_id": 144,
+  "schema_version": 1,
+  "id": 215,
+  "title": "Emby",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "用户优选",
+    "自用",
+    "影音",
+    "Emby"
+  ],
+  "aliases": [
+    "emby"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 600,
+      "collection": "用户优选",
+      "file": "emby.svg",
+      "id": 534,
+      "is_default": true,
+      "label": "emby",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "emby.svg",
+        "original_is_default": true,
+        "original_slug": "emby"
+      },
+      "rounded_corners": {
+        "previous_bytes": 377,
+        "previous_sha256": "f2d4d18f3549303e30ae80f8defa0cc28b06f39230e0e682809dbba2c0e0cddd",
+        "ratio": 0.2
+      },
+      "sha256": "55dd12571caf164b639679093c0887a42b16aeebc9b882909c711f6de44fdf56",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

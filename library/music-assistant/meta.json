@@ -1,0 +1,42 @@
+{
+  "title": "Music Assistant",
+  "url": "https://www.music-assistant.io/",
+  "domains": [
+    "www.music-assistant.io"
+  ],
+  "description": "音乐管理与播放服务。",
+  "category": "影音娱乐",
+  "tags": [
+    "音乐管理",
+    "家庭音乐",
+    "Music Assistant"
+  ],
+  "aliases": [
+    "music-assistant",
+    "音乐管理",
+    "家庭音乐"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "music-assistant.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "435492942dfa81b4d2431d97b897f1580d9be59c1aacccb91cae78f7b36166a7",
+      "bytes": 9560,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/music-assistant.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg-cleaned",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "music-assistant.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

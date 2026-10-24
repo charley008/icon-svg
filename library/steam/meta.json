@@ -1,0 +1,160 @@
+{
+  "collection_id": 369,
+  "schema_version": 1,
+  "id": 502,
+  "title": "Steam",
+  "url": "https://store.steampowered.com",
+  "domains": [
+    "store.steampowered.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "全球App补充",
+    "游戏",
+    "Steam",
+    "store.steampowered.com"
+  ],
+  "aliases": [
+    "steam"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1890,
+      "collection": "已有图标",
+      "file": "steam.svg",
+      "id": 1265,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "steam.svg",
+        "original_is_default": true,
+        "original_slug": "steam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1672,
+        "previous_sha256": "32c2142a0d8ba479d8b8c0ce516716fd3a8b525ecea1af294cf21ed72c263f2e",
+        "ratio": 0.2
+      },
+      "sha256": "11cae0578bede072eda6be803f7be51088d2f4e38b5ffdecbf6730d811772e96",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/steam/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1589,
+      "collection": "GoTab 公开资源库",
+      "file": "steam-1.svg",
+      "gotab_id": 93,
+      "id": 1266,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "steam-1.svg",
+        "original_is_default": false,
+        "original_slug": "steam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1367,
+        "previous_sha256": "22ee2cee5364a406234d52024c2ef97f9db6c4825d8dabc89045f0bde5a08040",
+        "ratio": 0.2
+      },
+      "sha256": "230d6a1dfbe5926f15f6cdd41a83fa8ab75e771d137df96c405d9f84c203035b",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HPA2DC9EKEQ9CDFVKQZ8WD.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1046,
+      "collection": "已有图标",
+      "file": "steam-2.svg",
+      "id": 1267,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "steam-2.svg",
+        "original_is_default": false,
+        "original_slug": "steam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 821,
+        "previous_sha256": "011284cfd58ef5364a0898a114746e21045b7e47d17d8086d8b4ea283da5ea63",
+        "ratio": 0.2
+      },
+      "sha256": "a9fc3c59583cc1b990d5175e75f34891192aa6aa4ad71c635218a2b88e8a8bf8",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/steam-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1362,
+      "collection": "已有图标",
+      "file": "steam-3.svg",
+      "id": 1268,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "steam-3.svg",
+        "original_is_default": false,
+        "original_slug": "steam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1129,
+        "previous_sha256": "9907af11839a76777fad879ce4d6a319766e15255f81db40ae91cf80f11bd20b",
+        "ratio": 0.2
+      },
+      "sha256": "4ce2f22c024bfdb5a8cbefd3f1636e13a0bc3b624f8a47056c30725a9d694da6",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/steam/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1274,
+      "collection": "已有图标",
+      "file": "steam-4.svg",
+      "id": 1269,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "steam-4.svg",
+        "original_is_default": false,
+        "original_slug": "steam"
+      },
+      "sha256": "afd31f36954647d89b16d415cff6b770ae4b907632cb2b2a1015572da290daf2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#steam",
+      "version": 4
+    },
+    {
+      "bytes": 1100,
+      "collection": "已有图标",
+      "file": "steam-5.svg",
+      "id": 1270,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "steam-5.svg",
+        "original_is_default": false,
+        "original_slug": "steam"
+      },
+      "rounded_corners": {
+        "previous_bytes": 867,
+        "previous_sha256": "82165656b2f9f2f2b3b507a6e86a80f409a97493d38c539fcca6f3ea5c57a5d2",
+        "ratio": 0.2
+      },
+      "sha256": "f321245665e3874d0e397258682f5b0f1a83f14285086a9d75222ba641f185aa",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#steam-fill",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

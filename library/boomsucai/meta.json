@@ -1,0 +1,51 @@
+{
+  "collection_id": 62,
+  "schema_version": 1,
+  "id": 109,
+  "title": "BOOM 素材盒",
+  "url": "https://boomsucai.com",
+  "domains": [
+    "boomsucai.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "BOOM 素材盒",
+    "boomsucai",
+    "boomsucai.com"
+  ],
+  "aliases": [
+    "boomsucai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7583,
+      "collection": "GoTab 公开资源库",
+      "file": "boomsucai.svg",
+      "gotab_id": 108,
+      "id": 270,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "boomsucai.svg",
+        "original_is_default": true,
+        "original_slug": "boomsucai"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7361,
+        "previous_sha256": "4caf426bc52197a8b137fedfcb5f38afa6af79db7da7c2d338a35c3926d8ffa2",
+        "ratio": 0.2
+      },
+      "sha256": "f848221018107c556d34ecb120eb406721a51f202b8078f56682bf066ada4432",
+      "source": "https://web.gotab.cn/uploads/202409/01J8Q81WPCQHFQF4J2J5S1ZDZW.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.serif.com/" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,0,-3305.01)">
+        <g id="设计素材">
+        </g>
+        <g id="样机">
+        </g>
+        <g id="Pinterest" transform="matrix(1,0,0,1,0,3305.01)">
+            <g id="创意灵感">
+                <rect id="Pinterest1" ns1:id="Pinterest" x="0" y="0" width="512" height="512" style="fill:none;" />
+                <g id="Pinterest2" ns1:id="Pinterest">
+                    <g transform="matrix(0.159821,0,0,0.159821,56.8895,56.7786)">
+                        <path d="M784.185,2373.27C340.812,2191.38 28.472,1755.36 28.472,1246.53C28.472,574.306 573.611,29.167 1245.83,29.167C1918.06,29.167 2463.19,574.306 2463.19,1246.53C2463.19,1918.75 1918.06,2463.89 1245.83,2463.89C1091.35,2463.89 943.586,2435.1 807.602,2382.6C988.618,2243.66 1051.89,1992.63 1104.17,1731.25C1202.78,1788.19 1255.56,1847.92 1381.25,1856.94C1845.14,1890.97 2104.17,1415.97 2040.97,977.083C1984.03,588.194 1577.08,390.278 1143.75,436.806C800.694,473.611 459.028,737.5 445.139,1115.28C436.111,1345.83 532.639,1518.75 763.194,1567.36C789.583,1458.33 794.444,1399.31 794.444,1399.31C794.444,1399.31 693.056,1302.08 682.639,1240.28C597.917,743.056 1284.72,403.472 1645.14,750.694C1893.75,991.667 1729.86,1732.64 1328.47,1655.56C943.75,1581.94 1516.67,992.361 1209.72,876.389C960.417,781.944 827.778,1164.58 945.833,1354.17C877.751,1674.15 732.909,1976.12 784.185,2373.27Z" style="fill:rgb(202,33,39);fill-rule:nonzero;" />
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

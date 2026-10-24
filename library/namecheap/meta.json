@@ -1,0 +1,44 @@
+{
+  "title": "Namecheap",
+  "url": "https://www.namecheap.com/",
+  "domains": [
+    "www.namecheap.com"
+  ],
+  "description": "域名注册与主机服务商。",
+  "category": "云服务",
+  "tags": [
+    "域名",
+    "主机",
+    "域名注册",
+    "Namecheap"
+  ],
+  "aliases": [
+    "namecheap",
+    "域名",
+    "主机",
+    "域名注册"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "namecheap.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2687288f4bfafa9b7244acee331789d3787899f932b9ed4c1d04ff1eac0fde2b",
+      "bytes": 2743,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/namecheap.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg-cleaned",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "namecheap.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 183,
+  "schema_version": 1,
+  "id": 279,
+  "title": "果壳",
+  "url": "https://guokr.com",
+  "domains": [
+    "guokr.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "果壳",
+    "guokr",
+    "guokr.com"
+  ],
+  "aliases": [
+    "guokr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2008,
+      "collection": "GoTab 公开资源库",
+      "file": "guokr.svg",
+      "gotab_id": 77,
+      "id": 702,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "guokr.svg",
+        "original_is_default": true,
+        "original_slug": "guokr"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1786,
+        "previous_sha256": "bba81b1cf7f90590979c8e1fdd3f5a3f54d5b520a9a015067d893f38f898755d",
+        "ratio": 0.2
+      },
+      "sha256": "ba78709cb960dbe5462ad2d986bde98861b9593a9b8ee6bb49d1d8973209c2a8",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HMM98416JTWWS6J0Q8VMZG.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

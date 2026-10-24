@@ -1,0 +1,52 @@
+{
+  "collection_id": 458,
+  "schema_version": 1,
+  "id": 622,
+  "title": "ZPAY 支付",
+  "url": "https://z-pay.cn",
+  "domains": [
+    "z-pay.cn"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "金融",
+    "支付",
+    "收款",
+    "ZPAY 支付",
+    "zpay",
+    "z-pay.cn"
+  ],
+  "aliases": [
+    "zpay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1297,
+      "collection": "GoTab 公开资源库",
+      "file": "zpay.svg",
+      "gotab_id": 323,
+      "id": 1554,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zpay.svg",
+        "original_is_default": true,
+        "original_slug": "zpay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1075,
+        "previous_sha256": "2b0aee9c4c79446f7800d6c978614dfdb6fe878f6a835ccb1a187c4397a42683",
+        "ratio": 0.2
+      },
+      "sha256": "26edbe5463aa2981c2f3b3c74d4a078c112afbdc788b30ca2e1ba52991322136",
+      "source": "https://web.gotab.cn/sourceStore/website/01M0YDD0SGTDKNMBRNX830A0MQ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

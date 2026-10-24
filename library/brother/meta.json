@@ -1,0 +1,45 @@
+{
+  "title": "Brother",
+  "url": "https://www.brother.com/",
+  "domains": [
+    "www.brother.com"
+  ],
+  "description": "打印机与办公设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "兄弟",
+    "打印机",
+    "办公设备",
+    "Brother"
+  ],
+  "aliases": [
+    "brother",
+    "兄弟",
+    "打印机",
+    "办公设备",
+    "printer-company",
+    "office-equipment"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "brother.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2f1f96c17ca23a97a12a6f6efbc74619aa974ea1a221ace82142fcda175daea3",
+      "bytes": 1594,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/brother.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "brother.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

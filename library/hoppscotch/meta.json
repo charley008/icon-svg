@@ -1,0 +1,41 @@
+{
+  "title": "Hoppscotch",
+  "url": "https://hoppscotch.io/",
+  "domains": [
+    "hoppscotch.io"
+  ],
+  "description": "API 开发与接口调试工具。",
+  "category": "开发编程",
+  "tags": [
+    "API",
+    "接口调试",
+    "Hoppscotch"
+  ],
+  "aliases": [
+    "hoppscotch",
+    "API",
+    "接口调试"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "hoppscotch.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "65f3a60876488bf1f9720899123621fad53e92b2635d0052b1f7bd2d4c3f3c46",
+      "bytes": 4956,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hoppscotch.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "hoppscotch.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

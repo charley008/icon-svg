@@ -1,0 +1,62 @@
+{
+  "collection_id": 434,
+  "schema_version": 1,
+  "id": 595,
+  "title": "新华网",
+  "url": "https://xinhuanet.com",
+  "domains": [
+    "xinhuanet.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "新闻",
+    "资讯",
+    "新华网",
+    "xinhuanet",
+    "xinhua",
+    "xinhuanet.com"
+  ],
+  "aliases": [
+    "xinhuanet",
+    "xinhua"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.xinhuanet.xhxw",
+      "appstore_track": "https://apps.apple.com/cn/app/%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%BC%95%E9%A2%86%E5%93%81%E8%B4%A8%E9%98%85%E8%AF%BB/id503070194?uo=4",
+      "bytes": 7421,
+      "collection": "轻量矢量替换",
+      "file": "xinhuanet.svg",
+      "id": 1493,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "xinhuanet.svg",
+        "original_is_default": true,
+        "original_slug": "xinhuanet"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "d270ea3a9c90fd986a946816cee1337fff3625f46e5b0f608d54cef0ebddf6f1",
+        "previous_bytes": 292467,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c4/5c/8cc45c0f-ef7f-f552-0e45-10a0f60ccc1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c4/5c/8cc45c0f-ef7f-f552-0e45-10a0f60ccc1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "0497057316b5ebfab65e5647701f241a115b20dbee89359ee61a747249a9ff8c",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/c4/5c/8cc45c0f-ef7f-f552-0e45-10a0f60ccc1f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

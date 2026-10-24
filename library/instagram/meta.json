@@ -1,0 +1,133 @@
+{
+  "collection_id": 213,
+  "schema_version": 1,
+  "id": 310,
+  "title": "Instagram",
+  "url": "https://instagram.com",
+  "domains": [
+    "instagram.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "Instagram",
+    "instagram.com"
+  ],
+  "aliases": [
+    "instagram"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7392,
+      "collection": "theSVG",
+      "file": "instagram.svg",
+      "id": 767,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instagram.svg",
+        "original_is_default": true,
+        "original_slug": "instagram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7149,
+        "previous_sha256": "3c64bc47db695016e085a9bed601f98c821c3beeb74f2b3a0ab90f65aa6a81d8",
+        "ratio": 0.2
+      },
+      "sha256": "09e8338aa533e088e6aaf031b8b4214f3d27ff8e8d222aa79db759447eb87989",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/instagram/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1882,
+      "collection": "theSVG",
+      "file": "instagram-1.svg",
+      "id": 768,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instagram-1.svg",
+        "original_is_default": false,
+        "original_slug": "instagram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1657,
+        "previous_sha256": "2013f1b944f5f74124bd7b463dadd8eef6039abef10619776b19ff3bcdc7efb3",
+        "ratio": 0.2
+      },
+      "sha256": "5f121408088b37ddec4e2cbc86beae26bc130334ca41199786d26d78379e2eb4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/instagram-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6981,
+      "collection": "theSVG",
+      "file": "instagram-2.svg",
+      "id": 769,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instagram-2.svg",
+        "original_is_default": false,
+        "original_slug": "instagram"
+      },
+      "sha256": "df1b8cf4a7aa84a6e65ebc6eb4dc324c5675c41725dbfc379cc055ee0db0d733",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/instagram/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2427,
+      "collection": "theSVG",
+      "file": "instagram-3.svg",
+      "id": 770,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instagram-3.svg",
+        "original_is_default": false,
+        "original_slug": "instagram"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2194,
+        "previous_sha256": "3ce648253a23d699acb9094a9f8dc548be5f8bbd6249a818e648ac90f27a0812",
+        "ratio": 0.2
+      },
+      "sha256": "0ed8c13c4988db54aaaa3e49ebe6258ea0ad5963ca22ab6f4dff94b4490549a4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/instagram/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 5233,
+      "collection": "SVGL",
+      "file": "instagram-4.svg",
+      "id": 771,
+      "is_default": false,
+      "label": "instagram-wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instagram-4.svg",
+        "original_is_default": false,
+        "original_slug": "instagram"
+      },
+      "sha256": "b2998a15aad7196c5beed54451cc9ac00ddbf47ccb89cecaaf74ea8656a3c962",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/instagram-wordmark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

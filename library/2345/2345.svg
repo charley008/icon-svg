@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" shape-rendering="crispEdges" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <title>2345</title>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M23 116 115 35Q128 24 141 35L233 116" stroke="#32b843" stroke-width="18" />
+    <path d="M57 84V48H80" stroke="#32b843" stroke-width="14" />
+    <path d="M20 157C20 138 60 138 60 159C60 170 51 177 40 185L20 205V214H62" stroke="#ed353c" stroke-width="13" />
+    <path d="M80 148H108Q119 148 119 162Q119 179 100 179H90M100 179Q121 179 121 197Q121 214 106 214H80" stroke="#ff981b" stroke-width="13" />
+    <path d="M164 148 139 190H178M166 170V214" stroke="#30ae48" stroke-width="13" />
+    <path d="M234 148H197V177H218Q237 177 237 195Q237 214 219 214H196" stroke="#178ce2" stroke-width="13" />
+  </g>
+</g></svg>

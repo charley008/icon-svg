@@ -1,0 +1,14 @@
+.git
+data
+bin
+dist
+*.exe
+.env
+*_test.go
+README.md
+PROJECT_LOG.md
+DECISIONS.md
+
+library/.library.lock
+library/.pending.json
+library/**/.tmp-*

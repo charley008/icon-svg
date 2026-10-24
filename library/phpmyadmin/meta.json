@@ -1,0 +1,43 @@
+{
+  "title": "phpMyAdmin",
+  "url": "https://www.phpmyadmin.net/",
+  "domains": [
+    "www.phpmyadmin.net"
+  ],
+  "description": "网页 MySQL 数据库管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "MySQL",
+    "数据库管理",
+    "phpMyAdmin"
+  ],
+  "aliases": [
+    "phpmyadmin",
+    "MySQL",
+    "数据库管理",
+    "phpMyAdmin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "phpmyadmin.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "fc9ecb375642e289e309c74fc5651eaa1b4352e943fb1c6ff237ba357d600eeb",
+      "bytes": 13376,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phpmyadmin.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg-cleaned",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "phpmyadmin.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved. Converted physical dimensions to equivalent 96 DPI viewBox."
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

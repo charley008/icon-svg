@@ -1,0 +1,43 @@
+{
+  "title": "Vultr",
+  "url": "https://www.vultr.com/",
+  "domains": [
+    "www.vultr.com"
+  ],
+  "description": "云计算服务商。",
+  "category": "云服务",
+  "tags": [
+    "云主机",
+    "VPS",
+    "服务器",
+    "Vultr"
+  ],
+  "aliases": [
+    "vultr",
+    "云主机",
+    "VPS",
+    "服务器"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "vultr.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "4b588cfd3df19e65f590e2938610747defa497945b2e5f2f0bad2f1a6940bf63",
+      "bytes": 772,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vultr.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "vultr.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

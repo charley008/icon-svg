@@ -1,0 +1,77 @@
+{
+  "collection_id": 357,
+  "schema_version": 1,
+  "id": 488,
+  "title": "什么值得买",
+  "url": "https://smzdm.com",
+  "domains": [
+    "smzdm.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "什么值得买",
+    "smzdm",
+    "zhidemai",
+    "smzdm.com"
+  ],
+  "aliases": [
+    "smzdm",
+    "zhidemai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3080,
+      "collection": "GoTab 公开资源库",
+      "file": "smzdm.svg",
+      "gotab_id": 97,
+      "id": 1221,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "smzdm-1.svg",
+        "original_is_default": true,
+        "original_slug": "smzdm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2858,
+        "previous_sha256": "ff802605333279a40d1971ea7a05e34315eb3a81156e29e3c252c26765371387",
+        "ratio": 0.2
+      },
+      "sha256": "d25fc0991b42974ed431945019b991d478b99fb1ba2ebe062aa57c65ed3a0ee4",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HPXSSXK4Q86TVNNCATD49X.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1236,
+      "collection": "已有图标",
+      "file": "smzdm-1.svg",
+      "id": 1222,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "smzdm.svg",
+        "original_is_default": false,
+        "original_slug": "smzdm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1003,
+        "previous_sha256": "b96ea2f70490f0eb13de219d16d9d82edf2b4d9c1f9e07ec7dc9edf1cdab366b",
+        "ratio": 0.2
+      },
+      "sha256": "3ed61ea075e2eff8a042ca8c664a8239a78ecdcf78212eb9a34cd8d11d81b9cf",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#smzdm",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

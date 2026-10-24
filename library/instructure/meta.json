@@ -1,0 +1,142 @@
+{
+  "collection_id": 214,
+  "schema_version": 1,
+  "id": 311,
+  "title": "Instructure / Canvas",
+  "url": "https://instructure.com",
+  "domains": [
+    "instructure.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "全球Top100",
+    "教育",
+    "科研",
+    "Instructure / Canvas",
+    "instructure",
+    "canvas",
+    "canvas-lms",
+    "instructure.com"
+  ],
+  "aliases": [
+    "instructure",
+    "canvas",
+    "canvas-lms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 612,
+      "collection": "theSVG",
+      "file": "instructure.svg",
+      "id": 772,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instructure.svg",
+        "original_is_default": true,
+        "original_slug": "instructure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 379,
+        "previous_sha256": "3e8c40b7612528cfc917c3cdf54db37d626b492f9add48ac1f03101b97bd99f7",
+        "ratio": 0.2
+      },
+      "sha256": "aeaae89bda2b9b7fe6a702b1d5ccbab48954c896720bfce247399e8d40c694ca",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/instructure/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2669,
+      "collection": "theSVG",
+      "file": "instructure-1.svg",
+      "id": 773,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instructure-1.svg",
+        "original_is_default": false,
+        "original_slug": "instructure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2436,
+        "previous_sha256": "4bfba7e44d991c66a33a2904600d60d35f2ca6fb1d4ca9d42561b5c21cb69f67",
+        "ratio": 0.2
+      },
+      "sha256": "952d843a15cbed8fe32dc2fb01666db3887ac8859dfc425192bbe88f2d58188c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/canvas/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 612,
+      "collection": "theSVG",
+      "file": "instructure-2.svg",
+      "id": 774,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instructure-2.svg",
+        "original_is_default": false,
+        "original_slug": "instructure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 379,
+        "previous_sha256": "4bb7090fa53c515473b52415b3507fab6ecf18b33ddf47cebcbe38a184455207",
+        "ratio": 0.2
+      },
+      "sha256": "f509f70ce807993297264c29fb0f37343d8ecbd7992cc959dd313aed71c3609d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/instructure/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2669,
+      "collection": "theSVG",
+      "file": "instructure-3.svg",
+      "id": 775,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instructure-3.svg",
+        "original_is_default": false,
+        "original_slug": "instructure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2436,
+        "previous_sha256": "7becf48f32fbe10c9a85218c6903332e9141eafa09356f53e8b035ffab21926f",
+        "ratio": 0.2
+      },
+      "sha256": "796a239a0ec75dbd7a87225e4b03fb3c12dba2ab6f7c7a7251b9b0c5703739d1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/canvas/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1988,
+      "collection": "Dashboard Icons",
+      "file": "instructure-4.svg",
+      "id": 776,
+      "is_default": false,
+      "label": "canvas-lms",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instructure-4.svg",
+        "original_is_default": false,
+        "original_slug": "instructure"
+      },
+      "sha256": "7e74de1d1ef9f2372716445e759b2e049d694c56b3b23e75f3cb491a4ca035fb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/canvas-lms.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 307,
+  "schema_version": 1,
+  "id": 434,
+  "title": "Pexels",
+  "url": "https://pexels.com",
+  "domains": [
+    "pexels.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Pexels",
+    "pexels.com"
+  ],
+  "aliases": [
+    "pexels"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1491,
+      "collection": "GoTab 公开资源库",
+      "file": "pexels.svg",
+      "gotab_id": 111,
+      "id": 1101,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pexels.svg",
+        "original_is_default": true,
+        "original_slug": "pexels"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1269,
+        "previous_sha256": "15c32f5156c4f6f22d292e7ad7115d091a4deffc2f288fb4ea68d5d79fa3f423",
+        "ratio": 0.2
+      },
+      "sha256": "53d2a70471ddf168b91efce61901ffcf8559bf846bff67ef92f826bceadef5e7",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PHB7C0ZNG10FDJWWVRJ00M.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "ZeroTier",
+  "url": "https://www.zerotier.com/",
+  "domains": [
+    "www.zerotier.com"
+  ],
+  "description": "虚拟组网与远程访问服务。",
+  "category": "网络工具",
+  "tags": [
+    "虚拟网络",
+    "组网",
+    "远程访问",
+    "ZeroTier"
+  ],
+  "aliases": [
+    "zerotier",
+    "虚拟网络",
+    "组网",
+    "远程访问"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "zerotier.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "0c013ef08df0f91bb5bd4f0237518f0c12c1387eda23bc6c82c59a8a2780f940",
+      "bytes": 471,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zerotier.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "zerotier.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

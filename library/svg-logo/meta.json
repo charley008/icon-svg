@@ -1,0 +1,51 @@
+{
+  "collection_id": 375,
+  "schema_version": 1,
+  "id": 508,
+  "title": "SVG Logo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "用户优选",
+    "自用",
+    "设计",
+    "素材",
+    "SVG Logo",
+    "svg-logo"
+  ],
+  "aliases": [
+    "svg-logo"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1246,
+      "collection": "用户优选",
+      "file": "svg-logo.svg",
+      "id": 1282,
+      "is_default": true,
+      "label": "svg-logo",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "svg-logo.svg",
+        "original_is_default": true,
+        "original_slug": "svg-logo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1023,
+        "previous_sha256": "9f47e68015e29b6cd2a37e46e4d00d4b4b5d1ea3fcaca9c08257ade8ed4b8a34",
+        "ratio": 0.2
+      },
+      "sha256": "6b66ed73063afcc699dcc339e0749627f7caf70e34294a0f57fcf73988dbcd44",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

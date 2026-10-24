@@ -1,0 +1,132 @@
+{
+  "collection_id": 64,
+  "schema_version": 1,
+  "id": 111,
+  "title": "Brave",
+  "url": "https://brave.com",
+  "domains": [
+    "brave.com"
+  ],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "全球App补充",
+    "浏览器",
+    "网页浏览",
+    "Brave",
+    "brave.com"
+  ],
+  "aliases": [
+    "brave"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2440,
+      "collection": "theSVG",
+      "file": "brave.svg",
+      "id": 272,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brave.svg",
+        "original_is_default": true,
+        "original_slug": "brave"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2207,
+        "previous_sha256": "76f2a4fbec0cac080a7dd49e12e6ab46577b314c6f71144dd1ad68b4845dd3bd",
+        "ratio": 0.2
+      },
+      "sha256": "d70e0aa5456e88fa841054a53b3c6490925f757a25467966baed764319109e31",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/brave/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3770,
+      "collection": "theSVG",
+      "file": "brave-1.svg",
+      "id": 273,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brave-1.svg",
+        "original_is_default": false,
+        "original_slug": "brave"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3545,
+        "previous_sha256": "c22cd0f796e3c1008e1029a017cf7f0406db224c09cde92c0010f9025bf46b8e",
+        "ratio": 0.2
+      },
+      "sha256": "aca1ac2a82f4ecf7e7fbf2ef3508f11fd69018e6893ba69dd1b7dbbd2f9ccba2",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/brave-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2440,
+      "collection": "theSVG",
+      "file": "brave-2.svg",
+      "id": 274,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brave-2.svg",
+        "original_is_default": false,
+        "original_slug": "brave"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2207,
+        "previous_sha256": "5d5abd27a273274b632b8d000b79f37140ed48bc43ce74b543dbcf151fd39f98",
+        "ratio": 0.2
+      },
+      "sha256": "7757fee706a89bbf17ea550a3ebf96630c7bc0919fa22c1cd0f80329f254fa2b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/brave/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 7798,
+      "collection": "SVGL",
+      "file": "brave-3.svg",
+      "id": 275,
+      "is_default": false,
+      "label": "brave",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brave-3.svg",
+        "original_is_default": false,
+        "original_slug": "brave"
+      },
+      "sha256": "5cab5b5970f562dc2958c1777fbdd37c6c4e889efecf05ac53ed25d87f7de914",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/brave.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3203,
+      "collection": "Dashboard Icons",
+      "file": "brave-4.svg",
+      "id": 276,
+      "is_default": false,
+      "label": "brave",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brave-4.svg",
+        "original_is_default": false,
+        "original_slug": "brave"
+      },
+      "sha256": "8449c912107649f25e1f19edb1c533e579db2b43a10150bace4d983eff0af362",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/brave.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Floorp",
+  "url": "https://floorp.app/",
+  "domains": [
+    "floorp.app"
+  ],
+  "description": "网页浏览器。",
+  "category": "浏览器",
+  "tags": [
+    "浏览器",
+    "Firefox",
+    "Floorp"
+  ],
+  "aliases": [
+    "floorp",
+    "浏览器",
+    "Firefox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "floorp.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "1fecfaa97e9b8073aec7eb1cc46d7d5150193534099d474ad5bcbdd0bce151da",
+      "bytes": 30345,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/floorp.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg-cleaned",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "floorp.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

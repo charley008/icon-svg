@@ -1,0 +1,161 @@
+{
+  "collection_id": 134,
+  "schema_version": 1,
+  "id": 205,
+  "title": "DuckDuckGo",
+  "url": "https://duckduckgo.com",
+  "domains": [
+    "duckduckgo.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "全球Top100",
+    "搜索",
+    "导航",
+    "DuckDuckGo",
+    "duckduckgo.com"
+  ],
+  "aliases": [
+    "duckduckgo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4216,
+      "collection": "已有图标",
+      "file": "duckduckgo.svg",
+      "id": 502,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckduckgo.svg",
+        "original_is_default": true,
+        "original_slug": "duckduckgo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3994,
+        "previous_sha256": "22155c70e316d5fc1ae2c8940f9bcff0d837b8307f219c6410ced9b9d1211f62",
+        "ratio": 0.2
+      },
+      "sha256": "4c5a030072c783022b3af24a523d5a4e33dbf9318f06fad2ab61d2104defaf85",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/duckduckgo/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5380,
+      "collection": "GoTab 公开资源库",
+      "file": "duckduckgo-1.svg",
+      "gotab_id": 330,
+      "id": 503,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "duckduckgo-1.svg",
+        "original_is_default": false,
+        "original_slug": "duckduckgo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5158,
+        "previous_sha256": "5707625c75951ab056d5385a7a568719b49fc6be54f002a79e2424437ccd0930",
+        "ratio": 0.2
+      },
+      "sha256": "c60e03dc78f64c35805bd722076224001fd9b9d1fec0102c5d7580787393c522",
+      "source": "https://web.gotab.cn/sourceStore/website/01M4REVPVXMY8SSJCXXGWTQCQQ.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6522,
+      "collection": "已有图标",
+      "file": "duckduckgo-2.svg",
+      "id": 504,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckduckgo-2.svg",
+        "original_is_default": false,
+        "original_slug": "duckduckgo"
+      },
+      "sha256": "522015fd640b9a4e26a73a1ecdb90f69109ea742bb9a0a12e20933fb326d286a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/duckduckgo/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2989,
+      "collection": "已有图标",
+      "file": "duckduckgo-3.svg",
+      "id": 505,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckduckgo-3.svg",
+        "original_is_default": false,
+        "original_slug": "duckduckgo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2756,
+        "previous_sha256": "9412098dc1935aacb675b1cd5993d04eb9b74c84693e15a3b2b30fc81c88ee0c",
+        "ratio": 0.2
+      },
+      "sha256": "99a95e145b37d0cd2570497ae48452dd60204daa780f431a604edf68fef9c1b4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/duckduckgo/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 5505,
+      "collection": "已有图标",
+      "file": "duckduckgo-4.svg",
+      "id": 506,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckduckgo-4.svg",
+        "original_is_default": false,
+        "original_slug": "duckduckgo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5282,
+        "previous_sha256": "f8f5c45659bd4ab6e64c89105afdb1f0b4c77fe44242b7b826112599ff6bda0a",
+        "ratio": 0.2
+      },
+      "sha256": "80911fc4637e0a30e12f25a5cd9a39ba0040461a16f973d4ef9af640e19bc5b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duckduckgo.svg",
+      "version": 4
+    },
+    {
+      "bytes": 2989,
+      "collection": "已有图标",
+      "file": "duckduckgo-5.svg",
+      "id": 507,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckduckgo-5.svg",
+        "original_is_default": false,
+        "original_slug": "duckduckgo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2756,
+        "previous_sha256": "6520de4f3841337bb5b9c97a280b665b78deefce1c2444dd06009d7084a63ddc",
+        "ratio": 0.2
+      },
+      "sha256": "4f35759ff396ae17fa479309d5e3ab0b1610154fd09277e9d88d8e4b72efaed2",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckduckgo.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

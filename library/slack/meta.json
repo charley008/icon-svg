@@ -1,0 +1,127 @@
+{
+  "collection_id": 356,
+  "schema_version": 1,
+  "id": 487,
+  "title": "Slack",
+  "url": "https://slack.com",
+  "domains": [
+    "slack.com"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球App补充",
+    "办公",
+    "效率工具",
+    "Slack",
+    "slack.com"
+  ],
+  "aliases": [
+    "slack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1517,
+      "collection": "theSVG",
+      "file": "slack.svg",
+      "id": 1216,
+      "is_default": true,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slack.svg",
+        "original_is_default": true,
+        "original_slug": "slack"
+      },
+      "sha256": "d960572bf03a49784ebd12471a0eb302fd606cd879977fbd5baa4850909e12b5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/slack/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 954,
+      "collection": "theSVG",
+      "file": "slack-1.svg",
+      "id": 1217,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slack-1.svg",
+        "original_is_default": false,
+        "original_slug": "slack"
+      },
+      "rounded_corners": {
+        "previous_bytes": 729,
+        "previous_sha256": "cdae81fe1f3cc9ebeb503dc2bd749bf1bd68c8ba5c569668953b556a1c3fa278",
+        "ratio": 0.2
+      },
+      "sha256": "de20483a6660691b1871a5571cf4a9a3a349f2085da6f08d4ee8b9be03327c3e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/slack-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2498,
+      "collection": "theSVG",
+      "file": "slack-2.svg",
+      "id": 1218,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slack-2.svg",
+        "original_is_default": false,
+        "original_slug": "slack"
+      },
+      "sha256": "ea17384af26c89122529036f5a6afb2997813d217709c75ff7aa179f3d36a7b9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/slack/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2130,
+      "collection": "SVGL",
+      "file": "slack-3.svg",
+      "id": 1219,
+      "is_default": false,
+      "label": "slack-wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slack-3.svg",
+        "original_is_default": false,
+        "original_slug": "slack"
+      },
+      "sha256": "ffe0212ff238b59df2c59308b0cd3d176d842bac8472bdfc5a3d121b9df9af34",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/slack-wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1287,
+      "collection": "Dashboard Icons",
+      "file": "slack-4.svg",
+      "id": 1220,
+      "is_default": false,
+      "label": "slack",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slack-4.svg",
+        "original_is_default": false,
+        "original_slug": "slack"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1064,
+        "previous_sha256": "b2196109f58e3269c2827f009f9adf4180814f2b886b2758dc4ddd239db8d1db",
+        "ratio": 0.2
+      },
+      "sha256": "573557fc0aa6d3be3324c87793bf323644a19ebd186a36e58a3049dd145b5694",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/slack.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

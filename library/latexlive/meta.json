@@ -1,0 +1,51 @@
+{
+  "collection_id": 234,
+  "schema_version": 1,
+  "id": 334,
+  "title": "LaTeX Live",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "用户优选",
+    "自用",
+    "办公",
+    "效率工具",
+    "LaTeX Live",
+    "latexlive"
+  ],
+  "aliases": [
+    "latexlive"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 886,
+      "collection": "用户优化 SVG",
+      "file": "latexlive.svg",
+      "id": 828,
+      "is_default": true,
+      "label": "latexlive",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "latexlive.svg",
+        "original_is_default": true,
+        "original_slug": "latexlive"
+      },
+      "rounded_corners": {
+        "previous_bytes": 664,
+        "previous_sha256": "7509451ce4dcbb70d609e5869185d2c93b83cf6b221fccf72fa709f555ebcc9c",
+        "ratio": 0.2
+      },
+      "sha256": "4b726b6b55b99ff9fe11c9a492df9132c9c52c17041eeb76accc3dbcb295a172",
+      "source": "用户确认矢量候选：latexlive.svg；Photos六圆花环、LaTeXLive渐变折页、汽车之家复用已有矢量字标重新排版；256x256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

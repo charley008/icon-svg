@@ -1,0 +1,50 @@
+{
+  "collection_id": 37,
+  "schema_version": 1,
+  "id": 72,
+  "title": "Apifox",
+  "url": "https://apifox.com",
+  "domains": [
+    "apifox.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "Apifox",
+    "apifox.com"
+  ],
+  "aliases": [
+    "apifox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4208,
+      "collection": "GoTab 公开资源库",
+      "file": "apifox.svg",
+      "gotab_id": 79,
+      "id": 175,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "apifox.svg",
+        "original_is_default": true,
+        "original_slug": "apifox"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3986,
+        "previous_sha256": "adc48839b73d64787ff67ba600f6bc4b58ad27a9ed9256d7a0ec1c4df766224e",
+        "ratio": 0.2
+      },
+      "sha256": "7cfce1351a3b6482971d2a5b239c0d1459018d3dca9b73d16bb808f3f38db903",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HMQT5WX0QYATFRR45VP9F4.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

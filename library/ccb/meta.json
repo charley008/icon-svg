@@ -1,0 +1,93 @@
+{
+  "collection_id": 72,
+  "schema_version": 1,
+  "id": 137,
+  "title": "建设银行",
+  "url": "https://ccb.com",
+  "domains": [
+    "ccb.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "建设银行",
+    "ccb",
+    "china-construction-bank",
+    "ccb.com"
+  ],
+  "aliases": [
+    "ccb",
+    "china-construction-bank"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 858,
+      "collection": "SVGLOGO",
+      "file": "ccb.svg",
+      "id": 354,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ccb.svg",
+        "original_is_default": true,
+        "original_slug": "ccb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 636,
+        "previous_sha256": "031dff8187c2d65972149ec18ace2304fa2fd96d7cc7b25aeedeeced074bdd4a",
+        "ratio": 0.2
+      },
+      "sha256": "5f01ed19ef915c54032a65004d9656e33f760ce8d236612c55c7a1cd7d53f48a",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/CCB.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9547,
+      "collection": "SVGLOGO",
+      "file": "ccb-1.svg",
+      "id": 355,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ccb-1.svg",
+        "original_is_default": false,
+        "original_slug": "ccb"
+      },
+      "sha256": "08f339bb48f799dedb195f13e47786dbbd1588353f01ad554ab0c8a1bc29638d",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/CCB_wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 736,
+      "collection": "Iconify / arcticons",
+      "file": "ccb-2.svg",
+      "id": 356,
+      "is_default": false,
+      "label": "china-construction-bank",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ccb-2.svg",
+        "original_is_default": false,
+        "original_slug": "ccb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 503,
+        "previous_sha256": "f55c1be67dd9f13ffd6768953ab32f08862b2b9b76484a43c68e4b1e694d9c41",
+        "ratio": 0.2
+      },
+      "sha256": "3e32d7a39d4228a026301fb7e6d727c32c7c3138958d90f7e512fbaa5d0b58ec",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#china-construction-bank",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

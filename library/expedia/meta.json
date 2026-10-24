@@ -1,0 +1,95 @@
+{
+  "collection_id": 150,
+  "schema_version": 1,
+  "id": 221,
+  "title": "Expedia",
+  "url": "https://expedia.com",
+  "domains": [
+    "expedia.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球App补充",
+    "出行",
+    "Expedia",
+    "expedia.com"
+  ],
+  "aliases": [
+    "expedia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1008,
+      "collection": "theSVG",
+      "file": "expedia.svg",
+      "id": 553,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "expedia.svg",
+        "original_is_default": true,
+        "original_slug": "expedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 775,
+        "previous_sha256": "f19e4f86c3161cf688ef5daaf957d21a7278eada20da2a64b5c53c9beba82e8a",
+        "ratio": 0.2
+      },
+      "sha256": "13cca6dda4056f233bdb1637c09545acd9269386d735c1c37775548ed7afaf5f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/expedia/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1008,
+      "collection": "theSVG",
+      "file": "expedia-1.svg",
+      "id": 554,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "expedia-1.svg",
+        "original_is_default": false,
+        "original_slug": "expedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 775,
+        "previous_sha256": "a074c2bbade86278f01f0a27b6dfe42e04f2ca50b39bfe98dba107aa6e3ab49a",
+        "ratio": 0.2
+      },
+      "sha256": "5fd951708a2fc1d329d89a5e05c7d727928d17d1b326508614b546ca010adebf",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/expedia/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 868,
+      "collection": "Iconify / arcticons",
+      "file": "expedia-2.svg",
+      "id": 555,
+      "is_default": false,
+      "label": "expedia",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "expedia-2.svg",
+        "original_is_default": false,
+        "original_slug": "expedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 635,
+        "previous_sha256": "f9892b46351393fe71a74d27751a12d923050ba5e5254686c2000171dd1b543d",
+        "ratio": 0.2
+      },
+      "sha256": "7aee6a82f30e7f8aae23ec0735f08980a520a6b51bd60d45bdd46752573767ef",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#expedia",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

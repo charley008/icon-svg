@@ -1,0 +1,51 @@
+{
+  "collection_id": 76,
+  "schema_version": 1,
+  "id": 144,
+  "title": "CG Goat",
+  "url": "https://cggoat.com",
+  "domains": [
+    "cggoat.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "CG Goat",
+    "cggoat",
+    "cggoat.com"
+  ],
+  "aliases": [
+    "cggoat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1869,
+      "collection": "GoTab 公开资源库",
+      "file": "cggoat.svg",
+      "gotab_id": 143,
+      "id": 368,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cggoat.svg",
+        "original_is_default": true,
+        "original_slug": "cggoat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1647,
+        "previous_sha256": "6784b2b3803a14bc52b26f0aa0e56c125b6248ee64d373f146598bb597f5da6c",
+        "ratio": 0.2
+      },
+      "sha256": "898fbc18ab498ace789e44d224b7347aedf9a13df0dd39653ed9bb34fd69d2ba",
+      "source": "https://web.gotab.cn/uploads/202410/01JA4XJ3R2KC43YYAD7CJV2J6T.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

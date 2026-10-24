@@ -1,0 +1,57 @@
+{
+  "collection_id": 195,
+  "schema_version": 1,
+  "id": 291,
+  "title": "花椒直播",
+  "url": "https://huajiao.com",
+  "domains": [
+    "huajiao.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "影音",
+    "花椒直播",
+    "huajiao",
+    "huajiao.com"
+  ],
+  "aliases": [
+    "huajiao"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 591,
+      "collection": "轻量矢量替换",
+      "file": "huajiao.svg",
+      "id": 720,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "huajiao.svg",
+        "original_is_default": true,
+        "original_slug": "huajiao"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "bc9eb0d5454632e25bf89318d71743c4e6973f5a8adca89436ae55deac20f902",
+        "previous_bytes": 604221,
+        "previous_method": "traced-detail",
+        "previous_source": "https://file-7.huajiao.com/web_static/favicon-32x32.png",
+        "reference": "https://file-7.huajiao.com/web_static/favicon-32x32.png",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "bf1a60763edae73493e36dba0b9456966f68c1ee01188b5f471f4e60401b83b1",
+      "source": "https://file-7.huajiao.com/web_static/favicon-32x32.png",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

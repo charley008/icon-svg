@@ -1,0 +1,52 @@
+{
+  "collection_id": 182,
+  "schema_version": 1,
+  "id": 278,
+  "title": "观察者网",
+  "url": "https://guancha.cn",
+  "domains": [
+    "guancha.cn"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "新闻",
+    "资讯",
+    "观察者网",
+    "guancha",
+    "guancha.cn"
+  ],
+  "aliases": [
+    "guancha"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5448,
+      "collection": "GoTab 公开资源库",
+      "file": "guancha.svg",
+      "gotab_id": 32,
+      "id": 701,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "guancha-1.svg",
+        "original_is_default": true,
+        "original_slug": "guancha"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5226,
+        "previous_sha256": "bb6f75319692c2da408eecc767d23c4b6eb2e1c1231b6e0ce3a712516a875953",
+        "ratio": 0.2
+      },
+      "sha256": "8ab1ccb0b13e82afaa6044f31d93ba13aa86dcdd4bf77cb9607f0af2d75c141f",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HBH9064MVHPTYWA8MYCM54.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

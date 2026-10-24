@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="_图层_1" data-name="图层 1" viewBox="0 0 200 200" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="_未命名的渐变" data-name="未命名的渐变" x1="22.67" y1="180.8" x2="35.02" y2="169.78" gradientTransform="translate(-180.6834 1710.5948) scale(10.4005 -9.2774)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_2" data-name="未命名的渐变 2" x1="22.67" y1="180.8" x2="35.02" y2="169.78" gradientTransform="translate(-180.6834 1710.5948) scale(10.4005 -9.2774)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="23.79" y1="181.03" x2="37.63" y2="170.29" gradientTransform="translate(-183.3163 1486.2983) scale(10.4005 -8.0766)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_4" data-name="未命名的渐变 4" x1="27.8" y1="181.23" x2="36.01" y2="165.86" gradientTransform="translate(-103.3085 2134.9648) scale(6.2409 -11.6803)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_5" data-name="未命名的渐变 5" x1="20.96" y1="176.82" x2="33.31" y2="165.8" gradientTransform="translate(-197.452 1708.1949) scale(10.4005 -9.2774)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_6" data-name="未命名的渐变 6" x1="18.4" y1="174.23" x2="32.24" y2="163.49" gradientTransform="translate(-194.8202 1499.0146) scale(10.4005 -8.0766)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_7" data-name="未命名的渐变 7" x1="28.23" y1="183.49" x2="36.44" y2="168.12" gradientTransform="translate(-95.9628 2151.2874) scale(6.2409 -11.6803)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082dff" />
+      <stop offset="1" stop-color="#3fd2f9" />
+    </linearGradient>
+  </defs>
+  <path d="M171.95,111.54l-20.77-12c.51-.89.79-1.9.79-2.96v-6.42c0-2.11-1.13-4.06-2.96-5.12l-5.56-3.21c-1.83-1.06-4.08-1.06-5.9,0l-17.03,9.83c-1.83,1.06-2.96,3-2.96,5.12v6.42c0,2.11,1.13,4.06,2.96,5.12l39.97,23.08c1.83,1.06,4.08,1.06,5.9,0l5.56-3.21c1.83-1.06,2.96-3,2.96-5.12v-6.42c0-2.11-1.13-4.06-2.96-5.12h0Z" style="fill: url(#_未命名的渐变);" />
+  <path d="M171.95,111.54l-20.77-12c.51-.89.79-1.9.79-2.96v-6.42c0-2.11-1.13-4.06-2.96-5.12l-5.56-3.21c-1.83-1.06-4.08-1.06-5.9,0l-17.03,9.83c-1.83,1.06-2.96,3-2.96,5.12v6.42c0,2.11,1.13,4.06,2.96,5.12l39.97,23.08c1.83,1.06,4.08,1.06,5.9,0l5.56-3.21c1.83-1.06,2.96-3,2.96-5.12v-6.42c0-2.11-1.13-4.06-2.96-5.12h0Z" style="fill: url(#_未命名的渐变_2);" />
+  <path d="M145.96,43.46l-20.77,12c-.51-.89-1.24-1.63-2.16-2.16l-5.56-3.21c-1.83-1.06-4.08-1.06-5.91,0l-5.56,3.21c-1.83,1.06-2.96,3-2.96,5.12v19.67c0,2.11,1.13,4.06,2.96,5.12l5.56,3.21c1.83,1.06,4.08,1.06,5.9,0l39.97-23.08c1.83-1.06,2.96-3,2.96-5.12v-6.42c0-2.11-1.13-4.06-2.96-5.12l-5.56-3.21c-1.83-1.06-4.08-1.06-5.9,0h0Z" style="fill: url(#_未命名的渐变_3);" />
+  <path d="M74.02,31.93v23.99c-1.02,0-2.04.26-2.96.79l-5.56,3.21c-1.83,1.06-2.96,3-2.96,5.12v6.42c0,2.11,1.13,4.06,2.96,5.12l17.03,9.83c1.83,1.06,4.08,1.06,5.91,0l5.56-3.21c1.83-1.06,2.96-3,2.96-5.12V31.93c0-2.11-1.13-4.06-2.96-5.12l-5.56-3.21c-1.83-1.06-4.08-1.06-5.9,0l-5.56,3.21c-1.83,1.06-2.96,3-2.96,5.12h0Z" style="fill: url(#_未命名的渐变_4);" />
+  <path d="M28.05,88.46l20.77,12c-.51.89-.79,1.9-.79,2.96v6.42c0,2.11,1.13,4.06,2.96,5.12l5.56,3.21c1.83,1.06,4.08,1.06,5.9,0l17.03-9.83c1.83-1.06,2.96-3,2.96-5.12v-6.42c0-2.11-1.13-4.06-2.96-5.12l-39.97-23.08c-1.83-1.06-4.08-1.06-5.9,0l-5.56,3.21c-1.83,1.05-2.96,3-2.96,5.11v6.42c0,2.11,1.13,4.06,2.96,5.12Z" style="fill: url(#_未命名的渐变_5);" />
+  <path d="M54.03,156.54l20.77-12c.51.89,1.24,1.63,2.16,2.16l5.56,3.21c1.83,1.06,4.08,1.06,5.9,0l5.56-3.21c1.83-1.06,2.96-3,2.96-5.12v-19.67c0-2.11-1.13-4.06-2.96-5.12l-5.56-3.21c-1.83-1.06-4.08-1.06-5.9,0l-39.97,23.08c-1.83,1.06-2.96,3-2.96,5.12v6.42c0,2.11,1.13,4.06,2.96,5.12l5.56,3.21c1.83,1.06,4.08,1.06,5.91,0h0Z" style="fill: url(#_未命名的渐变_6);" />
+  <path d="M125.98,168.07v-23.99c1.02,0,2.04-.26,2.96-.79l5.56-3.21c1.83-1.06,2.96-3,2.96-5.12v-6.42c0-2.11-1.13-4.06-2.96-5.12l-17.03-9.83c-1.83-1.06-4.08-1.06-5.9,0l-5.56,3.21c-1.83,1.06-2.96,3-2.96,5.12v46.15c0,2.11,1.13,4.06,2.96,5.12l5.56,3.21c1.83,1.06,4.08,1.06,5.9,0l5.56-3.21c1.83-1.06,2.96-3,2.96-5.12h0Z" style="fill: url(#_未命名的渐变_7);" />
+</svg></g></g></svg>

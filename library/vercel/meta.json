@@ -1,0 +1,166 @@
+{
+  "collection_id": 407,
+  "schema_version": 1,
+  "id": 559,
+  "title": "Vercel",
+  "url": "https://vercel.com",
+  "domains": [
+    "vercel.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "全球App补充",
+    "云计算",
+    "Vercel",
+    "vercel.com"
+  ],
+  "aliases": [
+    "vercel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 206,
+      "collection": "theSVG",
+      "file": "vercel.svg",
+      "id": 1398,
+      "is_default": true,
+      "label": "light",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel.svg",
+        "original_is_default": true,
+        "original_slug": "vercel"
+      },
+      "sha256": "a08aa1d55146004d3768f26257335fed0db44fa326d4e54e7f7a252c3217f038",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/vercel/light.svg",
+      "version": 0
+    },
+    {
+      "bytes": 206,
+      "collection": "theSVG",
+      "file": "vercel-1.svg",
+      "id": 1399,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel-1.svg",
+        "original_is_default": false,
+        "original_slug": "vercel"
+      },
+      "sha256": "b1a4dd05e32f1e0a0954f08e50f0c028ec6f45d6ddb494f4a538bd80c19853c9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/vercel/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3685,
+      "collection": "theSVG",
+      "file": "vercel-2.svg",
+      "id": 1400,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel-2.svg",
+        "original_is_default": false,
+        "original_slug": "vercel"
+      },
+      "sha256": "f425a2a35814e493039f0efa922775e298e4e8ceafd8a3c447969e3b4f7a44a9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/vercel/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2000,
+      "collection": "Iconify / logos",
+      "file": "vercel-3.svg",
+      "id": 1401,
+      "is_default": false,
+      "label": "vercel",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel-3.svg",
+        "original_is_default": false,
+        "original_slug": "vercel"
+      },
+      "sha256": "876bcadb49071d914b1ebeaceb44a528fe4a2770d9cf4d8ec53f49caf8f1ccff",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#vercel",
+      "version": 3
+    },
+    {
+      "bytes": 477,
+      "collection": "Iconify / ri",
+      "file": "vercel-4.svg",
+      "id": 1402,
+      "is_default": false,
+      "label": "vercel-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel-4.svg",
+        "original_is_default": false,
+        "original_slug": "vercel"
+      },
+      "rounded_corners": {
+        "previous_bytes": 244,
+        "previous_sha256": "8d3dfa09a5a56a3a37f58231b42f124b180242358974d4cb15c3e557b30f5e1c",
+        "ratio": 0.2
+      },
+      "sha256": "b09a5d6087ec96d7dd3b35dd9b9c6c7013635e06cb5eeb3fdd747b0b3056eaea",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#vercel-line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 658,
+      "key": "nextjs",
+      "title": "Next.js",
+      "url": "https://nextjs.org/",
+      "domains": [
+        "nextjs.org"
+      ],
+      "description": "Next.js 图标合集。",
+      "category": "开发编程",
+      "tags": [
+        "Next.js",
+        "nextjs",
+        "React",
+        "前端框架",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "aliases": [
+        "nextjs",
+        "NextJS"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1238,
+          "collection": "用户补充 SVG",
+          "file": "vercel-nextjs.svg",
+          "id": 1618,
+          "is_default": true,
+          "label": "nextjs-2",
+          "license": "商标及图形版权归各自权利人；参见素材来源",
+          "method": "downloaded-svg-optimized",
+          "provenance": {
+            "original_file": "nextjs-2.svg",
+            "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nextjs-2.svg"
+          },
+          "sha256": "4b9fcd3e600294c78db2adcc96fa9f56a7a302a47f8fa6e28ed9bf3bf17c3e81",
+          "source": "https://icon.4738.org/icons/HD-Icons/svg/nextjs-2.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

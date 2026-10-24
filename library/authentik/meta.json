@@ -1,0 +1,43 @@
+{
+  "title": "Authentik",
+  "url": "https://goauthentik.io/",
+  "domains": [
+    "goauthentik.io"
+  ],
+  "description": "身份认证与单点登录服务。",
+  "category": "系统工具",
+  "tags": [
+    "身份认证",
+    "SSO",
+    "单点登录",
+    "Authentik"
+  ],
+  "aliases": [
+    "authentik",
+    "身份认证",
+    "SSO",
+    "单点登录"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "authentik.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ccee0489803413294b901233fd6c41a317ad38332927cb1a8464c692543eaa7d",
+      "bytes": 2005,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/authentik.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "authentik.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

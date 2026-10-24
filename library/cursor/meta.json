@@ -1,0 +1,51 @@
+{
+  "collection_id": 106,
+  "schema_version": 1,
+  "id": 176,
+  "title": "Cursor",
+  "url": "https://cursor.com",
+  "domains": [
+    "cursor.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "AI 编程",
+    "代码助手",
+    "Cursor",
+    "cursor.com"
+  ],
+  "aliases": [
+    "cursor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1159,
+      "collection": "GoTab 公开资源库",
+      "file": "cursor.svg",
+      "gotab_id": 312,
+      "id": 428,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cursor.svg",
+        "original_is_default": true,
+        "original_slug": "cursor"
+      },
+      "rounded_corners": {
+        "previous_bytes": 937,
+        "previous_sha256": "85dfb74d36eba95d782d956a9e134cee1f7f4b98b23dc98e870093e8c34504bd",
+        "ratio": 0.2
+      },
+      "sha256": "520f2c1a0afb354469b27616cce146c9b611bd0581efb6ca757564020c92980a",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7ZE8ENHD4G4RXK8X4NVDAE.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

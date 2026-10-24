@@ -1,0 +1,86 @@
+{
+  "collection_id": 415,
+  "schema_version": 1,
+  "id": 568,
+  "title": "Walmart",
+  "url": "https://walmart.com",
+  "domains": [
+    "walmart.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "电商",
+    "购物",
+    "Walmart",
+    "walmart.com"
+  ],
+  "aliases": [
+    "walmart"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1622,
+      "collection": "theSVG",
+      "file": "walmart.svg",
+      "id": 1420,
+      "is_default": true,
+      "label": "default",
+      "license": "Fair Use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "walmart.svg",
+        "original_is_default": true,
+        "original_slug": "walmart"
+      },
+      "sha256": "0f7f5e14d83b00a2a256ae1d978e2e5b844034b420cc1ad7c75e427c8e032030",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/walmart/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1667,
+      "collection": "theSVG",
+      "file": "walmart-1.svg",
+      "id": 1421,
+      "is_default": false,
+      "label": "mono",
+      "license": "Fair Use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "walmart-1.svg",
+        "original_is_default": false,
+        "original_slug": "walmart"
+      },
+      "sha256": "3ea370340bf60ed5518226e1da0d1044a406dbc7495d08dce71b6ed19091cc09",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/walmart/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 599,
+      "collection": "Iconify / arcticons",
+      "file": "walmart-2.svg",
+      "id": 1422,
+      "is_default": false,
+      "label": "walmart",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "walmart-2.svg",
+        "original_is_default": false,
+        "original_slug": "walmart"
+      },
+      "rounded_corners": {
+        "previous_bytes": 366,
+        "previous_sha256": "6e327bbfc907b025cfc1d8504ff166d456215c4dc5262e078c4136246ad4701c",
+        "ratio": 0.2
+      },
+      "sha256": "f02e1a1f01c4d0eb06dc1d0b02eaf30f42b5b8194b2f8687a778f9abae370a1d",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#walmart",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

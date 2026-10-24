@@ -1,0 +1,94 @@
+{
+  "collection_id": 270,
+  "schema_version": 1,
+  "id": 388,
+  "title": "MSNBC",
+  "url": "https://msnbc.com",
+  "domains": [
+    "msnbc.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Worldvectorlogo补充",
+    "新闻",
+    "资讯",
+    "MSNBC",
+    "msnbc.com"
+  ],
+  "aliases": [
+    "msnbc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2956,
+      "collection": "Worldvectorlogo",
+      "file": "msnbc.svg",
+      "id": 977,
+      "is_default": true,
+      "label": "msnbc",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "msnbc.svg",
+        "original_is_default": true,
+        "original_slug": "msnbc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2723,
+        "previous_sha256": "f6918779c5dd428f76d4a7c4cfe74381f4beeeecdecacc1abc4c38298dc047b3",
+        "ratio": 0.2
+      },
+      "sha256": "0d6e450e88bdf51f64aa44f2ff9acf317275ae07fa0034e382ac987044698468",
+      "source": "https://cdn.worldvectorlogo.com/logos/msnbc.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/msnbc",
+      "version": 0
+    },
+    {
+      "bytes": 3993,
+      "collection": "Worldvectorlogo",
+      "file": "msnbc-1.svg",
+      "id": 978,
+      "is_default": false,
+      "label": "msnbc-2015-logo",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "msnbc-1.svg",
+        "original_is_default": false,
+        "original_slug": "msnbc"
+      },
+      "sha256": "ed0a5d8bdc9b3c24a830e1e193aea7d4792704a86ce478ac23f26bc562666a7b",
+      "source": "https://cdn.worldvectorlogo.com/logos/msnbc-2015-logo.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/msnbc-2015-logo",
+      "version": 1
+    },
+    {
+      "bytes": 6155,
+      "collection": "Worldvectorlogo",
+      "file": "msnbc-2.svg",
+      "id": 979,
+      "is_default": false,
+      "label": "msnbc-2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "msnbc-2.svg",
+        "original_is_default": false,
+        "original_slug": "msnbc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5922,
+        "previous_sha256": "7e370e3130dd8484dc7a3965c4976924c1e0756fd2c780d948fd68a8d100a63f",
+        "ratio": 0.2
+      },
+      "sha256": "5109e5f6d45059c53310791d65b06f4254d0b11f296a128d5554a6631fec1ee7",
+      "source": "https://cdn.worldvectorlogo.com/logos/msnbc-2.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/msnbc-2",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

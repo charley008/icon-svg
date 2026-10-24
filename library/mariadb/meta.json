@@ -1,0 +1,43 @@
+{
+  "title": "MariaDB",
+  "url": "https://mariadb.org/",
+  "domains": [
+    "mariadb.org"
+  ],
+  "description": "开源关系型数据库。",
+  "category": "开发编程",
+  "tags": [
+    "数据库",
+    "关系型数据库",
+    "MariaDB"
+  ],
+  "aliases": [
+    "mariadb",
+    "数据库",
+    "关系型数据库",
+    "MariaDB",
+    "Database"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "mariadb.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "d576b0a2d83f4035b0e8d02b6534c996ac43f768745e95acd768ab17f8f772dc",
+      "bytes": 2387,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mariadb.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "mariadb.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

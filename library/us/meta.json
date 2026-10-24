@@ -1,0 +1,51 @@
+{
+  "collection_id": 402,
+  "schema_version": 1,
+  "id": 554,
+  "title": "美国旗帜",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "用户优选",
+    "自用",
+    "旗帜",
+    "美国",
+    "美国旗帜",
+    "us"
+  ],
+  "aliases": [
+    "us"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2775,
+      "collection": "用户优化 SVG",
+      "file": "us.svg",
+      "id": 1384,
+      "is_default": true,
+      "label": "us",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "us.svg",
+        "original_is_default": true,
+        "original_slug": "us"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2553,
+        "previous_sha256": "4c0c42a7a8a59b17753439c0c928fabb4489fbe50d9cd509bf143842f50d9361",
+        "ratio": 0.2
+      },
+      "sha256": "172ef087873fb75c5669306eaf2fc3984ed7cdcd36caa13ceb70a0dc7be5f764",
+      "source": "用户确认重绘：圆形美国国旗，浅色圆角底，星星和条纹使用纯矢量轮廓；256x256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

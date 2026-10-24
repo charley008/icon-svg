@@ -1,0 +1,69 @@
+{
+  "collection_id": 263,
+  "schema_version": 1,
+  "id": 380,
+  "title": "Minecraft",
+  "url": "https://minecraft.net",
+  "domains": [
+    "minecraft.net"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Worldvectorlogo补充",
+    "游戏",
+    "Minecraft",
+    "minecraft.net"
+  ],
+  "aliases": [
+    "minecraft"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 860,
+      "collection": "Worldvectorlogo",
+      "file": "minecraft.svg",
+      "id": 958,
+      "is_default": true,
+      "label": "minecraft-launcher",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minecraft.svg",
+        "original_is_default": true,
+        "original_slug": "minecraft"
+      },
+      "rounded_corners": {
+        "previous_bytes": 640,
+        "previous_sha256": "25aaa4adcd6c993f98e275b9f5898126e1716d7c3c75e3c91b2e1363cc6b27b4",
+        "ratio": 0.2
+      },
+      "sha256": "cc2ee527aee6b6c22c911875f0226ae5b6afaa7540bcbced3684da14004ad92c",
+      "source": "https://cdn.worldvectorlogo.com/logos/minecraft-launcher.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/minecraft-launcher",
+      "version": 0
+    },
+    {
+      "bytes": 26483,
+      "collection": "Worldvectorlogo",
+      "file": "minecraft-1.svg",
+      "id": 959,
+      "is_default": false,
+      "label": "minecraft",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minecraft-1.svg",
+        "original_is_default": false,
+        "original_slug": "minecraft"
+      },
+      "sha256": "b9ec499093ae89883d4861b755716fc4c1a3394e71c5d6074cdf6ad8571cde17",
+      "source": "https://cdn.worldvectorlogo.com/logos/minecraft.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/minecraft",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

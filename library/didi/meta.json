@@ -1,0 +1,52 @@
+{
+  "collection_id": 116,
+  "schema_version": 1,
+  "id": 186,
+  "title": "滴滴出行",
+  "url": "https://didiglobal.com",
+  "domains": [
+    "didiglobal.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "出行",
+    "滴滴出行",
+    "didi",
+    "didi-chuxing",
+    "didiglobal.com"
+  ],
+  "aliases": [
+    "didi",
+    "didi-chuxing"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 559,
+      "collection": "Iconify / arcticons",
+      "file": "didi.svg",
+      "id": 444,
+      "is_default": true,
+      "label": "didi",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "didi.svg",
+        "original_is_default": true,
+        "original_slug": "didi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 326,
+        "previous_sha256": "9175236b86749848fd737ac790787064a2d69f9b81a79f7a3d12409399668ea2",
+        "ratio": 0.2
+      },
+      "sha256": "bd2894dcde451dede67301d13bd7bdc5fac5ef4b060fe486d80c5eb853dfd211",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#didi",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

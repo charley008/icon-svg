@@ -1,0 +1,51 @@
+{
+  "collection_id": 63,
+  "schema_version": 1,
+  "id": 110,
+  "title": "Branding Style Guides",
+  "url": "https://brandingstyleguides.com",
+  "domains": [
+    "brandingstyleguides.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Branding Style Guides",
+    "brandingstyleguides",
+    "brandingstyleguides.com"
+  ],
+  "aliases": [
+    "brandingstyleguides"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2920,
+      "collection": "GoTab 公开资源库",
+      "file": "brandingstyleguides.svg",
+      "gotab_id": 135,
+      "id": 271,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "brandingstyleguides.svg",
+        "original_is_default": true,
+        "original_slug": "brandingstyleguides"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2698,
+        "previous_sha256": "86e89adca48f4fed64f58f8f70c8b6c6041811de33503a0e8b6e534bcf4518a3",
+        "ratio": 0.2
+      },
+      "sha256": "d466e5bd82afa127762565d0a56b321bf995e00a7dbfb8e98b5987df6152a491",
+      "source": "https://web.gotab.cn/uploads/202409/01J8S8TBRS451KSHE0HHV46PWZ.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,54 @@
+{
+  "collection_id": 163,
+  "schema_version": 1,
+  "id": 234,
+  "title": "Gamer520",
+  "url": "https://gamer520.com",
+  "domains": [
+    "gamer520.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "中国地区Top100",
+    "游戏",
+    "Gamer520",
+    "gamer520.com"
+  ],
+  "aliases": [
+    "gamer520"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 204605,
+      "collection": "原图描摹",
+      "file": "gamer520.svg",
+      "id": 581,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-detail",
+      "provenance": {
+        "original_file": "gamer520.svg",
+        "original_is_default": true,
+        "original_slug": "gamer520"
+      },
+      "render_rmse": 31.621,
+      "rounded_corners": {
+        "previous_bytes": 204383,
+        "previous_sha256": "1a9d8994ee146088fd20063f682fb9eaacc2ff918021b7b48143a55c48ba6aa3",
+        "ratio": 0.2
+      },
+      "sha256": "f3c7bf591a4be462d6979cf435204f0f2c78d201a90aaed545f85af27641d21e",
+      "source": "https://www.google.com/s2/favicons?domain=gamer520.com\u0026sz=256",
+      "source_size": [
+        320,
+        79
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

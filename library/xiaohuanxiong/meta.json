@@ -1,0 +1,50 @@
+{
+  "collection_id": 430,
+  "schema_version": 1,
+  "id": 590,
+  "title": "小浣熊AI",
+  "url": "https://xiaohuanxiong.com",
+  "domains": [
+    "xiaohuanxiong.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "中国地区Top100",
+    "人工智能",
+    "小浣熊AI",
+    "xiaohuanxiong",
+    "xiaohuanxiong.com"
+  ],
+  "aliases": [
+    "xiaohuanxiong"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2074,
+      "collection": "官网 SVG",
+      "file": "xiaohuanxiong.svg",
+      "id": 1482,
+      "is_default": true,
+      "label": "official-mark",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaohuanxiong.svg",
+        "original_is_default": true,
+        "original_slug": "xiaohuanxiong"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1853,
+        "previous_sha256": "7e14d06d07d2d427dca77ccabdb4ddef465106387b286bc16b5878bea723392d",
+        "ratio": 0.2
+      },
+      "sha256": "341be80836873b857ababb07d0283a1775afad65eab21e888b35ccdd2cefb2cc",
+      "source": "https://sta-volc.xiaohuanxiong.com/raccoon-website/prod/mime-v1/favicon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

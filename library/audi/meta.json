@@ -1,0 +1,77 @@
+{
+  "collection_id": 461,
+  "schema_version": 1,
+  "id": 625,
+  "title": "Audi",
+  "url": "https://www.audi.com/",
+  "domains": [
+    "audi.com"
+  ],
+  "description": "Audi 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "Audi",
+    "audi",
+    "奥迪",
+    "汽车"
+  ],
+  "aliases": [
+    "奥迪"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3091,
+      "collection": "用户补充 SVG",
+      "file": "audi.svg",
+      "id": 1557,
+      "is_default": true,
+      "label": "audi-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "audi-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/audi-3.svg"
+      },
+      "sha256": "eb8bbfe9b0c11fd2a699eb50bf7a250ae9b29c99252c468b54e08dd0651f018e",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/audi-3.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3822,
+      "collection": "用户补充 SVG",
+      "file": "audi-1.svg",
+      "id": 1558,
+      "is_default": false,
+      "label": "audi-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "audi-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/audi-1.svg"
+      },
+      "sha256": "9076b14ed426ac9cdcd29a4060e1ad2251b0193db9c092b3091eb55642f3acb5",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/audi-1.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6292,
+      "collection": "用户补充 SVG",
+      "file": "audi-2.svg",
+      "id": 1559,
+      "is_default": false,
+      "label": "audi-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "audi-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/audi-2.svg"
+      },
+      "sha256": "dd21d90d76211a21d4c83cd3fab8d70f8b183f881eaf52803511d007bef79b8c",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/audi-2.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

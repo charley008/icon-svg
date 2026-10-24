@@ -1,0 +1,41 @@
+{
+  "title": "HandBrake",
+  "url": "https://handbrake.fr/",
+  "domains": [
+    "handbrake.fr"
+  ],
+  "description": "开源视频转换应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "视频转码",
+    "视频转换",
+    "HandBrake"
+  ],
+  "aliases": [
+    "handbrake",
+    "视频转码",
+    "视频转换"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "handbrake.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "018f7ac7b8e3210bd0888a93160c91f025a3b32b8e6099b9ff294dc0a196a91e",
+      "bytes": 12340,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/handbrake.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "handbrake.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

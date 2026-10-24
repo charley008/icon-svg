@@ -1,0 +1,43 @@
+{
+  "title": "Kopia",
+  "url": "https://kopia.io/",
+  "domains": [
+    "kopia.io"
+  ],
+  "description": "备份与快照管理应用。",
+  "category": "系统工具",
+  "tags": [
+    "备份",
+    "快照",
+    "加密",
+    "Kopia"
+  ],
+  "aliases": [
+    "kopia",
+    "备份",
+    "快照",
+    "加密"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "kopia.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "7dde248b774b970a6ebfbfccfbd5ae05a79124a08a941a41582f05197a936b9d",
+      "bytes": 354,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kopia.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "kopia.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

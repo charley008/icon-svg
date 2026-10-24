@@ -1,0 +1,228 @@
+{
+  "collection_id": 395,
+  "schema_version": 1,
+  "id": 544,
+  "title": "Uber",
+  "url": "https://uber.com",
+  "domains": [
+    "uber.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球App补充",
+    "出行",
+    "Uber",
+    "uber.com"
+  ],
+  "aliases": [
+    "uber"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1300,
+      "collection": "theSVG",
+      "file": "uber.svg",
+      "id": 1363,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uber.svg",
+        "original_is_default": true,
+        "original_slug": "uber"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1075,
+        "previous_sha256": "4a73ad6d84c0f9de39574c8e688b9b2bdbc886def633236e065337b0d8b8d487",
+        "ratio": 0.2
+      },
+      "sha256": "560672b150a55185abc0bae47ff40099120f8f1a9677114966480080dfb0b57f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/uber-badge/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2899,
+      "collection": "theSVG",
+      "file": "uber-1.svg",
+      "id": 1364,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uber-1.svg",
+        "original_is_default": false,
+        "original_slug": "uber"
+      },
+      "sha256": "4e6bfbe8d47ed2a005f425c03c48bfbd166f203692298d1c85b9f9ebccb2f15b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/uber/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2901,
+      "collection": "theSVG",
+      "file": "uber-2.svg",
+      "id": 1365,
+      "is_default": false,
+      "label": "light",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uber-2.svg",
+        "original_is_default": false,
+        "original_slug": "uber"
+      },
+      "sha256": "6f755c9f6fcd467de8a2cfa4c21757b5edcc768454c91e0eb67de1bb26c5de12",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/uber/light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1259,
+      "collection": "theSVG",
+      "file": "uber-3.svg",
+      "id": 1366,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uber-3.svg",
+        "original_is_default": false,
+        "original_slug": "uber"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1026,
+        "previous_sha256": "50a7853e9babd776c792c0ff96a993f62950223b3a28e2743cc50d44082bba70",
+        "ratio": 0.2
+      },
+      "sha256": "05b119a6a3d46cbf0ae7bd5fc9cddaa679debcbaec8f45f7cbf2ce4c158abb13",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/uber/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 753,
+      "collection": "Iconify / arcticons",
+      "file": "uber-4.svg",
+      "id": 1367,
+      "is_default": false,
+      "label": "uber",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uber-4.svg",
+        "original_is_default": false,
+        "original_slug": "uber"
+      },
+      "rounded_corners": {
+        "previous_bytes": 520,
+        "previous_sha256": "30f28fea0457059eb450845aab62210f69251999697e938ab254757e95f551ec",
+        "ratio": 0.2
+      },
+      "sha256": "2fdd58dd6883879af28e1f9e07939007701275db98d34d2f737c2e1b003a4397",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#uber",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 545,
+      "key": "eats",
+      "title": "Uber Eats",
+      "url": "https://ubereats.com",
+      "domains": [
+        "ubereats.com"
+      ],
+      "description": "",
+      "category": "生活服务",
+      "tags": [
+        "全球App补充",
+        "生活服务",
+        "Uber Eats",
+        "ubereats",
+        "uber-eats",
+        "ubereats.com"
+      ],
+      "aliases": [
+        "ubereats",
+        "uber-eats"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2649,
+          "collection": "theSVG",
+          "file": "uber-eats.svg",
+          "id": 1368,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "ubereats.svg",
+            "original_is_default": true,
+            "original_slug": "ubereats"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2416,
+            "previous_sha256": "b14656985325e63fafdb0d65456ccf99031d0b38af27ab6be5579f8c59a5e2a3",
+            "ratio": 0.2
+          },
+          "sha256": "0ef3a0f13f33eced832e65fa7c2e37141a721026de8ef460794ffc4f04fbd9ae",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/uber-eats/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2649,
+          "collection": "theSVG",
+          "file": "uber-eats-1.svg",
+          "id": 1369,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "ubereats-1.svg",
+            "original_is_default": false,
+            "original_slug": "ubereats"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2416,
+            "previous_sha256": "4f9e7dc110cc7b0b2620128a38c9fee136db9ad63b1c2dd3371f7031d4ac4346",
+            "ratio": 0.2
+          },
+          "sha256": "7b13e2d9aec770beaa7c350e6f8196fa8cfeb5cb5f92c79fae1eacf51166bb39",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/uber-eats/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1363,
+          "collection": "Iconify / arcticons",
+          "file": "uber-eats-2.svg",
+          "id": 1370,
+          "is_default": false,
+          "label": "ubereats",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "ubereats-2.svg",
+            "original_is_default": false,
+            "original_slug": "ubereats"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1130,
+            "previous_sha256": "d56b897dd5f9ab72b9bd09077b258a6537848196142ffc69b87afd2013f8a77e",
+            "ratio": 0.2
+          },
+          "sha256": "d3db8752fb264cd56481f870a678660d5b6705d7359ea89c015e02b962f4a30a",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ubereats",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    }
+  ]
+}

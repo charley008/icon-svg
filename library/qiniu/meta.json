@@ -1,0 +1,75 @@
+{
+  "collection_id": 329,
+  "schema_version": 1,
+  "id": 456,
+  "title": "七牛云",
+  "url": "https://qiniu.com",
+  "domains": [
+    "qiniu.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "国内补充",
+    "云计算",
+    "七牛云",
+    "qiniu",
+    "qiniuyun",
+    "qiniu.com"
+  ],
+  "aliases": [
+    "qiniu",
+    "qiniuyun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 931,
+      "collection": "theSVG",
+      "file": "qiniu.svg",
+      "id": 1137,
+      "is_default": true,
+      "label": "color",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qiniu.svg",
+        "original_is_default": true,
+        "original_slug": "qiniu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 698,
+        "previous_sha256": "5c503dba8d58c2b5b0c0d6634b7d237a96d541cecdf2a673128a06ed8746b1f3",
+        "ratio": 0.2
+      },
+      "sha256": "3dc3c94c25b0c296bbf71cd27563690fad330182575cfbfe5bc4ae325809a234",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qiniu/color.svg",
+      "version": 0
+    },
+    {
+      "bytes": 941,
+      "collection": "theSVG",
+      "file": "qiniu-1.svg",
+      "id": 1138,
+      "is_default": false,
+      "label": "mono",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qiniu-1.svg",
+        "original_is_default": false,
+        "original_slug": "qiniu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 708,
+        "previous_sha256": "7d1fdbc8565ae429fcfbdc6d74d7b2e5779df7a53cf26dd880ae779fcb5aa195",
+        "ratio": 0.2
+      },
+      "sha256": "ecd92a2130d9440b82f7bd76c161add0fcfec762064a82ad3f75fd3d82512b36",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qiniu/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

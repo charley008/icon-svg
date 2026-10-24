@@ -1,0 +1,69 @@
+{
+  "collection_id": 225,
+  "schema_version": 1,
+  "id": 324,
+  "title": "即时设计",
+  "url": "https://js.design",
+  "domains": [
+    "js.design"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "即时设计",
+    "jsdesign",
+    "js.design"
+  ],
+  "aliases": [
+    "jsdesign"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1515,
+      "collection": "SVGLOGO",
+      "file": "jsdesign.svg",
+      "id": 800,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jsdesign.svg",
+        "original_is_default": true,
+        "original_slug": "jsdesign"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1282,
+        "previous_sha256": "69a7508db59d01f4b9486fe1d78fa1ec5cc2360e0200fb12f1e5b07b5a32ae4e",
+        "ratio": 0.2
+      },
+      "sha256": "166618a650948ad7353f3000c739b4f2d219785f6b7214f217861139c0547638",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/jsdesign.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3520,
+      "collection": "SVGLOGO",
+      "file": "jsdesign-1.svg",
+      "id": 801,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jsdesign-1.svg",
+        "original_is_default": false,
+        "original_slug": "jsdesign"
+      },
+      "sha256": "a9a4ecf09dbb5a7bbe51b6d99e6171c62832823b682e568472b013ba083cd25a",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/jsdesign_wordmark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

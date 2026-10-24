@@ -1,0 +1,44 @@
+{
+  "title": "Zyxel",
+  "url": "https://www.zyxel.com/",
+  "domains": [
+    "www.zyxel.com"
+  ],
+  "description": "网络设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "合勤",
+    "网络设备",
+    "Zyxel"
+  ],
+  "aliases": [
+    "zyxel",
+    "zyxel-networks",
+    "合勤",
+    "网络设备",
+    "zyxel-green",
+    "zyxel-device"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "zyxel.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "6f985b96fab92f7d68dcf88e9b051c2850683587269257d4416718959dd07008",
+      "bytes": 1571,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "zyxel-networks.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "title": "PostgreSQL",
+  "url": "https://www.postgresql.org/",
+  "domains": [
+    "www.postgresql.org"
+  ],
+  "description": "开源关系型数据库。",
+  "category": "开发编程",
+  "tags": [
+    "Postgres",
+    "关系型数据库",
+    "数据库",
+    "PostgreSQL"
+  ],
+  "aliases": [
+    "postgresql",
+    "postgres",
+    "Postgres",
+    "关系型数据库",
+    "数据库"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "postgresql.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8721988212afc5134af28c50601d87e6f3ca648e8e04f66b0453dc1f9126e359",
+      "bytes": 3944,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postgres.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "postgres.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

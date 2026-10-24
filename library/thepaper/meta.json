@@ -1,0 +1,80 @@
+{
+  "collection_id": 387,
+  "schema_version": 1,
+  "id": 536,
+  "title": "澎湃新闻",
+  "url": "https://thepaper.cn",
+  "domains": [
+    "thepaper.cn"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "澎湃新闻",
+    "thepaper",
+    "the-paper",
+    "thepaper.cn"
+  ],
+  "aliases": [
+    "thepaper",
+    "the-paper"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 8475,
+      "collection": "用户优化 SVG",
+      "file": "thepaper.svg",
+      "id": 1334,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "thepaper.svg",
+        "original_is_default": true,
+        "original_slug": "thepaper"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8253,
+        "previous_sha256": "db8fb5b3ab41935ad0f2aea84eaeb0fd8e6183e1305237e2c42d85ab420afabf",
+        "ratio": 0.2
+      },
+      "sha256": "8d100074cfbcc2a5ee4cbd2b6558e1fad683f680fffb9bcb8840fa4e4f711343",
+      "source": "用户授权连续处理；复用图库thepaper-1.svg清晰书法矢量，匹配原图尺寸与浅色圆角底，256x256",
+      "version": 0
+    },
+    {
+      "bytes": 8698,
+      "collection": "GoTab 公开资源库",
+      "file": "thepaper-1.svg",
+      "gotab_id": 35,
+      "id": 1335,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "thepaper-1.svg",
+        "original_is_default": false,
+        "original_slug": "thepaper"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8476,
+        "previous_sha256": "b882811e766688b971c2c839575d6f497badff0f1fbadcb492f211ab590f79d3",
+        "ratio": 0.2
+      },
+      "sha256": "6380cccbb8037ce0cf93a6e2601066e0bf8c4869b4344507d5959c068d057963",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HBQQKAB7YWB9B3F69SJHQZ.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

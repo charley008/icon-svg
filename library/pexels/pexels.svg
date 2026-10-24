@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#07a081" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,0,-712)">
+        <g id="Pexel" transform="matrix(1,0,0,1,-1673,712)">
+            <rect x="1673" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1.47066,0,0,1.58031,1524.52,-1262.2)">
+                <path d="M304.309,1003.24L304.309,1063.14L180.571,1063.14L180.571,858.25L291.033,858.25C334.336,858.25 369.492,890.967 369.492,931.264C369.492,967.352 341.298,997.36 304.309,1003.24ZM291.033,979.571C319.682,979.571 342.942,957.925 342.942,931.264C342.942,904.603 319.682,882.958 291.033,882.958L207.121,882.958L207.121,1038.44L277.758,1038.44L277.758,979.571L291.033,979.571Z" style="fill:white;" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

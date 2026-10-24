@@ -1,0 +1,54 @@
+{
+  "collection_id": 340,
+  "schema_version": 1,
+  "parent_brand": "rog",
+  "id": 470,
+  "title": "ROG AX11000",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "用户优选",
+    "自用",
+    "硬件",
+    "设备",
+    "路由器",
+    "网络设备",
+    "ROG AX11000",
+    "rog-ax11000"
+  ],
+  "aliases": [
+    "rog-ax11000"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 184451,
+      "collection": "用户优化 SVG",
+      "file": "rog-ax11000.svg",
+      "id": 1175,
+      "is_default": true,
+      "label": "ROG-AX11000",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "rog-ax11000.svg",
+        "original_is_default": true,
+        "original_slug": "rog-ax11000"
+      },
+      "rounded_corners": {
+        "previous_bytes": 184229,
+        "previous_sha256": "d857f41260aa455dd211001b7448538d8a5f022a3095742f75166c3d580f92cf",
+        "ratio": 0.2
+      },
+      "sha256": "66217ddabd0407347a777af90fa74d7a21a81863c6caac1e2dab6e99212c949c",
+      "source": "用户确认优化：ROG AX11000 原图保留机身与灯效，量化颜色并合并连续矩形矢量路径",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

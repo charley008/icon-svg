@@ -1,0 +1,80 @@
+{
+  "collection_id": 222,
+  "schema_version": 1,
+  "id": 319,
+  "title": "IT之家",
+  "url": "https://ithome.com",
+  "domains": [
+    "ithome.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "IT之家",
+    "ithome",
+    "it-home",
+    "ithome.com"
+  ],
+  "aliases": [
+    "ithome",
+    "it-home"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 947,
+      "collection": "已有图标",
+      "file": "ithome.svg",
+      "id": 789,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "ithome.svg",
+        "original_is_default": true,
+        "original_slug": "ithome"
+      },
+      "rounded_corners": {
+        "previous_bytes": 726,
+        "previous_sha256": "76b6fc0f5c5cf37c3a4c80540f8db98b86af7aefbd66439a60faa70ff912b6b1",
+        "ratio": 0.2
+      },
+      "sha256": "78464c136b9200177976c04180a093be797211bfc0ad372b97c750ee75dcf4aa",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1159,
+      "collection": "GoTab 公开资源库",
+      "file": "ithome-1.svg",
+      "gotab_id": 74,
+      "id": 790,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ithome-1.svg",
+        "original_is_default": false,
+        "original_slug": "ithome"
+      },
+      "rounded_corners": {
+        "previous_bytes": 937,
+        "previous_sha256": "9936e5981f516e0abdd9b52437bb7bd9b53da6660ca3a6e5ac15502d75cc0d50",
+        "ratio": 0.2
+      },
+      "sha256": "604f188c90e8965e104c421ac2e0d75c5a78ddde5faaa4245a9f05085beb0ce0",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HM9GV0KX9BJDE69HH0ZG11.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

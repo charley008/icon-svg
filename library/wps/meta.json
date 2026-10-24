@@ -1,0 +1,187 @@
+{
+  "collection_id": 424,
+  "schema_version": 1,
+  "id": 582,
+  "title": "WPS",
+  "url": "https://wps.cn",
+  "domains": [
+    "wps.cn"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "办公",
+    "效率工具",
+    "WPS",
+    "wps-office",
+    "wpsoffice",
+    "wps.cn"
+  ],
+  "aliases": [
+    "wps",
+    "wps-office",
+    "wpsoffice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 879,
+      "collection": "Iconify / arcticons",
+      "file": "wps.svg",
+      "id": 1464,
+      "is_default": true,
+      "label": "wpsoffice",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wps.svg",
+        "original_is_default": true,
+        "original_slug": "wps"
+      },
+      "rounded_corners": {
+        "previous_bytes": 646,
+        "previous_sha256": "eeb20c7edd5d6aac94c8420fad56c7949ecb375034fa24bad9b9c7e92760359f",
+        "ratio": 0.2
+      },
+      "sha256": "7a4aec930a1ac31f823ed5af23057a59e7414fc172a07ee46fea1729ded2ec9b",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#wpsoffice",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 583,
+      "key": "kdocs",
+      "title": "金山文档",
+      "url": "https://kdocs.cn",
+      "domains": [
+        "kdocs.cn"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "办公",
+        "效率工具",
+        "文档",
+        "在线文档",
+        "金山文档",
+        "kdocs",
+        "kdocs.cn"
+      ],
+      "aliases": [
+        "kdocs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1904,
+          "collection": "轻量矢量替换",
+          "file": "wps-kdocs.svg",
+          "id": 1465,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "native-vector-reuse",
+          "provenance": {
+            "original_file": "kdocs.svg",
+            "original_is_default": true,
+            "original_slug": "kdocs"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "6fa3a698cd4e970cd9a540c906993892a2c958e4eaf14220b8b75cf8e4e8beaf",
+            "previous_bytes": 212158,
+            "previous_method": "traced-detail",
+            "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/ed/7c/27ed7c25-19cf-75d0-c5b8-2a8195e83c7d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+            "reference": "seed/icons/wps/wps-kdocs-1.svg",
+            "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "a43da9d3b50555edd02485ef71992cb4b673abba3f3101198aa1998ee26ebf76",
+          "source": "https://web.gotab.cn/sourceStore/website/01K671K1RSH7VGMY92G4ESPQ83.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1904,
+          "collection": "GoTab 公开资源库",
+          "file": "wps-kdocs-1.svg",
+          "gotab_id": 235,
+          "id": 1466,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "kdocs-1.svg",
+            "original_is_default": false,
+            "original_slug": "kdocs"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1682,
+            "previous_sha256": "b0cd2c28f6917fe4bb9558d876cd7d65088a8b762e1ca56517b132f8f12d7f58",
+            "ratio": 0.2
+          },
+          "sha256": "a43da9d3b50555edd02485ef71992cb4b673abba3f3101198aa1998ee26ebf76",
+          "source": "https://web.gotab.cn/sourceStore/website/01K671K1RSH7VGMY92G4ESPQ83.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 584,
+      "key": "lingxi",
+      "title": "WPS 灵犀",
+      "url": "https://lingxi.wps.cn",
+      "domains": [
+        "lingxi.wps.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "人工智能",
+        "WPS 灵犀",
+        "wps-lingxi",
+        "lingxi.wps.cn"
+      ],
+      "aliases": [
+        "wps-lingxi"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4452,
+          "collection": "GoTab 公开资源库",
+          "file": "wps-lingxi.svg",
+          "gotab_id": 263,
+          "id": 1467,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "wps-lingxi.svg",
+            "original_is_default": true,
+            "original_slug": "wps-lingxi"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4230,
+            "previous_sha256": "57f71237824cb462f245494d351c081fdb0efa9dff760081c91d3c211ae54cbb",
+            "ratio": 0.2
+          },
+          "sha256": "6a4b7d4d641eddeaa6eecacefbe7bc419a9bc7808dc74b3d3a97e7178334b480",
+          "source": "https://web.gotab.cn/sourceStore/website/01KJABPZ2XDXRWBRCZY93AM8SN.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

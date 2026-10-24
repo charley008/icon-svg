@@ -1,0 +1,51 @@
+{
+  "collection_id": 142,
+  "schema_version": 1,
+  "id": 213,
+  "title": "电子发烧友",
+  "url": "https://elecfans.com",
+  "domains": [
+    "elecfans.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "新闻",
+    "资讯",
+    "电子发烧友",
+    "elecfans",
+    "elecfans.com"
+  ],
+  "aliases": [
+    "elecfans"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2662,
+      "collection": "GoTab 公开资源库",
+      "file": "elecfans.svg",
+      "gotab_id": 47,
+      "id": 531,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "elecfans.svg",
+        "original_is_default": true,
+        "original_slug": "elecfans"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2440,
+        "previous_sha256": "bd2400dc4ac09b466b1607b03cd3a7f51a851e01bd3c78a6edf127fbedaf6f74",
+        "ratio": 0.2
+      },
+      "sha256": "9d45784d12296183cc888e3f5ca35810e77fe64fea32f7296f40ed748eae9c35",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HD1BXYM2M334Z0GT9R8H3Q.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

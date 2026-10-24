@@ -1,0 +1,43 @@
+{
+  "title": "QNAP",
+  "url": "https://www.qnap.com/",
+  "domains": [
+    "www.qnap.com"
+  ],
+  "description": "NAS 与网络存储设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "威联通",
+    "NAS",
+    "存储",
+    "QNAP"
+  ],
+  "aliases": [
+    "qnap",
+    "威联通",
+    "NAS",
+    "存储"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "qnap.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "1d0bd6c4435820b347e7e2499f8a4c1bda5c4ee98d3818482bfec4904efd29d8",
+      "bytes": 445,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "qnap.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

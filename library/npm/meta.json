@@ -1,0 +1,161 @@
+{
+  "collection_id": 289,
+  "schema_version": 1,
+  "id": 413,
+  "title": "NPM",
+  "url": "https://npmjs.com",
+  "domains": [
+    "npmjs.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "全球App补充",
+    "开发",
+    "编程",
+    "NPM",
+    "npmjs.com"
+  ],
+  "aliases": [
+    "npm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 511,
+      "collection": "已有图标",
+      "file": "npm.svg",
+      "id": 1038,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "npm.svg",
+        "original_is_default": true,
+        "original_slug": "npm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 288,
+        "previous_sha256": "56f6e418d72d0a30f89729921617b2c0505b5146acfe4e00c5a140f7df5d5968",
+        "ratio": 0.2
+      },
+      "sha256": "bc5984ac094788649261bf4adac2a2caa899ae0bfb30de2896dc5bb6e8e75e36",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/npm/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 961,
+      "collection": "GoTab 公开资源库",
+      "file": "npm-1.svg",
+      "gotab_id": 241,
+      "id": 1039,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "npm-1.svg",
+        "original_is_default": false,
+        "original_slug": "npm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 739,
+        "previous_sha256": "5541b813c9f9685f947181582291b26a7139ca45dc59a82cf7caf26d11515209",
+        "ratio": 0.2
+      },
+      "sha256": "1f7723005e1e2c69763ebd359abfcaa557897dc7cc4f4e18acb6092b88c49ccf",
+      "source": "https://web.gotab.cn/sourceStore/website/01KDC52RN81M8E8VT28QBQBDT7.svg",
+      "version": 1
+    },
+    {
+      "bytes": 709,
+      "collection": "已有图标",
+      "file": "npm-2.svg",
+      "id": 1040,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "npm-2.svg",
+        "original_is_default": false,
+        "original_slug": "npm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 484,
+        "previous_sha256": "d6065f39d7c4f62f801318ba996d29ae5091bc57df852bd5bd69f995d867ee99",
+        "ratio": 0.2
+      },
+      "sha256": "92f9e6eec2eb2a423c03f9f48714b23a3c752528f88fae42a41ffc9db7ed2df2",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/npm-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 645,
+      "collection": "已有图标",
+      "file": "npm-3.svg",
+      "id": 1041,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "npm-3.svg",
+        "original_is_default": false,
+        "original_slug": "npm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 423,
+        "previous_sha256": "1dc514af3d07d5c15a808a6ed1c426206b6a5c64d9abfe37991a42cd67ae3bc5",
+        "ratio": 0.2
+      },
+      "sha256": "040d2006d8a9ef7ede65908226e3678f30a71e5388d2e906a25a627d02f225e0",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/npm/wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 643,
+      "collection": "已有图标",
+      "file": "npm-4.svg",
+      "id": 1042,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "npm-4.svg",
+        "original_is_default": false,
+        "original_slug": "npm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 410,
+        "previous_sha256": "e34c0c613bc7fbeff4e8c9e582a537ea3371743d31c43ca134ea3aadb7a50767",
+        "ratio": 0.2
+      },
+      "sha256": "0155155f50147784e04370b73ffb6147e9ae2face49ea49797f2ad9042733b0b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/npm/mono.svg",
+      "version": 4
+    },
+    {
+      "bytes": 551,
+      "collection": "已有图标",
+      "file": "npm-5.svg",
+      "id": 1043,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "npm-5.svg",
+        "original_is_default": false,
+        "original_slug": "npm"
+      },
+      "sha256": "da0cc9ee51a6de499fa90dd4eb1aace9b7873410970aca094d8602b7b5d91568",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/npm.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

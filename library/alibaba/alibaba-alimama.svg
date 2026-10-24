@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="uuid-b4de2527-534e-4053-9fc6-3681b116e36e" data-name="图层 1" viewBox="0 0 192 192" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <rect x="50.34" y="56.97" width="24.79" height="24.79" rx="12.39" ry="12.39" style="fill: #3e3eff;" />
+  <circle cx="37.25" cy="72.87" r="10.52" style="fill: #3e3eff;" />
+  <circle cx="22.98" cy="91.34" r="10.05" style="fill: #3e3eff;" />
+  <circle cx="86.82" cy="88.44" r="15.67" style="fill: #3e3eff;" />
+  <circle cx="109.08" cy="108.6" r="12.44" style="fill: #3e3eff;" />
+  <circle cx="130.08" cy="123.38" r="10.76" style="fill: #3e3eff;" />
+  <circle cx="155.22" cy="122.79" r="10.17" style="fill: #3e3eff;" />
+  <circle cx="168.84" cy="103.44" r="10.23" style="fill: #3e3eff;" />
+  <circle cx="164.16" cy="80.47" r="10.17" style="fill: #dd696f;" />
+  <circle cx="144.93" cy="66.67" r="8.53" style="fill: #f57047;" />
+  <circle cx="123.94" cy="75.38" r="7.19" style="fill: #ff7901;" />
+  <circle cx="65.66" cy="120.54" r="7.6" style="fill: #3e3eff;" />
+  <path d="M25.09,104.2c-3.53,.36-7.58,2.81-8.65,6.78-1.37,5.06,2.82,9.91,6.31,11.69,4.12,2.1,9.98,1.32,10.76,1.17,.62-.12,1.25-.14,1.87-.23,.63-.1,.98-.17,1.4,0,.17,.07,.66,.29,.86,.78,.12,.3,.04,.48,0,1.17v3.2c.02,1.41,1.85,4.7,5.3,5.85,.63,.21,3.17,1.01,5.77-.31,.33-.17,1.91-1.01,2.96-2.88,1.52-2.71,.74-5.47,.55-6.16-.2-.7-1.03-3.69-3.66-4.99-1.85-.91-4.05-.73-4.44-.7-1.01,.08-2.04,.07-3.04,.23-.29,.05-.86,.15-1.56,0-.28-.06-.8-.17-1.25-.55-.57-.47-.75-1.13-.86-1.56-.47-1.93-.34-3.2-.55-4.6-.04-.29-.28-1.83-1.11-3.35-1.22-2.24-3.11-3.37-4.04-3.9-.88-.51-3.4-1.96-6.63-1.64Z" style="fill: #ff7901;" />
+</svg></g></g></svg>

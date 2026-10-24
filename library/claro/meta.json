@@ -1,0 +1,51 @@
+{
+  "collection_id": 88,
+  "schema_version": 1,
+  "id": 158,
+  "title": "Claro",
+  "url": "https://claro.com",
+  "domains": [
+    "claro.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Worldvectorlogo补充",
+    "社交",
+    "通讯",
+    "Claro",
+    "claro.com"
+  ],
+  "aliases": [
+    "claro"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5785,
+      "collection": "Worldvectorlogo",
+      "file": "claro.svg",
+      "id": 389,
+      "is_default": true,
+      "label": "claro",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "claro.svg",
+        "original_is_default": true,
+        "original_slug": "claro"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5552,
+        "previous_sha256": "1e1f1a2a2ce7754d2a3e5ea6aaf1f67b79f9f569fff67da6d9ae1060dc3e3669",
+        "ratio": 0.2
+      },
+      "sha256": "a0bc93089496aea3438ee355fc67ce89ca402e62caad88e23e63798c30a9a056",
+      "source": "https://cdn.worldvectorlogo.com/logos/claro.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/claro",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

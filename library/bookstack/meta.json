@@ -1,0 +1,43 @@
+{
+  "title": "BookStack",
+  "url": "https://www.bookstackapp.com/",
+  "domains": [
+    "www.bookstackapp.com"
+  ],
+  "description": "自托管文档与知识库应用。",
+  "category": "办公效率",
+  "tags": [
+    "知识库",
+    "文档",
+    "Wiki",
+    "BookStack"
+  ],
+  "aliases": [
+    "bookstack",
+    "知识库",
+    "文档",
+    "Wiki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "bookstack.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "875148604f2e828e977c23a9afa04869dd958dd6300650ec3350eff9c242cd64",
+      "bytes": 794,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bookstack.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "bookstack.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

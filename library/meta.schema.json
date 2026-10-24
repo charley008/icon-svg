@@ -1,0 +1,191 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "icon-svg collection metadata v1",
+  "description": "Collection identifier is its library directory name. File metadata is authoritative; scan recalculates hashes and discovers named SVG files.",
+  "allOf": [
+    {
+      "$ref": "#/$defs/group"
+    }
+  ],
+  "type": "object",
+  "required": [
+    "schema_version",
+    "products"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "parent_brand": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/product"
+      }
+    },
+    "collection_id": {
+      "type": "integer",
+      "minimum": 1
+    }
+  },
+  "$defs": {
+    "group": {
+      "type": "object",
+      "required": [
+        "title",
+        "url",
+        "domains",
+        "description",
+        "category",
+        "tags",
+        "aliases",
+        "notes",
+        "icons",
+        "next_version"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string"
+        },
+        "domains": {
+          "$ref": "#/$defs/strings"
+        },
+        "description": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "tags": {
+          "$ref": "#/$defs/strings"
+        },
+        "aliases": {
+          "$ref": "#/$defs/strings"
+        },
+        "notes": {
+          "$ref": "#/$defs/strings"
+        },
+        "icons": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/icon"
+          }
+        },
+        "next_version": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "id": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "deleted": {
+          "type": "boolean"
+        },
+        "published": {
+          "type": "boolean"
+        }
+      }
+    },
+    "product": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/group"
+        }
+      ],
+      "type": "object",
+      "required": [
+        "key"
+      ],
+      "properties": {
+        "key": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:[.-][a-z0-9]+)*$"
+        }
+      }
+    },
+    "strings": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "icon": {
+      "type": "object",
+      "required": [
+        "file",
+        "version",
+        "label",
+        "is_default",
+        "source",
+        "license"
+      ],
+      "properties": {
+        "file": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9.-]*\\.svg$"
+        },
+        "version": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "label": {
+          "type": "string"
+        },
+        "is_default": {
+          "type": "boolean"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "provenance": {
+          "type": "object",
+          "required": [
+            "original_slug",
+            "original_file",
+            "original_is_default"
+          ],
+          "properties": {
+            "original_slug": {
+              "type": "string",
+              "minLength": 1
+            },
+            "original_file": {
+              "type": "string",
+              "minLength": 1
+            },
+            "original_is_default": {
+              "type": "boolean"
+            }
+          }
+        },
+        "id": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "deleted": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

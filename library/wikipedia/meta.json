@@ -1,0 +1,169 @@
+{
+  "collection_id": 421,
+  "schema_version": 1,
+  "id": 579,
+  "title": "wikipedia",
+  "url": "https://wikipedia.org",
+  "domains": [
+    "wikipedia.org",
+    "zh.wikipedia.org"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "教育",
+    "科研",
+    "wikipedia",
+    "wikipedia.org",
+    "zh.wikipedia.org"
+  ],
+  "aliases": [
+    "wikipedia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1734,
+      "collection": "已有图标",
+      "file": "wikipedia.svg",
+      "id": 1453,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikipedia.svg",
+        "original_is_default": true,
+        "original_slug": "wikipedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1501,
+        "previous_sha256": "61b304014df2d4ad4ebf69f422c6919bb5d68300738e222b7b192b65fbb0edbb",
+        "ratio": 0.2
+      },
+      "sha256": "74e9b290f0ac2286a2c097bed6bd60669ff343c1e2bf7259170511885952c7cd",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wikipedia/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1972,
+      "collection": "GoTab 公开资源库",
+      "file": "wikipedia-1.svg",
+      "gotab_id": 283,
+      "id": 1454,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "wikipedia-1.svg",
+        "original_is_default": false,
+        "original_slug": "wikipedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1750,
+        "previous_sha256": "8fd2c51ffbe524ab9eca247c0ac04927e4f598d4fce0ab032805acdb83a4f077",
+        "ratio": 0.2
+      },
+      "sha256": "0095433fcc6927ece4caa496cc4316ff488ae115c142faacf2e3c31f8471610a",
+      "source": "https://web.gotab.cn/sourceStore/website/01KY212KDA968V16S24JGCP070.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1565,
+      "collection": "已有图标",
+      "file": "wikipedia-2.svg",
+      "id": 1455,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikipedia-2.svg",
+        "original_is_default": false,
+        "original_slug": "wikipedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1340,
+        "previous_sha256": "1ed5db8c2d6684287f698ae80a63194d2e043d15e51d0518a7e1cf7d22c559ca",
+        "ratio": 0.2
+      },
+      "sha256": "c0e92925ca7757ac26b9ad389e8dd1e9fadefc26ac67e4e45ba32cc6a2bada58",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wikipedia-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1137,
+      "collection": "已有图标",
+      "file": "wikipedia-3.svg",
+      "id": 1456,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikipedia-3.svg",
+        "original_is_default": false,
+        "original_slug": "wikipedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 914,
+        "previous_sha256": "ab99da5027ee9bd8a176ea21c4fb296e1d893787300499d8c91aa8ed8b1147e2",
+        "ratio": 0.2
+      },
+      "sha256": "927508a03c9d35ba2069a249d037d113624a9e099cbd099f8ee814219628d0e8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikipedia.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1152,
+      "collection": "已有图标",
+      "file": "wikipedia-4.svg",
+      "id": 1457,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikipedia-4.svg",
+        "original_is_default": false,
+        "original_slug": "wikipedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 929,
+        "previous_sha256": "98e6a8e43da42eabdc9ac312208ec6c058a522a7f17fbdbf83c905ab33b0be20",
+        "ratio": 0.2
+      },
+      "sha256": "57513c494ac315f839faa9d4e5086ecc33d0b64ce1d4277b9eb9c7b890b3347b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikipedia-light.svg",
+      "version": 4
+    },
+    {
+      "bytes": 699,
+      "collection": "已有图标",
+      "file": "wikipedia-5.svg",
+      "id": 1458,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikipedia-5.svg",
+        "original_is_default": false,
+        "original_slug": "wikipedia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 466,
+        "previous_sha256": "1217393ab9b06f14ba5d820d2e17f8c0e7c2250df2ae986cd5cdee0d5554affa",
+        "ratio": 0.2
+      },
+      "sha256": "0529086a2a523fa067bc3291efc6c9bce241e38aa8a94f2a5b87e66b0f785b6e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#wikipedia",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

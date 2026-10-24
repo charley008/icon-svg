@@ -1,0 +1,43 @@
+{
+  "title": "Radarr",
+  "url": "https://radarr.video/",
+  "domains": [
+    "radarr.video"
+  ],
+  "description": "电影媒体管理应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "电影",
+    "媒体管理",
+    "自托管",
+    "Radarr"
+  ],
+  "aliases": [
+    "radarr",
+    "电影",
+    "媒体管理",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "radarr.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "c3d07ecdfab432ca97f26cf01fe06dbfc0993b5cb6093827b3de1c7421a6fb95",
+      "bytes": 778,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/radarr.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "radarr.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

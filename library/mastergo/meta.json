@@ -1,0 +1,68 @@
+{
+  "collection_id": 250,
+  "schema_version": 1,
+  "id": 350,
+  "title": "MasterGo",
+  "url": "https://mastergo.com",
+  "domains": [
+    "mastergo.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "MasterGo",
+    "mastergo.com"
+  ],
+  "aliases": [
+    "mastergo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 758,
+      "collection": "SVGLOGO",
+      "file": "mastergo.svg",
+      "id": 860,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mastergo.svg",
+        "original_is_default": true,
+        "original_slug": "mastergo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 525,
+        "previous_sha256": "124f2d86ab6f25cb84e77708d87f1238ffb919263b5aa9cfe24d0f26d00242e1",
+        "ratio": 0.2
+      },
+      "sha256": "95be7e0f535ada3cb1510293627e2e5f1c3482c242af26dfc64ed2c1bbb2b731",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/masterGo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5249,
+      "collection": "SVGLOGO",
+      "file": "mastergo-1.svg",
+      "id": 861,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mastergo-1.svg",
+        "original_is_default": false,
+        "original_slug": "mastergo"
+      },
+      "sha256": "2333c1cc87216a42a7b8004f3676d5627d6b49344c1601ef95faffbe8c03da5b",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/masterGo_wordmark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "FileZilla",
+  "url": "https://filezilla-project.org/",
+  "domains": [
+    "filezilla-project.org"
+  ],
+  "description": "文件传输客户端。",
+  "category": "网络工具",
+  "tags": [
+    "FTP",
+    "SFTP",
+    "文件传输",
+    "FileZilla"
+  ],
+  "aliases": [
+    "filezilla",
+    "FTP",
+    "SFTP",
+    "文件传输"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "filezilla.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "e5b967a661861ba25036f3312a104ae745734ddbcc1ef62a8ae9162b54a89f0c",
+      "bytes": 3489,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filezilla.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "filezilla.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,169 @@
+{
+  "collection_id": 405,
+  "schema_version": 1,
+  "id": 557,
+  "title": "V2EX",
+  "url": "https://v2ex.com",
+  "domains": [
+    "v2ex.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "社交",
+    "通讯",
+    "V2EX",
+    "v2ex.com"
+  ],
+  "aliases": [
+    "v2ex"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1403,
+      "collection": "已有图标",
+      "file": "v2ex.svg",
+      "id": 1389,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "v2ex.svg",
+        "original_is_default": true,
+        "original_slug": "v2ex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1181,
+        "previous_sha256": "782cc2f9954617d8167ba5c3a763f2662693b1946267775b832615f7fe7f5f62",
+        "ratio": 0.2
+      },
+      "sha256": "dad56c94cd75fad281cf0f728d04dd97d5fc9c80d73019937472c15a459121c2",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1078,
+      "collection": "GoTab 公开资源库",
+      "file": "v2ex-1.svg",
+      "gotab_id": 240,
+      "id": 1390,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "v2ex-1.svg",
+        "original_is_default": false,
+        "original_slug": "v2ex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 856,
+        "previous_sha256": "1ae319817e501186cd3b9ea1fa7b71e952f478338607b18141cc980cb0fc5110",
+        "ratio": 0.2
+      },
+      "sha256": "c52a76c3c5da389519a6a54e7f15d4b65ebd6e00256a3ecf0c7fbfa2e1db7630",
+      "source": "https://web.gotab.cn/sourceStore/website/01KDC5B9BRG5RT6NK7V54NZCRX.svg",
+      "version": 1
+    },
+    {
+      "bytes": 676,
+      "collection": "已有图标",
+      "file": "v2ex-2.svg",
+      "id": 1391,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "v2ex-2.svg",
+        "original_is_default": false,
+        "original_slug": "v2ex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 443,
+        "previous_sha256": "e88fb241f62e54161b56b7c2a214fe045b4c4e231e2527ae9006f696e760e306",
+        "ratio": 0.2
+      },
+      "sha256": "475f5e4abcfa7c2f4c06d8bd86f90868d820b8b606e75509d2f94f4bf4febcc8",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/v2ex/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1702,
+      "collection": "已有图标",
+      "file": "v2ex-3.svg",
+      "id": 1392,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "v2ex-3.svg",
+        "original_is_default": false,
+        "original_slug": "v2ex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1477,
+        "previous_sha256": "9573eac781206ef302decde87e7487cf275a55480d7c3f2e63067877b80721d4",
+        "ratio": 0.2
+      },
+      "sha256": "01c2749523d6a03625d023d855864f149bd25beb04539bfea081ceb34b969bac",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/v2ex-badge/default.svg",
+      "version": 3
+    },
+    {
+      "bytes": 676,
+      "collection": "已有图标",
+      "file": "v2ex-4.svg",
+      "id": 1393,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "v2ex-4.svg",
+        "original_is_default": false,
+        "original_slug": "v2ex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 443,
+        "previous_sha256": "efcb9bb308fe50875483602f79a2abec37a4a9ba8eee506a0b5b887cacb3d83b",
+        "ratio": 0.2
+      },
+      "sha256": "dd052a31dad43b796854825bc45a1de7164869115991dbf07c84719f5a02af0d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/v2ex/mono.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1243,
+      "collection": "已有图标",
+      "file": "v2ex-5.svg",
+      "id": 1394,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "v2ex-5.svg",
+        "original_is_default": false,
+        "original_slug": "v2ex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1023,
+        "previous_sha256": "a035998252d8bdcb2f87833ee8f06df8f283ef09c1aaa6094037c682534c3d52",
+        "ratio": 0.2
+      },
+      "sha256": "d827842726585a0bc7de34977b8f902bd16efb4b1208073be3e2ca8a5c468a46",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/v2ex.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

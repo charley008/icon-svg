@@ -1,0 +1,60 @@
+{
+  "collection_id": 463,
+  "schema_version": 1,
+  "id": 627,
+  "title": "Buick",
+  "url": "https://www.buick.com/",
+  "domains": [
+    "buick.com"
+  ],
+  "description": "Buick 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "Buick",
+    "buick",
+    "别克",
+    "汽车"
+  ],
+  "aliases": [
+    "别克"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4400,
+      "collection": "用户补充 SVG",
+      "file": "buick.svg",
+      "id": 1563,
+      "is_default": true,
+      "label": "buick-5",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "buick-5.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/buick-5.svg"
+      },
+      "sha256": "8921d4ccfb9a2246382c056d4afb0dd2ac5ae0e76422cc6a3e1a9c6d3fff1b9e",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/buick-5.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4758,
+      "collection": "用户补充 SVG",
+      "file": "buick-1.svg",
+      "id": 1564,
+      "is_default": false,
+      "label": "buick-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "buick-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/buick-3.svg"
+      },
+      "sha256": "46440b63f8dfeb8678fe4ef4360c25d2244c7f9ff3f83c7b9ec719dc11b055e2",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/buick-3.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

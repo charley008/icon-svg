@@ -1,0 +1,45 @@
+{
+  "title": "Forgejo",
+  "url": "https://forgejo.org/",
+  "domains": [
+    "forgejo.org"
+  ],
+  "description": "自托管代码协作平台。",
+  "category": "开发编程",
+  "tags": [
+    "Git",
+    "代码托管",
+    "自托管",
+    "Forgejo"
+  ],
+  "aliases": [
+    "forgejo",
+    "Git",
+    "代码托管",
+    "自托管",
+    "gitea-fork",
+    "code-repository"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "forgejo.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ac5a9b943ffa2b0b305a4ea21dd8b7564c8a8ecc08d2e3d61274f7e61973e7a5",
+      "bytes": 585,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/forgejo.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "forgejo.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

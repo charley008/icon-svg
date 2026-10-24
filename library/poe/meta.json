@@ -1,0 +1,72 @@
+{
+  "collection_id": 317,
+  "schema_version": 1,
+  "id": 444,
+  "title": "Poe",
+  "url": "https://poe.com",
+  "domains": [
+    "poe.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "全球App补充",
+    "人工智能",
+    "Poe",
+    "poe.com"
+  ],
+  "aliases": [
+    "poe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2678,
+      "collection": "theSVG",
+      "file": "poe.svg",
+      "id": 1117,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poe.svg",
+        "original_is_default": true,
+        "original_slug": "poe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2445,
+        "previous_sha256": "5a05c3b46da18e23f7df2382d722211edccc71e8d2a8bcbe212efe32d56e36eb",
+        "ratio": 0.2
+      },
+      "sha256": "89af8c4b53dd03ce504f5017ba38381093e3b5ae62ca06a221ea647c44157f6f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/poe/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2678,
+      "collection": "theSVG",
+      "file": "poe-1.svg",
+      "id": 1118,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poe-1.svg",
+        "original_is_default": false,
+        "original_slug": "poe"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2445,
+        "previous_sha256": "b90a14cfc4fe40f7ab150913dc1c65ff643dcea4f1ef16fe78caf55b85f6a191",
+        "ratio": 0.2
+      },
+      "sha256": "16c3338dbccd801a8109e07d6b1eab8048ac1e2fdd0ccb5d2e5e2f397288bb6b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/poe/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,49 @@
+{
+  "collection_id": 26,
+  "schema_version": 1,
+  "id": 30,
+  "title": "Agoda",
+  "url": "https://agoda.com",
+  "domains": [
+    "agoda.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球App补充",
+    "出行",
+    "Agoda",
+    "agoda.com"
+  ],
+  "aliases": [
+    "agoda"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1953,
+      "collection": "Iconify / arcticons",
+      "file": "agoda.svg",
+      "id": 50,
+      "is_default": true,
+      "label": "agoda",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "agoda.svg",
+        "original_is_default": true,
+        "original_slug": "agoda"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1720,
+        "previous_sha256": "1d2b8de2d653f11aabbb1e89ded43756e386de3dcb164e9ffc34955b5224e940",
+        "ratio": 0.2
+      },
+      "sha256": "eeaacc48b8c28136045bd8bc0bb685b4611c6efd230e2887f8086b92fc8c671b",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#agoda",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

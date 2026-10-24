@@ -1,0 +1,57 @@
+{
+  "collection_id": 8,
+  "schema_version": 1,
+  "id": 8,
+  "title": "2345导航",
+  "url": "https://2345.com",
+  "domains": [
+    "2345.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "搜索",
+    "导航",
+    "2345导航",
+    "2345",
+    "2345.com"
+  ],
+  "aliases": [
+    "2345"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1045,
+      "collection": "原图描摹",
+      "file": "2345.svg",
+      "id": 19,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-detail",
+      "provenance": {
+        "original_file": "2345.svg",
+        "original_is_default": true,
+        "original_slug": "2345"
+      },
+      "render_rmse": 39.488,
+      "rounded_corners": {
+        "previous_bytes": 823,
+        "previous_sha256": "002c2eb16ea3a6c8dd66da9ad5e841eaf454895431572152ed559d36c123b34b",
+        "ratio": 0.2
+      },
+      "sha256": "9ffd99d9405a6606638f6a014ea3ee2acf5858ae375029bafdb18335edd857b0",
+      "source": "https://www-stream.2345cdn.net/s/new2345/favicon-32x32.png",
+      "source_size": [
+        16,
+        16
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,70 @@
+{
+  "collection_id": 277,
+  "schema_version": 1,
+  "id": 395,
+  "title": "NBA",
+  "url": "https://nba.com",
+  "domains": [
+    "nba.com",
+    "china.nba.cn"
+  ],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "Worldvectorlogo补充",
+    "体育",
+    "NBA",
+    "nba.com",
+    "china.nba.cn"
+  ],
+  "aliases": [
+    "nba"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3872,
+      "collection": "已有图标",
+      "file": "nba.svg",
+      "id": 988,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nba.svg",
+        "original_is_default": true,
+        "original_slug": "nba"
+      },
+      "sha256": "3202a4d068f04d59d82fe6fe1767e5771cf02216ba7f7c2c2d7f61802c74ee94",
+      "source": "https://cdn.worldvectorlogo.com/logos/nba-6.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3223,
+      "collection": "GoTab 公开资源库",
+      "file": "nba-1.svg",
+      "gotab_id": 46,
+      "id": 989,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "nba-1.svg",
+        "original_is_default": false,
+        "original_slug": "nba"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3001,
+        "previous_sha256": "bcc0c0b20051c0f9858f369ff2ec19b9fe18436ae9dfa06eb07839ae1ff44519",
+        "ratio": 0.2
+      },
+      "sha256": "5e2d6af1465d681b1694bcc5a4250b449a76cc48245fa2544021c1cf773961f1",
+      "source": "https://web.gotab.cn/sourceStore/website/01KGKPRMPG4D6E41TA0ZFKGDR9.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

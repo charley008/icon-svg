@@ -1,0 +1,55 @@
+{
+  "collection_id": 404,
+  "schema_version": 1,
+  "id": 556,
+  "title": "中科大测速",
+  "url": "https://test.ustc.edu.cn",
+  "domains": [
+    "test.ustc.edu.cn"
+  ],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "网络测速",
+    "宽带测速",
+    "中科大测速",
+    "ustc-speedtest",
+    "test.ustc.edu.cn"
+  ],
+  "aliases": [
+    "ustc-speedtest"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 4753,
+      "collection": "用户优化 SVG",
+      "file": "ustc-speedtest.svg",
+      "id": 1388,
+      "is_default": true,
+      "label": "test.ustc.edu.cn",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "ustc-speedtest.svg",
+        "original_is_default": true,
+        "original_slug": "ustc-speedtest"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4531,
+        "previous_sha256": "cc0336168d3d50520ad30cadbc8eb600fbd1f935355da099eeef28396d44149b",
+        "ratio": 0.2
+      },
+      "sha256": "c03273eb58106008c771aab4b0b4ad758bd672cf25488e16da444e8370c602bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librespeed.svg；用户确认LibreSpeed彩色矢量版，调整背景、圆点和指针细节",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

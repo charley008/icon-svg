@@ -1,0 +1,79 @@
+{
+  "collection_id": 449,
+  "schema_version": 1,
+  "id": 610,
+  "title": "BOSS直聘",
+  "url": "https://zhipin.com",
+  "domains": [
+    "zhipin.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "生活服务",
+    "BOSS直聘",
+    "zhipin",
+    "boss-zhipin",
+    "bosszhipin",
+    "zhipin.com"
+  ],
+  "aliases": [
+    "zhipin",
+    "boss-zhipin",
+    "bosszhipin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5809,
+      "collection": "GoTab 公开资源库",
+      "file": "zhipin.svg",
+      "gotab_id": 87,
+      "id": 1531,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zhipin-1.svg",
+        "original_is_default": true,
+        "original_slug": "zhipin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5587,
+        "previous_sha256": "92a8528362810dbf7b7f39469d35db2155809c869120560aee311fe01941c849",
+        "ratio": 0.2
+      },
+      "sha256": "cc66d88d9299d684256ae3ec5ef80b91f6675cbfe2e62fc57a88b6c3d637f7b4",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HNFGJ8CBJAY2F3XXBQVGVH.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1805,
+      "collection": "已有图标",
+      "file": "zhipin-1.svg",
+      "id": 1532,
+      "is_default": false,
+      "label": "默认版本",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zhipin.svg",
+        "original_is_default": false,
+        "original_slug": "zhipin"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1572,
+        "previous_sha256": "10154fc5e94c88a77bbe4b93d36315daefd6d6437b13ff26bf28b835a938caca",
+        "ratio": 0.2
+      },
+      "sha256": "daca70910d0575ce6e69500c319e4bdca596c7c480596588363200b2a374a177",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#boss-zhipin",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

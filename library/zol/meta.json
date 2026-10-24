@@ -1,0 +1,51 @@
+{
+  "collection_id": 456,
+  "schema_version": 1,
+  "id": 620,
+  "title": "中关村在线",
+  "url": "https://zol.com.cn",
+  "domains": [
+    "zol.com.cn"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "新闻",
+    "资讯",
+    "中关村在线",
+    "zol",
+    "zol.com.cn"
+  ],
+  "aliases": [
+    "zol"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1134,
+      "collection": "GoTab 公开资源库",
+      "file": "zol.svg",
+      "gotab_id": 38,
+      "id": 1548,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zol.svg",
+        "original_is_default": true,
+        "original_slug": "zol"
+      },
+      "rounded_corners": {
+        "previous_bytes": 912,
+        "previous_sha256": "c3285d5ae897594f3150dfc51a80028e09dd56738bd89ba59cfe8eb08f587ad8",
+        "ratio": 0.2
+      },
+      "sha256": "ce4020c108d6fc7b4c7e7d519aaafdd3c2f083de60c1e86f4edfc501474f1fd5",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HC21PH40GNFPT790EDX7DN.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

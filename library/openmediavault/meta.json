@@ -1,0 +1,43 @@
+{
+  "title": "OpenMediaVault",
+  "url": "https://www.openmediavault.org/",
+  "domains": [
+    "www.openmediavault.org"
+  ],
+  "description": "网络存储与服务器管理系统。",
+  "category": "系统工具",
+  "tags": [
+    "OMV",
+    "NAS",
+    "存储",
+    "OpenMediaVault"
+  ],
+  "aliases": [
+    "openmediavault",
+    "OMV",
+    "NAS",
+    "存储"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "openmediavault.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "4ebd3bc15c31b54276b55aed49b8be3c96c350e2ac240fedebd12a891e84444b",
+      "bytes": 1710,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openmediavault.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "openmediavault.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

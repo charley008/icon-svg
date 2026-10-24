@@ -1,0 +1,41 @@
+{
+  "title": "Rocket.Chat",
+  "url": "https://www.rocket.chat/",
+  "domains": [
+    "www.rocket.chat"
+  ],
+  "description": "自托管团队通讯应用。",
+  "category": "社交通讯",
+  "tags": [
+    "团队聊天",
+    "自托管",
+    "Rocket.Chat"
+  ],
+  "aliases": [
+    "rocket-chat",
+    "团队聊天",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "rocket-chat.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ac3df9b46d5885a15c22cb1fa13a3ed5d70ce74953653e63fdd1ee009fbc02a2",
+      "bytes": 1308,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rocket-chat.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "rocket-chat.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

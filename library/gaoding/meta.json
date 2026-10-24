@@ -1,0 +1,117 @@
+{
+  "collection_id": 165,
+  "schema_version": 1,
+  "id": 236,
+  "title": "稿定设计",
+  "url": "https://gaoding.com",
+  "domains": [
+    "gaoding.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "稿定设计",
+    "gaoding",
+    "gaoding.com"
+  ],
+  "aliases": [
+    "gaoding"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6417,
+      "collection": "已有图标",
+      "file": "gaoding.svg",
+      "id": 583,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gaoding.svg",
+        "original_is_default": true,
+        "original_slug": "gaoding"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6200,
+        "previous_sha256": "46ab90e176ae893cc4c2cab7f3a747ed6a02e1f541ee58ecc5ac2a81be6d7ece",
+        "ratio": 0.2
+      },
+      "sha256": "fee0a85474e3670a2e37f5a27128375bd70c4fac463df59599afaca433878fe6",
+      "source": "https://www.gaoding.com/logo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3805,
+      "collection": "GoTab 公开资源库",
+      "file": "gaoding-1.svg",
+      "gotab_id": 200,
+      "id": 584,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "gaoding-1.svg",
+        "original_is_default": false,
+        "original_slug": "gaoding"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3583,
+        "previous_sha256": "17b563f3bb49b5f150dfba6477d470b2cf6236bba24b6feda38a6c756932b0a5",
+        "ratio": 0.2
+      },
+      "sha256": "622227361d5d126db51fd3770889fb67f4dc4a3b1f08d95d78d1bee45631ff12",
+      "source": "https://web.gotab.cn/sourceStore/website/01JSBTDWHH0F26G42DYWQH8D1F.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1724,
+      "collection": "GoTab 公开资源库",
+      "file": "gaoding-2.svg",
+      "gotab_id": 203,
+      "id": 585,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "gaoding-2.svg",
+        "original_is_default": false,
+        "original_slug": "gaoding"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1502,
+        "previous_sha256": "7a0d3ef1511cbdb19baa1cf954e9b042b669a963944b87842a16c02896fcfb52",
+        "ratio": 0.2
+      },
+      "sha256": "7854cce59918f31c4b78b99b5db6867f9876dd992c28260dfbaf73348e5953df",
+      "source": "https://web.gotab.cn/sourceStore/website/01JSBTX2NYY1X0V0J92VRYS927.svg",
+      "version": 2
+    },
+    {
+      "bytes": 12084,
+      "collection": "已有图标",
+      "file": "gaoding-3.svg",
+      "id": 586,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gaoding-3.svg",
+        "original_is_default": false,
+        "original_slug": "gaoding"
+      },
+      "sha256": "2f9986dda776783f43b84531c29ea2bf757edc32893129ffb0b61ed91c846f0b",
+      "source": "https://www.gaoding.com/footer-logo.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

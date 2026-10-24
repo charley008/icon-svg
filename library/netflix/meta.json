@@ -1,0 +1,124 @@
+{
+  "collection_id": 279,
+  "schema_version": 1,
+  "id": 403,
+  "title": "Netflix",
+  "url": "https://netflix.com",
+  "domains": [
+    "netflix.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "影音",
+    "视频",
+    "在线视频",
+    "Netflix",
+    "netflix.com"
+  ],
+  "aliases": [
+    "netflix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1918,
+      "collection": "theSVG",
+      "file": "netflix.svg",
+      "id": 1007,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netflix.svg",
+        "original_is_default": true,
+        "original_slug": "netflix"
+      },
+      "sha256": "112e1322656a1856935dd58a2bb84ddc0884b921cd38e24ceb82af57b46632c1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netflix/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 999,
+      "collection": "theSVG",
+      "file": "netflix-1.svg",
+      "id": 1008,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netflix-1.svg",
+        "original_is_default": false,
+        "original_slug": "netflix"
+      },
+      "sha256": "136cb18a016b12f78fefa619eeb0febd55d74577dc04885256909279e19a3c14",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netflix/wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 602,
+      "collection": "theSVG",
+      "file": "netflix-2.svg",
+      "id": 1009,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netflix-2.svg",
+        "original_is_default": false,
+        "original_slug": "netflix"
+      },
+      "rounded_corners": {
+        "previous_bytes": 369,
+        "previous_sha256": "c91d5d5f269ee0165517c2b96934059b5af91323503d2f7d7433563449912b2b",
+        "ratio": 0.2
+      },
+      "sha256": "b423733a983354328d3e3f9a9e4dbf35e6daaaf8816eed3b0be995c0c01f90c3",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/netflix/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1108,
+      "collection": "SVGL",
+      "file": "netflix-3.svg",
+      "id": 1010,
+      "is_default": false,
+      "label": "netflix-wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netflix-3.svg",
+        "original_is_default": false,
+        "original_slug": "netflix"
+      },
+      "sha256": "e12f2cd305dd41135096a9fabebbcdbc0fcce2969cef2ed5278c5f6095cf1e85",
+      "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/netflix-wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3456,
+      "collection": "Dashboard Icons",
+      "file": "netflix-4.svg",
+      "id": 1011,
+      "is_default": false,
+      "label": "netflix",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netflix-4.svg",
+        "original_is_default": false,
+        "original_slug": "netflix"
+      },
+      "sha256": "41dac856f83df532ff799a90aa39566c5567ca683db42abded02f0d4b4855828",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netflix.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

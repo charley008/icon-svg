@@ -1,0 +1,50 @@
+{
+  "collection_id": 245,
+  "schema_version": 1,
+  "id": 345,
+  "title": "LongCat AI",
+  "url": "https://longcat.chat",
+  "domains": [
+    "longcat.chat"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "LongCat AI",
+    "longcat",
+    "longcat.chat"
+  ],
+  "aliases": [
+    "longcat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1506,
+      "collection": "GoTab 公开资源库",
+      "file": "longcat.svg",
+      "gotab_id": 293,
+      "id": 852,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "longcat.svg",
+        "original_is_default": true,
+        "original_slug": "longcat"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1284,
+        "previous_sha256": "deab02a152921fa398014e3315f9a37b7a89aaf0e04c96e7fde1b535e5ee9961",
+        "ratio": 0.2
+      },
+      "sha256": "48eee91774fe5ef9d85e920412f600f4aa8d9338ed340163bf138da4481f7e3e",
+      "source": "https://web.gotab.cn/sourceStore/website/01KYNX9WDRBKCHF9YD997X6V54.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 452,
+  "schema_version": 1,
+  "id": 616,
+  "title": "中国色",
+  "url": "https://zhongguose.com",
+  "domains": [
+    "zhongguose.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "中国色",
+    "zhongguose",
+    "zhongguose.com"
+  ],
+  "aliases": [
+    "zhongguose"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4061,
+      "collection": "GoTab 公开资源库",
+      "file": "zhongguose.svg",
+      "gotab_id": 73,
+      "id": 1542,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "zhongguose.svg",
+        "original_is_default": true,
+        "original_slug": "zhongguose"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3839,
+        "previous_sha256": "b821384e138e58c85a26b7e88e1979cd7c70b05f9665a37d682a7b750f20e8c5",
+        "ratio": 0.2
+      },
+      "sha256": "e2637b7ab3321570ddba5408a73cd444b99911fa49475599f288fea840050c35",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKZBXBXJYQ9V27PBN6KDE1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

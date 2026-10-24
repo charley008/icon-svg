@@ -1,0 +1,49 @@
+{
+  "collection_id": 121,
+  "schema_version": 1,
+  "id": 191,
+  "title": "DistroWatch",
+  "url": "https://distrowatch.com",
+  "domains": [
+    "distrowatch.com"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "系统工具",
+    "DistroWatch",
+    "distrowatch.com"
+  ],
+  "aliases": [
+    "distrowatch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3411,
+      "collection": "GoTab 公开资源库",
+      "file": "distrowatch.svg",
+      "gotab_id": 325,
+      "id": 464,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "distrowatch.svg",
+        "original_is_default": true,
+        "original_slug": "distrowatch"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3189,
+        "previous_sha256": "86fb92fe51ae1dbf94fec91939a58c254be09b8a3722c0215e07ba410cb1ee4c",
+        "ratio": 0.2
+      },
+      "sha256": "3cf45d8c5466e2a3560b90af4f15b0683d1d639440f6973f4e3454ee6bba8b01",
+      "source": "https://web.gotab.cn/sourceStore/website/01M1NSGTGCE6CH0SR7ZSBE1S6E.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

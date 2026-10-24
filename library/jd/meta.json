@@ -1,0 +1,282 @@
+{
+  "collection_id": 223,
+  "schema_version": 1,
+  "id": 320,
+  "title": "京东",
+  "url": "https://jd.com",
+  "domains": [
+    "jd.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "用户优选",
+    "电商",
+    "购物",
+    "京东",
+    "jd",
+    "jingdong",
+    "jingdongmall",
+    "jd.com"
+  ],
+  "aliases": [
+    "jd",
+    "jingdong",
+    "jingdongmall"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 8779,
+      "collection": "已有图标",
+      "file": "jd.svg",
+      "id": 791,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "jd.svg",
+        "original_is_default": true,
+        "original_slug": "jd"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8533,
+        "previous_sha256": "48da54d08c4522ce38f9145a133e6bef0cf88458d11ef167e7737f85f29f3728",
+        "ratio": 0.2
+      },
+      "sha256": "88ca50af5f2f95391ed859f6a3453042a7ae14835848b3d872add7f4cdc7b8fe",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 2793,
+      "collection": "GoTab 公开资源库",
+      "file": "jd-1.svg",
+      "gotab_id": 96,
+      "id": 792,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "jd-1.svg",
+        "original_is_default": false,
+        "original_slug": "jd"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2571,
+        "previous_sha256": "e9ef55fc8324f258a0c31eb69bcf1e0e1eed9e8aeba6c22dc515e8dc19b6efa6",
+        "ratio": 0.2
+      },
+      "sha256": "f0b07e1d283feeab9dc2c8287f8db6a642ceb50e7b5ce6cb7fc946e2474e5bbd",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HPX0T0NTT85EMJGBQRT76F.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1389,
+      "collection": "已有图标",
+      "file": "jd-2.svg",
+      "id": 793,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jd-2.svg",
+        "original_is_default": false,
+        "original_slug": "jd"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1169,
+        "previous_sha256": "b35d7811262249b3cde85f9b93e4b2424947d02fb1f1af6555ef6a05742422fd",
+        "ratio": 0.2
+      },
+      "sha256": "3d4292a2edf5a356154a79d69bd907ddfd9adf1505ed643d5e4b7dd2b8937f35",
+      "source": "https://logohub.afengblog.com/logos/jd.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2077,
+      "collection": "已有图标",
+      "file": "jd-3.svg",
+      "id": 794,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jd-3.svg",
+        "original_is_default": false,
+        "original_slug": "jd"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1852,
+        "previous_sha256": "95b488db8a71bb1a5a092ad6ba5ca4f61619d3f07201f466b42e05e4fa271819",
+        "ratio": 0.2
+      },
+      "sha256": "f55fb4b8f0d8280e68c26e2068c8073175fbc93dd1a05f45057f5ec868291835",
+      "source": "https://cdn.worldvectorlogo.com/logos/jing-dong.svg",
+      "version": 3
+    },
+    {
+      "bytes": 624,
+      "collection": "已有图标",
+      "file": "jd-4.svg",
+      "id": 795,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jd-4.svg",
+        "original_is_default": false,
+        "original_slug": "jd"
+      },
+      "sha256": "9a2cdfe1f1d358e26984f3e2242efe59888772bce94ebec423a43693695058d7",
+      "source": "https://companieslogo.com/img/orig/JD-ae0e9dac.svg",
+      "version": 4
+    },
+    {
+      "bytes": 31442,
+      "collection": "已有图标",
+      "file": "jd-5.svg",
+      "id": 796,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jd-5.svg",
+        "original_is_default": false,
+        "original_slug": "jd"
+      },
+      "sha256": "29a5dc479ea033a08b1ef0875a651faec74bf347693084ef5e624a57a52f1661",
+      "source": "https://companieslogo.com/img/orig/JD_BIG-f34efba4.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 321,
+      "key": "logistics",
+      "title": "京东物流",
+      "url": "https://jdl.com",
+      "domains": [
+        "jdl.com"
+      ],
+      "description": "",
+      "category": "生活服务",
+      "tags": [
+        "国内补充",
+        "生活服务",
+        "京东物流",
+        "jd-logistics",
+        "jdlogistics",
+        "jdl.com"
+      ],
+      "aliases": [
+        "jd-logistics",
+        "jdlogistics"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "appstore_bundle": "com.jd.jdlogistic",
+          "appstore_track": "https://apps.apple.com/cn/app/%E4%BA%AC%E4%B8%9C%E5%BF%AB%E9%80%92-%E5%8F%88%E5%BF%AB%E5%8F%88%E5%87%86/id1550540905?uo=4",
+          "bytes": 4224,
+          "collection": "轻量矢量替换",
+          "file": "jd-logistics.svg",
+          "id": 797,
+          "is_default": true,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "manual-vector-redraw",
+          "provenance": {
+            "original_file": "jd-logistics.svg",
+            "original_is_default": true,
+            "original_slug": "jd-logistics"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "4bd44975dcbc19f818f6fd23e64e8fd347a6669566b2e3d505ce9598902c7c91",
+            "previous_bytes": 392522,
+            "previous_method": "traced-detail",
+            "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/5b/13/d05b132b-ccd4-a2be-b4ab-e2d66fd0d016/JDLAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/5b/13/d05b132b-ccd4-a2be-b4ab-e2d66fd0d016/JDLAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+            "note": "依据京东快递应用图案重绘红底、文字和白色小狗；属于近似手绘矢量版本。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "fc2c4395ec3db49ac44c196ad4d9875c78587565bd8cb6576743fe579e21395e",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/5b/13/d05b132b-ccd4-a2be-b4ab-e2d66fd0d016/JDLAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 322,
+      "key": "reading",
+      "title": "京东读书",
+      "url": "https://cread.jd.com",
+      "domains": [
+        "cread.jd.com"
+      ],
+      "description": "",
+      "category": "阅读",
+      "tags": [
+        "国内补充",
+        "阅读",
+        "京东读书",
+        "jingdong-reading",
+        "jd-reading",
+        "cread.jd.com"
+      ],
+      "aliases": [
+        "jingdong-reading",
+        "jd-reading"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "appstore_track": "https://apps.apple.com/cn/app/%E4%BA%AC%E4%B8%9C%E8%AF%BB%E4%B9%A6-%E8%AF%BB%E5%A5%BD%E4%B9%A6-%E4%B8%8A%E4%BA%AC%E4%B8%9C/id1330602531?uo=4",
+          "bytes": 17712,
+          "collection": "原图描摹",
+          "file": "jd-reading.svg",
+          "id": 798,
+          "is_default": true,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "traced-outline",
+          "provenance": {
+            "original_file": "jingdong-reading.svg",
+            "original_is_default": true,
+            "original_slug": "jingdong-reading"
+          },
+          "render_rmse": 6.211,
+          "rounded_corners": {
+            "previous_bytes": 17489,
+            "previous_sha256": "450bf35266c532ca9e311b68b25c02b64306a42312450132e5f2f67b1e71ba30",
+            "ratio": 0.2
+          },
+          "sha256": "1200935ced50fb3c1e1234d29b6ed4c31f14db8e6474354a1a183f021162ce6b",
+          "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/a4/06/eea40635-95c3-d480-f15c-6f86c0725f2b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "source_size": [
+            512,
+            512
+          ],
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "collection_id": 472,
+  "schema_version": 1,
+  "id": 636,
+  "title": "Honda",
+  "url": "https://www.honda.com/",
+  "domains": [
+    "honda.com"
+  ],
+  "description": "Honda 本田汽车与摩托车图标。",
+  "category": "出行地图",
+  "tags": [
+    "Honda",
+    "honda",
+    "本田",
+    "汽车",
+    "摩托车"
+  ],
+  "aliases": [
+    "本田"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4180,
+      "collection": "用户补充 SVG",
+      "file": "honda.svg",
+      "id": 1578,
+      "is_default": true,
+      "label": "Honda 摩托车翼标",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "honda-5.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/honda-5.svg"
+      },
+      "sha256": "3d381bdfd455f350838bc99eec5c9417b48f59169a125c33342d6f7e586ec98c",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/honda-5.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3052,
+      "collection": "用户补充 SVG",
+      "file": "honda-1.svg",
+      "id": 1579,
+      "is_default": false,
+      "label": "honda-4",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "honda-4.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/honda-4.svg"
+      },
+      "sha256": "544f0d47c0ee4dbe46fbc16bfe92513a50ac115b99e35f32bf53976a52624072",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/honda-4.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

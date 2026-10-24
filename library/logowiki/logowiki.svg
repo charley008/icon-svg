@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#2c93d4" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-13750.5,0)">
+        <g id="Logowiki" transform="matrix(1,0,0,1,12077.5,0)">
+            <rect x="1673" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1,0,0,1,-5637.7,0)">
+                <path d="M7761.26,256C7761.26,363.381 7674.08,450.56 7566.7,450.56C7537.55,450.56 7508.87,444.012 7482.73,431.508C7469.87,425.385 7455.16,424.372 7441.58,428.674C7414.28,437.214 7372.14,450.56 7372.14,450.56C7372.14,450.56 7385.49,408.422 7394.12,381.152C7398.43,367.546 7397.42,352.812 7391.28,339.925C7378.69,313.833 7372.14,285.149 7372.14,256C7372.14,148.619 7459.32,61.44 7566.7,61.44C7674.08,61.44 7761.26,148.619 7761.26,256ZM7645.74,353.329L7646.63,304.849L7642.81,313.694C7637.57,325.813 7625.63,333.658 7612.43,333.658L7579.4,333.658C7573.76,333.658 7568.35,331.419 7564.37,327.433C7560.38,323.447 7558.14,318.04 7558.14,312.403L7558.14,182.981C7558.14,173.721 7564.14,165.527 7572.96,162.723L7585.72,158.671L7486.77,158.671L7498.26,162.551C7506.9,165.468 7512.72,173.571 7512.72,182.69L7512.72,329.31C7512.72,338.429 7506.9,346.532 7498.26,349.449L7486.77,353.329L7645.74,353.329Z" style="fill:white;" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

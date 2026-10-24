@@ -1,0 +1,51 @@
+{
+  "collection_id": 181,
+  "schema_version": 1,
+  "id": 277,
+  "title": "古田路 9 号",
+  "url": "https://gtn9.com",
+  "domains": [
+    "gtn9.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "古田路 9 号",
+    "gtn9",
+    "gtn9.com"
+  ],
+  "aliases": [
+    "gtn9"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5487,
+      "collection": "GoTab 公开资源库",
+      "file": "gtn9.svg",
+      "gotab_id": 130,
+      "id": 700,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "gtn9.svg",
+        "original_is_default": true,
+        "original_slug": "gtn9"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5265,
+        "previous_sha256": "59f094781a2bcd8823d5112d9edf24f6e9a1fc7b157aa09292c990877fbb6b76",
+        "ratio": 0.2
+      },
+      "sha256": "eb3a48c46eb3af47fe54d9f3bf1f028003d8fdba5745a7d241f5bca42decf512",
+      "source": "https://web.gotab.cn/uploads/202409/01J8S5C59FM9PNV28RHGZY5J20.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

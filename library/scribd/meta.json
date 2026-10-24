@@ -1,0 +1,85 @@
+{
+  "collection_id": 343,
+  "schema_version": 1,
+  "id": 473,
+  "title": "scribd",
+  "url": "https://scribd.com",
+  "domains": [
+    "scribd.com"
+  ],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "全球Top100",
+    "阅读",
+    "scribd",
+    "scribd.com"
+  ],
+  "aliases": [
+    "scribd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1272,
+      "collection": "theSVG",
+      "file": "scribd.svg",
+      "id": 1183,
+      "is_default": true,
+      "label": "default",
+      "license": "brand-use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scribd.svg",
+        "original_is_default": true,
+        "original_slug": "scribd"
+      },
+      "sha256": "bc16811b6a32775ce0a0042e39b2e5d70d8cbd2a5d28522257df6f22f7153257",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/scribd/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2913,
+      "collection": "Iconify / logos",
+      "file": "scribd-1.svg",
+      "id": 1184,
+      "is_default": false,
+      "label": "scribd",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scribd-1.svg",
+        "original_is_default": false,
+        "original_slug": "scribd"
+      },
+      "sha256": "42ed90b1b06d5d03d42e03e74039cd976362cc740b6cc38576c396fe88958ab7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#scribd",
+      "version": 1
+    },
+    {
+      "bytes": 998,
+      "collection": "Iconify / arcticons",
+      "file": "scribd-2.svg",
+      "id": 1185,
+      "is_default": false,
+      "label": "scribd",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scribd-2.svg",
+        "original_is_default": false,
+        "original_slug": "scribd"
+      },
+      "rounded_corners": {
+        "previous_bytes": 765,
+        "previous_sha256": "32e7e8c474f471a8e44530f2cb6a4badd66b3257d0b5fad21d136a8cb5e4d8cb",
+        "ratio": 0.2
+      },
+      "sha256": "1164b8d7a54dafbc96fe5e11beb2a555152413017977f8ba5dbd97c11b09b8d3",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#scribd",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

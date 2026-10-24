@@ -1,0 +1,49 @@
+{
+  "collection_id": 372,
+  "schema_version": 1,
+  "id": 505,
+  "title": "SubForMe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "SubForMe"
+  ],
+  "aliases": [
+    "subforme"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1328,
+      "collection": "用户优化 SVG",
+      "file": "subforme.svg",
+      "id": 1277,
+      "is_default": true,
+      "label": "subforme",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "subforme.svg",
+        "original_is_default": true,
+        "original_slug": "subforme"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1106,
+        "previous_sha256": "39da1bfbf675f00626255ec78250d089f834edabcd7740b8f8350d6bb9936eaf",
+        "ratio": 0.2
+      },
+      "sha256": "189139788442377bba60b24bd2cb9d4a0af05dbcbfed1e6e9a260526f6358c4e",
+      "source": "用户确认重绘：SubForMe 深色圆角渐变底、浅色渐变S与青黄绿连接点",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

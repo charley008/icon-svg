@@ -1,0 +1,44 @@
+{
+  "collection_id": 492,
+  "schema_version": 1,
+  "id": 657,
+  "title": "UNIQLO",
+  "url": "https://www.uniqlo.com/",
+  "domains": [
+    "uniqlo.com"
+  ],
+  "description": "UNIQLO 图标合集。",
+  "category": "电商购物",
+  "tags": [
+    "UNIQLO",
+    "uniqlo",
+    "优衣库",
+    "服饰",
+    "购物"
+  ],
+  "aliases": [
+    "优衣库"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1216,
+      "collection": "用户补充 SVG",
+      "file": "uniqlo.svg",
+      "id": 1617,
+      "is_default": true,
+      "label": "uniqlo-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "uniqlo-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/uniqlo-1.svg"
+      },
+      "sha256": "fe7d2c6f6bfc1ae797c3550a075008686acebc5f670e62a987708b3c70cffc97",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/uniqlo-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

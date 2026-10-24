@@ -1,0 +1,132 @@
+{
+  "collection_id": 305,
+  "schema_version": 1,
+  "id": 431,
+  "title": "人民网",
+  "url": "https://people.com.cn",
+  "domains": [
+    "people.com.cn"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "人民网",
+    "people",
+    "people-daily",
+    "peoples-daily",
+    "people.com.cn"
+  ],
+  "aliases": [
+    "people",
+    "people-daily",
+    "peoples-daily"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 7147,
+      "collection": "用户优化 SVG",
+      "file": "people.svg",
+      "id": 1093,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "people.svg",
+        "original_is_default": true,
+        "original_slug": "people"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6925,
+        "previous_sha256": "72ba7d42ff84f5db74514ffc8bbb0a7823b0f7b10d053490518fdb12047ce1b5",
+        "ratio": 0.2
+      },
+      "sha256": "daf08196971c428e4de3086d5ce8036fce9e9055d21e4c99250e2267f73412d5",
+      "source": "用户确认优化：people.com.cn-candidate.svg；保留原图布局的纯矢量候选（人民网标志复用图库已有矢量）",
+      "version": 0
+    },
+    {
+      "bytes": 2504,
+      "collection": "GoTab 公开资源库",
+      "file": "people-1.svg",
+      "gotab_id": 33,
+      "id": 1094,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "people-1.svg",
+        "original_is_default": false,
+        "original_slug": "people"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2282,
+        "previous_sha256": "61d8587d581779a1832fc98c64b23029ef7da260852904ff69c46023f2dca1af",
+        "ratio": 0.2
+      },
+      "sha256": "62426065c692073bedab8da95ddff3e99ebf4026c50be350d95928dfdcc572b3",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HB00KT2PY2A7TCEECT01JY.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 432,
+      "key": "daily-paper",
+      "title": "人民日报电子报",
+      "url": "https://paper.people.com.cn",
+      "domains": [
+        "paper.people.com.cn"
+      ],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "新闻",
+        "资讯",
+        "人民日报电子报",
+        "people-daily-paper",
+        "paper.people.com.cn"
+      ],
+      "aliases": [
+        "people-daily-paper"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2504,
+          "collection": "GoTab 公开资源库",
+          "file": "people-daily-paper.svg",
+          "gotab_id": 26,
+          "id": 1095,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "people-daily-paper.svg",
+            "original_is_default": true,
+            "original_slug": "people-daily-paper"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2282,
+            "previous_sha256": "61d8587d581779a1832fc98c64b23029ef7da260852904ff69c46023f2dca1af",
+            "ratio": 0.2
+          },
+          "sha256": "62426065c692073bedab8da95ddff3e99ebf4026c50be350d95928dfdcc572b3",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HB00KT2PY2A7TCEECT01JY.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

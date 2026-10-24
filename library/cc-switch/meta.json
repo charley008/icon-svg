@@ -1,0 +1,50 @@
+{
+  "collection_id": 71,
+  "schema_version": 1,
+  "id": 136,
+  "title": "CC Switch",
+  "url": "https://ccswitch.io",
+  "domains": [
+    "ccswitch.io"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "CC Switch",
+    "cc-switch",
+    "ccswitch.io"
+  ],
+  "aliases": [
+    "cc-switch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3255,
+      "collection": "GoTab 公开资源库",
+      "file": "cc-switch.svg",
+      "gotab_id": 315,
+      "id": 353,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "cc-switch.svg",
+        "original_is_default": true,
+        "original_slug": "cc-switch"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3033,
+        "previous_sha256": "fd0c71853ae3cbc6467349e0ef58eacdaa91e59b0b55106bf676b7183cd4e327",
+        "ratio": 0.2
+      },
+      "sha256": "4effce5fdc15854076c1d65838f1db335289b5dd6019ceabb0cadaeeccffbf72",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7ZRXRXSB5EKNS53DS8TRBV.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

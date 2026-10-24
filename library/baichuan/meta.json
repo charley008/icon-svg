@@ -1,0 +1,93 @@
+{
+  "collection_id": 44,
+  "schema_version": 1,
+  "id": 81,
+  "title": "百川智能",
+  "url": "https://baichuan-ai.com",
+  "domains": [
+    "baichuan-ai.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "人工智能",
+    "百川智能",
+    "baichuan",
+    "baichuan-ai.com"
+  ],
+  "aliases": [
+    "baichuan"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 818,
+      "collection": "SVGLOGO",
+      "file": "baichuan-1.svg",
+      "id": 204,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baichuan-1.svg",
+        "original_is_default": false,
+        "original_slug": "baichuan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 585,
+        "previous_sha256": "2d5aa426afac393976976af5b7aafb5f175d1f27b1154674e57dcaa7863425c0",
+        "ratio": 0.2
+      },
+      "sha256": "bd62c32f00e2ada0542edd8488a311ae5478fa5108202c5d95c45fdc58813706",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Baichuan.svg",
+      "version": 1
+    },
+    {
+      "bytes": 597,
+      "collection": "theSVG",
+      "file": "baichuan.svg",
+      "id": 205,
+      "is_default": false,
+      "label": "color",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baichuan.svg",
+        "original_is_default": true,
+        "original_slug": "baichuan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 364,
+        "previous_sha256": "a43fe9bb5394e82b31853b8206ede0c01d79015019338788df761bd13bc06690",
+        "ratio": 0.2
+      },
+      "sha256": "d00e5695350c2c054710a1c318bc063a30fa1106cfa85237784ccfd5bfe037a7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/baichuan/color.svg",
+      "version": 0
+    },
+    {
+      "bytes": 996,
+      "collection": "SVGLOGO",
+      "file": "baichuan-2.svg",
+      "id": 206,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baichuan-2.svg",
+        "original_is_default": false,
+        "original_slug": "baichuan"
+      },
+      "sha256": "ff75ce7bac80a9fef2c1ac3312e781b5cacda5401288e492285a97eebd74260c",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/Baichuan_wordmark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

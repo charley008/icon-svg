@@ -1,0 +1,99 @@
+{
+  "collection_id": 61,
+  "schema_version": 1,
+  "id": 108,
+  "title": "Booking.com",
+  "url": "https://booking.com",
+  "domains": [
+    "booking.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球Top100",
+    "出行",
+    "Booking.com",
+    "booking",
+    "bookingdotcom",
+    "booking-com"
+  ],
+  "aliases": [
+    "booking",
+    "bookingdotcom",
+    "booking-com"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1000,
+      "collection": "theSVG",
+      "file": "booking.svg",
+      "id": 267,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booking.svg",
+        "original_is_default": true,
+        "original_slug": "booking"
+      },
+      "rounded_corners": {
+        "previous_bytes": 767,
+        "previous_sha256": "f837ba7d40c594e4982ad27b192f17041054336c53499b68fa5509fadb453718",
+        "ratio": 0.2
+      },
+      "sha256": "07d19b82933d1cbca360e0c18a54b5844a684f134ced1a39d5a39092853fb26e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bookingdotcom/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1000,
+      "collection": "theSVG",
+      "file": "booking-1.svg",
+      "id": 268,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booking-1.svg",
+        "original_is_default": false,
+        "original_slug": "booking"
+      },
+      "rounded_corners": {
+        "previous_bytes": 767,
+        "previous_sha256": "8e0af8014012b716d1f89ea3ccc97e374102dec1b4053fda5ddf46810ce8488a",
+        "ratio": 0.2
+      },
+      "sha256": "b6fe2e167bc2c4b8e0199ae66c99b141b150eabe312b971513ba174dab9ff82b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bookingdotcom/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 830,
+      "collection": "Iconify / arcticons",
+      "file": "booking-2.svg",
+      "id": 269,
+      "is_default": false,
+      "label": "booking",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booking-2.svg",
+        "original_is_default": false,
+        "original_slug": "booking"
+      },
+      "rounded_corners": {
+        "previous_bytes": 597,
+        "previous_sha256": "65e9d00de6576d3d1314cf839381960a5ffb75f6270698d17a4c4083f3130650",
+        "ratio": 0.2
+      },
+      "sha256": "2bf45465b0aa22cd10eb9828cd1175eedabedd176e4f48ffaacb05e789609f77",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#booking",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "title": "OpenVPN",
+  "url": "https://openvpn.net/",
+  "domains": [
+    "openvpn.net"
+  ],
+  "description": "VPN 与远程接入软件。",
+  "category": "网络工具",
+  "tags": [
+    "VPN",
+    "远程接入",
+    "网络安全",
+    "OpenVPN"
+  ],
+  "aliases": [
+    "openvpn",
+    "VPN",
+    "远程接入",
+    "网络安全"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "openvpn.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8cfaea990be8c0df5601eec1a577a47036e71416cd5a3b74807578fc166aa623",
+      "bytes": 640,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvpn.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "openvpn.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

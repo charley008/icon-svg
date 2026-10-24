@@ -1,0 +1,53 @@
+{
+  "collection_id": 287,
+  "schema_version": 1,
+  "id": 411,
+  "title": "中央气象台台风网",
+  "url": "https://typhoon.nmc.cn",
+  "domains": [
+    "typhoon.nmc.cn"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "用户优选",
+    "自用",
+    "生活服务",
+    "中央气象台台风网",
+    "nmc-typhoon",
+    "typhoon.nmc.cn"
+  ],
+  "aliases": [
+    "nmc-typhoon"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 4130,
+      "collection": "用户优化 SVG",
+      "file": "nmc-typhoon.svg",
+      "id": 1031,
+      "is_default": true,
+      "label": "typhoon.nmc.cn",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "nmc-typhoon.svg",
+        "original_is_default": true,
+        "original_slug": "nmc-typhoon"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3908,
+        "previous_sha256": "5a529968d068f129445041f9f78b4604187524869121931a7403b75e5dffaf64",
+        "ratio": 0.2
+      },
+      "sha256": "65dad8ea5e1bf75c501011b30ad631349e92704145cc013e0e3d1780482e0048",
+      "source": "用户选择原创渐变台风Logo：中心风眼、四道旋转风带，冰蓝至青绿渐变及深海蓝圆角背景；256x256纯矢量",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

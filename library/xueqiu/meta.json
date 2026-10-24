@@ -1,0 +1,59 @@
+{
+  "collection_id": 435,
+  "schema_version": 1,
+  "id": 596,
+  "title": "雪球",
+  "url": "https://xueqiu.com",
+  "domains": [
+    "xueqiu.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "雪球",
+    "xueqiu",
+    "xueqiu.com"
+  ],
+  "aliases": [
+    "xueqiu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.xueqiu",
+      "appstore_track": "https://apps.apple.com/cn/app/%E9%9B%AA%E7%90%83-%E5%9F%BA%E9%87%91%E8%82%A1%E7%A5%A8%E7%A7%81%E5%8B%9F%E4%BA%A4%E6%B5%81%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0/id492180369?uo=4",
+      "bytes": 719,
+      "collection": "轻量矢量替换",
+      "file": "xueqiu.svg",
+      "id": 1494,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "xueqiu.svg",
+        "original_is_default": true,
+        "original_slug": "xueqiu"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "3613576481673fd1dc8db789de8008e1b0882bd528263440476f3a98d93a87d2",
+        "previous_bytes": 363281,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/23/8d/49238de7-9c23-816a-fb72-35f0e82a411c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/23/8d/49238de7-9c23-816a-fb72-35f0e82a411c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "db97f85c8d3aab6e108fe42e94b14e8c93e3d6a1db8f5db1af157ed6a27cb6c7",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/23/8d/49238de7-9c23-816a-fb72-35f0e82a411c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

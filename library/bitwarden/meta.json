@@ -1,0 +1,118 @@
+{
+  "collection_id": 56,
+  "schema_version": 1,
+  "id": 103,
+  "title": "Bitwarden",
+  "url": "https://bitwarden.com",
+  "domains": [
+    "bitwarden.com"
+  ],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "全球App补充",
+    "用户优选",
+    "系统工具",
+    "密码管理",
+    "密码保险箱",
+    "Bitwarden",
+    "bitwarden.com"
+  ],
+  "aliases": [
+    "bitwarden"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "Dashboard Icons",
+      "file": "bitwarden.svg",
+      "id": 257,
+      "is_default": true,
+      "label": "bitwarden",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitwarden.svg",
+        "original_is_default": true,
+        "original_slug": "bitwarden"
+      },
+      "rounded_corners": {
+        "previous_bytes": 491,
+        "previous_sha256": "2f8e797f105322a518869b7f22669dba331e95a35539164deec53bc64c737c6c",
+        "ratio": 0.2
+      },
+      "sha256": "634a4bf400d598c223410611db362f7e76ccf47833630563c11d75984eebf340",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitwarden.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1265,
+      "collection": "theSVG",
+      "file": "bitwarden-1.svg",
+      "id": 258,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitwarden-1.svg",
+        "original_is_default": false,
+        "original_slug": "bitwarden"
+      },
+      "sha256": "5f69de649ed6d65357dca9ace929c053634584a85a32096b1a3db3bd31c77367",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bitwarden/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1039,
+      "collection": "theSVG",
+      "file": "bitwarden-2.svg",
+      "id": 259,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitwarden-2.svg",
+        "original_is_default": false,
+        "original_slug": "bitwarden"
+      },
+      "rounded_corners": {
+        "previous_bytes": 814,
+        "previous_sha256": "59d090954387784e5ae73402a91e0de3adc39e4c0133bf280c0e5f499bf7e411",
+        "ratio": 0.2
+      },
+      "sha256": "a3ab0ba779e8b1c2d0bb63507e771dc5d3c3671b3f712854ef33a05e28d2bfc4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bitwarden-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1038,
+      "collection": "theSVG",
+      "file": "bitwarden-3.svg",
+      "id": 260,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitwarden-3.svg",
+        "original_is_default": false,
+        "original_slug": "bitwarden"
+      },
+      "rounded_corners": {
+        "previous_bytes": 805,
+        "previous_sha256": "05ca55bbcf4b085e658e75380a9bb940563b022c8140a77914c69c024bc3f92e",
+        "ratio": 0.2
+      },
+      "sha256": "9bd3edb9fd118739a77c93c3e3dd2cc74133e69abd710a5b52a648a862f7072e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bitwarden/mono.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

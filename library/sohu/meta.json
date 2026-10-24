@@ -1,0 +1,79 @@
+{
+  "collection_id": 360,
+  "schema_version": 1,
+  "id": 491,
+  "title": "搜狐",
+  "url": "https://sohu.com",
+  "domains": [
+    "sohu.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "新闻",
+    "资讯",
+    "搜狐",
+    "sohu",
+    "sohu.com"
+  ],
+  "aliases": [
+    "sohu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13035,
+      "collection": "Worldvectorlogo",
+      "file": "sohu.svg",
+      "id": 1231,
+      "is_default": true,
+      "label": "sohu",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sohu.svg",
+        "original_is_default": true,
+        "original_slug": "sohu"
+      },
+      "sha256": "1c04e3016492b6c7857303606428060a9f292a1925dca81701e3f11f2b20c630",
+      "source": "https://cdn.worldvectorlogo.com/logos/sohu.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/sohu",
+      "version": 0
+    },
+    {
+      "bytes": 845,
+      "collection": "轻量矢量替换",
+      "file": "sohu-1.svg",
+      "id": 1232,
+      "is_default": false,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "sohu-1.svg",
+        "original_is_default": false,
+        "original_slug": "sohu"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "ca36addf554d92a7cd450df925abeb7773236962f0306c762646e77c8c145c00",
+        "previous_bytes": 710712,
+        "previous_method": "traced-detail",
+        "previous_source": "https://statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico",
+        "reference": "https://statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "e458530374a2350f9ce5b318c61c375539f0b04ab37a8156f1fe41dfb5b2b046",
+      "source": "https://statics.itc.cn/web/static/images/pic/sohu-logo/favicon.ico",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 380,
+  "schema_version": 1,
+  "id": 516,
+  "title": "TED",
+  "url": "https://ted.com",
+  "domains": [
+    "ted.com"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "TED",
+    "ted.com"
+  ],
+  "aliases": [
+    "ted"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1688,
+      "collection": "GoTab 公开资源库",
+      "file": "ted.svg",
+      "gotab_id": 29,
+      "id": 1290,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ted.svg",
+        "original_is_default": true,
+        "original_slug": "ted"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1466,
+        "previous_sha256": "b62fd4d2dac1ae7563c35e479cdf88bfb438ad3a4c45ed9caf5250b6f843c39d",
+        "ratio": 0.2
+      },
+      "sha256": "ec5eca44618cc950c0b5d4c6e59dcacb48c3a7fdf448084164f3ab3a97d3bfcd",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HBAPYGJ7538RCA0Y9YA7BW.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

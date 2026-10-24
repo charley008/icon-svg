@@ -1,0 +1,48 @@
+{
+  "collection_id": 249,
+  "schema_version": 1,
+  "id": 349,
+  "title": "Mastercard 万事达",
+  "url": "https://mastercard.com",
+  "domains": [
+    "mastercard.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Worldvectorlogo补充",
+    "金融",
+    "支付",
+    "收款",
+    "Mastercard 万事达",
+    "mastercard",
+    "mastercard.com"
+  ],
+  "aliases": [
+    "mastercard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 584,
+      "collection": "Worldvectorlogo",
+      "file": "mastercard.svg",
+      "id": 859,
+      "is_default": true,
+      "label": "mastercard-modern-design-",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mastercard.svg",
+        "original_is_default": true,
+        "original_slug": "mastercard"
+      },
+      "sha256": "eeb7aca26727e76db67ad4d6df1a5665cc9c84ed2fa630c5da24badaac595e2a",
+      "source": "https://cdn.worldvectorlogo.com/logos/mastercard-modern-design-.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/mastercard-modern-design-",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

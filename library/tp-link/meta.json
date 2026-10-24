@@ -1,0 +1,43 @@
+{
+  "title": "TP-Link",
+  "url": "https://www.tp-link.com/",
+  "domains": [
+    "www.tp-link.com"
+  ],
+  "description": "路由器与网络设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "普联",
+    "路由器",
+    "网络设备",
+    "TP-Link"
+  ],
+  "aliases": [
+    "tp-link",
+    "普联",
+    "路由器",
+    "网络设备"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "tp-link.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8509501b77f506b22720dcb6998ac710b55dbc53ef121e00a95c3887d6c699ec",
+      "bytes": 420,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tp-link.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "tp-link.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

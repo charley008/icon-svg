@@ -1,0 +1,93 @@
+{
+  "collection_id": 91,
+  "schema_version": 1,
+  "id": 161,
+  "title": "招商银行",
+  "url": "https://cmbchina.com",
+  "domains": [
+    "cmbchina.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "招商银行",
+    "cmb",
+    "china-merchants-bank",
+    "cmbchina.com"
+  ],
+  "aliases": [
+    "cmb",
+    "china-merchants-bank"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2291,
+      "collection": "SVGLOGO",
+      "file": "cmb.svg",
+      "id": 396,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cmb.svg",
+        "original_is_default": true,
+        "original_slug": "cmb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2069,
+        "previous_sha256": "306f1b624f8229b04b27de0146c68d0a2b70b10deba4bd7c9046d5c2f8163b3a",
+        "ratio": 0.2
+      },
+      "sha256": "16c514b106e70c627954e1377d30b7f3e2b4ad5415ba3018af26211c2937f48c",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/CMB.svg",
+      "version": 0
+    },
+    {
+      "bytes": 35897,
+      "collection": "SVGLOGO",
+      "file": "cmb-1.svg",
+      "id": 397,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cmb-1.svg",
+        "original_is_default": false,
+        "original_slug": "cmb"
+      },
+      "sha256": "ee0f44f8f49655515260222099079dacde3596691a6160d04bf27b91b9ef61b0",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/CMB_wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1083,
+      "collection": "Iconify / arcticons",
+      "file": "cmb-2.svg",
+      "id": 398,
+      "is_default": false,
+      "label": "china-merchants-bank",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cmb-2.svg",
+        "original_is_default": false,
+        "original_slug": "cmb"
+      },
+      "rounded_corners": {
+        "previous_bytes": 850,
+        "previous_sha256": "5962eacc3425ab249b4ca64be12e9a428c68923a07186d257b4e897a2410f39d",
+        "ratio": 0.2
+      },
+      "sha256": "8dd3f1c4d616846373ebeb08d3a23ada61bdb5fcba5cab6437903be5db5d916b",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#china-merchants-bank",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

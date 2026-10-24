@@ -1,0 +1,50 @@
+{
+  "collection_id": 243,
+  "schema_version": 1,
+  "id": 343,
+  "title": "LogoPond",
+  "url": "https://logopond.com",
+  "domains": [
+    "logopond.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "LogoPond",
+    "logopond.com"
+  ],
+  "aliases": [
+    "logopond"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2521,
+      "collection": "GoTab 公开资源库",
+      "file": "logopond.svg",
+      "gotab_id": 137,
+      "id": 850,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "logopond.svg",
+        "original_is_default": true,
+        "original_slug": "logopond"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2299,
+        "previous_sha256": "66fe0142afbc5708d536082f8c656cda311b67c45e45f6d09da0e0f8434d3a3a",
+        "ratio": 0.2
+      },
+      "sha256": "e3b66eab15dfc0853342e9ee2157da207523332edead19a09d728734afe1f152",
+      "source": "https://web.gotab.cn/uploads/202409/01J8Y5VF0P0FCAVYHBY150CPXF.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

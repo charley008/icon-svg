@@ -1,0 +1,145 @@
+{
+  "collection_id": 29,
+  "schema_version": 1,
+  "id": 57,
+  "title": "支付宝",
+  "url": "https://alipay.com",
+  "domains": [
+    "alipay.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "金融",
+    "支付",
+    "收款",
+    "支付宝",
+    "alipay",
+    "alipay.com"
+  ],
+  "aliases": [
+    "alipay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1128,
+      "collection": "theSVG",
+      "file": "alipay.svg",
+      "id": 132,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alipay.svg",
+        "original_is_default": true,
+        "original_slug": "alipay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 895,
+        "previous_sha256": "f299a55ed03d09acf4536c2075035845e557ac018137399b7ba4c0cb781dd73c",
+        "ratio": 0.2
+      },
+      "sha256": "485aacdb3cb36ba66ffca7c3c7bffcabed05698c046ac5b9d25fde6d094c7e9a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alipay/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1128,
+      "collection": "theSVG",
+      "file": "alipay-1.svg",
+      "id": 133,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alipay-1.svg",
+        "original_is_default": false,
+        "original_slug": "alipay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 895,
+        "previous_sha256": "47879adc6875156256b6b61ace01ae3eea4ea56824f91dcbb5802d1d6bcb25fc",
+        "ratio": 0.2
+      },
+      "sha256": "78e7ee10d8a669dd1d9c180d0a5ffbec6f86b9907366153945627207baf9e92f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alipay/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1885,
+      "collection": "Iconify / icon-park",
+      "file": "alipay-2.svg",
+      "id": 134,
+      "is_default": false,
+      "label": "alipay",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alipay-2.svg",
+        "original_is_default": false,
+        "original_slug": "alipay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1652,
+        "previous_sha256": "5801b13dfad539222614ea6801103378f6a635d1820c53743a6c06c55f7e5b1c",
+        "ratio": 0.2
+      },
+      "sha256": "3a6dfc6d3dfc5d58f65c06ca7745cde49a6aa8bc1e0d8fcecf936a54cc424c0e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#alipay",
+      "version": 2
+    },
+    {
+      "bytes": 980,
+      "collection": "Iconify / ri",
+      "file": "alipay-3.svg",
+      "id": 135,
+      "is_default": false,
+      "label": "alipay-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alipay-3.svg",
+        "original_is_default": false,
+        "original_slug": "alipay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 747,
+        "previous_sha256": "18953f0a69f9c19d1b5c3381d23a42ded5c266e36fba0f834f1ae9634887ba30",
+        "ratio": 0.2
+      },
+      "sha256": "52025839ee612b39b95527225f3873613aa1ca01844092ecaf322e78ee77c802",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#alipay-fill",
+      "version": 3
+    },
+    {
+      "bytes": 963,
+      "collection": "Iconify / ri",
+      "file": "alipay-4.svg",
+      "id": 136,
+      "is_default": false,
+      "label": "alipay-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alipay-4.svg",
+        "original_is_default": false,
+        "original_slug": "alipay"
+      },
+      "rounded_corners": {
+        "previous_bytes": 730,
+        "previous_sha256": "fdc1e0e4c052e93be70c1a918a72fe29431c25294aaa19ed6357d0d28b3608b5",
+        "ratio": 0.2
+      },
+      "sha256": "df15fed3c302ac453248e5e562be500c15c2fa60d8237369c40d7d6ef90b1b28",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#alipay-line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

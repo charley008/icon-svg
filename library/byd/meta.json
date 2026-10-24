@@ -1,0 +1,78 @@
+{
+  "collection_id": 464,
+  "schema_version": 1,
+  "id": 628,
+  "title": "BYD",
+  "url": "https://www.byd.com/",
+  "domains": [
+    "byd.com"
+  ],
+  "description": "BYD 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "BYD",
+    "byd",
+    "比亚迪",
+    "汽车",
+    "新能源汽车"
+  ],
+  "aliases": [
+    "比亚迪"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 915,
+      "collection": "用户补充 SVG",
+      "file": "byd.svg",
+      "id": 1565,
+      "is_default": true,
+      "label": "byd-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "byd-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/byd-3.svg"
+      },
+      "sha256": "bbfd46f8a56d255f2057ba30b5088c746672e72d9a528f3d2871448f12e56f99",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/byd-3.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2081,
+      "collection": "用户补充 SVG",
+      "file": "byd-1.svg",
+      "id": 1566,
+      "is_default": false,
+      "label": "byd-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "byd-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/byd-2.svg"
+      },
+      "sha256": "35e22d583df7547f8e9bb7d7ee42a02595b1cefc3d398ede8fb417d67a229608",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/byd-2.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1806,
+      "collection": "用户补充 SVG",
+      "file": "byd-2.svg",
+      "id": 1567,
+      "is_default": false,
+      "label": "byd-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "byd-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/byd-1.svg"
+      },
+      "sha256": "532ce729e2ecf9cfeddbc020262a99391079479613799c92c30ea36da5dad9fb",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/byd-1.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

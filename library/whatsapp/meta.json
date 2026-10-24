@@ -1,0 +1,128 @@
+{
+  "collection_id": 420,
+  "schema_version": 1,
+  "id": 578,
+  "title": "whatsapp",
+  "url": "https://whatsapp.com",
+  "domains": [
+    "whatsapp.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "whatsapp",
+    "whatsapp.com"
+  ],
+  "aliases": [
+    "whatsapp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1668,
+      "collection": "theSVG",
+      "file": "whatsapp.svg",
+      "id": 1448,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whatsapp.svg",
+        "original_is_default": true,
+        "original_slug": "whatsapp"
+      },
+      "sha256": "dcd64138bf902a949d79b23c338761a5f582f4509b9b11d1a0f3e048962b8dd4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/whatsapp/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6937,
+      "collection": "theSVG",
+      "file": "whatsapp-1.svg",
+      "id": 1449,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whatsapp-1.svg",
+        "original_is_default": false,
+        "original_slug": "whatsapp"
+      },
+      "sha256": "5b47dc2a7f21a2c4b96a8ae84393c1d2db139d7fd9abccbd2b9911cfb12d8f77",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/whatsapp/wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1542,
+      "collection": "theSVG",
+      "file": "whatsapp-2.svg",
+      "id": 1450,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whatsapp-2.svg",
+        "original_is_default": false,
+        "original_slug": "whatsapp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1309,
+        "previous_sha256": "ceeca56598e707f4c22e1bef7fa8a4344b63c466da528ef8912a0b294d8d3b28",
+        "ratio": 0.2
+      },
+      "sha256": "de8602a03109ca111756fad783dbe0c0a1bf0a78637f638f859e9dc9c8979e38",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/whatsapp/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2383,
+      "collection": "Dashboard Icons",
+      "file": "whatsapp-3.svg",
+      "id": 1451,
+      "is_default": false,
+      "label": "whatsapp",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whatsapp-3.svg",
+        "original_is_default": false,
+        "original_slug": "whatsapp"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2160,
+        "previous_sha256": "3a85dabc4a224d904cbdc509922e47ab9cdad0bd1c986cbe88879ffeac4909ab",
+        "ratio": 0.2
+      },
+      "sha256": "19d50d882dea02434ffe661b46352f44259a460ee7dc40fba2869e4e52469626",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whatsapp.svg",
+      "version": 3
+    },
+    {
+      "bytes": 7201,
+      "collection": "Iconify / logos",
+      "file": "whatsapp-4.svg",
+      "id": 1452,
+      "is_default": false,
+      "label": "whatsapp",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whatsapp-4.svg",
+        "original_is_default": false,
+        "original_slug": "whatsapp"
+      },
+      "sha256": "7b3c268420b14e2e6e74a8236f59b4a4c0b75c82f647badcef331309db9c9a24",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#whatsapp",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

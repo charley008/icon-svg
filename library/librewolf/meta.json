@@ -1,0 +1,44 @@
+{
+  "title": "LibreWolf",
+  "url": "https://librewolf.net/",
+  "domains": [
+    "librewolf.net"
+  ],
+  "description": "注重隐私的网页浏览器。",
+  "category": "浏览器",
+  "tags": [
+    "浏览器",
+    "隐私",
+    "Firefox",
+    "LibreWolf"
+  ],
+  "aliases": [
+    "librewolf",
+    "浏览器",
+    "隐私",
+    "Firefox",
+    "Web Browser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "librewolf.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2bddab0e8d3cc663fd0fecedfdcc4cf68af973d16dd6f32253b611dbd34cdfdb",
+      "bytes": 1885,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librewolf.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "librewolf.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

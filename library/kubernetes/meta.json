@@ -1,0 +1,41 @@
+{
+  "title": "Kubernetes",
+  "url": "https://kubernetes.io/",
+  "domains": [
+    "kubernetes.io"
+  ],
+  "description": "开源容器编排平台。",
+  "category": "开发编程",
+  "tags": [
+    "K8s",
+    "容器编排",
+    "Kubernetes"
+  ],
+  "aliases": [
+    "kubernetes",
+    "K8s",
+    "容器编排"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "kubernetes.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "cb354c94ba42b4201dd5c1da46323df2f98cc30b124a0e280a78d5b3b508018c",
+      "bytes": 6040,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kubernetes.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "kubernetes.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

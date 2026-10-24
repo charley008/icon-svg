@@ -1,0 +1,62 @@
+{
+  "collection_id": 348,
+  "schema_version": 1,
+  "id": 478,
+  "title": "石墨文档",
+  "url": "https://shimo.im",
+  "domains": [
+    "shimo.im"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "国内补充",
+    "办公",
+    "效率工具",
+    "文档",
+    "在线文档",
+    "石墨文档",
+    "shimo",
+    "shimo-docs",
+    "shimo.im"
+  ],
+  "aliases": [
+    "shimo",
+    "shimo-docs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "chuxin.shimo.wendang.2014",
+      "appstore_track": "https://apps.apple.com/cn/app/%E7%9F%B3%E5%A2%A8%E6%96%87%E6%A1%A3-%E5%9C%A8%E7%BA%BF%E6%96%87%E6%A1%A3%E5%8D%8F%E4%BD%9C%E7%BC%96%E8%BE%91%E5%92%8C%E8%A1%A8%E6%A0%BC%E5%88%B6%E4%BD%9C/id1013727678?uo=4",
+      "bytes": 80738,
+      "collection": "原图描摹",
+      "file": "shimo.svg",
+      "id": 1196,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-detail",
+      "provenance": {
+        "original_file": "shimo.svg",
+        "original_is_default": true,
+        "original_slug": "shimo"
+      },
+      "render_rmse": 7.023,
+      "rounded_corners": {
+        "previous_bytes": 80516,
+        "previous_sha256": "de145d760b4a28f327d1ebb881155f746206eb5f506ffc4bba219038b9da7b15",
+        "ratio": 0.2
+      },
+      "sha256": "5b45d32ef1f3393c689a9747361b57053ec0535778c0168fe68019c8259b1580",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/0d/f8/db0df8bb-00b1-b680-9d67-61bf41e1638e/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+      "source_size": [
+        512,
+        512
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

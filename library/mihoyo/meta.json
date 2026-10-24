@@ -1,0 +1,124 @@
+{
+  "collection_id": 262,
+  "schema_version": 1,
+  "id": 378,
+  "title": "米哈游",
+  "url": "https://mihoyo.com",
+  "domains": [
+    "mihoyo.com"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "国内补充",
+    "游戏",
+    "米哈游",
+    "mihoyo",
+    "hoyoverse",
+    "mihoyo.com"
+  ],
+  "aliases": [
+    "mihoyo",
+    "hoyoverse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2489,
+      "collection": "theSVG",
+      "file": "mihoyo.svg",
+      "id": 955,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mihoyo.svg",
+        "original_is_default": true,
+        "original_slug": "mihoyo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2256,
+        "previous_sha256": "4b54e3179230479ef7389b534a73b1fb44c570ec8bedde7a2ea66171e894ec36",
+        "ratio": 0.2
+      },
+      "sha256": "836a10690f361cfa524c722128f929208e9b6362e62ec91c90c0ccc3834b8ee8",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/mihoyo/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2489,
+      "collection": "theSVG",
+      "file": "mihoyo-1.svg",
+      "id": 956,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mihoyo-1.svg",
+        "original_is_default": false,
+        "original_slug": "mihoyo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2256,
+        "previous_sha256": "1a0b5dcb30534a95ce4a930358500aa4f2261529bde9cb25d88494e9f7b3d928",
+        "ratio": 0.2
+      },
+      "sha256": "1e5a55ff5cfa46ffb1d8ca2251a56e218bb152f9830cbf62489554298bec92da",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/mihoyo/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 379,
+      "key": "miyoushe",
+      "title": "米游社",
+      "url": "https://miyoushe.com",
+      "domains": [
+        "miyoushe.com"
+      ],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "游戏",
+        "米游社",
+        "miyoushe",
+        "miyoushe.com"
+      ],
+      "aliases": [
+        "miyoushe"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8000,
+          "collection": "GoTab 公开资源库",
+          "file": "mihoyo-miyoushe.svg",
+          "gotab_id": 216,
+          "id": 957,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "miyoushe.svg",
+            "original_is_default": true,
+            "original_slug": "miyoushe"
+          },
+          "rounded_corners": {
+            "previous_bytes": 7778,
+            "previous_sha256": "1bade7bba4e3521df1209f0eeb0a7cb421d223fda3e0650309fbe3c3292e6385",
+            "ratio": 0.2
+          },
+          "sha256": "9f2b969447e6ac60f5013008dc68f9cd05f21a1fd2178e50421e1ffa4f3a117c",
+          "source": "https://web.gotab.cn/sourceStore/website/01JXCXENX0STWPA100P19062RR.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "collection_id": 298,
+  "schema_version": 1,
+  "id": 424,
+  "title": "OpenRouter",
+  "url": "https://openrouter.ai",
+  "domains": [
+    "openrouter.ai"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "OpenRouter",
+    "openrouter.ai"
+  ],
+  "aliases": [
+    "openrouter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1113,
+      "collection": "GoTab 公开资源库",
+      "file": "openrouter.svg",
+      "gotab_id": 314,
+      "id": 1075,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "openrouter.svg",
+        "original_is_default": true,
+        "original_slug": "openrouter"
+      },
+      "rounded_corners": {
+        "previous_bytes": 891,
+        "previous_sha256": "c8cc394c8af98a5e469bff1f5f6347481cae4a354f33dcc9d0583262896b3074",
+        "ratio": 0.2
+      },
+      "sha256": "1cfc913427d4518fd619878d37daaa148607484c4ab6a4a801bf9e3d9d2293a5",
+      "source": "https://web.gotab.cn/sourceStore/website/01KZ7ZNNSNA9F4HPJPVE7WJTBE.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

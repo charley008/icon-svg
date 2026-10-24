@@ -1,0 +1,93 @@
+{
+  "collection_id": 19,
+  "schema_version": 1,
+  "id": 20,
+  "title": "农业银行",
+  "url": "https://abchina.com",
+  "domains": [
+    "abchina.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "农业银行",
+    "abc-bank",
+    "agricultural-bank-of-china",
+    "abchina.com"
+  ],
+  "aliases": [
+    "abc-bank",
+    "agricultural-bank-of-china"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1680,
+      "collection": "SVGLOGO",
+      "file": "abc-bank.svg",
+      "id": 33,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "abc-bank.svg",
+        "original_is_default": true,
+        "original_slug": "abc-bank"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1458,
+        "previous_sha256": "e3e097424abf55e8dad82e8376ed225279ffd3c6161a4561a31ff104d4c08e82",
+        "ratio": 0.2
+      },
+      "sha256": "50e593dfaddc38dc0887383931ca6ffc5473b4ab704087b7545722a0e04e92d1",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/ABC.svg",
+      "version": 0
+    },
+    {
+      "bytes": 31391,
+      "collection": "SVGLOGO",
+      "file": "abc-bank-1.svg",
+      "id": 34,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "abc-bank-1.svg",
+        "original_is_default": false,
+        "original_slug": "abc-bank"
+      },
+      "sha256": "f314d81d918ac5315754d79d1066e91d09b381a5084dd5b1cfceeb5acf6d6175",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/ABC_wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1395,
+      "collection": "Iconify / arcticons",
+      "file": "abc-bank-2.svg",
+      "id": 35,
+      "is_default": false,
+      "label": "agricultural-bank-of-china",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "abc-bank-2.svg",
+        "original_is_default": false,
+        "original_slug": "abc-bank"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1162,
+        "previous_sha256": "26982e4b7205c1dada4798250c5e47499ed18e479f9cc941a5d8fd5b106bca35",
+        "ratio": 0.2
+      },
+      "sha256": "fca750bf660686f21ee97c405f880691200fd5dc56d95c66a5d6b558f6510b89",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#agricultural-bank-of-china",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

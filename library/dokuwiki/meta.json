@@ -1,0 +1,43 @@
+{
+  "title": "DokuWiki",
+  "url": "https://www.dokuwiki.org/",
+  "domains": [
+    "www.dokuwiki.org"
+  ],
+  "description": "开源 Wiki 应用。",
+  "category": "办公效率",
+  "tags": [
+    "Wiki",
+    "文档",
+    "知识库",
+    "DokuWiki"
+  ],
+  "aliases": [
+    "dokuwiki",
+    "Wiki",
+    "文档",
+    "知识库"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "dokuwiki.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "edc73fd0decdbf497b0d4d57120c18655e3634761d17e61531bdab33db5d9f89",
+      "bytes": 8443,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dokuwiki.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "dokuwiki.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

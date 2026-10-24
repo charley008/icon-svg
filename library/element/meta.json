@@ -1,0 +1,43 @@
+{
+  "title": "Element",
+  "url": "https://element.io/",
+  "domains": [
+    "element.io"
+  ],
+  "description": "基于 Matrix 的即时通讯应用。",
+  "category": "社交通讯",
+  "tags": [
+    "Matrix",
+    "即时通讯",
+    "加密聊天",
+    "Element"
+  ],
+  "aliases": [
+    "element",
+    "Matrix",
+    "即时通讯",
+    "加密聊天"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "element.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "dadef7649160a6b19b8e288e31da2b960091ba049f6f140e785b8be8388dc3c6",
+      "bytes": 842,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/element.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "element.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

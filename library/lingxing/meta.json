@@ -1,0 +1,58 @@
+{
+  "collection_id": 240,
+  "schema_version": 1,
+  "id": 340,
+  "title": "领星ERP",
+  "url": "https://lingxing.com",
+  "domains": [
+    "lingxing.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "中国地区Top100",
+    "电商",
+    "购物",
+    "领星ERP",
+    "lingxing",
+    "lingxing.com"
+  ],
+  "aliases": [
+    "lingxing"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 618,
+      "collection": "轻量矢量替换",
+      "file": "lingxing.svg",
+      "id": 842,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "lingxing.svg",
+        "original_is_default": true,
+        "original_slug": "lingxing"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "c8c84d839f6e764713167478befbd3920112e993fef9fa2f4b6a420812e5f5d2",
+        "previous_bytes": 663333,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.lingxing.com/favicon.ico",
+        "reference": "https://www.lingxing.com/favicon.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "c9772185aa3a29e9e1d329bedd4acc7b014ff0da2bf2ba6102fd93f6a2c70b36",
+      "source": "https://www.lingxing.com/favicon.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

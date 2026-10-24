@@ -1,0 +1,75 @@
+{
+  "collection_id": 284,
+  "schema_version": 1,
+  "id": 408,
+  "title": "NGA玩家社区",
+  "url": "https://nga.cn",
+  "domains": [
+    "nga.cn"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "用户优选",
+    "社交",
+    "通讯",
+    "NGA玩家社区",
+    "nga",
+    "ngabbs",
+    "nga.cn"
+  ],
+  "aliases": [
+    "nga",
+    "ngabbs"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2223,
+      "collection": "用户优选",
+      "file": "nga.svg",
+      "id": 1023,
+      "is_default": true,
+      "label": "ngabbs",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "nga.svg",
+        "original_is_default": true,
+        "original_slug": "nga"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2001,
+        "previous_sha256": "39c6ffb63c240d254df59ca9a4fe9b5933dba1ba319cb831e92f4d935fc976f4",
+        "ratio": 0.2
+      },
+      "sha256": "dcf616db0ab9b1fb6884902ca137d54ed8586191da67e12d4b9dfde77b6d60cb",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 5356,
+      "collection": "官网内联 SVG",
+      "file": "nga-1.svg",
+      "id": 1024,
+      "is_default": false,
+      "label": "official-mark",
+      "license": "trademark-owner",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nga-1.svg",
+        "original_is_default": false,
+        "original_slug": "nga"
+      },
+      "sha256": "2ae6e6dcb6ac0e131504fa777d15b193401b84f7477c160969a4b83691e5f567",
+      "source": "https://nga.cn#inline-logo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

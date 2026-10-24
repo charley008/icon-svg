@@ -1,0 +1,142 @@
+{
+  "collection_id": 350,
+  "schema_version": 1,
+  "id": 480,
+  "title": "Signal",
+  "url": "https://signal.org",
+  "domains": [
+    "signal.org"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球App补充",
+    "社交",
+    "通讯",
+    "Signal",
+    "signal.org"
+  ],
+  "aliases": [
+    "signal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1971,
+      "collection": "theSVG",
+      "file": "signal.svg",
+      "id": 1202,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signal.svg",
+        "original_is_default": true,
+        "original_slug": "signal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1738,
+        "previous_sha256": "94b649881471de84ea2497e5c617f734212ae644faa90a70c36b3033ebc11842",
+        "ratio": 0.2
+      },
+      "sha256": "a041415adfa21bfd86c4a29869c6ee46f02b91a491aad204c8bb9912ccfae26d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/signal/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1971,
+      "collection": "theSVG",
+      "file": "signal-1.svg",
+      "id": 1203,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signal-1.svg",
+        "original_is_default": false,
+        "original_slug": "signal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1738,
+        "previous_sha256": "c5fb7f2abc388f5171202ea0c2af5c7fcccfee6f2531d1476303c0cdaa301d2f",
+        "ratio": 0.2
+      },
+      "sha256": "4aaf8299f97de54512cdab23ccad9ca08b9e1c4e836ff67307029da047c7537d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/signal/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1987,
+      "collection": "Dashboard Icons",
+      "file": "signal-2.svg",
+      "id": 1204,
+      "is_default": false,
+      "label": "signal",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signal-2.svg",
+        "original_is_default": false,
+        "original_slug": "signal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1764,
+        "previous_sha256": "df48a917dc04b1458c80aebedcfddbc3811168636943794a51cf937b94574fff",
+        "ratio": 0.2
+      },
+      "sha256": "8c01d39e82d43c7c5792037385178a1e6b2eb1979242d1741e6c4899bb8f6137",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/signal.svg",
+      "version": 2
+    },
+    {
+      "bytes": 574,
+      "collection": "Iconify / icon-park",
+      "file": "signal-3.svg",
+      "id": 1205,
+      "is_default": false,
+      "label": "signal",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signal-3.svg",
+        "original_is_default": false,
+        "original_slug": "signal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 341,
+        "previous_sha256": "c475ebeccec9f50d4f27b730384fd93738b6955e71d39970d7476e62c9348d77",
+        "ratio": 0.2
+      },
+      "sha256": "c33f6084b9346062ad7badc77e6a0fce5a25bfeb200340e82f0a53b571bcd98e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#signal",
+      "version": 3
+    },
+    {
+      "bytes": 1327,
+      "collection": "Iconify / arcticons",
+      "file": "signal-4.svg",
+      "id": 1206,
+      "is_default": false,
+      "label": "signal",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signal-4.svg",
+        "original_is_default": false,
+        "original_slug": "signal"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1094,
+        "previous_sha256": "a13d5c127b2967ce69743f52d6f17431c41f9c8f526abd507c576f60c08074d1",
+        "ratio": 0.2
+      },
+      "sha256": "63d347096482364583f248b7b95c8833be2b8cd521832763738095131e2fe72c",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#signal",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

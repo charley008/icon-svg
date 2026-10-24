@@ -1,0 +1,57 @@
+{
+  "collection_id": 14,
+  "schema_version": 1,
+  "id": 15,
+  "title": "前程无忧",
+  "url": "https://51job.com",
+  "domains": [
+    "51job.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "前程无忧",
+    "51job",
+    "51job.com"
+  ],
+  "aliases": [
+    "51job"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3713,
+      "collection": "轻量矢量替换",
+      "file": "51job.svg",
+      "id": 27,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "51job.svg",
+        "original_is_default": true,
+        "original_slug": "51job"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "0552945b69ba80735dcab2d5b705462858359294040957c36a5c8b42c86c62b0",
+        "previous_bytes": 403804,
+        "previous_method": "traced-detail",
+        "previous_source": "https://fecdn.51jobcdn.com/fe/public/icons/favicon51.ico",
+        "reference": "https://fecdn.51jobcdn.com/fe/public/icons/favicon51.ico",
+        "note": "依据原有品牌图案手工重绘简洁路径；去除描摹噪点和临时活动装饰。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "9d95217d7fd8f056615ed7d7f09e13a8b2c217685f5a464678ee35d572794241",
+      "source": "https://fecdn.51jobcdn.com/fe/public/icons/favicon51.ico",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 85,
+  "schema_version": 1,
+  "id": 155,
+  "title": "研招网",
+  "url": "https://yz.chsi.com.cn",
+  "domains": [
+    "yz.chsi.com.cn"
+  ],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "教育",
+    "科研",
+    "研招网",
+    "chsi-yz",
+    "yz.chsi.com.cn"
+  ],
+  "aliases": [
+    "chsi-yz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1142,
+      "collection": "GoTab 公开资源库",
+      "file": "chsi-yz.svg",
+      "gotab_id": 81,
+      "id": 386,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "chsi-yz.svg",
+        "original_is_default": true,
+        "original_slug": "chsi-yz"
+      },
+      "rounded_corners": {
+        "previous_bytes": 920,
+        "previous_sha256": "737a31c164f6f1093e87ca415d495043471ceb1ca54cbb532961a78d9068d98b",
+        "ratio": 0.2
+      },
+      "sha256": "b06969d2e0191098eb409aa3a09374f3b26a60e0e26312976ef797a7efd1c260",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HMZTJR5E8TR5PDNSEEKGR8.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,410 @@
+{
+  "collection_id": 38,
+  "schema_version": 1,
+  "id": 73,
+  "title": "Apple",
+  "url": "https://www.apple.com",
+  "domains": [
+    "apple.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "用户优选",
+    "硬件",
+    "设备",
+    "苹果",
+    "Apple",
+    "apple.com"
+  ],
+  "aliases": [
+    "apple"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 857,
+      "collection": "已有图标",
+      "file": "apple.svg",
+      "id": 176,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "apple.svg",
+        "original_is_default": true,
+        "original_slug": "apple"
+      },
+      "rounded_corners": {
+        "previous_bytes": 632,
+        "previous_sha256": "340a4f0313a7f5426526b8f1b4056f520384e8fca2ba0322ca0e1b609a24b7a9",
+        "ratio": 0.2
+      },
+      "sha256": "39baa5bf6f0958deff246ccb3b91fa95abb862a7c2d31638895f80893fecb12b",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1298,
+      "collection": "GoTab 公开资源库",
+      "file": "apple-1.svg",
+      "gotab_id": 65,
+      "id": 177,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "apple-1.svg",
+        "original_is_default": false,
+        "original_slug": "apple"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1076,
+        "previous_sha256": "205ef6da008dc1bd333f3dcab7961b2ce14647ed6773e1f32b8b082a8f5772a7",
+        "ratio": 0.2
+      },
+      "sha256": "a1b87ed6bdbde919b2846906caaaff8bd3e7aee304a42af93376d931ab86a065",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HK2S1GBSQWSFSZ5553J749.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1712,
+      "collection": "已有图标",
+      "file": "apple-2.svg",
+      "id": 178,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apple-2.svg",
+        "original_is_default": false,
+        "original_slug": "apple"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1487,
+        "previous_sha256": "0c0f883eff3292a49f8d1389b3291a976953948f1661723394be5f588e400dfa",
+        "ratio": 0.2
+      },
+      "sha256": "11a177df02ac8dfa901b999ffa20a73d8f59501cee3e2e926b2edb2c49ea94c6",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/apple-badge/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 758,
+      "collection": "已有图标",
+      "file": "apple-3.svg",
+      "id": 179,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apple-3.svg",
+        "original_is_default": false,
+        "original_slug": "apple"
+      },
+      "sha256": "ce03a79c3c72bd2d9fe8a67c857c0518d45f5c643de5ae2a503b4572f1bcad84",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/apple/default.svg",
+      "version": 3
+    },
+    {
+      "bytes": 746,
+      "collection": "已有图标",
+      "file": "apple-4.svg",
+      "id": 180,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apple-4.svg",
+        "original_is_default": false,
+        "original_slug": "apple"
+      },
+      "sha256": "776fc996d784119759e11088b423c881353436af7bd7165fef08b345ad135a5d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/apple/light.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1646,
+      "collection": "已有图标",
+      "file": "apple-5.svg",
+      "id": 181,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apple-5.svg",
+        "original_is_default": false,
+        "original_slug": "apple"
+      },
+      "sha256": "f8625d1c5053b1246c2ba628be5c3394d64986b4cd2c7ac091cadcf0f94fb862",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-alt.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": [
+    {
+      "id": 74,
+      "key": "appstore",
+      "title": "App Store",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "用户优选",
+        "自用",
+        "系统工具",
+        "苹果",
+        "App Store",
+        "apple-app-store"
+      ],
+      "aliases": [
+        "apple-app-store"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2235,
+          "collection": "用户优选",
+          "file": "apple-appstore.svg",
+          "id": 182,
+          "is_default": true,
+          "label": "apple-app-store",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "apple-app-store.svg",
+            "original_is_default": true,
+            "original_slug": "apple-app-store"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2017,
+            "previous_sha256": "68fb9305b3dc4b701159b84175ba815963dcb334f89d1873dab97472995bb654",
+            "ratio": 0.2
+          },
+          "sha256": "9783165d2954e0f269c840bac95b0b5009731e03e2d70bd2dfa2041b2b761cbc",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1717,
+          "collection": "用户优化 SVG",
+          "file": "apple-appstore-1.svg",
+          "id": 183,
+          "is_default": false,
+          "label": "apps.apple",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "apple-app-store-1.svg",
+            "original_is_default": false,
+            "original_slug": "apple-app-store"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1495,
+            "previous_sha256": "86b320e1543dc02d632b65aff2c70a4afe765504407a2f8d0ccc5764c866d72e",
+            "ratio": 0.2
+          },
+          "sha256": "7e5097c4018054510b006606f82871e37c5b07e371993fa42235265ac91fa2ac",
+          "source": "用户确认重绘：App Store 蓝色渐变与立体高光交叉棒",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 75,
+      "key": "music",
+      "title": "Apple Music",
+      "url": "https://music.apple.com",
+      "domains": [
+        "music.apple.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球App补充",
+        "影音",
+        "苹果",
+        "音乐",
+        "听歌",
+        "Apple Music",
+        "apple-music",
+        "applemusic",
+        "music.apple.com"
+      ],
+      "aliases": [
+        "apple-music",
+        "applemusic"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2772,
+          "collection": "theSVG",
+          "file": "apple-music.svg",
+          "id": 184,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-music.svg",
+            "original_is_default": true,
+            "original_slug": "apple-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2550,
+            "previous_sha256": "5af8cf47393db5628d92492564bf132da722841028a9e5b129f873e8b84b570d",
+            "ratio": 0.2
+          },
+          "sha256": "e34240ad74c8b5625203aa6da038d64c1c40f4b34c75804dff89fe4227ff28ea",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/apple-music/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1381,
+          "collection": "theSVG",
+          "file": "apple-music-1.svg",
+          "id": 185,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-music-1.svg",
+            "original_is_default": false,
+            "original_slug": "apple-music"
+          },
+          "sha256": "fa5950ccb0aa2a71c162a9394e7b1b52ab622eb9ded0cfc3aa49179ebcc31412",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/apple-music/wordmark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2061,
+          "collection": "theSVG",
+          "file": "apple-music-2.svg",
+          "id": 186,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-music-2.svg",
+            "original_is_default": false,
+            "original_slug": "apple-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1828,
+            "previous_sha256": "2d7f05ba2fa1d667119660652c71e66fadc4a832b363d0474a51f280cdf5e0b2",
+            "ratio": 0.2
+          },
+          "sha256": "cf57e7c16109e60d257a2eb4f321ac40760d5e9190294a5f0b282798a88ca658",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/apple-music/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 2061,
+          "collection": "Simple Icons",
+          "file": "apple-music-3.svg",
+          "id": 187,
+          "is_default": false,
+          "label": "applemusic",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-music-3.svg",
+            "original_is_default": false,
+            "original_slug": "apple-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1828,
+            "previous_sha256": "ecf3fc6ecb5b800d68fcdf7c1e3e0103e39e7173366ff242067544b089ba8d8a",
+            "ratio": 0.2
+          },
+          "sha256": "eda3f11e0dbb14cef733f9dabaef493f922c621423bc461ee848e373270e50d8",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/applemusic.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1010,
+          "collection": "Iconify / arcticons",
+          "file": "apple-music-4.svg",
+          "id": 188,
+          "is_default": false,
+          "label": "applemusic",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-music-4.svg",
+            "original_is_default": false,
+            "original_slug": "apple-music"
+          },
+          "rounded_corners": {
+            "previous_bytes": 777,
+            "previous_sha256": "85e50db09bfc60f24732cd5fac009d37496f8b687ef548f2acdb4f6a1f82c3f5",
+            "ratio": 0.2
+          },
+          "sha256": "affed90790c7c65365e550054284fbe7002425f79c6ef8a136fba9c8bd856708",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#applemusic",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "title": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/",
+      "domains": [
+        "podcasts.apple.com"
+      ],
+      "description": "Apple 播客服务。",
+      "category": "影音娱乐",
+      "tags": [
+        "苹果播客",
+        "播客",
+        "Apple Podcasts"
+      ],
+      "aliases": [
+        "apple-podcasts",
+        "苹果播客",
+        "播客",
+        "podcast"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "apple-podcasts.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "8b9a2e22588b1e79e0b1f8ed455b1b3e9b4aa14c0ecd4d0357f0ca8bfe807b31",
+          "bytes": 2445,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-podcasts.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "apple-podcasts.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "podcasts"
+    }
+  ]
+}

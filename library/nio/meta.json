@@ -1,0 +1,61 @@
+{
+  "collection_id": 482,
+  "schema_version": 1,
+  "id": 646,
+  "title": "NIO",
+  "url": "https://www.nio.com/",
+  "domains": [
+    "nio.com"
+  ],
+  "description": "NIO 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "NIO",
+    "nio",
+    "蔚来",
+    "汽车",
+    "电动汽车"
+  ],
+  "aliases": [
+    "蔚来"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 607,
+      "collection": "用户补充 SVG",
+      "file": "nio.svg",
+      "id": 1595,
+      "is_default": true,
+      "label": "nio-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nio-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nio-2.svg"
+      },
+      "sha256": "5d7c6101f520a7cf4e0710e608210a6660ab30155dabc7bcd4e2a5bacbab4b58",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nio-2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1226,
+      "collection": "用户补充 SVG",
+      "file": "nio-1.svg",
+      "id": 1596,
+      "is_default": false,
+      "label": "nio-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nio-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nio-1.svg"
+      },
+      "sha256": "e7918a24f3f51872288e1d6c0f10af7f423168650a07a050c4235d2a17896252",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nio-1.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

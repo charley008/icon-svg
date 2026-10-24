@@ -1,0 +1,61 @@
+{
+  "collection_id": 16,
+  "schema_version": 1,
+  "id": 17,
+  "title": "58同城",
+  "url": "https://58.com",
+  "domains": [
+    "58.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "58同城",
+    "58",
+    "58tongcheng",
+    "58.com"
+  ],
+  "aliases": [
+    "58",
+    "58tongcheng"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.taofang.iphone",
+      "appstore_track": "https://apps.apple.com/cn/app/58%E5%90%8C%E5%9F%8E-%E6%8B%9B%E8%81%98%E6%B1%82%E8%81%8C%E6%89%BE%E5%B7%A5%E4%BD%9C%E5%AE%B6%E6%94%BF%E7%A7%9F%E6%88%BF%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BA%8C%E6%89%8B%E8%BD%A6/id480079300?uo=4",
+      "bytes": 780,
+      "collection": "轻量矢量替换",
+      "file": "58.svg",
+      "id": 30,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "58.svg",
+        "original_is_default": true,
+        "original_slug": "58"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "d27b3e3ebb5208567d970c7dc74964cf60879161aba60382426663b9aad1698e",
+        "previous_bytes": 516964,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/90/63/bc906342-a24f-17ae-14f8-cd58c85b11f7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/90/63/bc906342-a24f-17ae-14f8-cd58c85b11f7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/512x512bb.jpg",
+        "note": "重绘彩色 58 主体，移除“挑房节”促销图案。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "cc8ef1755a96ec81dc6f1acfc3ca5e91bf19c8c30eef99aea9ba8599bea7e91c",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/90/63/bc906342-a24f-17ae-14f8-cd58c85b11f7/AppIcon-0-0-1x_U007emarketing-0-8-0-0-P3-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Bluesky",
+  "url": "https://bsky.app/",
+  "domains": [
+    "bsky.app"
+  ],
+  "description": "社交网络服务。",
+  "category": "社交通讯",
+  "tags": [
+    "蓝天",
+    "社交",
+    "Bluesky"
+  ],
+  "aliases": [
+    "bluesky",
+    "蓝天",
+    "社交"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "bluesky.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "0cfadae29283a01d2023f1a13fd9da77935921c6185d4eef0f52aa2d0147a14d",
+      "bytes": 525,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bluesky.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "bluesky.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

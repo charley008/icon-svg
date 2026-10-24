@@ -1,0 +1,49 @@
+{
+  "collection_id": 42,
+  "schema_version": 1,
+  "id": 79,
+  "title": "AutoDL",
+  "url": "https://autodl.com",
+  "domains": [
+    "autodl.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "AutoDL",
+    "autodl.com"
+  ],
+  "aliases": [
+    "autodl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2439,
+      "collection": "GoTab 公开资源库",
+      "file": "autodl.svg",
+      "gotab_id": 278,
+      "id": 200,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "autodl.svg",
+        "original_is_default": true,
+        "original_slug": "autodl"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2217,
+        "previous_sha256": "eb781296379c80076df750a4fd7836ce42b4d6e9839a2d3889d5c7b2010e4e1c",
+        "ratio": 0.2
+      },
+      "sha256": "a5a696ca1fa469e88d235732352c7a71823ebb69b16b1768fd9641ffd89c3de2",
+      "source": "https://web.gotab.cn/sourceStore/website/01KY22H8B45S8NMXSBCQNC8RS4.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

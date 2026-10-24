@@ -1,0 +1,92 @@
+{
+  "collection_id": 122,
+  "schema_version": 1,
+  "id": 192,
+  "title": "大疆",
+  "url": "https://dji.com",
+  "domains": [
+    "dji.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "国内补充",
+    "硬件",
+    "设备",
+    "大疆",
+    "dji",
+    "dji.com"
+  ],
+  "aliases": [
+    "dji"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1972,
+      "collection": "theSVG",
+      "file": "dji.svg",
+      "id": 465,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dji.svg",
+        "original_is_default": true,
+        "original_slug": "dji"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1739,
+        "previous_sha256": "24a6ed99041d5182714ff80a8e9139a6940d628481d02fbecd252345280267b4",
+        "ratio": 0.2
+      },
+      "sha256": "e6afbe201e943ba759ba3208499d919339bc7249b00f2d19392555ed76229401",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/dji/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 972,
+      "collection": "Iconify / arcticons",
+      "file": "dji-1.svg",
+      "id": 466,
+      "is_default": false,
+      "label": "dji",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dji-1.svg",
+        "original_is_default": false,
+        "original_slug": "dji"
+      },
+      "rounded_corners": {
+        "previous_bytes": 739,
+        "previous_sha256": "2397dc85bf9d36238288c1db39d6ca404eb26d4def2e652d4d67c606298cd0ca",
+        "ratio": 0.2
+      },
+      "sha256": "d659d57e033864e7d99ff156cb046505d9b0ba89365719203f882a2df656edcb",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#dji",
+      "version": 1
+    },
+    {
+      "bytes": 2059,
+      "collection": "SVGLOGO",
+      "file": "dji-2.svg",
+      "id": 467,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dji-2.svg",
+        "original_is_default": false,
+        "original_slug": "dji"
+      },
+      "sha256": "ba8f7b9dfd218c552c89e69006ef2b711117a3721b7cb15616e53dd763fff8f9",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/DJI.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

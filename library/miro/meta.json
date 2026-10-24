@@ -1,0 +1,45 @@
+{
+  "title": "Miro",
+  "url": "https://miro.com/",
+  "domains": [
+    "miro.com"
+  ],
+  "description": "在线协作白板服务。",
+  "category": "办公效率",
+  "tags": [
+    "白板",
+    "协作",
+    "流程图",
+    "Miro"
+  ],
+  "aliases": [
+    "miro",
+    "白板",
+    "协作",
+    "流程图",
+    "whiteboard",
+    "app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "miro.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ffec48c6da3ba8c51f2828a84e699b4bf1f98ec63e80e5962e27fdc94659f0df",
+      "bytes": 614,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/miro.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "miro.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

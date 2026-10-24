@@ -1,0 +1,95 @@
+{
+  "collection_id": 373,
+  "schema_version": 1,
+  "id": 506,
+  "title": "Substack",
+  "url": "https://substack.com",
+  "domains": [
+    "substack.com"
+  ],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "全球App补充",
+    "阅读",
+    "Substack",
+    "substack.com"
+  ],
+  "aliases": [
+    "substack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 549,
+      "collection": "theSVG",
+      "file": "substack.svg",
+      "id": 1278,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "substack.svg",
+        "original_is_default": true,
+        "original_slug": "substack"
+      },
+      "rounded_corners": {
+        "previous_bytes": 316,
+        "previous_sha256": "7d5811d4d135a2be75d9e29a0faf674d86ef4b29fcf3ad898f3c598160b03945",
+        "ratio": 0.2
+      },
+      "sha256": "af79bf1e20bb92a450c0b405aea7dd805ddcaf621d6ece075862581d01de56ed",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/substack/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 569,
+      "collection": "theSVG",
+      "file": "substack-1.svg",
+      "id": 1279,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "substack-1.svg",
+        "original_is_default": false,
+        "original_slug": "substack"
+      },
+      "rounded_corners": {
+        "previous_bytes": 344,
+        "previous_sha256": "99f4a5992a48bcebc7d70917c2146c7b9ef97ba3e91dd8c8b931a3ff8a8d45d2",
+        "ratio": 0.2
+      },
+      "sha256": "203e8a5879be4b19ba8c4a3c2cf99d74ada95b433b5b30607736d9a542a3326a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/substack-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 549,
+      "collection": "theSVG",
+      "file": "substack-2.svg",
+      "id": 1280,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "substack-2.svg",
+        "original_is_default": false,
+        "original_slug": "substack"
+      },
+      "rounded_corners": {
+        "previous_bytes": 316,
+        "previous_sha256": "a8ae294313123c447b1f2af7eb53373b1b24be07bf8d0575905b2e53771fd7f9",
+        "ratio": 0.2
+      },
+      "sha256": "4ed36c20b623d0b1bff8808b52e2dba1cc9a6b63e1beff0408bbfbceddd15eab",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/substack/mono.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

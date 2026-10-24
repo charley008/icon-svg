@@ -1,0 +1,49 @@
+{
+  "collection_id": 378,
+  "schema_version": 1,
+  "id": 514,
+  "title": "TapTap",
+  "url": "https://taptap.cn",
+  "domains": [
+    "taptap.cn"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "国内补充",
+    "游戏",
+    "TapTap",
+    "taptap.cn"
+  ],
+  "aliases": [
+    "taptap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2120,
+      "collection": "Iconify / arcticons",
+      "file": "taptap.svg",
+      "id": 1288,
+      "is_default": true,
+      "label": "taptap",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "taptap.svg",
+        "original_is_default": true,
+        "original_slug": "taptap"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1887,
+        "previous_sha256": "c0d3367555ed4684df9d19e2fd46185ff2fd7c7747e3d24088e59db268990394",
+        "ratio": 0.2
+      },
+      "sha256": "883db10c560e69e0d661f8688fde113c1b24175000bf491a1cfadc7e1cb461d7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#taptap",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

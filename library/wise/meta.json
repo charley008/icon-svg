@@ -1,0 +1,118 @@
+{
+  "collection_id": 422,
+  "schema_version": 1,
+  "id": 580,
+  "title": "Wise",
+  "url": "https://wise.com",
+  "domains": [
+    "wise.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球App补充",
+    "金融",
+    "Wise",
+    "wise.com"
+  ],
+  "aliases": [
+    "wise"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 563,
+      "collection": "theSVG",
+      "file": "wise.svg",
+      "id": 1459,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wise.svg",
+        "original_is_default": true,
+        "original_slug": "wise"
+      },
+      "rounded_corners": {
+        "previous_bytes": 330,
+        "previous_sha256": "2f277c08b39161f25da85c24a31c1aa0afc14a13ceec926a24083ab3132c9eae",
+        "ratio": 0.2
+      },
+      "sha256": "8e5625a56d0fa6b34fcc98b4ce2987c7e08acb1d9e5cb9920dcca9699563c08e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wise/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 632,
+      "collection": "theSVG",
+      "file": "wise-1.svg",
+      "id": 1460,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wise-1.svg",
+        "original_is_default": false,
+        "original_slug": "wise"
+      },
+      "rounded_corners": {
+        "previous_bytes": 407,
+        "previous_sha256": "cb9082e4be6f9c6a21ac34dbc31bbefdf57a37f177fead1cc3bfc7d3a8ab262e",
+        "ratio": 0.2
+      },
+      "sha256": "caf8d8bd334520763ed6dc88e89f107eac320726eafe75d723c348fd15f5b83b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wise-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 563,
+      "collection": "theSVG",
+      "file": "wise-2.svg",
+      "id": 1461,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wise-2.svg",
+        "original_is_default": false,
+        "original_slug": "wise"
+      },
+      "rounded_corners": {
+        "previous_bytes": 330,
+        "previous_sha256": "e82055e6da051cdd420a62e0df5a1ed992acc7750156e04bf68eb14310157815",
+        "ratio": 0.2
+      },
+      "sha256": "a8d2123634d047f06af5e7aea85fdd4c0239236decb4cd851ca191d159671e4a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/wise/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 535,
+      "collection": "Iconify / arcticons",
+      "file": "wise-3.svg",
+      "id": 1462,
+      "is_default": false,
+      "label": "wise",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wise-3.svg",
+        "original_is_default": false,
+        "original_slug": "wise"
+      },
+      "rounded_corners": {
+        "previous_bytes": 302,
+        "previous_sha256": "9604b2638f3167b4d4335bc4fd75f66ed2d9b5eec1da62063a8ef92fa89e1aaf",
+        "ratio": 0.2
+      },
+      "sha256": "3a9ea1751d80df2203fd47faa2bfc71fe2be7293602a26c801c58383bbd72ba7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#wise",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

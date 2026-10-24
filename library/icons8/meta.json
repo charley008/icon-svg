@@ -1,0 +1,50 @@
+{
+  "collection_id": 204,
+  "schema_version": 1,
+  "id": 301,
+  "title": "Icons8",
+  "url": "https://igoutu.cn",
+  "domains": [
+    "igoutu.cn"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Icons8",
+    "igoutu.cn"
+  ],
+  "aliases": [
+    "icons8"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1034,
+      "collection": "GoTab 公开资源库",
+      "file": "icons8.svg",
+      "gotab_id": 274,
+      "id": 746,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "icons8.svg",
+        "original_is_default": true,
+        "original_slug": "icons8"
+      },
+      "rounded_corners": {
+        "previous_bytes": 812,
+        "previous_sha256": "9daf6928909fb3c29bcbfbeb0b0ee2547e63ea306c04488f7b78e7cb5b3b01f5",
+        "ratio": 0.2
+      },
+      "sha256": "211004ce68d05745634bf5e97970321fe8d8de705ab116c8f25d2c13a5d197f6",
+      "source": "https://web.gotab.cn/sourceStore/website/01KM2YK83K885QE5Q7D6YCG8K8.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

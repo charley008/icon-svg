@@ -1,0 +1,312 @@
+{
+  "collection_id": 41,
+  "schema_version": 1,
+  "id": 78,
+  "title": "Atlassian",
+  "url": "https://atlassian.net",
+  "domains": [
+    "atlassian.net"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球Top100",
+    "办公",
+    "效率工具",
+    "Atlassian",
+    "atlassian.net"
+  ],
+  "aliases": [
+    "atlassian"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 818,
+      "collection": "theSVG",
+      "file": "atlassian.svg",
+      "id": 195,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atlassian.svg",
+        "original_is_default": true,
+        "original_slug": "atlassian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 596,
+        "previous_sha256": "02cb8c81837a5d6df41e19512c32f4acd45d72395fe925cd23089a60f4732c9d",
+        "ratio": 0.2
+      },
+      "sha256": "a980c94d2bf7c0a4bfeee14794e337b78a9c3936ec74214cf16950f19b0414cc",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/atlassian/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 818,
+      "collection": "theSVG",
+      "file": "atlassian-1.svg",
+      "id": 196,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atlassian-1.svg",
+        "original_is_default": false,
+        "original_slug": "atlassian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 593,
+        "previous_sha256": "3375a6f5682d1412788bcb005ec51275e04e8ffa95c8d65cbe3612d2e2ea02c7",
+        "ratio": 0.2
+      },
+      "sha256": "010164802168b63fda97d8d08e2bf36a39086d81534ff27837a7435d351c4699",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/atlassian-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 704,
+      "collection": "theSVG",
+      "file": "atlassian-2.svg",
+      "id": 197,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atlassian-2.svg",
+        "original_is_default": false,
+        "original_slug": "atlassian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 471,
+        "previous_sha256": "83ad8b20e5b6fdb9b59011342f4b06134394b9f9bce4e37969bb1f150bf93971",
+        "ratio": 0.2
+      },
+      "sha256": "29d44fbe12985e20fe984870e28959f97df3a67abadea5d5b2f0d56789232615",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/atlassian/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1047,
+      "collection": "Dashboard Icons",
+      "file": "atlassian-3.svg",
+      "id": 198,
+      "is_default": false,
+      "label": "atlassian",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atlassian-3.svg",
+        "original_is_default": false,
+        "original_slug": "atlassian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 814,
+        "previous_sha256": "e3d3cf9ecfd8dca44079688ba4721ac4dae5a98b09116dd2529fe2863e4510c8",
+        "ratio": 0.2
+      },
+      "sha256": "2c34f3eaa05f32930848cbd41c174ab9f025e4d7089f905c0cbba3e50b947e66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian.svg",
+      "version": 3
+    },
+    {
+      "bytes": 704,
+      "collection": "Simple Icons",
+      "file": "atlassian-4.svg",
+      "id": 199,
+      "is_default": false,
+      "label": "atlassian",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atlassian-4.svg",
+        "original_is_default": false,
+        "original_slug": "atlassian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 471,
+        "previous_sha256": "c45756363e258cee0afd777a8f18a2db7f7575f4338230c193d0cf3b099ce1cb",
+        "ratio": 0.2
+      },
+      "sha256": "79ea5038d4c59d8ae0e8770ebcf28e3a60573c3c77b67de79de6ad83c8ead57b",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atlassian.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "title": "Jira",
+      "url": "https://www.atlassian.com/software/jira",
+      "domains": [
+        "www.atlassian.com"
+      ],
+      "description": "Atlassian 项目与问题跟踪应用。",
+      "category": "办公效率",
+      "tags": [
+        "吉拉",
+        "项目管理",
+        "问题跟踪",
+        "Jira"
+      ],
+      "aliases": [
+        "atlassian-jira",
+        "吉拉",
+        "项目管理",
+        "问题跟踪",
+        "Issue Tracker"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "atlassian-jira.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "f51bb4f8582ef051da91b8270a090aa25e6bef0222349b863866fe5d2bd25f09",
+          "bytes": 988,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-jira.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "atlassian-jira.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "jira"
+    },
+    {
+      "title": "Confluence",
+      "url": "https://www.atlassian.com/software/confluence",
+      "domains": [
+        "www.atlassian.com"
+      ],
+      "description": "Atlassian 团队文档与知识库应用。",
+      "category": "办公效率",
+      "tags": [
+        "团队文档",
+        "知识库",
+        "协作",
+        "Confluence"
+      ],
+      "aliases": [
+        "atlassian-confluence",
+        "团队文档",
+        "知识库",
+        "协作"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "atlassian-confluence.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "aa2154f4303b5e196879e232da4632af823b2a4ba5ff81ca88a9ae826e942d8b",
+          "bytes": 1053,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-confluence.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "atlassian-confluence.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "confluence"
+    },
+    {
+      "title": "Bitbucket",
+      "url": "https://bitbucket.org/",
+      "domains": [
+        "bitbucket.org"
+      ],
+      "description": "Atlassian Git 代码托管服务。",
+      "category": "开发编程",
+      "tags": [
+        "Git",
+        "代码托管",
+        "Bitbucket"
+      ],
+      "aliases": [
+        "atlassian-bitbucket",
+        "Git",
+        "代码托管"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "atlassian-bitbucket.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "e681229dbcdcefd722caf0299f237724bdd3db2ead0fdefa5596f99ef6885848",
+          "bytes": 776,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-bitbucket.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "atlassian-bitbucket.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "bitbucket"
+    },
+    {
+      "title": "Bamboo",
+      "url": "https://www.atlassian.com/software/bamboo",
+      "domains": [
+        "www.atlassian.com"
+      ],
+      "description": "Atlassian 持续集成与发布工具。",
+      "category": "开发编程",
+      "tags": [
+        "持续集成",
+        "CI",
+        "构建",
+        "Bamboo"
+      ],
+      "aliases": [
+        "atlassian-bamboo",
+        "持续集成",
+        "CI",
+        "构建",
+        "continuous-integration",
+        "build-server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "atlassian-bamboo.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "3a6e9955d70b91a53dbd25275edbfd2a8f38eff5f9b7cddf7bc467ac6f6af550",
+          "bytes": 1109,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-bamboo.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "atlassian-bamboo.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "bamboo"
+    }
+  ]
+}

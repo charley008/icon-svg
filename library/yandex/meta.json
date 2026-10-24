@@ -1,0 +1,96 @@
+{
+  "collection_id": 441,
+  "schema_version": 1,
+  "id": 602,
+  "title": "Yandex",
+  "url": "https://yandex.ru",
+  "domains": [
+    "yandex.ru",
+    "yandex.com"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "搜索",
+    "导航",
+    "Yandex",
+    "yandex.ru",
+    "yandex.com"
+  ],
+  "aliases": [
+    "yandex"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 333,
+      "collection": "Dashboard Icons",
+      "file": "yandex-2.svg",
+      "id": 1508,
+      "is_default": true,
+      "label": "yandex",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yandex-2.svg",
+        "original_is_default": false,
+        "original_slug": "yandex"
+      },
+      "sha256": "1bf17aa1724efa737eab839ab91928e9296feae43e542bba13cd21e2d5ae50fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yandex.svg",
+      "version": 2
+    },
+    {
+      "bytes": 583,
+      "collection": "theSVG",
+      "file": "yandex.svg",
+      "id": 1509,
+      "is_default": false,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yandex.svg",
+        "original_is_default": true,
+        "original_slug": "yandex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 350,
+        "previous_sha256": "e94d3705f7dff59511ee06ae28f8ade7b6e41cb1da7d4a0a4b0cecfd938bbaa8",
+        "ratio": 0.2
+      },
+      "sha256": "ca9a138b3892ffcbbb1cdb35bc6f1791b95d18b6a1c2069be8faac107ef5ddc2",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/yandex/mono.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1890,
+      "collection": "theSVG",
+      "file": "yandex-1.svg",
+      "id": 1510,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yandex-1.svg",
+        "original_is_default": false,
+        "original_slug": "yandex"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1665,
+        "previous_sha256": "e513b9b7aff507172dcec74c061445e01b70d192ebb170d12a468090c7a5619e",
+        "ratio": 0.2
+      },
+      "sha256": "c504ee09b44c5bcaf8449e2808355a47ab23482741dced8ee6260299b0c92554",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/yandex-badge/default.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

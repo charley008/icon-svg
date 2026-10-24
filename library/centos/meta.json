@@ -1,0 +1,44 @@
+{
+  "collection_id": 466,
+  "schema_version": 1,
+  "id": 630,
+  "title": "CentOS",
+  "url": "https://www.centos.org/",
+  "domains": [
+    "centos.org"
+  ],
+  "description": "CentOS 图标合集。",
+  "category": "系统工具",
+  "tags": [
+    "CentOS",
+    "centos",
+    "Linux",
+    "操作系统",
+    "服务器"
+  ],
+  "aliases": [
+    "centos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1992,
+      "collection": "用户补充 SVG",
+      "file": "centos.svg",
+      "id": 1570,
+      "is_default": true,
+      "label": "centos-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "centos-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/centos-1.svg"
+      },
+      "sha256": "fbadd127e5583559938b21ed61c0a74a8306e515428f198af5df96d515b7667d",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/centos-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

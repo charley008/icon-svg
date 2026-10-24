@@ -1,0 +1,50 @@
+{
+  "collection_id": 141,
+  "schema_version": 1,
+  "id": 212,
+  "title": "EdClub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "用户优选",
+    "自用",
+    "教育",
+    "科研",
+    "EdClub"
+  ],
+  "aliases": [
+    "edclub"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 10959,
+      "collection": "用户优化 SVG",
+      "file": "edclub.svg",
+      "id": 530,
+      "is_default": true,
+      "label": "edclub",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "edclub.svg",
+        "original_is_default": true,
+        "original_slug": "edclub"
+      },
+      "rounded_corners": {
+        "previous_bytes": 10742,
+        "previous_sha256": "87d59a6146fc16eed3903b069ff7425f4d1383aad58efc46724d571c6364123a",
+        "ratio": 0.2
+      },
+      "sha256": "d0fca088caef7ecedfe26aae520ba546c7cfe16d09c15385cef32010aeb47d42",
+      "source": "https://www.edclub.com/static/website/logo-full.svg；用户确认官网彩色小鸟版，移除文字并统一256画布",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

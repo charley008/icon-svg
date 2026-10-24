@@ -1,0 +1,96 @@
+{
+  "collection_id": 207,
+  "schema_version": 1,
+  "id": 304,
+  "title": "IKEA",
+  "url": "https://ikea.com",
+  "domains": [
+    "ikea.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "电商",
+    "购物",
+    "IKEA",
+    "ikea.com"
+  ],
+  "aliases": [
+    "ikea"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2096,
+      "collection": "theSVG",
+      "file": "ikea.svg",
+      "id": 753,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ikea.svg",
+        "original_is_default": true,
+        "original_slug": "ikea"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1863,
+        "previous_sha256": "3b48e0b24764e6147f2711cf86fd7a74bc3dee15ef65a595e46eff753ff1ef98",
+        "ratio": 0.2
+      },
+      "sha256": "2794a430efd5ba0e142e8acf240684cdeecab10a934b8273e0f85140fa5ea3c5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ikea/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2096,
+      "collection": "theSVG",
+      "file": "ikea-1.svg",
+      "id": 754,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ikea-1.svg",
+        "original_is_default": false,
+        "original_slug": "ikea"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1863,
+        "previous_sha256": "101ee4b7202819a06779a7e8cccb87fba701e16206c9add9cdc61a62b135bba1",
+        "ratio": 0.2
+      },
+      "sha256": "a127ee8541fb78a86db998d1186fb9dfa46616cd4f6ae4da1c4b3d2df4b0b5e7",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ikea/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 897,
+      "collection": "Iconify / arcticons",
+      "file": "ikea-2.svg",
+      "id": 755,
+      "is_default": false,
+      "label": "ikea",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ikea-2.svg",
+        "original_is_default": false,
+        "original_slug": "ikea"
+      },
+      "rounded_corners": {
+        "previous_bytes": 664,
+        "previous_sha256": "2aba0b33484fe535a08adc2ecb7d869ba650b7799aef9a0535570470cfa8bbbd",
+        "ratio": 0.2
+      },
+      "sha256": "74ef29ca68826d2d826e3a0dbe582e1c97bd8a974237830b7ec4a7409399f3ed",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ikea",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

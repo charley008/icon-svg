@@ -1,0 +1,41 @@
+{
+  "title": "Prowlarr",
+  "url": "https://prowlarr.com/",
+  "domains": [
+    "prowlarr.com"
+  ],
+  "description": "媒体索引管理应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "媒体索引",
+    "媒体管理",
+    "Prowlarr"
+  ],
+  "aliases": [
+    "prowlarr",
+    "媒体索引",
+    "媒体管理"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "prowlarr.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "cd7736bcef6550ad853e59d4d7205f96e9db8ae44be957ca5b7eae7046f5bc67",
+      "bytes": 9043,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prowlarr.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "prowlarr.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

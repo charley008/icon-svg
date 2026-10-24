@@ -1,0 +1,195 @@
+{
+  "collection_id": 412,
+  "schema_version": 1,
+  "id": 564,
+  "title": "VK",
+  "url": "https://vk.ru",
+  "domains": [
+    "vk.ru"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "社交",
+    "通讯",
+    "VK",
+    "vkontakte",
+    "vk.ru"
+  ],
+  "aliases": [
+    "vk",
+    "vkontakte"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1020,
+      "collection": "theSVG",
+      "file": "vk.svg",
+      "id": 1412,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vk.svg",
+        "original_is_default": true,
+        "original_slug": "vk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 795,
+        "previous_sha256": "cf4197f2ef2ce195a976ccc16eb50a683fbf92dcbdc203be85cf9a3b17295e5e",
+        "ratio": 0.2
+      },
+      "sha256": "572ef4dbe0b126ef7fcb989bd40a5f1de636f6090ca029bb000ab20566a1893a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/vk-badge/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1604,
+      "collection": "theSVG",
+      "file": "vk-1.svg",
+      "id": 1413,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vk-1.svg",
+        "original_is_default": false,
+        "original_slug": "vk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1371,
+        "previous_sha256": "c571165efa4979f43467c088228e516ffeaa0b97456f639f7cd6fb1b3e53b611",
+        "ratio": 0.2
+      },
+      "sha256": "33254fbe054277420a9822c41aa465f5d044f908fb4da1a07899386ac0180012",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/vk/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1604,
+      "collection": "Simple Icons",
+      "file": "vk-2.svg",
+      "id": 1414,
+      "is_default": false,
+      "label": "vk",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vk-2.svg",
+        "original_is_default": false,
+        "original_slug": "vk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1371,
+        "previous_sha256": "eaae90c70f170584a2c359c78f08ce875bcddad3026f6b22d107dc1073985b52",
+        "ratio": 0.2
+      },
+      "sha256": "e50101b3f01ad8f6be6ada7d83071394d8630aaf1ffdf64ac68a51473db9b092",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vk.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1723,
+      "collection": "Iconify / ri",
+      "file": "vk-3.svg",
+      "id": 1415,
+      "is_default": false,
+      "label": "vk-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vk-3.svg",
+        "original_is_default": false,
+        "original_slug": "vk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1490,
+        "previous_sha256": "60b9d76953c1501d12e224285c129f45f4ae9ec4b068cf2e759c302ae603d808",
+        "ratio": 0.2
+      },
+      "sha256": "f0d3d940b6fb0bbd42a73e358ae7b176032f94a8ec3e0159324ce285024b7e65",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#vk-line",
+      "version": 3
+    },
+    {
+      "bytes": 721,
+      "collection": "Iconify / arcticons",
+      "file": "vk-4.svg",
+      "id": 1416,
+      "is_default": false,
+      "label": "vk",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vk-4.svg",
+        "original_is_default": false,
+        "original_slug": "vk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 488,
+        "previous_sha256": "05dbf60a42bf9ad8ef45ffc05a24bf8548074e6ef3b84fe2d211b418626066e8",
+        "ratio": 0.2
+      },
+      "sha256": "c72c8b153f9c7f6bf5b7fcbd3ff9e267637fe9e922d8d15514e8be94cc5705ae",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#vk",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 565,
+      "key": "video",
+      "title": "VK Видео",
+      "url": "https://vkvideo.ru",
+      "domains": [
+        "vkvideo.ru"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球Top100",
+        "影音",
+        "VK Видео",
+        "vk-video",
+        "vkvideo",
+        "vkvideo.ru"
+      ],
+      "aliases": [
+        "vk-video",
+        "vkvideo"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 826,
+          "collection": "Iconify / arcticons",
+          "file": "vk-video.svg",
+          "id": 1417,
+          "is_default": true,
+          "label": "vk-video",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "vk-video.svg",
+            "original_is_default": true,
+            "original_slug": "vk-video"
+          },
+          "rounded_corners": {
+            "previous_bytes": 593,
+            "previous_sha256": "d01357ca23f36ccf290e76b7cf698d9a54353266eedce11045768c8b4dcc28c3",
+            "ratio": 0.2
+          },
+          "sha256": "abd9a4ed21f1f72eca4e913f3333b7376acf7009a76ffce1bc35116052c8c6ec",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#vk-video",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

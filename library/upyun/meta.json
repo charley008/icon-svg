@@ -1,0 +1,57 @@
+{
+  "collection_id": 401,
+  "schema_version": 1,
+  "id": 553,
+  "title": "又拍云",
+  "url": "https://upyun.com",
+  "domains": [
+    "upyun.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "国内补充",
+    "云计算",
+    "又拍云",
+    "upyun",
+    "upyun.com"
+  ],
+  "aliases": [
+    "upyun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2977,
+      "collection": "轻量矢量替换",
+      "file": "upyun.svg",
+      "id": 1383,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "official-vector",
+      "provenance": {
+        "original_file": "upyun.svg",
+        "original_is_default": true,
+        "original_slug": "upyun"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "46252708ac2e9ed6eef19111e5554cb4bb42dc87dac277f551b049b345cc70db",
+        "previous_bytes": 864317,
+        "previous_method": "traced-detail",
+        "previous_source": "https://www.upyun.com/static/favicon-16x16.png",
+        "reference": "https://www.upyun.com/static/img/黑logo.42ad028.svg",
+        "note": "从官网组合标识中提取蓝色图形，不包含右侧文字。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "4f31cb897c8baa350ba73e3ccae629b5d33d96b8cf131492de2ec82a588be8ac",
+      "source": "https://www.upyun.com/static/img/黑logo.42ad028.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

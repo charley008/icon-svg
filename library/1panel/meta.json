@@ -1,0 +1,52 @@
+{
+  "collection_id": 6,
+  "schema_version": 1,
+  "id": 6,
+  "title": "1Panel",
+  "url": "https://1panel.cn",
+  "domains": [
+    "1panel.cn"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "开发",
+    "编程",
+    "服务器面板",
+    "运维",
+    "1Panel",
+    "1panel.cn"
+  ],
+  "aliases": [
+    "1panel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1620,
+      "collection": "GoTab 公开资源库",
+      "file": "1panel.svg",
+      "gotab_id": 193,
+      "id": 13,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "1panel.svg",
+        "original_is_default": true,
+        "original_slug": "1panel"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1398,
+        "previous_sha256": "6a6d9ac35bcf7a6106f728ce3a0395804315a83345e27f24fcc33e7eba8d13e9",
+        "ratio": 0.2
+      },
+      "sha256": "8523a4b8ec3cd8aedd035a32c0c3ac14999405eacad6d952a730666138e0e64e",
+      "source": "https://web.gotab.cn/sourceStore/website/01JGBKGGC6B8MCP5WXY2TM8W2W.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

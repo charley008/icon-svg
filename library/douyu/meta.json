@@ -1,0 +1,101 @@
+{
+  "collection_id": 129,
+  "schema_version": 1,
+  "id": 200,
+  "title": "斗鱼",
+  "url": "https://douyu.com",
+  "domains": [
+    "douyu.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "用户优选",
+    "影音",
+    "斗鱼",
+    "douyu",
+    "douyu.com"
+  ],
+  "aliases": [
+    "douyu"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 13384,
+      "collection": "用户优化 SVG",
+      "file": "douyu.svg",
+      "id": 489,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "douyu.svg",
+        "original_is_default": true,
+        "original_slug": "douyu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 13162,
+        "previous_sha256": "c0c9b2ab3ae5dc751a77502f647db4fab10ec01199dc14252edc9f5562ee29d1",
+        "ratio": 0.2
+      },
+      "sha256": "fd83639f28733149f496d31ef2470cefaae3e07432c52c81c02b3465324143c7",
+      "source": "用户确认优化：GoTab彩色斗鱼与篮球，增加黄色黑描边DOUYU矢量文字",
+      "version": 0
+    },
+    {
+      "bytes": 7498,
+      "collection": "GoTab 公开资源库",
+      "file": "douyu-1.svg",
+      "gotab_id": 12,
+      "id": 490,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "douyu-1.svg",
+        "original_is_default": false,
+        "original_slug": "douyu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7276,
+        "previous_sha256": "cec908e878a7a31b6782560cc12d66cbc4153778fb6100e9d34728e661475bfe",
+        "ratio": 0.2
+      },
+      "sha256": "15a75a3cc2d0f4f50eb14fc8292759ef77fd5be4eb912a9a964cc4d66c7a6d0c",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H01N2P5BWBHX5JPC9A80CW.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1822,
+      "collection": "已有图标",
+      "file": "douyu-2.svg",
+      "id": 491,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "douyu-2.svg",
+        "original_is_default": false,
+        "original_slug": "douyu"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1589,
+        "previous_sha256": "ff881f2967d7370217c715cf7d6f0e60649db2275340cca5b524d3c2a9891999",
+        "ratio": 0.2
+      },
+      "sha256": "a72596d3b25d77f3524fe0565d9e89b88157dd44306b62152e7a01dc089dded0",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/douYu.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

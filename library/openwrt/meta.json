@@ -1,0 +1,46 @@
+{
+  "title": "OpenWrt",
+  "url": "https://openwrt.org/",
+  "domains": [
+    "openwrt.org"
+  ],
+  "description": "开源路由器操作系统。",
+  "category": "网络工具",
+  "tags": [
+    "路由器固件",
+    "软路由",
+    "开源",
+    "OpenWrt"
+  ],
+  "aliases": [
+    "openwrt",
+    "路由器固件",
+    "软路由",
+    "开源",
+    "OpenWrt",
+    "custom-router-firmware",
+    "linux-based-router"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "openwrt.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "c0831510ed0ebcf66e833cebccbc244d785b1a84cb3507065b02cef2440db792",
+      "bytes": 1288,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openwrt.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "openwrt.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,151 @@
+{
+  "collection_id": 180,
+  "schema_version": 1,
+  "id": 276,
+  "title": "Grok",
+  "url": "https://grok.com",
+  "domains": [
+    "grok.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "人工智能",
+    "Grok",
+    "grok.com"
+  ],
+  "aliases": [
+    "grok"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1241,
+      "collection": "已有图标",
+      "file": "grok.svg",
+      "id": 694,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grok.svg",
+        "original_is_default": true,
+        "original_slug": "grok"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1016,
+        "previous_sha256": "b6ae725104f04c77af787cbdb789dfc9d70b4a68b59ee699bd5570ff4e0be65e",
+        "ratio": 0.2
+      },
+      "sha256": "7d1b89a501b1ad48e03c55299c13c16be71bd0b2462ff483a283588a77a6948a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/grok/light.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1318,
+      "collection": "GoTab 公开资源库",
+      "file": "grok-1.svg",
+      "gotab_id": 271,
+      "id": 695,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "grok-1.svg",
+        "original_is_default": false,
+        "original_slug": "grok"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1096,
+        "previous_sha256": "60cbef3389aa7fc300d5b5ff526acedbde1f60a7b148d8bfd84e961cd821daea",
+        "ratio": 0.2
+      },
+      "sha256": "72d88a2c175918d9af36887519255bd257f28cdc52bfadc6977b7397a8c2d0ae",
+      "source": "https://web.gotab.cn/sourceStore/website/01KK8WQNGSYN8D2VHJ6QR8637T.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1237,
+      "collection": "已有图标",
+      "file": "grok-2.svg",
+      "id": 696,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grok-2.svg",
+        "original_is_default": false,
+        "original_slug": "grok"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1012,
+        "previous_sha256": "e7d41185610fcd587c8432761ecc462acaea84f176b01c3750b7cc5573117416",
+        "ratio": 0.2
+      },
+      "sha256": "d0d9e63ed6e614e9ca060e49efce1ab0fae927c1f614a9964be0f49f37266cb4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/grok/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2194,
+      "collection": "已有图标",
+      "file": "grok-3.svg",
+      "id": 697,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grok-3.svg",
+        "original_is_default": false,
+        "original_slug": "grok"
+      },
+      "sha256": "e44bf389200c72228f8b1294e5eba5a8d467b46cc6f2df3815d0c4dc31a5194a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/grok/wordmark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1043,
+      "collection": "已有图标",
+      "file": "grok-4.svg",
+      "id": 698,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grok-4.svg",
+        "original_is_default": false,
+        "original_slug": "grok"
+      },
+      "sha256": "e08828c7b2819032e55ee9f74ab29d67f61f11fb954854e34947764f0377bbbb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grok-dark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1696,
+      "collection": "已有图标",
+      "file": "grok-5.svg",
+      "id": 699,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grok-5.svg",
+        "original_is_default": false,
+        "original_slug": "grok"
+      },
+      "sha256": "cc5ce055c9e4f617f0d8bbaeed06bec673c26b9494df324b54da009f42d344bb",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#grok",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

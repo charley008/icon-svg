@@ -1,0 +1,52 @@
+{
+  "collection_id": 432,
+  "schema_version": 1,
+  "id": 593,
+  "title": "小宇宙",
+  "url": "https://xiaoyuzhoufm.com",
+  "domains": [
+    "xiaoyuzhoufm.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "影音",
+    "播客",
+    "音频",
+    "小宇宙",
+    "xiaoyuzhou",
+    "xiaoyuzhoufm.com"
+  ],
+  "aliases": [
+    "xiaoyuzhou"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 842,
+      "collection": "SVGLOGO",
+      "file": "xiaoyuzhou.svg",
+      "id": 1490,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaoyuzhou.svg",
+        "original_is_default": true,
+        "original_slug": "xiaoyuzhou"
+      },
+      "rounded_corners": {
+        "previous_bytes": 609,
+        "previous_sha256": "ac45215676a2327b1065fd1a388f465b7141ab9334e18bb80a5df5291b0cf398",
+        "ratio": 0.2
+      },
+      "sha256": "8cd857de2ee5824405d3be2b2fd6cc1befc0d6dfb35c04741773fbf8c20fefd4",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/xiaoYuZhou.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

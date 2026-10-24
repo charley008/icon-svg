@@ -1,0 +1,77 @@
+{
+  "collection_id": 97,
+  "schema_version": 1,
+  "id": 167,
+  "title": "CODING",
+  "url": "https://coding.net",
+  "domains": [
+    "coding.net"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "国内补充",
+    "开发",
+    "编程",
+    "代码托管",
+    "Git",
+    "CODING",
+    "coding-net",
+    "coding.net"
+  ],
+  "aliases": [
+    "coding",
+    "coding-net"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1832,
+      "collection": "theSVG",
+      "file": "coding.svg",
+      "id": 410,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coding.svg",
+        "original_is_default": true,
+        "original_slug": "coding"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1607,
+        "previous_sha256": "886bb2760d3ca37468fe05275dcdf8e97494851e26105c172fa4f23f91786717",
+        "ratio": 0.2
+      },
+      "sha256": "a1ed4569341a23c622d6eaecce9f08f0d4d5350c8e30f7278539ab7b01ef976d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/coding-badge/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3612,
+      "collection": "jaywcjlove/logo",
+      "file": "coding-1.svg",
+      "id": 411,
+      "is_default": false,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coding-1.svg",
+        "original_is_default": false,
+        "original_slug": "coding"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3392,
+        "previous_sha256": "7e1c572aa06ac5658f0f4b2e940aeac929c1c41c1a1051b7d89b2b83a033286f",
+        "ratio": 0.2
+      },
+      "sha256": "14e4c9cdbf8059ac80d1165ce282c189428343ac51b628a3bfa5c66f86859eed",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/coding.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

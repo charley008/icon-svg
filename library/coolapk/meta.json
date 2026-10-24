@@ -1,0 +1,53 @@
+{
+  "collection_id": 100,
+  "schema_version": 1,
+  "id": 170,
+  "title": "酷安",
+  "url": "https://coolapk.com",
+  "domains": [
+    "coolapk.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "社交",
+    "通讯",
+    "酷安",
+    "coolapk",
+    "coolapk.com"
+  ],
+  "aliases": [
+    "coolapk"
+  ],
+  "notes": [
+    "按用户提供素材重新描摹，背景使用原生矢量形状及渐变。"
+  ],
+  "icons": [
+    {
+      "bytes": 9144,
+      "collection": "用户提供素材",
+      "file": "coolapk.svg",
+      "id": 418,
+      "is_default": true,
+      "label": "参考图重绘",
+      "license": "品牌商标归权利人；用户提供参考素材",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "coolapk.svg",
+        "original_is_default": true,
+        "original_slug": "coolapk"
+      },
+      "rounded_corners": {
+        "previous_bytes": 8922,
+        "previous_sha256": "d5c95ad273b6d9138c4612afeb26852fb2ce3a496ad2800b59c89b5ccf16716b",
+        "ratio": 0.2
+      },
+      "sha256": "bd59072ee1de85dd453b7ce0d5c7c6e76caae0ec980a82064ef01c75450c0a40",
+      "source": "用户提供素材",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

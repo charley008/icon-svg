@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 176 176" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="176" height="176" rx="35.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs><clipPath id="website-icon-rounded-corners" clipPathUnits="userSpaceOnUse"><rect x="0.0" y="0.0" width="176.0" height="176.0" rx="33.0" ry="33.0" /></clipPath></defs><g clip-path="url(#website-icon-rounded-corners)"><title>fnOS 标志 · 轮廓优化版</title>
+  <rect width="176" height="176" fill="#2568ed" />
+  <g fill="#fff">
+    <path d="M31 33 C22.5 39.6 17 49.8 17 59.9 C17 71.7 24.1 77.8 38.3 77.8 C38.6 71.7 40.4 66.8 44.2 62.4 C32.2 62.8 26.3 57.8 26.5 49.6 C26.6 43.5 28.6 37.7 31 33 Z" />
+    <path d="M144.4 33 C153.4 40.3 159 51 159 60.6 C159 70.9 153.3 77.8 142.3 77.8 H70.1 C67.4 77.8 66 79.3 66 82 V125.2 C66 127.8 67.2 129.1 69.7 129.1 H73.5 C76 129.1 77.3 127.8 77.3 125.2 V118 C77.3 111.8 80.3 108.8 86.4 108.8 H95.2 C97.6 108.8 98.8 107.6 98.8 105.2 V102.1 C98.8 94.2 102.6 90.2 110.1 90.2 H142 C133.9 100 125.1 104.2 113.2 104.7 V112.9 C113.2 119.9 109.8 123.4 102.8 123.4 H91.8 V132.6 C91.8 139.9 88 143.7 80.7 143.7 H63.9 C55.8 143.7 51.4 139.2 51.4 131.1 V82.5 C51.4 69.7 58 63.2 70.6 63.2 H136.8 C145 63.2 149.5 58.8 149.5 51.4 C149.5 45.2 147.5 38.7 144.4 33 Z" />
+  </g>
+</g></g></svg>

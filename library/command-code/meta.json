@@ -1,0 +1,52 @@
+{
+  "collection_id": 99,
+  "schema_version": 1,
+  "id": 169,
+  "title": "Command Code",
+  "url": "https://commandcode.ai",
+  "domains": [
+    "commandcode.ai"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "人工智能",
+    "AI 编程",
+    "代码助手",
+    "Command Code",
+    "command-code",
+    "commandcode.ai"
+  ],
+  "aliases": [
+    "command-code"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1802,
+      "collection": "GoTab 公开资源库",
+      "file": "command-code.svg",
+      "gotab_id": 327,
+      "id": 417,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "command-code.svg",
+        "original_is_default": true,
+        "original_slug": "command-code"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1580,
+        "previous_sha256": "c0ef249472a27ed1cec72c05a2d50471adb95d613a536a7f58c2d025f777d610",
+        "ratio": 0.2
+      },
+      "sha256": "09b74b171e982f13f0d45e9dd977b604a72654ade10d7b17c85ddde425a2ce32",
+      "source": "https://web.gotab.cn/sourceStore/website/01M2SMXZAK3G8KKT0XJYBXZ9P9.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

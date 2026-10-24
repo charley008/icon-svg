@@ -1,0 +1,77 @@
+{
+  "collection_id": 416,
+  "schema_version": 1,
+  "id": 569,
+  "title": "The Weather Channel",
+  "url": "https://weather.com",
+  "domains": [
+    "weather.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "全球Top100",
+    "生活服务",
+    "The Weather Channel",
+    "weather-channel",
+    "the-weather-channel",
+    "weatherchannel",
+    "weather.com"
+  ],
+  "aliases": [
+    "weather-channel",
+    "the-weather-channel",
+    "weatherchannel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6424,
+      "collection": "theSVG",
+      "file": "weather-channel.svg",
+      "id": 1423,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weather-channel.svg",
+        "original_is_default": true,
+        "original_slug": "weather-channel"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6191,
+        "previous_sha256": "78511f65bed3a5f838023201ab7924749c2cf18eebc5ca1c4ab81ca40c20a749",
+        "ratio": 0.2
+      },
+      "sha256": "5f1b05cace59acb8a038200f75b4573cb1d460df0f3db0f7d890674b3b09f1cb",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/the-weather-channel/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6424,
+      "collection": "theSVG",
+      "file": "weather-channel-1.svg",
+      "id": 1424,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weather-channel-1.svg",
+        "original_is_default": false,
+        "original_slug": "weather-channel"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6191,
+        "previous_sha256": "08ac8eb076fbee4e0b824235cfb02797d5b16bd34ccc9cb1386edbb6c89d7d7d",
+        "ratio": 0.2
+      },
+      "sha256": "eb9fb2b14ca0fa2135beb95dca7b4f3eb5a87657e9b740fabb0aa4193f3574c4",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/the-weather-channel/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

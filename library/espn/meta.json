@@ -1,0 +1,67 @@
+{
+  "collection_id": 146,
+  "schema_version": 1,
+  "id": 217,
+  "title": "ESPN",
+  "url": "https://espn.com",
+  "domains": [
+    "espn.com"
+  ],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "全球Top100",
+    "体育",
+    "ESPN",
+    "espn.com"
+  ],
+  "aliases": [
+    "espn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1125,
+      "collection": "theSVG",
+      "file": "espn.svg",
+      "id": 541,
+      "is_default": true,
+      "label": "default",
+      "license": "Fair Use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "espn.svg",
+        "original_is_default": true,
+        "original_slug": "espn"
+      },
+      "sha256": "8694dc53bc21380f50cced11db5b9868d4feb6d8d0d9330a0e47c98bc8bdf50a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/espn/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 612,
+      "collection": "Iconify / arcticons",
+      "file": "espn-1.svg",
+      "id": 542,
+      "is_default": false,
+      "label": "espn",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "espn-1.svg",
+        "original_is_default": false,
+        "original_slug": "espn"
+      },
+      "rounded_corners": {
+        "previous_bytes": 379,
+        "previous_sha256": "39b5bf52076831736ae33f44a3e55b1ada0ec0a5625aa7db1dd1abffba61e792",
+        "ratio": 0.2
+      },
+      "sha256": "8dc21251b9c8bf4caba2d09fcded947f3dea4a5ef87451f8c63e2b24eb337f61",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#espn",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,96 @@
+{
+  "collection_id": 130,
+  "schema_version": 1,
+  "id": 201,
+  "title": "DPanel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "用户优选",
+    "自用",
+    "开发",
+    "编程",
+    "容器",
+    "Docker",
+    "DPanel"
+  ],
+  "aliases": [
+    "dpanel"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 722,
+      "collection": "用户优化 SVG",
+      "file": "dpanel.svg",
+      "id": 492,
+      "is_default": true,
+      "label": "dpanel",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "dpanel.svg",
+        "original_is_default": true,
+        "original_slug": "dpanel"
+      },
+      "rounded_corners": {
+        "previous_bytes": 500,
+        "previous_sha256": "db2a382aedab05af83c3272546367b217e47193cc4109cce4adeb81f5656677d",
+        "ratio": 0.2
+      },
+      "sha256": "363452848982427483fcb8296f9ec1c67f1208948009afc0227960f0a50269bd",
+      "source": "用户选择原创方案A：字母D与三个容器模块，蓝色圆角底；256x256纯矢量",
+      "version": 0
+    },
+    {
+      "bytes": 4128,
+      "collection": "用户上传 SVG",
+      "file": "dpanel-1.svg",
+      "id": 493,
+      "is_default": false,
+      "label": "DPanel logo",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "dpanel-logo.svg",
+        "original_is_default": false
+      },
+      "rounded_corners": {
+        "previous_bytes": 3907,
+        "previous_sha256": "d790a0c4f70773746220e9c94a936e09b58a7cbd597b438f3eb81fd7f4af705f",
+        "ratio": 0.2
+      },
+      "sha256": "ff3e32d194664de77ff1719adedc4e4ea9c359307ed78e611c14c6531e68b587",
+      "source": "用户提供 dpanel-logo.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1915,
+      "collection": "用户上传 SVG",
+      "file": "dpanel-2.svg",
+      "id": 494,
+      "is_default": false,
+      "label": "DPanel whale",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "dpanel-whale.svg",
+        "original_is_default": false
+      },
+      "rounded_corners": {
+        "previous_bytes": 1693,
+        "previous_sha256": "c84d16bcd8dc01df96e572f01894ea42fcd9b2b56762a2799b550d3345f85db5",
+        "ratio": 0.2
+      },
+      "sha256": "1142a31d1b5eeb170ad32777bd3c11324245f6ff87e2308ccc253bbc2835a69e",
+      "source": "用户提供 dpanel-whale.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

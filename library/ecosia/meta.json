@@ -1,0 +1,142 @@
+{
+  "collection_id": 140,
+  "schema_version": 1,
+  "id": 211,
+  "title": "Ecosia",
+  "url": "https://ecosia.org",
+  "domains": [
+    "ecosia.org"
+  ],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "全球Top100",
+    "搜索",
+    "导航",
+    "Ecosia",
+    "ecosia.org"
+  ],
+  "aliases": [
+    "ecosia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1387,
+      "collection": "theSVG",
+      "file": "ecosia.svg",
+      "id": 525,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia.svg",
+        "original_is_default": true,
+        "original_slug": "ecosia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1154,
+        "previous_sha256": "b9c3bb81f3206fa4786bd319694629eb51ecfa0666545415db44b94b045c9e1e",
+        "ratio": 0.2
+      },
+      "sha256": "03129e5ad498e4ab60c9ff3376424658117fd01ef300191fa2b558b8448a0b30",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ecosia/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1387,
+      "collection": "theSVG",
+      "file": "ecosia-1.svg",
+      "id": 526,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia-1.svg",
+        "original_is_default": false,
+        "original_slug": "ecosia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1154,
+        "previous_sha256": "a0e7ce45bd11948e5111ba7dceb9df9cbd2b421d7d9711a6321340a4141e209c",
+        "ratio": 0.2
+      },
+      "sha256": "09378eb843084da9339207b3f1d8aaea7df75929661e9771bf710850e55e50ae",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/ecosia/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1154,
+      "collection": "Dashboard Icons",
+      "file": "ecosia-2.svg",
+      "id": 527,
+      "is_default": false,
+      "label": "ecosia",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia-2.svg",
+        "original_is_default": false,
+        "original_slug": "ecosia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 912,
+        "previous_sha256": "5b6d85b676bb371f4514406946f68d90b29b12376ef58353491ad5ad7efc6a06",
+        "ratio": 0.2
+      },
+      "sha256": "e15524f7848750246fb63a99a754cb63d2f3fee15f0332af8aa5b52eade76c3a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ecosia.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1154,
+      "collection": "Dashboard Icons",
+      "file": "ecosia-3.svg",
+      "id": 528,
+      "is_default": false,
+      "label": "ecosia-light",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia-3.svg",
+        "original_is_default": false,
+        "original_slug": "ecosia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 912,
+        "previous_sha256": "672d3a7c22f59456be0cbdbe6b934ed11b1589810d04ca4db2706cc0c4cc88a4",
+        "ratio": 0.2
+      },
+      "sha256": "4fe540cb504ff6ec5a6bd5593d435cfc18f10c1616c6f9f4ea8b21cd031db126",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ecosia-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 986,
+      "collection": "Iconify / arcticons",
+      "file": "ecosia-4.svg",
+      "id": 529,
+      "is_default": false,
+      "label": "ecosia",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia-4.svg",
+        "original_is_default": false,
+        "original_slug": "ecosia"
+      },
+      "rounded_corners": {
+        "previous_bytes": 753,
+        "previous_sha256": "ccd5fada4a490e918897026f01bfe6913b86b7c83ff97fe40d4fbbfadc125567",
+        "ratio": 0.2
+      },
+      "sha256": "ff3b12660fcde7dcc4a2176ea24a96765780789c7f9e9ef6344cf866e212feaa",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ecosia",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

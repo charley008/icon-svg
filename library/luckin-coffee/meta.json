@@ -1,0 +1,48 @@
+{
+  "collection_id": 477,
+  "schema_version": 1,
+  "id": 641,
+  "title": "Luckin Coffee",
+  "url": "https://www.lkcoffee.com/",
+  "domains": [
+    "lkcoffee.com"
+  ],
+  "description": "Luckin Coffee 图标合集。",
+  "category": "生活服务",
+  "tags": [
+    "Luckin Coffee",
+    "luckin-coffee",
+    "瑞幸",
+    "瑞幸咖啡",
+    "咖啡",
+    "餐饮"
+  ],
+  "aliases": [
+    "瑞幸",
+    "瑞幸咖啡",
+    "luckin coffee"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4779,
+      "collection": "用户补充 SVG",
+      "file": "luckin-coffee.svg",
+      "id": 1587,
+      "is_default": true,
+      "label": "luckin-coffee-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "modification": "将原有 CSS 背景色转换为实际矢量背景，保证预览和 PNG 导出一致。",
+        "original_file": "luckin-coffee-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/luckin-coffee-2.svg"
+      },
+      "sha256": "57e768e68a5748d0b99bfa5337b4c641ab8d2819fef8d6505b7cc29d37f2e9e3",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/luckin-coffee-2.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

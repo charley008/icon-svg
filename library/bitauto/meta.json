@@ -1,0 +1,61 @@
+{
+  "collection_id": 55,
+  "schema_version": 1,
+  "id": 102,
+  "title": "易车",
+  "url": "https://bitauto.com",
+  "domains": [
+    "bitauto.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "出行",
+    "易车",
+    "bitauto",
+    "yiche",
+    "bitauto.com"
+  ],
+  "aliases": [
+    "bitauto",
+    "yiche"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "bitauto.application",
+      "appstore_track": "https://apps.apple.com/cn/app/%E6%98%93%E8%BD%A6-%E4%B8%93%E4%B8%9A%E7%9C%8B%E8%BD%A6%E4%B9%B0%E8%BD%A6%E6%B1%BD%E8%BD%A6%E8%B5%84%E8%AE%AF%E5%B9%B3%E5%8F%B0/id384399758?uo=4",
+      "bytes": 696,
+      "collection": "轻量矢量替换",
+      "file": "bitauto.svg",
+      "id": 256,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "bitauto.svg",
+        "original_is_default": true,
+        "original_slug": "bitauto"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "9f2102420a568f551a713f7324873fbc116f0e3e2bab0d02b1abb8c0462f4f75",
+        "previous_bytes": 306478,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/19/e4/9319e487-b71e-16a9-1210-0fdd63315d67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/19/e4/9319e487-b71e-16a9-1210-0fdd63315d67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "note": "依据易车图案重绘蓝色弧形笑脸，省略顶部重复的小字标识。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "672f68fa9c6bc7749ae0d5b5096aab0f7a423f8cf8ddbcc9a751e54f224a0b5c",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/19/e4/9319e487-b71e-16a9-1210-0fdd63315d67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

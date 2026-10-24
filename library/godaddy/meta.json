@@ -1,0 +1,52 @@
+{
+  "collection_id": 175,
+  "schema_version": 1,
+  "id": 246,
+  "title": "GoDaddy",
+  "url": "https://godaddy.com",
+  "domains": [
+    "godaddy.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "用户优选",
+    "自用",
+    "云计算",
+    "GoDaddy",
+    "godaddy.com"
+  ],
+  "aliases": [
+    "godaddy"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2231,
+      "collection": "用户优选",
+      "file": "godaddy.svg",
+      "id": 611,
+      "is_default": true,
+      "label": "godaddy",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "godaddy.svg",
+        "original_is_default": true,
+        "original_slug": "godaddy"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2009,
+        "previous_sha256": "ae4296e2cdd21b32823fb7af8b06e6f984c1c6a04c9617aaa6e821efd12d7a71",
+        "ratio": 0.2
+      },
+      "sha256": "a76e6e021648e398bc4535f08e2ba412b45e9e811fddb3a0906ca824d4a0fe73",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

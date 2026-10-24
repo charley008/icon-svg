@@ -1,0 +1,42 @@
+{
+  "title": "Deezer",
+  "url": "https://www.deezer.com/",
+  "domains": [
+    "www.deezer.com"
+  ],
+  "description": "音乐流媒体服务。",
+  "category": "影音娱乐",
+  "tags": [
+    "音乐",
+    "流媒体",
+    "Deezer"
+  ],
+  "aliases": [
+    "deezer",
+    "音乐",
+    "流媒体",
+    "Music Streaming"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "deezer.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "d049ddef421e3079d25d9e2c3e3a3064000082f8f54272adad8e550f41a4e5c1",
+      "bytes": 1214,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deezer.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "deezer.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

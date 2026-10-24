@@ -1,0 +1,44 @@
+{
+  "title": "ownCloud",
+  "url": "https://owncloud.com/",
+  "domains": [
+    "owncloud.com"
+  ],
+  "description": "文件同步与共享服务。",
+  "category": "网盘存储",
+  "tags": [
+    "私有云",
+    "网盘",
+    "同步",
+    "ownCloud"
+  ],
+  "aliases": [
+    "owncloud",
+    "私有云",
+    "网盘",
+    "同步",
+    "Cloud Storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "owncloud.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "89cea673abf2ee62daf7d229ea055222ae63b988d3e0bd5ab140f25873d8262f",
+      "bytes": 1610,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/owncloud.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "owncloud.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

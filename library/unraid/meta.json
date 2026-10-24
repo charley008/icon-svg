@@ -1,0 +1,43 @@
+{
+  "title": "Unraid",
+  "url": "https://unraid.net/",
+  "domains": [
+    "unraid.net"
+  ],
+  "description": "网络存储与虚拟化系统。",
+  "category": "系统工具",
+  "tags": [
+    "NAS",
+    "虚拟化",
+    "存储",
+    "Unraid"
+  ],
+  "aliases": [
+    "unraid",
+    "NAS",
+    "虚拟化",
+    "存储"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "unraid.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "b6a4843fbe264b3ae13b3f6e8a906577162b3c081d7ac7f2d54d898a6208d316",
+      "bytes": 624,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unraid.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "unraid.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 31,
+  "schema_version": 1,
+  "id": 64,
+  "title": "安居客",
+  "url": "https://anjuke.com",
+  "domains": [
+    "anjuke.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "安居客",
+    "anjuke",
+    "anjuke.com"
+  ],
+  "aliases": [
+    "anjuke"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.anjuke.anjuke",
+      "appstore_track": "https://apps.apple.com/cn/app/%E5%AE%89%E5%B1%85%E5%AE%A2-%E4%B9%B0%E5%8D%96%E4%BA%8C%E6%89%8B%E6%88%BF%E6%96%B0%E6%88%BF%E7%A7%9F%E6%88%BF%E6%88%BF%E4%BB%B7%E8%A3%85%E4%BF%AE/id415606289?uo=4",
+      "bytes": 468,
+      "collection": "轻量矢量替换",
+      "file": "anjuke.svg",
+      "id": 163,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "manual-vector-redraw",
+      "provenance": {
+        "original_file": "anjuke.svg",
+        "original_is_default": true,
+        "original_slug": "anjuke"
+      },
+      "replacement": {
+        "date": "2026-10-23T15:32:07+08:00",
+        "previous_sha256": "6f0229023e97f2218f2e0a132ba1d81d07b9fe41075da10a57313bd52d9e28f4",
+        "previous_bytes": 402363,
+        "previous_method": "traced-detail",
+        "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/11/c4/f911c4fd-80b4-2cf1-3489-abfbb0e9789d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "reference": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/11/c4/f911c4fd-80b4-2cf1-3489-abfbb0e9789d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+        "note": "重绘绿色房屋主体，移除“挑房节”促销图案。"
+      },
+      "rounded_corners": {
+        "ratio": 0.2
+      },
+      "sha256": "cfa79a1ce6c4c051bc961b80b8b0a931d080066d4fbaf1fc887155b25a44fa61",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/11/c4/f911c4fd-80b4-2cf1-3489-abfbb0e9789d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

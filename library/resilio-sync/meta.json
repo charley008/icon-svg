@@ -1,0 +1,42 @@
+{
+  "title": "Resilio Sync",
+  "url": "https://www.resilio.com/sync/",
+  "domains": [
+    "www.resilio.com"
+  ],
+  "description": "点对点文件同步应用。",
+  "category": "网盘存储",
+  "tags": [
+    "文件同步",
+    "点对点",
+    "Resilio Sync"
+  ],
+  "aliases": [
+    "resilio-sync",
+    "resiliosync",
+    "文件同步",
+    "点对点"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "resilio-sync.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "fc966ae0e9bd12920cdf2f6979a3a1cb9a8329226c3c29589478dd817a1361e9",
+      "bytes": 6145,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/resiliosync.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "resiliosync.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

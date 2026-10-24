@@ -1,0 +1,43 @@
+{
+  "title": "Node-RED",
+  "url": "https://nodered.org/",
+  "domains": [
+    "nodered.org"
+  ],
+  "description": "流程式可视化编程工具。",
+  "category": "开发编程",
+  "tags": [
+    "可视化编程",
+    "物联网",
+    "自动化",
+    "Node-RED"
+  ],
+  "aliases": [
+    "node-red",
+    "可视化编程",
+    "物联网",
+    "自动化"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "node-red.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "6df09ee45c3a7c47cb249d9779b9d6dfa7372ed7b80b4d3d9cfcdcc27dd3ea96",
+      "bytes": 1052,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/node-red.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "node-red.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

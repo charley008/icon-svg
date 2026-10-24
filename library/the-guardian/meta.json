@@ -1,0 +1,74 @@
+{
+  "collection_id": 385,
+  "schema_version": 1,
+  "id": 534,
+  "title": "The Guardian",
+  "url": "https://theguardian.com",
+  "domains": [
+    "theguardian.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "全球Top100",
+    "新闻",
+    "资讯",
+    "The Guardian",
+    "the-guardian",
+    "theguardian.com"
+  ],
+  "aliases": [
+    "the-guardian"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3288,
+      "collection": "theSVG",
+      "file": "the-guardian.svg",
+      "id": 1331,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-guardian.svg",
+        "original_is_default": true,
+        "original_slug": "the-guardian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3055,
+        "previous_sha256": "0169e08374ab45ab8c200c4a5e402c9511521a0859c5afaf384e16e149ff5078",
+        "ratio": 0.2
+      },
+      "sha256": "86b53cb62bfd3960d56c9d22c3175cc40f8ed908977c7a844463d4e1af117edd",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/the-guardian/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3288,
+      "collection": "theSVG",
+      "file": "the-guardian-1.svg",
+      "id": 1332,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-guardian-1.svg",
+        "original_is_default": false,
+        "original_slug": "the-guardian"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3055,
+        "previous_sha256": "16d1e192da226d4630c3186659d1a79704f7daf804125f9fe5af18872e208601",
+        "ratio": 0.2
+      },
+      "sha256": "6dff99156e92aa92eb5229623f2f654be72e01604e9fb649c67b5289bddebf39",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/the-guardian/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

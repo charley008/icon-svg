@@ -1,0 +1,43 @@
+{
+  "collection_id": 470,
+  "schema_version": 1,
+  "id": 634,
+  "title": "Git",
+  "url": "https://git-scm.com/",
+  "domains": [
+    "git-scm.com"
+  ],
+  "description": "Git 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "Git",
+    "git",
+    "版本控制",
+    "代码管理"
+  ],
+  "aliases": [
+    "git"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1041,
+      "collection": "用户补充 SVG",
+      "file": "git.svg",
+      "id": 1575,
+      "is_default": true,
+      "label": "git-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "git-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/git-1.svg"
+      },
+      "sha256": "8cceb8579b6ed01308e810648d89095a89d90d22aeb0f2cce55ed26297b43777",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/git-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Axis Communications",
+  "url": "https://www.axis.com/",
+  "domains": [
+    "www.axis.com"
+  ],
+  "description": "网络视频与安防设备厂商。",
+  "category": "设备硬件",
+  "tags": [
+    "安讯士",
+    "摄像机",
+    "安防",
+    "Axis Communications"
+  ],
+  "aliases": [
+    "axis",
+    "安讯士",
+    "摄像机",
+    "安防",
+    "security-camera-company",
+    "video-surveillance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "axis.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "f5af473120b04497dc1f382d28feab92a949fe39b3d294bbfca5d052560bd303",
+      "bytes": 568,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/axis.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "axis.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

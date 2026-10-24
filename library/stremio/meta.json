@@ -1,0 +1,41 @@
+{
+  "title": "Stremio",
+  "url": "https://www.stremio.com/",
+  "domains": [
+    "www.stremio.com"
+  ],
+  "description": "媒体中心与视频播放应用。",
+  "category": "影音娱乐",
+  "tags": [
+    "播放器",
+    "媒体中心",
+    "Stremio"
+  ],
+  "aliases": [
+    "stremio",
+    "播放器",
+    "媒体中心"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "stremio.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8c681936139e1f17532e1a83b44d35480383acf0267b872aa794311637f7a1bd",
+      "bytes": 600,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stremio.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "stremio.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

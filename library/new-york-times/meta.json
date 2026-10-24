@@ -1,0 +1,77 @@
+{
+  "collection_id": 281,
+  "schema_version": 1,
+  "id": 405,
+  "title": "New York Times",
+  "url": "https://nytimes.com",
+  "domains": [
+    "nytimes.com",
+    "cn.nytimes.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "全球Top100",
+    "新闻",
+    "资讯",
+    "New York Times",
+    "new-york-times",
+    "nytimes.com",
+    "cn.nytimes.com"
+  ],
+  "aliases": [
+    "new-york-times"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1466,
+      "collection": "已有图标",
+      "file": "new-york-times.svg",
+      "id": 1017,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "new-york-times.svg",
+        "original_is_default": true,
+        "original_slug": "new-york-times"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1233,
+        "previous_sha256": "8f035480bbbd2b0788b65edd0751cc87a0e3276a56c0d766c507834c38a0c164",
+        "ratio": 0.2
+      },
+      "sha256": "2a961a86f779c76f253ce1cd6aa67d2993340f79ccbc7f65e01627ac9ecfdd24",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/new-york-times/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2557,
+      "collection": "GoTab 公开资源库",
+      "file": "new-york-times-1.svg",
+      "gotab_id": 45,
+      "id": 1018,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "new-york-times-1.svg",
+        "original_is_default": false,
+        "original_slug": "new-york-times"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2335,
+        "previous_sha256": "4fd91a0fe68ba55ee3df5483bc8ee55f6cec578d4b061c6deaa9f1ab0bfc6538",
+        "ratio": 0.2
+      },
+      "sha256": "1cd76f062c2df2512e9d2fed932c4d100151b3423d48d20f9dfb9f8541973ed6",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HCT9YRG9PZWATNWQSXGFNS.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

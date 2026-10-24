@@ -1,0 +1,50 @@
+{
+  "collection_id": 315,
+  "schema_version": 1,
+  "id": 442,
+  "title": "Pixiv",
+  "url": "https://pixiv.net",
+  "domains": [
+    "pixiv.net"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Pixiv",
+    "pixiv.net"
+  ],
+  "aliases": [
+    "pixiv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2913,
+      "collection": "GoTab 公开资源库",
+      "file": "pixiv.svg",
+      "gotab_id": 70,
+      "id": 1115,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pixiv.svg",
+        "original_is_default": true,
+        "original_slug": "pixiv"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2691,
+        "previous_sha256": "c6ccf708e8f47215f12e2289ed73c561a11b41b1c7345d4530b37577846ddb23",
+        "ratio": 0.2
+      },
+      "sha256": "9c52d86cb618ad81ec0cec6feab358ab0f8fc6d086bb7e9d812d9d8f22ff7943",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HKGTMNZRRGGYTDMQMPDPZS.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

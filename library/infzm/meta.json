@@ -1,0 +1,78 @@
+{
+  "collection_id": 212,
+  "schema_version": 1,
+  "id": 309,
+  "title": "南方周末",
+  "url": "https://infzm.com",
+  "domains": [
+    "infzm.com"
+  ],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "新闻",
+    "资讯",
+    "南方周末",
+    "infzm",
+    "infzm.com"
+  ],
+  "aliases": [
+    "infzm"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 7552,
+      "collection": "用户优化 SVG",
+      "file": "infzm.svg",
+      "id": 765,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "infzm.svg",
+        "original_is_default": true,
+        "original_slug": "infzm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7330,
+        "previous_sha256": "8d74967b36f3210d619111c3889383868afd2fcbe0619668f635a88346f1b167",
+        "ratio": 0.2
+      },
+      "sha256": "c2e5de2716b2d4d679717f5439b11f42e051b0db92a90c502b01c1cd6ee39d4f",
+      "source": "用户确认优化：GoTab南方周末矢量字形重新排回原图布局，保留红色圆角底",
+      "version": 0
+    },
+    {
+      "bytes": 7732,
+      "collection": "GoTab 公开资源库",
+      "file": "infzm-1.svg",
+      "gotab_id": 39,
+      "id": 766,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "infzm-1.svg",
+        "original_is_default": false,
+        "original_slug": "infzm"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7510,
+        "previous_sha256": "ac888c11b94601c6b75ac4903795979ebe2d0135b5ffa1c82aa31f5f8fa51a9d",
+        "ratio": 0.2
+      },
+      "sha256": "ceb938d2fb6d150582a9200665ed6d1b3a39f83224db71f61e8c5d1a045b44ab",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HC9ZDW4GNJMMSEDP802XJQ.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

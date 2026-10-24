@@ -1,0 +1,77 @@
+{
+  "collection_id": 462,
+  "schema_version": 1,
+  "id": 626,
+  "title": "BMW",
+  "url": "https://www.bmw.com/",
+  "domains": [
+    "bmw.com"
+  ],
+  "description": "BMW 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "BMW",
+    "bmw",
+    "宝马",
+    "汽车"
+  ],
+  "aliases": [
+    "宝马"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10420,
+      "collection": "用户补充 SVG",
+      "file": "bmw.svg",
+      "id": 1560,
+      "is_default": true,
+      "label": "bmw-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "bmw-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/bmw-1.svg"
+      },
+      "sha256": "d72412b31a2ab00a937ccc24fcf5d90a5e5c773cb664af82ee28d36ef1654941",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/bmw-1.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2511,
+      "collection": "用户补充 SVG",
+      "file": "bmw-1.svg",
+      "id": 1561,
+      "is_default": false,
+      "label": "bmw-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "bmw-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/bmw-2.svg"
+      },
+      "sha256": "78dc093d72ef1606fc75842b9202f19397e08771dd3a1e940c4e017f9c614ce9",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/bmw-2.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5046,
+      "collection": "用户补充 SVG",
+      "file": "bmw-2.svg",
+      "id": 1562,
+      "is_default": false,
+      "label": "bmw-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "bmw-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/bmw-3.svg"
+      },
+      "sha256": "aafad991a0aa01e08253062560f7dfbb2c5cc18c152c006cfa512547b849aba6",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/bmw-3.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

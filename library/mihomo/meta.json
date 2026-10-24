@@ -1,0 +1,73 @@
+{
+  "collection_id": 261,
+  "schema_version": 1,
+  "id": 377,
+  "title": "Mihomo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "Mihomo"
+  ],
+  "aliases": [
+    "mihomo"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。",
+    "默认展示用户指定的蓝色渐变 M 猫脸版本，黑色立方体保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1228,
+      "collection": "用户优化 SVG",
+      "file": "mihomo-1.svg",
+      "id": 953,
+      "is_default": true,
+      "label": "mihomo",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "mihomo-1.svg",
+        "original_is_default": false,
+        "original_slug": "mihomo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1006,
+        "previous_sha256": "93b6871ddd5431d9a6b91ee3b0711b63dd094042ed1e64524112de150443752b",
+        "ratio": 0.2
+      },
+      "sha256": "1e9e48df3fb8383a3cb73163b4fd5d0fa3a8c8180cc21d5a7c8f8b3976528de2",
+      "source": "用户确认重绘：Mihomo 蓝色渐变M猫脸、橙色胡须、小鼻子与白色圆角底",
+      "version": 1
+    },
+    {
+      "bytes": 844,
+      "collection": "用户优化 SVG",
+      "file": "mihomo.svg",
+      "id": 954,
+      "is_default": false,
+      "label": "mihomo-1",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "mihomo.svg",
+        "original_is_default": true,
+        "original_slug": "mihomo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 622,
+        "previous_sha256": "236fa68fca9c9ee4dd9c79c0749bd56cb150e1f226c6c83f83713c7f4257ea9a",
+        "ratio": 0.2
+      },
+      "sha256": "97d466ee3bc5788680cc432d2bbfac346f8974770b752d34953d0c1a2b071e39",
+      "source": "用户确认优化：mihomo-cube-candidate.svg；保留原图布局的纯矢量候选（人民网标志复用图库已有矢量）",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

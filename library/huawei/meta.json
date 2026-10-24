@@ -1,0 +1,214 @@
+{
+  "collection_id": 196,
+  "schema_version": 1,
+  "id": 292,
+  "title": "华为",
+  "url": "https://huawei.com",
+  "domains": [
+    "huawei.com"
+  ],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "硬件",
+    "设备",
+    "华为",
+    "huawei",
+    "huawei.com"
+  ],
+  "aliases": [
+    "huawei"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1649,
+      "collection": "theSVG",
+      "file": "huawei.svg",
+      "id": 721,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huawei.svg",
+        "original_is_default": true,
+        "original_slug": "huawei"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1416,
+        "previous_sha256": "48654b586096e58ef1388f248e8e4494e7a0246bbda194911ade6f32d708cfb1",
+        "ratio": 0.2
+      },
+      "sha256": "0697177f6ba58fbf560dc82828b1a5312a1fbc740e1dda8fedbfbe874bf0d0af",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/huawei/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1891,
+      "collection": "theSVG",
+      "file": "huawei-1.svg",
+      "id": 722,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huawei-1.svg",
+        "original_is_default": false,
+        "original_slug": "huawei"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1666,
+        "previous_sha256": "696640d9c6e3c922067cac872c488752bfdf3c71d25906363e753d1d34d6537e",
+        "ratio": 0.2
+      },
+      "sha256": "9c06984d0f29778278f80e9938731aad25e78f64b1dceff0e589bd206a5e69d1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/huawei-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1649,
+      "collection": "theSVG",
+      "file": "huawei-2.svg",
+      "id": 723,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huawei-2.svg",
+        "original_is_default": false,
+        "original_slug": "huawei"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1416,
+        "previous_sha256": "55e9d157acdcfb2728539da1667b070860782922cd1d220990f84f90aefbeee8",
+        "ratio": 0.2
+      },
+      "sha256": "6f60397a20f328ed5797d64c1bdf4278192f1b56e134ec2acbaf3a7d3d7a7721",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/huawei/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2683,
+      "collection": "Dashboard Icons",
+      "file": "huawei-3.svg",
+      "id": 724,
+      "is_default": false,
+      "label": "huawei",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huawei-3.svg",
+        "original_is_default": false,
+        "original_slug": "huawei"
+      },
+      "sha256": "9049f53b3f2054ac7be2161f9dc5002503a707a7c34f060b33fa663d76a61b4a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/huawei.svg",
+      "version": 3
+    },
+    {
+      "bytes": 8000,
+      "collection": "SVGLOGO",
+      "file": "huawei-4.svg",
+      "id": 725,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huawei-4.svg",
+        "original_is_default": false,
+        "original_slug": "huawei"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7767,
+        "previous_sha256": "fe0e643533b7f6db9b3c341e0f27f5c8a97e63fe4416a74db17d6d396f028f93",
+        "ratio": 0.2
+      },
+      "sha256": "f33fb08bd36bb2cbd18fa7392a4a6a4346410b1eca06d9f4da126b04f03c436a",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/company/huawei.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 293,
+      "key": "cloud",
+      "title": "华为云",
+      "url": "https://huaweicloud.com",
+      "domains": [
+        "huaweicloud.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "国内补充",
+        "云计算",
+        "华为",
+        "华为云",
+        "huawei-cloud",
+        "huaweicloud",
+        "huaweicloud.com"
+      ],
+      "aliases": [
+        "huawei-cloud",
+        "huaweicloud"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1768,
+          "collection": "theSVG",
+          "file": "huawei-cloud.svg",
+          "id": 726,
+          "is_default": true,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "huawei-cloud.svg",
+            "original_is_default": true,
+            "original_slug": "huawei-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1535,
+            "previous_sha256": "37e4f2234e679fdd14fb3cc4c23eea4176828a5e72a80b2224d510ea8a096818",
+            "ratio": 0.2
+          },
+          "sha256": "2bf3256e9da07458ba16a8cb46a18fd40a84e736d97558e2f6d0aac572f82959",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/huaweicloud/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1778,
+          "collection": "theSVG",
+          "file": "huawei-cloud-1.svg",
+          "id": 727,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "huawei-cloud-1.svg",
+            "original_is_default": false,
+            "original_slug": "huawei-cloud"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1545,
+            "previous_sha256": "17197fe2bcce272e9f5ab6e0d91d6d2e6e25f17dd24d1fb72a0c168b24bebcd8",
+            "ratio": 0.2
+          },
+          "sha256": "48e562524a9f6ce1301f170ff11b65614444f8af969527b92cf076a82355c99c",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/huaweicloud/mono.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+ <defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#72a5dc" /><stop offset=".43" stop-color="#447dbb" /><stop offset="1" stop-color="#062e65" /></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff8a00" /><stop offset="1" stop-color="#ff6e00" /></linearGradient>
+ </defs>
+ <rect width="256" height="256" rx="48" fill="url(#background)" />
+ <path d="M89 47c-8 0-13 2-19 7L53 68c-6 5-9 11-9 20v78c0 9 3 15 9 20l19 15c5 4 10 5 17 5h63v-32h-49c-5 0-8-1-11-4l-9-8c-3-3-4-5-4-10v-47c0-5 1-8 5-11l9-9c3-3 6-5 11-5h52l21 16 27-25-27-24Z" fill="url(#orange)" />
+ <path d="M186 166h16l5 33c1 4-1 6-5 6h-16c-4 0-6-2-5-6Z" fill="#fff" />
+ <circle cx="194" cy="154" r="17" fill="#fff" />
+</g></svg>

@@ -1,0 +1,41 @@
+{
+  "title": "Ceph",
+  "url": "https://ceph.io/",
+  "domains": [
+    "ceph.io"
+  ],
+  "description": "开源分布式存储软件。",
+  "category": "网盘存储",
+  "tags": [
+    "分布式存储",
+    "对象存储",
+    "Ceph"
+  ],
+  "aliases": [
+    "ceph",
+    "分布式存储",
+    "对象存储"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "ceph.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "18ae675221fd916b96a42f9680e9efd59d5cb78c900a5bcc69f534134f882bf0",
+      "bytes": 1783,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ceph.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "ceph.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

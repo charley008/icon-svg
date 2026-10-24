@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="_图层_1" data-name="图层 1" viewBox="0 0 160 160" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <path d="M110.57,26.87l-61.25.07-30.54,53.04,30.58,53.15,61.34-.13,30.52-53.02-30.65-53.11ZM107.35,126.99l-54.72.1-27.12-47.1,27.12-47.09,54.54-.02,27.26,47.09-27.08,47.02Z" style="fill: #182b88;" />
+  <path d="M103.99,38.7l-32.52,73.7c19.38-10.65,37.57-21.01,56.29-32.64l-23.77-41.06Z" style="fill: #172a88;" />
+  <polygon points="33.03 79.92 56.84 121.08 88.7 48.46 33.03 79.92" style="fill: #172a88;" />
+  <polygon points="56.62 39.25 44.56 61.76 84.18 39.61 56.62 39.25" style="fill: #e60615;" />
+  <polygon points="104.58 120.61 116.98 97.46 77.23 120.36 104.58 120.61" style="fill: #e60514;" />
+</svg></g></g></svg>

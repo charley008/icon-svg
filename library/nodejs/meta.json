@@ -1,0 +1,62 @@
+{
+  "collection_id": 483,
+  "schema_version": 1,
+  "id": 647,
+  "title": "Node.js",
+  "url": "https://nodejs.org/",
+  "domains": [
+    "nodejs.org"
+  ],
+  "description": "Node.js 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "Node.js",
+    "nodejs",
+    "JavaScript",
+    "运行时",
+    "后端开发"
+  ],
+  "aliases": [
+    "nodejs",
+    "node"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2594,
+      "collection": "用户补充 SVG",
+      "file": "nodejs-1.svg",
+      "id": 1598,
+      "is_default": true,
+      "label": "nodejs-4",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nodejs-4.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nodejs-4.svg"
+      },
+      "sha256": "7eedb84cf38c2aa1dd4877fccba9bea6120ad41fa7a31384ce6c41d8062f904a",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nodejs-4.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3871,
+      "collection": "用户补充 SVG",
+      "file": "nodejs.svg",
+      "id": 1597,
+      "is_default": false,
+      "label": "nodejs-3",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nodejs-3.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nodejs-3.svg"
+      },
+      "sha256": "ed9515f4b31fcb65adefa8888dfdaefb2e4d57c1dc6d1d798037e1f58038dd1f",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nodejs-3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

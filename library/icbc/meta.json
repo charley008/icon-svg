@@ -1,0 +1,93 @@
+{
+  "collection_id": 202,
+  "schema_version": 1,
+  "id": 299,
+  "title": "工商银行",
+  "url": "https://icbc.com.cn",
+  "domains": [
+    "icbc.com.cn"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "工商银行",
+    "icbc",
+    "industrial-and-commercial-bank-of-china",
+    "icbc.com.cn"
+  ],
+  "aliases": [
+    "icbc",
+    "industrial-and-commercial-bank-of-china"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 874,
+      "collection": "SVGLOGO",
+      "file": "icbc.svg",
+      "id": 742,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icbc.svg",
+        "original_is_default": true,
+        "original_slug": "icbc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 652,
+        "previous_sha256": "35b10faa88d593aaf78c9c945c98a9f02d698372869b67575f77b6731b19dfd7",
+        "ratio": 0.2
+      },
+      "sha256": "a8d02b6ef44b42ed810cef3f123fdeb73e0e9f43524f5470cb006e638eecdba1",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/ICBC.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5452,
+      "collection": "SVGLOGO",
+      "file": "icbc-1.svg",
+      "id": 743,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icbc-1.svg",
+        "original_is_default": false,
+        "original_slug": "icbc"
+      },
+      "sha256": "fb4052950e84e5e5ae19450a0be7240b83fe12ffed4e9c011ca409b4eb4156d0",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/pay/ICBC_wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 577,
+      "collection": "Iconify / arcticons",
+      "file": "icbc-2.svg",
+      "id": 744,
+      "is_default": false,
+      "label": "icbc",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icbc-2.svg",
+        "original_is_default": false,
+        "original_slug": "icbc"
+      },
+      "rounded_corners": {
+        "previous_bytes": 344,
+        "previous_sha256": "4fb49db9b5180707145a33578f48533c99aca81a4ca06eb4456bd019595d3be6",
+        "ratio": 0.2
+      },
+      "sha256": "fdee71ad83f9c38ee33b01375907018078beee0005cee6195b59374f8cb8c607",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#icbc",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

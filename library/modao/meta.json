@@ -1,0 +1,112 @@
+{
+  "collection_id": 268,
+  "schema_version": 1,
+  "id": 386,
+  "title": "墨刀",
+  "url": "https://modao.cc",
+  "domains": [
+    "modao.cc"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "国内补充",
+    "设计",
+    "素材",
+    "墨刀",
+    "modao",
+    "mockingbot",
+    "modao.cc"
+  ],
+  "aliases": [
+    "modao",
+    "mockingbot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1385,
+      "collection": "SVGLOGO",
+      "file": "modao.svg",
+      "id": 972,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "modao.svg",
+        "original_is_default": true,
+        "original_slug": "modao"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1152,
+        "previous_sha256": "7f979ddd36424c395097e30e038d7d87b7335c771493f0a75c8f4c22ac26dcc1",
+        "ratio": 0.2
+      },
+      "sha256": "cb502462d272700c5792a43d8641635c50ba3fcac9a8b6c8ccc59a942e88c585",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/Modao.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4602,
+      "collection": "SVGLOGO",
+      "file": "modao-1.svg",
+      "id": 973,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "modao-1.svg",
+        "original_is_default": false,
+        "original_slug": "modao"
+      },
+      "sha256": "9d8a5bd21d205346fec8ab7a29a0c85752c151a93f55da60e3857db114cbd935",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/Modao_wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4633,
+      "collection": "SVGLOGO",
+      "file": "modao-2.svg",
+      "id": 974,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "modao-2.svg",
+        "original_is_default": false,
+        "original_slug": "modao"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4400,
+        "previous_sha256": "966d774128b11d8b02e33d019f7f076012fbfa6fd4c49cdd84353cc53923fa0e",
+        "ratio": 0.2
+      },
+      "sha256": "e43f5e05af00755786dfc996d44a5806e96901d33ff6bba765ffa90e757640f0",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/xinzhi.svg",
+      "version": 2
+    },
+    {
+      "bytes": 6963,
+      "collection": "SVGLOGO",
+      "file": "modao-3.svg",
+      "id": 975,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "modao-3.svg",
+        "original_is_default": false,
+        "original_slug": "modao"
+      },
+      "sha256": "caaf265fd372922b67fa4ee7bf3df74e5f4bb34d79d88d14e15166c4ef0d19d8",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/xinzhi_wordmark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

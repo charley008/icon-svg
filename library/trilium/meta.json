@@ -1,0 +1,43 @@
+{
+  "title": "Trilium Notes",
+  "url": "https://triliumnotes.org/",
+  "domains": [
+    "triliumnotes.org"
+  ],
+  "description": "树形笔记与个人知识库应用。",
+  "category": "办公效率",
+  "tags": [
+    "TriliumNext",
+    "树形笔记",
+    "知识库",
+    "Trilium Notes"
+  ],
+  "aliases": [
+    "trilium",
+    "TriliumNext",
+    "树形笔记",
+    "知识库"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "trilium.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "2eaa4ff3b1caf4829a3ec65e25a00d128f5d163fd6bfb5fa0df94f325487920b",
+      "bytes": 2311,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trilium.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "trilium.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

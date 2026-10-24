@@ -1,0 +1,44 @@
+{
+  "title": "Proxmox",
+  "url": "https://www.proxmox.com/",
+  "domains": [
+    "www.proxmox.com"
+  ],
+  "description": "虚拟化与服务器管理平台。",
+  "category": "系统工具",
+  "tags": [
+    "PVE",
+    "虚拟化",
+    "服务器",
+    "Proxmox"
+  ],
+  "aliases": [
+    "proxmox",
+    "PVE",
+    "虚拟化",
+    "服务器",
+    "Virtualization Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "proxmox.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "466d1a13608536479c8bda1168dffeccb5f6d485011e8e0819e7b36e0d83ced9",
+      "bytes": 1196,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "proxmox.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

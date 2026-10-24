@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg id="_图层_1" data-name=" 图层 1" viewBox="0 0 200 200" x="0" y="0" width="256" height="256" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008fee;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M52.12,52.15h41.91c4.97,7.22,9.95,14.44,14.92,21.65,7.58-7.22,15.16-14.44,22.73-21.65h47.6c-16.58,15.3-33.15,30.6-49.73,45.91,13.62,16.6,27.23,33.2,40.85,49.8h-54.7c-4.14-7.36-8.29-14.73-12.43-22.09-7.58,7.36-15.16,14.73-22.73,22.09H9.5c23.92-17.47,47.83-34.94,71.75-52.4-9.71-14.44-19.42-28.87-29.13-43.31Z" />
+</svg></g></g></svg>

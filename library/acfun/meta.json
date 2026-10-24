@@ -1,0 +1,49 @@
+{
+  "collection_id": 22,
+  "schema_version": 1,
+  "id": 23,
+  "title": "AcFun",
+  "url": "https://acfun.cn",
+  "domains": [
+    "acfun.cn"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "影音",
+    "AcFun",
+    "acfun.cn"
+  ],
+  "aliases": [
+    "acfun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10618,
+      "collection": "GoTab 公开资源库",
+      "file": "acfun.svg",
+      "gotab_id": 13,
+      "id": 40,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "acfun.svg",
+        "original_is_default": true,
+        "original_slug": "acfun"
+      },
+      "rounded_corners": {
+        "previous_bytes": 10396,
+        "previous_sha256": "2e5522735ca32f8baba53cae0323c08ac90c2db538283d800e0d98b38b1a9076",
+        "ratio": 0.2
+      },
+      "sha256": "edb0230323f64a0733d7c0ba9a222b4714d56a0b6f8120589ad108d8988c2ca7",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8H0B9A3H32BHQKWG9QX3KN9.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

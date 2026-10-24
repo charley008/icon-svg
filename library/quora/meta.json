@@ -1,0 +1,114 @@
+{
+  "collection_id": 333,
+  "schema_version": 1,
+  "id": 463,
+  "title": "Quora",
+  "url": "https://quora.com",
+  "domains": [
+    "quora.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "社交",
+    "通讯",
+    "Quora",
+    "quora.com"
+  ],
+  "aliases": [
+    "quora"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 693,
+      "collection": "theSVG",
+      "file": "quora.svg",
+      "id": 1151,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quora.svg",
+        "original_is_default": true,
+        "original_slug": "quora"
+      },
+      "rounded_corners": {
+        "previous_bytes": 460,
+        "previous_sha256": "29643dc7c17438ec587fc800b8db4fff4a217826e12471d33835dab728991084",
+        "ratio": 0.2
+      },
+      "sha256": "afa4987dda6c3808ba380e9b51c2d903f8e4a647d775c06a17a01323d3cce265",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/quora/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 693,
+      "collection": "theSVG",
+      "file": "quora-1.svg",
+      "id": 1152,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quora-1.svg",
+        "original_is_default": false,
+        "original_slug": "quora"
+      },
+      "rounded_corners": {
+        "previous_bytes": 460,
+        "previous_sha256": "733f571a70f2fe48919c8adce5d445981714014ad65bec4267144a1e35653d69",
+        "ratio": 0.2
+      },
+      "sha256": "a1f1a601f89e217b03fcf2b3610408bf51db4eaf2f3c2c449ae8292f761d6331",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/quora/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2475,
+      "collection": "Iconify / logos",
+      "file": "quora-2.svg",
+      "id": 1153,
+      "is_default": false,
+      "label": "quora",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quora-2.svg",
+        "original_is_default": false,
+        "original_slug": "quora"
+      },
+      "sha256": "8b6b869deab2f775a56fa01b82c853ad9b3d44d5d11b383b9bad227fd3207280",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#quora",
+      "version": 2
+    },
+    {
+      "bytes": 741,
+      "collection": "Iconify / arcticons",
+      "file": "quora-3.svg",
+      "id": 1154,
+      "is_default": false,
+      "label": "quora",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quora-3.svg",
+        "original_is_default": false,
+        "original_slug": "quora"
+      },
+      "rounded_corners": {
+        "previous_bytes": 508,
+        "previous_sha256": "97bed2a4e05b0934f226e10aa6268c61a7cfb7dca2bc792e8ffb2a258c65fe03",
+        "ratio": 0.2
+      },
+      "sha256": "33321e8e27993ccfeae83ed38789b0c44be11d6dd33a23452a9130247f9d2c65",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#quora",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

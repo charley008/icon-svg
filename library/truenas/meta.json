@@ -1,0 +1,43 @@
+{
+  "title": "TrueNAS",
+  "url": "https://www.truenas.com/",
+  "domains": [
+    "www.truenas.com"
+  ],
+  "description": "网络存储操作系统。",
+  "category": "系统工具",
+  "tags": [
+    "NAS",
+    "存储系统",
+    "TrueNAS"
+  ],
+  "aliases": [
+    "truenas",
+    "NAS",
+    "存储系统",
+    "TrueNAS",
+    "NAS OS"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "truenas.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "e827988e1e499a73a751b8953ab390996c33d530fa77fb08921a63b933f66c27",
+      "bytes": 465,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/truenas.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "truenas.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

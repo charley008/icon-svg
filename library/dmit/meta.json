@@ -1,0 +1,49 @@
+{
+  "collection_id": 123,
+  "schema_version": 1,
+  "id": 193,
+  "title": "DMIT",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "用户优选",
+    "自用",
+    "云计算",
+    "DMIT"
+  ],
+  "aliases": [
+    "dmit"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1285,
+      "collection": "用户优化 SVG",
+      "file": "dmit.svg",
+      "id": 468,
+      "is_default": true,
+      "label": "dmit",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "dmit.svg",
+        "original_is_default": true,
+        "original_slug": "dmit"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1063,
+        "previous_sha256": "380f57ee2ade89a6708e13aa1a369c64cb71e20d7f33f1ef2fd58a6a0b2afee2",
+        "ratio": 0.2
+      },
+      "sha256": "924a82f5368529d2f160ece1d797bcc87de6a4ecef786c38187ef2fba1d44cba",
+      "source": "用户确认重绘：DMIT 深蓝底终端与字样版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

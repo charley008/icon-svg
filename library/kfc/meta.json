@@ -1,0 +1,62 @@
+{
+  "collection_id": 474,
+  "schema_version": 1,
+  "id": 638,
+  "title": "KFC",
+  "url": "https://www.kfc.com/",
+  "domains": [
+    "kfc.com"
+  ],
+  "description": "KFC 图标合集。",
+  "category": "生活服务",
+  "tags": [
+    "KFC",
+    "kfc",
+    "肯德基",
+    "炸鸡",
+    "餐饮"
+  ],
+  "aliases": [
+    "肯德基",
+    "Kentucky Fried Chicken"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 26063,
+      "collection": "用户补充 SVG",
+      "file": "kfc.svg",
+      "id": 1581,
+      "is_default": true,
+      "label": "桶形图标",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "uploaded-svg-optimized",
+      "provenance": {
+        "original_file": "kfc-4.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/kfc-4.svg"
+      },
+      "sha256": "0b494428a20992f77ec0136740d015f3ff25b4e0c84d43f5d65a6422dd4bf959",
+      "source": "用户提供的 kfc-4.svg",
+      "version": 0
+    },
+    {
+      "bytes": 33901,
+      "collection": "用户补充 SVG",
+      "file": "kfc-1.svg",
+      "id": 1582,
+      "is_default": false,
+      "label": "kfc-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "kfc-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/kfc-2.svg"
+      },
+      "sha256": "3aaae28aa21fe11fbf713c064c010fa226c510791196ca892d1af6f5fad230f3",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/kfc-2.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

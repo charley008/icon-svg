@@ -1,0 +1,73 @@
+{
+  "collection_id": 115,
+  "schema_version": 1,
+  "id": 185,
+  "title": "大众点评",
+  "url": "https://dianping.com",
+  "domains": [
+    "dianping.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "大众点评",
+    "dianping",
+    "dianping.com"
+  ],
+  "aliases": [
+    "dianping"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1399,
+      "collection": "jaywcjlove/logo",
+      "file": "dianping.svg",
+      "id": 442,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dianping-1.svg",
+        "original_is_default": true,
+        "original_slug": "dianping"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1179,
+        "previous_sha256": "d328438269b479eec07c5e7502f6327193aef7dedf4660682d2da2b4b44ae491",
+        "ratio": 0.2
+      },
+      "sha256": "9bc4762a2dae718f0eea7331c08af31600b600dc001f2ed3ae4f1576a5a81392",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/dianping.svg",
+      "version": 0
+    },
+    {
+      "bytes": 823,
+      "collection": "Iconify / arcticons",
+      "file": "dianping-1.svg",
+      "id": 443,
+      "is_default": false,
+      "label": "dianping",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dianping.svg",
+        "original_is_default": false,
+        "original_slug": "dianping"
+      },
+      "rounded_corners": {
+        "previous_bytes": 590,
+        "previous_sha256": "fa15bb0f898eeede880b50fd9fc0251ac827072e4e2b353bf123544caf79e07d",
+        "ratio": 0.2
+      },
+      "sha256": "ad23a3ff9008c6a9ec57a0ab75b7b3b7ab1b5d6cbe44ccc686cd9332035513ca",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#dianping",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

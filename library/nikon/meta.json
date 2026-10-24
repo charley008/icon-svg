@@ -1,0 +1,44 @@
+{
+  "collection_id": 481,
+  "schema_version": 1,
+  "id": 645,
+  "title": "Nikon",
+  "url": "https://www.nikon.com/",
+  "domains": [
+    "nikon.com"
+  ],
+  "description": "Nikon 图标合集。",
+  "category": "设备硬件",
+  "tags": [
+    "Nikon",
+    "nikon",
+    "尼康",
+    "相机",
+    "摄影"
+  ],
+  "aliases": [
+    "尼康"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1518,
+      "collection": "用户补充 SVG",
+      "file": "nikon.svg",
+      "id": 1594,
+      "is_default": true,
+      "label": "nikon-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "nikon-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/nikon-1.svg"
+      },
+      "sha256": "2be53674095ad327e0db5033c92399f9d44b00200b17cb5e99ea0a21b972d8ef",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/nikon-1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

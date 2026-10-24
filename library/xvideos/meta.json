@@ -1,0 +1,54 @@
+{
+  "collection_id": 438,
+  "schema_version": 1,
+  "id": 599,
+  "title": "XVideos",
+  "url": "https://xvideos.com",
+  "domains": [
+    "xvideos.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "XVideos",
+    "xvideos.com"
+  ],
+  "aliases": [
+    "xvideos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 113556,
+      "collection": "原图描摹",
+      "file": "xvideos.svg",
+      "id": 1498,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-detail",
+      "provenance": {
+        "original_file": "xvideos.svg",
+        "original_is_default": true,
+        "original_slug": "xvideos"
+      },
+      "render_rmse": 24.162,
+      "rounded_corners": {
+        "previous_bytes": 113334,
+        "previous_sha256": "7af6e922a57a52c705b971b8078099a2c053e3f17e753da00f5baae4b703ccd5",
+        "ratio": 0.2
+      },
+      "sha256": "8a5daeb4e03d838060805807d2125b0a3e05a1e0187fb912e87cecc537b83024",
+      "source": "https://assets-cdn77.xvideos-cdn.com/v3/img/skins/default/logo/xv.white.180.png",
+      "source_size": [
+        180,
+        180
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

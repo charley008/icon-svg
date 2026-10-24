@@ -1,0 +1,43 @@
+{
+  "title": "Hetzner",
+  "url": "https://www.hetzner.com/",
+  "domains": [
+    "www.hetzner.com"
+  ],
+  "description": "服务器与云计算服务商。",
+  "category": "云服务",
+  "tags": [
+    "云主机",
+    "服务器",
+    "托管",
+    "Hetzner"
+  ],
+  "aliases": [
+    "hetzner",
+    "云主机",
+    "服务器",
+    "托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "hetzner.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ae529b95486a52abb2ef81026c3f18fa32c9b7f914b4d25c26c91c99b25f79d6",
+      "bytes": 1958,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hetzner.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "hetzner.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

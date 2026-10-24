@@ -1,0 +1,51 @@
+{
+  "collection_id": 267,
+  "schema_version": 1,
+  "id": 385,
+  "title": "Mockup World",
+  "url": "https://mockupworld.co",
+  "domains": [
+    "mockupworld.co"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Mockup World",
+    "mockupworld",
+    "mockupworld.co"
+  ],
+  "aliases": [
+    "mockupworld"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2856,
+      "collection": "GoTab 公开资源库",
+      "file": "mockupworld.svg",
+      "gotab_id": 123,
+      "id": 971,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "mockupworld.svg",
+        "original_is_default": true,
+        "original_slug": "mockupworld"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2634,
+        "previous_sha256": "bcddd577cb16801aa30aa3344693b12ec247f17f257beb6cb0c6309929e0bc21",
+        "ratio": 0.2
+      },
+      "sha256": "cf8a504d209c1b8ffe380d749a95c0ad0f11c2cde5a7e8b30bef55a6ee32ec8b",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PRESCA1YA5Z4TC5NFBJD2S.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Box",
+  "url": "https://www.box.com/",
+  "domains": [
+    "www.box.com"
+  ],
+  "description": "企业云文件管理与协作服务。",
+  "category": "网盘存储",
+  "tags": [
+    "企业网盘",
+    "文件协作",
+    "Box"
+  ],
+  "aliases": [
+    "box",
+    "企业网盘",
+    "文件协作"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "box.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ff5d8ff316b1e2cc32c5a511d965bbdea75598a71474235538bed6744241e07d",
+      "bytes": 1087,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/box.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "box.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

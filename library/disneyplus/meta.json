@@ -1,0 +1,88 @@
+{
+  "collection_id": 120,
+  "schema_version": 1,
+  "id": 190,
+  "title": "Disney+",
+  "url": "https://disneyplus.com",
+  "domains": [
+    "disneyplus.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "全球Top100",
+    "影音",
+    "视频",
+    "在线视频",
+    "Disney+",
+    "disneyplus",
+    "disneyplus.com"
+  ],
+  "aliases": [
+    "disneyplus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6259,
+      "collection": "theSVG",
+      "file": "disneyplus.svg",
+      "id": 461,
+      "is_default": true,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "disneyplus.svg",
+        "original_is_default": true,
+        "original_slug": "disneyplus"
+      },
+      "sha256": "cdfe05ce8d513ee828fbc65a290a50fba35b9117d87b3bede873b8f86c83348d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/disneyplus/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8035,
+      "collection": "theSVG",
+      "file": "disneyplus-1.svg",
+      "id": 462,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "disneyplus-1.svg",
+        "original_is_default": false,
+        "original_slug": "disneyplus"
+      },
+      "sha256": "b72acd635b0261f4682551797353144b0f287efa04e0df3187a8ee419329ca77",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/disney-plus/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6040,
+      "collection": "Dashboard Icons",
+      "file": "disneyplus-2.svg",
+      "id": 463,
+      "is_default": false,
+      "label": "disney-plus",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "disneyplus-2.svg",
+        "original_is_default": false,
+        "original_slug": "disneyplus"
+      },
+      "rounded_corners": {
+        "previous_bytes": 5817,
+        "previous_sha256": "4f1749b8dd98c5bdfed3261da27290dab7bf7c76fedab1a64a4cb6ae0decfe06",
+        "ratio": 0.2
+      },
+      "sha256": "8952448207d1d46308625f9a7b96b3cef55139d5d8da905ebfc2488a68e40be5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/disney-plus.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

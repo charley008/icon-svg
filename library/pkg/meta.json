@@ -1,0 +1,51 @@
+{
+  "collection_id": 316,
+  "schema_version": 1,
+  "id": 443,
+  "title": "包联网",
+  "url": "https://pkg.cn",
+  "domains": [
+    "pkg.cn"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "包联网",
+    "pkg",
+    "pkg.cn"
+  ],
+  "aliases": [
+    "pkg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1604,
+      "collection": "GoTab 公开资源库",
+      "file": "pkg.svg",
+      "gotab_id": 129,
+      "id": 1116,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "pkg.svg",
+        "original_is_default": true,
+        "original_slug": "pkg"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1382,
+        "previous_sha256": "9292bf83e03e384a042528d6700027ec223c214e0feeec7314d24a1fe3dfaff5",
+        "ratio": 0.2
+      },
+      "sha256": "9f97d6b7f44150ab58411a9f5657dbc55802de1476da89c08b7481cf76081789",
+      "source": "https://web.gotab.cn/uploads/202409/01J8S52YH418R2N00WE5S6BTDD.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

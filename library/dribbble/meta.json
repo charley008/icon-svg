@@ -1,0 +1,50 @@
+{
+  "collection_id": 131,
+  "schema_version": 1,
+  "id": 202,
+  "title": "Dribbble",
+  "url": "https://dribbble.com",
+  "domains": [
+    "dribbble.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "Dribbble",
+    "dribbble.com"
+  ],
+  "aliases": [
+    "dribbble"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7185,
+      "collection": "GoTab 公开资源库",
+      "file": "dribbble.svg",
+      "gotab_id": 134,
+      "id": 495,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "dribbble.svg",
+        "original_is_default": true,
+        "original_slug": "dribbble"
+      },
+      "rounded_corners": {
+        "previous_bytes": 6963,
+        "previous_sha256": "c03c04a6e3a1e6286eeb1eebf4d5adc86d8d7b43f4637ebd6d41d0a9f20229f0",
+        "ratio": 0.2
+      },
+      "sha256": "a71e1457cf7ec4e2b34b652b9074d11498c4da4a7b199db02cfab343f4a3aa7b",
+      "source": "https://web.gotab.cn/uploads/202410/01JAYSWXQYEPM5CN6XC7MXBYER.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

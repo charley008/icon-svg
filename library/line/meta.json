@@ -1,0 +1,142 @@
+{
+  "collection_id": 239,
+  "schema_version": 1,
+  "id": 339,
+  "title": "LINE",
+  "url": "https://line.me",
+  "domains": [
+    "line.me"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球App补充",
+    "社交",
+    "通讯",
+    "LINE",
+    "line.me"
+  ],
+  "aliases": [
+    "line"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1502,
+      "collection": "theSVG",
+      "file": "line.svg",
+      "id": 837,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "line.svg",
+        "original_is_default": true,
+        "original_slug": "line"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1269,
+        "previous_sha256": "18fe19b4b2b3bf5bc534d47c43abeedf9857a3875fe0aeb87ec226c428e4a49d",
+        "ratio": 0.2
+      },
+      "sha256": "2db1f4319c6adb2a6de318696a65c108b05cd195a2435d3339bc11352167849f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/line/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1502,
+      "collection": "theSVG",
+      "file": "line-1.svg",
+      "id": 838,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "line-1.svg",
+        "original_is_default": false,
+        "original_slug": "line"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1269,
+        "previous_sha256": "51c1faaaa82ace3d376f021b0f7cd8fc2d176a28960a64888b023f7528b1c722",
+        "ratio": 0.2
+      },
+      "sha256": "94be03f0acaac860ef58cb7de7a2aa18a2ca8ce0e2a7df11b1597494b85cb4e0",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/line/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1368,
+      "collection": "Iconify / ri",
+      "file": "line-2.svg",
+      "id": 839,
+      "is_default": false,
+      "label": "line-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "line-2.svg",
+        "original_is_default": false,
+        "original_slug": "line"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1135,
+        "previous_sha256": "134eaa451ed4747248e8918961797d9481024d61880c699b0d986d4cc2bfe3a7",
+        "ratio": 0.2
+      },
+      "sha256": "772f04c5c0268e85f7ef7f39a6e4658e0922c8f87dacc0fbe4df1a886dadd3ab",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#line-fill",
+      "version": 2
+    },
+    {
+      "bytes": 1518,
+      "collection": "Iconify / ri",
+      "file": "line-3.svg",
+      "id": 840,
+      "is_default": false,
+      "label": "line-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "line-3.svg",
+        "original_is_default": false,
+        "original_slug": "line"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1285,
+        "previous_sha256": "65be92872147daa8913cdd3cdfca566503a6df70ced7d5d16b150d5d397ba9a2",
+        "ratio": 0.2
+      },
+      "sha256": "9ae91a51f778ad64191ece09e8f9fe11ffd56d1f0165cf756eed92aa7293847e",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#line-line",
+      "version": 3
+    },
+    {
+      "bytes": 1006,
+      "collection": "Iconify / arcticons",
+      "file": "line-4.svg",
+      "id": 841,
+      "is_default": false,
+      "label": "line",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "line-4.svg",
+        "original_is_default": false,
+        "original_slug": "line"
+      },
+      "rounded_corners": {
+        "previous_bytes": 773,
+        "previous_sha256": "35458480576ba07f87090cc3b515737f95d147ddfc47093ca7b3dfb63997b475",
+        "ratio": 0.2
+      },
+      "sha256": "cb6d5660458ee733a4511e3fe38d65a529983cf2e314ed05cb9fa45b1c8ca054",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#line",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

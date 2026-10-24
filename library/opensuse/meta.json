@@ -1,0 +1,43 @@
+{
+  "title": "openSUSE",
+  "url": "https://www.opensuse.org/",
+  "domains": [
+    "www.opensuse.org"
+  ],
+  "description": "Linux 操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "操作系统",
+    "发行版",
+    "openSUSE"
+  ],
+  "aliases": [
+    "opensuse",
+    "Linux",
+    "操作系统",
+    "发行版"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "opensuse.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "3970168e30f7e1ee2c1089df7dba34d3beefb0cc772d7ab73799d6f775187540",
+      "bytes": 1709,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opensuse.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "opensuse.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

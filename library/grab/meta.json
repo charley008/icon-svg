@@ -1,0 +1,95 @@
+{
+  "collection_id": 179,
+  "schema_version": 1,
+  "id": 275,
+  "title": "Grab",
+  "url": "https://grab.com",
+  "domains": [
+    "grab.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "全球App补充",
+    "出行",
+    "Grab",
+    "grab.com"
+  ],
+  "aliases": [
+    "grab"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3155,
+      "collection": "theSVG",
+      "file": "grab.svg",
+      "id": 691,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grab.svg",
+        "original_is_default": true,
+        "original_slug": "grab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2922,
+        "previous_sha256": "f2592451a734390b85cbbc411684fad48d209fc98681206f03d55c0980b6a537",
+        "ratio": 0.2
+      },
+      "sha256": "72cac9b6b0f72c9ae0b3acdbe34c0b3406f3f75ee4ce278ffddbd44c5a87f903",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/grab/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3155,
+      "collection": "theSVG",
+      "file": "grab-1.svg",
+      "id": 692,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grab-1.svg",
+        "original_is_default": false,
+        "original_slug": "grab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2922,
+        "previous_sha256": "dbfda010f4bc8277d236044340ae978f768ec60cd94a4a43149bbf7f60200c64",
+        "ratio": 0.2
+      },
+      "sha256": "b4aabb93ece7a69436c1a780de81f512c22519d77599021ccef0ebdfb2f38752",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/grab/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1030,
+      "collection": "Iconify / arcticons",
+      "file": "grab-2.svg",
+      "id": 693,
+      "is_default": false,
+      "label": "grab",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grab-2.svg",
+        "original_is_default": false,
+        "original_slug": "grab"
+      },
+      "rounded_corners": {
+        "previous_bytes": 797,
+        "previous_sha256": "ea4bf960971e91b8485dda98208a1993647400ae5764a5e8432d8aa534265690",
+        "ratio": 0.2
+      },
+      "sha256": "da6cf0cde169dc1109ed12f0f0496ee8ff17bc00443b36da7485a17c7b755d4d",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#grab",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

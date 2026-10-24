@@ -1,0 +1,87 @@
+{
+  "title": "WordPress",
+  "url": "https://wordpress.org/",
+  "domains": [
+    "wordpress.org"
+  ],
+  "description": "开源网站与博客系统。",
+  "category": "开发编程",
+  "tags": [
+    "博客",
+    "CMS",
+    "网站建设",
+    "WordPress"
+  ],
+  "aliases": [
+    "wordpress",
+    "博客",
+    "CMS",
+    "网站建设"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "wordpress.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "49dae7eb6d790fff860990cf5be51bd53c21d1e33e22c7a99f29583ab073b34a",
+      "bytes": 1120,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wordpress.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "wordpress.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": [
+    {
+      "title": "WooCommerce",
+      "url": "https://woocommerce.com/",
+      "domains": [
+        "woocommerce.com"
+      ],
+      "description": "WordPress 电商应用。",
+      "category": "电商购物",
+      "tags": [
+        "电商",
+        "网店",
+        "WordPress",
+        "WooCommerce"
+      ],
+      "aliases": [
+        "wordpress-woocommerce",
+        "woocommerce",
+        "电商",
+        "网店",
+        "WordPress"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "wordpress-woocommerce.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "89075f9f1e27d51ff3bda422b1073bad34b145f3a09da419738e288b7d5ec00b",
+          "bytes": 1987,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/woocommerce.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "woocommerce.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "woocommerce"
+    }
+  ]
+}

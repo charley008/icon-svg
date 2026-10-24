@@ -1,0 +1,167 @@
+{
+  "collection_id": 171,
+  "schema_version": 1,
+  "id": 242,
+  "title": "GitHub",
+  "url": "https://github.com",
+  "domains": [
+    "github.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "用户优选",
+    "开发",
+    "编程",
+    "代码托管",
+    "Git",
+    "GitHub",
+    "github.com"
+  ],
+  "aliases": [
+    "github"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1646,
+      "collection": "已有图标",
+      "file": "github.svg",
+      "id": 598,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "github.svg",
+        "original_is_default": true,
+        "original_slug": "github"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1424,
+        "previous_sha256": "229b9ad638ae24dac10e1f2724a36369d1e0899908c5910477619371d7359225",
+        "ratio": 0.2
+      },
+      "sha256": "dd6ca38b038eb84f0d781ab0fc90e832db795f5682da41d6b0780ad5c437ece7",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 1952,
+      "collection": "GoTab 公开资源库",
+      "file": "github-1.svg",
+      "gotab_id": 50,
+      "id": 599,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "github-1.svg",
+        "original_is_default": false,
+        "original_slug": "github"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1730,
+        "previous_sha256": "48b8c33ec904cc6e8707668bb2ce23e4f66ae80a70467e6631f2e6c3d5fdc24b",
+        "ratio": 0.2
+      },
+      "sha256": "f014052bd0df0bc88b16eb8d50847f30fe792a1e9694b412e2ae445e0b513444",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8HDBKK28SS2GX9AT0MVT48V.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1243,
+      "collection": "已有图标",
+      "file": "github-2.svg",
+      "id": 600,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github-2.svg",
+        "original_is_default": false,
+        "original_slug": "github"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1018,
+        "previous_sha256": "cd16c698d46d565cbbcb29fb34d0e0f286a0afac6f5ba8b5d6cfffe9bafa8ffd",
+        "ratio": 0.2
+      },
+      "sha256": "b9256664dc378fdebaa21ea5d6ea814c2aa5a680591794f5e865f673d6557a8d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/github/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1459,
+      "collection": "已有图标",
+      "file": "github-3.svg",
+      "id": 601,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github-3.svg",
+        "original_is_default": false,
+        "original_slug": "github"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1234,
+        "previous_sha256": "69188b1f5c40de5515b0eb86664d4574c614e75d92839ed3e23493a56e4b4a45",
+        "ratio": 0.2
+      },
+      "sha256": "a9b76c511aefe7c3466b4a7f68f9b295db93300e9aae593eac150470aee7652f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/github-badge/default.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1243,
+      "collection": "已有图标",
+      "file": "github-4.svg",
+      "id": 602,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github-4.svg",
+        "original_is_default": false,
+        "original_slug": "github"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1018,
+        "previous_sha256": "4840eda4ee5884a2672e0b18c9de7c4fd886417ef5ecf41c4192414259838710",
+        "ratio": 0.2
+      },
+      "sha256": "cbf7bc74626b738d3457cbb2a5ae1c051b260ba0ffc650959610012be08bd22f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/github/dark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 2667,
+      "collection": "已有图标",
+      "file": "github-5.svg",
+      "id": 603,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github-5.svg",
+        "original_is_default": false,
+        "original_slug": "github"
+      },
+      "sha256": "3be11643ca690224d33f250513249dc991ea750955238196a5d074b53d50d964",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/github/wordmark.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

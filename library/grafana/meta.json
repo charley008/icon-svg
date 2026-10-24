@@ -1,0 +1,43 @@
+{
+  "title": "Grafana",
+  "url": "https://grafana.com/",
+  "domains": [
+    "grafana.com"
+  ],
+  "description": "数据可视化与监控软件。",
+  "category": "开发编程",
+  "tags": [
+    "监控",
+    "仪表盘",
+    "可视化",
+    "Grafana"
+  ],
+  "aliases": [
+    "grafana",
+    "监控",
+    "仪表盘",
+    "可视化"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "grafana.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8f32897073ee93594ab2339482ef21ca3767044055da89e2baf9066d25592df7",
+      "bytes": 4233,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grafana.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "grafana.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

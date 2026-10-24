@@ -1,0 +1,141 @@
+{
+  "collection_id": 54,
+  "schema_version": 1,
+  "id": 101,
+  "title": "Binance",
+  "url": "https://binance.com",
+  "domains": [
+    "binance.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球App补充",
+    "金融",
+    "Binance",
+    "binance.com"
+  ],
+  "aliases": [
+    "binance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1197,
+      "collection": "theSVG",
+      "file": "binance.svg",
+      "id": 251,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binance.svg",
+        "original_is_default": true,
+        "original_slug": "binance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 975,
+        "previous_sha256": "7a8613301e3cbcf492d8e91b1c38645e213d9167ff405b1c429eda97056e78ac",
+        "ratio": 0.2
+      },
+      "sha256": "f5a3b679c27eaafbb3ebbb1ec44db06fe08e851bcbf14f14488d2741dbfac94d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/binance/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 816,
+      "collection": "theSVG",
+      "file": "binance-1.svg",
+      "id": 252,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binance-1.svg",
+        "original_is_default": false,
+        "original_slug": "binance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 591,
+        "previous_sha256": "10813b4e97ac950c9e8586c9da025b875371bee6ac0339a15f791e7610c36c57",
+        "ratio": 0.2
+      },
+      "sha256": "164b517919da2ff228cc77436febd061b0f3dc357c7f35a8221126761a990926",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/binance-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 816,
+      "collection": "theSVG",
+      "file": "binance-2.svg",
+      "id": 253,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binance-2.svg",
+        "original_is_default": false,
+        "original_slug": "binance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 583,
+        "previous_sha256": "c0bb990aa832e2c57bd1c65db740e5685866089504439ed3842167053425888d",
+        "ratio": 0.2
+      },
+      "sha256": "b425dc6be64b1d9e71d5e52d06c65b76c0fbcd878b0365fac2188e8f51c92e8a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/binance/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 816,
+      "collection": "Simple Icons",
+      "file": "binance-3.svg",
+      "id": 254,
+      "is_default": false,
+      "label": "binance",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binance-3.svg",
+        "original_is_default": false,
+        "original_slug": "binance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 583,
+        "previous_sha256": "0a6186ce770db08b6de8c84467a83e0f30cd641ac694537fcf4c2513322c7597",
+        "ratio": 0.2
+      },
+      "sha256": "ceb6e48719305d1f86f38e5c970268999e069db21c976b3122490306d6f856a0",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/binance.svg",
+      "version": 3
+    },
+    {
+      "bytes": 743,
+      "collection": "Iconify / arcticons",
+      "file": "binance-4.svg",
+      "id": 255,
+      "is_default": false,
+      "label": "binance",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binance-4.svg",
+        "original_is_default": false,
+        "original_slug": "binance"
+      },
+      "rounded_corners": {
+        "previous_bytes": 510,
+        "previous_sha256": "75c8e5bbf328a4bb5e5b5673da34238cb44bf264ad0eaad71492f9b2241937cb",
+        "ratio": 0.2
+      },
+      "sha256": "1c77b5ae8b79d3683334a4c495e673ccdc01945663623628516842c9efcb6852",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#binance",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

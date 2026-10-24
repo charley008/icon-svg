@@ -1,0 +1,61 @@
+{
+  "collection_id": 325,
+  "schema_version": 1,
+  "id": 452,
+  "title": "千千音乐",
+  "url": "https://music.taihe.com",
+  "domains": [
+    "music.taihe.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "影音",
+    "音乐",
+    "听歌",
+    "千千音乐",
+    "qianqian",
+    "qianqian-music",
+    "music.taihe.com"
+  ],
+  "aliases": [
+    "qianqian",
+    "qianqian-music"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.baidu.TingIPhone",
+      "appstore_track": "https://apps.apple.com/cn/app/%E5%8D%83%E5%8D%83%E9%9F%B3%E4%B9%90-%E5%90%AC%E8%A7%81%E4%BD%A0%E7%9A%84%E4%B8%96%E7%95%8C/id468623917?uo=4",
+      "bytes": 19834,
+      "collection": "原图描摹",
+      "file": "qianqian.svg",
+      "id": 1132,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "qianqian.svg",
+        "original_is_default": true,
+        "original_slug": "qianqian"
+      },
+      "render_rmse": 5.488,
+      "rounded_corners": {
+        "previous_bytes": 19611,
+        "previous_sha256": "7a26ed06bbe333b2eea61ebdbb3bea619db805fcac4ce25865deedfa927f210f",
+        "ratio": 0.2
+      },
+      "sha256": "56c1f1f9298be79a147574c2f218fe6953782d7a747526cb243c72dcf281fe6f",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/19/14/001914e7-1072-2abd-f102-d118be91e95c/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "source_size": [
+        512,
+        512
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

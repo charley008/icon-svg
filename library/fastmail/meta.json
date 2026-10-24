@@ -1,0 +1,43 @@
+{
+  "title": "Fastmail",
+  "url": "https://www.fastmail.com/",
+  "domains": [
+    "www.fastmail.com"
+  ],
+  "description": "电子邮件与日历服务。",
+  "category": "办公效率",
+  "tags": [
+    "电子邮箱",
+    "邮件服务",
+    "Fastmail"
+  ],
+  "aliases": [
+    "fastmail",
+    "电子邮箱",
+    "邮件服务",
+    "paid-email-service",
+    "privacy-email"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "fastmail.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ceb6100f63e0c7b3ed42e7dc9ef35392737cffc690fee74e02134596eac8eb82",
+      "bytes": 781,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fastmail.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "fastmail.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

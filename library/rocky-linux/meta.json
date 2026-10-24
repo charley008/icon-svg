@@ -1,0 +1,44 @@
+{
+  "title": "Rocky Linux",
+  "url": "https://rockylinux.org/",
+  "domains": [
+    "rockylinux.org"
+  ],
+  "description": "企业 Linux 操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "服务器",
+    "发行版",
+    "Rocky Linux"
+  ],
+  "aliases": [
+    "rocky-linux",
+    "Linux",
+    "服务器",
+    "发行版",
+    "Linux Distribution"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "rocky-linux.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "7242f159d85463681445f89d0153279355a650f19a77d1f6dc86ca63dee12797",
+      "bytes": 438,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rocky-linux.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "rocky-linux.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

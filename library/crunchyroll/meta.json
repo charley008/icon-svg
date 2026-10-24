@@ -1,0 +1,43 @@
+{
+  "title": "Crunchyroll",
+  "url": "https://www.crunchyroll.com/",
+  "domains": [
+    "www.crunchyroll.com"
+  ],
+  "description": "动画流媒体服务。",
+  "category": "影音娱乐",
+  "tags": [
+    "动画",
+    "动漫",
+    "流媒体",
+    "Crunchyroll"
+  ],
+  "aliases": [
+    "crunchyroll",
+    "动画",
+    "动漫",
+    "流媒体"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "crunchyroll.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "d7dd384b0c01cb1c9b19b0e3ae499361551744e6208087335c4536b27bacc331",
+      "bytes": 2625,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crunchyroll.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "crunchyroll.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

@@ -1,0 +1,52 @@
+{
+  "collection_id": 187,
+  "schema_version": 1,
+  "id": 283,
+  "title": "哈啰出行",
+  "url": "https://hellobike.com",
+  "domains": [
+    "hellobike.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "出行",
+    "哈啰出行",
+    "hellobike",
+    "hello-bike",
+    "hellobike.com"
+  ],
+  "aliases": [
+    "hellobike",
+    "hello-bike"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 854,
+      "collection": "Iconify / arcticons",
+      "file": "hellobike.svg",
+      "id": 710,
+      "is_default": true,
+      "label": "hello-cycling",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hellobike.svg",
+        "original_is_default": true,
+        "original_slug": "hellobike"
+      },
+      "rounded_corners": {
+        "previous_bytes": 621,
+        "previous_sha256": "8e2060dd03cb02669ce89f607efecbe38f20e6237e17f9074b6a151ce5874f9d",
+        "ratio": 0.2
+      },
+      "sha256": "13d549e939f458d537071931b8411df51b1886f7c93fc9abfb939210a0333689",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#hello-cycling",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

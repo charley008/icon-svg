@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 176 176" preserveAspectRatio="xMidYMid meet" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="176" height="176" rx="35.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs><clipPath id="website-icon-rounded-corners" clipPathUnits="userSpaceOnUse"><rect x="0.0" y="0.0" width="176.0" height="176.0" rx="33.0" ry="33.0" /></clipPath></defs><g clip-path="url(#website-icon-rounded-corners)"><defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="176" gradientUnits="userSpaceOnUse"><stop stop-color="#365aff" /><stop offset="1" stop-color="#0645ff" /></linearGradient>
+    <radialGradient id="glow" cx="143" cy="-10" r="195" gradientUnits="userSpaceOnUse"><stop stop-color="#8580ff" stop-opacity=".85" /><stop offset="1" stop-color="#8580ff" stop-opacity="0" /></radialGradient>
+    <linearGradient id="silver" x1="0" y1="43" x2="0" y2="152" gradientUnits="userSpaceOnUse"><stop stop-color="#fff" /><stop offset="1" stop-color="#c4c7ff" /></linearGradient>
+  </defs>
+  <rect width="176" height="176" rx="9" fill="url(#blue)" />
+  <rect width="176" height="176" rx="9" fill="url(#glow)" />
+  <path fill="url(#silver)" fill-rule="evenodd" d="M88.5 24 144.5 55.5V119.5L88.5 152 32 119.5V55.5ZM88.5 37.5C88.5 62 111.5 87 137 87C111.5 87 88.5 112 88.5 137.5C88.5 112 65.5 87 40 87C65.5 87 88.5 62 88.5 37.5Z" />
+</g></g></svg>

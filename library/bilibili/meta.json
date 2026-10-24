@@ -1,0 +1,174 @@
+{
+  "collection_id": 53,
+  "schema_version": 1,
+  "id": 100,
+  "title": "哔哩哔哩",
+  "url": "https://bilibili.com",
+  "domains": [
+    "bilibili.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "Worldvectorlogo补充",
+    "用户优选",
+    "影音",
+    "视频",
+    "在线视频",
+    "哔哩哔哩",
+    "bilibili",
+    "bili-bili",
+    "bilibili.com"
+  ],
+  "aliases": [
+    "bilibili",
+    "bili-bili"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 4126,
+      "collection": "已有图标",
+      "file": "bilibili.svg",
+      "id": 245,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "bilibili.svg",
+        "original_is_default": true,
+        "original_slug": "bilibili"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3901,
+        "previous_sha256": "15aaf7369a5e375b2abf87ac65d4584b3df14bbb9791e5bdbcc1e4be2bbd5900",
+        "ratio": 0.2
+      },
+      "sha256": "447ba771bbcc0412b3e9e96ea56c968b025a01cc8237e02b3e43471b443e4bb4",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 3528,
+      "collection": "GoTab 公开资源库",
+      "file": "bilibili-1.svg",
+      "gotab_id": 3,
+      "id": 246,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "bilibili-1.svg",
+        "original_is_default": false,
+        "original_slug": "bilibili"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3306,
+        "previous_sha256": "d8be0395169436c7f00e6e5657df96a080a7730b4e3f1e3c5253fc597875c36a",
+        "ratio": 0.2
+      },
+      "sha256": "1154553172e34fbdadd2b50970980a10b3351ca64dd2f99001302b109b281bf1",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8GTM8C3CBE4QXDM4DRK0B35.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1707,
+      "collection": "已有图标",
+      "file": "bilibili-2.svg",
+      "id": 247,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bilibili-2.svg",
+        "original_is_default": false,
+        "original_slug": "bilibili"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1474,
+        "previous_sha256": "b0257537c3da42bfcf7f62b58b563e7543e8e80f793d1a8f37a6f4a98b7affd9",
+        "ratio": 0.2
+      },
+      "sha256": "bccecc0ece928685a1392ad3d9a70db879e5d698ed70de7a0e089b07016dfc46",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bilibili/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1707,
+      "collection": "已有图标",
+      "file": "bilibili-3.svg",
+      "id": 248,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bilibili-3.svg",
+        "original_is_default": false,
+        "original_slug": "bilibili"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1474,
+        "previous_sha256": "67fc2a5a4b9906b87802cbd3d63a4b8604a8c5c3819d8cfd360b22ed6169c12a",
+        "ratio": 0.2
+      },
+      "sha256": "f61f5bd87c3f5021d095b5f7374f8a496bd62f63e711f823b308ea79148575f1",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bilibili/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1071,
+      "collection": "已有图标",
+      "file": "bilibili-4.svg",
+      "id": 249,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bilibili-4.svg",
+        "original_is_default": false,
+        "original_slug": "bilibili"
+      },
+      "rounded_corners": {
+        "previous_bytes": 838,
+        "previous_sha256": "6a8ad2681ff070aca0f6f2883b93bd6c51c42e45ba16c59864bb809b167dd2f2",
+        "ratio": 0.2
+      },
+      "sha256": "e6e7a65dd4dc05189e619c1d8f0d45596387c1fb38826c07f420f2bfa26dc11f",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#bilibili-fill",
+      "version": 4
+    },
+    {
+      "bytes": 2889,
+      "collection": "已有图标",
+      "file": "bilibili-5.svg",
+      "id": 250,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bilibili-5.svg",
+        "original_is_default": false,
+        "original_slug": "bilibili"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2643,
+        "previous_sha256": "664fe2d67f6ee48b1ba1cc38ea5c9ad14e991665155c8790fe7e44bf2729f354",
+        "ratio": 0.2
+      },
+      "sha256": "8137537a9447087d498f1cef80ca183d6dd2f76123d9cd5fcd1fb2682f382ae2",
+      "source": "https://cdn.worldvectorlogo.com/logos/bilibili.svg",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 354,
+  "schema_version": 1,
+  "id": 485,
+  "title": "设计之家",
+  "url": "https://sj33.cn",
+  "domains": [
+    "sj33.cn"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "设计之家",
+    "sj33",
+    "sj33.cn"
+  ],
+  "aliases": [
+    "sj33"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8168,
+      "collection": "GoTab 公开资源库",
+      "file": "sj33.svg",
+      "gotab_id": 120,
+      "id": 1214,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "sj33.svg",
+        "original_is_default": true,
+        "original_slug": "sj33"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7946,
+        "previous_sha256": "a138a944e9e6b1eda767ab2d4609a8e6fc87982bfbc85b21c4aa9fcbedf0486b",
+        "ratio": 0.2
+      },
+      "sha256": "61b5358ea1a073e9ce6b7d057a481c65f720e60e2637241cdd6dab80d5954638",
+      "source": "https://web.gotab.cn/uploads/202409/01J8PN311N7Q62YXSFCXRXVG7W.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

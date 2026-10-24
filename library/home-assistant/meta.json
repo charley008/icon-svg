@@ -1,0 +1,43 @@
+{
+  "title": "Home Assistant",
+  "url": "https://www.home-assistant.io/",
+  "domains": [
+    "www.home-assistant.io"
+  ],
+  "description": "开源智能家居与家庭自动化平台。",
+  "category": "生活服务",
+  "tags": [
+    "HA",
+    "智能家居",
+    "家庭自动化",
+    "Home Assistant"
+  ],
+  "aliases": [
+    "home-assistant",
+    "HA",
+    "智能家居",
+    "家庭自动化"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "home-assistant.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "146b366b8c09502742025c4bca4e029e8e4a1b277db837d59a23b93940ebe0e0",
+      "bytes": 879,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/home-assistant.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "home-assistant.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

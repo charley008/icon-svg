@@ -1,0 +1,70 @@
+{
+  "title": "Eclipse Foundation",
+  "url": "https://www.eclipse.org/",
+  "domains": [
+    "www.eclipse.org"
+  ],
+  "description": "Eclipse Foundation 旗下产品与服务。",
+  "category": "开发编程",
+  "tags": [
+    "开源",
+    "物联网",
+    "Eclipse Foundation"
+  ],
+  "aliases": [
+    "eclipse",
+    "开源",
+    "物联网"
+  ],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "schema_version": 1,
+  "products": [
+    {
+      "title": "Eclipse Mosquitto",
+      "url": "https://mosquitto.org/",
+      "domains": [
+        "mosquitto.org"
+      ],
+      "description": "Eclipse MQTT 消息服务器。",
+      "category": "网络工具",
+      "tags": [
+        "MQTT",
+        "消息服务器",
+        "物联网",
+        "Eclipse Mosquitto"
+      ],
+      "aliases": [
+        "eclipse-mosquitto",
+        "mosquitto",
+        "MQTT",
+        "消息服务器",
+        "物联网",
+        "mqtt-server",
+        "iot-broker"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "file": "eclipse-mosquitto.svg",
+          "version": 0,
+          "label": "彩色版本",
+          "is_default": true,
+          "sha256": "f339cedd619dc2a39a8153cc687fd0272e219108a3b86456543553f6531ea0d5",
+          "bytes": 1510,
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mosquitto.svg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "collection": "Dashboard Icons",
+          "provenance": {
+            "original_file": "mosquitto.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          }
+        }
+      ],
+      "next_version": 1,
+      "key": "mosquitto"
+    }
+  ]
+}

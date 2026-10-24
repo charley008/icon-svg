@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)">
+  <defs>
+    <linearGradient id="map" x1="0" y1="0" x2="1" y2="1"><stop offset=".25" stop-color="#fff"/><stop offset="1" stop-color="#deecff"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1=".2" x2="1" y2=".65"><stop stop-color="#00b7f9"/><stop offset=".55" stop-color="#00a5fd"/><stop offset="1" stop-color="#0076f5"/></linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#ff401a"/><stop offset="1" stop-color="#ff5005"/></linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="3" dy="6" stdDeviation="6" flood-color="#238ad5" flood-opacity=".18"/></filter>
+  </defs>
+  <path fill="url(#map)" d="M0 0h256v256H0z"/>
+  <path fill="#e8f5ff" fill-opacity=".65" d="M64 0h16v256H64zM0 70h256v16H0z"/>
+  <path fill="#fff" fill-opacity=".72" d="M0 162h256v36H0zM162 86h32v170h-32z"/>
+  <path fill="#b5d5ff" fill-opacity=".16" d="M194 86h62v76h-62zM194 198h62v58h-62z"/>
+  <g filter="url(#shadow)">
+    <path fill="url(#blue)" d="M96 96c-22 28-43 75-60 115-4 10-1 13 9 9 40-16 89-39 117-58Z"/>
+    <path fill="url(#orange)" d="M96 96c29-22 76-43 116-59 9-4 11-1 8 8-16 41-38 90-58 117Z"/>
+  </g>
+</g></svg>

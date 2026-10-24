@@ -1,0 +1,60 @@
+{
+  "collection_id": 488,
+  "schema_version": 1,
+  "id": 653,
+  "title": "Python",
+  "url": "https://www.python.org/",
+  "domains": [
+    "python.org"
+  ],
+  "description": "Python 图标合集。",
+  "category": "开发编程",
+  "tags": [
+    "Python",
+    "python",
+    "编程语言",
+    "开发工具"
+  ],
+  "aliases": [
+    "python"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4133,
+      "collection": "用户补充 SVG",
+      "file": "python.svg",
+      "id": 1607,
+      "is_default": true,
+      "label": "python-2",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "python-2.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/python-2.svg"
+      },
+      "sha256": "20a744ac65801869b4b37d2087c6386e69d9519817098abc718cbb97489912ed",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/python-2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1313,
+      "collection": "用户补充 SVG",
+      "file": "python-1.svg",
+      "id": 1608,
+      "is_default": false,
+      "label": "python-1",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "python-1.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/python-1.svg"
+      },
+      "sha256": "79c215b99ec8e218946cc60c9cbeffa14c0e5b8b8b43b1d66db7e02c47006540",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/python-1.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

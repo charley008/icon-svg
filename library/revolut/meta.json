@@ -1,0 +1,95 @@
+{
+  "collection_id": 338,
+  "schema_version": 1,
+  "id": 468,
+  "title": "Revolut",
+  "url": "https://revolut.com",
+  "domains": [
+    "revolut.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "全球App补充",
+    "金融",
+    "Revolut",
+    "revolut.com"
+  ],
+  "aliases": [
+    "revolut"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 778,
+      "collection": "theSVG",
+      "file": "revolut.svg",
+      "id": 1167,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "revolut.svg",
+        "original_is_default": true,
+        "original_slug": "revolut"
+      },
+      "rounded_corners": {
+        "previous_bytes": 545,
+        "previous_sha256": "207fc7581ba4471fcf7189a2442bc69860cb23271e11489037b89dbcea159b27",
+        "ratio": 0.2
+      },
+      "sha256": "bd9eb3f83edf52d2047b74b59778543ffba960271a91ed2c86c10a252e2e9882",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/revolut/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 778,
+      "collection": "theSVG",
+      "file": "revolut-1.svg",
+      "id": 1168,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "revolut-1.svg",
+        "original_is_default": false,
+        "original_slug": "revolut"
+      },
+      "rounded_corners": {
+        "previous_bytes": 545,
+        "previous_sha256": "7fa0bda4f818aaa115067b24dfe63cd952367b4f1cf11a82364294dcedbb2132",
+        "ratio": 0.2
+      },
+      "sha256": "d5e3296b4621540b415ab959a27b7ba999b4fbc123c76d43cb7aa7b6b12f507e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/revolut/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 880,
+      "collection": "Iconify / arcticons",
+      "file": "revolut-2.svg",
+      "id": 1169,
+      "is_default": false,
+      "label": "revolut",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "revolut-2.svg",
+        "original_is_default": false,
+        "original_slug": "revolut"
+      },
+      "rounded_corners": {
+        "previous_bytes": 647,
+        "previous_sha256": "4b382562cb05807334d694fc70f38fd475ae5998334543d5bda41d920e2a3d9e",
+        "ratio": 0.2
+      },
+      "sha256": "6e19791c458c6b7cc90b5d46c392de1e9f9d8ba78a6ebd32f6f0149bdd68d6c8",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#revolut",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,51 @@
+{
+  "collection_id": 453,
+  "schema_version": 1,
+  "id": 617,
+  "title": "转转",
+  "url": "https://zhuanzhuan.com",
+  "domains": [
+    "zhuanzhuan.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "电商",
+    "购物",
+    "转转",
+    "zhuanzhuan",
+    "zhuanzhuan.com"
+  ],
+  "aliases": [
+    "zhuanzhuan"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 976,
+      "collection": "Iconify / arcticons",
+      "file": "zhuanzhuan.svg",
+      "id": 1543,
+      "is_default": true,
+      "label": "zhuan-zhuan",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zhuanzhuan.svg",
+        "original_is_default": true,
+        "original_slug": "zhuanzhuan"
+      },
+      "rounded_corners": {
+        "previous_bytes": 743,
+        "previous_sha256": "da5938ec3855255daa34c4039c11fd607abb5ae947ba1dbc62bff600eb02f0c1",
+        "ratio": 0.2
+      },
+      "sha256": "e4e5562ddb1c603def913d24a45384eed17bdedebe3a998d77cc835193203e95",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#zhuan-zhuan",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

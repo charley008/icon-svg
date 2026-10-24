@@ -1,0 +1,140 @@
+{
+  "collection_id": 364,
+  "schema_version": 1,
+  "id": 497,
+  "title": "讯飞星火",
+  "url": "https://xinghuo.xfyun.cn",
+  "domains": [
+    "xinghuo.xfyun.cn"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "国内补充",
+    "人工智能",
+    "讯飞星火",
+    "spark",
+    "iflytek",
+    "xinghuo.xfyun.cn"
+  ],
+  "aliases": [
+    "spark",
+    "iflytek"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1163,
+      "collection": "已有图标",
+      "file": "spark.svg",
+      "id": 1246,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spark.svg",
+        "original_is_default": true,
+        "original_slug": "spark"
+      },
+      "rounded_corners": {
+        "previous_bytes": 930,
+        "previous_sha256": "99b56d74c563cd4b9b880e03ebeed209bd1dae93e9dd7ba9c33db04ecda2a734",
+        "ratio": 0.2
+      },
+      "sha256": "cfa6e8dd357a46aadc9fd8fe37b328b9b296e862a25967e54e29250cd328f67d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/spark/color.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2261,
+      "collection": "GoTab 公开资源库",
+      "file": "spark-1.svg",
+      "gotab_id": 147,
+      "id": 1247,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "spark-1.svg",
+        "original_is_default": false,
+        "original_slug": "spark"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2039,
+        "previous_sha256": "05ff71edcebfbc39409116dc8fc531d62d99054eb3eda6227044c6a5a3edc696",
+        "ratio": 0.2
+      },
+      "sha256": "906c89c78a3df88d9f1c8bbeffe8febb37269d1972b2d2e1b31a486ee87726d7",
+      "source": "https://web.gotab.cn/sourceStore/website/01JAF49BAP2AXDWB6PWG6XR12P.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1000,
+      "collection": "已有图标",
+      "file": "spark-2.svg",
+      "id": 1248,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spark-2.svg",
+        "original_is_default": false,
+        "original_slug": "spark"
+      },
+      "rounded_corners": {
+        "previous_bytes": 767,
+        "previous_sha256": "c7bcf4b12bca477e6d0def12578da59c0f143de3590ea89753a4b99effe418f2",
+        "ratio": 0.2
+      },
+      "sha256": "e8b0c49320cfabc6df7e93e44815b1f7449a70c0e8e980ae24f6cb660eceb44b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/spark/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1663,
+      "collection": "已有图标",
+      "file": "spark-3.svg",
+      "id": 1249,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spark-3.svg",
+        "original_is_default": false,
+        "original_slug": "spark"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1430,
+        "previous_sha256": "36aec2a720786d1a56314bb408ccb635b2f9bb2450b3499f1bfa96f8ba06a8d4",
+        "ratio": 0.2
+      },
+      "sha256": "ff54ec2d1d5f01f09f6d1400aa8629d510e2fdb557153bc2d42ce824023896cb",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/IFlyTekCloud.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3222,
+      "collection": "已有图标",
+      "file": "spark-4.svg",
+      "id": 1250,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spark-4.svg",
+        "original_is_default": false,
+        "original_slug": "spark"
+      },
+      "sha256": "07a13168ec096e225b7a3d5f2847f7922f75f0157a79307f944ba3333c484016",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/IFlyTekCloud_wordmark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

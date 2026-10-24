@@ -1,0 +1,49 @@
+{
+  "collection_id": 193,
+  "schema_version": 1,
+  "id": 289,
+  "title": "HSTS",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "用户优选",
+    "自用",
+    "网络工具",
+    "HSTS"
+  ],
+  "aliases": [
+    "hsts"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1904,
+      "collection": "用户优化 SVG",
+      "file": "hsts.svg",
+      "id": 716,
+      "is_default": true,
+      "label": "HSTS",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "hsts.svg",
+        "original_is_default": true,
+        "original_slug": "hsts"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1682,
+        "previous_sha256": "176f77ca0286ac53175955a0452ab770cadb2cce7cda997209c5b7b281d3167b",
+        "ratio": 0.2
+      },
+      "sha256": "ae73c9ea465f6d9194b276aaf0e0bbfe66cd0efc74fede8f926698eed20cfc35",
+      "source": "用户确认重绘：HSTS 深底金色圆环盾牌版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

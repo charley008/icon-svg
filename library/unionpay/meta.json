@@ -1,0 +1,49 @@
+{
+  "collection_id": 398,
+  "schema_version": 1,
+  "id": 550,
+  "title": "中国银联",
+  "url": "https://unionpay.com",
+  "domains": [
+    "unionpay.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "国内补充",
+    "金融",
+    "支付",
+    "收款",
+    "中国银联",
+    "unionpay",
+    "china-unionpay",
+    "unionpay.com"
+  ],
+  "aliases": [
+    "unionpay",
+    "china-unionpay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8095,
+      "collection": "Iconify / logos",
+      "file": "unionpay.svg",
+      "id": 1376,
+      "is_default": true,
+      "label": "unionpay",
+      "license": "CC0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unionpay.svg",
+        "original_is_default": true,
+        "original_slug": "unionpay"
+      },
+      "sha256": "4dfd3af0db3971665fb3fd2603494062f9bb211a60bfcbed8ea2d6ce986e34dd",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#unionpay",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

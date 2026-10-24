@@ -1,0 +1,69 @@
+{
+  "collection_id": 93,
+  "schema_version": 1,
+  "id": 163,
+  "title": "博客园",
+  "url": "https://cnblogs.com",
+  "domains": [
+    "cnblogs.com"
+  ],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "国内补充",
+    "开发",
+    "编程",
+    "博客园",
+    "cnblogs",
+    "cnblogs.com"
+  ],
+  "aliases": [
+    "cnblogs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3449,
+      "collection": "jaywcjlove/logo",
+      "file": "cnblogs.svg",
+      "id": 400,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cnblogs-1.svg",
+        "original_is_default": true,
+        "original_slug": "cnblogs"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3229,
+        "previous_sha256": "08ddc15498425840ac65e9aa6c8c3e953db0936fb60770157d66a58cdee62ffc",
+        "ratio": 0.2
+      },
+      "sha256": "6c878f02797639f820627389f3338d8693c3eedb28eb430b4324273071fad082",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/cnblogs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1803,
+      "collection": "NViconsLib",
+      "file": "cnblogs-1.svg",
+      "id": 401,
+      "is_default": false,
+      "label": "historic-silhouette",
+      "license": "attribution-required",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cnblogs.svg",
+        "original_is_default": false,
+        "original_slug": "cnblogs"
+      },
+      "sha256": "fe90a3983fde0b11bc1aef42ad6857aa5fb9c38412e4a443a8ba333b6af5f6e8",
+      "source": "https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/svg/CN_cnblogs.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

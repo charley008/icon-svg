@@ -1,0 +1,119 @@
+{
+  "collection_id": 147,
+  "schema_version": 1,
+  "id": 218,
+  "title": "Etsy",
+  "url": "https://etsy.com",
+  "domains": [
+    "etsy.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "全球Top100",
+    "电商",
+    "购物",
+    "Etsy",
+    "etsy.com"
+  ],
+  "aliases": [
+    "etsy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1036,
+      "collection": "theSVG",
+      "file": "etsy.svg",
+      "id": 543,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etsy.svg",
+        "original_is_default": true,
+        "original_slug": "etsy"
+      },
+      "rounded_corners": {
+        "previous_bytes": 803,
+        "previous_sha256": "c915e00260875e4787d013f675c61c71bf4bb73c446a4e1eb8254c31dd71fecf",
+        "ratio": 0.2
+      },
+      "sha256": "e352abc069b95beb61554c20c3ebf2855119b50ce34cfc7b468d26ce3913d780",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/etsy/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2401,
+      "collection": "theSVG",
+      "file": "etsy-1.svg",
+      "id": 544,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etsy-1.svg",
+        "original_is_default": false,
+        "original_slug": "etsy"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2176,
+        "previous_sha256": "0d2460e780d33f9df0688a1ffccc08905c5082c72f566b979ce93be144a52a61",
+        "ratio": 0.2
+      },
+      "sha256": "4e1d42dc2cfb50085ff77d3b6aadea0ad9e802a920a85ebf06de6676fa0794e9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/etsy-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1036,
+      "collection": "theSVG",
+      "file": "etsy-2.svg",
+      "id": 545,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etsy-2.svg",
+        "original_is_default": false,
+        "original_slug": "etsy"
+      },
+      "rounded_corners": {
+        "previous_bytes": 803,
+        "previous_sha256": "aaf75c9a62069287f645819cc2204c09a2c82603ce3f63c6ac5972535c43a449",
+        "ratio": 0.2
+      },
+      "sha256": "bc649ef6cbe7ee25f3b6a39874c43d60d799ef2979fa35ab374e12d58a0f0996",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/etsy/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1030,
+      "collection": "Iconify / arcticons",
+      "file": "etsy-3.svg",
+      "id": 546,
+      "is_default": false,
+      "label": "etsy",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etsy-3.svg",
+        "original_is_default": false,
+        "original_slug": "etsy"
+      },
+      "rounded_corners": {
+        "previous_bytes": 797,
+        "previous_sha256": "534941c25c7f63b022de739d66e6cdbc43f03430eacd2b03be784fd2209d12ac",
+        "ratio": 0.2
+      },
+      "sha256": "313b45fcbd5be1e8d75d30b350106a55091ff10d4d7f2db07284d1a44c453062",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#etsy",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

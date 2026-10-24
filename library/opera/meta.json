@@ -1,0 +1,142 @@
+{
+  "collection_id": 299,
+  "schema_version": 1,
+  "id": 425,
+  "title": "Opera",
+  "url": "https://opera.com",
+  "domains": [
+    "opera.com"
+  ],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "全球Top100",
+    "浏览器",
+    "网页浏览",
+    "Opera",
+    "opera.com"
+  ],
+  "aliases": [
+    "opera"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1750,
+      "collection": "theSVG",
+      "file": "opera.svg",
+      "id": 1076,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opera.svg",
+        "original_is_default": true,
+        "original_slug": "opera"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1527,
+        "previous_sha256": "d1cd01c2f94c886e8c3a4d72e5a22ae486324108f4a81ef2970e0af031e4a670",
+        "ratio": 0.2
+      },
+      "sha256": "e20825967a3f5a1abdc418dfdd44d990481d4db66f8553e3a580f01c824f5a93",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/opera/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 997,
+      "collection": "theSVG",
+      "file": "opera-1.svg",
+      "id": 1077,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opera-1.svg",
+        "original_is_default": false,
+        "original_slug": "opera"
+      },
+      "rounded_corners": {
+        "previous_bytes": 772,
+        "previous_sha256": "402bbf299c5704c4e85d4261aa131bb211ddcc73e3ad2f506f8b8f5f32d1c774",
+        "ratio": 0.2
+      },
+      "sha256": "ef35de33f82939aee29dd9ea6edb7166977c62a659903291cfb47703957bfe12",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/opera-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 991,
+      "collection": "theSVG",
+      "file": "opera-2.svg",
+      "id": 1078,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opera-2.svg",
+        "original_is_default": false,
+        "original_slug": "opera"
+      },
+      "rounded_corners": {
+        "previous_bytes": 758,
+        "previous_sha256": "215879a2e99ac2aada9d34a9bd4dfb509cf60c1f909d5d7540278ab48df4f824",
+        "ratio": 0.2
+      },
+      "sha256": "5f5df8bd0ddf7ed78d89371436f9bc75aae7793882471202e36586e8cb72a4d6",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/opera/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2050,
+      "collection": "Dashboard Icons",
+      "file": "opera-3.svg",
+      "id": 1079,
+      "is_default": false,
+      "label": "opera",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opera-3.svg",
+        "original_is_default": false,
+        "original_slug": "opera"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1827,
+        "previous_sha256": "8b385f5bd76f53162369f0d962312f5b4659ad7131d297d17e4870c68e1b728d",
+        "ratio": 0.2
+      },
+      "sha256": "d0bff9c6dfe4b3073e8e4dbad1bd1d9f2c34eed021561024a494ba5a47c388af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opera.svg",
+      "version": 3
+    },
+    {
+      "bytes": 991,
+      "collection": "Simple Icons",
+      "file": "opera-4.svg",
+      "id": 1080,
+      "is_default": false,
+      "label": "opera",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opera-4.svg",
+        "original_is_default": false,
+        "original_slug": "opera"
+      },
+      "rounded_corners": {
+        "previous_bytes": 758,
+        "previous_sha256": "3adbc09d86e4051aa2fba6748f8dbeb5a99b956f0d9a4c77c2b1e717dca7e795",
+        "ratio": 0.2
+      },
+      "sha256": "0cd3b9ed4c5048161467d16e4ffcf4c61621ef74c8a568d3146ae216169cbe01",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opera.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

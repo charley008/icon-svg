@@ -1,0 +1,50 @@
+{
+  "collection_id": 418,
+  "schema_version": 1,
+  "id": 576,
+  "title": "Wedcm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "用户优选",
+    "自用",
+    "Wedcm",
+    "wedcm.com"
+  ],
+  "aliases": [
+    "wedcm.com"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。",
+    "原展示名称：Wedcm（原目录图标）"
+  ],
+  "icons": [
+    {
+      "bytes": 1302,
+      "collection": "用户优化 SVG",
+      "file": "wedcm.com.svg",
+      "id": 1441,
+      "is_default": true,
+      "label": "wedcm.com",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "wedcm.com.svg",
+        "original_is_default": true,
+        "original_slug": "wedcm.com"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1080,
+        "previous_sha256": "aa16801447b255c0d9101ab271cc6eab7d30336aadad926bf37b95c2b065b7b6",
+        "ratio": 0.2
+      },
+      "sha256": "bd9f897e0c965f95738a472b02dcabb609f0d81969b084cc2d9194c3fe167238",
+      "source": "用户确认并授权连续处理；按原蓝色渐变云朵和白色节点重绘，256x256",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

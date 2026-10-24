@@ -1,0 +1,50 @@
+{
+  "collection_id": 186,
+  "schema_version": 1,
+  "id": 282,
+  "title": "炉石传说",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "用户优选",
+    "自用",
+    "游戏",
+    "炉石传说",
+    "hearthstone"
+  ],
+  "aliases": [
+    "hearthstone"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 4144,
+      "collection": "用户优化 SVG",
+      "file": "hearthstone.svg",
+      "id": 709,
+      "is_default": true,
+      "label": "nga",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "hearthstone.svg",
+        "original_is_default": true,
+        "original_slug": "hearthstone"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3922,
+        "previous_sha256": "3159b5fb9440ec4a24dce846bcba97dbb40b12824c0b6a018dbd9001cab503b2",
+        "ratio": 0.2
+      },
+      "sha256": "ad2a7bfb41e64ab8d789b6c414eaef1fa4b5d9e6292cad610b0bd95ecfc3ff7b",
+      "source": "用户确认重绘；旋涡和星形参考 https://www.svgrepo.com/svg/504458/hearthstone（CC0）",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

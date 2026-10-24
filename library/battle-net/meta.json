@@ -1,0 +1,122 @@
+{
+  "collection_id": 49,
+  "schema_version": 1,
+  "id": 96,
+  "title": "Battle.net",
+  "url": "https://battle.net",
+  "domains": [
+    "battle.net"
+  ],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "全球App补充",
+    "游戏",
+    "Battle.net",
+    "battle-net",
+    "battledotnet",
+    "battlenet"
+  ],
+  "aliases": [
+    "battle-net",
+    "battledotnet",
+    "battlenet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1501,
+      "collection": "theSVG",
+      "file": "battle-net.svg",
+      "id": 237,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "battle-net.svg",
+        "original_is_default": true,
+        "original_slug": "battle-net"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1268,
+        "previous_sha256": "b5245ad9764b7a2bde89fee4c59adb195e5c1b4a825066633d4dd533a44e9e50",
+        "ratio": 0.2
+      },
+      "sha256": "39a765b7214e81fc42e714def3ce5b27e09595fb48de28d24b8e4b5572c4020e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/battledotnet/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1568,
+      "collection": "theSVG",
+      "file": "battle-net-1.svg",
+      "id": 238,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "battle-net-1.svg",
+        "original_is_default": false,
+        "original_slug": "battle-net"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1343,
+        "previous_sha256": "7aa6347f9706590d19cb2138d4c055b13a1b8b182fb206b89ce15707edd9f65e",
+        "ratio": 0.2
+      },
+      "sha256": "56f611d37c01859d8f34f1b0b90f3f6fe78bb1b96a0e41de002ddb92985c63ef",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/battle-net-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1501,
+      "collection": "theSVG",
+      "file": "battle-net-2.svg",
+      "id": 239,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "battle-net-2.svg",
+        "original_is_default": false,
+        "original_slug": "battle-net"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1268,
+        "previous_sha256": "871f0587fc541bc6cc97ef928246fe6f64447cd8403e223d4509c7443c85673e",
+        "ratio": 0.2
+      },
+      "sha256": "d1f9097da3b68cd6ed1426a9845dadbbeabf1b744a2c7066d010a70fd5596754",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/battledotnet/mono.svg",
+      "version": 2
+    },
+    {
+      "bytes": 982,
+      "collection": "Iconify / arcticons",
+      "file": "battle-net-3.svg",
+      "id": 240,
+      "is_default": false,
+      "label": "battlenet",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "battle-net-3.svg",
+        "original_is_default": false,
+        "original_slug": "battle-net"
+      },
+      "rounded_corners": {
+        "previous_bytes": 749,
+        "previous_sha256": "48414372bac94dda9f1a02af68b794b9a06309b5d24641ab31daf599968d556f",
+        "ratio": 0.2
+      },
+      "sha256": "0b561e87c4fbc3ba485d1c3bd109fbf61f424a2e025693a7aa770889251bb4b2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#battlenet",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

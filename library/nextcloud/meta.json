@@ -1,0 +1,43 @@
+{
+  "title": "Nextcloud",
+  "url": "https://nextcloud.com/",
+  "domains": [
+    "nextcloud.com"
+  ],
+  "description": "自托管文件同步与协作平台。",
+  "category": "网盘存储",
+  "tags": [
+    "私有云",
+    "网盘",
+    "自托管",
+    "Nextcloud"
+  ],
+  "aliases": [
+    "nextcloud",
+    "私有云",
+    "网盘",
+    "自托管"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "nextcloud.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "892404c0c7c74cb22d6c728e967fcf5cb680f7d343db1cdfef92186d44cce6d3",
+      "bytes": 739,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "nextcloud.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

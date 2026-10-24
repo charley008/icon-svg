@@ -1,0 +1,142 @@
+{
+  "collection_id": 390,
+  "schema_version": 1,
+  "id": 539,
+  "title": "Todoist",
+  "url": "https://todoist.com",
+  "domains": [
+    "todoist.com"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球App补充",
+    "办公",
+    "效率工具",
+    "Todoist",
+    "todoist.com"
+  ],
+  "aliases": [
+    "todoist"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1565,
+      "collection": "theSVG",
+      "file": "todoist.svg",
+      "id": 1344,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "todoist.svg",
+        "original_is_default": true,
+        "original_slug": "todoist"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1329,
+        "previous_sha256": "1531a43473f8a83a2dd9c12b2f0351b179a81de3a1362765d0a0bb36b75c136c",
+        "ratio": 0.2
+      },
+      "sha256": "fe7fa8f224ad3a11eabfd8356e0021a3ff3d1c80c400de3d8d318f79483bd974",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/todoist/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1496,
+      "collection": "theSVG",
+      "file": "todoist-1.svg",
+      "id": 1345,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "todoist-1.svg",
+        "original_is_default": false,
+        "original_slug": "todoist"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1271,
+        "previous_sha256": "51ee4bb3945150f5fb77217c23aab80da2221ef6500f546f5810159872120d04",
+        "ratio": 0.2
+      },
+      "sha256": "eec762852efb5a702f5957e84ff52bb1e83cdc7fa3b42a1d8cafda705df5c7bf",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/todoist-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4753,
+      "collection": "theSVG",
+      "file": "todoist-2.svg",
+      "id": 1346,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "todoist-2.svg",
+        "original_is_default": false,
+        "original_slug": "todoist"
+      },
+      "rounded_corners": {
+        "previous_bytes": 4530,
+        "previous_sha256": "f1ffa962e28fa68c013dfd71082f6fe3731b7645c09c9266160f287a3b6ed378",
+        "ratio": 0.2
+      },
+      "sha256": "a3f10cdb1aee0dfdbdf3f7f9c97b98467e423e1c2e3274a4e163ef51e257a387",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/todoist/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1190,
+      "collection": "theSVG",
+      "file": "todoist-3.svg",
+      "id": 1347,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "todoist-3.svg",
+        "original_is_default": false,
+        "original_slug": "todoist"
+      },
+      "rounded_corners": {
+        "previous_bytes": 957,
+        "previous_sha256": "648d42835697c43dc965c74e97ae9fc5fada40b876420426360dacd15cf14d12",
+        "ratio": 0.2
+      },
+      "sha256": "f9d9919a5a35e25fb05e68a2d990b665223c595744ecc8e9b559f6328c82cb2e",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/todoist/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1558,
+      "collection": "Dashboard Icons",
+      "file": "todoist-4.svg",
+      "id": 1348,
+      "is_default": false,
+      "label": "todoist",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "todoist-4.svg",
+        "original_is_default": false,
+        "original_slug": "todoist"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1336,
+        "previous_sha256": "5c26260882a3906f3729601fc9f58bf557b52e1c4e623bdc3e24fc8007ca4573",
+        "ratio": 0.2
+      },
+      "sha256": "39b2a7e24eb1caae1df19369f12d1f464a34b517987780f23a6e6219a4fdc6bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/todoist.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

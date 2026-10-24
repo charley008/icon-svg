@@ -1,0 +1,103 @@
+name: Build and release
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*.*.*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    name: Tests and Docker startup
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6
+        with:
+          go-version-file: go.mod
+      - name: Test and check
+        run: |
+          go test ./...
+          go vet ./...
+          node --check web/static/site.js
+          node --check web/static/theme.js
+      - name: Build and start Docker with host library and data
+        run: |
+          docker compose -p icon-svg-ci up -d --build --wait --wait-timeout 120
+          curl --noproxy localhost --fail --silent http://127.0.0.1:8088/healthz
+          docker compose -p icon-svg-ci exec -T icon-svg /app/icon-svg -version
+          test -s data/runtime.sqlite3
+          docker compose -p icon-svg-ci stop
+          docker compose -p icon-svg-ci cp icon-svg:/app/data/runtime.sqlite3 "$RUNNER_TEMP/docker-initial.sqlite3"
+          python -c "import sqlite3,sys; c=sqlite3.connect(sys.argv[1]); assert c.execute('select count(*) from sqlite_master where name=?',('icons',)).fetchone()[0]==0; assert c.execute('select count(*) from audit').fetchone()[0]==0; assert c.execute('select count(*) from downloads').fetchone()[0]==0" "$RUNNER_TEMP/docker-initial.sqlite3"
+          docker compose -p icon-svg-ci up -d --wait --wait-timeout 120
+          curl --noproxy localhost --fail --silent http://127.0.0.1:8088/healthz
+      - name: Docker logs
+        if: failure()
+        run: docker compose -p icon-svg-ci logs --tail 80
+      - name: Clean up test container
+        if: always()
+        run: docker compose -p icon-svg-ci down --volumes
+
+  windows:
+    name: Windows directory package
+    needs: verify
+    runs-on: windows-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6
+        with:
+          go-version-file: go.mod
+      - name: Windows tests
+        run: go test ./...
+      - name: Build, verify external directories and package
+        shell: pwsh
+        run: ./.github/scripts/package-windows.ps1
+      - name: Store downloadable binaries
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: icon-svg-windows-amd64
+          path: dist/release/*
+          if-no-files-found: error
+          retention-days: 30
+      - name: Publish tagged release
+        if: startsWith(github.ref, 'refs/tags/')
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $version = (Get-Content VERSION -Raw).Trim()
+          if ($env:RELEASE_TAG -ne "v$version") { throw 'Tag must match VERSION' }
+          $assets = @(Get-ChildItem dist/release -File | ForEach-Object FullName)
+          $notes = @"
+          Windows x64：下载 icon-svg-$version-windows-amd64.zip，完整解压到可写目录后双击 icon-svg.exe。无需安装 Go、Python 或 Node.js。
+
+          解压目录包含 icon-svg.exe、library、web、data。程序从外部 library 扫描 SVG 并建立内存索引，从 web 读取模板和静态文件；操作日志和下载次数初始为空，账号凭据保存在 data/initial-admin.txt。默认地址 http://127.0.0.1:8088/。
+
+          library 和 web 不内嵌进 EXE，请保留完整目录。SHA256SUMS.txt 提供 ZIP 校验值。Docker 使用 build 方式部署，library、data 可写映射到宿主机，不推送镜像。
+          "@
+          $notes | Set-Content dist/release-notes.md -Encoding utf8
+          gh release view $env:RELEASE_TAG --json tagName *> $null
+          if ($LASTEXITCODE -eq 0) {
+            gh release upload $env:RELEASE_TAG @assets --clobber
+          } else {
+            gh release create $env:RELEASE_TAG @assets --verify-tag --title $version --notes-file dist/release-notes.md
+          }
+          if ($LASTEXITCODE -ne 0) { throw 'Release upload failed' }

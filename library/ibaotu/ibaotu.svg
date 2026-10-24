@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#fffae8" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-1424,0)">
+        <g id="包图" transform="matrix(1,0,0,1,312.331,0)">
+            <rect x="1111.67" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(1.30137,0,0,1.30137,-263.713,-69.658)">
+                <g transform="matrix(1,0,0,1,-129.535,0)">
+                    <path d="M1383.12,253.681C1367.94,253.681 1355.62,241.359 1355.62,226.181C1355.62,211.003 1367.94,198.681 1383.12,198.681C1438.42,198.681 1483.32,243.578 1483.32,298.878C1483.32,354.178 1438.42,399.075 1383.12,399.075C1327.82,399.075 1282.92,354.178 1282.92,298.878L1282.92,200.411C1282.92,185.234 1295.25,172.911 1310.42,172.911C1325.6,172.911 1337.92,185.234 1337.92,200.411L1337.92,298.878C1337.92,323.823 1358.17,344.075 1383.12,344.075C1408.07,344.075 1428.32,323.823 1428.32,298.878C1428.32,273.933 1408.07,253.681 1383.12,253.681ZM1311.41,101.408C1327.14,101.408 1339.9,114.174 1339.9,129.898C1339.9,145.622 1327.14,158.387 1311.41,158.387C1295.69,158.387 1282.92,145.622 1282.92,129.898C1282.92,114.174 1295.69,101.408 1311.41,101.408Z" style="fill:url(#_Linear1);" />
+                </g>
+                <g transform="matrix(1,0,0,1,24.8806,8.5788)">
+                    <path d="M1184.06,297.362C1187.45,318.957 1206.16,335.496 1228.7,335.496C1253.65,335.496 1273.9,315.244 1273.9,290.299C1273.9,265.354 1253.65,245.102 1228.7,245.102C1213.53,245.102 1201.2,232.78 1201.2,217.602C1201.2,202.424 1213.53,190.102 1228.7,190.102C1284,190.102 1328.9,234.999 1328.9,290.299C1328.9,303.695 1326.27,316.48 1321.49,328.165C1308.13,348.863 1284.87,362.578 1258.42,362.578C1220.35,362.578 1188.86,334.14 1184.06,297.362Z" style="fill:url(#_Linear2);" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(200.394,0,0,200.394,1282.92,259.055)"><stop offset="0" style="stop-color:rgb(244,164,35);stop-opacity:1" /><stop offset="1" style="stop-color:rgb(243,105,37);stop-opacity:1" /></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(144.845,0,-0,144.845,1184.06,276.34)"><stop offset="0" style="stop-color:rgb(246,100,32);stop-opacity:1" /><stop offset="1" style="stop-color:rgb(255,174,36);stop-opacity:1" /></linearGradient>
+    </defs>
+</svg></g></g></svg>

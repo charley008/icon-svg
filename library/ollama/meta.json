@@ -1,0 +1,71 @@
+{
+  "collection_id": 293,
+  "schema_version": 1,
+  "id": 417,
+  "title": "Ollama",
+  "url": "https://ollama.com",
+  "domains": [
+    "ollama.com"
+  ],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "用户优选",
+    "自用",
+    "人工智能",
+    "Ollama",
+    "ollama.com"
+  ],
+  "aliases": [
+    "ollama"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 8878,
+      "collection": "已有图标",
+      "file": "ollama.svg",
+      "id": 1049,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "ollama.svg",
+        "original_is_default": true,
+        "original_slug": "ollama"
+      },
+      "sha256": "bd95b283f94b318da57c3d97f271def8c4382095ba0c6c919b54849f961dbec6",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 3349,
+      "collection": "GoTab 公开资源库",
+      "file": "ollama-1.svg",
+      "gotab_id": 298,
+      "id": 1050,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ollama-1.svg",
+        "original_is_default": false,
+        "original_slug": "ollama"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3127,
+        "previous_sha256": "27ebfb4040f449fc20247dd867d5119c83acc39c5472cb8218fe40fdc93ed90a",
+        "ratio": 0.2
+      },
+      "sha256": "aa36e2ba1974193d39edbf5a762cadc175a03db91c3c762d1d91598cd966effe",
+      "source": "https://web.gotab.cn/sourceStore/website/01KYNY2S2NB4N841ZEPBKRJDC0.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

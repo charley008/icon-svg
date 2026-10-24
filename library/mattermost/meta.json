@@ -1,0 +1,41 @@
+{
+  "title": "Mattermost",
+  "url": "https://mattermost.com/",
+  "domains": [
+    "mattermost.com"
+  ],
+  "description": "团队通讯与协作应用。",
+  "category": "社交通讯",
+  "tags": [
+    "团队聊天",
+    "协作",
+    "Mattermost"
+  ],
+  "aliases": [
+    "mattermost",
+    "团队聊天",
+    "协作"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "mattermost.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "44c729c1821ae15dac700c89af6dabcb8ccac91a5048a15f96d940c81b862548",
+      "bytes": 819,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mattermost.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "mattermost.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

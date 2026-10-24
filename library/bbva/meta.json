@@ -1,0 +1,45 @@
+{
+  "collection_id": 51,
+  "schema_version": 1,
+  "id": 98,
+  "title": "BBVA",
+  "url": "https://bbva.com",
+  "domains": [
+    "bbva.com"
+  ],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Worldvectorlogo补充",
+    "金融",
+    "BBVA",
+    "bbva.com"
+  ],
+  "aliases": [
+    "bbva"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6101,
+      "collection": "Worldvectorlogo",
+      "file": "bbva.svg",
+      "id": 243,
+      "is_default": true,
+      "label": "bbva-2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bbva.svg",
+        "original_is_default": true,
+        "original_slug": "bbva"
+      },
+      "sha256": "a17402848edcdec5a98941ec51ab913b94d0eee04d778f008da6e7a66efef3ec",
+      "source": "https://cdn.worldvectorlogo.com/logos/bbva-2.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/bbva-2",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#0984fe" /><svg width="256" height="256" viewBox="0 0 100 100" fill="none" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+ 
+<path d="M50.5 56.4612L69.4489 41.3944L64.3223 37.2018L50.5 48.2072L36.6777 37.2018L31.5511 41.3944L50.5 56.4612Z" fill="white" />
+<path d="M50.5 37.857L57.833 31.9612L50.5 26L43.167 31.9612L50.5 37.857Z" fill="white" />
+<path d="M50.5 66.746L25.1266 46.5695L20 50.762L20.5191 51.1551L50.5 75L69.4489 59.9332L81 50.762L75.8734 46.5695L50.5 66.746Z" fill="white" />
+</svg></g></g></svg>

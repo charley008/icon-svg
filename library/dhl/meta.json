@@ -1,0 +1,45 @@
+{
+  "collection_id": 114,
+  "schema_version": 1,
+  "id": 184,
+  "title": "DHL",
+  "url": "https://dhl.com",
+  "domains": [
+    "dhl.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Worldvectorlogo补充",
+    "生活服务",
+    "DHL",
+    "dhl.com"
+  ],
+  "aliases": [
+    "dhl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1084,
+      "collection": "Worldvectorlogo",
+      "file": "dhl.svg",
+      "id": 441,
+      "is_default": true,
+      "label": "dhl-1",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dhl.svg",
+        "original_is_default": true,
+        "original_slug": "dhl"
+      },
+      "sha256": "2e201a0a0e2b18666a7e5a3463c8d496a366e350316d281ea31ebadf2c6210a0",
+      "source": "https://cdn.worldvectorlogo.com/logos/dhl-1.svg",
+      "source_page": "https://worldvectorlogo.com/zh/logo/dhl-1",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

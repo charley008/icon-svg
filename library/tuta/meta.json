@@ -1,0 +1,44 @@
+{
+  "title": "Tuta",
+  "url": "https://tuta.com/",
+  "domains": [
+    "tuta.com"
+  ],
+  "description": "加密电子邮件服务。",
+  "category": "办公效率",
+  "tags": [
+    "Tutanota",
+    "加密邮箱",
+    "隐私",
+    "Tuta"
+  ],
+  "aliases": [
+    "tuta",
+    "Tutanota",
+    "加密邮箱",
+    "隐私",
+    "tutanota"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "tuta.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "8b022b825b8d254653a49c292df2b267c8c3a72ffab69fd16f2202d6bdf73538",
+      "bytes": 748,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuta.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "tuta.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

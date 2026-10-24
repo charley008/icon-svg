@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 128 128" fill="none" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+ 
+<path d="M28.5 78.5L36.5 60.5L64.5 67V93L28.5 78.5Z" fill="#666666" />
+<path d="M64.5 67.5V93L102.5 77.5L93 59L64.5 67.5Z" fill="#3F3F3F" />
+<path d="M7 53.5L64.5 39.5L121 53.5L64.5 68L7 53.5Z" fill="black" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M102.045 59.7851L65.2678 55.4865L65.7322 51.5135L105.955 56.2149L106.999 97.4494L103.001 97.5506L102.045 59.7851Z" fill="#0D68BF" />
+<path d="M102.455 76L102.328 71H106.33L106.456 76H102.455Z" fill="#EEC223" />
+</svg></g></g></svg>

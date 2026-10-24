@@ -1,0 +1,51 @@
+{
+  "collection_id": 376,
+  "schema_version": 1,
+  "id": 509,
+  "title": "SVGLOGO",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "用户优选",
+    "自用",
+    "设计",
+    "素材",
+    "SVGLOGO",
+    "svglo"
+  ],
+  "aliases": [
+    "svglo"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1703,
+      "collection": "用户优选",
+      "file": "svglo.svg",
+      "id": 1283,
+      "is_default": true,
+      "label": "svglo.com",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "svglo.svg",
+        "original_is_default": true,
+        "original_slug": "svglo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1484,
+        "previous_sha256": "55abf4da45bd3d4f155db5ee2049ea61da516e104a2d8352b418e779faf12988",
+        "ratio": 0.2
+      },
+      "sha256": "9525cfe4faa1558ae30ed1b9f81f02332babc3f5c31fd34b343851040a1d6802",
+      "source": "用户优选",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

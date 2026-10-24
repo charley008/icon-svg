@@ -1,0 +1,79 @@
+{
+  "collection_id": 105,
+  "schema_version": 1,
+  "id": 175,
+  "title": "携程",
+  "url": "https://ctrip.com",
+  "domains": [
+    "ctrip.com"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "出行",
+    "携程",
+    "ctrip",
+    "trip-com",
+    "trip",
+    "ctrip.com"
+  ],
+  "aliases": [
+    "ctrip",
+    "trip-com",
+    "trip"
+  ],
+  "notes": [
+    "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 3237,
+      "collection": "jaywcjlove/logo",
+      "file": "ctrip-1.svg",
+      "id": 426,
+      "is_default": true,
+      "label": "mark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrip-1.svg",
+        "original_is_default": false,
+        "original_slug": "ctrip"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3017,
+        "previous_sha256": "2d7ba1268c21541756fddcca09825249a9effaa9ab5e6d2c3db4146b1266f5e7",
+        "ratio": 0.2
+      },
+      "sha256": "115954d83210fc196b832420c8331a82f563823d8151306f25e6c46a2c358d58",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/ctrip.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1143,
+      "collection": "Iconify / arcticons",
+      "file": "ctrip.svg",
+      "id": 427,
+      "is_default": false,
+      "label": "tripcom",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrip.svg",
+        "original_is_default": true,
+        "original_slug": "ctrip"
+      },
+      "rounded_corners": {
+        "previous_bytes": 910,
+        "previous_sha256": "e3aff077651e879dafb281928229a413ec6757265afa664aa4bf6ac41b7a45e0",
+        "ratio": 0.2
+      },
+      "sha256": "f9fe5ac638409167f9b069d05a8d6aa97c16974128369a0f3ed3a6d00415c667",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#tripcom",
+      "version": 0
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,50 @@
+{
+  "collection_id": 39,
+  "schema_version": 1,
+  "id": 76,
+  "title": "ArtStation",
+  "url": "https://artstation.com",
+  "domains": [
+    "artstation.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "ArtStation",
+    "artstation.com"
+  ],
+  "aliases": [
+    "artstation"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1648,
+      "collection": "GoTab 公开资源库",
+      "file": "artstation.svg",
+      "gotab_id": 141,
+      "id": 189,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "artstation.svg",
+        "original_is_default": true,
+        "original_slug": "artstation"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1426,
+        "previous_sha256": "44f51d75af7fde468054a38be21f38c2ef60a8d4c099875de5d0f42e341f06c7",
+        "ratio": 0.2
+      },
+      "sha256": "89f4420c36bd94f029f1eaba7b3bf7c99c15e74115ded8fdc18c3d2aa1e4fe4e",
+      "source": "https://web.gotab.cn/uploads/202410/01J9C99079TRDWRPKRNKYB73RC.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

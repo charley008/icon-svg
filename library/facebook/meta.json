@@ -1,0 +1,138 @@
+{
+  "collection_id": 151,
+  "schema_version": 1,
+  "id": 222,
+  "title": "Facebook",
+  "url": "https://facebook.com",
+  "domains": [
+    "facebook.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "社交",
+    "通讯",
+    "Facebook",
+    "facebook.com"
+  ],
+  "aliases": [
+    "facebook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1446,
+      "collection": "theSVG",
+      "file": "facebook.svg",
+      "id": 556,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "facebook.svg",
+        "original_is_default": true,
+        "original_slug": "facebook"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1212,
+        "previous_sha256": "464dfe18d8905bfda04187abf2bdbeb4604c24e7e8f91a962862df2bd0cd9e0f",
+        "ratio": 0.2
+      },
+      "sha256": "bf705e84b35589d85bbbe8b6d618220fb9713eb67a8e15085ddc8e822754d884",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/facebook/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 721,
+      "collection": "theSVG",
+      "file": "facebook-1.svg",
+      "id": 557,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "facebook-1.svg",
+        "original_is_default": false,
+        "original_slug": "facebook"
+      },
+      "rounded_corners": {
+        "previous_bytes": 496,
+        "previous_sha256": "caa075adf12ad63d177ba984404cb5834b777bcebd213a1a9c9ceba51cb6eb8c",
+        "ratio": 0.2
+      },
+      "sha256": "51ad33ab96a51220094e05deabfb4a71c7e4b7671bd266cbddfc2c5efe4282ff",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/facebook-badge/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2607,
+      "collection": "theSVG",
+      "file": "facebook-2.svg",
+      "id": 558,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "facebook-2.svg",
+        "original_is_default": false,
+        "original_slug": "facebook"
+      },
+      "sha256": "46c3b0b6724c0501c01a89b4f53606d67556dafc09cfe11885207c9e5dfeef94",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/facebook/wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 868,
+      "collection": "theSVG",
+      "file": "facebook-3.svg",
+      "id": 559,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "facebook-3.svg",
+        "original_is_default": false,
+        "original_slug": "facebook"
+      },
+      "rounded_corners": {
+        "previous_bytes": 635,
+        "previous_sha256": "e11e70e954edc6f96cfe639199fce545c38afb2add04843f45068160f1391ea0",
+        "ratio": 0.2
+      },
+      "sha256": "f248d7fd8d8ce1cb9afef128d002d0f4e91cd591802f9c36f12e88da03038c91",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/facebook/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1077,
+      "collection": "Dashboard Icons",
+      "file": "facebook-4.svg",
+      "id": 560,
+      "is_default": false,
+      "label": "facebook",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "facebook-4.svg",
+        "original_is_default": false,
+        "original_slug": "facebook"
+      },
+      "rounded_corners": {
+        "previous_bytes": 854,
+        "previous_sha256": "5743017c0adaafe6c9c4e4989fac777111c97eccee20574f564c7f362934e933",
+        "ratio": 0.2
+      },
+      "sha256": "d018886846ec16279dce73c12674251283c5b4eea88a5b4eacbe4d36f07eccdf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

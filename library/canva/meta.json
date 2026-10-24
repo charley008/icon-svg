@@ -1,0 +1,133 @@
+{
+  "collection_id": 69,
+  "schema_version": 1,
+  "id": 134,
+  "title": "Canva",
+  "url": "https://canva.com",
+  "domains": [
+    "canva.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "全球Top100",
+    "中国地区Top100",
+    "设计",
+    "素材",
+    "Canva",
+    "canva.com"
+  ],
+  "aliases": [
+    "canva"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3174,
+      "collection": "theSVG",
+      "file": "canva.svg",
+      "id": 344,
+      "is_default": true,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "canva.svg",
+        "original_is_default": true,
+        "original_slug": "canva"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2956,
+        "previous_sha256": "6039251ef041671e1ba649123fac4ca8df971bcbf76e902498f130be9f74ceb9",
+        "ratio": 0.2
+      },
+      "sha256": "4199c96d6b2ea1f03263b758a927841d12b7d827ef8ade2052bcb16b9b714b8d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/canva/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 12755,
+      "collection": "theSVG",
+      "file": "canva-1.svg",
+      "id": 345,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "canva-1.svg",
+        "original_is_default": false,
+        "original_slug": "canva"
+      },
+      "sha256": "20d920ea9ee6bb1c611ee4716551e4fc617aad1caacb199a18b8fca934aa57ca",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/canva/wordmark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1130,
+      "collection": "Iconify / arcticons",
+      "file": "canva-2.svg",
+      "id": 346,
+      "is_default": false,
+      "label": "canva",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "canva-2.svg",
+        "original_is_default": false,
+        "original_slug": "canva"
+      },
+      "rounded_corners": {
+        "previous_bytes": 897,
+        "previous_sha256": "2a468d073e726cee2ac262feb4383652175e306b8c2eaa91f70a8cc8c79b941e",
+        "ratio": 0.2
+      },
+      "sha256": "00fdff8413af6aa1ff360c3e94725b84b6edb73bf7ee1529f51be33b19ae6d17",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#canva",
+      "version": 2
+    },
+    {
+      "bytes": 2891,
+      "collection": "SVGLOGO",
+      "file": "canva-3.svg",
+      "id": 347,
+      "is_default": false,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "canva-3.svg",
+        "original_is_default": false,
+        "original_slug": "canva"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2658,
+        "previous_sha256": "8d62872caaa537e97766e9b34b7f5eef237864db020178767ef67eecaf263dbb",
+        "ratio": 0.2
+      },
+      "sha256": "60081ccd30092c55e30831c20923378e48a6483930983c8d8103a2834eab02b4",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/Canva.svg",
+      "version": 3
+    },
+    {
+      "bytes": 4888,
+      "collection": "SVGLOGO",
+      "file": "canva-4.svg",
+      "id": 348,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "canva-4.svg",
+        "original_is_default": false,
+        "original_slug": "canva"
+      },
+      "sha256": "aed6cfb18746c33ddc99c2cf7b892ebec0b4e1ceb314b1f56a291b1b1a742173",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/Canva_wordmark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

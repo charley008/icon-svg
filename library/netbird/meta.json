@@ -1,0 +1,44 @@
+{
+  "title": "NetBird",
+  "url": "https://netbird.io/",
+  "domains": [
+    "netbird.io"
+  ],
+  "description": "安全组网与远程访问服务。",
+  "category": "网络工具",
+  "tags": [
+    "组网",
+    "VPN",
+    "远程访问",
+    "NetBird"
+  ],
+  "aliases": [
+    "netbird",
+    "组网",
+    "VPN",
+    "远程访问"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "netbird.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "9d4e76400f9a33d03949401b03ba45782d5ce08b3a90faa3d1315700fa2c0e27",
+      "bytes": 9550,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbird.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg-cleaned",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "netbird.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

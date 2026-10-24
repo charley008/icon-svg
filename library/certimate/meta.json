@@ -1,0 +1,50 @@
+{
+  "collection_id": 74,
+  "schema_version": 1,
+  "id": 142,
+  "title": "Certimate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "用户优选",
+    "自用",
+    "开发",
+    "编程",
+    "Certimate"
+  ],
+  "aliases": [
+    "certimate"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 16258,
+      "collection": "User preferred out",
+      "file": "certimate.svg",
+      "id": 366,
+      "is_default": true,
+      "label": "certimate.svg",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "certimate.svg",
+        "original_is_default": true,
+        "original_slug": "certimate"
+      },
+      "rounded_corners": {
+        "previous_bytes": 16033,
+        "previous_sha256": "6c267faac0581d28ee6beded0be312faee58b1d2a92023d851a01352bc674f71",
+        "ratio": 0.2
+      },
+      "sha256": "b46f4a2771f4098f3aa5727bdfc6517112db1bd73e91e959fc8da5b265bff937",
+      "source": "User preferred out: certimate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

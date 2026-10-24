@@ -1,0 +1,43 @@
+{
+  "collection_id": 487,
+  "schema_version": 1,
+  "id": 652,
+  "title": "Porsche",
+  "url": "https://www.porsche.com/",
+  "domains": [
+    "porsche.com"
+  ],
+  "description": "Porsche 图标合集。",
+  "category": "出行地图",
+  "tags": [
+    "Porsche",
+    "porsche",
+    "保时捷",
+    "汽车"
+  ],
+  "aliases": [
+    "保时捷"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 19595,
+      "collection": "用户补充 SVG",
+      "file": "porsche.svg",
+      "id": 1606,
+      "is_default": true,
+      "label": "porsche-6",
+      "license": "商标及图形版权归各自权利人；参见素材来源",
+      "method": "downloaded-svg-optimized",
+      "provenance": {
+        "original_file": "porsche-6.svg",
+        "original_url": "https://icon.4738.org/icons/HD-Icons/svg/porsche-6.svg"
+      },
+      "sha256": "b7eca3401439d43461b08019179b7f5690c3e173b6c34f1470140735b86e9eba",
+      "source": "https://icon.4738.org/icons/HD-Icons/svg/porsche-6.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

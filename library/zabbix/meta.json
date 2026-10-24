@@ -1,0 +1,45 @@
+{
+  "title": "Zabbix",
+  "url": "https://www.zabbix.com/",
+  "domains": [
+    "www.zabbix.com"
+  ],
+  "description": "企业级监控软件。",
+  "category": "系统工具",
+  "tags": [
+    "监控",
+    "服务器",
+    "网络监控",
+    "Zabbix"
+  ],
+  "aliases": [
+    "zabbix",
+    "监控",
+    "服务器",
+    "网络监控",
+    "it-infrastructure-monitoring",
+    "server-monitor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "zabbix.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "7fb4b08dc9631a4d5593d470a38e9fc203339734e80cb5ad943d8b2f33e95ce0",
+      "bytes": 363,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zabbix.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "zabbix.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

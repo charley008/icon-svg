@@ -1,0 +1,50 @@
+{
+  "collection_id": 167,
+  "schema_version": 1,
+  "id": 238,
+  "title": "GGAC",
+  "url": "https://ggac.com",
+  "domains": [
+    "ggac.com"
+  ],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "设计",
+    "素材",
+    "GGAC",
+    "ggac.com"
+  ],
+  "aliases": [
+    "ggac"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1584,
+      "collection": "GoTab 公开资源库",
+      "file": "ggac.svg",
+      "gotab_id": 142,
+      "id": 588,
+      "is_default": true,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "ggac.svg",
+        "original_is_default": true,
+        "original_slug": "ggac"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1362,
+        "previous_sha256": "390b5cc7129bf996ec011d59f8b085ee90ccc22efd533cc28c0e226319000da8",
+        "ratio": 0.2
+      },
+      "sha256": "5694810328e712db26554666aa6b953187c3726ed07572e384791793b902f06d",
+      "source": "https://web.gotab.cn/uploads/202410/01J9C9JZC92NQMG9R3SMH345GS.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

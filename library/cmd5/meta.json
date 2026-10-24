@@ -1,0 +1,50 @@
+{
+  "collection_id": 92,
+  "schema_version": 1,
+  "id": 162,
+  "title": "CMD5",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "用户优选",
+    "自用",
+    "开发",
+    "编程",
+    "CMD5"
+  ],
+  "aliases": [
+    "cmd5"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1111,
+      "collection": "用户优化 SVG",
+      "file": "cmd5.svg",
+      "id": 399,
+      "is_default": true,
+      "label": "cmd5",
+      "license": "原图版权及商标归权利人",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "cmd5.svg",
+        "original_is_default": true,
+        "original_slug": "cmd5"
+      },
+      "rounded_corners": {
+        "previous_bytes": 889,
+        "previous_sha256": "a4527e2d79f3326744b3d598d465e65c733e40d242337d577f6df0b7c02d2c4c",
+        "ratio": 0.2
+      },
+      "sha256": "ff04fbef1483660c35ede73eeedfd8c4a1d5c5e262158418b8ca9e1f13734d64",
+      "source": "用户确认重绘：CMD5 蓝色渐变底橙色 C 与白色钥匙孔版",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

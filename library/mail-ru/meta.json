@@ -1,0 +1,79 @@
+{
+  "collection_id": 246,
+  "schema_version": 1,
+  "id": 346,
+  "title": "Mail.ru",
+  "url": "https://mail.ru",
+  "domains": [
+    "mail.ru"
+  ],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "全球Top100",
+    "办公",
+    "效率工具",
+    "电子邮件",
+    "邮箱",
+    "Mail.ru",
+    "mail-ru",
+    "maildotru",
+    "mailru"
+  ],
+  "aliases": [
+    "mail-ru",
+    "maildotru",
+    "mailru"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1139,
+      "collection": "theSVG",
+      "file": "mail-ru.svg",
+      "id": 853,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mail-ru.svg",
+        "original_is_default": true,
+        "original_slug": "mail-ru"
+      },
+      "rounded_corners": {
+        "previous_bytes": 906,
+        "previous_sha256": "b97a94e77678d7be4938def9ef6a51d451a5b2e208121f1d2ee169644b1e9434",
+        "ratio": 0.2
+      },
+      "sha256": "5fdecd456c5eb96fc0c1762832b3b4eb16b20f3f1aa390ad6edd9aa4e5d2286b",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/maildotru/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1139,
+      "collection": "theSVG",
+      "file": "mail-ru-1.svg",
+      "id": 854,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mail-ru-1.svg",
+        "original_is_default": false,
+        "original_slug": "mail-ru"
+      },
+      "rounded_corners": {
+        "previous_bytes": 906,
+        "previous_sha256": "ddadc81c45eebf8fd3fa37c27677a80aa82ff8d13ccf151935ecc74a69706259",
+        "ratio": 0.2
+      },
+      "sha256": "d8fd393cbda6fe28ea7e09a6838bdf8f2ee375236f1ff090ce5631635049099a",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/maildotru/mono.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

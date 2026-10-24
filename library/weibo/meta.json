@@ -1,0 +1,174 @@
+{
+  "collection_id": 419,
+  "schema_version": 1,
+  "id": 577,
+  "title": "微博",
+  "url": "https://weibo.com",
+  "domains": [
+    "weibo.com"
+  ],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "Worldvectorlogo补充",
+    "用户优选",
+    "社交",
+    "通讯",
+    "微博",
+    "weibo",
+    "sina-weibo",
+    "weibo.com"
+  ],
+  "aliases": [
+    "weibo",
+    "sina-weibo"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 1633,
+      "collection": "已有图标",
+      "file": "weibo.svg",
+      "id": 1442,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "weibo.svg",
+        "original_is_default": true,
+        "original_slug": "weibo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1410,
+        "previous_sha256": "305b8b0c9b70895c11867cfe56bfadeaa63de3c59768a76250715123aa1c5259",
+        "ratio": 0.2
+      },
+      "sha256": "d46f2829baceb26b06b1751bf56287f6c17e89b2a9205e92e20e0bd319ff8015",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 2399,
+      "collection": "GoTab 公开资源库",
+      "file": "weibo-1.svg",
+      "gotab_id": 156,
+      "id": 1443,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "weibo-1.svg",
+        "original_is_default": false,
+        "original_slug": "weibo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2177,
+        "previous_sha256": "2158e1044443df09bbc1d0887118a2e0832503707e9ea958de2dbc658093a627",
+        "ratio": 0.2
+      },
+      "sha256": "1ef7c24bd1583364ec87b19a39ef6f5215f857692c0ef101a6214979f0181abf",
+      "source": "https://web.gotab.cn/sourceStore/website/01JB3Y8TW0TJZ12ZHZB2E4VH1Y.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1819,
+      "collection": "已有图标",
+      "file": "weibo-2.svg",
+      "id": 1444,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weibo-2.svg",
+        "original_is_default": false,
+        "original_slug": "weibo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1586,
+        "previous_sha256": "7597044fb7abbe1b1933d6be928b6d9691394c297d3bd272f61b80cfeff2ece3",
+        "ratio": 0.2
+      },
+      "sha256": "b2e9d90ff1319828a298f5db1046ee0b86d9318c066e800c5852116723ab6925",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/sina-weibo/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1819,
+      "collection": "已有图标",
+      "file": "weibo-3.svg",
+      "id": 1445,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weibo-3.svg",
+        "original_is_default": false,
+        "original_slug": "weibo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1586,
+        "previous_sha256": "e32a89ca0cac6c250e54cf7c8c2cbb47b9e9c9944cf599557763de0e0470358d",
+        "ratio": 0.2
+      },
+      "sha256": "9ec05606b2c0d089186a9b193437b334a083cb8d8d40d1be778c86b1e3d2b841",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/sina-weibo/mono.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2938,
+      "collection": "已有图标",
+      "file": "weibo-4.svg",
+      "id": 1446,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weibo-4.svg",
+        "original_is_default": false,
+        "original_slug": "weibo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 2715,
+        "previous_sha256": "54208a039902c688b6345e714f54988ec64bcca01b0f3538e98388b089c2f8b3",
+        "ratio": 0.2
+      },
+      "sha256": "5a2be866320edf7ba757ddabdb46609eea3db6718bd860bdfe066e2711af9a4c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/weibo.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1395,
+      "collection": "已有图标",
+      "file": "weibo-5.svg",
+      "id": 1447,
+      "is_default": false,
+      "label": "版本 5",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weibo-5.svg",
+        "original_is_default": false,
+        "original_slug": "weibo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1162,
+        "previous_sha256": "5d39ceeb00a3948572e0b6a7156e9d01b399f1b1053caad5987295d3fcf1a20b",
+        "ratio": 0.2
+      },
+      "sha256": "0a72c22238794221943f1c395c533f85382ce46e3111863a33b9f4ce3db832e4",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#weibo",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

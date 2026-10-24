@@ -1,0 +1,143 @@
+{
+  "collection_id": 217,
+  "schema_version": 1,
+  "id": 314,
+  "title": "爱奇艺",
+  "url": "https://iqiyi.com",
+  "domains": [
+    "iqiyi.com"
+  ],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "国内补充",
+    "用户优选",
+    "影音",
+    "视频",
+    "在线视频",
+    "爱奇艺",
+    "iqiyi",
+    "iqiyi.com"
+  ],
+  "aliases": [
+    "iqiyi"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 8180,
+      "collection": "已有图标",
+      "file": "iqiyi.svg",
+      "id": 780,
+      "is_default": true,
+      "label": "默认版本",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "iqiyi.svg",
+        "original_is_default": true,
+        "original_slug": "iqiyi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 7958,
+        "previous_sha256": "850e6aaaf46ba47797c615933057fd4987bb5b11fe097fb6dd8ca700416528c2",
+        "ratio": 0.2
+      },
+      "sha256": "a898e1d97cf9d752b85c850e9734ee28bc2340a920d25eb95005d7860c8fc56b",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 3817,
+      "collection": "GoTab 公开资源库",
+      "file": "iqiyi-1.svg",
+      "gotab_id": 9,
+      "id": 781,
+      "is_default": false,
+      "label": "GoTab 配色版",
+      "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+      "method": "gotab-svg",
+      "provenance": {
+        "original_file": "iqiyi-1.svg",
+        "original_is_default": false,
+        "original_slug": "iqiyi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 3595,
+        "previous_sha256": "a31bce026fa43bac0a6565c8606918edcb180f9bc868c8e611a37ca973ea9908",
+        "ratio": 0.2
+      },
+      "sha256": "8831b8945da9db93e0ba3e02faa790ebc3a829ac28f7bbd687ed6b6786332954",
+      "source": "https://web.gotab.cn/sourceStore/website/01J8GZRMYF7KXHX6AJ3ZCPTXBD.svg",
+      "version": 1
+    },
+    {
+      "bytes": 20049,
+      "collection": "已有图标",
+      "file": "iqiyi-2.svg",
+      "id": 782,
+      "is_default": false,
+      "label": "版本 2",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iqiyi-2.svg",
+        "original_is_default": false,
+        "original_slug": "iqiyi"
+      },
+      "sha256": "0971aabd37f410515e478dbba010a5b24fee47b9ac8f6a7740a85202359eea30",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/iqiyi.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1088,
+      "collection": "已有图标",
+      "file": "iqiyi-3.svg",
+      "id": 783,
+      "is_default": false,
+      "label": "版本 3",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iqiyi-3.svg",
+        "original_is_default": false,
+        "original_slug": "iqiyi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 855,
+        "previous_sha256": "143839715fa73c778c6c940149fc833fd00d61f30f43fe0aff79fcee35c07faf",
+        "ratio": 0.2
+      },
+      "sha256": "475625fd56ccdfb827638ff4c998bf6dd9e30d180df66bf46fffa98f5553fbd7",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#iqiyi",
+      "version": 3
+    },
+    {
+      "bytes": 10196,
+      "collection": "已有图标",
+      "file": "iqiyi-4.svg",
+      "id": 784,
+      "is_default": false,
+      "label": "版本 4",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iqiyi-4.svg",
+        "original_is_default": false,
+        "original_slug": "iqiyi"
+      },
+      "rounded_corners": {
+        "previous_bytes": 9976,
+        "previous_sha256": "4525eebc56ec365f7fc540ba6c00866f771557904bf115fbc8fe587118cce346",
+        "ratio": 0.2
+      },
+      "sha256": "f1976ed7b030065a1559adb267aa2db6e094eac9ed3218bf587d4f9f5b39ebd1",
+      "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/iqiyi.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

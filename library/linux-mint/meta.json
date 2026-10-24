@@ -1,0 +1,43 @@
+{
+  "title": "Linux Mint",
+  "url": "https://linuxmint.com/",
+  "domains": [
+    "linuxmint.com"
+  ],
+  "description": "Linux 桌面操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "操作系统",
+    "发行版",
+    "Linux Mint"
+  ],
+  "aliases": [
+    "linux-mint",
+    "Linux",
+    "操作系统",
+    "发行版"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "file": "linux-mint.svg",
+      "version": 0,
+      "label": "彩色版本",
+      "is_default": true,
+      "sha256": "ddd18c64f005f8b7c3feb33f1b00685c2609571667e897679f5677065ae17e6f",
+      "bytes": 528,
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linux-mint.svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "collection": "Dashboard Icons",
+      "provenance": {
+        "original_file": "linux-mint.svg",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      }
+    }
+  ],
+  "next_version": 1,
+  "schema_version": 1,
+  "products": []
+}

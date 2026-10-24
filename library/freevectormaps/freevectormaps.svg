@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://www.serif.com/" width="256" height="256" viewBox="0 0 256 256" data-icon-svg-rounded="v1"><defs><clipPath id="icon-svg-rounded-frame" clipPathUnits="userSpaceOnUse"><rect x="0" y="0" width="256" height="256" rx="51.2"/></clipPath></defs><g clip-path="url(#icon-svg-rounded-frame)"><defs><clipPath id="gotab-library-corners"><rect width="256" height="256" rx="64" /></clipPath></defs><g clip-path="url(#gotab-library-corners)"><rect width="256" height="256" fill="#ffffff" /><svg width="256" height="256" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;" x="0" y="0" preserveAspectRatio="xMidYMid meet">
+    <g transform="matrix(1,0,0,1,-15174.5,0)">
+        <g id="Free-Vctor-Maps" ns1:id="Free Vctor Maps" transform="matrix(1,0,0,1,13501.5,0)">
+            <rect x="1673" y="0" width="512" height="512" style="fill:none;" />
+            <g transform="matrix(9.728,0,0,9.728,1734.44,61.44)">
+                <path d="M20,0C31.038,0 40,8.962 40,20C40,31.038 31.038,40 20,40C8.962,40 0,31.038 0,20C0,8.962 8.962,0 20,0ZM20,8C15.051,8.038 11,12.121 11,17.07C11.007,18.766 11.5,20.425 12.42,21.85L19.3,31.48C19.423,31.766 19.691,31.965 20,32C20.311,31.969 20.58,31.769 20.7,31.48L27.58,21.86C28.499,20.431 28.991,18.769 29,17.07C29,12.121 24.949,8.038 20,8ZM20,20.6C18.025,20.6 16.4,18.975 16.4,17C16.4,15.025 18.025,13.4 20,13.4C21.975,13.4 23.6,15.025 23.6,17C23.6,18.975 21.975,20.6 20,20.6Z" style="fill:rgb(231,61,61);" />
+            </g>
+            <g transform="matrix(9.728,0,0,9.728,1734.44,61.44)">
+                <path d="M20,8C15.051,8.038 11,12.121 11,17.07C11.007,18.766 11.5,20.425 12.42,21.85L19.3,31.48C19.423,31.766 19.691,31.965 20,32C20.311,31.969 20.58,31.769 20.7,31.48L27.58,21.86C28.499,20.431 28.991,18.769 29,17.07C29,12.121 24.949,8.038 20,8ZM20,20.6C18.025,20.6 16.4,18.975 16.4,17C16.4,15.025 18.025,13.4 20,13.4C21.975,13.4 23.6,15.025 23.6,17C23.6,18.975 21.975,20.6 20,20.6Z" style="fill:white;" />
+            </g>
+        </g>
+    </g>
+</svg></g></g></svg>

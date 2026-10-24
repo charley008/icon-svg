@@ -1,0 +1,118 @@
+{
+  "collection_id": 178,
+  "schema_version": 1,
+  "id": 272,
+  "title": "GoTab",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "搜索",
+    "导航",
+    "GoTab"
+  ],
+  "aliases": [],
+  "notes": [],
+  "icons": [],
+  "next_version": 0,
+  "products": [
+    {
+      "id": 273,
+      "key": "parse",
+      "title": "GoTab 短视频解析助手",
+      "url": "https://parse.gotab.cn",
+      "domains": [
+        "parse.gotab.cn"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "影音",
+        "GoTab 短视频解析助手",
+        "gotab-parse",
+        "parse.gotab.cn"
+      ],
+      "aliases": [
+        "gotab-parse"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1190,
+          "collection": "GoTab 公开资源库",
+          "file": "gotab-parse.svg",
+          "gotab_id": 324,
+          "id": 689,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "gotab-parse.svg",
+            "original_is_default": true,
+            "original_slug": "gotab-parse"
+          },
+          "rounded_corners": {
+            "previous_bytes": 968,
+            "previous_sha256": "e10824dc54eb407971614d15c233cddfaf908587e1ff62481f8515a05203d002",
+            "ratio": 0.2
+          },
+          "sha256": "1ddd5a2ffff5cfbef436e5dc031e43cf965dacc4541d222e38b69380db71871c",
+          "source": "https://web.gotab.cn/sourceStore/website/01M1K41WP0B0GQEAXYJ2S2KQDQ.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 274,
+      "key": "standards",
+      "title": "标准规范批量查新",
+      "url": "https://bz.gotab.cn",
+      "domains": [
+        "bz.gotab.cn"
+      ],
+      "description": "",
+      "category": "教育科研",
+      "tags": [
+        "教育",
+        "科研",
+        "标准规范批量查新",
+        "gotab-standards",
+        "bz.gotab.cn"
+      ],
+      "aliases": [
+        "gotab-standards"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1842,
+          "collection": "GoTab 公开资源库",
+          "file": "gotab-standards.svg",
+          "gotab_id": 148,
+          "id": 690,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "gotab-standards.svg",
+            "original_is_default": true,
+            "original_slug": "gotab-standards"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1620,
+            "previous_sha256": "ce86d5f43d07910322a1bbf1a88da0071891a6b204ae34a7ec5935b91297bc5e",
+            "ratio": 0.2
+          },
+          "sha256": "e7b3908a66777d4084de94979138dc0b3011b3e96fa3ae86aad591fe76683f3b",
+          "source": "https://web.gotab.cn/sourceStore/website/01JASY0G2CFZWTC9P31NRXEMCX.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

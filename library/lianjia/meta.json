@@ -1,0 +1,57 @@
+{
+  "collection_id": 237,
+  "schema_version": 1,
+  "id": 337,
+  "title": "链家",
+  "url": "https://lianjia.com",
+  "domains": [
+    "lianjia.com"
+  ],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "国内补充",
+    "生活服务",
+    "链家",
+    "lianjia",
+    "lianjia.com"
+  ],
+  "aliases": [
+    "lianjia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "appstore_bundle": "com.exmart.HomeLink",
+      "appstore_track": "https://apps.apple.com/cn/app/%E9%93%BE%E5%AE%B6/id405882753?uo=4",
+      "bytes": 20003,
+      "collection": "原图描摹",
+      "file": "lianjia.svg",
+      "id": 835,
+      "is_default": true,
+      "label": "mark",
+      "license": "trademark-owner",
+      "method": "traced-outline",
+      "provenance": {
+        "original_file": "lianjia.svg",
+        "original_is_default": true,
+        "original_slug": "lianjia"
+      },
+      "render_rmse": 5.849,
+      "rounded_corners": {
+        "previous_bytes": 19780,
+        "previous_sha256": "108e99e93b13a12dbd9ccacf637892bca6df576a02b446cc0137d9833c2dbcf0",
+        "ratio": 0.2
+      },
+      "sha256": "503fb5fd80ab4a056d16d933d48c62acbedca1094ee8cd881be2e07e4919838d",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/88/fe/d888fe69-4087-80c6-c3f6-9ba501a10296/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "source_size": [
+        512,
+        512
+      ],
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

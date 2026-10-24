@@ -1,0 +1,69 @@
+{
+  "collection_id": 347,
+  "schema_version": 1,
+  "id": 477,
+  "title": "SHEIN",
+  "url": "https://shein.com",
+  "domains": [
+    "shein.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "全球Top100",
+    "电商",
+    "购物",
+    "SHEIN",
+    "shein.com"
+  ],
+  "aliases": [
+    "shein"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1292,
+      "collection": "SVGLOGO",
+      "file": "shein.svg",
+      "id": 1194,
+      "is_default": true,
+      "label": "route",
+      "license": "see-source",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shein.svg",
+        "original_is_default": true,
+        "original_slug": "shein"
+      },
+      "sha256": "d7fbb68327f360c8275bdb6e0cc769ce36b56506df9b7d990d5f9dba22f2442c",
+      "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/Shein.svg",
+      "version": 0
+    },
+    {
+      "bytes": 685,
+      "collection": "Iconify / arcticons",
+      "file": "shein-1.svg",
+      "id": 1195,
+      "is_default": false,
+      "label": "shein",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shein-1.svg",
+        "original_is_default": false,
+        "original_slug": "shein"
+      },
+      "rounded_corners": {
+        "previous_bytes": 452,
+        "previous_sha256": "f8f0209bdda87edc1a5f22dadcb8ba6a1d72ad92b19bccf7f1eed03f99de31a4",
+        "ratio": 0.2
+      },
+      "sha256": "ad32159561665b7e9bdf33ad365c94450132f98e569c23f61fd07131e7da3b01",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#shein",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

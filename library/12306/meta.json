@@ -1,0 +1,146 @@
+{
+  "collection_id": 3,
+  "schema_version": 1,
+  "id": 3,
+  "title": "铁路12306",
+  "url": "https://12306.cn",
+  "domains": [
+    "12306.cn"
+  ],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "国内补充",
+    "出行",
+    "铁路12306",
+    "12306",
+    "railway12306",
+    "china-railway",
+    "12306.cn"
+  ],
+  "aliases": [
+    "12306",
+    "railway12306",
+    "china-railway"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 975,
+      "collection": "theSVG",
+      "file": "12306.svg",
+      "id": 5,
+      "is_default": true,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "12306.svg",
+        "original_is_default": true,
+        "original_slug": "12306"
+      },
+      "rounded_corners": {
+        "previous_bytes": 742,
+        "previous_sha256": "b6778dfaba3a816f012d0e0e3286663ed3dcc2899ef257dfaec116c11aa4780b",
+        "ratio": 0.2
+      },
+      "sha256": "422cf301a4ee3423aa1040254789c73f349d6e32ddd012f7e629bb4eb7ebb15d",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/china-railway/default.svg",
+      "version": 0
+    },
+    {
+      "bytes": 975,
+      "collection": "theSVG",
+      "file": "12306-1.svg",
+      "id": 6,
+      "is_default": false,
+      "label": "mono",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "12306-1.svg",
+        "original_is_default": false,
+        "original_slug": "12306"
+      },
+      "rounded_corners": {
+        "previous_bytes": 742,
+        "previous_sha256": "577652e5ae443dcc5ec3c91242709f1b771f27959e3d7c0c3d513e12e134c5ea",
+        "ratio": 0.2
+      },
+      "sha256": "cec61ef44601b82138c1fb11a22dc127896d9e7f37c261d05df584dbb8729cfa",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/china-railway/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 583,
+      "collection": "Iconify / ri",
+      "file": "12306-2.svg",
+      "id": 7,
+      "is_default": false,
+      "label": "china-railway-fill",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "12306-2.svg",
+        "original_is_default": false,
+        "original_slug": "12306"
+      },
+      "rounded_corners": {
+        "previous_bytes": 350,
+        "previous_sha256": "223a0120281f7e7d0d32231c16a9e6f4e49b924aef786e22556ad14ff30fdbeb",
+        "ratio": 0.2
+      },
+      "sha256": "37510f4925e609dd5023ffcf0582959da8f5c5f936baad4b72913bdb32006ec2",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#china-railway-fill",
+      "version": 2
+    },
+    {
+      "bytes": 577,
+      "collection": "Iconify / ri",
+      "file": "12306-3.svg",
+      "id": 8,
+      "is_default": false,
+      "label": "china-railway-line",
+      "license": "Apache 2.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "12306-3.svg",
+        "original_is_default": false,
+        "original_slug": "12306"
+      },
+      "rounded_corners": {
+        "previous_bytes": 344,
+        "previous_sha256": "bb007ce2e27c39f90e2e5698b3ec3c8b3dc8c00096cc55571f258feb61eff652",
+        "ratio": 0.2
+      },
+      "sha256": "db9e4b21f60293a27d551e4ddc2c8cfb0ea8287084ed09e920a6ae18b388efe4",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#china-railway-line",
+      "version": 3
+    },
+    {
+      "bytes": 826,
+      "collection": "Iconify / arcticons",
+      "file": "12306-4.svg",
+      "id": 9,
+      "is_default": false,
+      "label": "china-railway",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "12306-4.svg",
+        "original_is_default": false,
+        "original_slug": "12306"
+      },
+      "rounded_corners": {
+        "previous_bytes": 593,
+        "previous_sha256": "0c3971692e20cefd425dc09a521148757b5a5d08435df023ff763c758b641c50",
+        "ratio": 0.2
+      },
+      "sha256": "befb8609140c1a3598c8d1c31a889d5c5d537ae5870c0af504bf70570c6f409b",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#china-railway",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,2502 @@
+{
+  "collection_id": 28,
+  "schema_version": 1,
+  "id": 32,
+  "title": "阿里巴巴集团",
+  "url": "https://www.alibabagroup.com",
+  "domains": [
+    "alibabagroup.com",
+    "alibaba-inc.com"
+  ],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "国内补充",
+    "中国地区Top100",
+    "电商",
+    "购物",
+    "阿里巴巴",
+    "阿里巴巴集团",
+    "alibaba-group",
+    "alibaba",
+    "alibabagroup.com",
+    "alibaba-inc.com"
+  ],
+  "aliases": [
+    "alibaba-group",
+    "alibaba"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1677,
+      "collection": "theSVG",
+      "file": "alibaba.svg",
+      "id": 56,
+      "is_default": true,
+      "label": "color",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alibaba-group.svg",
+        "original_is_default": true,
+        "original_slug": "alibaba-group"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1444,
+        "previous_sha256": "0832198624dd92f812ca2ea512927964081efb1bd9fba86afdad4865d97a0c12",
+        "ratio": 0.2
+      },
+      "sha256": "9b31bec57bf33dbe3db87ecae3a1f7aedc19e9520223ae2b071e618bdafd3ba9",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba/color.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1667,
+      "collection": "theSVG",
+      "file": "alibaba-1.svg",
+      "id": 57,
+      "is_default": false,
+      "label": "mono",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alibaba-group-1.svg",
+        "original_is_default": false,
+        "original_slug": "alibaba-group"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1434,
+        "previous_sha256": "545e82bbe495e0b53e07e9afb1e9b8c5182818454834c029615f7f7c9357b09c",
+        "ratio": 0.2
+      },
+      "sha256": "ab81b10f503a8d301946143ef3228d53ed44f0b5c8025f04fac2f1097dc46912",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba/mono.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1069,
+      "collection": "Iconify / arcticons",
+      "file": "alibaba-2.svg",
+      "id": 58,
+      "is_default": false,
+      "label": "alibaba",
+      "license": "CC BY-SA 4.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alibaba-group-2.svg",
+        "original_is_default": false,
+        "original_slug": "alibaba-group"
+      },
+      "rounded_corners": {
+        "previous_bytes": 836,
+        "previous_sha256": "203ca77c30e60dfd8b27de376a7dbf5e56fb7d1012e06d358a564dc2157d66c4",
+        "ratio": 0.2
+      },
+      "sha256": "c2d52e4fbd43f13fe6c4e965ff07c4a8d980db3acf3ba3515da6e2e9f5bed72c",
+      "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#alibaba",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": [
+    {
+      "id": 33,
+      "key": "1688",
+      "title": "1688",
+      "url": "https://1688.com",
+      "domains": [
+        "1688.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "1688",
+        "alibaba1688",
+        "alibaba-1688",
+        "1688.com"
+      ],
+      "aliases": [
+        "1688",
+        "alibaba1688",
+        "alibaba-1688"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1583,
+          "collection": "轻量矢量替换",
+          "file": "alibaba-1688.svg",
+          "id": 59,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "native-vector-reuse",
+          "provenance": {
+            "original_file": "1688.svg",
+            "original_is_default": true,
+            "original_slug": "1688"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "d2872e8edda25714b661c600e6724082d2bbf135cb5c59c135fd35464a2ea315",
+            "previous_bytes": 259612,
+            "previous_method": "traced-detail",
+            "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/b7/3e/1fb73ef3-47f5-3a05-51f4-d50b3e682000/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+            "reference": "seed/icons/alibaba/alibaba-1688-1.svg",
+            "note": "采用同品牌已有橙色原生矢量标识。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "be69c19e5c3cb99e6d795fd5c4a3d65871226cba24d91d5c491ceb68033c7388",
+          "source": "https://web.gotab.cn/sourceStore/website/01KBF23JKWK6FTNY999EFRC9W1.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1583,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-1688-1.svg",
+          "gotab_id": 236,
+          "id": 60,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "1688-1.svg",
+            "original_is_default": false,
+            "original_slug": "1688"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1361,
+            "previous_sha256": "3e8766426c07151c6e6a693435b9b00be37b08b1a26339be68e7c48601b724f2",
+            "ratio": 0.2
+          },
+          "sha256": "be69c19e5c3cb99e6d795fd5c4a3d65871226cba24d91d5c491ceb68033c7388",
+          "source": "https://web.gotab.cn/sourceStore/website/01KBF23JKWK6FTNY999EFRC9W1.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 34,
+      "key": "aliexpress",
+      "title": "速卖通",
+      "url": "https://aliexpress.com",
+      "domains": [
+        "aliexpress.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "国内补充",
+        "全球Top100",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "速卖通",
+        "aliexpress",
+        "ali-express",
+        "aliexpress.com"
+      ],
+      "aliases": [
+        "aliexpress",
+        "ali-express"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1461,
+          "collection": "theSVG",
+          "file": "alibaba-aliexpress.svg",
+          "id": 61,
+          "is_default": true,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliexpress.svg",
+            "original_is_default": true,
+            "original_slug": "aliexpress"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1241,
+            "previous_sha256": "6231b4163e5ee8b0535103bc64d37d167a535721d28814444dfb885076da3ad4",
+            "ratio": 0.2
+          },
+          "sha256": "9fa9fb6f83bfed0de9581360583027294336a44687d043a37a19e94a6503b19f",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/aliexpress/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2518,
+          "collection": "theSVG",
+          "file": "alibaba-aliexpress-1.svg",
+          "id": 62,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliexpress-1.svg",
+            "original_is_default": false,
+            "original_slug": "aliexpress"
+          },
+          "sha256": "e9102b6521fb7562c0385aefecbb3aad3e47007d8cb2f99117dd883bf194144d",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/aliexpress/wordmark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2704,
+          "collection": "theSVG",
+          "file": "alibaba-aliexpress-2.svg",
+          "id": 63,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliexpress-2.svg",
+            "original_is_default": false,
+            "original_slug": "aliexpress"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2471,
+            "previous_sha256": "1addbc75b9ae2f1558f24ad1f509ce91d3b8cdf0e9441a9803f9ac113cc754e6",
+            "ratio": 0.2
+          },
+          "sha256": "b37510ec915811ad1e322381cde291f0eeb486708a696d7baa6ea5f4d4f49a53",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/aliexpress/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1162,
+          "collection": "Dashboard Icons",
+          "file": "alibaba-aliexpress-3.svg",
+          "id": 64,
+          "is_default": false,
+          "label": "aliexpress",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliexpress-3.svg",
+            "original_is_default": false,
+            "original_slug": "aliexpress"
+          },
+          "rounded_corners": {
+            "previous_bytes": 939,
+            "previous_sha256": "37e3346fc5076c82c2de56d2038cf339fadbbe3289a4e99d17d2c5de28c715f0",
+            "ratio": 0.2
+          },
+          "sha256": "b8642b3affe44fe1fee15190aace18c7c9150e3dfe0ac543cf2bea4ce9cfa054",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aliexpress.svg",
+          "version": 3
+        },
+        {
+          "bytes": 2704,
+          "collection": "Simple Icons",
+          "file": "alibaba-aliexpress-4.svg",
+          "id": 65,
+          "is_default": false,
+          "label": "aliexpress",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliexpress-4.svg",
+            "original_is_default": false,
+            "original_slug": "aliexpress"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2471,
+            "previous_sha256": "85a828c006936cce1b426b397323b0dc398adcfbd3b92d777c085907f6c8c6f7",
+            "ratio": 0.2
+          },
+          "sha256": "4090c3bf6159d0d8449bc0d4e0dd0d0af059175f387e74754d5d5a8574c03dee",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/aliexpress.svg",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 35,
+      "key": "alimama",
+      "title": "阿里妈妈 / 淘宝联盟",
+      "url": "https://pub.alimama.com",
+      "domains": [
+        "pub.alimama.com",
+        "alimama.com"
+      ],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "开发",
+        "编程",
+        "阿里巴巴",
+        "阿里妈妈 / 淘宝联盟",
+        "alimama",
+        "pub.alimama.com",
+        "alimama.com"
+      ],
+      "aliases": [
+        "alimama"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2196,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-alimama.svg",
+          "gotab_id": 230,
+          "id": 66,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "alimama.svg",
+            "original_is_default": true,
+            "original_slug": "alimama"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1974,
+            "previous_sha256": "998951db2c6600e92e9903efd61601fce2905dc37d1c4b0a6878d3370d1e33b1",
+            "ratio": 0.2
+          },
+          "sha256": "0a481014166cce9e009731aaf8d0b157db9d38c8dece13c8cc81b1caa5e435a9",
+          "source": "https://web.gotab.cn/uploads/202507/01K19WHBB7B5939TQP67Z1KD6E.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3209,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-alimama-1.svg",
+          "gotab_id": 231,
+          "id": 67,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "alimama-1.svg",
+            "original_is_default": false,
+            "original_slug": "alimama"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2987,
+            "previous_sha256": "48cf2686b90c0b6d1fb77c6ded5f2481cd49a13bf16510deba0aad8368ac0640",
+            "ratio": 0.2
+          },
+          "sha256": "9803ea9d4515759c9e37416ef7ccdd5b7e1e9df419e782880bbc8a047fa92675",
+          "source": "https://web.gotab.cn/uploads/202507/01K19WRK6BQFX4TQW1FG4DSXHG.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 36,
+      "key": "alipan",
+      "title": "阿里云盘",
+      "url": "https://alipan.com",
+      "domains": [
+        "alipan.com"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "网盘",
+        "云存储",
+        "阿里巴巴",
+        "阿里云盘",
+        "aliyundrive",
+        "alipan",
+        "aliyun-drive",
+        "ali-drive",
+        "alipan.com"
+      ],
+      "aliases": [
+        "aliyundrive",
+        "alipan",
+        "aliyun-drive",
+        "ali-drive"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2116,
+          "collection": "用户优化 SVG",
+          "file": "alibaba-alipan.svg",
+          "id": 68,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "aliyundrive.svg",
+            "original_is_default": true,
+            "original_slug": "aliyundrive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1896,
+            "previous_sha256": "cbebd1ced123c40570733adf41cf52bd5e5d5fcf4bf98626a130d0b79f489c14",
+            "ratio": 0.2
+          },
+          "sha256": "ff85cc349c55151adb53bc92fe872ac54872aa6130be4042ced76ddcd62371f7",
+          "source": "用户提供替换：Downloads/ali-drive.svg；保留图案并统一256画布",
+          "version": 0
+        },
+        {
+          "bytes": 1476,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-alipan-1.svg",
+          "gotab_id": 64,
+          "id": 69,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "aliyundrive-1.svg",
+            "original_is_default": false,
+            "original_slug": "aliyundrive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1254,
+            "previous_sha256": "e8713d1fe340297477fbc1443af18e2ecadb4f7474ab6b61a052b1f6149d921f",
+            "ratio": 0.2
+          },
+          "sha256": "146045697b272044b83be9bf8ba2381b83aec22cbaacc988c3f8be72483c8f78",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJY2NHQDAEVNH9N4XXESD6.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1253,
+          "collection": "已有图标",
+          "file": "alibaba-alipan-2.svg",
+          "id": 70,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliyundrive-2.svg",
+            "original_is_default": false,
+            "original_slug": "aliyundrive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1020,
+            "previous_sha256": "3504cca0a75fb65839ea7abf7dcbfbc7a903abc72e36431d990f0e2324aa5e03",
+            "ratio": 0.2
+          },
+          "sha256": "2aaef61146213dff617bc11551832200b207d47c5ae27f9a3acb98b7c26b86c5",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/alipan.svg",
+          "version": 2
+        },
+        {
+          "bytes": 4618,
+          "collection": "已有图标",
+          "file": "alibaba-alipan-3.svg",
+          "id": 71,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliyundrive-3.svg",
+            "original_is_default": false,
+            "original_slug": "aliyundrive"
+          },
+          "sha256": "070dcd57df1572a0238d49a9529d4a98595acee01cb597d46ffbef0448ac91df",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/alipan_wordmark.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1045,
+          "collection": "已有图标",
+          "file": "alibaba-alipan-4.svg",
+          "id": 72,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliyundrive-4.svg",
+            "original_is_default": false,
+            "original_slug": "aliyundrive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 812,
+            "previous_sha256": "37b84983551a85e36b4875fa21eaf090c2da84d2cccaf1d64c38faef1de33580",
+            "ratio": 0.2
+          },
+          "sha256": "fe9dd6293228b310671947ef0a114049a44d94321ffbea01c3d4014a852b678d",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#alibaba-cloud-disk",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 37,
+      "key": "aliyun",
+      "title": "阿里云",
+      "url": "https://aliyun.com",
+      "domains": [
+        "aliyun.com",
+        "aliyuncs.com",
+        "console.aliyun.com"
+      ],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "用户优选",
+        "云计算",
+        "阿里巴巴",
+        "阿里云",
+        "aliyun",
+        "alibaba-cloud",
+        "alibabacloud",
+        "aliyun.com",
+        "aliyuncs.com",
+        "console.aliyun.com"
+      ],
+      "aliases": [
+        "aliyun",
+        "alibaba-cloud",
+        "alibabacloud"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 23865,
+          "collection": "已有图标",
+          "file": "alibaba-aliyun.svg",
+          "id": 73,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "aliyun.svg",
+            "original_is_default": true,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 23640,
+            "previous_sha256": "c99516823b29fbbaeb5dd84d942f02470a4c969b170d24d6e244b2a5e44b3469",
+            "ratio": 0.2
+          },
+          "sha256": "395595927f699997963d941cc8c6cfd7929abae2b5b5e27f5ebed601975b7243",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1793,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-aliyun-1.svg",
+          "gotab_id": 63,
+          "id": 74,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "aliyun-1.svg",
+            "original_is_default": false,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1571,
+            "previous_sha256": "236dbd275a09d8fdfe9a3ba3f0903e9fa14bfb7bb9c5659840bb4f5d87bc20ee",
+            "ratio": 0.2
+          },
+          "sha256": "d13b5e857f73990385ded25d90f8ab95b5812ec3f162c3819955d7d757fbe24d",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJVEANA5NT0HZW4ZKFF696.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1205,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-aliyun-2.svg",
+          "gotab_id": 247,
+          "id": 75,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "aliyun-2.svg",
+            "original_is_default": false,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 983,
+            "previous_sha256": "25619692e28cf840f5d946a89304bc210485512b3f573ec8e910524c44feb476",
+            "ratio": 0.2
+          },
+          "sha256": "6c72720581b93790ca372878f192969f9a67aa06c7900df2b14a78b38bca6cc1",
+          "source": "https://web.gotab.cn/sourceStore/website/01KEH0G2P0G096PRCA6193ND5Q.svg",
+          "version": 2
+        },
+        {
+          "bytes": 2077,
+          "collection": "用户优化 SVG",
+          "file": "alibaba-aliyun-3.svg",
+          "id": 76,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "aliyun-3.svg",
+            "original_is_default": false,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1855,
+            "previous_sha256": "658504b5bf9360860125edc269b27d84ed25e8a635a74f10997b5d3ff15cfc56",
+            "ratio": 0.2
+          },
+          "sha256": "d0c1748aa1e942357359a741a5bb3a5981a3513dfed00b324dcb2cd63c2d99f6",
+          "source": "用户确认重绘：阿里云白底橙标文字版",
+          "version": 3
+        },
+        {
+          "bytes": 936,
+          "collection": "已有图标",
+          "file": "alibaba-aliyun-4.svg",
+          "id": 77,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliyun-4.svg",
+            "original_is_default": false,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 703,
+            "previous_sha256": "2366f9904fcb140f31b1b2011a9660616bb71e4a10a4a5727dcaa0984ac1b24b",
+            "ratio": 0.2
+          },
+          "sha256": "259fd838c583c1502844c19b6d3670be8b8e8b5fa8fe07448b9e4fa3d634af76",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibabacloud/color.svg",
+          "version": 4
+        },
+        {
+          "bytes": 873,
+          "collection": "已有图标",
+          "file": "alibaba-aliyun-5.svg",
+          "id": 78,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliyun-5.svg",
+            "original_is_default": false,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 640,
+            "previous_sha256": "3b967e32d1adda35ce5cf1c4b82f2984a94fff6931d3b8e1af11eee0f1c72486",
+            "ratio": 0.2
+          },
+          "sha256": "8859f209598abcdb9992266fd00c38d02a6186f41b86c002938ff1b065e45e27",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba-cloud/default.svg",
+          "version": 5
+        },
+        {
+          "bytes": 916,
+          "collection": "已有图标",
+          "file": "alibaba-aliyun-6.svg",
+          "id": 79,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aliyun-6.svg",
+            "original_is_default": false,
+            "original_slug": "aliyun"
+          },
+          "rounded_corners": {
+            "previous_bytes": 691,
+            "previous_sha256": "9f6535e846d61e055c8172b78cae10da7443bbdb2feefbaf275be505a1e22c3e",
+            "ratio": 0.2
+          },
+          "sha256": "7ed6980fa591b36cbea0685aa8468ed29206db662817b2e8d8edfbeb5b00f83f",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba-cloud-badge/default.svg",
+          "version": 6
+        }
+      ],
+      "next_version": 7
+    },
+    {
+      "id": 38,
+      "key": "aliyun-enterprise-mail",
+      "title": "阿里邮箱企业版",
+      "url": "https://qiye.aliyun.com",
+      "domains": [
+        "qiye.aliyun.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "办公",
+        "效率工具",
+        "阿里巴巴",
+        "电子邮件",
+        "邮箱",
+        "阿里邮箱企业版",
+        "aliyun-enterprise-mail",
+        "qiye.aliyun.com"
+      ],
+      "aliases": [
+        "aliyun-enterprise-mail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1375,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-aliyun-enterprise-mail.svg",
+          "gotab_id": 153,
+          "id": 80,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "aliyun-enterprise-mail.svg",
+            "original_is_default": true,
+            "original_slug": "aliyun-enterprise-mail"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1153,
+            "previous_sha256": "777773051f61b19bdf359c9d0d1715f44d5a440f6bd1103f561566a04338e9ae",
+            "ratio": 0.2
+          },
+          "sha256": "92c120ce0c99fac1bb14d250de66aeade1c69ac3cf69f2baead5eb3f0a2eb5b3",
+          "source": "https://web.gotab.cn/sourceStore/website/01JB3XFW5RN068AB3V9NYJ077C.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 39,
+      "key": "aliyun-mail",
+      "title": "阿里邮箱个人版",
+      "url": "https://mail.aliyun.com",
+      "domains": [
+        "mail.aliyun.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "办公",
+        "效率工具",
+        "阿里巴巴",
+        "电子邮件",
+        "邮箱",
+        "阿里邮箱个人版",
+        "aliyun-mail",
+        "mail.aliyun.com"
+      ],
+      "aliases": [
+        "aliyun-mail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1375,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-aliyun-mail.svg",
+          "gotab_id": 152,
+          "id": 81,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "aliyun-mail.svg",
+            "original_is_default": true,
+            "original_slug": "aliyun-mail"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1153,
+            "previous_sha256": "777773051f61b19bdf359c9d0d1715f44d5a440f6bd1103f561566a04338e9ae",
+            "ratio": 0.2
+          },
+          "sha256": "92c120ce0c99fac1bb14d250de66aeade1c69ac3cf69f2baead5eb3f0a2eb5b3",
+          "source": "https://web.gotab.cn/sourceStore/website/01JB3XFW5RN068AB3V9NYJ077C.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 40,
+      "key": "amap",
+      "title": "高德地图",
+      "url": "https://amap.com",
+      "domains": [
+        "amap.com",
+        "ditu.amap.com"
+      ],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "国内补充",
+        "出行",
+        "阿里巴巴",
+        "高德地图",
+        "amap",
+        "gaode",
+        "amap.com",
+        "ditu.amap.com"
+      ],
+      "aliases": [
+        "amap",
+        "gaode"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2073,
+          "collection": "轻量矢量替换",
+          "file": "alibaba-amap.svg",
+          "id": 82,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "native-vector-reuse",
+          "provenance": {
+            "original_file": "amap.svg",
+            "original_is_default": true,
+            "original_slug": "amap"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "7fb14e232493be98589b599029cfc437977c1944f5409be63b21c8edcf67b8df",
+            "previous_bytes": 296640,
+            "previous_method": "traced-detail",
+            "previous_source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/5a/15/745a1507-ef38-a474-2bbf-66826e29dc09/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+            "reference": "seed/icons/alibaba/alibaba-amap-1.svg",
+            "note": "复用同品牌已有的轻量原生矢量，去除旧版位图描摹。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "4b2c8768f4d4b7ac08f3d3fee5309f37abb9b2882022e1d0dbc916c034d5a7ca",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJAY9Z6GCKJG00X8DF75V5.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2073,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-amap-1.svg",
+          "gotab_id": 59,
+          "id": 83,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "amap-1.svg",
+            "original_is_default": false,
+            "original_slug": "amap"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1851,
+            "previous_sha256": "97319f7c4d33349dbadfb9315067cbda89249858b3c17c87e368a03b978db861",
+            "ratio": 0.2
+          },
+          "sha256": "4b2c8768f4d4b7ac08f3d3fee5309f37abb9b2882022e1d0dbc916c034d5a7ca",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HJAY9Z6GCKJG00X8DF75V5.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 41,
+      "key": "bailian",
+      "title": "阿里云百炼",
+      "url": "https://bailian.console.aliyun.com",
+      "domains": [
+        "bailian.console.aliyun.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "人工智能",
+        "阿里巴巴",
+        "阿里云百炼",
+        "bailian",
+        "bailian.console.aliyun.com"
+      ],
+      "aliases": [
+        "bailian"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2039,
+          "collection": "已有图标",
+          "file": "alibaba-bailian.svg",
+          "id": 84,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "bailian.svg",
+            "original_is_default": true,
+            "original_slug": "bailian"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1817,
+            "previous_sha256": "69a7e264c4de80c54550a3efe74eca0eca438d3f307e9e33cd66e5e12d3de198",
+            "ratio": 0.2
+          },
+          "sha256": "544e0ce86528b78946a7904a08f1343613f1f9f012cdbb2044c3ab2fe2a9eca2",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1315,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-bailian-1.svg",
+          "gotab_id": 292,
+          "id": 85,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "bailian-1.svg",
+            "original_is_default": false,
+            "original_slug": "bailian"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1093,
+            "previous_sha256": "25b99740d19408a55d3ce12627959e61fec6df96bd68b6cb98a1b67befcd0a4c",
+            "ratio": 0.2
+          },
+          "sha256": "ff4732d7aea3a0b5713ec7c8143908c2b2503e6fa2ee394de2cbb53fc7886347",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNX781XJBGMY8P687KPET0N.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1629,
+          "collection": "已有图标",
+          "file": "alibaba-bailian-2.svg",
+          "id": 86,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bailian-2.svg",
+            "original_is_default": false,
+            "original_slug": "bailian"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1396,
+            "previous_sha256": "93ed88cd974fefa17bbd1f11cb580005f501705544ca5dbe1ba7ecea262a4dea",
+            "ratio": 0.2
+          },
+          "sha256": "cc235c57fe0c6a1582a8472f6dc82721e8a54dca06688696daecdc4ca46e1744",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bailian/color.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1639,
+          "collection": "已有图标",
+          "file": "alibaba-bailian-3.svg",
+          "id": 87,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bailian-3.svg",
+            "original_is_default": false,
+            "original_slug": "bailian"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1406,
+            "previous_sha256": "dffd9c4b1ce97364dfa37f8091f84f4f1e1f81def47739e5ccd0336769abdea2",
+            "ratio": 0.2
+          },
+          "sha256": "4351be1243d6634cad487d03c57dfa3640e7ef0e98500b6e3567725afe4fa8dc",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/bailian/mono.svg",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 42,
+      "key": "cainiao",
+      "title": "菜鸟",
+      "url": "https://cainiao.com",
+      "domains": [
+        "cainiao.com"
+      ],
+      "description": "",
+      "category": "生活服务",
+      "tags": [
+        "国内补充",
+        "生活服务",
+        "阿里巴巴",
+        "菜鸟",
+        "cainiao",
+        "cainiao.com"
+      ],
+      "aliases": [
+        "cainiao"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4721,
+          "collection": "轻量矢量替换",
+          "file": "alibaba-cainiao.svg",
+          "id": 88,
+          "is_default": true,
+          "label": "mark",
+          "license": "trademark-owner",
+          "method": "manual-vector-redraw",
+          "provenance": {
+            "original_file": "cainiao.svg",
+            "original_is_default": true,
+            "original_slug": "cainiao"
+          },
+          "replacement": {
+            "date": "2026-10-23T15:32:07+08:00",
+            "previous_sha256": "28a71e189ec0d1a40cd00efb36408a070c4747ae7cba4989a23d58a8ac098e87",
+            "previous_bytes": 290147,
+            "previous_method": "traced-detail",
+            "previous_source": "https://img.alicdn.com/imgextra/i1/O1CN01LVMCKo1JF89bzI5ZG_!!6000000000998-2-tps-150-151.png",
+            "reference": "https://img.alicdn.com/imgextra/i1/O1CN01LVMCKo1JF89bzI5ZG_!!6000000000998-2-tps-150-151.png",
+            "note": "依据菜鸟蓝色应用图标重建 CAI NIAO 与菜鸟文字；文字为路径，无字体依赖。"
+          },
+          "rounded_corners": {
+            "ratio": 0.2
+          },
+          "sha256": "e165f8b9634ee309f88eaf06c4c6313a32b874968ba2b58d5de06b16f3dadf78",
+          "source": "https://img.alicdn.com/imgextra/i1/O1CN01LVMCKo1JF89bzI5ZG_!!6000000000998-2-tps-150-151.png",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 43,
+      "key": "dingtalk",
+      "title": "钉钉",
+      "url": "https://dingtalk.com",
+      "domains": [
+        "dingtalk.com"
+      ],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "办公",
+        "效率工具",
+        "阿里巴巴",
+        "钉钉",
+        "dingtalk",
+        "dingding",
+        "dingtalk.com"
+      ],
+      "aliases": [
+        "dingtalk",
+        "dingding"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 712,
+          "collection": "已有图标",
+          "file": "alibaba-dingtalk-4.svg",
+          "id": 89,
+          "is_default": true,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "dingtalk-4.svg",
+            "original_is_default": false,
+            "original_slug": "dingtalk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 479,
+            "previous_sha256": "2f64b3719f1e0b94b4153b10080554b82423121e1b0c2e59394dbd7dffab6dcc",
+            "ratio": 0.2
+          },
+          "sha256": "6d660a1d28f938bb25b10434c406f4d4a2846bdeb26d510319972658293f149a",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/social/dingDing.svg",
+          "version": 4
+        },
+        {
+          "bytes": 978,
+          "collection": "已有图标",
+          "file": "alibaba-dingtalk.svg",
+          "id": 90,
+          "is_default": false,
+          "label": "默认版本",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "dingtalk.svg",
+            "original_is_default": true,
+            "original_slug": "dingtalk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 745,
+            "previous_sha256": "c0cab360b2a5222c4245dfbedb28e62d93c2891c1646f78b61e931d10a361a65",
+            "ratio": 0.2
+          },
+          "sha256": "c3c79e4c357a9aa46d46a679280ddc6ebb44e88be39dca60a78703c9c726f27c",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#dingding-fill",
+          "version": 0
+        },
+        {
+          "bytes": 1202,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-dingtalk-1.svg",
+          "gotab_id": 229,
+          "id": 91,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "dingtalk-1.svg",
+            "original_is_default": false,
+            "original_slug": "dingtalk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 980,
+            "previous_sha256": "5cf476bfde25a719c096b7e24a00707de7b4e2ac48d633af711640dd9e226084",
+            "ratio": 0.2
+          },
+          "sha256": "6de900d865912b25040f2b99116e67cf734152f8f29373d0126d87ace22a7d9c",
+          "source": "https://web.gotab.cn/uploads/202507/01K0R6CTFX70K1YCATKHQXMRDK.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1013,
+          "collection": "已有图标",
+          "file": "alibaba-dingtalk-2.svg",
+          "id": 92,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "dingtalk-2.svg",
+            "original_is_default": false,
+            "original_slug": "dingtalk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 780,
+            "previous_sha256": "06192b45bb5ef85947099ba2b39e24691aebe6a2ee80a9fa8efce48427805543",
+            "ratio": 0.2
+          },
+          "sha256": "38ec308506eb0aa8326a50b459d61b83389a1a4bc6ecdb64b7fe0890344dc04a",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#dingding-line",
+          "version": 2
+        },
+        {
+          "bytes": 757,
+          "collection": "已有图标",
+          "file": "alibaba-dingtalk-3.svg",
+          "id": 93,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "dingtalk-3.svg",
+            "original_is_default": false,
+            "original_slug": "dingtalk"
+          },
+          "rounded_corners": {
+            "previous_bytes": 524,
+            "previous_sha256": "d935cceab45a7d6c80e56011687a9dd83d9172aad766d58879df25a6e5240032",
+            "ratio": 0.2
+          },
+          "sha256": "30364010a32adf9e62e02a6ea49e1a6f8a3c311a8427ab7149ea628ecc56d10f",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#dingtalk",
+          "version": 3
+        }
+      ],
+      "next_version": 5
+    },
+    {
+      "id": 44,
+      "key": "eleme",
+      "title": "饿了么",
+      "url": "https://ele.me",
+      "domains": [
+        "ele.me"
+      ],
+      "description": "",
+      "category": "生活服务",
+      "tags": [
+        "国内补充",
+        "生活服务",
+        "阿里巴巴",
+        "饿了么",
+        "eleme",
+        "ele-me",
+        "ele.me"
+      ],
+      "aliases": [
+        "eleme",
+        "ele-me"
+      ],
+      "notes": [
+        "按用户提供素材重新描摹，背景使用原生矢量形状及渐变。"
+      ],
+      "icons": [
+        {
+          "bytes": 4871,
+          "collection": "用户提供素材",
+          "file": "alibaba-eleme.svg",
+          "id": 94,
+          "is_default": true,
+          "label": "参考图重绘",
+          "license": "品牌商标归权利人；用户提供参考素材",
+          "method": "traced-outline",
+          "provenance": {
+            "original_file": "eleme.svg",
+            "original_is_default": true,
+            "original_slug": "eleme"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4649,
+            "previous_sha256": "ae6003c38c771c498343963473b8ca3c95be9986bbeab9a0b7f587eb7c19b020",
+            "ratio": 0.2
+          },
+          "sha256": "d4741cf25b1dbae14f71404605244cd0d91a2ab00308baeb5213eec6de13a686",
+          "source": "用户提供素材",
+          "version": 0
+        },
+        {
+          "bytes": 1949,
+          "collection": "jaywcjlove/logo",
+          "file": "alibaba-eleme-1.svg",
+          "id": 95,
+          "is_default": false,
+          "label": "mark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eleme-1.svg",
+            "original_is_default": false,
+            "original_slug": "eleme"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1729,
+            "previous_sha256": "03e2356a90b77c16b0e1d03b261b6a68b6a75c0c73919c827bdb809519126fc6",
+            "ratio": 0.2
+          },
+          "sha256": "ccd578f9818481c622c7f43b9b66aca9e386b8404b3cb4afb959d35b7d152c02",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/eleme.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 45,
+      "key": "fliggy",
+      "title": "飞猪",
+      "url": "https://fliggy.com",
+      "domains": [
+        "fliggy.com"
+      ],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "国内补充",
+        "出行",
+        "阿里巴巴",
+        "飞猪",
+        "fliggy",
+        "fliggy.com"
+      ],
+      "aliases": [
+        "fliggy"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2772,
+          "collection": "jaywcjlove/logo",
+          "file": "alibaba-fliggy.svg",
+          "id": 96,
+          "is_default": true,
+          "label": "mark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "fliggy.svg",
+            "original_is_default": true,
+            "original_slug": "fliggy"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2552,
+            "previous_sha256": "90587a819bbe6866cf7c99c2b94ca8d044d3f640595f2d03f19732ecdc3b39bc",
+            "ratio": 0.2
+          },
+          "sha256": "68f9fdfedafc33b51752cc6152766f42a2951d6e9c17a036acc0cdb1f1bcad03",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/fliggy.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 46,
+      "key": "goofish",
+      "title": "闲鱼",
+      "url": "https://goofish.com",
+      "domains": [
+        "goofish.com",
+        "2.taobao.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "闲鱼",
+        "goofish",
+        "xianyu",
+        "goofish-icon",
+        "goofish.com",
+        "2.taobao.com"
+      ],
+      "aliases": [
+        "goofish",
+        "xianyu",
+        "goofish-icon"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 14972,
+          "collection": "已有图标",
+          "file": "alibaba-goofish.svg",
+          "id": 97,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "goofish.svg",
+            "original_is_default": true,
+            "original_slug": "goofish"
+          },
+          "rounded_corners": {
+            "previous_bytes": 14750,
+            "previous_sha256": "4c34d44d99b333772950cadee1a61f6c5067893356cd97cf4300b3fffb198a03",
+            "ratio": 0.2
+          },
+          "sha256": "07b038e12219be69df01bba3221f393c6f093097641cdeff869af85087b0c024",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 3336,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-goofish-1.svg",
+          "gotab_id": 99,
+          "id": 98,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "goofish-1.svg",
+            "original_is_default": false,
+            "original_slug": "goofish"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3114,
+            "previous_sha256": "8618ca84c570685e55e8addd3b566a39169c6364e5e37b068e61c24438f14a80",
+            "ratio": 0.2
+          },
+          "sha256": "92fd0cef665e3ac65dadae3ed0180cf4237acafa60e17770b5f7c0b631449643",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HQ5X5P17TTZQ9FCE2AE1H1.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1058,
+          "collection": "已有图标",
+          "file": "alibaba-goofish-2.svg",
+          "id": 99,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "goofish-2.svg",
+            "original_is_default": false,
+            "original_slug": "goofish"
+          },
+          "rounded_corners": {
+            "previous_bytes": 825,
+            "previous_sha256": "6a9399874c4f7eb34204dbd7e278b272a22a8eec7b1794840e102262c1f6f267",
+            "ratio": 0.2
+          },
+          "sha256": "ce972196085e8e6cfa96672108dd913bc14032dd534bb6f51e5193c9b2862215",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#xianyu",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 47,
+      "key": "iconfont",
+      "title": "Iconfont 阿里巴巴矢量图标库",
+      "url": "https://iconfont.cn",
+      "domains": [
+        "iconfont.cn"
+      ],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "设计",
+        "素材",
+        "阿里巴巴",
+        "Iconfont 阿里巴巴矢量图标库",
+        "iconfont",
+        "iconfont.cn"
+      ],
+      "aliases": [
+        "iconfont"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8513,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-iconfont.svg",
+          "gotab_id": 90,
+          "id": 100,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "iconfont.svg",
+            "original_is_default": true,
+            "original_slug": "iconfont"
+          },
+          "rounded_corners": {
+            "previous_bytes": 8291,
+            "previous_sha256": "f2cfd7d03c0f61660a78bff31b9f649f875a292c031a9fbd49d0a146add4aeba",
+            "ratio": 0.2
+          },
+          "sha256": "183dc23250101b075a1a978205764a3bea75f870de3419bcef4f2fa7ddf1fb47",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HNRMA6R6XHRMM50SHCECQ3.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 48,
+      "key": "international",
+      "title": "阿里巴巴国际站",
+      "url": "https://alibaba.com",
+      "domains": [
+        "alibaba.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "阿里巴巴国际站",
+        "alibaba",
+        "alibaba.com"
+      ],
+      "aliases": [
+        "alibaba"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1677,
+          "collection": "theSVG",
+          "file": "alibaba-international.svg",
+          "id": 101,
+          "is_default": true,
+          "label": "color",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "alibaba.svg",
+            "original_is_default": true,
+            "original_slug": "alibaba"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1444,
+            "previous_sha256": "0832198624dd92f812ca2ea512927964081efb1bd9fba86afdad4865d97a0c12",
+            "ratio": 0.2
+          },
+          "sha256": "9b31bec57bf33dbe3db87ecae3a1f7aedc19e9520223ae2b071e618bdafd3ba9",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba/color.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1667,
+          "collection": "theSVG",
+          "file": "alibaba-international-1.svg",
+          "id": 102,
+          "is_default": false,
+          "label": "mono",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "alibaba-1.svg",
+            "original_is_default": false,
+            "original_slug": "alibaba"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1434,
+            "previous_sha256": "545e82bbe495e0b53e07e9afb1e9b8c5182818454834c029615f7f7c9357b09c",
+            "ratio": 0.2
+          },
+          "sha256": "ab81b10f503a8d301946143ef3228d53ed44f0b5c8025f04fac2f1097dc46912",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba/mono.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1069,
+          "collection": "Iconify / arcticons",
+          "file": "alibaba-international-2.svg",
+          "id": 103,
+          "is_default": false,
+          "label": "alibaba",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "alibaba-2.svg",
+            "original_is_default": false,
+            "original_slug": "alibaba"
+          },
+          "rounded_corners": {
+            "previous_bytes": 836,
+            "previous_sha256": "203ca77c30e60dfd8b27de376a7dbf5e56fb7d1012e06d358a564dc2157d66c4",
+            "ratio": 0.2
+          },
+          "sha256": "c2d52e4fbd43f13fe6c4e965ff07c4a8d980db3acf3ba3515da6e2e9f5bed72c",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#alibaba",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 49,
+      "key": "modelscope",
+      "title": "魔搭社区",
+      "url": "https://modelscope.cn",
+      "domains": [
+        "modelscope.cn"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "人工智能",
+        "阿里巴巴",
+        "魔搭社区",
+        "modelscope",
+        "modelscope.cn"
+      ],
+      "aliases": [
+        "modelscope"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 734,
+          "collection": "已有图标",
+          "file": "alibaba-modelscope.svg",
+          "id": 104,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "modelscope.svg",
+            "original_is_default": true,
+            "original_slug": "modelscope"
+          },
+          "rounded_corners": {
+            "previous_bytes": 501,
+            "previous_sha256": "da8656abc0ced81a1e076728b3855a427c4b7c1b15e0a7c3258e0bb2ea625d70",
+            "ratio": 0.2
+          },
+          "sha256": "d450351827f42db2dc92070b7ffe3054480da7ff8c0acf2ddf6bfd55348ffe07",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/modelscope/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1721,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-modelscope-1.svg",
+          "gotab_id": 291,
+          "id": 105,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "modelscope-1.svg",
+            "original_is_default": false,
+            "original_slug": "modelscope"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1499,
+            "previous_sha256": "a274d96828c9e3e56d5b2903d80307e275e1e5c421fd5f294ca882c6bc705819",
+            "ratio": 0.2
+          },
+          "sha256": "6132e87f534c50bbc79c4034a095ad050567db0ed8a3cc45f082cd40a6ac44cf",
+          "source": "https://web.gotab.cn/sourceStore/website/01KYNX47QPRYG1FTASB6PJPG6W.svg",
+          "version": 1
+        },
+        {
+          "bytes": 734,
+          "collection": "已有图标",
+          "file": "alibaba-modelscope-2.svg",
+          "id": 106,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "modelscope-2.svg",
+            "original_is_default": false,
+            "original_slug": "modelscope"
+          },
+          "rounded_corners": {
+            "previous_bytes": 501,
+            "previous_sha256": "03ddd117d360fccb3df38c5684deed14308c1e87992a04e47c18730cf3c143e1",
+            "ratio": 0.2
+          },
+          "sha256": "88b46725cfdc61e817d8721ad8a0d5e519d7b06fe328f9bfaf3b44f896a4b47e",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/modelscope/mono.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 50,
+      "key": "quark",
+      "title": "夸克",
+      "url": "https://quark.cn",
+      "domains": [
+        "quark.cn"
+      ],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "浏览器",
+        "网页浏览",
+        "阿里巴巴",
+        "夸克",
+        "quark",
+        "quark.cn"
+      ],
+      "aliases": [
+        "quark"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1344,
+          "collection": "用户优选",
+          "file": "alibaba-quark-1.svg",
+          "id": 107,
+          "is_default": true,
+          "label": "彩色版",
+          "license": "see-source",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "quark-2.svg",
+            "original_sha256": "c2b798de5416583dc50ede0ff38805de1ea7e2dd46a66c2548e275a1ec1b8d00"
+          },
+          "sha256": "c2b798de5416583dc50ede0ff38805de1ea7e2dd46a66c2548e275a1ec1b8d00",
+          "source": "用户上传",
+          "version": 1
+        },
+        {
+          "bytes": 754,
+          "collection": "Iconify / arcticons",
+          "file": "alibaba-quark.svg",
+          "id": 108,
+          "is_default": false,
+          "label": "quark-browser",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "quark.svg",
+            "original_is_default": true,
+            "original_slug": "quark"
+          },
+          "rounded_corners": {
+            "previous_bytes": 521,
+            "previous_sha256": "3cc16d55c8e983786a843f5f2c8a94b76374c828d906000b2bc2df164a662130",
+            "ratio": 0.2
+          },
+          "sha256": "cdd3d376ae97c32a2147a1a6d7c3aeefd7e761ef2488c4a8a5afa3c768445765",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#quark-browser",
+          "version": 0
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 51,
+      "key": "quark-drive",
+      "title": "夸克网盘",
+      "url": "https://pan.quark.cn",
+      "domains": [
+        "pan.quark.cn"
+      ],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "国内补充",
+        "网盘",
+        "云存储",
+        "阿里巴巴",
+        "夸克网盘",
+        "quark-drive",
+        "pan.quark.cn"
+      ],
+      "aliases": [
+        "quark-drive"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1609,
+          "collection": "SVGLOGO",
+          "file": "alibaba-quark-drive.svg",
+          "id": 109,
+          "is_default": true,
+          "label": "route",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "quark-drive.svg",
+            "original_is_default": true,
+            "original_slug": "quark-drive"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1376,
+            "previous_sha256": "8474f8fc4fb92c99df198f2542ceced51176bd3327b5f56097387e11dc83242c",
+            "ratio": 0.2
+          },
+          "sha256": "6c5e350f19c595046d5204f3eb370a8585d71f38f171c211a0e95b89e1cab2ac",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/quarkpan.svg",
+          "version": 0
+        },
+        {
+          "bytes": 4536,
+          "collection": "SVGLOGO",
+          "file": "alibaba-quark-drive-1.svg",
+          "id": 110,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "quark-drive-1.svg",
+            "original_is_default": false,
+            "original_slug": "quark-drive"
+          },
+          "sha256": "f9e218c6c7b0708a42f8c759f5b6de300fe20acc94af9f8f3eb0c678b0092862",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/quarkpan_wordmark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 52,
+      "key": "qwen",
+      "title": "千问",
+      "url": "https://qianwen.com",
+      "domains": [
+        "qianwen.com",
+        "tongyi.aliyun.com"
+      ],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "用户优选",
+        "人工智能",
+        "阿里巴巴",
+        "AI 对话",
+        "聊天助手",
+        "千问",
+        "qwen",
+        "tongyi",
+        "qianwen",
+        "qianwen.com",
+        "tongyi.aliyun.com"
+      ],
+      "aliases": [
+        "qwen",
+        "tongyi",
+        "qianwen"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 2288,
+          "collection": "已有图标",
+          "file": "alibaba-qwen.svg",
+          "id": 111,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "qwen.svg",
+            "original_is_default": true,
+            "original_slug": "qwen"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2055,
+            "previous_sha256": "2cafdfec339c45d70344d1122def3e57940e042162ec23195a139559cfc4b938",
+            "ratio": 0.2
+          },
+          "sha256": "b0cf83965dea942e1e2446c5c1aa8bff1f2992abb6dd0bc00cb6833d0bd810ef",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1530,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-qwen-1.svg",
+          "gotab_id": 145,
+          "id": 112,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "qwen-1.svg",
+            "original_is_default": false,
+            "original_slug": "qwen"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1308,
+            "previous_sha256": "56786ce7e9d184ee33829ec98aa45575e0343f9c9ccbc13610ae1502d4f6d2bb",
+            "ratio": 0.2
+          },
+          "sha256": "9096e580aa823f7cfff02f72e850a4332c1bc6fac7854a6f5b846c140a01f572",
+          "source": "https://web.gotab.cn/sourceStore/website/01JAETRFPMBY1R30PMK0YE1JJ8.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2070,
+          "collection": "已有图标",
+          "file": "alibaba-qwen-2.svg",
+          "id": 113,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qwen-2.svg",
+            "original_is_default": false,
+            "original_slug": "qwen"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1837,
+            "previous_sha256": "a6cf46269fb73fe402a9d4af610c4f0ee0f793ee53a576e2b938fbbbea6016e9",
+            "ratio": 0.2
+          },
+          "sha256": "7af4ea76b1d1ff73d6414e60a24f1e7745d26c4473f2d3a850833bca81b84c5b",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qwen/light.svg",
+          "version": 2
+        },
+        {
+          "bytes": 2063,
+          "collection": "已有图标",
+          "file": "alibaba-qwen-3.svg",
+          "id": 114,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "MIT",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qwen-3.svg",
+            "original_is_default": false,
+            "original_slug": "qwen"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1830,
+            "previous_sha256": "fa314cb2c13cb52cf9dfcf1c7bd9dbb5347ad14cc059889318d5aa23b0199e78",
+            "ratio": 0.2
+          },
+          "sha256": "27ea08a698308122de3645650d1d2e6adf2f504d822e33ba162ed775998336d6",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/qwen/default.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1678,
+          "collection": "已有图标",
+          "file": "alibaba-qwen-4.svg",
+          "id": 115,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qwen-4.svg",
+            "original_is_default": false,
+            "original_slug": "qwen"
+          },
+          "sha256": "f45e1b78e219430754d0d24d881c006689d04cb849171f2cf8468d958dac9043",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qwen.svg",
+          "version": 4
+        },
+        {
+          "bytes": 1131,
+          "collection": "已有图标",
+          "file": "alibaba-qwen-5.svg",
+          "id": 116,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qwen-5.svg",
+            "original_is_default": false,
+            "original_slug": "qwen"
+          },
+          "rounded_corners": {
+            "previous_bytes": 898,
+            "previous_sha256": "c2d8e88431fa48d872aad9efaba79a51d7e1aa7ae8cc784a0c5ad06ebb5d77ab",
+            "ratio": 0.2
+          },
+          "sha256": "980c62759c467de357f5efc1ac2060e24c81c48426ad6dd202f4418141e480c0",
+          "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qwen.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 53,
+      "key": "taobao",
+      "title": "淘宝",
+      "url": "https://taobao.com",
+      "domains": [
+        "taobao.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "用户优选",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "淘宝",
+        "taobao",
+        "taobao.com"
+      ],
+      "aliases": [
+        "taobao"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 3305,
+          "collection": "已有图标",
+          "file": "alibaba-taobao.svg",
+          "id": 117,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "taobao.svg",
+            "original_is_default": true,
+            "original_slug": "taobao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3051,
+            "previous_sha256": "0edfe3cc37018e4779de129c7417ee46eb18950e7ce8a0ed3f06cd3768ac2734",
+            "ratio": 0.2
+          },
+          "sha256": "370d419cc24154f845b48a0f65a686691465a06a9f74fdf27d336fe90ec0946f",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 2609,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-taobao-1.svg",
+          "gotab_id": 94,
+          "id": 118,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "taobao-1.svg",
+            "original_is_default": false,
+            "original_slug": "taobao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 2387,
+            "previous_sha256": "79998b38ab0bc0faa3526d780fae8183a02fc26067d267acb5d1ebcbc959090f",
+            "ratio": 0.2
+          },
+          "sha256": "56047bcd15738c5c20e6f779aec848a2333469c576a8e82e6732deae7a05c68c",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HPM7X5MED0VQ9RRA6AM588.svg",
+          "version": 1
+        },
+        {
+          "bytes": 4710,
+          "collection": "已有图标",
+          "file": "alibaba-taobao-2.svg",
+          "id": 119,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "taobao-2.svg",
+            "original_is_default": false,
+            "original_slug": "taobao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4477,
+            "previous_sha256": "803b0115cf3e9cc617bdb0f719181f277ee6c4bdfcc820b71206fb05a869363f",
+            "ratio": 0.2
+          },
+          "sha256": "f7a09579075714c63c02ce03c6ac3a71e782ed1c925ef3a05959c662aad52ae1",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/taobao/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 4710,
+          "collection": "已有图标",
+          "file": "alibaba-taobao-3.svg",
+          "id": 120,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "taobao-3.svg",
+            "original_is_default": false,
+            "original_slug": "taobao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4477,
+            "previous_sha256": "9a448e1b8f8a9abed89dd2597d28efefdc6e3f26825807946ba07ebac2b859d1",
+            "ratio": 0.2
+          },
+          "sha256": "ba402178865edc035a2c90d8f7df3688eb02315ccf776b4a6cfe16581a0e3896",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/taobao/mono.svg",
+          "version": 3
+        },
+        {
+          "bytes": 3350,
+          "collection": "已有图标",
+          "file": "alibaba-taobao-4.svg",
+          "id": 121,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "taobao-4.svg",
+            "original_is_default": false,
+            "original_slug": "taobao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 3117,
+            "previous_sha256": "e9ccde36bd504557095dc44e5d28e79f6b6af9dc5012f29c7a5fde4af9ceae3e",
+            "ratio": 0.2
+          },
+          "sha256": "a6dd0bc25928435f1cb4ccf0d89a85907d99badef6e27fcafecea5563b6170ce",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#taobao",
+          "version": 4
+        },
+        {
+          "bytes": 1492,
+          "collection": "已有图标",
+          "file": "alibaba-taobao-5.svg",
+          "id": 122,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "Apache 2.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "taobao-5.svg",
+            "original_is_default": false,
+            "original_slug": "taobao"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1259,
+            "previous_sha256": "6d322d40d768df56501f73b51af3fbb97677d931f7de7deb4fda4ff215f0aa10",
+            "ratio": 0.2
+          },
+          "sha256": "53883d7445baf97fea5842e761ef527cc80aec332bb99ab217c7ffbc660a5b02",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#taobao-fill",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    },
+    {
+      "id": 54,
+      "key": "tmall",
+      "title": "天猫",
+      "url": "https://tmall.com",
+      "domains": [
+        "tmall.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "国内补充",
+        "中国地区Top100",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "天猫",
+        "tmall",
+        "tianmao",
+        "tmall.com"
+      ],
+      "aliases": [
+        "tmall",
+        "tianmao"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 4980,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-tmall-1.svg",
+          "gotab_id": 98,
+          "id": 123,
+          "is_default": true,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "tmall-1.svg",
+            "original_is_default": false,
+            "original_slug": "tmall"
+          },
+          "rounded_corners": {
+            "previous_bytes": 4758,
+            "previous_sha256": "2942f81ebcb7655a5d5591860fc1b6a04d74521594d65367c10936723c14b23d",
+            "ratio": 0.2
+          },
+          "sha256": "712a187a2bf0ba9745fa6efe1dd9a3c873459d3fe998c6affade00c5bfbbb31a",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8HQ0KX10F789FS4STZFDAQB.svg",
+          "version": 1
+        },
+        {
+          "bytes": 3779,
+          "collection": "已有图标",
+          "file": "alibaba-tmall.svg",
+          "id": 124,
+          "is_default": false,
+          "label": "默认版本",
+          "license": "attribution-required",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tmall.svg",
+            "original_is_default": true,
+            "original_slug": "tmall"
+          },
+          "sha256": "3efbb68bd9ca6c1a7f99efca8595772d67011d7abfcaa278482dff70d15c9557",
+          "source": "https://raw.githubusercontent.com/nullice/NViconsLib_Silhouette/master/svg/CN_tmall.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 55,
+      "key": "trendyol",
+      "title": "trendyol",
+      "url": "https://trendyol.com",
+      "domains": [
+        "trendyol.com"
+      ],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "全球Top100",
+        "电商",
+        "购物",
+        "阿里巴巴",
+        "trendyol",
+        "trendyol.com"
+      ],
+      "aliases": [
+        "trendyol"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1502,
+          "collection": "Iconify / arcticons",
+          "file": "alibaba-trendyol.svg",
+          "id": 125,
+          "is_default": true,
+          "label": "trendyol",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trendyol.svg",
+            "original_is_default": true,
+            "original_slug": "trendyol"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1269,
+            "previous_sha256": "64f6a357725168fc8ac51a9ddc9619b54d25b302f0f7ae1a529c67d0a47f4b2c",
+            "ratio": 0.2
+          },
+          "sha256": "aa92de597901d6a718d7e2859112c6ab819b7f189a0476ae209e740b90a58cf6",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#trendyol",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 56,
+      "key": "youku",
+      "title": "优酷",
+      "url": "https://youku.com",
+      "domains": [
+        "youku.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "国内补充",
+        "用户优选",
+        "影音",
+        "阿里巴巴",
+        "视频",
+        "在线视频",
+        "优酷",
+        "youku",
+        "youku.com"
+      ],
+      "aliases": [
+        "youku"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 964,
+          "collection": "已有图标",
+          "file": "alibaba-youku.svg",
+          "id": 126,
+          "is_default": true,
+          "label": "默认版本",
+          "license": "原图版权及商标归权利人",
+          "method": "existing-svg",
+          "provenance": {
+            "original_file": "youku.svg",
+            "original_is_default": true,
+            "original_slug": "youku"
+          },
+          "sha256": "7d8afac56927145594fbf17d810c55ddc0fb9b8999e57e367e2089ad6e808371",
+          "source": "用户优选",
+          "version": 0
+        },
+        {
+          "bytes": 1232,
+          "collection": "GoTab 公开资源库",
+          "file": "alibaba-youku-1.svg",
+          "gotab_id": 7,
+          "id": 127,
+          "is_default": false,
+          "label": "GoTab 配色版",
+          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
+          "method": "gotab-svg",
+          "provenance": {
+            "original_file": "youku-1.svg",
+            "original_is_default": false,
+            "original_slug": "youku"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1010,
+            "previous_sha256": "6ad0826f420ec4e06d5d8144dbbe5e42c4b570f27fede1564ae570e9c259b44e",
+            "ratio": 0.2
+          },
+          "sha256": "1c780e920729e6ef1aca0e1787f3223e9f7d7ceecdf83743f27c6624ee29d98c",
+          "source": "https://web.gotab.cn/sourceStore/website/01J8GZHZP9DFX8HGFAJV6WX8NZ.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1290,
+          "collection": "已有图标",
+          "file": "alibaba-youku-2.svg",
+          "id": 128,
+          "is_default": false,
+          "label": "版本 2",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youku-2.svg",
+            "original_is_default": false,
+            "original_slug": "youku"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1057,
+            "previous_sha256": "243cc3c9d94d907b0318e1c546e450431f48a6f6a5deb34df847133925be9b0f",
+            "ratio": 0.2
+          },
+          "sha256": "52d3d6f8d63b9a340face3e5245ab5a082c88e5fda178a2df38db156dc64b71b",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/youku.svg",
+          "version": 2
+        },
+        {
+          "bytes": 3699,
+          "collection": "已有图标",
+          "file": "alibaba-youku-3.svg",
+          "id": 129,
+          "is_default": false,
+          "label": "版本 3",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youku-3.svg",
+            "original_is_default": false,
+            "original_slug": "youku"
+          },
+          "sha256": "54a62c560bf9babbdd0707374225ca1e05d00d319968aeae8a5f589ef0295768",
+          "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/youku_wordmark.svg",
+          "version": 3
+        },
+        {
+          "bytes": 833,
+          "collection": "已有图标",
+          "file": "alibaba-youku-4.svg",
+          "id": 130,
+          "is_default": false,
+          "label": "版本 4",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youku-4.svg",
+            "original_is_default": false,
+            "original_slug": "youku"
+          },
+          "rounded_corners": {
+            "previous_bytes": 600,
+            "previous_sha256": "22a7d7b9b33b0f1f9ab6f72bc3f83992d72f2383927a39b77eb3e66ed849fd4e",
+            "ratio": 0.2
+          },
+          "sha256": "431cbc7358eea06eda598be336e355974ce252e13c8fc820a868fda0b1b6cf3b",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#youku",
+          "version": 4
+        },
+        {
+          "bytes": 6828,
+          "collection": "已有图标",
+          "file": "alibaba-youku-5.svg",
+          "id": 131,
+          "is_default": false,
+          "label": "版本 5",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youku-5.svg",
+            "original_is_default": false,
+            "original_slug": "youku"
+          },
+          "rounded_corners": {
+            "previous_bytes": 6608,
+            "previous_sha256": "7f65c8a876693de55211eec9e28b982459f83ce766799d098283a995cbd5c705",
+            "ratio": 0.2
+          },
+          "sha256": "1f949328f65fa8fdb0a5d67b19bf1549a930a83ab1f241d4294f018c323f593d",
+          "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/youku.svg",
+          "version": 5
+        }
+      ],
+      "next_version": 6
+    }
+  ]
+}
