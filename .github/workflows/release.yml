@@ -48,6 +48,10 @@ jobs:
           python -c "import sqlite3,sys; c=sqlite3.connect(sys.argv[1]); assert c.execute('select count(*) from sqlite_master where name=?',('icons',)).fetchone()[0]==0; assert c.execute('select count(*) from audit').fetchone()[0]==0; assert c.execute('select count(*) from downloads').fetchone()[0]==0" "$RUNNER_TEMP/docker-initial.sqlite3"
           docker compose -f docker-compose.yaml -f docker-compose.build.yaml -p icon-svg-ci up -d --wait --wait-timeout 120
           curl --noproxy localhost --fail --silent http://127.0.0.1:8088/healthz
+      - name: Check empty host directory initialization
+        run: |
+          image=$(docker compose -f docker-compose.yaml -f docker-compose.build.yaml -p icon-svg-ci images -q icon-svg)
+          sudo python3 .github/scripts/check-docker-bootstrap.py "$image"
       - name: Docker logs
         if: failure()
         run: docker compose -f docker-compose.yaml -f docker-compose.build.yaml -p icon-svg-ci logs --tail 80

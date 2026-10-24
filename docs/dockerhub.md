@@ -17,15 +17,15 @@
 docker run -d \
   --name icon-svg \
   --restart unless-stopped \
-  -p 127.0.0.1:8088:8000 \
-  -v icon-svg-library:/app/library \
-  -v icon-svg-data:/app/data \
+  -p 127.0.0.1:1089:8000 \
+  -v "$(pwd)/library:/app/library" \
+  -v "$(pwd)/data:/app/data" \
   charley008/icon-svg:latest
 ```
 
-访问 http://127.0.0.1:8088/ ，后台为 /admin。需要局域网访问时，将端口映射改为 `8088:8000`，并根据需要配置防火墙或反向代理。
+访问 http://127.0.0.1:1089/ ，后台为 /admin。需要局域网访问时，将端口映射改为 `1089:8000`，并根据需要配置防火墙或反向代理。
 
-Docker 命名卷在首次创建时会自动复制镜像内的初始素材。更新镜像后继续保留已有素材、账号及运行数据。不要用空的宿主目录覆盖 /app/library；使用目录绑定时，请先准备完整的 library 文件夹。
+从 1.0.1 起，首次启动会自动创建宿主机当前目录下的 library 和 data，并向空 library 复制初始素材。之后重启或更新镜像保留已有内容，不覆盖修改或恢复已删除素材；初次复制中断可重试。无需到 Docker 内部卷目录查找文件。1.0.0 不具备空目录初始化功能，请先拉取 latest。
 
 首次随机生成的管理员凭据：
 
@@ -37,21 +37,19 @@ docker exec icon-svg cat /app/data/initial-admin.txt
 
 ## Docker Compose
 
-下面配置可直接用于全新部署，使用命名卷自动初始化素材：
+下面配置可直接用于全新部署，在 Compose 文件旁自动创建并初始化素材目录：
 
 ```yaml
 services:
   icon-svg:
     image: charley008/icon-svg:latest
-    restart: unless-stopped
+    container_name: icon-svg
+    restart: always
     ports:
-      - "127.0.0.1:8088:8000"
+      - "127.0.0.1:1089:8000"
     volumes:
-      - icon-svg-library:/app/library
-      - icon-svg-data:/app/data
-volumes:
-  icon-svg-library:
-  icon-svg-data:
+      - ./library:/app/library
+      - ./data:/app/data
 ```
 
 ```sh
@@ -59,7 +57,7 @@ docker compose up -d
 docker compose exec icon-svg cat /app/data/initial-admin.txt
 ```
 
-如已拥有完整 library，可将素材挂载换成 `./library:/app/library`，数据挂载换成 `./data:/app/data`。请确保容器用户对目录有读写权限；可通过 PUID / PGID 指定用户。
+已有 library 和 data 目录会继续沿用；如果曾使用命名卷，请先导出旧素材后迁移到目录绑定，不要直接删除旧卷。请确保容器用户对目录有读写权限；可通过 PUID / PGID 指定用户。
 
 ## 常用环境变量
 
@@ -74,10 +72,10 @@ docker compose exec icon-svg cat /app/data/initial-admin.txt
 
 ## 版本与更新
 
-- `1.0.0`：固定版本。
+- `1.0.1`：支持宿主机空目录初始化的修正版。
 - `latest`：最新正式发布版本。
 
-使用 latest 时执行 `docker compose pull`，然后执行 `docker compose up -d`。固定版本则先修改 image 标签。保留原有素材卷和数据卷，更新镜像不会自动覆盖已有素材。修改素材后可等待自动扫描，或在后台设置中刷新素材库。
+使用 latest 时执行 `docker compose pull`，然后执行 `docker compose up -d`。固定版本则先修改 image 标签。保留原有 library 和 data 目录，更新镜像不会自动覆盖已有素材。修改素材后可等待自动扫描，或在后台设置中刷新素材库。
 
 ## 许可说明
 

@@ -68,7 +68,7 @@ docker compose ps
 docker compose logs --tail 50 icon-svg
 ```
 
-默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。可在 `.env` 中设置 `IMAGE_TAG=1.0.0` 固定版本。Compose 默认地址为 <http://127.0.0.1:1089/>。素材使用名为 `icon-svg-library` 的 Docker 命名卷挂载到 `/app/library`，首次创建时自动复制镜像中的初始素材；账号与运行数据仍通过宿主机 `./data` 挂载到 `/app/data`。容器名为 `icon-svg`，重启策略为 `always`，Compose 默认每 60 分钟扫描素材。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口仅调整 data 根目录归属，不递归修改素材目录。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
+默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。可在 `.env` 中设置 `IMAGE_TAG=1.0.0` 固定版本。Compose 默认地址为 <http://127.0.0.1:1089/>。素材通过宿主机 `./library` 目录挂载到 `/app/library`，镜像入口会在首次启动时向空目录复制初始素材；账号与运行数据仍通过宿主机 `./data` 挂载到 `/app/data`。容器名为 `icon-svg`，重启策略为 `always`，Compose 默认每 60 分钟扫描素材。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口调整 data 根目录归属；初始化空素材目录时也会设置该目录归属，已有非空素材目录不会被递归改权限。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
 
 查看首次凭据：
 
@@ -76,11 +76,11 @@ docker compose logs --tail 50 icon-svg
 docker compose exec icon-svg cat /app/data/initial-admin.txt
 ```
 
-更新镜像时运行 `docker compose pull`，再执行 `docker compose up -d`。`docker compose down` 保留素材卷及宿主机的 `./data`。不要执行 `docker compose down -v`，它会删除素材卷。更新时保留素材卷和 `data`；素材变动在扫描后生效，不需重新初始化数据库。
+更新镜像时运行 `docker compose pull`，再执行 `docker compose up -d`。`docker compose down` 保留宿主机的 `./library` 和 `./data`。更新时保留这两个目录；素材变动在扫描后生效，不需重新初始化数据库。
 
-首次部署只需 `docker-compose.yaml`，无需手动创建 `library` 或下载初始素材；Docker 会创建素材卷及 `./data`。再次启动或更新镜像会保留卷内已有素材，不会重新覆盖。
+首次部署只需 `docker-compose.yaml`，无需手动创建 `library` 或下载初始素材；Docker 会创建 Compose 旁的 `./library` 和 `./data`，入口自动填充空素材目录。再次启动或更新镜像会保留已有素材，不会重新覆盖。复制中断后下次启动会继续补齐初始文件。此功能从 1.0.1 起提供，请先拉取最新镜像。
 
-**如果已经用 `./library:/app/library` 部署过，请继续使用原目录绑定**，或先从后台导出素材、改用命名卷后再导入；直接切换为新卷不会自动迁移旧目录。已有管理员数据请继续挂载原来的 `./data`。后台提供素材导出和完整备份。
+**如果已经使用命名卷部署**，先在后台导出素材，切换为目录绑定后再导入；不要直接删除旧卷。原本使用 `./library` 的站点继续沿用即可。已有管理员数据请继续挂载原来的 `./data`。
 
 反向代理后的 HTTPS 部署请在 `.env` 中设置 `PUBLIC_ORIGIN=https://你的域名`、`COOKIE_SECURE=true`。默认端口仅监听宿主机回环地址。
 
@@ -92,13 +92,13 @@ docker compose -f docker-compose.yaml -f docker-compose.build.yaml up -d --build
 
 支持在 WSL2 中运行 Docker Engine 和 Compose。在项目目录内执行上面的 Compose 命令即可。
 
-不下载源码或初始素材时，也可直接运行镜像，并使用 Docker 命名卷自动填充初始素材：
+不下载源码或初始素材时，也可直接运行镜像，并在宿主机当前目录自动填充初始素材：
 
 ```sh
-docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v icon-svg-library:/app/library -v icon-svg-data:/app/data charley008/icon-svg:latest
+docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v "$(pwd)/library:/app/library" -v "$(pwd)/data:/app/data" charley008/icon-svg:latest
 ```
 
-这里使用 Docker 命名卷，首次创建素材卷时会复制镜像内的初始素材，后续更新镜像保留已有素材和账号数据。也可将完整源码或 ZIP 中的 `library` 目录绑定到 `/app/library`；不要用空目录覆盖镜像素材。`docker-compose.build.yaml` 提供可选的本地构建覆盖配置。
+首次启动时素材会复制到当前目录的 `library/`；后续更新镜像保留已有素材和账号数据。不要删除初始化标记文件（`.icon-svg-initialized`）。`docker-compose.build.yaml` 提供可选的本地构建覆盖配置。
 
 
 ## 配置
