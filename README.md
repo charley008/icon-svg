@@ -62,12 +62,13 @@ icon-svg/
 ## Docker Compose
 
 ```sh
-docker compose up -d --build
+docker compose pull
+docker compose up -d
 docker compose ps
 docker compose logs --tail 50 icon-svg
 ```
 
-使用 `build: .` 本地构建，不依赖自建镜像仓库。默认地址为 <http://127.0.0.1:8088/>，宿主机 `./library` 可写映射到 `/app/library`，`./data` 可写映射到 `/app/data`。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口仅调整 data 根目录归属，不递归修改素材目录。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
+默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。可在 `.env` 中设置 `IMAGE_TAG=1.0.0` 固定版本。默认地址为 <http://127.0.0.1:8088/>，宿主机 `./library` 可写映射到 `/app/library`，`./data` 可写映射到 `/app/data`。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口仅调整 data 根目录归属，不递归修改素材目录。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
 
 查看首次凭据：
 
@@ -75,17 +76,25 @@ docker compose logs --tail 50 icon-svg
 docker compose exec icon-svg cat /app/data/initial-admin.txt
 ```
 
-更新代码后运行 `docker compose up -d --build`。`docker compose down` 保留宿主机的 `./data`。更新时保留 `library` 和 `data`；素材变动在扫描后生效，不需重新初始化数据库。
+更新镜像时运行 `docker compose pull`，再执行 `docker compose up -d`。`docker compose down` 保留宿主机的 `./data`。更新时保留 `library` 和 `data`；素材变动在扫描后生效，不需重新初始化数据库。
+
+首次使用此 Compose 配置，请使用包含 `library/` 的完整源码或 Windows ZIP，将 Compose 文件放在 `library/` 所在目录；空的宿主目录会遮住镜像内的初始素材。已有 `library` 和 `data` 请保留。
+
+如需自行从源码构建：
+
+```sh
+docker compose -f docker-compose.yaml -f docker-compose.build.yaml up -d --build
+```
 
 支持在 WSL2 中运行 Docker Engine 和 Compose。在项目目录内执行上面的 Compose 命令即可。
 
-也可使用 Docker Hub 发布的镜像（将 `YOUR_DOCKERHUB_USERNAME` 替换为发布者的用户名）：
+不下载源码或初始素材时，也可直接运行镜像，并使用 Docker 命名卷自动填充初始素材：
 
 ```sh
-docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v icon-svg-library:/app/library -v icon-svg-data:/app/data YOUR_DOCKERHUB_USERNAME/icon-svg:1.0.0
+docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v icon-svg-library:/app/library -v icon-svg-data:/app/data charley008/icon-svg:latest
 ```
 
-这里使用 Docker 命名卷，首次创建素材卷时会复制镜像内的初始素材，后续更新镜像保留已有素材和账号数据。也可将完整源码或 ZIP 中的 `library` 目录绑定到 `/app/library`；不要用空目录覆盖镜像素材。原 `docker-compose.yaml` 继续支持 `build: .` 本地构建。
+这里使用 Docker 命名卷，首次创建素材卷时会复制镜像内的初始素材，后续更新镜像保留已有素材和账号数据。也可将完整源码或 ZIP 中的 `library` 目录绑定到 `/app/library`；不要用空目录覆盖镜像素材。`docker-compose.build.yaml` 提供可选的本地构建覆盖配置。
 
 
 ## 配置
@@ -98,6 +107,7 @@ docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v
 | `DATA_DIR` | 数据目录，可选绝对路径 |
 | `OPEN_BROWSER` | 是否自动打开浏览器 |
 | `ADMIN_USERNAME` / `ADMIN_PASSWORD` | 仅创建第一个管理员时使用；密码为空则自动生成 |
+| `IMAGE_TAG` | Docker Hub 镜像版本，默认 `latest`，也可固定为 `1.0.0` |
 | `BIND_ADDRESS` / `PORT` | Compose 宿主机地址和端口 |
 | `PUBLIC_ORIGIN` | 反向代理后的完整外部地址 |
 | `COOKIE_SECURE` | HTTPS 部署设为 `true` |

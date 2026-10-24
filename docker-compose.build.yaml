@@ -1,0 +1,6 @@
+# Optional override for building from source:
+# docker compose -f docker-compose.yaml -f docker-compose.build.yaml up -d --build
+services:
+  icon-svg:
+    build: .
+    pull_policy: build
