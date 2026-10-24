@@ -2,19 +2,21 @@ name: icon-svg
 services:
   icon-svg:
     image: charley008/icon-svg:${IMAGE_TAG:-latest}
-    restart: unless-stopped
+    container_name: icon-svg
+    restart: always
     ports:
-      - "${BIND_ADDRESS:-127.0.0.1}:${PORT:-8088}:8000"
+      - "${BIND_ADDRESS:-127.0.0.1}:${PORT:-1089}:8000"
     environment:
       ADMIN_USERNAME: ${ADMIN_USERNAME:-admin}
       ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
       PUBLIC_ORIGIN: ${PUBLIC_ORIGIN:-}
       PUID: ${PUID:-}
       PGID: ${PGID:-}
-      SCAN_INTERVAL: ${SCAN_INTERVAL:-5m}
+      SCAN_INTERVAL: ${SCAN_INTERVAL:-60m}
       COOKIE_SECURE: ${COOKIE_SECURE:-false}
     volumes:
-      - ./library:/app/library
+      # Docker copies the image library into this volume on first creation.
+      - icon-svg-library:/app/library
       - ./data:/app/data
     read_only: true
     tmpfs:
@@ -32,3 +34,7 @@ services:
       options:
         max-size: "10m"
         max-file: "3"
+
+volumes:
+  icon-svg-library:
+    name: icon-svg-library

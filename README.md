@@ -68,7 +68,7 @@ docker compose ps
 docker compose logs --tail 50 icon-svg
 ```
 
-默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。可在 `.env` 中设置 `IMAGE_TAG=1.0.0` 固定版本。默认地址为 <http://127.0.0.1:8088/>，宿主机 `./library` 可写映射到 `/app/library`，`./data` 可写映射到 `/app/data`。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口仅调整 data 根目录归属，不递归修改素材目录。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
+默认拉取 [charley008/icon-svg](https://hub.docker.com/r/charley008/icon-svg) 的 `latest` 镜像，无需本地编译。可在 `.env` 中设置 `IMAGE_TAG=1.0.0` 固定版本。Compose 默认地址为 <http://127.0.0.1:1089/>。素材使用名为 `icon-svg-library` 的 Docker 命名卷挂载到 `/app/library`，首次创建时自动复制镜像中的初始素材；账号与运行数据仍通过宿主机 `./data` 挂载到 `/app/data`。容器名为 `icon-svg`，重启策略为 `always`，Compose 默认每 60 分钟扫描素材。服务以非 root 用户运行，默认使用 library 挂载目录所有者的 UID/GID（UID 为 0 时使用 10001）；也可设置 `PUID` / `PGID`。请确保该用户对素材目录有读写权限。入口仅调整 data 根目录归属，不递归修改素材目录。模板和静态文件位于镜像内的 `/app/web`；如需直接维护，也可添加 `./web:/app/web:ro` 映射。
 
 查看首次凭据：
 
@@ -76,9 +76,13 @@ docker compose logs --tail 50 icon-svg
 docker compose exec icon-svg cat /app/data/initial-admin.txt
 ```
 
-更新镜像时运行 `docker compose pull`，再执行 `docker compose up -d`。`docker compose down` 保留宿主机的 `./data`。更新时保留 `library` 和 `data`；素材变动在扫描后生效，不需重新初始化数据库。
+更新镜像时运行 `docker compose pull`，再执行 `docker compose up -d`。`docker compose down` 保留素材卷及宿主机的 `./data`。不要执行 `docker compose down -v`，它会删除素材卷。更新时保留素材卷和 `data`；素材变动在扫描后生效，不需重新初始化数据库。
 
-首次使用此 Compose 配置，请使用包含 `library/` 的完整源码或 Windows ZIP，将 Compose 文件放在 `library/` 所在目录；空的宿主目录会遮住镜像内的初始素材。已有 `library` 和 `data` 请保留。
+首次部署只需 `docker-compose.yaml`，无需手动创建 `library` 或下载初始素材；Docker 会创建素材卷及 `./data`。再次启动或更新镜像会保留卷内已有素材，不会重新覆盖。
+
+**如果已经用 `./library:/app/library` 部署过，请继续使用原目录绑定**，或先从后台导出素材、改用命名卷后再导入；直接切换为新卷不会自动迁移旧目录。已有管理员数据请继续挂载原来的 `./data`。后台提供素材导出和完整备份。
+
+反向代理后的 HTTPS 部署请在 `.env` 中设置 `PUBLIC_ORIGIN=https://你的域名`、`COOKIE_SECURE=true`。默认端口仅监听宿主机回环地址。
 
 如需自行从源码构建：
 
