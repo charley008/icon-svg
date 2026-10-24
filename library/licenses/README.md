@@ -36,3 +36,11 @@
 - Source: https://github.com/homarr-labs/dashboard-icons
 - License: Apache-2.0. Full text: [dashboard-icons-Apache-2.0.txt](dashboard-icons-Apache-2.0.txt).
 - Individual SVG source URLs and original filenames are retained in each icon metadata entry. Editor metadata and non-rendering CSS comments removed from seven SVGs; vector artwork preserved; trademark rights remain with the respective owners.
+
+## Debian Open Use Logo
+
+- File: `library/debian/debian.svg`
+- Source: https://www.debian.org/logos/openlogo-nd.svg ; https://www.debian.org/logos/
+- Author: Raul Silva. Copyright (c) 1999 Software in the Public Interest, Inc.
+- License selected from official dual licensing: CC-BY-SA-3.0, https://creativecommons.org/licenses/by-sa/3.0/ . Trademark rights remain with their owner.
+- Modification: removed Adobe editor metadata/attributes; vector artwork and original red color preserved.

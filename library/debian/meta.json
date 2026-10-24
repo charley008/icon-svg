@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "title": "Debian",
+  "url": "https://www.debian.org/",
+  "domains": [
+    "debian.org"
+  ],
+  "description": "社区维护的自由 Linux 操作系统发行版。",
+  "category": "系统工具",
+  "tags": [
+    "Linux",
+    "操作系统",
+    "发行版",
+    "服务器",
+    "开源"
+  ],
+  "aliases": [
+    "debian",
+    "Debian GNU/Linux",
+    "蝶变"
+  ],
+  "notes": [
+    "官方 Open Use 红色旋涡标志；清除 Illustrator 编辑器元数据，图形与配色保持不变。"
+  ],
+  "icons": [
+    {
+      "file": "debian.svg",
+      "version": 0,
+      "label": "官方红色旋涡",
+      "is_default": true,
+      "sha256": "b41a16e4dae6ceed6e6e715cb65cc11135881c0f641008aa4c29411a76ecd9bc",
+      "bytes": 4990,
+      "source": "https://www.debian.org/logos/openlogo-nd.svg",
+      "license": "CC-BY-SA-3.0；商标权归相应权利人",
+      "method": "downloaded-svg-cleaned",
+      "collection": "Debian 官方标志",
+      "provenance": {
+        "original_file": "openlogo-nd.svg",
+        "author": "Raul Silva",
+        "copyright": "Copyright (c) 1999 Software in the Public Interest, Inc.",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source_page": "https://www.debian.org/logos/",
+        "processing": "Removed non-rendering Adobe editor metadata and attributes; vector geometry and original #A80030 color preserved."
+      }
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}
