@@ -42,7 +42,7 @@ icon-svg/
 .\bin\icon-svg.exe
 ```
 
-编译后也可直接双击 `bin/icon-svg.exe`，默认打开 <http://127.0.0.1:8088/>，后台地址 `/admin`。保持控制台窗口运行，按 Ctrl+C 退出。
+编译后也可直接双击 `bin/icon-svg.exe`，默认打开 <http://127.0.0.1:8000/>，后台地址 `/admin`。保持控制台窗口运行，按 Ctrl+C 退出。
 
 首次生成的管理员凭据位于 `data/initial-admin.txt`，用户名与密码各占一行。修改密码后该文件会删除。密码最少 8 位，不预设通用密码。
 
@@ -95,7 +95,7 @@ docker compose -f docker-compose.yaml -f docker-compose.build.yaml up -d --build
 不下载源码或初始素材时，也可直接运行镜像，并在宿主机当前目录自动填充初始素材：
 
 ```sh
-docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v "$(pwd)/library:/app/library" -v "$(pwd)/data:/app/data" charley008/icon-svg:latest
+docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:1089:8000 -v "$(pwd)/library:/app/library" -v "$(pwd)/data:/app/data" charley008/icon-svg:latest
 ```
 
 首次启动时素材会复制到当前目录的 `library/`；后续更新镜像保留已有素材和账号数据。不要删除初始化标记文件（`.icon-svg-initialized`）。`docker-compose.build.yaml` 提供可选的本地构建覆盖配置。
@@ -107,7 +107,7 @@ docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v
 
 | 配置 | 用途 |
 | --- | --- |
-| `LISTEN_ADDR` | 本地程序监听地址，默认 `127.0.0.1:8088` |
+| `LISTEN_ADDR` | 本地程序监听地址，默认 `127.0.0.1:8000` |
 | `DATA_DIR` | 数据目录，可选绝对路径 |
 | `OPEN_BROWSER` | 是否自动打开浏览器 |
 | `ADMIN_USERNAME` / `ADMIN_PASSWORD` | 仅创建第一个管理员时使用；密码为空则自动生成 |

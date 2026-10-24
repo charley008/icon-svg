@@ -74,7 +74,7 @@ func Run(version string) error {
 	if err := loadEnv(filepath.Join(base, ".env")); err != nil {
 		return err
 	}
-	address := flag.String("listen", env("LISTEN_ADDR", "127.0.0.1:8088"), "监听地址")
+	address := flag.String("listen", env("LISTEN_ADDR", "127.0.0.1:8000"), "监听地址")
 	data := flag.String("data", env("DATA_DIR", filepath.Join(base, "data")), "数据目录")
 	libraryPath := flag.String("library", env("LIBRARY_DIR", filepath.Join(base, "library")), "素材库目录")
 	scanEvery, e := time.ParseDuration(env("SCAN_INTERVAL", "5m"))

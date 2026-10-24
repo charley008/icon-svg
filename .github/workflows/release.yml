@@ -98,7 +98,7 @@ jobs:
           $notes = @"
           Windows x64：下载 icon-svg-$version-windows-amd64.zip，完整解压到可写目录后双击 icon-svg.exe。无需安装 Go、Python 或 Node.js。
 
-          解压目录包含 icon-svg.exe、library、web、data。程序从外部 library 扫描 SVG 并建立内存索引，从 web 读取模板和静态文件；操作日志和下载次数初始为空，账号凭据保存在 data/initial-admin.txt。默认地址 http://127.0.0.1:8088/。
+          解压目录包含 icon-svg.exe、library、web、data。程序从外部 library 扫描 SVG 并建立内存索引，从 web 读取模板和静态文件；操作日志和下载次数初始为空，账号凭据保存在 data/initial-admin.txt。默认地址 http://127.0.0.1:8000/。
 
           library 和 web 不内嵌进 EXE，请保留完整目录。SHA256SUMS.txt 提供 ZIP 校验值。Docker 支持 build 本地构建及 Docker Hub 镜像部署；镜像在 Windows 发布成功后推送，library、data 可持久化挂载。
           "@
