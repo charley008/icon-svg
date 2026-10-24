@@ -79,6 +79,15 @@ docker compose exec icon-svg cat /app/data/initial-admin.txt
 
 支持在 WSL2 中运行 Docker Engine 和 Compose。在项目目录内执行上面的 Compose 命令即可。
 
+也可使用 Docker Hub 发布的镜像（将 `YOUR_DOCKERHUB_USERNAME` 替换为发布者的用户名）：
+
+```sh
+docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:8088:8000 -v icon-svg-library:/app/library -v icon-svg-data:/app/data YOUR_DOCKERHUB_USERNAME/icon-svg:1.0.0
+```
+
+这里使用 Docker 命名卷，首次创建素材卷时会复制镜像内的初始素材，后续更新镜像保留已有素材和账号数据。也可将完整源码或 ZIP 中的 `library` 目录绑定到 `/app/library`；不要用空目录覆盖镜像素材。原 `docker-compose.yaml` 继续支持 `build: .` 本地构建。
+
+
 ## 配置
 
 详见 [.env.example](.env.example)。
@@ -117,7 +126,26 @@ docker compose exec icon-svg cat /app/data/initial-admin.txt
 
 ## 开发与检查
 
-GitHub Actions 对 `main` 和 Pull Request 自动执行测试、Docker 构建/启动以及 Windows 完整 ZIP 构建和目录式启动检查。推送与 `cmd/icon-svg/VERSION` 一致的标签（如 `v1.0.0`）后，全部检查通过才会自动发布 Release，包含完整 ZIP 和 SHA256 校验文件。Docker 仅验证本地构建，不推送 Docker Hub。
+GitHub Actions **仅在推送版本标签时运行**，普通提交、Pull Request 和网页编辑均不触发。标签采用 `v1.0.0` 格式，并须与 `cmd/icon-svg/VERSION` 一致。流程依次执行测试与 Docker 启动检查、Windows 完整 ZIP 构建和 Release 发布，最后推送 Docker Hub 镜像（`linux/amd64`、`linux/arm64`）。
+
+首次发布前，在 GitHub 仓库 **Settings → Secrets and variables → Actions → Secrets** 设置：
+
+| Secret | 内容 |
+| --- | --- |
+| `DOCKER_USERNAME` | Docker Hub 用户名 |
+| `DOCKER_PASSWORD` | Docker Hub Access Token，需有目标镜像仓库的读取和写入权限 |
+
+先在 Docker Hub 创建公开的 `icon-svg` 镜像仓库。默认推送到 `<DOCKER_USERNAME>/icon-svg`；如需其他名称，可在 GitHub Actions Variables 设置 `DOCKERHUB_REPOSITORY`（仅仓库名，不含用户名）。GitHub 源码仓库仍保持私有；公开镜像包含程序、网页和初始素材，不包含本地账号、日志或数据库。
+
+例如发布 `v1.0.0` 会生成镜像标签 `1.0.0` 和 `latest`，以及 GitHub Release 的 Windows ZIP 和 SHA256 校验文件。发布操作：
+
+```sh
+git tag v1.0.0
+git push origin main
+git push origin v1.0.0
+```
+
+后续发布先修改 `cmd/icon-svg/VERSION` 并提交，再推送对应的新标签。
 
 ```sh
 go test ./...
