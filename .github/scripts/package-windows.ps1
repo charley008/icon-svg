@@ -29,7 +29,7 @@ Get-ChildItem -LiteralPath $packageLibrary -File -Recurse -Force | Where-Object 
   if (-not $_.FullName.StartsWith($packageLibrary + [IO.Path]::DirectorySeparatorChar, [StringComparison]::OrdinalIgnoreCase)) { throw 'Unexpected packaging path' }
   Remove-Item -LiteralPath $_.FullName
 }
-Copy-Item README.md, THIRD_PARTY_NOTICES.txt -Destination $package
+Copy-Item README.md, LICENSE, THIRD_PARTY_NOTICES.txt -Destination $package
 New-Item -ItemType Directory -Path (Join-Path $package 'data') | Out-Null
 '首次启动会在这里自动生成数据库和管理员凭据。不要将真实数据库或凭据上传到 GitHub。' | Set-Content (Join-Path $package 'data/README.txt') -Encoding utf8
 Copy-Item -Path (Join-Path $package '*') -Destination $appDir -Recurse

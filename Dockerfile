@@ -15,7 +15,7 @@ COPY --from=build /icon-svg /app/icon-svg
 COPY web /app/web
 COPY --chown=10001:10001 library /app/library-seed
 RUN mkdir -p /app/library && chown app:app /app/library
-COPY THIRD_PARTY_NOTICES.txt /app/
+COPY LICENSE THIRD_PARTY_NOTICES.txt /app/
 COPY --chmod=755 docker-entrypoint.sh /app/docker-entrypoint.sh
 ENV LISTEN_ADDR=0.0.0.0:8000 DATA_DIR=/app/data LIBRARY_DIR=/app/library WEB_DIR=/app/web OPEN_BROWSER=false
 EXPOSE 8000

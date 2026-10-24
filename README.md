@@ -1,5 +1,7 @@
 # icon-svg
 
+本项目由 OpenAI Codex 开发。
+
 使用 Go 和 HTML 模板构建的图标库。`library/` 中的 SVG 和 `meta.json` 是素材的唯一来源；SQLite 仅作为内存查询索引，以及账号、日志、下载统计的持久化存储。页面与静态文件从外部 `web/` 读取。
 
 - 按分类或合集浏览，支持名称、别名、域名及标签检索。
@@ -264,52 +266,6 @@ library/
 3. 在后台设置中点击“扫描变更”，或等待定期扫描。已有图标组中新加的规范命名 SVG 会自动登记；新建合集仍需要先有 `meta.json`。
 4. 如扫描报错，检查 JSON、文件名和默认版本；扫描失败会保留上次可用索引。扫描时不要同时在后台编辑同一份资料。
 
-## 开发与检查
-
-GitHub Actions **仅在推送版本标签时运行**，普通提交、Pull Request 和网页编辑均不触发。标签采用 `v1.0.0` 格式，并须与 `cmd/icon-svg/VERSION` 一致。流程依次执行测试与 Docker 启动检查、Windows 完整 ZIP 构建和 Release 发布，最后推送 Docker Hub 镜像（`linux/amd64`、`linux/arm64`）。
-
-首次发布前，在 GitHub 仓库 **Settings → Secrets and variables → Actions → Secrets** 设置：
-
-| Secret | 内容 |
-| --- | --- |
-| `DOCKER_USERNAME` | Docker Hub 用户名 |
-| `DOCKER_PASSWORD` | Docker Hub Access Token，需有目标镜像仓库的读取和写入权限 |
-
-先在 Docker Hub 创建公开的 `icon-svg` 镜像仓库。默认推送到 `<DOCKER_USERNAME>/icon-svg`；如需其他名称，可在 GitHub Actions Variables 设置 `DOCKERHUB_REPOSITORY`（仅仓库名，不含用户名）。GitHub 源码仓库仍保持私有；公开镜像包含程序、网页和初始素材，不包含本地账号、日志或数据库。
-
-例如发布 `v1.0.0` 会生成镜像标签 `1.0.0` 和 `latest`，以及 GitHub Release 的 Windows ZIP 和 SHA256 校验文件。发布操作：
-
-```sh
-git tag v1.0.0
-git push origin main
-git push origin v1.0.0
-```
-
-后续发布先修改 `cmd/icon-svg/VERSION` 并提交，再推送对应的新标签。
-
-```sh
-go test ./...
-go vet ./...
-node --check web/static/site.js
-node --check web/static/theme.js
-```
-
-目录说明：
-
-```text
-cmd/icon-svg/        程序入口和版本号
-internal/app/        应用、素材库、存储和对应测试
-web/templates/       页面模板
-web/static/          CSS、JavaScript 和站点标识
-internal/svgstyle/   SVG 圆角处理
-library/<slug>/      SVG 及 meta.json
-library/licenses/    素材许可说明
-bin/                 编译产物，不提交
-data/                账号、日志、统计和首次凭据，不提交
-```
-
-图标、商标及素材许可见各 `meta.json` 和 [library/licenses](library/licenses/README.md)。第三方 Go 依赖许可见 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)。
-
 ## 文件写入安全
 
 合集及产品标识只允许小写 ASCII 字母、数字、单个点或连字符分隔；拒绝路径分隔符、绝对路径、Windows 设备名和保留目录名。上传文件名不作为落盘路径。
@@ -317,3 +273,11 @@ data/                账号、日志、统计和首次凭据，不提交
 所有素材操作通过 `os.Root` 限定在 library 内，扫描拒绝符号链接及特殊文件；写入使用随机排他临时文件、同步和原子替换，不截断目标文件。多文件保存使用恢复日志，进程中断后下次启动继续恢复。单个素材库使用操作系统文件锁，仅允许一个写入进程。
 
 library 是受信任管理员维护的素材目录，请勿让不可信本机用户对它具有写入权限。此功能不把任意宿主机文件路径暴露为网站参数。
+
+## 许可证与图标声明
+
+项目原创代码采用 [MIT License](LICENSE)。第三方依赖仍遵循其各自许可证，详见 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)。
+
+收录的图标、Logo 和商标归各自权利人所有，不因项目代码采用 MIT 而改变其授权范围。素材来源及许可见各 `meta.json` 和 [library/licenses](library/licenses/README.md)。
+
+如有图标涉及侵权，请联系[项目维护者](https://github.com/charley008)，我们会及时核实并删除。
