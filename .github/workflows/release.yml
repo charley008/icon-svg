@@ -83,7 +83,7 @@ jobs:
           RELEASE_TAG: ${{ github.ref_name }}
         run: |
           $ErrorActionPreference = 'Stop'
-          $version = (Get-Content VERSION -Raw).Trim()
+          $version = (Get-Content cmd/icon-svg/VERSION -Raw).Trim()
           if ($env:RELEASE_TAG -ne "v$version") { throw 'Tag must match VERSION' }
           $assets = @(Get-ChildItem dist/release -File | ForEach-Object FullName)
           $notes = @"

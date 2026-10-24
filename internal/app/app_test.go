@@ -1,4 +1,4 @@
-package main
+package app
 
 import (
 	"archive/zip"
@@ -86,12 +86,12 @@ func assertCode(t *testing.T, w *httptest.ResponseRecorder, want int) {
 	}
 }
 func TestFullLibraryLoadAndRestart(t *testing.T) {
-	a, h, dir, file := fileLibraryAppFrom(t, os.DirFS("library"))
+	a, h, dir, file := fileLibraryAppFrom(t, os.DirFS(filepath.Join("..", "..", "library")))
 	s := a.store
 	var e error
 	// Derive expectations from the shipped files so adding artwork does not break CI.
 	wantBrands, wantGroups, wantIcons, wantDefaults := 0, 0, 0, 0
-	entries, err := os.ReadDir("library")
+	entries, err := os.ReadDir(filepath.Join("..", "..", "library"))
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -99,7 +99,7 @@ func TestFullLibraryLoadAndRestart(t *testing.T) {
 		if !entry.IsDir() || strings.HasPrefix(entry.Name(), ".") {
 			continue
 		}
-		raw, err := os.ReadFile(filepath.Join("library", entry.Name(), "meta.json"))
+		raw, err := os.ReadFile(filepath.Join("..", "..", "library", entry.Name(), "meta.json"))
 		if os.IsNotExist(err) {
 			continue
 		}

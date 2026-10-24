@@ -1,4 +1,4 @@
-package main
+package app
 
 import (
 	"archive/zip"
@@ -62,7 +62,7 @@ func fileLibraryAppFrom(t *testing.T, source fs.FS) (*App, http.Handler, string,
 		t.Fatal(e)
 	}
 	t.Cleanup(s.close)
-	a, e := newApp(s, data, "", false, AppResources{Web: os.DirFS("web"), Library: libraryInput{s.library.root.FS()}, Root: os.DirFS(".")})
+	a, e := newApp(s, data, "", false, AppResources{Web: os.DirFS(filepath.Join("..", "..", "web")), Library: libraryInput{s.library.root.FS()}, Root: os.DirFS(filepath.Join("..", ".."))})
 	if e != nil {
 		t.Fatal(e)
 	}

@@ -1,4 +1,4 @@
-package main
+package app
 
 import (
 	"os"
@@ -25,7 +25,7 @@ func TestExternalWebResources(t *testing.T) {
 	if err := os.WriteFile(css, []byte("first external asset"), 0600); err != nil {
 		t.Fatal(err)
 	}
-	files := AppResources{Web: os.DirFS(web), Library: libraryInput{os.DirFS("library")}, Root: fstest.MapFS{"THIRD_PARTY_NOTICES.txt": {Data: []byte("external notice")}}}
+	files := AppResources{Web: os.DirFS(web), Library: libraryInput{os.DirFS(filepath.Join("..", "..", "library"))}, Root: fstest.MapFS{"THIRD_PARTY_NOTICES.txt": {Data: []byte("external notice")}}}
 	external, err := newApp(a.store, a.data, "", false, files)
 	if err != nil {
 		t.Fatal(err)

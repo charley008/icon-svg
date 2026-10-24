@@ -2,10 +2,9 @@ FROM golang:1.26.3-alpine AS build
 WORKDIR /src
 COPY go.mod go.sum ./
 RUN go mod download
-COPY *.go ./
+COPY cmd ./cmd
 COPY internal ./internal
-COPY VERSION ./
-RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /icon-svg .
+RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /icon-svg ./cmd/icon-svg
 
 FROM alpine:3.23
 RUN apk add --no-cache su-exec && addgroup -g 10001 app && adduser -D -u 10001 -G app app && mkdir -p /app/data && chown app:app /app/data

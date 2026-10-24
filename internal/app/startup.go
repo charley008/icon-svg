@@ -1,8 +1,7 @@
-package main
+package app
 
 import (
 	"context"
-	_ "embed"
 	"flag"
 	"fmt"
 	"log"
@@ -18,9 +17,6 @@ import (
 	"syscall"
 	"time"
 )
-
-//go:embed VERSION
-var appVersion string
 
 func env(key, fallback string) string {
 	if s, ok := os.LookupEnv(key); ok && s != "" {
@@ -53,17 +49,6 @@ func loadEnv(file string) error {
 	}
 	return nil
 }
-func main() {
-	if err := run(); err != nil {
-		log.Print(err)
-		if runtime.GOOS == "windows" {
-			fmt.Print("按 Enter 退出…")
-			fmt.Scanln()
-		}
-		os.Exit(1)
-	}
-}
-
 func applicationBase(executable, workingDir string) string {
 	if strings.Contains(executable, "go-build") {
 		return workingDir
@@ -75,7 +60,8 @@ func applicationBase(executable, workingDir string) string {
 	return base
 }
 
-func run() error {
+// Run starts the application using the command entry point version.
+func Run(version string) error {
 	workingDir, err := os.Getwd()
 	if err != nil {
 		return err
@@ -102,7 +88,7 @@ func run() error {
 	showVersion := flag.Bool("version", false, "显示版本号")
 	flag.Parse()
 	if *showVersion {
-		fmt.Println(strings.TrimSpace(appVersion))
+		fmt.Println(strings.TrimSpace(version))
 		return nil
 	}
 	if *health {

@@ -50,6 +50,8 @@ icon-svg/
 
 运行 `icon-svg.exe -version` 可查看版本号。
 
+开发时也可在项目根目录运行 `go run ./cmd/icon-svg`。版本号统一保存在 `cmd/icon-svg/VERSION`。
+
 可将 `.env.example` 复制为 `.env` 设置地址、端口等。环境变量优先，命令行参数可覆盖：
 
 ```powershell
@@ -115,7 +117,7 @@ docker compose exec icon-svg cat /app/data/initial-admin.txt
 
 ## 开发与检查
 
-GitHub Actions 对 `main` 和 Pull Request 自动执行测试、Docker 构建/启动以及 Windows 完整 ZIP 构建和目录式启动检查。推送与 `VERSION` 一致的标签（如 `v1.0.0`）后，全部检查通过才会自动发布 Release，包含完整 ZIP 和 SHA256 校验文件。Docker 仅验证本地构建，不推送 Docker Hub。
+GitHub Actions 对 `main` 和 Pull Request 自动执行测试、Docker 构建/启动以及 Windows 完整 ZIP 构建和目录式启动检查。推送与 `cmd/icon-svg/VERSION` 一致的标签（如 `v1.0.0`）后，全部检查通过才会自动发布 Release，包含完整 ZIP 和 SHA256 校验文件。Docker 仅验证本地构建，不推送 Docker Hub。
 
 ```sh
 go test ./...
@@ -127,7 +129,8 @@ node --check web/static/theme.js
 目录说明：
 
 ```text
-*.go                 服务、数据存储和测试
+cmd/icon-svg/        程序入口和版本号
+internal/app/        应用、素材库、存储和对应测试
 web/templates/       页面模板
 web/static/          CSS、JavaScript 和站点标识
 internal/svgstyle/   SVG 圆角处理

@@ -1,5 +1,5 @@
 $ErrorActionPreference = 'Stop'
-$version = (Get-Content (Join-Path $PSScriptRoot '../../VERSION') -Raw).Trim()
+$version = (Get-Content (Join-Path $PSScriptRoot '../../cmd/icon-svg/VERSION') -Raw).Trim()
 if ($version -notmatch '^\d+\.\d+\.\d+$') { throw 'Invalid VERSION' }
 Set-Location (Join-Path $PSScriptRoot '../..')
 $expectedIconCount = @(Get-ChildItem -LiteralPath library -File -Recurse -Filter '*.svg').Count
@@ -13,7 +13,7 @@ $exe = Join-Path $package 'icon-svg.exe'
 $env:CGO_ENABLED = '0'
 $env:GOOS = 'windows'
 $env:GOARCH = 'amd64'
-go build -trimpath -ldflags '-s -w' -o $exe .
+go build -trimpath -ldflags '-s -w' -o $exe ./cmd/icon-svg
 if ($LASTEXITCODE -ne 0) { throw 'Windows build failed' }
 if ((& $exe -version) -ne $version) { throw 'Unexpected executable version' }
 
