@@ -1,4 +1,7 @@
 {
+  "collection_id": 499,
+  "schema_version": 1,
+  "id": 667,
   "title": "Arm",
   "url": "https://www.arm.com/",
   "domains": [
@@ -21,23 +24,67 @@
   "notes": [],
   "icons": [
     {
-      "file": "arm.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "75199c6e88d3968bad08cf67857bd49501e0337cb6a793653f9523da63a7d045",
       "bytes": 1122,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arm.svg",
+      "collection": "Dashboard Icons",
+      "file": "arm.svg",
+      "id": 1628,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "arm.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "75199c6e88d3968bad08cf67857bd49501e0337cb6a793653f9523da63a7d045",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arm.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "products": [
+    {
+      "id": 3315,
+      "key": "aarch64",
+      "title": "AArch64",
+      "url": "https://en.wikipedia.org/wiki/AArch64",
+      "domains": [
+        "en.wikipedia.org"
+      ],
+      "description": "ARM 架构的 64 位指令集标志。",
+      "category": "设备硬件",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "AArch64",
+        "aarch64"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 11447,
+          "collection": "TechIcons / Devicon",
+          "file": "arm-aarch64-1.svg",
+          "id": 5077,
+          "is_default": true,
+          "label": "TechIcons · AArch64",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "AArch64.svg",
+            "original_sha256": "d27db74887c383c89fff513f49139c53f173eb0be2829556b2d7b1a4be25f1d7",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/aarch64",
+            "reference_website": "https://en.wikipedia.org/wiki/AArch64"
+          },
+          "sha256": "4f0cd07360dc3371ac73d02915c32479f233cdb9c9416280cf02ef0835a6fb76",
+          "source": "https://techicons.dev/icons/aarch64",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
 }

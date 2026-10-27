@@ -1,0 +1,40 @@
+{
+  "collection_id": 2837,
+  "schema_version": 1,
+  "id": 3064,
+  "title": "Tricentis Tosca",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tricentis-tosca"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 60176,
+      "collection": "Dashboard Icons",
+      "file": "tricentis-tosca.svg",
+      "id": 4731,
+      "is_default": true,
+      "label": "tricentis-tosca",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tricentis-tosca.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "23934dc0f53a185972701e9df1e2c2ff54e5dd4f2569900b283b67edd79278e9"
+      },
+      "sha256": "9199d8f4dcfed0765dfa5ed44c3df2385359d9a8f7164b2d91a0e755e535a9e6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tricentis-tosca.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

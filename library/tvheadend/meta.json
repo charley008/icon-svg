@@ -1,0 +1,40 @@
+{
+  "collection_id": 2854,
+  "schema_version": 1,
+  "id": 3081,
+  "title": "Tvheadend",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tvheadend"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 708,
+      "collection": "Dashboard Icons",
+      "file": "tvheadend.svg",
+      "id": 4752,
+      "is_default": true,
+      "label": "tvheadend",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tvheadend.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab0b247efaa4497fe0c0637d3b342e0a3adc2017a91086fce2b05168d099a210"
+      },
+      "sha256": "89e071da49523cccf6ab0009bce3adebf273d944bfe97f51fbbe23a0cd35e744",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tvheadend.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

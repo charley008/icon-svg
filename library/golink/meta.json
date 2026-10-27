@@ -1,0 +1,59 @@
+{
+  "collection_id": 1384,
+  "schema_version": 1,
+  "id": 1611,
+  "title": "Golink",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "golink"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2395,
+      "collection": "Dashboard Icons",
+      "file": "golink.svg",
+      "id": 2797,
+      "is_default": true,
+      "label": "golink",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "golink.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "46083e0fd3b72f2fc9691dfc230ec793d158f65122c3a0c07d79d3e5b4794999"
+      },
+      "sha256": "7ce85f576f5185df34d6dc5168a74d8bcb33353fa395dfcb4c4af8225291c247",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/golink.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2395,
+      "collection": "Dashboard Icons",
+      "file": "golink-1.svg",
+      "id": 2798,
+      "is_default": false,
+      "label": "golink-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "golink-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2bf07b6162f2bbbf5cc62d39d8ae3bf469d950d775921005c6d035176101a2d"
+      },
+      "sha256": "62195081769993f57ec32f869d86e52d4d0737e8e47f21a83c74727b191dcd32",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/golink-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2870,
+  "schema_version": 1,
+  "id": 3097,
+  "title": "Ugreen",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ugreen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1322,
+      "collection": "Dashboard Icons",
+      "file": "ugreen.svg",
+      "id": 4775,
+      "is_default": true,
+      "label": "ugreen",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ugreen.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "244c3ade2e68a41668c92fe9e6c5f8b09fd2bd1ab4805401f8249ccdda732897"
+      },
+      "sha256": "8ceaecb33207b28eef4b804c72847d3da083f4f58b801a965e968cd9f6647c06",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ugreen.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

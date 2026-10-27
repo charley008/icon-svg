@@ -1,0 +1,59 @@
+{
+  "collection_id": 2196,
+  "schema_version": 1,
+  "id": 2423,
+  "title": "Postiz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "postiz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2370,
+      "collection": "Dashboard Icons",
+      "file": "postiz.svg",
+      "id": 3908,
+      "is_default": true,
+      "label": "postiz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postiz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "57123c87abbcf7159eaba923b4bd3e17ad33859fcb2e138cd2e6984c84715327"
+      },
+      "sha256": "5b61c75f7c514cd01a2d4685ec13a44eebe7e43899ac74b846170a1141e22eb8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postiz.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2364,
+      "collection": "Dashboard Icons",
+      "file": "postiz-1.svg",
+      "id": 3909,
+      "is_default": false,
+      "label": "postiz-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postiz-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5dad92883ae68da40a2dd45029a4522250ee5674512647f5c8c80190df782ba6"
+      },
+      "sha256": "c1961c989a73d64b75facb5303dfaaf57d8fc6898e1a637ea9239dd4c12e2f7f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postiz-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

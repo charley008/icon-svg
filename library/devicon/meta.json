@@ -1,0 +1,45 @@
+{
+  "collection_id": 3110,
+  "schema_version": 1,
+  "id": 3350,
+  "title": "Devicon",
+  "url": "https://devicon.dev",
+  "domains": [
+    "devicon.dev"
+  ],
+  "description": "开发技术、语言和工具的图标集合。",
+  "category": "设计素材",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Devicon",
+    "devicon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 771,
+      "collection": "TechIcons / Devicon",
+      "file": "devicon-1.svg",
+      "id": 5127,
+      "is_default": true,
+      "label": "TechIcons · Devicon",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Devicon.svg",
+        "original_sha256": "6113100b387e98b064118e55d72913e0df711f9a2586c6035824fd055fcc5583",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/devicon",
+        "reference_website": "https://devicon.dev"
+      },
+      "sha256": "d25bc8595cd6d8371813c707522fb018e788dc63fa5d2265acd4e733e54f4edf",
+      "source": "https://techicons.dev/icons/devicon",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

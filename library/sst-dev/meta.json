@@ -1,0 +1,60 @@
+{
+  "collection_id": 2686,
+  "schema_version": 1,
+  "id": 2913,
+  "title": "Sst Dev",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "sst-dev"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3870,
+      "collection": "Dashboard Icons",
+      "file": "sst-dev.svg",
+      "id": 4540,
+      "is_default": true,
+      "label": "sst-dev",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sst-dev.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "540a5fe483f2dd5f81e41ae7d0f5225980d12afa11ec7cc768a00a5ace26ec25"
+      },
+      "sha256": "a4bca70248b318fd016acd3d13c9fed350bacf7d8750fbd942d36d9603a8d5f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sst-dev.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3870,
+      "collection": "Dashboard Icons",
+      "file": "sst-dev-1.svg",
+      "id": 4541,
+      "is_default": false,
+      "label": "sst-dev-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sst-dev-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "519542a3bdf35531cb39b2110fff31c4e040ecc8d8e5448dfa523156adfecc30"
+      },
+      "sha256": "73af64415e538f5f1ff840048514a7ca26c5e67266968330c8921906d973a5de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sst-dev-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

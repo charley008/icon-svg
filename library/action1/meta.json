@@ -1,0 +1,42 @@
+{
+  "collection_id": 664,
+  "schema_version": 1,
+  "id": 891,
+  "title": "Action1",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "action1"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2521,
+      "collection": "Dashboard Icons",
+      "file": "action1.svg",
+      "id": 1852,
+      "is_default": true,
+      "label": "action1",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "action1.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36187ef1b78f6ccf6d180caed149abb6e2622b094e889359367c75097572fe38"
+      },
+      "sha256": "bb338da9a8a9e8bb9abfb1049f67ee74e5d65ca1a0976a90d2069c5faf84a5ed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/action1.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

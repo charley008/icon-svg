@@ -1,0 +1,40 @@
+{
+  "collection_id": 1304,
+  "schema_version": 1,
+  "id": 1531,
+  "title": "Fly Io",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fly-io"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6156,
+      "collection": "Dashboard Icons",
+      "file": "fly-io.svg",
+      "id": 2693,
+      "is_default": true,
+      "label": "fly-io",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fly-io.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5af460a45132ded99ae96c684a2cdb7170c9c8a29932489f866233cfd38d1ac5"
+      },
+      "sha256": "05004b4b9aa4d5525d2422e0a69bd01c111402693fa393e338902b45b5bb52f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fly-io.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

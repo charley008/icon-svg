@@ -1,0 +1,40 @@
+{
+  "collection_id": 2181,
+  "schema_version": 1,
+  "id": 2408,
+  "title": "Poly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "poly"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1627,
+      "collection": "Dashboard Icons",
+      "file": "poly.svg",
+      "id": 3883,
+      "is_default": true,
+      "label": "poly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1fd3b20fb74c89d1a2a61c11df168d1cde1b2f491097e0808b38f00c14a5f6a8"
+      },
+      "sha256": "5f22b3f4136154ce196dd902770fef77d6656e7cb12342c7008166f3fe04b450",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/poly.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

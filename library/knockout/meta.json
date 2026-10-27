@@ -1,0 +1,45 @@
+{
+  "collection_id": 3159,
+  "schema_version": 1,
+  "id": 3416,
+  "title": "Knockout",
+  "url": "https://knockoutjs.com",
+  "domains": [
+    "knockoutjs.com"
+  ],
+  "description": "用于构建交互界面的 JavaScript 库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Knockout",
+    "knockout"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13710,
+      "collection": "TechIcons / Devicon",
+      "file": "knockout-1.svg",
+      "id": 5241,
+      "is_default": true,
+      "label": "TechIcons · Knockout",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Knockout.svg",
+        "original_sha256": "e7f4adff282937da84724b62e71b42da5f6c13847fb0d77716511a44a28af73b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/knockout",
+        "reference_website": "https://knockoutjs.com"
+      },
+      "sha256": "92d6144311372b5df043ec3de5ad8f91022fb125b4c0375970c8e538581f73e6",
+      "source": "https://techicons.dev/icons/knockout",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

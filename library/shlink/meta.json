@@ -1,0 +1,40 @@
+{
+  "collection_id": 2606,
+  "schema_version": 1,
+  "id": 2833,
+  "title": "Shlink",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shlink"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1556,
+      "collection": "Dashboard Icons",
+      "file": "shlink.svg",
+      "id": 4443,
+      "is_default": true,
+      "label": "shlink",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shlink.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a682dcad6f73335bbaa59ec7377f43cd4718c2261ac9af1e784c614343ed384d"
+      },
+      "sha256": "9777d4b60804f7e266a9b78dbbd9e6ab97228dda297c4e52934e57810254b34d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shlink.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

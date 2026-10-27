@@ -1,0 +1,40 @@
+{
+  "collection_id": 2534,
+  "schema_version": 1,
+  "id": 2761,
+  "title": "Runonflux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "runonflux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 775,
+      "collection": "Dashboard Icons",
+      "file": "runonflux.svg",
+      "id": 4342,
+      "is_default": true,
+      "label": "runonflux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "runonflux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a99d98fd5c8357dfdc0e93fb215eaa08f6e72b0794a7d30c7de00d60f6d67ad"
+      },
+      "sha256": "56676e94acf24d02c87f158921730b5c8d01d12e613a6bb779f0cf72b4acf45b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/runonflux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

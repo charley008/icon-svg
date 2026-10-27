@@ -1,0 +1,40 @@
+{
+  "collection_id": 1614,
+  "schema_version": 1,
+  "id": 1841,
+  "title": "Kanidm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kanidm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14728,
+      "collection": "Dashboard Icons",
+      "file": "kanidm.svg",
+      "id": 3109,
+      "is_default": true,
+      "label": "kanidm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kanidm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95cb0e6fe871f6c53b33a14ec7ff1a3d268cc58c56de7f30e1a1c395a31ef798"
+      },
+      "sha256": "49ab279124d1878e6428d4a12530a25a014280465fdc02e48a25fea48500e6ff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kanidm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

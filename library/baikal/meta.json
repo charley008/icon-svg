@@ -1,0 +1,44 @@
+{
+  "collection_id": 840,
+  "schema_version": 1,
+  "id": 1067,
+  "title": "Baikal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Server-Panels",
+    "File-Sharing-\u0026-Sync",
+    "网络工具"
+  ],
+  "aliases": [
+    "baikal",
+    "CalDAV Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13557,
+      "collection": "Dashboard Icons",
+      "file": "baikal.svg",
+      "id": 2079,
+      "is_default": true,
+      "label": "baikal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baikal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0ae49136b8da0163b1f9a8dd657b0982213964e180ba851ccd91fed4122cf269"
+      },
+      "sha256": "dc689adcee24d1311989e3b6361447a0dca0ad6f72e91e45c65a1a6fbc8dc240",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/baikal.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

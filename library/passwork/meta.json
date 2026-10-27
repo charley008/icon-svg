@@ -1,0 +1,44 @@
+{
+  "collection_id": 2101,
+  "schema_version": 1,
+  "id": 2328,
+  "title": "Passwork",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Password-Managers",
+    "Security",
+    "系统工具"
+  ],
+  "aliases": [
+    "passwork",
+    "Password Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1189,
+      "collection": "Dashboard Icons",
+      "file": "passwork.svg",
+      "id": 3767,
+      "is_default": true,
+      "label": "passwork",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "passwork.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef713131a02746fbbcd99a61f33fb4a5fb37945a1d0d9460ac6ff1e3121e64fb"
+      },
+      "sha256": "8066a9428cbcb20dd7975916a1d621f2381d030a409458e61aab060ee79d8eb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/passwork.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

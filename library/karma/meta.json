@@ -1,0 +1,45 @@
+{
+  "collection_id": 3156,
+  "schema_version": 1,
+  "id": 3413,
+  "title": "Karma",
+  "url": "https://karma-runner.github.io/latest/index.html",
+  "domains": [
+    "karma-runner.github.io"
+  ],
+  "description": "用于运行 JavaScript 测试的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Karma",
+    "karma"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 465,
+      "collection": "TechIcons / Devicon",
+      "file": "karma-1.svg",
+      "id": 5238,
+      "is_default": true,
+      "label": "TechIcons · Karma",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Karma.svg",
+        "original_sha256": "0d0430e122c5699a5378fb940f69e64c6e7137074c9861b931fbcad8a479af31",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/karma",
+        "reference_website": "https://karma-runner.github.io/latest/index.html"
+      },
+      "sha256": "61bffbf140435cfa3ded4ace314c3571f50cb18bf22c236ed1cdfbd75440178a",
+      "source": "https://techicons.dev/icons/karma",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

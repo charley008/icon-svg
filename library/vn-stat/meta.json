@@ -1,0 +1,41 @@
+{
+  "collection_id": 2929,
+  "schema_version": 1,
+  "id": 3156,
+  "title": "Vn Stat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Logistics"
+  ],
+  "aliases": [
+    "vn-stat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 542,
+      "collection": "Dashboard Icons",
+      "file": "vn-stat.svg",
+      "id": 4854,
+      "is_default": true,
+      "label": "vn-stat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vn-stat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8a56505251e75c5fdf3b6c42379b34d11eecc42ec63939f8de8351239940745"
+      },
+      "sha256": "f7e1220a5046bdc0225a2125f7dca3ce7fbdeadd3d1ef8fede24d87483debc76",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vn-stat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

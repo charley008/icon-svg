@@ -1,0 +1,40 @@
+{
+  "collection_id": 891,
+  "schema_version": 1,
+  "id": 1118,
+  "title": "Booklore Wordmark Light",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "booklore-wordmark-light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6471,
+      "collection": "Dashboard Icons",
+      "file": "booklore-wordmark-light.svg",
+      "id": 2152,
+      "is_default": true,
+      "label": "booklore-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booklore-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cccb02acc21a85146a202e10403f025bbe7a1a56a1b59e92212abdcdffa2ed36"
+      },
+      "sha256": "71ef3fe7149a74d60e73f505f5526762b626aaf6d846da2a2611a9f605e07b54",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/booklore-wordmark-light.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

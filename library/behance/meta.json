@@ -1,0 +1,60 @@
+{
+  "collection_id": 861,
+  "schema_version": 1,
+  "id": 1088,
+  "title": "Behance",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "behance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2210,
+      "collection": "Dashboard Icons",
+      "file": "behance.svg",
+      "id": 2110,
+      "is_default": true,
+      "label": "behance",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "behance.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec789225ffe42ff1aa11b7bbf15a1dc08fa2507c142271babcf40ad34c59c64e"
+      },
+      "sha256": "5804afb12c686f5f4ec8e490c88650307de105556baf3f3ade98a47816c617cb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/behance.svg",
+      "version": 0
+    },
+    {
+      "bytes": 967,
+      "collection": "TechIcons / Devicon",
+      "file": "behance-1.svg",
+      "id": 5091,
+      "is_default": false,
+      "label": "TechIcons · Behance",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Behance.svg",
+        "original_sha256": "39f5e939a3924f32c22adac4b7a15b0b06002060fcd325eaa0af13f84c5a0992",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/behance",
+        "reference_website": "https://www.behance.net"
+      },
+      "sha256": "02494052ef7fa46a07f27cb6a6741df9e8f3d7d664aca256821511b5f24dc02f",
+      "source": "https://techicons.dev/icons/behance",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 672,
+  "schema_version": 1,
+  "id": 899,
+  "title": "Agent Of Empires",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "agent-of-empires"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1811,
+      "collection": "Dashboard Icons",
+      "file": "agent-of-empires.svg",
+      "id": 1861,
+      "is_default": true,
+      "label": "agent-of-empires",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "agent-of-empires.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "388a062b2e0326c36633efc768161f7488de32da60b0fd7a8860916e8764ae26"
+      },
+      "sha256": "f8e6c7452e627ae1f732d753195866dff004d012a0f90bc58bcca09dfdbf5e0f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/agent-of-empires.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

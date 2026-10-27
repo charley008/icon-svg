@@ -1,0 +1,45 @@
+{
+  "collection_id": 3197,
+  "schema_version": 1,
+  "id": 3459,
+  "title": "OpenTelemetry",
+  "url": "https://opentelemetry.io",
+  "domains": [
+    "opentelemetry.io"
+  ],
+  "description": "用于采集和处理应用遥测数据的工具与规范。",
+  "category": "网络工具",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "OpenTelemetry",
+    "opentelemetry"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1263,
+      "collection": "TechIcons / Devicon",
+      "file": "opentelemetry-1.svg",
+      "id": 5302,
+      "is_default": true,
+      "label": "TechIcons · OpenTelemetry",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OpenTelemetry.svg",
+        "original_sha256": "4a610f674b648395f6460d3648d995e114cf34ad58004c01b9380c1deb7a19cd",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/opentelemetry",
+        "reference_website": "https://opentelemetry.io"
+      },
+      "sha256": "a799ae2964e690f0499efdc0fde46d4daf66c73fdee985a83c7528e4ef36eb7d",
+      "source": "https://techicons.dev/icons/opentelemetry",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 756,
+  "schema_version": 1,
+  "id": 983,
+  "title": "Artifactory",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "artifactory"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 396,
+      "collection": "Dashboard Icons",
+      "file": "artifactory.svg",
+      "id": 1974,
+      "is_default": true,
+      "label": "artifactory",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "artifactory.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b94b1e70371d018f417881d5f516435325d0746607acb29a843deb50c27d2f61"
+      },
+      "sha256": "4126c91b1b0cbdee0e40854032d030851d5ef026a0bb30153c8dc211b45d5734",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/artifactory.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,78 @@
+{
+  "collection_id": 2996,
+  "schema_version": 1,
+  "id": 3223,
+  "title": "Woorigi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "woorigi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14904,
+      "collection": "Dashboard Icons",
+      "file": "woorigi.svg",
+      "id": 4938,
+      "is_default": true,
+      "label": "woorigi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "woorigi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ae7f0fde66151fa027192eb4995022c30619afeda3e44dc1785cd80a2daf232"
+      },
+      "sha256": "0d23e1cea5ce1c271099fea0583006fa0e96b83a8dba9f1234e40bf2d052bffa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/woorigi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 14898,
+      "collection": "Dashboard Icons",
+      "file": "woorigi-1.svg",
+      "id": 4939,
+      "is_default": false,
+      "label": "woorigi-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "woorigi-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c9ec9a3bee00dfb456d360a95c015e121cfe17f58721c8d365479ba0d0d48522"
+      },
+      "sha256": "476b2b1c64e6abbc8686300b914cca55490bbd0b65d412f4bb9e574b7dc90037",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/woorigi-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 14898,
+      "collection": "Dashboard Icons",
+      "file": "woorigi-2.svg",
+      "id": 4940,
+      "is_default": false,
+      "label": "woorigi-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "woorigi-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a0fec0d29cb9ef7dd29db2c3a44f8ff7d6b6c3a7a8ce8fd24c1301dbe619036d"
+      },
+      "sha256": "7ca753693a59e1900bf64daef6c239ad9ae9d4ac9d51f8bb534e1dafb34b7b4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/woorigi-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

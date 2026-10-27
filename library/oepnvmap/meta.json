@@ -1,0 +1,40 @@
+{
+  "collection_id": 1995,
+  "schema_version": 1,
+  "id": 2222,
+  "title": "Oepnvmap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oepnvmap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5304,
+      "collection": "Dashboard Icons",
+      "file": "oepnvmap.svg",
+      "id": 3611,
+      "is_default": true,
+      "label": "oepnvmap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oepnvmap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "15f8485bed1c0854e9a8f88da1b4512ff7ac35d973730b9309aaa4fbaf96ab48"
+      },
+      "sha256": "f5b36333ff26b511572223c96ae2ddb09cabfe696c448297c401604df0c66ccb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oepnvmap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 2889,
+  "schema_version": 1,
+  "id": 3116,
+  "title": "Usermin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "usermin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5955,
+      "collection": "Dashboard Icons",
+      "file": "usermin.svg",
+      "id": 4799,
+      "is_default": true,
+      "label": "usermin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "usermin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "af2d5848d0a93a0e89b70532d6f5a096923eb7f8b5fff946b0e11f747b3fb3fd"
+      },
+      "sha256": "f305776d967b80e2a6282130de4f25289202ce222827448d5373f8b35cb4be8b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/usermin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 679,
+  "schema_version": 1,
+  "id": 906,
+  "title": "Airtel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "airtel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1376,
+      "collection": "Dashboard Icons",
+      "file": "airtel.svg",
+      "id": 1869,
+      "is_default": true,
+      "label": "airtel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airtel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63dbce0edbbfb6a2bf19867f905f804d6b2f4c1d4087698630896f631ee5b56f"
+      },
+      "sha256": "87f2608a35f6f939e81aed3dbccdba203a4745376a238a87a8fbe61a11ae2a90",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/airtel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

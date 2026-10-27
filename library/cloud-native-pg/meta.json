@@ -1,0 +1,59 @@
+{
+  "collection_id": 984,
+  "schema_version": 1,
+  "id": 1211,
+  "title": "Cloud Native Pg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cloud-native-pg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18515,
+      "collection": "Dashboard Icons",
+      "file": "cloud-native-pg.svg",
+      "id": 2268,
+      "is_default": true,
+      "label": "cloud-native-pg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloud-native-pg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e3e9f4d6c042aced03f5992eb3cf4675d21a4d6bd0a623e8170a606ae652ac79"
+      },
+      "sha256": "bc062da69f26fd5d1e11bfce3062040270aee57b83f41e93252f7133bc3afd8b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloud-native-pg.svg",
+      "version": 0
+    },
+    {
+      "bytes": 17382,
+      "collection": "Dashboard Icons",
+      "file": "cloud-native-pg-1.svg",
+      "id": 2269,
+      "is_default": false,
+      "label": "cloud-native-pg-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloud-native-pg-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "130b9b6dc81133e04863b135b9a4232e1122fb2a3f413f90da35acd6b76ab79e"
+      },
+      "sha256": "7bd5fbc8f1dd7254794b69f3a437c70de672585afe3ff7034ba065c3386396df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloud-native-pg-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

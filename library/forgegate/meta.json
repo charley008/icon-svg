@@ -1,0 +1,40 @@
+{
+  "collection_id": 1312,
+  "schema_version": 1,
+  "id": 1539,
+  "title": "Forgegate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "forgegate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 368,
+      "collection": "Dashboard Icons",
+      "file": "forgegate.svg",
+      "id": 2703,
+      "is_default": true,
+      "label": "forgegate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "forgegate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7620da3883a10b37668058aeafadcac37974635aab9c4ad1c6b9ae679a671f82"
+      },
+      "sha256": "0eb99c5fc16bfe78c9795f22b9ff53a25440fae06053b1365729812f46b21db8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/forgegate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

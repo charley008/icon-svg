@@ -1,0 +1,40 @@
+{
+  "collection_id": 2644,
+  "schema_version": 1,
+  "id": 2871,
+  "title": "Snowshare",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "snowshare"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8510,
+      "collection": "Dashboard Icons",
+      "file": "snowshare.svg",
+      "id": 4488,
+      "is_default": true,
+      "label": "snowshare",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snowshare.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a72d5ec1005c57b45fbf07c315dea6c87fbb522bfa48aa31fa5b84c63c365a98"
+      },
+      "sha256": "c16ee391085faa0d0ba373152564979633030230cb1303d82a0489286a550a84",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snowshare.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

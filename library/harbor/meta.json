@@ -1,0 +1,40 @@
+{
+  "collection_id": 1440,
+  "schema_version": 1,
+  "id": 1667,
+  "title": "Harbor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "harbor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6111,
+      "collection": "Dashboard Icons",
+      "file": "harbor.svg",
+      "id": 2877,
+      "is_default": true,
+      "label": "harbor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "harbor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "51ef5dd74fab4dfb67a37f8b1b91530952276edb5738f4c1615d6794f3f7727d"
+      },
+      "sha256": "806a76be44c7cb8596f1945911029f4ff0f56912546ad83de4ea3fdd3bae4889",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/harbor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

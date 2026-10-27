@@ -1,0 +1,40 @@
+{
+  "collection_id": 2015,
+  "schema_version": 1,
+  "id": 2242,
+  "title": "Open Central Control Unit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "open-central-control-unit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2778,
+      "collection": "Dashboard Icons",
+      "file": "open-central-control-unit.svg",
+      "id": 3645,
+      "is_default": true,
+      "label": "open-central-control-unit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-central-control-unit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "51b5ffa521c4a6eb781e3ee6517014d7aab105e346dbfa4f248294123eee01a4"
+      },
+      "sha256": "d3dfd5794d70696a919211354022da03b0a8ad15057b5f3f65a7298566d0e649",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-central-control-unit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

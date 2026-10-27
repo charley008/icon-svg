@@ -1,4 +1,7 @@
 {
+  "collection_id": 609,
+  "schema_version": 1,
+  "id": 834,
   "title": "Rocky Linux",
   "url": "https://rockylinux.org/",
   "domains": [
@@ -22,23 +25,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "rocky-linux.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "7242f159d85463681445f89d0153279355a650f19a77d1f6dc86ca63dee12797",
       "bytes": 438,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rocky-linux.svg",
+      "collection": "Dashboard Icons",
+      "file": "rocky-linux.svg",
+      "id": 1791,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "rocky-linux.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "7242f159d85463681445f89d0153279355a650f19a77d1f6dc86ca63dee12797",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rocky-linux.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

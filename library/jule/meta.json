@@ -1,0 +1,45 @@
+{
+  "collection_id": 3151,
+  "schema_version": 1,
+  "id": 3408,
+  "title": "Jule",
+  "url": "https://github.com/julelang/jule",
+  "domains": [
+    "github.com"
+  ],
+  "description": "Jule 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Jule",
+    "jule"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 822,
+      "collection": "TechIcons / Devicon",
+      "file": "jule-1.svg",
+      "id": 5230,
+      "is_default": true,
+      "label": "TechIcons · Jule",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Jule.svg",
+        "original_sha256": "107f7f740a716d179385021d838669a9a31bf61a9494a0476f7303f8a2e6f366",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jule",
+        "reference_website": "https://github.com/julelang/jule"
+      },
+      "sha256": "e55294917d24df5d3f012fefa2fa2413c59aa8e2fc65b0edf20648f399a7e2ba",
+      "source": "https://techicons.dev/icons/jule",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

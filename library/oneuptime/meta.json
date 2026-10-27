@@ -1,0 +1,59 @@
+{
+  "collection_id": 2009,
+  "schema_version": 1,
+  "id": 2236,
+  "title": "Oneuptime",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oneuptime"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1906,
+      "collection": "Dashboard Icons",
+      "file": "oneuptime.svg",
+      "id": 3634,
+      "is_default": true,
+      "label": "oneuptime",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oneuptime.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "662d3d089af903bb2241227c03b36678ade285b7be69449f312cedc365d2b6e4"
+      },
+      "sha256": "8f4846b637d3f099221862a5ed2177c793d1ccdeab63804f1d273986c9376497",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oneuptime.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1903,
+      "collection": "Dashboard Icons",
+      "file": "oneuptime-1.svg",
+      "id": 3635,
+      "is_default": false,
+      "label": "oneuptime-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oneuptime-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d30e34ebfd037bf1f8c7060da64a7481b9a9c423b22dad5852d69ec1a7c9a2c"
+      },
+      "sha256": "738da1662f017386743db5df81ac493c795d98fdbbd881d8532bb0e3349ac580",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oneuptime-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

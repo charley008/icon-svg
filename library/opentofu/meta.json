@@ -1,0 +1,45 @@
+{
+  "collection_id": 2049,
+  "schema_version": 1,
+  "id": 2276,
+  "title": "Opentofu",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Cloud-Computing",
+    "开发编程"
+  ],
+  "aliases": [
+    "opentofu",
+    "terraform-fork",
+    "iac-tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1787,
+      "collection": "Dashboard Icons",
+      "file": "opentofu.svg",
+      "id": 3696,
+      "is_default": true,
+      "label": "opentofu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opentofu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "92da279b8b873dd0f06f71a033da245788ee33f77bbacefc344560502e03a9c1"
+      },
+      "sha256": "f9152e90123105bac653c57374a3ba22150b2e04df195805bc09d9eb773d6d65",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opentofu.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

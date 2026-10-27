@@ -1,0 +1,40 @@
+{
+  "collection_id": 2527,
+  "schema_version": 1,
+  "id": 2754,
+  "title": "Rss Translator",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rss-translator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1900,
+      "collection": "Dashboard Icons",
+      "file": "rss-translator.svg",
+      "id": 4335,
+      "is_default": true,
+      "label": "rss-translator",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rss-translator.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7ebd951c73626164aaf0472cf8c7a1d28a402ad75f778517197360e28048ee4e"
+      },
+      "sha256": "65d5713482338f2549fdcdfc3a09791b558ef622dcdb74de7a075056d8199711",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rss-translator.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

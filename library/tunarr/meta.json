@@ -1,0 +1,42 @@
+{
+  "collection_id": 2846,
+  "schema_version": 1,
+  "id": 3073,
+  "title": "Tunarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "tunarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1735,
+      "collection": "Dashboard Icons",
+      "file": "tunarr.svg",
+      "id": 4742,
+      "is_default": true,
+      "label": "tunarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tunarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "daf702ed3e18526ad85ca5af86b48f8ba8fcbde0b605a2a962b04625cc20e038"
+      },
+      "sha256": "75268c2330d01db4caad49d50c85e0f6235420fa2f23dbe1dace45151f540395",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tunarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

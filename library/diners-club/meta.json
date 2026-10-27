@@ -1,0 +1,42 @@
+{
+  "collection_id": 1108,
+  "schema_version": 1,
+  "id": 1335,
+  "title": "Diners Club",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "diners-club"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "diners-club.svg",
+      "id": 2440,
+      "is_default": true,
+      "label": "diners-club",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "diners-club.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "06976e360583d7e1580f29f8c8a808befecfbdcab56cda48777b85c9f4d42b71"
+      },
+      "sha256": "d2cce4880d7c887a1960965d75f154a03d0616b6c6bbe10b0411a46a82ee4a37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/diners-club.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

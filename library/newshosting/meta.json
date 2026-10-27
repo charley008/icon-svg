@@ -1,0 +1,59 @@
+{
+  "collection_id": 1914,
+  "schema_version": 1,
+  "id": 2141,
+  "title": "Newshosting",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "newshosting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27093,
+      "collection": "Dashboard Icons",
+      "file": "newshosting.svg",
+      "id": 3506,
+      "is_default": true,
+      "label": "newshosting",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "newshosting.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3832ff69fe3be0ecf89e29683d53d28303b601ea7226c339f832f02a4158c732"
+      },
+      "sha256": "98655b28a95544dd20bc38203a3a1eb922c97f56e1027fb801cc405fea75cd88",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/newshosting.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1547,
+      "collection": "Dashboard Icons",
+      "file": "newshosting-1.svg",
+      "id": 3507,
+      "is_default": false,
+      "label": "newshosting-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "newshosting-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d95a9e974ee6eb643903030a1f56123e88042522730f73be15c8d5495d3949de"
+      },
+      "sha256": "3db0036b0742638726a7a234977bc0711426619082f5cf2e34c4eb576a12f270",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/newshosting-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2519,
+  "schema_version": 1,
+  "id": 2746,
+  "title": "Roon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "roon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1173,
+      "collection": "Dashboard Icons",
+      "file": "roon.svg",
+      "id": 4326,
+      "is_default": true,
+      "label": "roon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "roon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0efce6a01c5ef18e6d3984150d11e63cc4c4489d4e6b1e0227c2ede7bde271af"
+      },
+      "sha256": "e8863b535c827b3e297b8ef1e40540f3e3b319ced2773d4b22be6909c26566d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/roon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

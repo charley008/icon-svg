@@ -1,0 +1,40 @@
+{
+  "collection_id": 1422,
+  "schema_version": 1,
+  "id": 1649,
+  "title": "Gravit Designer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gravit-designer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2281,
+      "collection": "Dashboard Icons",
+      "file": "gravit-designer.svg",
+      "id": 2850,
+      "is_default": true,
+      "label": "gravit-designer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gravit-designer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d61d2b66c8efe68ab68cdd11dbd61c0cf4fa38433d7eb6415063922ca6cb6f2"
+      },
+      "sha256": "7493b9d1e727f20d529feeba0e1a164852cafc4a836bfdaae3212e44e5374fd2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gravit-designer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

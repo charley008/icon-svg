@@ -1,0 +1,60 @@
+{
+  "collection_id": 1541,
+  "schema_version": 1,
+  "id": 1768,
+  "title": "Influxdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "influxdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1297,
+      "collection": "Dashboard Icons",
+      "file": "influxdb.svg",
+      "id": 3013,
+      "is_default": true,
+      "label": "influxdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "influxdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "22489cee4b8d9289dc86865f8394d8479f18c97ea5c3956cf52ab274ec3eca5f"
+      },
+      "sha256": "24a718a7aa69e572f0886a6dddbc704f9e777c1afd94b8c73f3318a130474432",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/influxdb.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1830,
+      "collection": "TechIcons / Devicon",
+      "file": "influxdb-1.svg",
+      "id": 5209,
+      "is_default": false,
+      "label": "TechIcons · InfluxDB",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "InfluxDB.svg",
+        "original_sha256": "4e47f64387d6cf5bc82eec03e1a70896b1e028e63e65acd4e558b4fb94f7ce00",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/influxdb",
+        "reference_website": "https://www.influxdata.com"
+      },
+      "sha256": "43d0348a4823271f314aa7afb0c500f195371740f9f0018c8827837abaa68edb",
+      "source": "https://techicons.dev/icons/influxdb",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

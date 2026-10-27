@@ -1,0 +1,40 @@
+{
+  "collection_id": 1140,
+  "schema_version": 1,
+  "id": 1367,
+  "title": "Docusnap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docusnap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 681,
+      "collection": "Dashboard Icons",
+      "file": "docusnap.svg",
+      "id": 2481,
+      "is_default": true,
+      "label": "docusnap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docusnap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef06924723266a4db8e810ad62be77b6f79437ca02d046975bb4dbc091c2e43a"
+      },
+      "sha256": "3f01a1def375f5ffbf3d5b47dc235d0a0f10c5fab6ca7467cc1f1a6f80248a38",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docusnap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

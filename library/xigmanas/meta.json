@@ -1,0 +1,40 @@
+{
+  "collection_id": 3011,
+  "schema_version": 1,
+  "id": 3238,
+  "title": "Xigmanas",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xigmanas"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1596,
+      "collection": "Dashboard Icons",
+      "file": "xigmanas.svg",
+      "id": 4962,
+      "is_default": true,
+      "label": "xigmanas",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xigmanas.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef138fd1688e9b07b94631b8e9d4d924a1718faf290c4cb00af1aa2605b88488"
+      },
+      "sha256": "42a9fcc2713b7fa35b612c4b9bbc65778fcc9c2a1fc2d6f99548cd244c05470c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xigmanas.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

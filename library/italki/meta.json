@@ -1,0 +1,40 @@
+{
+  "collection_id": 1569,
+  "schema_version": 1,
+  "id": 1796,
+  "title": "Italki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "italki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4481,
+      "collection": "Dashboard Icons",
+      "file": "italki.svg",
+      "id": 3054,
+      "is_default": true,
+      "label": "italki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "italki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "325660f698008e27d2798f3792aaf40fb1c3e9d31f398d133255e4bbfd341606"
+      },
+      "sha256": "f1fea21da390455adffe3d13ff7bddbf7947490ac38aeba6804b189443e5e1eb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/italki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

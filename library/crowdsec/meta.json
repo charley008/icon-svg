@@ -1,0 +1,40 @@
+{
+  "collection_id": 1043,
+  "schema_version": 1,
+  "id": 1270,
+  "title": "Crowdsec",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "crowdsec"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7681,
+      "collection": "Dashboard Icons",
+      "file": "crowdsec.svg",
+      "id": 2351,
+      "is_default": true,
+      "label": "crowdsec",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdsec.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe51d41a17b34b16735891f49f3b09507fbf438aedb74136172b697027840fe2"
+      },
+      "sha256": "99d6079456b97313727e02f13ac7e21657ec6b8a2a9bb7277950509275dab078",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdsec.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

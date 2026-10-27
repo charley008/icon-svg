@@ -1,0 +1,42 @@
+{
+  "collection_id": 2801,
+  "schema_version": 1,
+  "id": 3028,
+  "title": "Ticky",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "ticky"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2480,
+      "collection": "Dashboard Icons",
+      "file": "ticky.svg",
+      "id": 4684,
+      "is_default": true,
+      "label": "ticky",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ticky.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "23c0a400df83f94d612bb97d46480a78b802bdb31cdbb15cf7ca6bfc75c2fcdd"
+      },
+      "sha256": "f143c5eeb84d48104fc9bc79065135395aaa3472c01b8decb3b00d4b10bc5120",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ticky.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

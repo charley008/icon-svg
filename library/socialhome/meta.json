@@ -1,0 +1,44 @@
+{
+  "collection_id": 2645,
+  "schema_version": 1,
+  "id": 2872,
+  "title": "Socialhome",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "socialhome",
+    "federated-social-network",
+    "decentralized-social-media"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 559,
+      "collection": "Dashboard Icons",
+      "file": "socialhome.svg",
+      "id": 4489,
+      "is_default": true,
+      "label": "socialhome",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "socialhome.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e8156ab8a0d45aee62a68ef8c704884aec661e538344b5022312f4ee2d06861"
+      },
+      "sha256": "4c762a50df103dc250d088d8cbbe69fa7591b8ce234b26ae90e3e52d1e33b92a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/socialhome.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

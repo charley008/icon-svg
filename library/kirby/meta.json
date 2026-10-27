@@ -1,0 +1,64 @@
+{
+  "collection_id": 1637,
+  "schema_version": 1,
+  "id": 1864,
+  "redirect_from": [
+    1865
+  ],
+  "title": "Kirby",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kirby",
+    "kirby-wordmark-dark",
+    "Kirby Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 301,
+      "collection": "Dashboard Icons",
+      "file": "kirby.svg",
+      "id": 3135,
+      "is_default": true,
+      "label": "kirby",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kirby.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09de2bec703581586c791081789612755ec785eb5b14231edb6ff0145967f9d6"
+      },
+      "sha256": "dcad71d91b2146ad04905ed00d63a2e9fe26aa9e927526b87e8d0f8482a47cef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kirby.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1335,
+      "collection": "Dashboard Icons",
+      "file": "kirby-1.svg",
+      "id": 3136,
+      "is_default": false,
+      "label": "kirby-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kirby-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c766fa72a85836d1d3de4beea1432aa28a689fca73048bd44c5c621347cb67a"
+      },
+      "sha256": "1fbe6425b580403a8b265a05afa007f094858581371bafa458c2782d2618a016",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kirby-wordmark-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

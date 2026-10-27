@@ -72,8 +72,27 @@
       "sha256": "e22960aa68cd1fc953272714eb90517c3121b9310ff2648d5dceb460413b46de",
       "source": "https://web.gotab.cn/uploads/202507/01K0R63PH44T3PFKW7T3X4YDQS.svg",
       "version": 1
+    },
+    {
+      "bytes": 1331,
+      "collection": "Dashboard Icons",
+      "file": "fnos-2.svg",
+      "id": 2695,
+      "is_default": false,
+      "label": "fnos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fnos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "675f7f9dda47db77ce2664e406b8c4e5bb5d98075c3647321e506ff8df7243d4"
+      },
+      "sha256": "930703e3364018a6106a1cd28b4f35870b27f6a52def876f4691cf2661ce69da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fnos.svg",
+      "version": 2
     }
   ],
-  "next_version": 2,
+  "next_version": 3,
   "products": []
 }

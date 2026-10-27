@@ -1,0 +1,40 @@
+{
+  "collection_id": 1364,
+  "schema_version": 1,
+  "id": 1591,
+  "title": "Gigaset",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gigaset"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4035,
+      "collection": "Dashboard Icons",
+      "file": "gigaset.svg",
+      "id": 2762,
+      "is_default": true,
+      "label": "gigaset",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gigaset.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd274aa180d00a40845892c19fd6875b7ca12ffd8fb00d57bc5f333a0482d665"
+      },
+      "sha256": "0801d4885fe4ef9dc43d08786acc23b8083d72b078ee5842a0f89bcef0e61f40",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gigaset.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

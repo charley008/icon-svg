@@ -1,0 +1,78 @@
+{
+  "collection_id": 3015,
+  "schema_version": 1,
+  "id": 3242,
+  "title": "Xray",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xray"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 453,
+      "collection": "Dashboard Icons",
+      "file": "xray.svg",
+      "id": 4968,
+      "is_default": true,
+      "label": "xray",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xray.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "096ec7c1d6732861d65a780876f390cf4e807ddeac15b56871a3ba50f60f7fe9"
+      },
+      "sha256": "41254f73e4493d159e7be5e8483ba8a60649153fce9f5bf0e9f291047d6402d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xray.svg",
+      "version": 0
+    },
+    {
+      "bytes": 498,
+      "collection": "Dashboard Icons",
+      "file": "xray-1.svg",
+      "id": 4969,
+      "is_default": false,
+      "label": "xray-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xray-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e93b92f9a5d5e5cb7f0ce014606aa88bafabcce2ec05a64f62b932f59b663fe2"
+      },
+      "sha256": "00b63a9a5c0eb482fe46b4a61e3a911a487d5d1c453a6435bc6f1048fffc9347",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xray-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 451,
+      "collection": "Dashboard Icons",
+      "file": "xray-2.svg",
+      "id": 4970,
+      "is_default": false,
+      "label": "xray-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xray-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "704725377d38cb074b0e60283cd105b6c3117cca063abd8830ed5745ea5ece91"
+      },
+      "sha256": "fb581533c427175bdbae5a0c259837d8a7bee9e964415551a1f88dde2080e3a0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xray-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

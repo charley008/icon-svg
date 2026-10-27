@@ -1,0 +1,40 @@
+{
+  "collection_id": 1301,
+  "schema_version": 1,
+  "id": 1528,
+  "title": "Flux Cd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flux-cd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1913,
+      "collection": "Dashboard Icons",
+      "file": "flux-cd.svg",
+      "id": 2689,
+      "is_default": true,
+      "label": "flux-cd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flux-cd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae8b113071be65b03d521392c364bf7b898ae67c573c0d3c02643c048b34196b"
+      },
+      "sha256": "2f8524f06e34164a99939e9da5cb67cb84dbeb5aaadee0e596589663c32f70b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flux-cd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

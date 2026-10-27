@@ -1,0 +1,45 @@
+{
+  "collection_id": 972,
+  "schema_version": 1,
+  "id": 1199,
+  "title": "Chrome Devtools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Web-Browsers",
+    "开发编程"
+  ],
+  "aliases": [
+    "chrome-devtools",
+    "developer-tools",
+    "browser-inspector"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2304,
+      "collection": "Dashboard Icons",
+      "file": "chrome-devtools.svg",
+      "id": 2252,
+      "is_default": true,
+      "label": "chrome-devtools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chrome-devtools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "669e4ff88d6f566b4dd984ea8a026666b7af01feb154dd2a2c02a3b4adc7004d"
+      },
+      "sha256": "6e3b2eb24e8a11a6c33c24ede4040ee8297f81f417517062b54bed874646ddf7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chrome-devtools.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

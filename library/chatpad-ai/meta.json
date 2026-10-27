@@ -1,0 +1,43 @@
+{
+  "collection_id": 954,
+  "schema_version": 1,
+  "id": 1181,
+  "title": "Chatpad Ai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "AI-\u0026-LLM-Platforms",
+    "AI"
+  ],
+  "aliases": [
+    "chatpad-ai",
+    "AI Chatbot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1136,
+      "collection": "Dashboard Icons",
+      "file": "chatpad-ai.svg",
+      "id": 2232,
+      "is_default": true,
+      "label": "chatpad-ai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chatpad-ai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8bc7114ceba28dd57b6dfd9bd662e70aaab4dcb5cf21c85113d517f54e86eb5e"
+      },
+      "sha256": "428da71c271df942583c0f8db6741a246fe66716ff6888d108701bb6f15105e6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chatpad-ai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

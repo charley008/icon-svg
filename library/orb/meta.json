@@ -1,0 +1,41 @@
+{
+  "collection_id": 2057,
+  "schema_version": 1,
+  "id": 2284,
+  "title": "Orb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "orb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6189,
+      "collection": "Dashboard Icons",
+      "file": "orb.svg",
+      "id": 3706,
+      "is_default": true,
+      "label": "orb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "orb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5fe0053661ea2b356e887dd62f12f13d6b44940422fc09b8656dc6efbbaaf6cf"
+      },
+      "sha256": "8fcd9c7d860c19fcaae55960143f42fcb03bd570d34a433deb28dece0353ba93",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/orb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

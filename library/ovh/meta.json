@@ -1,4 +1,7 @@
 {
+  "collection_id": 587,
+  "schema_version": 1,
+  "id": 807,
   "title": "OVHcloud",
   "url": "https://www.ovhcloud.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "ovh.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "2717eaaba48ba2418b834ea257ee5eda98002364b3c78381432b655fe4c0777c",
       "bytes": 378,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ovh.svg",
+      "collection": "Dashboard Icons",
+      "file": "ovh.svg",
+      "id": 1764,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "ovh.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "2717eaaba48ba2418b834ea257ee5eda98002364b3c78381432b655fe4c0777c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ovh.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

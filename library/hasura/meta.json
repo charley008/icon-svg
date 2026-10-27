@@ -1,0 +1,40 @@
+{
+  "collection_id": 1447,
+  "schema_version": 1,
+  "id": 1674,
+  "title": "Hasura",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hasura"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1304,
+      "collection": "Dashboard Icons",
+      "file": "hasura.svg",
+      "id": 2889,
+      "is_default": true,
+      "label": "hasura",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hasura.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d155aed8f8c0c9ac593e2897a4f639fee50048cd1938821e7b5ab30e764bb78f"
+      },
+      "sha256": "4a3ec2c1ab6076e84132fb3a292be3224f9688bb9a3438e866eec2306322359b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hasura.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

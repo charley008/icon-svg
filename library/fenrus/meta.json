@@ -1,0 +1,59 @@
+{
+  "collection_id": 1252,
+  "schema_version": 1,
+  "id": 1479,
+  "title": "Fenrus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fenrus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9114,
+      "collection": "Dashboard Icons",
+      "file": "fenrus.svg",
+      "id": 2633,
+      "is_default": true,
+      "label": "fenrus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fenrus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8889a022942c5495169df91d24223284f2d67437470d309be9c98d187165859e"
+      },
+      "sha256": "3defd60ce6f9eea5f289607357363d051ddb50fee06059b52873ec72cbe684b4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fenrus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9279,
+      "collection": "Dashboard Icons",
+      "file": "fenrus-1.svg",
+      "id": 2634,
+      "is_default": false,
+      "label": "fenrus-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fenrus-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c32781936f9f26a9ae7bb8cb53ce26bf25e036616fb63aa0100912e82a062edf"
+      },
+      "sha256": "1c002480843184d43033d0bad198beb9eca868e591ceb573feb011ce4ce9ce1f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fenrus-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

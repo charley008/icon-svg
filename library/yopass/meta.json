@@ -1,0 +1,40 @@
+{
+  "collection_id": 3026,
+  "schema_version": 1,
+  "id": 3253,
+  "title": "Yopass",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yopass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6434,
+      "collection": "Dashboard Icons",
+      "file": "yopass.svg",
+      "id": 4984,
+      "is_default": true,
+      "label": "yopass",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yopass.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe5ea5fce8f183cf0a60ca0fff967d687bbc4b7da991ce9745b43a9a5f2748da"
+      },
+      "sha256": "b53d8e297cf310d2caf7e086aa84daa1a6207b7e748ccad760f4338e14c1f7a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yopass.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

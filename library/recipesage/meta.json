@@ -1,0 +1,44 @@
+{
+  "collection_id": 2476,
+  "schema_version": 1,
+  "id": 2703,
+  "title": "Recipesage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "recipesage",
+    "recipe-app",
+    "cooking-recipes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1542,
+      "collection": "Dashboard Icons",
+      "file": "recipesage.svg",
+      "id": 4273,
+      "is_default": true,
+      "label": "recipesage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "recipesage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c8c4f3bd472ff3487681a915f869954ed279b0e341c23caaa8bbc0d618b49d82"
+      },
+      "sha256": "b2a42cf0c02f1f143ffcc623e90a79cddd15a2939aff5d4f3ddbe617eb26384a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/recipesage.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

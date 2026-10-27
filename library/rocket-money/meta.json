@@ -1,0 +1,64 @@
+{
+  "collection_id": 2514,
+  "schema_version": 1,
+  "id": 2741,
+  "redirect_from": [
+    2742
+  ],
+  "title": "Rocket Money",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rocket-money",
+    "rocket-money-wordmark-light",
+    "Rocket Money Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 695,
+      "collection": "Dashboard Icons",
+      "file": "rocket-money.svg",
+      "id": 4319,
+      "is_default": true,
+      "label": "rocket-money",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rocket-money.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95f6f2445b79a06f0b58600e2d22b7623b76b9bfc12c56ab680f351bb2be6727"
+      },
+      "sha256": "5fce9b039c5d95d62f880bb36831b97b6ca3c077d9e8e80bae7b1ced0385e3ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rocket-money.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7631,
+      "collection": "Dashboard Icons",
+      "file": "rocket-money-1.svg",
+      "id": 4320,
+      "is_default": false,
+      "label": "rocket-money-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rocket-money-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0d53397b7b513ea06f61b6a14c7cc23c60191d98544338a4ca9202d3b6501af"
+      },
+      "sha256": "987fee23a382959fabf7edd453cb77781dd50471a77e63350927ebbb1279caeb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rocket-money-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

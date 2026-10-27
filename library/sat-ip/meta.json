@@ -1,0 +1,105 @@
+{
+  "collection_id": 2553,
+  "schema_version": 1,
+  "id": 2780,
+  "redirect_from": [
+    2781,
+    2782
+  ],
+  "title": "Sat Ip",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sat-ip",
+    "sat-ip-wordmark-light",
+    "Sat Ip Wordmark Light",
+    "sat-ip-wordmark-dark",
+    "Sat Ip Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2904,
+      "collection": "Dashboard Icons",
+      "file": "sat-ip.svg",
+      "id": 4369,
+      "is_default": true,
+      "label": "sat-ip",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sat-ip.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2b928c0cc3a1040e930be2a63e38d9f5d4b8cd61e26b16185918e84115568d35"
+      },
+      "sha256": "da90b33443508626164f92aaf8ae9fbc729d790c96c6d31bad3de1075fbcb71c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sat-ip.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5548,
+      "collection": "Dashboard Icons",
+      "file": "sat-ip-1.svg",
+      "id": 4370,
+      "is_default": false,
+      "label": "sat-ip-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sat-ip-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "33789d1a6c754fb430382419567c7c67dc01df3e314ff3e604d28249c0cce527"
+      },
+      "sha256": "c814d46072e5f1faa3beb5f7132bbab73b64fb4c38b51e114120c131f1295530",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sat-ip-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4519,
+      "collection": "Dashboard Icons",
+      "file": "sat-ip-2.svg",
+      "id": 4372,
+      "is_default": false,
+      "label": "sat-ip-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sat-ip-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "105b30c541451f1a072ec07d273e2e42e5162fc6b3a1166aa81b47bf93dff2de"
+      },
+      "sha256": "5c6f0e3f46a1268c897787cffc2959bcf100591fc86230f725d723bf0a9f5ec0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sat-ip-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2346,
+      "collection": "Dashboard Icons",
+      "file": "sat-ip-3.svg",
+      "id": 4371,
+      "is_default": false,
+      "label": "sat-ip-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sat-ip-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6067ee99417a81f20d16cf2e8686aec7ab2c6ade8c60d67f19a62dba267664ee"
+      },
+      "sha256": "90eda83687b736c171bc6a04757928247305cfd505e90ccd1efdbcce25a1be01",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sat-ip-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

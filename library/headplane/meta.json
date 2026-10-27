@@ -1,0 +1,59 @@
+{
+  "collection_id": 1455,
+  "schema_version": 1,
+  "id": 1682,
+  "title": "Headplane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "headplane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 789,
+      "collection": "Dashboard Icons",
+      "file": "headplane.svg",
+      "id": 2901,
+      "is_default": true,
+      "label": "headplane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "headplane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dc3f491fe23966a2ebc6956596fd92d68da8407ba954d80183f1508f5b5f259c"
+      },
+      "sha256": "126ab7512dc62014d9a9e1203e19d193ccc8843ca44a007bde5889719584f0f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/headplane.svg",
+      "version": 0
+    },
+    {
+      "bytes": 779,
+      "collection": "Dashboard Icons",
+      "file": "headplane-1.svg",
+      "id": 2902,
+      "is_default": false,
+      "label": "headplane-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "headplane-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7c3e50ced703295d1a9c8a1bdbcb2b57daed55d49bfa9d385ed495919c908f62"
+      },
+      "sha256": "2a347c0673d3151b159331f306dfcefc26d36f2217180d898215f95f1f6f6e3c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/headplane-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

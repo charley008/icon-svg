@@ -1,0 +1,44 @@
+{
+  "collection_id": 2877,
+  "schema_version": 1,
+  "id": 3104,
+  "title": "Unifi Voucher Site",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Web-Browsers",
+    "网络工具"
+  ],
+  "aliases": [
+    "unifi-voucher-site",
+    "Voucher System"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5568,
+      "collection": "Dashboard Icons",
+      "file": "unifi-voucher-site.svg",
+      "id": 4785,
+      "is_default": true,
+      "label": "unifi-voucher-site",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unifi-voucher-site.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4fa62b2406379c95d955f38f609d542ead8486e54ce4225995728b520132fc7a"
+      },
+      "sha256": "ad53c279ed7548cd740dfb9819995b053d5ff0512ef9ed457d335f0e663b190b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unifi-voucher-site.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

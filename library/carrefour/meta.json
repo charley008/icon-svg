@@ -1,0 +1,40 @@
+{
+  "collection_id": 937,
+  "schema_version": 1,
+  "id": 1164,
+  "title": "Carrefour",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "carrefour"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6581,
+      "collection": "Dashboard Icons",
+      "file": "carrefour.svg",
+      "id": 2211,
+      "is_default": true,
+      "label": "carrefour",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "carrefour.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c0099bbfe176f8bac2f1f030706eaa5c6b55881ae8c9646aec99cbc1a5e8a43b"
+      },
+      "sha256": "d0b8e7fbc6b39223b6dab49f5c51e8e12878db8b07b6c70d9019d5a2c9f18716",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/carrefour.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

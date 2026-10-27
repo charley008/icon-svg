@@ -1,0 +1,83 @@
+{
+  "collection_id": 2129,
+  "schema_version": 1,
+  "id": 2356,
+  "title": "Pg Back Web",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "pg-back-web",
+    "postgres-backup-manager",
+    "database-backup-ui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4849,
+      "collection": "Dashboard Icons",
+      "file": "pg-back-web.svg",
+      "id": 3805,
+      "is_default": true,
+      "label": "pg-back-web",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pg-back-web.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6881b9cce3b6f7b4ad67512d72880a5cf3ebafa78bd4d038fa0d1efd60df0aac"
+      },
+      "sha256": "91b186bbb72f352e19be24e475dcf066b0925899066b969a95be1a464f692d7c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pg-back-web.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7344,
+      "collection": "Dashboard Icons",
+      "file": "pg-back-web-1.svg",
+      "id": 3806,
+      "is_default": false,
+      "label": "pgbackweb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pgbackweb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a2055c12465a3471b76bfca1ccf2405500ca8c9ae2d2742d2e9977b4495b3f10"
+      },
+      "sha256": "0822a7be23bd3b0be559e2d91e1b4723e824317b903fcc238ad0efc1485906e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pgbackweb.svg",
+      "version": 1
+    },
+    {
+      "bytes": 7398,
+      "collection": "Dashboard Icons",
+      "file": "pg-back-web-2.svg",
+      "id": 3807,
+      "is_default": false,
+      "label": "pgbackweb-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pgbackweb-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ebd30dc590a0954698f9dbdb4221ec035a0ed3fd32f136a864b3216e99a9661"
+      },
+      "sha256": "7fcfe1a690a9ed1713bfa2aad86393453a9d59c20322e667af5447c609b0aa67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pgbackweb-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

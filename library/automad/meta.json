@@ -1,0 +1,59 @@
+{
+  "collection_id": 783,
+  "schema_version": 1,
+  "id": 1010,
+  "title": "Automad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "automad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 414,
+      "collection": "Dashboard Icons",
+      "file": "automad.svg",
+      "id": 2011,
+      "is_default": true,
+      "label": "automad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "automad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f9ad47679bee9c6b4b9649fd574a90b0642817b6d18d62cc67768f79dabf9a4a"
+      },
+      "sha256": "dabdf47c3525c13641be55e7763a5b66370180a9882f7b8ab4c1478c1e4bb730",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/automad.svg",
+      "version": 0
+    },
+    {
+      "bytes": 426,
+      "collection": "Dashboard Icons",
+      "file": "automad-1.svg",
+      "id": 2012,
+      "is_default": false,
+      "label": "automad-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "automad-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "24e49fbcc72e4d649ee2018979474e4d84819418cca6a2c1c867da9bb018703b"
+      },
+      "sha256": "2eae96aab4153e65eeaa6ad508b367c35b98ccf282461152e793240773a15867",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/automad-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

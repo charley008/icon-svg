@@ -1,0 +1,40 @@
+{
+  "collection_id": 1115,
+  "schema_version": 1,
+  "id": 1342,
+  "title": "Dkb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dkb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1406,
+      "collection": "Dashboard Icons",
+      "file": "dkb.svg",
+      "id": 2452,
+      "is_default": true,
+      "label": "dkb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dkb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2f55a4dd100f400e493d7cd8c9fcbb8fe9ceed5ef809e90873e5429054ef83d"
+      },
+      "sha256": "03a581140419d4216f21708443cd59743da987742d29920c3d1dc3765d1ec88c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dkb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

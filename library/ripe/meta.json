@@ -1,0 +1,41 @@
+{
+  "collection_id": 2511,
+  "schema_version": 1,
+  "id": 2738,
+  "title": "Ripe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "ripe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3461,
+      "collection": "Dashboard Icons",
+      "file": "ripe.svg",
+      "id": 4315,
+      "is_default": true,
+      "label": "ripe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ripe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74a942ac05e7b3fb325a3fb284f4cae1bec13faa3e7e315d286e62345b00c693"
+      },
+      "sha256": "fb9039161bc7339009a8be8cb22a0031fe3115f2ed870a8a782a32308bf352be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ripe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

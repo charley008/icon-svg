@@ -1,0 +1,62 @@
+{
+  "collection_id": 1449,
+  "schema_version": 1,
+  "id": 1676,
+  "title": "Hatsh",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools"
+  ],
+  "aliases": [
+    "hatsh",
+    "link-shortener",
+    "custom-url-generator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1410,
+      "collection": "Dashboard Icons",
+      "file": "hatsh.svg",
+      "id": 2891,
+      "is_default": true,
+      "label": "hatsh",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hatsh.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "56f9383fad57c156b3b9f828cb5424125663f77f357364ca39d22f8f067649bf"
+      },
+      "sha256": "47ee51f3248b97ceffc6f6d77424954bed6c39485add418e4b9e1a8c2235c6c8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hatsh.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1428,
+      "collection": "Dashboard Icons",
+      "file": "hatsh-1.svg",
+      "id": 2892,
+      "is_default": false,
+      "label": "hatsh-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hatsh-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "468aecc1163f31a13405890ed92d00f1bb0a5b5be746ae22f48da794d84f2937"
+      },
+      "sha256": "e71e661539eebe64311faab411ef818aefc5348474820e0c9a1b87a05b3d9631",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hatsh-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

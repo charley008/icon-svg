@@ -1,0 +1,63 @@
+{
+  "collection_id": 2579,
+  "schema_version": 1,
+  "id": 2806,
+  "title": "Selfh St",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "selfh-st",
+    "Static Site Hosting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 411,
+      "collection": "Dashboard Icons",
+      "file": "selfh-st.svg",
+      "id": 4406,
+      "is_default": true,
+      "label": "selfh-st",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "selfh-st.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5aeeb559e3d7b96dd44b0a290ddd30066bba9a9730eee6d58708f980aad8b08"
+      },
+      "sha256": "74d68153916fa358799c9a8aa85833c3fd9026e9d166f9bcbc6fea96cc1fc78a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/selfh-st.svg",
+      "version": 0
+    },
+    {
+      "bytes": 411,
+      "collection": "Dashboard Icons",
+      "file": "selfh-st-1.svg",
+      "id": 4407,
+      "is_default": false,
+      "label": "selfh-st-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "selfh-st-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f3d0a97b1e0dae9bece79f0ff9c783176f8de806a209fe4865f4a516d6b1afe8"
+      },
+      "sha256": "00688c5b7ddd2dea5ace4dc0467fc66a435af7518c62fc9d24241747c2a4415a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/selfh-st-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

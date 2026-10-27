@@ -1,0 +1,45 @@
+{
+  "collection_id": 3242,
+  "schema_version": 1,
+  "id": 3505,
+  "title": "Streamlit",
+  "url": "https://streamlit.io",
+  "domains": [
+    "streamlit.io"
+  ],
+  "description": "用于构建 Python 数据应用的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Streamlit",
+    "streamlit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1975,
+      "collection": "TechIcons / Devicon",
+      "file": "streamlit-1.svg",
+      "id": 5372,
+      "is_default": true,
+      "label": "TechIcons · Streamlit",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Streamlit.svg",
+        "original_sha256": "e6d3baa8583e9c812b228f4f507d8f386898d05a65ef787fe34b54435a6f4cea",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/streamlit",
+        "reference_website": "https://streamlit.io"
+      },
+      "sha256": "f305ba7c1f787863f31f2f5d56ae8fae222dfcbcb798c8b0d8bd3db19a0f0977",
+      "source": "https://techicons.dev/icons/streamlit",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

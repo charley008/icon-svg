@@ -1,0 +1,45 @@
+{
+  "collection_id": 3162,
+  "schema_version": 1,
+  "id": 3419,
+  "title": "LabVIEW",
+  "url": "https://www.ni.com/en-ca/shop/labview.html",
+  "domains": [
+    "ni.com"
+  ],
+  "description": "面向工程测试、测量和仪器控制的图形化开发平台。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "LabVIEW",
+    "labview"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1669,
+      "collection": "TechIcons / Devicon",
+      "file": "labview-1.svg",
+      "id": 5246,
+      "is_default": true,
+      "label": "TechIcons · LabVIEW",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "LabVIEW.svg",
+        "original_sha256": "10fa970769562ec14c164f8256a59de72b5e406350a0145d1c748892b04d815e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/labview",
+        "reference_website": "https://www.ni.com/en-ca/shop/labview.html"
+      },
+      "sha256": "def3c5688e9b28c6c88eccb17e5c544ada43a6e4e844739931a618cc2a35e3c7",
+      "source": "https://techicons.dev/icons/labview",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

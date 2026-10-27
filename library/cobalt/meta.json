@@ -1,0 +1,67 @@
+{
+  "collection_id": 995,
+  "schema_version": 1,
+  "id": 1222,
+  "title": "Cobalt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "File",
+    "Cloud",
+    "Video",
+    "Download-Managers",
+    "网络工具"
+  ],
+  "aliases": [
+    "cobalt",
+    "youtube-downloader",
+    "video-downloader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1152,
+      "collection": "Dashboard Icons",
+      "file": "cobalt.svg",
+      "id": 2285,
+      "is_default": true,
+      "label": "cobalt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cobalt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "412bf17e243f097da2c0f4cf004953aadf3c22ede55d40398005422ac222cee6"
+      },
+      "sha256": "e83f4d0a70f95d6040e36b1e674f4afe5b3917372e686f8135a479c4c3603b75",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cobalt.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1152,
+      "collection": "Dashboard Icons",
+      "file": "cobalt-1.svg",
+      "id": 2286,
+      "is_default": false,
+      "label": "cobalt-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cobalt-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "246540bf1a1f90a0c648012a387f9bb60a85b19d5f06598e606788e49a1e5aad"
+      },
+      "sha256": "bd80e8bb3b784b2a9fe6d5b3dbf10dc9c7ae32b95dff6a0259ebe51923299488",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cobalt-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

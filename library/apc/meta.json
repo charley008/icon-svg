@@ -1,4 +1,7 @@
 {
+  "collection_id": 498,
+  "schema_version": 1,
+  "id": 665,
   "title": "APC",
   "url": "https://www.apc.com/",
   "domains": [
@@ -21,23 +24,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "apc.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "1894d4256418336c0098aad8f467cd80ef6af2af90e9348027d1e25b5ed11cd7",
       "bytes": 1504,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apc.svg",
+      "collection": "Dashboard Icons",
+      "file": "apc.svg",
+      "id": 1626,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "apc.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "1894d4256418336c0098aad8f467cd80ef6af2af90e9348027d1e25b5ed11cd7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apc.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4098,
+      "collection": "Dashboard Icons",
+      "file": "apc-1.svg",
+      "id": 1941,
+      "is_default": false,
+      "label": "ups",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ups.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e601e911957d2483de61c46f038cb19e60ef78b5b3ba3ba921a2584f14ad748b"
+      },
+      "sha256": "da978bc6e868ee75a5b03416bb0de72b7f9f90f8330723cd745b451d94eb5232",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ups.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3228,
+  "schema_version": 1,
+  "id": 3491,
+  "title": "Scalingo",
+  "url": "https://scalingo.com",
+  "domains": [
+    "scalingo.com"
+  ],
+  "description": "托管应用的云端部署与运行平台。",
+  "category": "云服务",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Scalingo",
+    "scalingo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 753,
+      "collection": "TechIcons / Devicon",
+      "file": "scalingo-1.svg",
+      "id": 5353,
+      "is_default": true,
+      "label": "TechIcons · Scalingo",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Scalingo.svg",
+        "original_sha256": "ab9a484906ffa780b7c2f9d5b8f4e58d4ee4d656941cb4de4ef25347d6c8493b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/scalingo",
+        "reference_website": "https://scalingo.com"
+      },
+      "sha256": "ebc643493596affce57ae9d02e5d8d9d2a75c6a1e3701c60f56c3f9eb187f31c",
+      "source": "https://techicons.dev/icons/scalingo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

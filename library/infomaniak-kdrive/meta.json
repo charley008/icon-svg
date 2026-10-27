@@ -1,0 +1,64 @@
+{
+  "collection_id": 1545,
+  "schema_version": 1,
+  "id": 1772,
+  "title": "Infomaniak Kdrive",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud-Computing",
+    "File-Sharing-\u0026-Sync",
+    "网盘存储"
+  ],
+  "aliases": [
+    "infomaniak-kdrive",
+    "Cloud Drive",
+    "Kdrive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3799,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-kdrive.svg",
+      "id": 3017,
+      "is_default": true,
+      "label": "infomaniak-kdrive",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-kdrive.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "252a9220c102d4bce41ed6b23ec33aa8e3f434deabf627e60419b682989e7408"
+      },
+      "sha256": "3702e5cb80cc4b5a5036fdca3fe451fcccabf979b403004be0de58b7f4a530e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-kdrive.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3829,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-kdrive-1.svg",
+      "id": 3018,
+      "is_default": false,
+      "label": "infomaniak-kdrive-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-kdrive-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f47eaa09440d6a60e7e3f3fc77d3664ce50314a4c5611db370304be6419066ff"
+      },
+      "sha256": "d500bcbbb09c7e844732da14ac32ec0c54ec22fe0020978c4ee4350dd7ab0ef1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-kdrive-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

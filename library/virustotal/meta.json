@@ -1,0 +1,102 @@
+{
+  "collection_id": 2917,
+  "schema_version": 1,
+  "id": 3144,
+  "redirect_from": [
+    3145
+  ],
+  "title": "Virustotal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "virustotal",
+    "virustotal-wordmark-dark",
+    "Virustotal Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 229,
+      "collection": "Dashboard Icons",
+      "file": "virustotal.svg",
+      "id": 4839,
+      "is_default": true,
+      "label": "virustotal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "virustotal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c00f0b70f26eb8cee410a4d12a96361aae2f6320a2e3e38fd97aefba2b9fe990"
+      },
+      "sha256": "a5178e387c795279f3decee6531e073c77aa57941b15f7cacfa1d58b8647884b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/virustotal.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1576,
+      "collection": "Dashboard Icons",
+      "file": "virustotal-1.svg",
+      "id": 4840,
+      "is_default": false,
+      "label": "virustotal-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "virustotal-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f4cc9cdec3a20108f8acc690a24e63dbb2a3035d3891a6ec9d79a2444f5ca9d"
+      },
+      "sha256": "2309960c88dd25846dc66d9aef7526305f0561171affa9811a4036c1e8ef0832",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/virustotal-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 229,
+      "collection": "Dashboard Icons",
+      "file": "virustotal-2.svg",
+      "id": 4841,
+      "is_default": false,
+      "label": "virustotal-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "virustotal-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9fd6f50f957411af4b2d647e1d92c01081ea7b0d6bd371dbdc60c4797923381c"
+      },
+      "sha256": "01f1ecd0bbb765bec43170ad4b88752d1905632459c9dc8cc74d78451b7bf0fa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/virustotal-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1576,
+      "collection": "Dashboard Icons",
+      "file": "virustotal-3.svg",
+      "id": 4842,
+      "is_default": false,
+      "label": "virustotal-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "virustotal-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "515b205fba9ff038e941250a844198e3cf0c6bdea535b0fb4cd2f8bfb26867d2"
+      },
+      "sha256": "d367af8a274f0ca5514aafc89b195ca8ca36db6c5408acb49bb4d09619fed523",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/virustotal-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 1359,
+  "schema_version": 1,
+  "id": 1586,
+  "title": "Geo Guessr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "geo-guessr",
+    "geoguessr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 946,
+      "collection": "Dashboard Icons",
+      "file": "geo-guessr.svg",
+      "id": 2757,
+      "is_default": true,
+      "label": "geo-guessr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "geo-guessr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9fc3782d129d3fdde882448bde874e905c1b6ecf6ba2103844f6df1325594852"
+      },
+      "sha256": "817dae4864c9738af148d09a05ebc9b478647eeb811fb3f7f9efd2542d93ceb7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/geo-guessr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

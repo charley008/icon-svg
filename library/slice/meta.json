@@ -1,0 +1,40 @@
+{
+  "collection_id": 2633,
+  "schema_version": 1,
+  "id": 2860,
+  "title": "Slice",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "slice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 950,
+      "collection": "Dashboard Icons",
+      "file": "slice.svg",
+      "id": 4475,
+      "is_default": true,
+      "label": "slice",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slice.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ed5789fde0086013e519b34ffa55c38acabec123bc683124c559887aa529433"
+      },
+      "sha256": "60a91e65ae97c755af0241c9e7de8177e93aee04a7185c6ae101cdd6a42043a1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/slice.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

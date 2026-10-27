@@ -1,0 +1,40 @@
+{
+  "collection_id": 1723,
+  "schema_version": 1,
+  "id": 1950,
+  "title": "Littlelink Custom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "littlelink-custom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8548,
+      "collection": "Dashboard Icons",
+      "file": "littlelink-custom.svg",
+      "id": 3247,
+      "is_default": true,
+      "label": "littlelink-custom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "littlelink-custom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95d88e4cb4a18c72ed642ee003a15a1981740ee2a3af4d41d6f888c4b5ecde1f"
+      },
+      "sha256": "41266bdc52e75b5a362d04dce3353e0cfe839e01d331764bb00b397904c5b4af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/littlelink-custom.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

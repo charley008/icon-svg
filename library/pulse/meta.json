@@ -1,0 +1,41 @@
+{
+  "collection_id": 2236,
+  "schema_version": 1,
+  "id": 2463,
+  "title": "Pulse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "pulse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1062,
+      "collection": "Dashboard Icons",
+      "file": "pulse.svg",
+      "id": 3960,
+      "is_default": true,
+      "label": "pulse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pulse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d0eaf5719609950dedeba831fb056c2f91a066ba5e3fb485ddff5029b309e0ee"
+      },
+      "sha256": "ccbe1b42ed096fdd445ab3cfbb26ad9be42e5abf07899bcbb356c7864cf3c40b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pulse.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

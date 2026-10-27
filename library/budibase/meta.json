@@ -1,0 +1,40 @@
+{
+  "collection_id": 913,
+  "schema_version": 1,
+  "id": 1140,
+  "title": "Budibase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "budibase"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1144,
+      "collection": "Dashboard Icons",
+      "file": "budibase.svg",
+      "id": 2180,
+      "is_default": true,
+      "label": "budibase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "budibase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95de8eda20a1f2de466d6f3e99dd6a77da533aa96c3bbf28f57438843ee076a1"
+      },
+      "sha256": "e76d6026984f17b9769a1b1cd0e1edc1849d62510902eb142b16af058496f0dd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/budibase.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

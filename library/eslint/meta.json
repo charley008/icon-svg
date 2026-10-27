@@ -1,0 +1,45 @@
+{
+  "collection_id": 3121,
+  "schema_version": 1,
+  "id": 3363,
+  "title": "ESLint",
+  "url": "https://eslint.org",
+  "domains": [
+    "eslint.org"
+  ],
+  "description": "JavaScript 与相关代码的静态检查工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "ESLint",
+    "eslint"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 661,
+      "collection": "TechIcons / Devicon",
+      "file": "eslint-1.svg",
+      "id": 5152,
+      "is_default": true,
+      "label": "TechIcons · ESLint",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "ESLint.svg",
+        "original_sha256": "4e5de0a6f1e83cc0c666324ecc6c9abe42dc75ed7af0b6089cbf4795a1ea4df4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/eslint",
+        "reference_website": "https://eslint.org"
+      },
+      "sha256": "3c9d9653698e247bd548a8009aa778bd80c839520de3afd8d21a3496db0e4d9b",
+      "source": "https://techicons.dev/icons/eslint",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

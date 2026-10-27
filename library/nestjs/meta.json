@@ -1,0 +1,45 @@
+{
+  "collection_id": 3182,
+  "schema_version": 1,
+  "id": 3444,
+  "title": "Nest.js",
+  "url": "https://nestjs.com",
+  "domains": [
+    "nestjs.com"
+  ],
+  "description": "用于 Node.js 服务端应用的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Nest.js",
+    "nestjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3973,
+      "collection": "TechIcons / Devicon",
+      "file": "nestjs-1.svg",
+      "id": 5280,
+      "is_default": true,
+      "label": "TechIcons · Nest.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nest.js.svg",
+        "original_sha256": "6a64498cd719b024eb8a042ac242e8ea89b16d3b33983d301b76df832aaa3bc3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nestjs",
+        "reference_website": "https://nestjs.com"
+      },
+      "sha256": "ea0885db84f655b2814ab712bcff9a588d7b26929efc17083da40e8f85b0e3a6",
+      "source": "https://techicons.dev/icons/nestjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

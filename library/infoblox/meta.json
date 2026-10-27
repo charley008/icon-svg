@@ -1,0 +1,40 @@
+{
+  "collection_id": 1542,
+  "schema_version": 1,
+  "id": 1769,
+  "title": "Infoblox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "infoblox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1456,
+      "collection": "Dashboard Icons",
+      "file": "infoblox.svg",
+      "id": 3014,
+      "is_default": true,
+      "label": "infoblox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infoblox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4bc7a9c31ee9ee3ab86580f5ce01b8dfd091b317d08c41ed81e6c501ccb9b24"
+      },
+      "sha256": "51472e970a02f6b9b7db0cdd628a8918ceb1b7f48006820a2941d67605f121f6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infoblox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

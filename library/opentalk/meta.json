@@ -1,0 +1,44 @@
+{
+  "collection_id": 2048,
+  "schema_version": 1,
+  "id": 2275,
+  "title": "Opentalk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Communication",
+    "网络工具"
+  ],
+  "aliases": [
+    "opentalk",
+    "VoIP Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 775,
+      "collection": "Dashboard Icons",
+      "file": "opentalk.svg",
+      "id": 3695,
+      "is_default": true,
+      "label": "opentalk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opentalk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "876afab593fb4f3406c10d79feb00369f8986e8fc51141cfcc343254e19969b9"
+      },
+      "sha256": "c23eee9fdf25c7db2c8d85c179d2f9ef542e875e609794eb514e61e48679bb98",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opentalk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

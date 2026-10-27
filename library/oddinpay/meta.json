@@ -1,0 +1,102 @@
+{
+  "collection_id": 1989,
+  "schema_version": 1,
+  "id": 2216,
+  "redirect_from": [
+    2217
+  ],
+  "title": "Oddinpay",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oddinpay",
+    "oddinpay-wordmark",
+    "Oddinpay Wordmark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2123,
+      "collection": "Dashboard Icons",
+      "file": "oddinpay.svg",
+      "id": 3602,
+      "is_default": true,
+      "label": "oddinpay",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oddinpay.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8f53785f6fa88512554913a34527fada48e195c5b8d074d4718b9c5f60417ca"
+      },
+      "sha256": "d8936f2deffaa5ec8f8fd8ef876bf30bb72ee73f0b39d47fb51e4bdde4142cf3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oddinpay.svg",
+      "version": 0
+    },
+    {
+      "bytes": 573,
+      "collection": "Dashboard Icons",
+      "file": "oddinpay-1.svg",
+      "id": 3603,
+      "is_default": false,
+      "label": "oddinpay-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oddinpay-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d0c08b68f2b42513f437660587fc5e6a9b562a7c71148e096c847e7cf7141ef"
+      },
+      "sha256": "48fac8dc8a1af02c387263f161bfaa4418ff5acfb81e6c38ae1700eddb0ac540",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oddinpay-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 573,
+      "collection": "Dashboard Icons",
+      "file": "oddinpay-2.svg",
+      "id": 3604,
+      "is_default": false,
+      "label": "oddinpay-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oddinpay-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a5cd8d9b4b103c8e4c0fd29c307d92440598ece3c445e8ae6b000992ae2d1cfc"
+      },
+      "sha256": "b862218d918dc253ddd9510892f97a855eac16b0b1cb8cf3bfe2ccd763ce299f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oddinpay-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3419,
+      "collection": "Dashboard Icons",
+      "file": "oddinpay-3.svg",
+      "id": 3605,
+      "is_default": false,
+      "label": "oddinpay-wordmark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oddinpay-wordmark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d3b29cd242d0643fccb8a3b5805870683a136258da8229a371d2abfc84c73fc9"
+      },
+      "sha256": "c641951a5014131740e2f4f4229c008efc06b919adae7eb4062a192d8a97dbc3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oddinpay-wordmark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

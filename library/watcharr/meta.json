@@ -1,0 +1,59 @@
+{
+  "collection_id": 2950,
+  "schema_version": 1,
+  "id": 3177,
+  "title": "Watcharr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "watcharr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6259,
+      "collection": "Dashboard Icons",
+      "file": "watcharr.svg",
+      "id": 4881,
+      "is_default": true,
+      "label": "watcharr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "watcharr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f0014c5ea4ae6beba71a3fd0c1bebe3411e04c66e5497354f63ae0d762073824"
+      },
+      "sha256": "33652df44b47ddfb98df332061cc90ebacf5463f8cd5340a8f13c7f4731d9c91",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/watcharr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2810,
+      "collection": "Dashboard Icons",
+      "file": "watcharr-1.svg",
+      "id": 4882,
+      "is_default": false,
+      "label": "watcharr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "watcharr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c90981a6d68007c5497573aba2643f9dcb6982a72b2e23b74e5738c3d460c397"
+      },
+      "sha256": "56397083f322385c835e60f8c40b51f7780d2b9be97428c74978793684341df1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/watcharr-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

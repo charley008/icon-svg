@@ -1,0 +1,40 @@
+{
+  "collection_id": 1017,
+  "schema_version": 1,
+  "id": 1244,
+  "title": "Connectwise",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "connectwise"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1093,
+      "collection": "Dashboard Icons",
+      "file": "connectwise.svg",
+      "id": 2319,
+      "is_default": true,
+      "label": "connectwise",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "connectwise.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec65afc52ecb9cf6bcae6a7e81afcc6ca78fcec8dd7a95934f0f8d580917739a"
+      },
+      "sha256": "18905e6a6a77fe960b1b1b8421ced8e34b13cd7aa16fa7220ddd2a50985b7c07",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/connectwise.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

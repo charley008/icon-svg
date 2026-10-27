@@ -1,0 +1,40 @@
+{
+  "collection_id": 1896,
+  "schema_version": 1,
+  "id": 2123,
+  "title": "Neonlink",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "neonlink"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 472,
+      "collection": "Dashboard Icons",
+      "file": "neonlink.svg",
+      "id": 3479,
+      "is_default": true,
+      "label": "neonlink",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neonlink.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "70d43be4fae2fe6f8c536d729b141aba372abda4dfad94583ac8f45baaecbc96"
+      },
+      "sha256": "7267357925c277675c132bb38e02bf49f87e93d09797c13d5a7137eb636890ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neonlink.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

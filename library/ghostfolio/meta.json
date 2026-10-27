@@ -1,0 +1,40 @@
+{
+  "collection_id": 1363,
+  "schema_version": 1,
+  "id": 1590,
+  "title": "Ghostfolio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ghostfolio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 698,
+      "collection": "Dashboard Icons",
+      "file": "ghostfolio.svg",
+      "id": 2761,
+      "is_default": true,
+      "label": "ghostfolio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ghostfolio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d48139ef4232c0e779d1f666214ba1fb298afc9c64814af05e7b5ba6a133175"
+      },
+      "sha256": "9a56ba1d7114779f95c579587501e094eceebd3ba528813123bb4a4142d3cedb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ghostfolio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

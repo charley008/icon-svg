@@ -1,0 +1,60 @@
+{
+  "collection_id": 1203,
+  "schema_version": 1,
+  "id": 1430,
+  "title": "Endel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Health"
+  ],
+  "aliases": [
+    "endel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1317,
+      "collection": "Dashboard Icons",
+      "file": "endel.svg",
+      "id": 2566,
+      "is_default": true,
+      "label": "endel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "endel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f87898883bcbb08da181dbc4b4c9518f7e61d6974ce4bdc60f5e3accd908edc"
+      },
+      "sha256": "ad06dd349c16f5fe0300d63f56c8f90a9e1be96fff36af62ddc8af16040231f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/endel.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1317,
+      "collection": "Dashboard Icons",
+      "file": "endel-1.svg",
+      "id": 2567,
+      "is_default": false,
+      "label": "endel-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "endel-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1f35813cda0b96f49066ed17730c15cedad77961463ec42833b3c347ed8dfb7"
+      },
+      "sha256": "dcec4af64e9de0c5055e7f40078e4c4a808195a2a25c2e1f265148ba9fbf3d69",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/endel-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

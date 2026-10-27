@@ -1,0 +1,40 @@
+{
+  "collection_id": 714,
+  "schema_version": 1,
+  "id": 941,
+  "title": "Anydesk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "anydesk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 379,
+      "collection": "Dashboard Icons",
+      "file": "anydesk.svg",
+      "id": 1918,
+      "is_default": true,
+      "label": "anydesk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anydesk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ec20f5d122a48302965ff91408a86b8086029eecf0b8f687f2da3728e5e87f8"
+      },
+      "sha256": "1bfeefb1b68e9e939049ec210b30150b6f611240b12a700f03739c73513f5c36",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anydesk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

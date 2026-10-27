@@ -1,0 +1,40 @@
+{
+  "collection_id": 2140,
+  "schema_version": 1,
+  "id": 2367,
+  "title": "Pia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4076,
+      "collection": "Dashboard Icons",
+      "file": "pia.svg",
+      "id": 3826,
+      "is_default": true,
+      "label": "pia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4cf340300af7658dfe6a627510201a7168cb68ccf148e9c0779e4203481631b7"
+      },
+      "sha256": "3063f6f1e3a54b19bf24cc0e3c9b155c63ce8fae4df800b112963be9c86f94c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pia.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

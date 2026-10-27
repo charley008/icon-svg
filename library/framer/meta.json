@@ -1,0 +1,40 @@
+{
+  "collection_id": 1320,
+  "schema_version": 1,
+  "id": 1547,
+  "title": "Framer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "framer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 242,
+      "collection": "Dashboard Icons",
+      "file": "framer.svg",
+      "id": 2712,
+      "is_default": true,
+      "label": "framer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "framer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a4efcad59537ac36b1e6ea9bf36dbc2ee0a7567ae4bb9a409c17fcf8699f98a"
+      },
+      "sha256": "a070eb3d56f95b0fbe0690c8224251bfd0af6626f766faa25303a5a92956207d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/framer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

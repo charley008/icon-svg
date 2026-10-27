@@ -1,0 +1,40 @@
+{
+  "collection_id": 2568,
+  "schema_version": 1,
+  "id": 2795,
+  "title": "Searxng",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "searxng"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 511,
+      "collection": "Dashboard Icons",
+      "file": "searxng.svg",
+      "id": 4389,
+      "is_default": true,
+      "label": "searxng",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "searxng.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0f4c72fe58055043d04446350e7d3e6a25105e507519b1ceacffd5b9aa89593"
+      },
+      "sha256": "eebd724296e70854c09de92db61a42e0fc982c96e01663c72bcb3505c32f7f21",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/searxng.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3076,
+  "schema_version": 1,
+  "id": 3306,
+  "title": "AngularJS",
+  "url": "https://angularjs.org",
+  "domains": [
+    "angularjs.org"
+  ],
+  "description": "用于构建 Web 界面的 JavaScript 框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "AngularJS",
+    "angularjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 665,
+      "collection": "TechIcons / Devicon",
+      "file": "angularjs-1.svg",
+      "id": 5063,
+      "is_default": true,
+      "label": "TechIcons · AngularJS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "AngularJS.svg",
+        "original_sha256": "cf86e31141b6a1c2cf40a7eafebed7db0b3843137f7445bb70398f1887cb9641",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/angularjs",
+        "reference_website": "https://angularjs.org"
+      },
+      "sha256": "6ef12d2f8e660c7ed9d403e89bf68b8e3659a053dfbe7d5d310dcd9e7d86e21d",
+      "source": "https://techicons.dev/icons/angularjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

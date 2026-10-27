@@ -1,0 +1,45 @@
+{
+  "collection_id": 3187,
+  "schema_version": 1,
+  "id": 3449,
+  "title": "Nodemon",
+  "url": "https://nodemon.io",
+  "domains": [
+    "nodemon.io"
+  ],
+  "description": "用于 Node.js 开发时自动重启程序的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Nodemon",
+    "nodemon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1102,
+      "collection": "TechIcons / Devicon",
+      "file": "nodemon-1.svg",
+      "id": 5288,
+      "is_default": true,
+      "label": "TechIcons · Nodemon",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nodemon.svg",
+        "original_sha256": "cce85525451b25bd0004f48d981eb43452382897e2da9e107f324353a8d43c84",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nodemon",
+        "reference_website": "https://nodemon.io"
+      },
+      "sha256": "b31be53068bc4b7180d2a31eddb37322a46b13937183533e490e3477d4a920b8",
+      "source": "https://techicons.dev/icons/nodemon",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

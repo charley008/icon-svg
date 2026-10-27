@@ -1,0 +1,40 @@
+{
+  "collection_id": 2475,
+  "schema_version": 1,
+  "id": 2702,
+  "title": "Receipt Wrangler",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "receipt-wrangler"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 602,
+      "collection": "Dashboard Icons",
+      "file": "receipt-wrangler.svg",
+      "id": 4272,
+      "is_default": true,
+      "label": "receipt-wrangler",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "receipt-wrangler.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bcc80c0c0a5c5968a37e2cdd2445cc74f7fd27072047b03a13a8fe61d02145be"
+      },
+      "sha256": "ee1ddfb85a45e90c6d6eea195694299d0360e5d504c1fbf57759519306a94ee3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/receipt-wrangler.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 885,
+  "schema_version": 1,
+  "id": 1112,
+  "title": "Bluetooth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bluetooth"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1294,
+      "collection": "Dashboard Icons",
+      "file": "bluetooth.svg",
+      "id": 2144,
+      "is_default": true,
+      "label": "bluetooth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bluetooth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a61932df0fd1bb7513c85611144b5833345f2b25b5c2b17212418eb9d00f7bc"
+      },
+      "sha256": "8a96a5d8aed34cf6cb7e087aec6da813d33981f62130276e73e67a98f35bfded",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bluetooth.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1882,
+  "schema_version": 1,
+  "id": 2109,
+  "title": "Mylar 3",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mylar-3"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2359,
+      "collection": "Dashboard Icons",
+      "file": "mylar-3.svg",
+      "id": 3461,
+      "is_default": true,
+      "label": "mylar-3",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mylar-3.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a3566b938fd0ab4d8bd398839f1bae26856ec111b04519d19a0419f7d735aa5"
+      },
+      "sha256": "fdd54aa98bd15fa906d1ec8ba36e15ee0b02e0fbf8ebe87fe4ef873a8ce48551",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mylar-3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

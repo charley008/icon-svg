@@ -1,0 +1,40 @@
+{
+  "collection_id": 3063,
+  "schema_version": 1,
+  "id": 3290,
+  "title": "Zoraxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zoraxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 627,
+      "collection": "Dashboard Icons",
+      "file": "zoraxy.svg",
+      "id": 5029,
+      "is_default": true,
+      "label": "zoraxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoraxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f645ce1dd86ed695ca337753f396b3fedeb1f024e833dd04d20cf3c269173e90"
+      },
+      "sha256": "57a32358ebff0092a934a4ab4d845655959f0a2ce3fad4e397521b23127cc0d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zoraxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2683,
+  "schema_version": 1,
+  "id": 2910,
+  "title": "Squarespace",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "squarespace"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1259,
+      "collection": "Dashboard Icons",
+      "file": "squarespace.svg",
+      "id": 4537,
+      "is_default": true,
+      "label": "squarespace",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "squarespace.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ba3f0b13a07bd79aaa510a43d8cea6012ac9a7cf46ff5337f8c456bbbc9c2d1"
+      },
+      "sha256": "cb52769993826914f77d823f95a071119cb1ac86db2eca5e2ebb3847860eb359",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/squarespace.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

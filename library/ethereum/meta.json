@@ -1,0 +1,45 @@
+{
+  "collection_id": 1218,
+  "schema_version": 1,
+  "id": 1445,
+  "title": "Ethereum",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Finance-\u0026-Banking",
+    "开发编程"
+  ],
+  "aliases": [
+    "ethereum",
+    "crypto-platform",
+    "decentralized-apps"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 585,
+      "collection": "Dashboard Icons",
+      "file": "ethereum.svg",
+      "id": 2589,
+      "is_default": true,
+      "label": "ethereum",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ethereum.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5a9b46b5f81698aec976d8f4a6bcb2a0dc3890386fffcf0133f3990be2e97a10"
+      },
+      "sha256": "5dd74c489b5332b980622e5b0a32fee129185e706e199ee5cc3112f70f7e400f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ethereum.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

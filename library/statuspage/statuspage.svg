@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 270.93333 270.93334" version="1.1" id="svg1183">
+  <defs id="defs1177" />
+  <g id="layer1" transform="translate(0.0035097,-1.5084017)">
+    <g transform="matrix(3.5586127,0,0,3.5586127,580.68163,-800.53933)" id="g1161">
+      <path style="opacity:1;fill:#4caf50;fill-opacity:1;stroke-width:1.75549;stop-opacity:1" fill="#cfd8dc" d="m -98.777783,231.8506 h -52.664687 c -2.90884,0 -5.26646,2.35937 -5.26646,5.26646 v 57.93115 l 15.01996,-14.04391 h 42.911187 c 2.90709,0 5.266468,-2.35938 5.266468,-5.26647 v -38.62077 c 0,-2.90709 -2.359378,-5.26646 -5.266468,-5.26646 z" id="path258" />
+      <path style="opacity:1;fill:#ffc107;fill-opacity:1;stroke-width:1.75549;stop-opacity:1" fill="#2196f3" d="m -132.13208,231.8506 h -19.31039 c -2.90884,0 -5.26646,2.35937 -5.26646,5.26646 v 57.93115 l 15.01996,-14.04391 h 21.84531 z" id="path260" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:37.6049px;line-height:1.25;font-family:sans-serif;fill:#5d4037;fill-opacity:1;stroke:none;stroke-width:0.940126" x="-150.89995" y="272.16544" id="text1121" transform="scale(1.0038473,0.99616744)"><tspan id="tspan1119" x="-150.89995" y="272.16544" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.6049px;font-family:monospace;-inkscape-font-specification:'monospace Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5d4037;fill-opacity:1;stroke-width:0.940126">!</tspan></text>
+      <path id="path1125-0" d="m -111.40848,266.31373 -7.56626,-7.56728 2.88608,-2.88607 4.68018,4.67916 9.78285,-9.78184 2.886082,2.88608 z" fill="#ffffff" style="opacity:1;stroke-width:1.02054;stop-opacity:1" />
+    </g>
+  </g>
+</svg>

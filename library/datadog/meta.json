@@ -1,0 +1,40 @@
+{
+  "collection_id": 1073,
+  "schema_version": 1,
+  "id": 1300,
+  "title": "Datadog",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "datadog"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2532,
+      "collection": "Dashboard Icons",
+      "file": "datadog.svg",
+      "id": 2390,
+      "is_default": true,
+      "label": "datadog",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "datadog.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5ace544c487830e61e7c678a1f23366b1f7e09b04dfcd51200bd7ac904a380d9"
+      },
+      "sha256": "1a33d11af309d91f5bda9054ea5ce842d6734f5026e36b9f53a670cf5cabb4e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/datadog.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

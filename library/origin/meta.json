@@ -1,0 +1,40 @@
+{
+  "collection_id": 2059,
+  "schema_version": 1,
+  "id": 2286,
+  "title": "Origin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "origin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1163,
+      "collection": "Dashboard Icons",
+      "file": "origin.svg",
+      "id": 3709,
+      "is_default": true,
+      "label": "origin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "origin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f20cc27ae0a9646c556185c263d6ac280ddd4b70c693ed6e837b9863b20e6cb7"
+      },
+      "sha256": "45f6402885e7df3f8caf1239df5558c2bdbd27cf322633d282c212ae0a6174a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/origin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

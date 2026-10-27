@@ -1,0 +1,40 @@
+{
+  "collection_id": 2085,
+  "schema_version": 1,
+  "id": 2312,
+  "title": "Paper",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "paper"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 344,
+      "collection": "Dashboard Icons",
+      "file": "paper.svg",
+      "id": 3744,
+      "is_default": true,
+      "label": "paper",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paper.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a99721c443888974f58047562707ce265f829b9caf73963fc85fffc0bea9e01d"
+      },
+      "sha256": "099b515a87294678ffd38f4d5ecf92982cf651d9fa50e0217d2a1d74766595e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paper.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

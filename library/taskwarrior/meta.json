@@ -1,0 +1,40 @@
+{
+  "collection_id": 2747,
+  "schema_version": 1,
+  "id": 2974,
+  "title": "Taskwarrior",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "taskwarrior"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1948,
+      "collection": "Dashboard Icons",
+      "file": "taskwarrior.svg",
+      "id": 4619,
+      "is_default": true,
+      "label": "taskwarrior",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "taskwarrior.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "84a16c6f6aa88279cb9138fd1e8ff67a4e9b66ff84a3293122237a18654fa195"
+      },
+      "sha256": "f23c0db9fd121a314fb632b689e353b89b9247e94b0f69e67e0e008e91a96a42",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/taskwarrior.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

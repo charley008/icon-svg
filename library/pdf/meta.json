@@ -1,0 +1,40 @@
+{
+  "collection_id": 2109,
+  "schema_version": 1,
+  "id": 2336,
+  "title": "Pdf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pdf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2913,
+      "collection": "Dashboard Icons",
+      "file": "pdf.svg",
+      "id": 3778,
+      "is_default": true,
+      "label": "pdf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pdf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e5f3706daf85d8fce5e7cbd0be6ad78df3f1757504c703a5737e2c0ec80da1bd"
+      },
+      "sha256": "d08080d63dca686f57dcf4d1e7cd8d101dbbdc6bb79fa35186b367d5dbd5687f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pdf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

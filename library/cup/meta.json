@@ -1,0 +1,40 @@
+{
+  "collection_id": 1056,
+  "schema_version": 1,
+  "id": 1283,
+  "title": "Cup",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cup"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2031,
+      "collection": "Dashboard Icons",
+      "file": "cup.svg",
+      "id": 2369,
+      "is_default": true,
+      "label": "cup",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cup.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8926bf5714f6ddd2556f5ae142e100339816390536e8852aae89d58e884b92ba"
+      },
+      "sha256": "18667151255b6e0f78f3d40652257444a77983558a8ac33d6ce37e22d67a8404",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cup.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

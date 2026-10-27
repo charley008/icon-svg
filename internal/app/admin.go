@@ -224,6 +224,7 @@ func (a *App) adminHome(w http.ResponseWriter, r *http.Request) {
 }
 
 type AdminSettings struct {
+	ImportMessage      string
 	Scan               LibraryScanStatus
 	ScanSchedule       string
 	ScanMinutes        int
@@ -242,6 +243,16 @@ func (a *App) adminSettings(w http.ResponseWriter, r *http.Request) {
 		p.View = ""
 	}
 	if p.View == "library" {
+		if r.URL.Query().Get("imported") == "1" {
+			added, e1 := strconv.Atoi(r.URL.Query().Get("added"))
+			skipped, e2 := strconv.Atoi(r.URL.Query().Get("skipped"))
+			if e1 == nil && e2 == nil && added >= 0 && skipped >= 0 {
+				p.ImportMessage = fmt.Sprintf("导入完成：新增 %d 个图标，跳过 %d 个重复或已移除的图标。", added, skipped)
+				if categorized, err := strconv.Atoi(r.URL.Query().Get("categorized")); err == nil && categorized > 0 {
+					p.ImportMessage += fmt.Sprintf(" 已补全 %d 个条目的分类。", categorized)
+				}
+			}
+		}
 		p.Scan = a.store.library.scanStatus()
 		interval := time.Duration(a.scanInterval.Load())
 		p.ScanSchedule = scanSchedule(interval)
@@ -445,7 +456,11 @@ func (a *App) createBrand(w http.ResponseWriter, r *http.Request) {
 			return errors.New("合集标识已存在，或上级合集不存在")
 		}
 		id, _ = res.LastInsertId()
-		if _, e = tx.Exec(`INSERT INTO groups(brand_id,metadata,published,updated_at) VALUES(?,?,?,?)`, id, jsonText(m), true, stamp()); e != nil {
+		gid, e := nextGroupID(tx)
+		if e != nil {
+			return e
+		}
+		if _, e = tx.Exec(`INSERT INTO groups(id,brand_id,metadata,published,updated_at) VALUES(?,?,?,?,?)`, gid, id, jsonText(m), true, stamp()); e != nil {
 			return e
 		}
 		return audit(tx, "brand_created", slug)
@@ -545,7 +560,11 @@ func (a *App) createProduct(w http.ResponseWriter, r *http.Request) {
 		if _, e := brandByID(tx, bid); e != nil {
 			return e
 		}
-		if _, e := tx.Exec(`INSERT INTO groups(brand_id,product_key,metadata,published,updated_at) VALUES(?,?,?,?,?)`, bid, m.Key, jsonText(m), true, stamp()); e != nil {
+		gid, e := nextGroupID(tx)
+		if e != nil {
+			return e
+		}
+		if _, e := tx.Exec(`INSERT INTO groups(id,brand_id,product_key,metadata,published,updated_at) VALUES(?,?,?,?,?,?)`, gid, bid, m.Key, jsonText(m), true, stamp()); e != nil {
 			return errors.New("产品标识已存在，包括回收站记录")
 		}
 		return audit(tx, "product_created", m.Key)

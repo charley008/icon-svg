@@ -1,0 +1,45 @@
+{
+  "collection_id": 3147,
+  "schema_version": 1,
+  "id": 3395,
+  "title": "Ionic",
+  "url": "https://ionicframework.com",
+  "domains": [
+    "ionicframework.com"
+  ],
+  "description": "用于开发跨平台应用的界面与应用框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Ionic",
+    "ionic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 335,
+      "collection": "TechIcons / Devicon",
+      "file": "ionic-1.svg",
+      "id": 5212,
+      "is_default": true,
+      "label": "TechIcons · Ionic",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ionic.svg",
+        "original_sha256": "8cf4467caadfe802150ea693397d34bc394bfa1c1de0145521a89a087bde20c4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ionic",
+        "reference_website": "https://ionicframework.com"
+      },
+      "sha256": "52065e56f00bb402322b73670c6c1cf4b02fa233aa91b5db52e331f7ddd6fb29",
+      "source": "https://techicons.dev/icons/ionic",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

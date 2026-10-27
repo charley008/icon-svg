@@ -1,0 +1,42 @@
+{
+  "collection_id": 1713,
+  "schema_version": 1,
+  "id": 1940,
+  "title": "Linkstack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "linkstack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3031,
+      "collection": "Dashboard Icons",
+      "file": "linkstack.svg",
+      "id": 3234,
+      "is_default": true,
+      "label": "linkstack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkstack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4f0607affbd5d28fcb61910206ad25119627ad35109fb0a8f8d5d1a1fd8aecb"
+      },
+      "sha256": "32b996f0bbc0c01d1262f28c5da2be0e24f65476a68c1e61a23c326eef10e3d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linkstack.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

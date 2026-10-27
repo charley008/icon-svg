@@ -1,0 +1,45 @@
+{
+  "collection_id": 3207,
+  "schema_version": 1,
+  "id": 3470,
+  "title": "PostCSS",
+  "url": "https://postcss.org",
+  "domains": [
+    "postcss.org"
+  ],
+  "description": "基于插件处理 CSS 的开发工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "PostCSS",
+    "postcss"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 38231,
+      "collection": "TechIcons / Devicon",
+      "file": "postcss-1.svg",
+      "id": 5319,
+      "is_default": true,
+      "label": "TechIcons · PostCSS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "PostCSS.svg",
+        "original_sha256": "95f805a1fe12d899feff521fdaf8976fb3d319babbd441b88d5c478e7d5705a2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/postcss",
+        "reference_website": "https://postcss.org"
+      },
+      "sha256": "3f2316b6bf9ecc9ee4161b3b2ba22d57d8fa95b8e6a74d292fadc902af949463",
+      "source": "https://techicons.dev/icons/postcss",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

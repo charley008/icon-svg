@@ -167,8 +167,27 @@
       "sha256": "8137537a9447087d498f1cef80ca183d6dd2f76123d9cd5fcd1fb2682f382ae2",
       "source": "https://cdn.worldvectorlogo.com/logos/bilibili.svg",
       "version": 5
+    },
+    {
+      "bytes": 3879,
+      "collection": "Dashboard Icons",
+      "file": "bilibili-6.svg",
+      "id": 2119,
+      "is_default": false,
+      "label": "bilibili",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bilibili.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4f53665deebf6e8e75f055e96b73f220f16a65ac3dd4fdd447e11cca4e8c4ef7"
+      },
+      "sha256": "bbb45c3dc41cb4504b40e150243f51f8f38bdab5d2b93556bf47f7c5192654a2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bilibili.svg",
+      "version": 6
     }
   ],
-  "next_version": 6,
+  "next_version": 7,
   "products": []
 }

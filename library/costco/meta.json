@@ -1,0 +1,40 @@
+{
+  "collection_id": 1031,
+  "schema_version": 1,
+  "id": 1258,
+  "title": "Costco",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "costco"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7196,
+      "collection": "Dashboard Icons",
+      "file": "costco.svg",
+      "id": 2336,
+      "is_default": true,
+      "label": "costco",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "costco.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "00717d866552f4ec8c8411373a055e78c40905cc83b5c671f3911c6b0b8c4488"
+      },
+      "sha256": "f2bda4349493b08badd9267a00aaa7fd439247b380af89079a31d38671be0365",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/costco.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 982,
+  "schema_version": 1,
+  "id": 1209,
+  "title": "Clickhouse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "clickhouse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 342,
+      "collection": "Dashboard Icons",
+      "file": "clickhouse.svg",
+      "id": 2266,
+      "is_default": true,
+      "label": "clickhouse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "clickhouse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "548db18bea4b24f7417611b936ac71e361113816d61b136f09032069b781de97"
+      },
+      "sha256": "2ba854b50673a2af152ba0ded894f681fd18d2c19ab14f9afe678c5d4e7a4a0d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/clickhouse.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

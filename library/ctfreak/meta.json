@@ -1,0 +1,40 @@
+{
+  "collection_id": 1052,
+  "schema_version": 1,
+  "id": 1279,
+  "title": "Ctfreak",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ctfreak"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 771,
+      "collection": "Dashboard Icons",
+      "file": "ctfreak.svg",
+      "id": 2363,
+      "is_default": true,
+      "label": "ctfreak",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctfreak.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "56228e27f8bbde5606d93d46f90d1c7e4eca04e76e4181a8a48cc451865281fe"
+      },
+      "sha256": "021d1b3f4881c7c67fe1ab7e710805379dd8d8ec94667c856c8a6b9ed99d7516",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ctfreak.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

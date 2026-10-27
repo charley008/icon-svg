@@ -1,0 +1,59 @@
+{
+  "collection_id": 2466,
+  "schema_version": 1,
+  "id": 2693,
+  "title": "Rapid7",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rapid7"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2877,
+      "collection": "Dashboard Icons",
+      "file": "rapid7.svg",
+      "id": 4257,
+      "is_default": true,
+      "label": "rapid7",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rapid7.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3d0a93d3db01f12f0ddc0b31cd1ae1065c945e6bba174d27d648977459f1b16c"
+      },
+      "sha256": "02bcbecd3ea60def4d5272bdd211967b0cfad169b54a0cf23b3222bd7165b927",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rapid7.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2877,
+      "collection": "Dashboard Icons",
+      "file": "rapid7-1.svg",
+      "id": 4258,
+      "is_default": false,
+      "label": "rapid7-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rapid7-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "439320a6366d02d5c53eb843e1db48863bdf3193bb1a5b88839cf8b00f4952fd"
+      },
+      "sha256": "fa14b3bc564f76a3f0a4502cec6b5c19ed8b8db6e14d19f92830855c53d46600",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rapid7-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

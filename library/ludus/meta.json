@@ -1,0 +1,62 @@
+{
+  "collection_id": 1748,
+  "schema_version": 1,
+  "id": 1975,
+  "title": "Ludus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "ludus",
+    "ludus-cloud",
+    "ludus-goad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 21134,
+      "collection": "Dashboard Icons",
+      "file": "ludus.svg",
+      "id": 3276,
+      "is_default": true,
+      "label": "ludus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ludus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76103edb620a211971c31a72c18986689b4cf91839cc01a7a614d872a685e951"
+      },
+      "sha256": "ce55ce39863a962b33d180c129f84e98ff5d4c5ccbda4278538247460fe394e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ludus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 21134,
+      "collection": "Dashboard Icons",
+      "file": "ludus-1.svg",
+      "id": 3277,
+      "is_default": false,
+      "label": "ludus-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ludus-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5bb35c3fe508d71b577953c5b248868136d8eb9a0ef9f665a2f5ad654ac0bf25"
+      },
+      "sha256": "681e38af70a6d6c259f20d251412a69fdb7b3f6500436b27ab474e627d95b98e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ludus-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

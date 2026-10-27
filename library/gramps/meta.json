@@ -1,0 +1,44 @@
+{
+  "collection_id": 1417,
+  "schema_version": 1,
+  "id": 1644,
+  "title": "Gramps",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Personal",
+    "办公效率"
+  ],
+  "aliases": [
+    "gramps",
+    "Genealogy Software"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5639,
+      "collection": "Dashboard Icons",
+      "file": "gramps.svg",
+      "id": 2843,
+      "is_default": true,
+      "label": "gramps",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gramps.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fa4d8b3a5444524f2771bf697c857f7705b36a9ac69ca76092017b43f01e0c87"
+      },
+      "sha256": "6af1b380b5fa648d3bcc7363ca407fd114e97a693b6602cf4d05d1d53042f752",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gramps.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

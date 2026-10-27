@@ -1,0 +1,46 @@
+{
+  "collection_id": 3219,
+  "schema_version": 1,
+  "id": 3482,
+  "title": "ReCT",
+  "url": "https://rect.ml",
+  "domains": [
+    "rect.ml"
+  ],
+  "description": "ReCT 编程语言及其编译工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "ReCT",
+    "rect",
+    "RedCube's-epic-Compiler-Thingy-programming-(ReCT)"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 627,
+      "collection": "TechIcons / Devicon",
+      "file": "rect-1.svg",
+      "id": 5338,
+      "is_default": true,
+      "label": "TechIcons · ReCT",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "RedCube's-epic-Compiler-Thingy-programming-(ReCT).svg",
+        "original_sha256": "5f1a160a4d00edda2235735017ccd66dcdabae1062478322e7d3f54fc11ed1f5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/rect",
+        "reference_website": "https://rect.ml"
+      },
+      "sha256": "4a987aeb8f54da3afcd01cabf6047262b6c304a18fb584c8ca50e9752541e2b4",
+      "source": "https://techicons.dev/icons/rect",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 963,
+  "schema_version": 1,
+  "id": 1190,
+  "title": "Chess",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chess"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2262,
+      "collection": "Dashboard Icons",
+      "file": "chess.svg",
+      "id": 2243,
+      "is_default": true,
+      "label": "chess",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chess.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2d86c10ae5d29806c92717a5c8d45adbf83fb602529406a8a93dbd0fe7b11d6"
+      },
+      "sha256": "ee85bd191b15b3d5ed4ec2b87e2908c94c4a5a94469b33342ecc865912a44011",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chess.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

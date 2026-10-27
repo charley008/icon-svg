@@ -1,0 +1,59 @@
+{
+  "collection_id": 1302,
+  "schema_version": 1,
+  "id": 1529,
+  "title": "Flux Operator",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flux-operator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1573,
+      "collection": "Dashboard Icons",
+      "file": "flux-operator.svg",
+      "id": 2690,
+      "is_default": true,
+      "label": "flux-operator",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flux-operator.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f6b85db59ababdb1a524b00c813a57aa44520825548540a19ed9a40b13f33ba"
+      },
+      "sha256": "033491f84b7e9f8231a075017030b23aa07fc2da68735151d83dd9f5cde227d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flux-operator.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1558,
+      "collection": "Dashboard Icons",
+      "file": "flux-operator-1.svg",
+      "id": 2691,
+      "is_default": false,
+      "label": "flux-operator-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flux-operator-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1bb59f37ad09c6f90c1a9ff296a076241ad1a4ddc576e426a28e88010ac4528c"
+      },
+      "sha256": "24c47eda50f29b122e82182ee58054284363f152c7ec2baa8b224559695ff615",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flux-operator-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

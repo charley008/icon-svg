@@ -1,0 +1,40 @@
+{
+  "collection_id": 2624,
+  "schema_version": 1,
+  "id": 2851,
+  "title": "Simplelogin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "simplelogin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3352,
+      "collection": "Dashboard Icons",
+      "file": "simplelogin.svg",
+      "id": 4463,
+      "is_default": true,
+      "label": "simplelogin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "simplelogin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b93c59348802962d9aefc66706eb2b4a15f3a5bf20ed1aa03b7692dff15ffea6"
+      },
+      "sha256": "53029f3ba733058555ff2ace5456c350cc63b06ac5a7740095fcab57cfb41b05",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/simplelogin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,78 @@
+{
+  "collection_id": 860,
+  "schema_version": 1,
+  "id": 1087,
+  "title": "Beetstreamnext",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "beetstreamnext"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7842,
+      "collection": "Dashboard Icons",
+      "file": "beetstreamnext.svg",
+      "id": 2107,
+      "is_default": true,
+      "label": "beetstreamnext",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beetstreamnext.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb32042390b924245cf4909fc234bea41593ca65763ac2f0765ea44afe852504"
+      },
+      "sha256": "8dc368ff6c93cf66a77495608231a7ee9156e5f85285e0730b3015d9162141f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beetstreamnext.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3992,
+      "collection": "Dashboard Icons",
+      "file": "beetstreamnext-1.svg",
+      "id": 2108,
+      "is_default": false,
+      "label": "beetstreamnext-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beetstreamnext-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "399a8b37c1dad86ceab1ca7836b64eb170bc3cf676d8521aae847bfc1d3abd3b"
+      },
+      "sha256": "79d251acd916c86fc1c24fd852da92792994fca2577cd17e360bec84810bf49f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beetstreamnext-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3972,
+      "collection": "Dashboard Icons",
+      "file": "beetstreamnext-2.svg",
+      "id": 2109,
+      "is_default": false,
+      "label": "beetstreamnext-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beetstreamnext-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cda3fe83eeda2f99bd4d63051735d3dfe06bb3ca43254b1dbd1210b2c233bde"
+      },
+      "sha256": "fad1cee1899d07419b4552a2a47f39b35965b2499533af91cd5fc2a0c5110133",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beetstreamnext-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

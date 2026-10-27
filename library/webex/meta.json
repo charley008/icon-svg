@@ -1,0 +1,42 @@
+{
+  "collection_id": 2959,
+  "schema_version": 1,
+  "id": 3186,
+  "title": "Webex",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "webex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 39167,
+      "collection": "Dashboard Icons",
+      "file": "webex.svg",
+      "id": 4892,
+      "is_default": true,
+      "label": "webex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7b31a171bc67bab7827d312beb0dbda248e891c491a1b3943abbe6c6254ef3eb"
+      },
+      "sha256": "1426caf4ca9e776f00b9877f6b3ebcdeeb2bb402a53fc11cac7437832bfde09b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webex.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 2650,
+  "schema_version": 1,
+  "id": 2877,
+  "title": "Solaar",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Software"
+  ],
+  "aliases": [
+    "solaar"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2675,
+      "collection": "Dashboard Icons",
+      "file": "solaar.svg",
+      "id": 4494,
+      "is_default": true,
+      "label": "solaar",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "solaar.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "28e800ef9e52e9b2f27b97cf0b6c42847da953717e1ae0ce78534bc70bb77002"
+      },
+      "sha256": "368d944218f7f63b22ce827b86171b3bbc437d5c85063f2d0d6e7cb99e360b7b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/solaar.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

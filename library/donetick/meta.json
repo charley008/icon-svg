@@ -1,0 +1,40 @@
+{
+  "collection_id": 1144,
+  "schema_version": 1,
+  "id": 1371,
+  "title": "Donetick",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "donetick"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 64116,
+      "collection": "Dashboard Icons",
+      "file": "donetick.svg",
+      "id": 2486,
+      "is_default": true,
+      "label": "donetick",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "donetick.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39e8288d263164ee0bccce48c70f439617b3afbeeb73aefe05ceed9e98fcde19"
+      },
+      "sha256": "59ad6074bc97ce25d483c062d00095b7a3fcd679ab5b8fc696141b5c2fe22f10",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/donetick.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

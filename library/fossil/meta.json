@@ -1,0 +1,44 @@
+{
+  "collection_id": 1317,
+  "schema_version": 1,
+  "id": 1544,
+  "title": "Fossil",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Version-Control-Systems",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "fossil",
+    "Version Control"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16488,
+      "collection": "Dashboard Icons",
+      "file": "fossil.svg",
+      "id": 2709,
+      "is_default": true,
+      "label": "fossil",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fossil.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f510f67ea2b200b3a16a1ae804928b160099fc9cec25172ab937b3c8ad72385"
+      },
+      "sha256": "249a4cbc3e503138bd2f3810d4d7ac78f60c99071ccbf5831318261de11d84c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fossil.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3178,
+  "schema_version": 1,
+  "id": 3440,
+  "title": "Moleculer",
+  "url": "https://moleculer.services",
+  "domains": [
+    "moleculer.services"
+  ],
+  "description": "用于 Node.js 微服务开发的框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Moleculer",
+    "moleculer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 957,
+      "collection": "TechIcons / Devicon",
+      "file": "moleculer-1.svg",
+      "id": 5273,
+      "is_default": true,
+      "label": "TechIcons · Moleculer",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Moleculer.svg",
+        "original_sha256": "4e2017f6c5fa52bc43cc47f6f9eae3af7b04927acbe335dd2e43b54c0590d7d7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/moleculer",
+        "reference_website": "https://moleculer.services"
+      },
+      "sha256": "5c759b72effacc676ccf1becc861c63c71c619bd414a0812284be946e2e4db99",
+      "source": "https://techicons.dev/icons/moleculer",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

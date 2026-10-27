@@ -1,0 +1,64 @@
+{
+  "collection_id": 1571,
+  "schema_version": 1,
+  "id": 1798,
+  "redirect_from": [
+    1799
+  ],
+  "title": "Ivanti",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ivanti",
+    "ivanti-icon",
+    "Ivanti Icon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2482,
+      "collection": "Dashboard Icons",
+      "file": "ivanti.svg",
+      "id": 3056,
+      "is_default": true,
+      "label": "ivanti",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ivanti.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54c08ec6505135bf5c76c35226f177929c1b00055c37c9a72befe4d316d57443"
+      },
+      "sha256": "25a585cd77adb95a9428388518daefa2e3f3faff0a8fc06ff27bfe27f9a53265",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ivanti.svg",
+      "version": 0
+    },
+    {
+      "bytes": 224,
+      "collection": "Dashboard Icons",
+      "file": "ivanti-1.svg",
+      "id": 3057,
+      "is_default": false,
+      "label": "ivanti-icon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ivanti-icon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7b8834073012a9149ad9c2a025cfb8069220b5ea7e962c5d7c1406c8ae4ca4b2"
+      },
+      "sha256": "6b79be94f715ebc320b1220e052342e7656339b5eb0248b0d90dc107002666c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ivanti-icon.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

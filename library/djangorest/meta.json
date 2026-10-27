@@ -1,0 +1,46 @@
+{
+  "collection_id": 3112,
+  "schema_version": 1,
+  "id": 3352,
+  "title": "Django REST",
+  "url": "https://www.django-rest-framework.org",
+  "domains": [
+    "django-rest-framework.org"
+  ],
+  "description": "基于 Django 的 Web API 开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Django REST",
+    "djangorest",
+    "Django-REST"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27905,
+      "collection": "TechIcons / Devicon",
+      "file": "djangorest-1.svg",
+      "id": 5129,
+      "is_default": true,
+      "label": "TechIcons · Django REST",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Django-REST.svg",
+        "original_sha256": "0d27c70594ad23d2a6e811dba0530d8fd9cd5edac0ad3b0592cbd0c2a5f8dd2e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/djangorest",
+        "reference_website": "https://www.django-rest-framework.org"
+      },
+      "sha256": "2ce753b451a2ef784ac6e07ade8705fb1dae6e7a041e5fdcf1cac8c83917e51d",
+      "source": "https://techicons.dev/icons/djangorest",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

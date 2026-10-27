@@ -1,0 +1,44 @@
+{
+  "collection_id": 1473,
+  "schema_version": 1,
+  "id": 1700,
+  "title": "Hexo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "hexo",
+    "blog-generator",
+    "website-builder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 344,
+      "collection": "Dashboard Icons",
+      "file": "hexo.svg",
+      "id": 2928,
+      "is_default": true,
+      "label": "hexo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hexo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d0c237f37bbf1dc15caea8de7d504fb540e31253da5f4b5214310e40b155a9e"
+      },
+      "sha256": "67fa4f4899d6adab9f00a8fd647623b094bd6acbd3d4988d69671af5205badc0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hexo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

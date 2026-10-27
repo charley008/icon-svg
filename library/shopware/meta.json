@@ -1,0 +1,45 @@
+{
+  "collection_id": 3232,
+  "schema_version": 1,
+  "id": 3495,
+  "title": "Shopware",
+  "url": "https://www.shopware.com",
+  "domains": [
+    "shopware.com"
+  ],
+  "description": "面向商家的电子商务平台。",
+  "category": "电商购物",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Shopware",
+    "shopware"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 648,
+      "collection": "TechIcons / Devicon",
+      "file": "shopware-1.svg",
+      "id": 5358,
+      "is_default": true,
+      "label": "TechIcons · Shopware",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Shopware.svg",
+        "original_sha256": "3a8b75e91e58bc7610ca3d89587a6ffe36f51ae47e53d7176bfb554024d86c72",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/shopware",
+        "reference_website": "https://www.shopware.com"
+      },
+      "sha256": "e501b12e586f4b9f97209623167788025cb46b30c79d6499f48f4dea5abcfc1d",
+      "source": "https://techicons.dev/icons/shopware",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

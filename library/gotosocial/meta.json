@@ -1,0 +1,40 @@
+{
+  "collection_id": 1415,
+  "schema_version": 1,
+  "id": 1642,
+  "title": "Gotosocial",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gotosocial"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6468,
+      "collection": "Dashboard Icons",
+      "file": "gotosocial.svg",
+      "id": 2841,
+      "is_default": true,
+      "label": "gotosocial",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gotosocial.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "af3782dcab6132a1aaec37607e5f53b346a2500eb731205fcdeb702bd10cc511"
+      },
+      "sha256": "375eba6b7d619e36b68f3be3a2f8e44820f0efaa9dc2ea33cfa8cb755e975402",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gotosocial.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

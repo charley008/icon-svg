@@ -1,0 +1,86 @@
+{
+  "collection_id": 1715,
+  "schema_version": 1,
+  "id": 1942,
+  "title": "Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "Linux-Distributions",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "linux",
+    "Tux",
+    "Linux 企鹅"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 72582,
+      "collection": "Dashboard Icons",
+      "file": "linux.svg",
+      "id": 3238,
+      "is_default": true,
+      "label": "linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dbc5138223fc49f884dc16483585013f2bd32dac10ce2548e7b864199acd4372"
+      },
+      "sha256": "66cf8d7491b77cdd360b80ebe50b8bc3bb9763286e4acbc4c7c549bde36a70f1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linux.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5570,
+      "collection": "用户提供",
+      "file": "linux-1.svg",
+      "id": 5045,
+      "is_default": false,
+      "label": "Linux 简洁单色图标",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "2333386-code-linux-os_85584.svg",
+        "original_sha256": "417d07ed2d9a66802e523ec10faaa97f2922dfa15e6b7f38772d9445b83940e3",
+        "processing": [
+          "Removed external SVG DOCTYPE declaration; all remaining SVG bytes unchanged"
+        ]
+      },
+      "sha256": "0c73bf2409d248c3e4cf44e6da5272a460f63d589070f307aecd6ab423e7775d",
+      "source": "用户提供：2333386-code-linux-os_85584.svg",
+      "version": 1
+    },
+    {
+      "bytes": 193356,
+      "collection": "用户提供",
+      "file": "linux-2.svg",
+      "id": 5046,
+      "is_default": false,
+      "label": "Linux Tux 彩色图标",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "linux_original_logo_icon_146433.svg",
+        "original_sha256": "6f1d5359732416ba69a867ca00f83d84b8f62815cc61fac58d95f9bd0bc0c43f",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "6f1d5359732416ba69a867ca00f83d84b8f62815cc61fac58d95f9bd0bc0c43f",
+      "source": "用户提供：linux_original_logo_icon_146433.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

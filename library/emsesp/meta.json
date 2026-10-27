@@ -1,0 +1,42 @@
+{
+  "collection_id": 1198,
+  "schema_version": 1,
+  "id": 1425,
+  "title": "Emsesp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "emsesp",
+    "ems-esp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4236,
+      "collection": "Dashboard Icons",
+      "file": "emsesp.svg",
+      "id": 2560,
+      "is_default": true,
+      "label": "emsesp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emsesp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a1590eb27215c55b799bce7cd5ade99d47eb80a58fc4613dcffff15faa122245"
+      },
+      "sha256": "e32d9d1203da2da6ca2b952402472651acfc0ed67782671ef902fd906944f494",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emsesp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

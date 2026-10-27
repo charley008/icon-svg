@@ -1,0 +1,40 @@
+{
+  "collection_id": 2456,
+  "schema_version": 1,
+  "id": 2683,
+  "title": "Rackpeek",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rackpeek"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7064,
+      "collection": "Dashboard Icons",
+      "file": "rackpeek.svg",
+      "id": 4246,
+      "is_default": true,
+      "label": "rackpeek",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rackpeek.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bffcb1e8027602c3c90268a4eb9ae8308966f31a991382162daee5d6c0bc369e"
+      },
+      "sha256": "d9cbb2a1afabb64678e39814da4e23cd4c30559d8b301b52444ae738f1a2d3c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rackpeek.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

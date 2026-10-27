@@ -1,0 +1,45 @@
+{
+  "collection_id": 3180,
+  "schema_version": 1,
+  "id": 3442,
+  "title": "Nano",
+  "url": "https://www.nano-editor.org/",
+  "domains": [
+    "nano-editor.org"
+  ],
+  "description": "命令行文本编辑器。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Nano",
+    "nano"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 128098,
+      "collection": "TechIcons / Devicon",
+      "file": "nano-1.svg",
+      "id": 5277,
+      "is_default": true,
+      "label": "TechIcons · Nano",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nano.svg",
+        "original_sha256": "64af98212d186568b6c0c2c618be9f7055f28c022e2868a5cbc5a2e20813f033",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nano",
+        "reference_website": "https://www.nano-editor.org/"
+      },
+      "sha256": "705954b38e84fbf151b1a2dbdda99f61c22c44bcba12401470daa9f5b35fa3fd",
+      "source": "https://techicons.dev/icons/nano",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3171,
+  "schema_version": 1,
+  "id": 3428,
+  "title": "MATLAB",
+  "url": "https://www.mathworks.com/products/matlab.html",
+  "domains": [
+    "mathworks.com"
+  ],
+  "description": "面向数值计算、数据分析与工程研究的软件平台。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "MATLAB",
+    "matlab"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1934,
+      "collection": "TechIcons / Devicon",
+      "file": "matlab-1.svg",
+      "id": 5258,
+      "is_default": true,
+      "label": "TechIcons · MATLAB",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "MATLAB.svg",
+        "original_sha256": "03f162fa2d349019b1fad920206b27246e5f5b48e6f7c15fb890fc3e8d3c82e0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/matlab",
+        "reference_website": "https://www.mathworks.com/products/matlab.html"
+      },
+      "sha256": "f8cfe12323d56d7e6221d158ccc6039146b5f029f8c3ac1eeb52f98ed0f23e5f",
+      "source": "https://techicons.dev/icons/matlab",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

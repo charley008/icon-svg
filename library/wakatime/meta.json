@@ -1,0 +1,64 @@
+{
+  "collection_id": 2946,
+  "schema_version": 1,
+  "id": 3173,
+  "title": "Wakatime",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Monitoring-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "wakatime",
+    "coding-tracker",
+    "developer-analytics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 760,
+      "collection": "Dashboard Icons",
+      "file": "wakatime.svg",
+      "id": 4874,
+      "is_default": true,
+      "label": "wakatime",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wakatime.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "418466858e2f2e422f5c0ba2bd9ac2c9ee8f4cfb5ffea75098e6858be21a51d0"
+      },
+      "sha256": "deb9d1b20882d45e02bf0b1d4083c85c77d26bcae2f70b81e81956482085e1ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wakatime.svg",
+      "version": 0
+    },
+    {
+      "bytes": 775,
+      "collection": "Dashboard Icons",
+      "file": "wakatime-1.svg",
+      "id": 4875,
+      "is_default": false,
+      "label": "wakatime-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wakatime-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45049cb840b53e40ed600444a4324c2da9dec0c6969e29465d9e8941effce90f"
+      },
+      "sha256": "5b55796e4fe3527c09dae01430c00259becb620628721a568efe16be103b0444",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wakatime-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

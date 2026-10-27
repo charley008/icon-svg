@@ -1,0 +1,61 @@
+{
+  "collection_id": 771,
+  "schema_version": 1,
+  "id": 998,
+  "title": "Atuin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "atuin",
+    "atuin-sh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12311,
+      "collection": "Dashboard Icons",
+      "file": "atuin.svg",
+      "id": 1996,
+      "is_default": true,
+      "label": "atuin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atuin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d058da5b7b6d06898e2aa30b7886891c7bad286c1e471d8a015e24699fe85729"
+      },
+      "sha256": "94bc4a5c85b43f57b6a794589200bad41292345f6785251ab10ba0e2aaf750c7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atuin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9810,
+      "collection": "Dashboard Icons",
+      "file": "atuin-1.svg",
+      "id": 1997,
+      "is_default": false,
+      "label": "atuin-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "atuin-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36c412c073fa223e27de2a1c9e2ea3de9b2aad57f1f17046d5ce9b647702e7ad"
+      },
+      "sha256": "8d6df41a1c93197cfeb6098eda8ad6461be36a0311d8f024a0671174c565ce0e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atuin-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

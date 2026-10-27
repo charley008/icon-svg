@@ -1,0 +1,60 @@
+{
+  "collection_id": 1441,
+  "schema_version": 1,
+  "id": 1668,
+  "title": "Harvester",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "harvester"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2020,
+      "collection": "Dashboard Icons",
+      "file": "harvester.svg",
+      "id": 2878,
+      "is_default": true,
+      "label": "harvester",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "harvester.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "abfaa248e69ab19f7d502dad9e7a433038e573ca3f6a3479bf36e6d2f9dc0ab8"
+      },
+      "sha256": "58f1f8323f7600a01301867da847fc5dd9fbe036752231a8fc185a2e73dc6bbe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/harvester.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1896,
+      "collection": "TechIcons / Devicon",
+      "file": "harvester-1.svg",
+      "id": 5195,
+      "is_default": false,
+      "label": "TechIcons · Harvester",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Harvester.svg",
+        "original_sha256": "2c672585a10d5c6582fc61f8d497e13c53899c081ec494661e25dd08901b2421",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/harvester",
+        "reference_website": "https://harvesterhci.io"
+      },
+      "sha256": "a4601bd730037f1295b2b301bd1c424730402737625f0b56e82287809e830841",
+      "source": "https://techicons.dev/icons/harvester",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

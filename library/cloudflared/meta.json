@@ -1,0 +1,78 @@
+{
+  "collection_id": 990,
+  "schema_version": 1,
+  "id": 1217,
+  "title": "Cloudflared",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cloudflared"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1233,
+      "collection": "Dashboard Icons",
+      "file": "cloudflared.svg",
+      "id": 2278,
+      "is_default": true,
+      "label": "cloudflared",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflared.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "32876bda81542203316d67b9623818ac60986897cac79f70e03e8f31f7b7f160"
+      },
+      "sha256": "cd1d7b8205c3a56c2acd97efeb0e0c318cfd23b8f0229a8d2c7f54f9587b5633",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflared.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1233,
+      "collection": "Dashboard Icons",
+      "file": "cloudflared-1.svg",
+      "id": 2279,
+      "is_default": false,
+      "label": "cloudflared-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflared-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ba8997967146d794798063dc72419cee6b1db83dceabefe4be6fe397bb44188"
+      },
+      "sha256": "f63efcd98e3cea6029dd0d76fff050dc363397f8b998d4919b5f99208fafc0bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflared-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1233,
+      "collection": "Dashboard Icons",
+      "file": "cloudflared-2.svg",
+      "id": 2280,
+      "is_default": false,
+      "label": "cloudflared-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflared-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1609d0c21caec80056bab7fcfc6708efc1b5ab75c3b7c6c8f679df2c209d3783"
+      },
+      "sha256": "9da60a9482b541e0696e9035d46ffadf03b50c3f560c2297d9e2580bed2c11b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflared-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

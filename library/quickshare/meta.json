@@ -1,0 +1,40 @@
+{
+  "collection_id": 2449,
+  "schema_version": 1,
+  "id": 2676,
+  "title": "Quickshare",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "quickshare"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3730,
+      "collection": "Dashboard Icons",
+      "file": "quickshare.svg",
+      "id": 4239,
+      "is_default": true,
+      "label": "quickshare",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quickshare.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d721c7b8df989a5c635b077c5eef98b68be0c8060de48f7adcf072c05f31d2d"
+      },
+      "sha256": "3c328403644daf93e921cf496fcc42f391bb669a8702167dcb86e7f7366a3a09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/quickshare.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

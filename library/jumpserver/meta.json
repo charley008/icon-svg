@@ -1,0 +1,40 @@
+{
+  "collection_id": 1602,
+  "schema_version": 1,
+  "id": 1829,
+  "title": "Jumpserver",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jumpserver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3465,
+      "collection": "Dashboard Icons",
+      "file": "jumpserver.svg",
+      "id": 3092,
+      "is_default": true,
+      "label": "jumpserver",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jumpserver.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "35d4dd236357ee4632483f68792f1f35b9979eaadb2e21cb0403cd0146ca414a"
+      },
+      "sha256": "23770634739605c1a7241b4e2426d1e119396f618a3f0e2152f8ae139cb6c2ed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jumpserver.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2864,
+  "schema_version": 1,
+  "id": 3091,
+  "title": "Ubiquiti",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ubiquiti"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1108,
+      "collection": "Dashboard Icons",
+      "file": "ubiquiti.svg",
+      "id": 4766,
+      "is_default": true,
+      "label": "ubiquiti",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ubiquiti.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2110e7e2a8e8552dc85bb0ead03963725f04a91bdb35c6a399b4b0ae877dc65"
+      },
+      "sha256": "4c226304131bcd1ba57b85026e57b9d23085ee6f0428fde886322690e6f5f97c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ubiquiti.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

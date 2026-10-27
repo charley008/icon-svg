@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="ja" version="1.1" width="800px" height="800px" viewBox="0 0 512 512">
+<title>DCMIのロゴ</title>
+
+<desc>ダブリンコアメタデータイニシアチブ（英: Dublin Core Metadata Initiative; DCMI）のロゴ画像。</desc>
+
+<g fill="white">
+<rect width="100%" height="100%" fill="#ff6600" />
+
+<circle cx="256" cy="256" r="82" />
+
+<circle cx="256" cy="142" r="16" />
+<circle transform="rotate(24 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(48 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(72 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(96 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(120 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(144 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(168 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-24 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-48 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-72 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-96 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-120 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-144 256 256)" cx="256" cy="142" r="16" />
+<circle transform="rotate(-168 256 256)" cx="256" cy="142" r="16" />
+
+<circle cx="256" cy="83" r="16" />
+<circle transform="rotate(24 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(48 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(72 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(96 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(120 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(144 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(168 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-24 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-48 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-72 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-96 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-120 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-144 256 256)" cx="256" cy="83" r="16" />
+<circle transform="rotate(-168 256 256)" cx="256" cy="83" r="16" />
+
+
+</g>
+</svg>

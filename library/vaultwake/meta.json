@@ -1,0 +1,40 @@
+{
+  "collection_id": 2892,
+  "schema_version": 1,
+  "id": 3119,
+  "title": "Vaultwake",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vaultwake"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 527,
+      "collection": "Dashboard Icons",
+      "file": "vaultwake.svg",
+      "id": 4802,
+      "is_default": true,
+      "label": "vaultwake",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vaultwake.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bab79458378ad2538d840273b9c55baf5805a53f8045ffa8636064c2d93c41e6"
+      },
+      "sha256": "0766b3378d828486830a83409efba83f62cdf93a5425af4caafccc8a08276296",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vaultwake.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,4 +1,7 @@
 {
+  "collection_id": 516,
+  "schema_version": 1,
+  "id": 689,
   "title": "Chromium",
   "url": "https://www.chromium.org/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "chromium.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "2a9840039dfd71dc43615df7576ef37882c9f3a98d425cc4146ecf85c0c6b173",
       "bytes": 1810,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chromium.svg",
+      "collection": "Dashboard Icons",
+      "file": "chromium.svg",
+      "id": 1650,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "chromium.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "2a9840039dfd71dc43615df7576ef37882c9f3a98d425cc4146ecf85c0c6b173",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chromium.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

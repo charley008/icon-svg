@@ -119,8 +119,27 @@
       "sha256": "34210cafe891fffaa02dde40abdade432436bc87815e55b000f71aeffe19099f",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#medium-line",
       "version": 4
+    },
+    {
+      "bytes": 587,
+      "collection": "Dashboard Icons",
+      "file": "medium-5.svg",
+      "id": 3340,
+      "is_default": false,
+      "label": "medium-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medium-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f160d6a81b596336dfeb6bc01f68d579f719c7e99635b7424a6e37ae970d31a5"
+      },
+      "sha256": "62a5fef60d3931914b30112d95c1f732adfe5b3316a2c72a414fdd6462c312c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/medium-dark.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

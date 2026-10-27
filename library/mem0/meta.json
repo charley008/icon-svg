@@ -1,0 +1,40 @@
+{
+  "collection_id": 1804,
+  "schema_version": 1,
+  "id": 2031,
+  "title": "Mem0",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mem0"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5095,
+      "collection": "Dashboard Icons",
+      "file": "mem0.svg",
+      "id": 3346,
+      "is_default": true,
+      "label": "mem0",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mem0.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3485ffadb1c3325ad502ac37562a30ef6eee3136bc200dec6bb9e225ea29feec"
+      },
+      "sha256": "d7087ef0272374377d1ee82b79ade16fd593faa5c5e128e21a77b17f7bad01ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mem0.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

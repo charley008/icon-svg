@@ -1,0 +1,40 @@
+{
+  "collection_id": 2746,
+  "schema_version": 1,
+  "id": 2973,
+  "title": "Taskcafe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "taskcafe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2902,
+      "collection": "Dashboard Icons",
+      "file": "taskcafe.svg",
+      "id": 4618,
+      "is_default": true,
+      "label": "taskcafe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "taskcafe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbbbd4df1f2fb5c6742d607e129d07728c41cfeb12dfd76b2cf09306e086c046"
+      },
+      "sha256": "1818fd57b3944e5d16bd9a8fd1f74555b18b38da92a8853c68accad8f26ce993",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/taskcafe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

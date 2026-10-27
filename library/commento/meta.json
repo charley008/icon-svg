@@ -1,0 +1,64 @@
+{
+  "collection_id": 1009,
+  "schema_version": 1,
+  "id": 1236,
+  "title": "Commento",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "commento",
+    "website-comments",
+    "embeddable-comments"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7737,
+      "collection": "Dashboard Icons",
+      "file": "commento.svg",
+      "id": 2308,
+      "is_default": true,
+      "label": "commento",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "commento.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "998b02a6c2ce75efc271175bcee448cdacc7f81fb8b516b29f14bdafc8141e55"
+      },
+      "sha256": "1f29833b1fa203980dc7b2d687e78bf9ffdf16405b95ff98bafdcd09422f8fb9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/commento.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7737,
+      "collection": "Dashboard Icons",
+      "file": "commento-1.svg",
+      "id": 2309,
+      "is_default": false,
+      "label": "commento-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "commento-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "10f73d1d0da598bba6f0c15dfaf88c90a18b0034d7102847d213afd8b76a2d22"
+      },
+      "sha256": "56fc25b37be8b17a3983cc8aa99667cb979fe206d4d600224ef8dd25869ac2b2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/commento-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

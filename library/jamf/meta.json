@@ -1,0 +1,43 @@
+{
+  "collection_id": 1576,
+  "schema_version": 1,
+  "id": 1803,
+  "title": "Jamf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "jamf",
+    "jamf pro"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 621,
+      "collection": "Dashboard Icons",
+      "file": "jamf.svg",
+      "id": 3062,
+      "is_default": true,
+      "label": "jamf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jamf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f3c811fb0a1727057658729a5c16c9d58670d1d6bd095a4e8426b55f3871398b"
+      },
+      "sha256": "ac9d104300dd0b7fabb7aa928191e9cdfef8808b6d96e7b507c32cf85f1fa1fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jamf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

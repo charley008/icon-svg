@@ -1,0 +1,40 @@
+{
+  "collection_id": 2745,
+  "schema_version": 1,
+  "id": 2972,
+  "title": "Tangerine Ui",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tangerine-ui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3412,
+      "collection": "Dashboard Icons",
+      "file": "tangerine-ui.svg",
+      "id": 4617,
+      "is_default": true,
+      "label": "tangerine-ui",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tangerine-ui.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea8c6d017e122c30da96825f2fa8ac4eff1933760c3f10567442d89ef282d8d2"
+      },
+      "sha256": "8d0347ae294375804bd938e0fcd847415552253c1e90b717e091d8322eba4b50",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tangerine-ui.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

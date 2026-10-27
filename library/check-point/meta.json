@@ -1,0 +1,64 @@
+{
+  "collection_id": 958,
+  "schema_version": 1,
+  "id": 1185,
+  "redirect_from": [
+    1186
+  ],
+  "title": "Check Point",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "check-point",
+    "check-point-wordmark-light",
+    "Check Point Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 723,
+      "collection": "Dashboard Icons",
+      "file": "check-point.svg",
+      "id": 2238,
+      "is_default": true,
+      "label": "check-point",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "check-point.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae554acd5506625b2e3599d7ddf5d60f0eb8d31249fa610484e65bd20e685366"
+      },
+      "sha256": "7de264308d005b61aeef1bf7d9888f8a89eb1c37ed0322c5ef02430d92bc59c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/check-point.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2456,
+      "collection": "Dashboard Icons",
+      "file": "check-point-1.svg",
+      "id": 2239,
+      "is_default": false,
+      "label": "check-point-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "check-point-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "481d88bbaba507b5bb1163df19c0019a94ad3abefd0a6726bad566ab94f9e7c8"
+      },
+      "sha256": "222355930b871966723d3e8a0ed7b13b15ce6bfaa3a187525aaa2f2387724d1b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/check-point-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

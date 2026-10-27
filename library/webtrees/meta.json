@@ -1,0 +1,40 @@
+{
+  "collection_id": 2965,
+  "schema_version": 1,
+  "id": 3192,
+  "title": "Webtrees",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "webtrees"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1240,
+      "collection": "Dashboard Icons",
+      "file": "webtrees.svg",
+      "id": 4900,
+      "is_default": true,
+      "label": "webtrees",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webtrees.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cbad5e420837e92361d2313bc134a67fc19668ccf513bfb0d7243db44b5c0381"
+      },
+      "sha256": "3c0ae4e7b85accc4ada7c9dedb06dfc2f83e5e9e64dfd8aed4267990463f4b9c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webtrees.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

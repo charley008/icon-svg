@@ -1,0 +1,59 @@
+{
+  "collection_id": 1458,
+  "schema_version": 1,
+  "id": 1685,
+  "title": "Healthchecks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "healthchecks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 579,
+      "collection": "Dashboard Icons",
+      "file": "healthchecks.svg",
+      "id": 2905,
+      "is_default": true,
+      "label": "healthchecks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "healthchecks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "13e556c7ad822a8e3fca8b30a204fed67e56ffd55abd5e7afb0b029359b148c0"
+      },
+      "sha256": "b8c5b72a7b064d39aeabe1c3c218b2a78052855fcb06a283fcc54b4e4a7ecc5a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/healthchecks.svg",
+      "version": 0
+    },
+    {
+      "bytes": 579,
+      "collection": "Dashboard Icons",
+      "file": "healthchecks-1.svg",
+      "id": 2906,
+      "is_default": false,
+      "label": "healthchecks-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "healthchecks-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68fb0910ceeac82a450124f2b219a0d38c5a915c77c3293657fc1f0f6af1bafa"
+      },
+      "sha256": "d8fed31df9cc35f12d98bfee64af446b4668289ae198672a585a31af298351cb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/healthchecks-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

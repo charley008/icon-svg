@@ -1,0 +1,40 @@
+{
+  "collection_id": 2713,
+  "schema_version": 1,
+  "id": 2940,
+  "title": "Sublime Merge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sublime-merge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 584,
+      "collection": "Dashboard Icons",
+      "file": "sublime-merge.svg",
+      "id": 4575,
+      "is_default": true,
+      "label": "sublime-merge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sublime-merge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c95b66d6ca18936edbec18aa9b23788bd878044ee87ec914b080d635dc50e7f"
+      },
+      "sha256": "98a02736b857985bd3e39cbe3878d152941913c4b1502c650a9e93f7c637c556",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sublime-merge.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

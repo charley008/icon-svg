@@ -1,0 +1,62 @@
+{
+  "collection_id": 773,
+  "schema_version": 1,
+  "id": 1000,
+  "title": "Audora",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "audora",
+    "music"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1202,
+      "collection": "Dashboard Icons",
+      "file": "audora.svg",
+      "id": 1999,
+      "is_default": true,
+      "label": "audora",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "audora.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0db6005f3346a7942717df14675ff23f149bd6dfb845f30d7225fcf8c1026a10"
+      },
+      "sha256": "f0489b5f71daf3db38047a2d5a3d7a4142d3bdc47f5cfb559e1cea5cc7ce7317",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/audora.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4741,
+      "collection": "Dashboard Icons",
+      "file": "audora-1.svg",
+      "id": 2000,
+      "is_default": false,
+      "label": "music",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "music.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "032c10ae19f78c671d574d2adca35419e035a77b4e3b88ea4823a3ce974a50ff"
+      },
+      "sha256": "abd826893ecfaeb4031940e5b0518a6fb633cc4a88d0be867cc88055d5a2542c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/music.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 3017,
+  "schema_version": 1,
+  "id": 3244,
+  "title": "Xwiki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "办公效率"
+  ],
+  "aliases": [
+    "xwiki",
+    "enterprise-wiki",
+    "knowledge-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 881,
+      "collection": "Dashboard Icons",
+      "file": "xwiki.svg",
+      "id": 4972,
+      "is_default": true,
+      "label": "xwiki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xwiki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b3aa874883cc0906fa71854ee0f842ed596b314be8670e230c020e2e6c3ebf5a"
+      },
+      "sha256": "76b474d5d9667aa7ff30a62c91908a590452ecca1f567eb8db856845ef97e7fb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xwiki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

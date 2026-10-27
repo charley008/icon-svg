@@ -1,0 +1,45 @@
+{
+  "collection_id": 3268,
+  "schema_version": 1,
+  "id": 3533,
+  "title": "Zig",
+  "url": "https://ziglang.org",
+  "domains": [
+    "ziglang.org"
+  ],
+  "description": "Zig 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Zig",
+    "zig"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 950,
+      "collection": "TechIcons / Devicon",
+      "file": "zig-1.svg",
+      "id": 5412,
+      "is_default": true,
+      "label": "TechIcons · Zig",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Zig.svg",
+        "original_sha256": "f4af51779b6d6f6a0de1172f11cb19803b42b6c4a02eb6e43ed97d2dd640323f",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/zig",
+        "reference_website": "https://ziglang.org"
+      },
+      "sha256": "c8985ec902bce0df50b777ef87323c46c30b05c2bb2fd8a02d46ef2afe784b1b",
+      "source": "https://techicons.dev/icons/zig",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

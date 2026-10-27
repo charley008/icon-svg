@@ -1395,9 +1395,47 @@
           "sha256": "83d5ce84b60c741acc092ed9bce062a19b09cb6ac8f633730852b0cdfa9dcf22",
           "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/tiktok/mono.svg",
           "version": 5
+        },
+        {
+          "bytes": 1408,
+          "collection": "Dashboard Icons",
+          "file": "bytedance-tiktok-6.svg",
+          "id": 2191,
+          "is_default": false,
+          "label": "tiktok",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "919df6a0deca75be9fd4220458cde7debfbb8207b73ba5b48c09a887e6863d7f"
+          },
+          "sha256": "61ba9db0c82ba0c9f0cb0443c4463e43a65fe08314062f194a0bbdde06ac6f96",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiktok.svg",
+          "version": 6
+        },
+        {
+          "bytes": 1420,
+          "collection": "Dashboard Icons",
+          "file": "bytedance-tiktok-7.svg",
+          "id": 2192,
+          "is_default": false,
+          "label": "tiktok-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tiktok-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "29c63bafd4358b4140e6c0e74b2ad0e0a131155d0d23ef946d95ba050fba49ef"
+          },
+          "sha256": "0db828dac960177e95038b490a74734c868916107fa712d65431fbb1be335502",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiktok-light.svg",
+          "version": 7
         }
       ],
-      "next_version": 6
+      "next_version": 8
     },
     {
       "id": 127,

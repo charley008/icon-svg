@@ -1,0 +1,42 @@
+{
+  "collection_id": 1297,
+  "schema_version": 1,
+  "id": 1524,
+  "title": "Flowtunes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "flowtunes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2982,
+      "collection": "Dashboard Icons",
+      "file": "flowtunes.svg",
+      "id": 2684,
+      "is_default": true,
+      "label": "flowtunes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flowtunes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5067d1b9f26c09aef2d10d5751a41f747feac3f85b7454bfd6cf690245a9076"
+      },
+      "sha256": "d073b7639ac053749d00a4230a13e6ebf0c377251568d67140f2fd8101075ff1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flowtunes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

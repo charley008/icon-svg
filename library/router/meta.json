@@ -1,0 +1,40 @@
+{
+  "collection_id": 2523,
+  "schema_version": 1,
+  "id": 2750,
+  "title": "Router",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "router"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 24777,
+      "collection": "Dashboard Icons",
+      "file": "router.svg",
+      "id": 4331,
+      "is_default": true,
+      "label": "router",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "router.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bae86a92ba69a4fce3e389e89babcfc14d9e91ce4797e64eb12bb83f168376cc"
+      },
+      "sha256": "0e427f07e52232dfac6429aac599ceb94b42d49634531e0ed464b036dbd1af8c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/router.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

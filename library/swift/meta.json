@@ -1,0 +1,63 @@
+{
+  "collection_id": 2730,
+  "schema_version": 1,
+  "id": 2957,
+  "title": "Swift",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "swift"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1618,
+      "collection": "Dashboard Icons",
+      "file": "swift.svg",
+      "id": 4594,
+      "is_default": true,
+      "label": "swift",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "swift.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d4bb37df83195d56569ef550e22eaa65ce3ec956bf1ad8f3d2e089fe9b90402"
+      },
+      "sha256": "1cf25c3cd21e1a29349c7e4164a72aa272a57390dd916f33def650a769703d4a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/swift.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1335,
+      "collection": "TechIcons / Devicon",
+      "file": "swift-1.svg",
+      "id": 5374,
+      "is_default": false,
+      "label": "TechIcons · Swift",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Swift.svg",
+        "original_sha256": "46b6e4abd3ab12c589b8e276295f9439e2869bc4788d918efbc6e76147e8a06e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/swift",
+        "reference_website": "https://www.swift.org/documentation"
+      },
+      "sha256": "8e1f0e92a39991f49ef308ec123396c7c9d6ddcb978bf8bb16c0822f0392de26",
+      "source": "https://techicons.dev/icons/swift",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

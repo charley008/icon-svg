@@ -124,8 +124,27 @@
       "sha256": "53465d57fefbd6b09bd31472f71b5fb0b8bd3610276fb3c523de9022aaa527c8",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#digital-ocean",
       "version": 4
+    },
+    {
+      "bytes": 766,
+      "collection": "Dashboard Icons",
+      "file": "digitalocean-5.svg",
+      "id": 2434,
+      "is_default": false,
+      "label": "digital-ocean",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digital-ocean.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4de04e854845a036d883138ed66f0afcda0c67b67efb7d16ad550201f37ec19"
+      },
+      "sha256": "7c16546b4f1957c44c7ecdf6d3c97b25266639f2bec3afe29e600093fed0da48",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/digital-ocean.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

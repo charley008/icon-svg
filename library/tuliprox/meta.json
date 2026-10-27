@@ -1,0 +1,40 @@
+{
+  "collection_id": 2845,
+  "schema_version": 1,
+  "id": 3072,
+  "title": "Tuliprox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tuliprox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1942,
+      "collection": "Dashboard Icons",
+      "file": "tuliprox.svg",
+      "id": 4741,
+      "is_default": true,
+      "label": "tuliprox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tuliprox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5ea165203fb91efe5dfa07ae50809a73d0eef9f5f0f8d12a89e6524de85c43f9"
+      },
+      "sha256": "e823c531f397ce68eb70b65517747c2ea8c7667978834f95b7a930f3ddf4aa61",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuliprox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

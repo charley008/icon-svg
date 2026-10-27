@@ -1,0 +1,45 @@
+{
+  "collection_id": 3226,
+  "schema_version": 1,
+  "id": 3489,
+  "title": "Sanity",
+  "url": "https://www.sanity.io",
+  "domains": [
+    "sanity.io"
+  ],
+  "description": "用于组织应用内容的内容管理平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Sanity",
+    "sanity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1149,
+      "collection": "TechIcons / Devicon",
+      "file": "sanity-1.svg",
+      "id": 5350,
+      "is_default": true,
+      "label": "TechIcons · Sanity",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Sanity.svg",
+        "original_sha256": "ed838bf9f73cebfde454aeafd92e00deb82cacdbb4ea145b860fbac0500a8cbb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sanity",
+        "reference_website": "https://www.sanity.io"
+      },
+      "sha256": "ab25b5f531b8a0f5132cc5b94601c7af88831733e8723be3b4d537c66f57911a",
+      "source": "https://techicons.dev/icons/sanity",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

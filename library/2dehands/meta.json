@@ -1,0 +1,40 @@
+{
+  "collection_id": 645,
+  "schema_version": 1,
+  "id": 872,
+  "title": "2Dehands",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "2dehands"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6177,
+      "collection": "Dashboard Icons",
+      "file": "2dehands.svg",
+      "id": 1830,
+      "is_default": true,
+      "label": "2dehands",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "2dehands.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee8bdd67717e683093639252bbbe92caebe0e6084c87cba96bb00497c58df5c2"
+      },
+      "sha256": "ba22815596fb819a6f05ddc91ee1ca6cb79e99d2b1629c20776c5fea5370e1f6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/2dehands.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

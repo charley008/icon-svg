@@ -1,0 +1,45 @@
+{
+  "collection_id": 3248,
+  "schema_version": 1,
+  "id": 3511,
+  "title": "Three.js",
+  "url": "https://threejs.org",
+  "domains": [
+    "threejs.org"
+  ],
+  "description": "用于 Web 三维图形开发的 JavaScript 库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Three.js",
+    "threejs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3777,
+      "collection": "TechIcons / Devicon",
+      "file": "threejs-1.svg",
+      "id": 5380,
+      "is_default": true,
+      "label": "TechIcons · Three.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Three.js.svg",
+        "original_sha256": "e4ee5630ae19950b31603bd894d1a6e99fe8f5c2cf7aa4ce6e8ca6214f63c077",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/threejs",
+        "reference_website": "https://threejs.org"
+      },
+      "sha256": "ce9ba222b37079ca24bb9abc62a7f463c47ec03027a7f08ce354547a16343d44",
+      "source": "https://techicons.dev/icons/threejs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

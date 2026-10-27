@@ -1,0 +1,42 @@
+{
+  "collection_id": 2887,
+  "schema_version": 1,
+  "id": 3114,
+  "title": "Upvote Rss",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "新闻资讯"
+  ],
+  "aliases": [
+    "upvote-rss"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1370,
+      "collection": "Dashboard Icons",
+      "file": "upvote-rss.svg",
+      "id": 4797,
+      "is_default": true,
+      "label": "upvote-rss",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "upvote-rss.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de1624c7ac03fa042f0e253ae2a46add5497ccca52dccb2b52a6c6b3d973a4a5"
+      },
+      "sha256": "59fbf8a7c82a97dc9764a47349673c81cc7146ed50a7c52a375002daeecb865e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/upvote-rss.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

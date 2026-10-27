@@ -1,0 +1,43 @@
+{
+  "collection_id": 1889,
+  "schema_version": 1,
+  "id": 2116,
+  "title": "Natwest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "natwest",
+    "natwest-banking"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6986,
+      "collection": "Dashboard Icons",
+      "file": "natwest.svg",
+      "id": 3469,
+      "is_default": true,
+      "label": "natwest",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "natwest.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7428f143251e2491fff349c5b45a160b8f086f28bb8aec2a1fd7dfbb5bbe38bb"
+      },
+      "sha256": "7854ac52c0ef0d46a01c41f9388ac53b9bc5d96ca7c418a8108cbb3a8a7a0180",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/natwest.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

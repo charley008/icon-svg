@@ -44,8 +44,46 @@
       "sha256": "49988a8dba5616eae4c6fa48d01e1e9a9f74f45c9ebacffca5ef845fd3d1220c",
       "source": "https://web.gotab.cn/sourceStore/website/01J8HJ6ZQNYW2SZJ32QX1DJ1GQ.svg",
       "version": 0
+    },
+    {
+      "bytes": 6540,
+      "collection": "Dashboard Icons",
+      "file": "deepl-1.svg",
+      "id": 2405,
+      "is_default": false,
+      "label": "deepl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a35dbe6def1e510d43e0b45949c57cbdf86ff12c6a3e33605732a19ef99e0687"
+      },
+      "sha256": "9ea9b5ea2f6ef9aeffc4cb9285befe223108f8983db7ed7763d375870bdc9df0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deepl.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6540,
+      "collection": "Dashboard Icons",
+      "file": "deepl-2.svg",
+      "id": 2406,
+      "is_default": false,
+      "label": "deepl-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepl-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ebca32188ec1e1fad4a94cd5a71f1c542988e6b2b1aa719e2c6d4f3137c3551e"
+      },
+      "sha256": "c1290d967543c2c83d91d04a770ba7a65ad839030f46e6aabc4ac4a7568111a5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deepl-dark.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3215,
+  "schema_version": 1,
+  "id": 3478,
+  "title": "Quasar",
+  "url": "https://quasar.dev",
+  "domains": [
+    "quasar.dev"
+  ],
+  "description": "基于 Vue 的跨平台应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Quasar",
+    "quasar"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1683,
+      "collection": "TechIcons / Devicon",
+      "file": "quasar-1.svg",
+      "id": 5333,
+      "is_default": true,
+      "label": "TechIcons · Quasar",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Quasar.svg",
+        "original_sha256": "28b18e72c350d83773beb38413162691376d795972d5b8f5d2b5518dc0ec97a3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/quasar",
+        "reference_website": "https://quasar.dev"
+      },
+      "sha256": "08c3d8e90c7ba3b60a25592b0ae013604966e48023a6f9d0c4a91f50fc7107a1",
+      "source": "https://techicons.dev/icons/quasar",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

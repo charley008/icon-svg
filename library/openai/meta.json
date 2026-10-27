@@ -144,9 +144,47 @@
       "sha256": "e17514430c130b7a1fb915af17136822eb2c58aeeed2e7663af6b3dfdad1415c",
       "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/openai.svg",
       "version": 5
+    },
+    {
+      "bytes": 1319,
+      "collection": "Dashboard Icons",
+      "file": "openai-6.svg",
+      "id": 3657,
+      "is_default": false,
+      "label": "openai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a6030406f34ee761c3d60dd95cc49af8c3ca1c9f45b61a3d8648d60c91cba62"
+      },
+      "sha256": "4dff3317b2ecd4d6f1c44c8fb6b8ae64dffe401b0af79751d6783ace75fbbaa1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openai.svg",
+      "version": 6
+    },
+    {
+      "bytes": 1349,
+      "collection": "Dashboard Icons",
+      "file": "openai-7.svg",
+      "id": 3658,
+      "is_default": false,
+      "label": "openai-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openai-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c94498ddd61f3cde18aee94d2d1a8a593329253bed24c3e84ec419890553f09"
+      },
+      "sha256": "aab22ec74946e0d5917caa7c00f88341d2d5cbf2f6f26e6876e5caa8b296fe6e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openai-light.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": [
     {
       "id": 420,
@@ -446,6 +484,64 @@
         }
       ],
       "next_version": 5
+    },
+    {
+      "id": 1293,
+      "key": "dall-e",
+      "title": "DALL·E",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "dall-e",
+        "Dall E"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2812,
+          "collection": "Dashboard Icons",
+          "file": "openai-dall-e.svg",
+          "id": 2381,
+          "is_default": true,
+          "label": "dall-e",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "dall-e.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0583864e1875c3fc9035ebed059a7fe86e002b95152250c761702d0333b68bc2"
+          },
+          "sha256": "b05bf63e614d6f0012fbc9b57a111c489b7f9eb09da91337ca59fcf7b93cb333",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dall-e.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3760,
+          "collection": "Dashboard Icons",
+          "file": "openai-dall-e-1.svg",
+          "id": 2382,
+          "is_default": false,
+          "label": "dall-e-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "dall-e-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "bfa62037d83509daf40267d602fc568638842119e466ae4a657270b4307fc940"
+          },
+          "sha256": "0009ace512991b5b515d8ece1c9c32f4f1a718b0e3a304010d98df4315f4b473",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dall-e-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
     }
   ]
 }

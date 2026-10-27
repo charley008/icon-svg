@@ -1,0 +1,40 @@
+{
+  "collection_id": 2670,
+  "schema_version": 1,
+  "id": 2897,
+  "title": "Sphinx Relay",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sphinx-relay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1442,
+      "collection": "Dashboard Icons",
+      "file": "sphinx-relay.svg",
+      "id": 4522,
+      "is_default": true,
+      "label": "sphinx-relay",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sphinx-relay.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef5542209aefcad8fc6cae966232a7dcd0022696756686c69f30486688c48c9a"
+      },
+      "sha256": "dd777c92f745776ed5acd4bff40929bfe978c74b342b1765874ee9eda3b7a7e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sphinx-relay.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

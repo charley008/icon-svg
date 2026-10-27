@@ -1,0 +1,40 @@
+{
+  "collection_id": 939,
+  "schema_version": 1,
+  "id": 1166,
+  "title": "Cashpilot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cashpilot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1523,
+      "collection": "Dashboard Icons",
+      "file": "cashpilot.svg",
+      "id": 2213,
+      "is_default": true,
+      "label": "cashpilot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cashpilot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5f420870a310aaba2d5fcc2238135ccc1a5b82f80ad3123344f1612becffe479"
+      },
+      "sha256": "72af1a868afbe0862e3e8a4b8b20ac5f58405a75a58d35bf62913ecb2594d931",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cashpilot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

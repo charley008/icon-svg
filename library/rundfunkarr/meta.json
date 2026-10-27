@@ -1,0 +1,40 @@
+{
+  "collection_id": 2533,
+  "schema_version": 1,
+  "id": 2760,
+  "title": "Rundfunkarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rundfunkarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1810,
+      "collection": "Dashboard Icons",
+      "file": "rundfunkarr.svg",
+      "id": 4341,
+      "is_default": true,
+      "label": "rundfunkarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rundfunkarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "52e62df7d29f87c897098b8e13e8bcf1dfe0fd5764653db347a2b2be9b07a52f"
+      },
+      "sha256": "1a31dd4f507bfc2c5c8b21fa983a6f9d8851b6e2266e4ea09b6acb218e81746c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rundfunkarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

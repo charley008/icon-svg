@@ -1,11 +1,14 @@
 {
+  "collection_id": 593,
+  "schema_version": 1,
+  "id": 813,
   "title": "Portainer",
   "url": "https://www.portainer.io/",
   "domains": [
     "www.portainer.io"
   ],
   "description": "容器管理应用。",
-  "category": "系统工具",
+  "category": "开发编程",
   "tags": [
     "Docker",
     "容器管理",
@@ -19,23 +22,81 @@
   "notes": [],
   "icons": [
     {
-      "file": "portainer.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "5d1e07021683d15ea67225c60975729f4ee0ed380f3a0fb21ffb2ad00eb6e85b",
       "bytes": 675,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portainer.svg",
+      "collection": "Dashboard Icons",
+      "file": "portainer.svg",
+      "id": 1770,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "portainer.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "5d1e07021683d15ea67225c60975729f4ee0ed380f3a0fb21ffb2ad00eb6e85b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portainer.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1416,
+      "collection": "Dashboard Icons",
+      "file": "portainer-1.svg",
+      "id": 3893,
+      "is_default": false,
+      "label": "portainer-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portainer-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "91ab2a2fb9acabc0887174cf5f79c2f4a6cc6f07d048f8b6374313c1f69b89cf"
+      },
+      "sha256": "aa62c146e24c85c445745a728dd7e44fa017fae10249d4649884d0d5494d21d7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portainer-alt.svg",
+      "version": 1
+    },
+    {
+      "bytes": 719,
+      "collection": "Dashboard Icons",
+      "file": "portainer-2.svg",
+      "id": 3894,
+      "is_default": false,
+      "label": "portainer-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portainer-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca58e57379a49b60e0d27eb75dc31b8bae1543ee5ac93a66c2780a8b15e5c084"
+      },
+      "sha256": "c81e7e3962203dd2d10a3ed7737292ad10c406b3ab17c5ad01e1d097934b6243",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portainer-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1550,
+      "collection": "TechIcons / Devicon",
+      "file": "portainer-3.svg",
+      "id": 5318,
+      "is_default": false,
+      "label": "TechIcons · Portainer",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Portainer.svg",
+        "original_sha256": "da2df3cf9b3b9ee995ad507d3154541e5d7daaf5d0f703cea832dc5bc0aa204e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/portainer",
+        "reference_website": "https://www.portainer.io"
+      },
+      "sha256": "5eda953c9a404bc64e4902d443e47e634cf85f1219a1d254c3b6fce5300ad460",
+      "source": "https://techicons.dev/icons/portainer",
+      "version": 3
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 4,
   "products": []
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2719,
+  "schema_version": 1,
+  "id": 2946,
+  "title": "Surfshark",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "surfshark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2446,
+      "collection": "Dashboard Icons",
+      "file": "surfshark.svg",
+      "id": 4581,
+      "is_default": true,
+      "label": "surfshark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "surfshark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c7b03b25a536100a9a911e6cd6163957d82e9f2bff296e7e715c621c1ab5a549"
+      },
+      "sha256": "60375b483dfd352290d2b15a7352289144084499faa22d1cd1e139668d990373",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/surfshark.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

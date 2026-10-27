@@ -1,0 +1,41 @@
+{
+  "collection_id": 1296,
+  "schema_version": 1,
+  "id": 1523,
+  "title": "Flowise",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "flowise"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3988,
+      "collection": "Dashboard Icons",
+      "file": "flowise.svg",
+      "id": 2683,
+      "is_default": true,
+      "label": "flowise",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flowise.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf49ca52ebcccbd3a7db63a35e27d5edeaca39396d2cedbf7ea07b001c47d169"
+      },
+      "sha256": "d1726e6b049accf7610aecd75b59b56d4a2492de45c8364f6d31712bd8ecacaf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flowise.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

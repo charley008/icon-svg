@@ -1,0 +1,59 @@
+{
+  "collection_id": 1980,
+  "schema_version": 1,
+  "id": 2207,
+  "title": "Nzbhydra2",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nzbhydra2"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12602,
+      "collection": "Dashboard Icons",
+      "file": "nzbhydra2.svg",
+      "id": 3591,
+      "is_default": true,
+      "label": "nzbhydra2",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nzbhydra2.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "03ed6a9d8ee1fc82fd75ab87c749a26deddc01f2e2e4467898a2e4368db83839"
+      },
+      "sha256": "2a5211422274c46cbd84dc78f8309fed5e3151b7bf8d3b81b52fe58ab78a44cd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nzbhydra2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 12611,
+      "collection": "Dashboard Icons",
+      "file": "nzbhydra2-1.svg",
+      "id": 3592,
+      "is_default": false,
+      "label": "nzbhydra2-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nzbhydra2-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f1612f8d3c29f561c6fe004cf003fc6eca30de0022212e12d46e642109098e6"
+      },
+      "sha256": "00f66c25674449df27db65b38230f2c9afe400f58a51ae3acfcedb09f9598b94",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nzbhydra2-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

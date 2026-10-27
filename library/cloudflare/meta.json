@@ -127,8 +127,178 @@
       "sha256": "d8b0f2b88e2c638378295b469cb993009ac3371cad9aa56db1d7844e8a8717fe",
       "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/cloudflare/mono.svg",
       "version": 4
+    },
+    {
+      "bytes": 1258,
+      "collection": "Dashboard Icons",
+      "file": "cloudflare-5.svg",
+      "id": 2274,
+      "is_default": false,
+      "label": "cloudflare",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflare.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8d1880046ed223ffb4ca660d4f52cff986d6db310e25d87cd82eccd024b461f5"
+      },
+      "sha256": "149af1c92de1738eceb6cae4096d1da45f205731d219ee82aa597ec6da650996",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflare.svg",
+      "version": 5
+    },
+    {
+      "bytes": 72147,
+      "collection": "Dashboard Icons",
+      "file": "cloudflare-6.svg",
+      "id": 2275,
+      "is_default": false,
+      "label": "cloudflare-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudflare-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e919278f3fda8a05477564310812ce0a84055b82eefc5adfc389a264979a1489"
+      },
+      "sha256": "35111dac21346b34c7468ac92ec5f72debed455e9d73ae515b4a60c259039e4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflare-kawaii.svg",
+      "version": 6
     }
   ],
-  "next_version": 5,
-  "products": []
+  "next_version": 7,
+  "products": [
+    {
+      "id": 1215,
+      "key": "pages",
+      "title": "Cloudflare Pages",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons",
+        "Web-Browsers",
+        "Developer-Tools",
+        "Cloud-Computing",
+        "开发编程"
+      ],
+      "aliases": [
+        "cloudflare-pages",
+        "Static Site Hosting"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1073,
+          "collection": "Dashboard Icons",
+          "file": "cloudflare-pages.svg",
+          "id": 2276,
+          "is_default": true,
+          "label": "cloudflare-pages",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "cloudflare-pages.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1fa1130903d58675eecebec23e3023409e742878c11b09355f2a72286959c9fd"
+          },
+          "sha256": "56a0f2676fae839a07804ee1c305314b698bd2f7db83cbf0e79c07003bf7fba3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflare-pages.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3336,
+      "key": "workers",
+      "title": "Cloudflare Workers",
+      "url": "https://workers.cloudflare.com",
+      "domains": [
+        "workers.cloudflare.com"
+      ],
+      "description": "Cloudflare 的边缘计算和应用运行服务。",
+      "category": "云服务",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Cloudflare Workers",
+        "cloudflareworkers",
+        "Cloudflare-Workers"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4149,
+          "collection": "TechIcons / Devicon",
+          "file": "cloudflare-workers-1.svg",
+          "id": 5107,
+          "is_default": true,
+          "label": "TechIcons · Cloudflare Workers",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Cloudflare-Workers.svg",
+            "original_sha256": "6b3490a3395c3ccd0d79c8972ac9fa4e131b5d9564394efe1de1a787d269e858",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/cloudflareworkers",
+            "reference_website": "https://workers.cloudflare.com"
+          },
+          "sha256": "2c8f1ab4c1eea990eaf4c1f9aedbe0afd588512b2d4e131bc383c0fadb57fb24",
+          "source": "https://techicons.dev/icons/cloudflareworkers",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1216,
+      "key": "zero-trust",
+      "title": "Cloudflare Zero Trust",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons",
+        "Security",
+        "Cloud-Computing",
+        "Networking-Tools",
+        "网络工具"
+      ],
+      "aliases": [
+        "cloudflare-zero-trust",
+        "zero-trust-network",
+        "secure-access-service"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5729,
+          "collection": "Dashboard Icons",
+          "file": "cloudflare-zero-trust.svg",
+          "id": 2277,
+          "is_default": true,
+          "label": "cloudflare-zero-trust",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "cloudflare-zero-trust.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4ff6cb977fb31ea802fa2a337e69a77a732e3e5590ab691fc55c7fbc7a54a384"
+          },
+          "sha256": "cb3c8460610bc6321f2a649802759ac373850307b49fc966df6b3c9e0e3e3c11",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudflare-zero-trust.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

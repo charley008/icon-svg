@@ -1,0 +1,64 @@
+{
+  "collection_id": 1826,
+  "schema_version": 1,
+  "id": 2053,
+  "title": "Mikrotik",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Hardware",
+    "网络工具"
+  ],
+  "aliases": [
+    "mikrotik",
+    "router-manufacturer",
+    "network-devices"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1362,
+      "collection": "Dashboard Icons",
+      "file": "mikrotik.svg",
+      "id": 3384,
+      "is_default": true,
+      "label": "mikrotik",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mikrotik.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5457497d5fe8bef6ebd63582a635ff447b04f682d2e8da6a3fa0ee09ad2f4731"
+      },
+      "sha256": "7dd88747056ad018d489540b3f239039435dc01846439610213f8c551aa97d74",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mikrotik.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1362,
+      "collection": "Dashboard Icons",
+      "file": "mikrotik-1.svg",
+      "id": 3385,
+      "is_default": false,
+      "label": "mikrotik-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mikrotik-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c235fa555e242498dc603a23773592470a1b7f15e53081ec4613d48491ae751"
+      },
+      "sha256": "2b11d10f61978c79ac1870f1b01592b5b11a969647987f712172c8cda1c73dc8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mikrotik-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

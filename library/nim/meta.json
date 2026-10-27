@@ -1,0 +1,45 @@
+{
+  "collection_id": 3185,
+  "schema_version": 1,
+  "id": 3447,
+  "title": "Nim",
+  "url": "https://nim-lang.org",
+  "domains": [
+    "nim-lang.org"
+  ],
+  "description": "Nim 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Nim",
+    "nim"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 840,
+      "collection": "TechIcons / Devicon",
+      "file": "nim-1.svg",
+      "id": 5284,
+      "is_default": true,
+      "label": "TechIcons · Nim",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nim.svg",
+        "original_sha256": "d2a12de1b8ea33b86faec61a1e2ed392bdc98d95eafb24f9ba5839d32fb5fa1d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nim",
+        "reference_website": "https://nim-lang.org"
+      },
+      "sha256": "8af15181ec3c8f3b34eb2a7b3af146048f0fd5f2e94d93312480b74f1031b37c",
+      "source": "https://techicons.dev/icons/nim",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

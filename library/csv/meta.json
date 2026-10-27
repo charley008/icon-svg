@@ -1,0 +1,40 @@
+{
+  "collection_id": 1051,
+  "schema_version": 1,
+  "id": 1278,
+  "title": "Csv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "csv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1823,
+      "collection": "Dashboard Icons",
+      "file": "csv.svg",
+      "id": 2362,
+      "is_default": true,
+      "label": "csv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "csv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77caa5db41878e8dd45449d946d0e32e50982f17ce7d49a31f12a7e4bfb7d52e"
+      },
+      "sha256": "2cad3915d950b299edb544a76b798d5917192a04ece1b301cf05668646a9b515",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/csv.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -131,8 +131,27 @@
       "sha256": "bb9c84bbe8f4bf118aa1e5326526a9b034a37f605b21a6c86758e801c3b42d4f",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#deepseek",
       "version": 4
+    },
+    {
+      "bytes": 2561,
+      "collection": "Dashboard Icons",
+      "file": "deepseek-5.svg",
+      "id": 2407,
+      "is_default": false,
+      "label": "deepseek",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deepseek.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "87317243522d1eaa6cf9fe4cc3bbf13a37e9db6963b37e9136187c18ee17c3a9"
+      },
+      "sha256": "aab10ca9046506e9efe7cbfcb0ead0b0aa1f22238e16d8f9b9a5ad7acc24db8f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deepseek.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

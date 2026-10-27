@@ -1,0 +1,40 @@
+{
+  "collection_id": 1701,
+  "schema_version": 1,
+  "id": 1928,
+  "title": "Librum",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "librum"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 458,
+      "collection": "Dashboard Icons",
+      "file": "librum.svg",
+      "id": 3219,
+      "is_default": true,
+      "label": "librum",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "librum.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c36c0f397edf93472f0a97b177c579d889fe194ce576ab309b6a18b16f60fcee"
+      },
+      "sha256": "a8ec3e9357d217190a9a58e7343f1145c5104f983ee772acd48e27ce730a0025",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librum.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

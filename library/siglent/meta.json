@@ -1,0 +1,40 @@
+{
+  "collection_id": 2614,
+  "schema_version": 1,
+  "id": 2841,
+  "title": "Siglent",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "siglent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3715,
+      "collection": "Dashboard Icons",
+      "file": "siglent.svg",
+      "id": 4451,
+      "is_default": true,
+      "label": "siglent",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "siglent.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ee5acf27da122a211e9a8d316750711e16ecae5de26e564aacb41d1ce112966"
+      },
+      "sha256": "3f03ca921ec7bbd5c3d121ddfc49d9ba080c9ddfc84851b91277d568171a2193",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/siglent.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

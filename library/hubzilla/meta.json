@@ -1,0 +1,44 @@
+{
+  "collection_id": 1504,
+  "schema_version": 1,
+  "id": 1731,
+  "title": "Hubzilla",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "hubzilla",
+    "federated-social-network",
+    "decentralized-social-media"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 713,
+      "collection": "Dashboard Icons",
+      "file": "hubzilla.svg",
+      "id": 2968,
+      "is_default": true,
+      "label": "hubzilla",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hubzilla.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37e13d8c6b3be30d75157be6566f1a02e25b90f987dfb0aea945d63c23b74023"
+      },
+      "sha256": "7c28bd98952dd959c2b400e4c493944fcda2842733dc146d15fe81999060d1a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hubzilla.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

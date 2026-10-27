@@ -1,0 +1,118 @@
+{
+  "collection_id": 1148,
+  "schema_version": 1,
+  "id": 1375,
+  "title": "Dotnet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dotnet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 589,
+      "collection": "Dashboard Icons",
+      "file": "dotnet.svg",
+      "id": 2490,
+      "is_default": true,
+      "label": "dotnet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dotnet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c3a414cec70d4cbafb6d568176db019e32388c1cb0f7c1ca6379bf513ae4ae0"
+      },
+      "sha256": "0c1779bcc6e1ae3109bed0709686e502f06b8ada5eb8375149f0ccbae9311319",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dotnet.svg",
+      "version": 0
+    },
+    {
+      "bytes": 589,
+      "collection": "Dashboard Icons",
+      "file": "dotnet-1.svg",
+      "id": 2491,
+      "is_default": false,
+      "label": "dotnet-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dotnet-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68d99637d90d585fbdf644a9e1710cbb17a23b817195f5b51e441bcd8b7e71d2"
+      },
+      "sha256": "1a1e6544ed9519c31a806212dba9f77f80449306a4a69d68c98b46e5645e78bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dotnet-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 589,
+      "collection": "Dashboard Icons",
+      "file": "dotnet-2.svg",
+      "id": 2492,
+      "is_default": false,
+      "label": "dotnet-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dotnet-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c5ac0235745c42347e5923c0d733d0611faf846b017de548bfcbfc30cb10867"
+      },
+      "sha256": "182ffc5632a51b6db24c2054eeadac4cf7d7076bfaff1b6d3a04a48d93f43843",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dotnet-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3098,
+      "collection": "TechIcons / Devicon",
+      "file": "dotnet-3.svg",
+      "id": 5132,
+      "is_default": false,
+      "label": "TechIcons · .NET Core",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": ".NET-core.svg",
+        "original_sha256": "b1b71d747aaf277a00efeab3f5f5844578fc4a42bb605f60c3b0510256009ca4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/dotnetcore",
+        "reference_website": "https://dotnet.microsoft.com"
+      },
+      "sha256": "abbd9669df79e8bf9598bd4c64ea5a726d82f85b936a08a9a0e8cfc6d6032c48",
+      "source": "https://techicons.dev/icons/dotnetcore",
+      "version": 3
+    },
+    {
+      "bytes": 14364,
+      "collection": "TechIcons / Devicon",
+      "file": "dotnet-4.svg",
+      "id": 5133,
+      "is_default": false,
+      "label": "TechIcons · .NET",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": ".NET.svg",
+        "original_sha256": "6175b41fd7331abcd610d2c5aa2b28bc9628a6232be7628b948aa85a9216fc58",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/dot-net",
+        "reference_website": "https://dotnet.microsoft.com"
+      },
+      "sha256": "c442914c0c154d29186f3406f2e6b7b1380ea67b734a95b374af1b1cf068acd4",
+      "source": "https://techicons.dev/icons/dot-net",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

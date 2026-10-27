@@ -1,0 +1,40 @@
+{
+  "collection_id": 2123,
+  "schema_version": 1,
+  "id": 2350,
+  "title": "Pepperstone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pepperstone"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 611,
+      "collection": "Dashboard Icons",
+      "file": "pepperstone.svg",
+      "id": 3797,
+      "is_default": true,
+      "label": "pepperstone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pepperstone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b145d1cfefbdb7e876294c757e19347da52433339343c85d6ae0a96fbb7f9ad8"
+      },
+      "sha256": "60965a285c309befc56fe419ed048c967e3488251f838b6f72744c1ef4237927",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pepperstone.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

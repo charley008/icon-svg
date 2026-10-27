@@ -1,0 +1,61 @@
+{
+  "collection_id": 1938,
+  "schema_version": 1,
+  "id": 2165,
+  "title": "Nexus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "nexus",
+    "nexus3"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 659,
+      "collection": "Dashboard Icons",
+      "file": "nexus.svg",
+      "id": 3534,
+      "is_default": true,
+      "label": "nexus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nexus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a6a56f1c1399cf72d8b7078a275bf1bf5509ba655c4a8d5d84c4b862631292b"
+      },
+      "sha256": "bf369008995d380b93da3a4bc09f86cc76f622d56d3c2adca75b4cc7ee5adac6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nexus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 659,
+      "collection": "Dashboard Icons",
+      "file": "nexus-1.svg",
+      "id": 3535,
+      "is_default": false,
+      "label": "nexus-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nexus-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "436cc5e8d31564a9b0e588779a72747b8698606215a1e716bf0994146c70556d"
+      },
+      "sha256": "e18bfc25bf2e2ab9a2a40afa78bf82b4faeaf9e4334d37caaa6c0cb17c93e006",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nexus-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

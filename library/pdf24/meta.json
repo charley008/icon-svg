@@ -1,0 +1,40 @@
+{
+  "collection_id": 2110,
+  "schema_version": 1,
+  "id": 2337,
+  "title": "Pdf24",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pdf24"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4589,
+      "collection": "Dashboard Icons",
+      "file": "pdf24.svg",
+      "id": 3779,
+      "is_default": true,
+      "label": "pdf24",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pdf24.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "274c7d240e22070358483bc869843f940b4dcc61d0944c884c53619479cf9fde"
+      },
+      "sha256": "7f7c25a84842510c2fcf98c937919b9da7ca05fe96e7b50e96f5275f513a9921",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pdf24.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

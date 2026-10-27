@@ -1,0 +1,45 @@
+{
+  "collection_id": 3262,
+  "schema_version": 1,
+  "id": 3527,
+  "title": "Webpack",
+  "url": "https://webpack.js.org",
+  "domains": [
+    "webpack.js.org"
+  ],
+  "description": "用于 Web 项目的模块打包与构建工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Webpack",
+    "webpack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 543,
+      "collection": "TechIcons / Devicon",
+      "file": "webpack-1.svg",
+      "id": 5404,
+      "is_default": true,
+      "label": "TechIcons · Webpack",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Webpack.svg",
+        "original_sha256": "5e0a1544a06b2314e780a59ee0e4fcb833101f42ac8ef3cbb3f206d1f3f8e8da",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/webpack",
+        "reference_website": "https://webpack.js.org"
+      },
+      "sha256": "228e98449ed2edc9ba2019826d8318f17204a64ad9e00d47025dd085999ccccd",
+      "source": "https://techicons.dev/icons/webpack",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

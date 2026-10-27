@@ -1,0 +1,59 @@
+{
+  "collection_id": 2111,
+  "schema_version": 1,
+  "id": 2338,
+  "title": "Pdfding",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pdfding"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 813,
+      "collection": "Dashboard Icons",
+      "file": "pdfding.svg",
+      "id": 3780,
+      "is_default": true,
+      "label": "pdfding",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pdfding.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b92b44d3a55e7b86e5d3b7ea4c09f77765cb2de32ea5209200b41e1b097bbbd"
+      },
+      "sha256": "bb5330d9145ad83d4fa3ef3ddfbc7967a53565e2ad0dfe579d281459bb4e69f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pdfding.svg",
+      "version": 0
+    },
+    {
+      "bytes": 813,
+      "collection": "Dashboard Icons",
+      "file": "pdfding-1.svg",
+      "id": 3781,
+      "is_default": false,
+      "label": "pdfding-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pdfding-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "860b2d797df4d33c0d79829b2503c497fbff5140f821875b2e0b01a61d969bcf"
+      },
+      "sha256": "04546f8fd96f1db23dbb6d11ca99346026a7299951b581e075084ca4fc030b18",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pdfding-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

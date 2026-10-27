@@ -1,0 +1,40 @@
+{
+  "collection_id": 1712,
+  "schema_version": 1,
+  "id": 1939,
+  "title": "Linkding",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "linkding"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 583,
+      "collection": "Dashboard Icons",
+      "file": "linkding.svg",
+      "id": 3233,
+      "is_default": true,
+      "label": "linkding",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkding.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cdea23c8696a18ee6ff8899bcfb94f1c063ad8af48c3390ee3c840463d449792"
+      },
+      "sha256": "21090a615be4f18875377f605e9c2b3d890477205bab8e56fe1411ac8d8218e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linkding.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

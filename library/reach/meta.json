@@ -1,0 +1,45 @@
+{
+  "collection_id": 3216,
+  "schema_version": 1,
+  "id": 3479,
+  "title": "Reach",
+  "url": "https://www.reach.sh",
+  "domains": [
+    "reach.sh"
+  ],
+  "description": "面向区块链应用与智能合约的开发平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Reach",
+    "reach"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1294,
+      "collection": "TechIcons / Devicon",
+      "file": "reach-1.svg",
+      "id": 5335,
+      "is_default": true,
+      "label": "TechIcons · Reach",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Reach.svg",
+        "original_sha256": "e8d8c91a031df0c69a543c9941ee8d941f1cc96d52ecb58969446de5541c66ba",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/reach",
+        "reference_website": "https://www.reach.sh"
+      },
+      "sha256": "3b6ca58579c88046c30cd82c3de49685d3ce1bbc2fbe0b4ff9f693e9f5e8a728",
+      "source": "https://techicons.dev/icons/reach",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

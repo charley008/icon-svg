@@ -1,0 +1,103 @@
+{
+  "collection_id": 1903,
+  "schema_version": 1,
+  "id": 2130,
+  "redirect_from": [
+    2131
+  ],
+  "title": "Netbox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netbox",
+    "netbox-full",
+    "Netbox Full",
+    "Network Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4224,
+      "collection": "Dashboard Icons",
+      "file": "netbox.svg",
+      "id": 3490,
+      "is_default": true,
+      "label": "netbox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netbox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0b115212c5826066af71bd0995eea4883a6f6189617d94826ab7d72494326af4"
+      },
+      "sha256": "aad9a2b216ef2714adacfe179abd1e9199bb8fb51df9fc6453cb32bc28643470",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbox.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4227,
+      "collection": "Dashboard Icons",
+      "file": "netbox-1.svg",
+      "id": 3491,
+      "is_default": false,
+      "label": "netbox-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netbox-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0bb62efb0b87ab50c5764f76dcca2e6f305fcb96c3131c43938472dad887e2da"
+      },
+      "sha256": "965029e49a58559214acf80786c2c640222e664e96c9f96a4ac3f316fdc588c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbox-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 15508,
+      "collection": "Dashboard Icons",
+      "file": "netbox-2.svg",
+      "id": 3492,
+      "is_default": false,
+      "label": "netbox-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netbox-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf2e8568de45ad79327dd633e357ba5fc22d7be1ff3e32423d715056f605eba4"
+      },
+      "sha256": "9e943367285255c5109ac98d07a2e5418789a7ffb6d788838d87e2135b1c5c86",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbox-full.svg",
+      "version": 2
+    },
+    {
+      "bytes": 15511,
+      "collection": "Dashboard Icons",
+      "file": "netbox-3.svg",
+      "id": 3493,
+      "is_default": false,
+      "label": "netbox-full-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netbox-full-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bdd12b6010cf58ab603596732b573e6b6436097d6adb4bf628e0a03fd4ff0f60"
+      },
+      "sha256": "c64c5096c5b8956ec9e89b2e2cf6e877f0c437c9c3bb1b25f70b1fc089b3ecd8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbox-full-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

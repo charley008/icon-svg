@@ -1,0 +1,40 @@
+{
+  "collection_id": 1759,
+  "schema_version": 1,
+  "id": 1986,
+  "title": "Mail Archiver",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mail-archiver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2699,
+      "collection": "Dashboard Icons",
+      "file": "mail-archiver.svg",
+      "id": 3290,
+      "is_default": true,
+      "label": "mail-archiver",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mail-archiver.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "131433f9303bc7d105b99db1338e197d58352d61e404d9a443f29f3500a6b839"
+      },
+      "sha256": "51a738e84bc53961786c2330d4f9f0b527a62fbda0a44f5fe0f418f90adb7f7f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mail-archiver.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

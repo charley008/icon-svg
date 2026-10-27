@@ -1,0 +1,44 @@
+{
+  "collection_id": 2912,
+  "schema_version": 1,
+  "id": 3139,
+  "title": "Vikunja",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Note-taking-Apps",
+    "办公效率"
+  ],
+  "aliases": [
+    "vikunja",
+    "Task Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4051,
+      "collection": "Dashboard Icons",
+      "file": "vikunja.svg",
+      "id": 4832,
+      "is_default": true,
+      "label": "vikunja",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vikunja.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d360d3537390470b74763d4e444735956c968151e5ab6c4cd8d64dae9a9e5ab"
+      },
+      "sha256": "2f32646cce134225e9907c638d8aeaa2840f3f2d5d8d13d9070bda3211d41a14",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vikunja.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

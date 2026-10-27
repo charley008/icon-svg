@@ -1,0 +1,40 @@
+{
+  "collection_id": 886,
+  "schema_version": 1,
+  "id": 1113,
+  "title": "Boeing",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "boeing"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2535,
+      "collection": "Dashboard Icons",
+      "file": "boeing.svg",
+      "id": 2145,
+      "is_default": true,
+      "label": "boeing",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "boeing.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4fb62e0ad988a7ad7897857a2d1d84fd288f8f3abf41c6c9c2684280c1019613"
+      },
+      "sha256": "dff13a62b4171981aa67fecd7e917584d6b8090c6e21da6ede28b2d183bfa665",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/boeing.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

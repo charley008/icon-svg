@@ -1,0 +1,42 @@
+{
+  "collection_id": 1625,
+  "schema_version": 1,
+  "id": 1852,
+  "title": "Keila",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "keila"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 728,
+      "collection": "Dashboard Icons",
+      "file": "keila.svg",
+      "id": 3121,
+      "is_default": true,
+      "label": "keila",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keila.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ae37ae3cf7664ef6d086c146f86d84084bea581f4d213516c9250c457dd5e06"
+      },
+      "sha256": "1b42e286f4b9eaffdcf2f6c6d97aa288502500ee2c9c9f841169db87381ea665",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keila.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

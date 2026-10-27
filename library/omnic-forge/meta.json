@@ -1,0 +1,61 @@
+{
+  "collection_id": 2005,
+  "schema_version": 1,
+  "id": 2232,
+  "title": "Omnic Forge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "omnic-forge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1306,
+      "collection": "Dashboard Icons",
+      "file": "omnic-forge.svg",
+      "id": 3628,
+      "is_default": true,
+      "label": "omnic-forge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "omnic-forge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "34f342ecb3f687a27b6db00f4a0baf0d62e710830f3cb442acf34389a3fd8044"
+      },
+      "sha256": "212eccd0b084ccc8a2f7d5118b2fd5bbddf6f48f6b2aae0baa9cd02acae8c2ec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/omnic-forge.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1319,
+      "collection": "Dashboard Icons",
+      "file": "omnic-forge-1.svg",
+      "id": 3629,
+      "is_default": false,
+      "label": "omnic-forge-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "omnic-forge-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4264dde35778123f5672ab918307675c53f95a9e129ef6169bad2cd813282144"
+      },
+      "sha256": "e3861e4435a3ff37657e8bdde95bd2846ccfc8cdb7bc6214e3db6050434e04a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/omnic-forge-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

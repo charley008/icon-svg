@@ -43,8 +43,27 @@
       "sha256": "2cd7a6612e06f52ce8c345a2db2bfd4b68aea334a2fde6e4547be814beb9ae89",
       "source": "用户优选",
       "version": 0
+    },
+    {
+      "bytes": 4052,
+      "collection": "Dashboard Icons",
+      "file": "excalidraw-1.svg",
+      "id": 2604,
+      "is_default": false,
+      "label": "excalidraw",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "excalidraw.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "960337c9eef3189cc68216e9b70b2ffbbec13b9e989ccf638ea130bdf166eaa1"
+      },
+      "sha256": "8d5f0a9897454bad0b778db84625c39d630bc6c4a4177e17d57a93b259359fbc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/excalidraw.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

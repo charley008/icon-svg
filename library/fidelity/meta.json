@@ -1,0 +1,42 @@
+{
+  "collection_id": 1256,
+  "schema_version": 1,
+  "id": 1483,
+  "title": "Fidelity",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "fidelity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1080,
+      "collection": "Dashboard Icons",
+      "file": "fidelity.svg",
+      "id": 2638,
+      "is_default": true,
+      "label": "fidelity",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fidelity.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54890a47999a603baaac6712cd5209724ffadd185dbfbeed923490f0a320462b"
+      },
+      "sha256": "9112bb40221890529549330d1960e4c7918b1ceb601564f0c84c04423b85ed02",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fidelity.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

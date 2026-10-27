@@ -1,0 +1,40 @@
+{
+  "collection_id": 2179,
+  "schema_version": 1,
+  "id": 2406,
+  "title": "Polarisoffice",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "polarisoffice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2607,
+      "collection": "Dashboard Icons",
+      "file": "polarisoffice.svg",
+      "id": 3881,
+      "is_default": true,
+      "label": "polarisoffice",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "polarisoffice.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c21dbc27b61788e6cc456cb653ea40201f6ce532e4a46d0caa6242c05c8f5a97"
+      },
+      "sha256": "a12930d5f81cf6077406c85ff8d71c08e9e8aecc5f5aaa6dd0fc78921f306447",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/polarisoffice.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

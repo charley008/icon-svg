@@ -1,0 +1,45 @@
+{
+  "collection_id": 3255,
+  "schema_version": 1,
+  "id": 3519,
+  "title": "Vala",
+  "url": "https://vala.dev",
+  "domains": [
+    "vala.dev"
+  ],
+  "description": "Vala 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Vala",
+    "vala"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2437,
+      "collection": "TechIcons / Devicon",
+      "file": "vala-1.svg",
+      "id": 5393,
+      "is_default": true,
+      "label": "TechIcons · Vala",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Vala.svg",
+        "original_sha256": "2d767c714a896927da7c77d77a404edda3bbfb9e51c7fb5811a9cfaa17ea0afe",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/vala",
+        "reference_website": "https://vala.dev"
+      },
+      "sha256": "b98c5a84591b91dabf5958c225dc20ff320e3fa52b3ac78bef3db58f4957c7bf",
+      "source": "https://techicons.dev/icons/vala",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

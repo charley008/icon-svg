@@ -1,0 +1,40 @@
+{
+  "collection_id": 2628,
+  "schema_version": 1,
+  "id": 2855,
+  "title": "Sing Box",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sing-box"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4621,
+      "collection": "Dashboard Icons",
+      "file": "sing-box.svg",
+      "id": 4469,
+      "is_default": true,
+      "label": "sing-box",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sing-box.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "38b9bfab23dd6487e48cc1c0ce929dbe696469628e96806611f8d2943029938c"
+      },
+      "sha256": "a488f415174fe48b3b2a1c448e442748be93ede613d3b060979a9397be53f494",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sing-box.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

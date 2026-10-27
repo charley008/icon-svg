@@ -1,0 +1,59 @@
+{
+  "collection_id": 1250,
+  "schema_version": 1,
+  "id": 1477,
+  "title": "Feedlynx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "feedlynx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5715,
+      "collection": "Dashboard Icons",
+      "file": "feedlynx.svg",
+      "id": 2630,
+      "is_default": true,
+      "label": "feedlynx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "feedlynx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "31ee39e2bd7d813c9e1e95690ff550484b217f1361edca8f3f2e19b00e021d56"
+      },
+      "sha256": "74541fc7ef3ae47d2a378c186bd554c2f13084da6fe06cc0820044f2c070f223",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/feedlynx.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5769,
+      "collection": "Dashboard Icons",
+      "file": "feedlynx-1.svg",
+      "id": 2631,
+      "is_default": false,
+      "label": "feedlynx-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "feedlynx-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6810a433857f237909b290e9a934a99bf118219cf5239de98763d396451e4d7d"
+      },
+      "sha256": "c24d2ced11bc4e6ca12d0b0b8dde9c3c311e4139426bf973cabff36400e9d60a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/feedlynx-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

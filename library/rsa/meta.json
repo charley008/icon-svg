@@ -1,0 +1,40 @@
+{
+  "collection_id": 2525,
+  "schema_version": 1,
+  "id": 2752,
+  "title": "Rsa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rsa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1713,
+      "collection": "Dashboard Icons",
+      "file": "rsa.svg",
+      "id": 4333,
+      "is_default": true,
+      "label": "rsa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rsa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e9229a173a4808997b1efee79642c92678e2620a777d0525ead9e3f65ceb663"
+      },
+      "sha256": "4e7d1f8ea2926c85bd87132cc2efd86fa969f45f15af50c1373aa48a0332a5bd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rsa.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

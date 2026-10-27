@@ -1,0 +1,141 @@
+{
+  "collection_id": 1378,
+  "schema_version": 1,
+  "id": 1605,
+  "redirect_from": [
+    1609
+  ],
+  "title": "Go",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "go",
+    "golang",
+    "Golang"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1508,
+      "collection": "Dashboard Icons",
+      "file": "go.svg",
+      "id": 2785,
+      "is_default": true,
+      "label": "go",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "go.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "510dc264fd5149aa826aeb674cacf66dc20314f1c0e164d30c0d5451e0ff5ab4"
+      },
+      "sha256": "af0a2a9a590b3bc85985a4345ace6db8b9a61c08b5b088a65d5d8cf0216e2479",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/go.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1691,
+      "collection": "Dashboard Icons",
+      "file": "go-1.svg",
+      "id": 2792,
+      "is_default": false,
+      "label": "Golang",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "golang.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "33e31a3d049683755ceb07b4a6abe830b2ee02e6ffeee408fe705ef078d3849e"
+      },
+      "sha256": "aa4beae45445a4b26523ed76920a3579c988d599942eb33051fa7e68a4594d21",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/golang.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1691,
+      "collection": "Dashboard Icons",
+      "file": "go-2.svg",
+      "id": 2793,
+      "is_default": false,
+      "label": "golang-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "golang-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c62af840a3299ddaade8c11f8a7390e65653dda73dc373ed16ea0f159bdd21c"
+      },
+      "sha256": "e25e9a5dae19285e531e13196b3c60cbf2e8d22f64a54929ac13617995e9af6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/golang-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 97577,
+      "collection": "Dashboard Icons",
+      "file": "go-3.svg",
+      "id": 2794,
+      "is_default": false,
+      "label": "golang-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "golang-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb5f8f8684ffac77204cd3c7a14d6f8570bfa53645900bb9024cdf362159a11c"
+      },
+      "sha256": "5709e32cd81c908a4724378f18fe4c5c46a6f6afbee354d0d895641101218fa1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/golang-kawaii.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1691,
+      "collection": "Dashboard Icons",
+      "file": "go-4.svg",
+      "id": 2795,
+      "is_default": false,
+      "label": "golang-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "golang-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bded31fc05e1fc38ad71f201687021a91d94eab0eeffec685d8853a11c772aaa"
+      },
+      "sha256": "f8e012ad11d86c4eea8d4c5309803f88687b07f39bacee487e90aa65d489be4d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/golang-light.svg",
+      "version": 4
+    },
+    {
+      "bytes": 9038,
+      "collection": "TechIcons / Devicon",
+      "file": "go-5.svg",
+      "id": 5180,
+      "is_default": false,
+      "label": "TechIcons · Go",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Go.svg",
+        "original_sha256": "2d4558b96d3ec71d0d922a62668cb2ea5a5d83ed7d4caf6b0479b3266f795a2f",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/go",
+        "reference_website": "https://go.dev"
+      },
+      "sha256": "2ad7158f582616f9d54b6afb81b803e3bffc56300c34777dae43952635380a10",
+      "source": "https://techicons.dev/icons/go",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1200,
+  "schema_version": 1,
+  "id": 1427,
+  "title": "Enbizcard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "办公效率"
+  ],
+  "aliases": [
+    "enbizcard",
+    "business-card-ocr",
+    "contact-scanner"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7831,
+      "collection": "Dashboard Icons",
+      "file": "enbizcard.svg",
+      "id": 2562,
+      "is_default": true,
+      "label": "enbizcard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "enbizcard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "35193b855a87e43dfd9d7b322c4a095ac2fea62dc6108b63009bfef881064fcf"
+      },
+      "sha256": "a44c7dcc58a0abf5327c838b54605132c5c50d0d9d2b8c1b56d9210070b73b5b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/enbizcard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

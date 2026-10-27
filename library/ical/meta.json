@@ -1,0 +1,42 @@
+{
+  "collection_id": 1521,
+  "schema_version": 1,
+  "id": 1748,
+  "title": "Ical",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "ical"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3268,
+      "collection": "Dashboard Icons",
+      "file": "ical.svg",
+      "id": 2989,
+      "is_default": true,
+      "label": "ical",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ical.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "edf25abbd23f7be7593e471dd05b90b92cfbc60144e8c0428e06bca9a65ca7a1"
+      },
+      "sha256": "2052b585ef835caf87c1ddf85dd766d17daae74aba375628a92d66fc2597055e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ical.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

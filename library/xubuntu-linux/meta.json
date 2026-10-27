@@ -1,0 +1,42 @@
+{
+  "collection_id": 3016,
+  "schema_version": 1,
+  "id": 3243,
+  "title": "Xubuntu Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "xubuntu-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1453,
+      "collection": "Dashboard Icons",
+      "file": "xubuntu-linux.svg",
+      "id": 4971,
+      "is_default": true,
+      "label": "xubuntu-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xubuntu-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "402284e4686eee935bea58adb14165c1950024b52f1d2ca8a3ec72cda0d63d45"
+      },
+      "sha256": "025487322059d9be1d831fec7940cef9ea0b7e6c70eac21cb438cf7cb8078ab6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xubuntu-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

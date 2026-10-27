@@ -1,0 +1,60 @@
+{
+  "collection_id": 2542,
+  "schema_version": 1,
+  "id": 2769,
+  "title": "Safari",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "safari"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1674,
+      "collection": "Dashboard Icons",
+      "file": "safari.svg",
+      "id": 4357,
+      "is_default": true,
+      "label": "safari",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "safari.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e09e66e8567f6c762297ce499d1bc02f6bf24ccc3ff8f11cf9e63555704498e"
+      },
+      "sha256": "52d1c6070901785926fadbc6b0db139f6bf60f7360248c3da49bcf1aab611622",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/safari.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3232,
+      "collection": "TechIcons / Devicon",
+      "file": "safari-1.svg",
+      "id": 5349,
+      "is_default": false,
+      "label": "TechIcons · Apple Safari",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Apple-Safari.svg",
+        "original_sha256": "6a94552507242b0674d41e31335629aa52775823bf3f7f7aea602960c43566bc",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/safari",
+        "reference_website": "https://www.apple.com/safari"
+      },
+      "sha256": "e68e3df9aa493a0c35b14ff493ff94546aa8bd8e0fe3032e3e75a6a6523558cf",
+      "source": "https://techicons.dev/icons/safari",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

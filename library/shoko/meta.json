@@ -1,0 +1,103 @@
+{
+  "collection_id": 2607,
+  "schema_version": 1,
+  "id": 2834,
+  "redirect_from": [
+    2836
+  ],
+  "title": "Shoko",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shoko",
+    "shokoanime",
+    "Shokoanime"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 33817,
+      "collection": "Dashboard Icons",
+      "file": "shoko.svg",
+      "id": 4444,
+      "is_default": true,
+      "label": "shoko",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shoko.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "892e9418b1254680423727f014e1d5af49a3356bbda0e29221cd9ffe9eb99185"
+      },
+      "sha256": "db7580fa70b85d757757266b3d2eca2b81297b1c6ae81faa59af66b57ea26d58",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shoko.svg",
+      "version": 0
+    },
+    {
+      "bytes": 23708,
+      "collection": "Dashboard Icons",
+      "file": "shoko-1.svg",
+      "id": 4446,
+      "is_default": false,
+      "label": "Shokoanime",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shokoanime.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2ed90b440b02caecc1a277dd751244e658ab7a13268177992d87bddbade9d25"
+      },
+      "sha256": "4766274f0aaf84b428e8034654bc024a714a5c4e058e8675dff1ba1f04a97c43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shokoanime.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 2835,
+      "key": "server",
+      "title": "Shoko Server",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "shoko-server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 25145,
+          "collection": "Dashboard Icons",
+          "file": "shoko-server.svg",
+          "id": 4445,
+          "is_default": true,
+          "label": "shoko-server",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "shoko-server.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ea2083ee701831dac001ca67b40b252a07898f03c6d4cafe5d1978dab4ba31c4"
+          },
+          "sha256": "bb4883999c6402fef7752901596d440b0b96e53e3c1cbe7591e20e8b65330b88",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shoko-server.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

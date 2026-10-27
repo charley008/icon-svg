@@ -1,0 +1,45 @@
+{
+  "collection_id": 3111,
+  "schema_version": 1,
+  "id": 3351,
+  "title": "Discord.js",
+  "url": "https://discord.js.org",
+  "domains": [
+    "discord.js.org"
+  ],
+  "description": "用于开发 Discord 应用与机器人的 JavaScript 库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Discord.js",
+    "discordjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2944,
+      "collection": "TechIcons / Devicon",
+      "file": "discordjs-1.svg",
+      "id": 5128,
+      "is_default": true,
+      "label": "TechIcons · Discord.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Discord.js.svg",
+        "original_sha256": "5ad816d8ad1e131a6997065dfe6a6ae3dcafb6a57cd1f3fec66033d905c26ddc",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/discordjs",
+        "reference_website": "https://discord.js.org"
+      },
+      "sha256": "78e86414f6b90cf1ae8dd184e3cd4caed83f99e5d61873e43b6817f733e391d4",
+      "source": "https://techicons.dev/icons/discordjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

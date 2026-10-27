@@ -1,0 +1,44 @@
+{
+  "collection_id": 1984,
+  "schema_version": 1,
+  "id": 2211,
+  "title": "Obtainium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Smart-Home",
+    "系统工具"
+  ],
+  "aliases": [
+    "obtainium",
+    "App Updater"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1619,
+      "collection": "Dashboard Icons",
+      "file": "obtainium.svg",
+      "id": 3596,
+      "is_default": true,
+      "label": "obtainium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "obtainium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b61a1d57b84e868c9a3246ec6a48f74b769be09a53e72cf810122a82eb69e189"
+      },
+      "sha256": "aefa7f33e718d12e221729335fe3775584984bb8d2f082bc9cbadd9c62e9ffd8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/obtainium.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

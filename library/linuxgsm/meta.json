@@ -1,0 +1,40 @@
+{
+  "collection_id": 1716,
+  "schema_version": 1,
+  "id": 1943,
+  "title": "Linuxgsm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "linuxgsm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2516,
+      "collection": "Dashboard Icons",
+      "file": "linuxgsm.svg",
+      "id": 3240,
+      "is_default": true,
+      "label": "linuxgsm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linuxgsm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cfedfdff0bd23fabade4c1819ebad45b1618104dc11115bc8aa7df691f2233d"
+      },
+      "sha256": "5670f5cfee489759ed4a60080d0f7f992f9fd87bb8c695c978e53b3e9dfede89",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linuxgsm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

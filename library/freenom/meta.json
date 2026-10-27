@@ -1,0 +1,40 @@
+{
+  "collection_id": 1328,
+  "schema_version": 1,
+  "id": 1555,
+  "title": "Freenom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freenom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1354,
+      "collection": "Dashboard Icons",
+      "file": "freenom.svg",
+      "id": 2721,
+      "is_default": true,
+      "label": "freenom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freenom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f1e6c9b0a7f2c7a39d18a9c1b4655dd5c22de6c6dc05067f1e086ef0b5c45b7"
+      },
+      "sha256": "4dc64edeb91194d90a0fb62c1fcd79d3ce39631c9a6ac071b40386e3608f163f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freenom.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2421,
+  "schema_version": 1,
+  "id": 2648,
+  "title": "Pyload",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pyload"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7557,
+      "collection": "Dashboard Icons",
+      "file": "pyload.svg",
+      "id": 4207,
+      "is_default": true,
+      "label": "pyload",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pyload.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c1a1d69d95ba0d1455048936942427803f41d657e3904f9a7628742cf54ec2f3"
+      },
+      "sha256": "f5398872de0e3d5dbde3334a752cb085168d352693184f45ad1ad6e211a20520",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pyload.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

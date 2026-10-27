@@ -1,0 +1,60 @@
+{
+  "collection_id": 780,
+  "schema_version": 1,
+  "id": 1007,
+  "title": "Autobangumi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "autobangumi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2179,
+      "collection": "Dashboard Icons",
+      "file": "autobangumi.svg",
+      "id": 2007,
+      "is_default": true,
+      "label": "autobangumi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "autobangumi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a93577aeb29194503d3c2d604cc8f83e7da16e2870afe16b184f7814c732c66"
+      },
+      "sha256": "2369eb3553cceb7dc8c1b0a9b4d83fe08de526237c743e6654258a10f1a86562",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/autobangumi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1789,
+      "collection": "Dashboard Icons",
+      "file": "autobangumi-1.svg",
+      "id": 2008,
+      "is_default": false,
+      "label": "autobangumi-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "autobangumi-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "15d486802fe2330672fc66e9f2c4ffd5bf301477c556161655036745e8d69219"
+      },
+      "sha256": "cc9fd7ce97eebfeef1fab5c67db1be6bc5794a93ce2f341590ecc3ec6f7ff34d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/autobangumi-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

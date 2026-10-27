@@ -1,0 +1,40 @@
+{
+  "collection_id": 1084,
+  "schema_version": 1,
+  "id": 1311,
+  "title": "Declarenta",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "declarenta"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 710,
+      "collection": "Dashboard Icons",
+      "file": "declarenta.svg",
+      "id": 2404,
+      "is_default": true,
+      "label": "declarenta",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "declarenta.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd6f054baeca50440c5009222d9bcd0c38b04f3f2e6c3fd0760d1771b248eafb"
+      },
+      "sha256": "0939f7b386ccdf487dee9302e9dea2369a1a21bc966650939f3a7b49f94b1282",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/declarenta.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

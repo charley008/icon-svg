@@ -1,0 +1,59 @@
+{
+  "collection_id": 3020,
+  "schema_version": 1,
+  "id": 3247,
+  "title": "Yamtrack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yamtrack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1227,
+      "collection": "Dashboard Icons",
+      "file": "yamtrack.svg",
+      "id": 4975,
+      "is_default": true,
+      "label": "yamtrack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yamtrack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2802617a1920d65ad295c8ee1f7715e8d9071c3b54f108b54fae7e02dc518122"
+      },
+      "sha256": "f6f1b9e075a2cdd48ce22f035f79995a5003f6a8e0e6e614393811ebc7a1640e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yamtrack.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1227,
+      "collection": "Dashboard Icons",
+      "file": "yamtrack-1.svg",
+      "id": 4976,
+      "is_default": false,
+      "label": "yamtrack-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yamtrack-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bc8e0f9a4b17f9c1ccf850642eeb78165cbc18fdac6a3d648d8e652231984e9a"
+      },
+      "sha256": "2940aafb41f93c5246dd3a3e3ef00ccb43dee1a7d8bc0c9c73f8f68effdd0970",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yamtrack-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

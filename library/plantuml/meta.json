@@ -1,0 +1,40 @@
+{
+  "collection_id": 2160,
+  "schema_version": 1,
+  "id": 2387,
+  "title": "Plantuml",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "plantuml"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2871,
+      "collection": "Dashboard Icons",
+      "file": "plantuml.svg",
+      "id": 3853,
+      "is_default": true,
+      "label": "plantuml",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plantuml.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cbc643a69e025100d11e6f3bbcf905325917dc87389320a89ad75b06ece7f14b"
+      },
+      "sha256": "f733c9d6de0dedb419351e8aec4991769e5ca47b0bb54203be1cc45284d1db6e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plantuml.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,61 @@
+{
+  "collection_id": 3046,
+  "schema_version": 1,
+  "id": 3273,
+  "title": "Zashboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "zashboard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1250,
+      "collection": "Dashboard Icons",
+      "file": "zashboard.svg",
+      "id": 5006,
+      "is_default": true,
+      "label": "zashboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zashboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a2407f3c397cc658f6784075380d5414e1b28320994a43540a4ac89b079475d7"
+      },
+      "sha256": "e45141084469d8dd9ef6f071556c3ae82d97b05388a79c38149b80adc1fbdc45",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zashboard.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1250,
+      "collection": "Dashboard Icons",
+      "file": "zashboard-1.svg",
+      "id": 5007,
+      "is_default": false,
+      "label": "zashboard-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zashboard-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d7e26e97dde4169b93e5c6debdbc9309caf803e96e35cc7a0bcdadcda1125f7"
+      },
+      "sha256": "1dd729085d5d8eef993abfa4221d3bea4425297ab73cb044e0b5744f98968082",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zashboard-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

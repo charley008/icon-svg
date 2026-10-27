@@ -1,0 +1,124 @@
+{
+  "collection_id": 1053,
+  "schema_version": 1,
+  "id": 1280,
+  "redirect_from": [
+    1281,
+    1282
+  ],
+  "title": "Ctrader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ctrader",
+    "ctrader-wordmark-light",
+    "Ctrader Wordmark Light",
+    "ctrader-wordmark-dark",
+    "Ctrader Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 793,
+      "collection": "Dashboard Icons",
+      "file": "ctrader.svg",
+      "id": 2364,
+      "is_default": true,
+      "label": "ctrader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b85d2a7df03add1880e6c0b4f28eba26f082236504d99790fd0602feaac5b52"
+      },
+      "sha256": "e91d4d4ab037814bc6c9e07e236b7cd2fa6cfcbfc1fc662407820c165d8096a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ctrader.svg",
+      "version": 0
+    },
+    {
+      "bytes": 793,
+      "collection": "Dashboard Icons",
+      "file": "ctrader-1.svg",
+      "id": 2365,
+      "is_default": false,
+      "label": "ctrader-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrader-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "411d94ecfe7c2a1e287962d7717de7f08b9bb0dfaf79a864d662c58d14520454"
+      },
+      "sha256": "5df5e471748940c10410908f9924a47cc85e95607a9d9d4263e7395c5e2b0d57",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ctrader-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 793,
+      "collection": "Dashboard Icons",
+      "file": "ctrader-2.svg",
+      "id": 2366,
+      "is_default": false,
+      "label": "ctrader-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrader-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0179e11b005edece0931788006b4289c303a189cc2b6472a0d372099926cebef"
+      },
+      "sha256": "6cde15525b715b16bf34b82cc788fd1729cb43d1b6990c95a8b359094aa97dfd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ctrader-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3819,
+      "collection": "Dashboard Icons",
+      "file": "ctrader-3.svg",
+      "id": 2368,
+      "is_default": false,
+      "label": "ctrader-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrader-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7a5be4b9639dc63867c03d2c9e1271f0f1e82a039923eb426ed046de817efce7"
+      },
+      "sha256": "ba675cedf07a771f886c9f5ee6a05bc3504a7dbd6de373d73743e5175db16adc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ctrader-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3819,
+      "collection": "Dashboard Icons",
+      "file": "ctrader-4.svg",
+      "id": 2367,
+      "is_default": false,
+      "label": "ctrader-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ctrader-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7744fcc84eac670808d6b39252c381abcce5fc6b2c4be0936dd87de64b671f1c"
+      },
+      "sha256": "ff52680f046fee908b5ed5581c5c43f8f91f362c9578a860ca4227d72ae71d8f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ctrader-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

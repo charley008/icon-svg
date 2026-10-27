@@ -1,0 +1,59 @@
+{
+  "collection_id": 1001,
+  "schema_version": 1,
+  "id": 1228,
+  "title": "Coder",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "coder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 784,
+      "collection": "Dashboard Icons",
+      "file": "coder.svg",
+      "id": 2295,
+      "is_default": true,
+      "label": "coder",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coder.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1ec3002eacdf23a4c0b859e6465a61182c00d781dac0a3562a5230ff9675545"
+      },
+      "sha256": "da213f74ea47f078eb51aba28d95a7d2782fbc29e191dc05022f74de5158a3ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/coder.svg",
+      "version": 0
+    },
+    {
+      "bytes": 784,
+      "collection": "Dashboard Icons",
+      "file": "coder-1.svg",
+      "id": 2296,
+      "is_default": false,
+      "label": "coder-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coder-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e591da0233c6cb81ec8700fe9c17f185f69d9a16d8da0b21a09990316f79180"
+      },
+      "sha256": "73ff51a165bed19486bac6b8d5e62d02501cc34e941a53194341bb75a7167cb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/coder-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

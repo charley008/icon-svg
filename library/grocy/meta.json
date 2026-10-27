@@ -1,0 +1,40 @@
+{
+  "collection_id": 1429,
+  "schema_version": 1,
+  "id": 1656,
+  "title": "Grocy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "grocy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 928,
+      "collection": "Dashboard Icons",
+      "file": "grocy.svg",
+      "id": 2859,
+      "is_default": true,
+      "label": "grocy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grocy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "484933626c768b157b1656fd90c216002369354deb15bb7d05e5fef0053728af"
+      },
+      "sha256": "4f952b6fd8dd7c7220c1cf85063b12e9ff6cb579c085029ede5f9c016e30f3b9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grocy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

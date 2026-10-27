@@ -1,0 +1,82 @@
+{
+  "collection_id": 1831,
+  "schema_version": 1,
+  "id": 2058,
+  "title": "Misskey",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "misskey",
+    "federated-microblogging",
+    "mastodon-alternative"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1643,
+      "collection": "Dashboard Icons",
+      "file": "misskey.svg",
+      "id": 3395,
+      "is_default": true,
+      "label": "misskey",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "misskey.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "23385300d1d74ed83b4a3269a3c2219a7c06bf120b6211a54ee65da79a8d55ec"
+      },
+      "sha256": "78e11f0ae6d35ae08a4ac6b97f0f516ee5f52deb0aad1c0b47eaaba9f812dba9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/misskey.svg",
+      "version": 0
+    },
+    {
+      "bytes": 165600,
+      "collection": "Dashboard Icons",
+      "file": "misskey-1.svg",
+      "id": 3396,
+      "is_default": false,
+      "label": "misskey-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "misskey-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7f5537ba390e6ab66fa15fc87738476bc5610359acbedfe540bc8d72caf563b1"
+      },
+      "sha256": "098514c214ade408e354a9021799fd385ee054b2853017bf91b7fe3fa5e3bb36",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/misskey-kawaii.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1655,
+      "collection": "Dashboard Icons",
+      "file": "misskey-2.svg",
+      "id": 3397,
+      "is_default": false,
+      "label": "misskey-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "misskey-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d038580189bea4d41c06cdf9c7fbadda4a04efcd3909515b56c92c74981e920b"
+      },
+      "sha256": "cdb660a49f8750e6fc74e08341d18e2aa64e563760b0b4f6657a61fb2e26950f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/misskey-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

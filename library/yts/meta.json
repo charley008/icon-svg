@@ -1,0 +1,40 @@
+{
+  "collection_id": 3036,
+  "schema_version": 1,
+  "id": 3263,
+  "title": "Yts",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yts"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1414,
+      "collection": "Dashboard Icons",
+      "file": "yts.svg",
+      "id": 4994,
+      "is_default": true,
+      "label": "yts",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yts.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb9fa1ddc21844c3908adb3715b966141dde3e027f57af18866517cb13c08040"
+      },
+      "sha256": "531218a740f3ab26615c7882f33d000e5c5be069beb8c2522e05fb3cfd9dbf22",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yts.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

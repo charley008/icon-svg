@@ -1,0 +1,59 @@
+{
+  "collection_id": 1518,
+  "schema_version": 1,
+  "id": 1745,
+  "title": "I2P",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "i2p"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2364,
+      "collection": "Dashboard Icons",
+      "file": "i2p.svg",
+      "id": 2983,
+      "is_default": true,
+      "label": "i2p",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "i2p.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "80435f329d6140aefd262b80eb122f721dc4356a485f55e71bac95b1669e7344"
+      },
+      "sha256": "e6ba1bba21a17858dc29e4afc8f2403a95a04647ad010a4f22b42b9f12adda5a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/i2p.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2364,
+      "collection": "Dashboard Icons",
+      "file": "i2p-1.svg",
+      "id": 2984,
+      "is_default": false,
+      "label": "i2p-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "i2p-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f5b4b7c5198b290331b63d1734a29a57047c245db09edc3068a551cf99d9bb1"
+      },
+      "sha256": "b9bda05cddfab22636b5053f2aba06cc97c8fe2874855d973558e0b8c1659874",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/i2p-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

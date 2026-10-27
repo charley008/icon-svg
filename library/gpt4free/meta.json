@@ -1,0 +1,44 @@
+{
+  "collection_id": 1416,
+  "schema_version": 1,
+  "id": 1643,
+  "title": "Gpt4Free",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "AI-\u0026-LLM-Platforms",
+    "AI"
+  ],
+  "aliases": [
+    "gpt4free",
+    "free-chatgpt",
+    "unlimited-ai-chat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4550,
+      "collection": "Dashboard Icons",
+      "file": "gpt4free.svg",
+      "id": 2842,
+      "is_default": true,
+      "label": "gpt4free",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gpt4free.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7434872b1ab5a3853b6dd66828852582464270711cd6b38483e7ecdfcde8efa8"
+      },
+      "sha256": "caef7c36f13c45084cc2613eb108821538389ec67983a5a4bf08c748b0ca8137",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gpt4free.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

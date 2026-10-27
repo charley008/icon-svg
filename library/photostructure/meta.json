@@ -1,0 +1,59 @@
+{
+  "collection_id": 2137,
+  "schema_version": 1,
+  "id": 2364,
+  "title": "Photostructure",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "photostructure"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1930,
+      "collection": "Dashboard Icons",
+      "file": "photostructure.svg",
+      "id": 3821,
+      "is_default": true,
+      "label": "photostructure",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "photostructure.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c77e067e3e5f6f7cb9651250a7551c78aafe2fffd72efeb430902351534d202e"
+      },
+      "sha256": "6e3b0430da26c658cc6a38418402a542f06d434258d01f0b30e8ef5868a319f1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photostructure.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1969,
+      "collection": "Dashboard Icons",
+      "file": "photostructure-1.svg",
+      "id": 3822,
+      "is_default": false,
+      "label": "photostructure-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "photostructure-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f6d58c688f6a567f7ac7f02bb0c3cf71548f71ee64369f6bf3f6ef8584c8e015"
+      },
+      "sha256": "d86554fbd4c16e20e6ec0fab51c47d2da59a1deebc8350a616ab1503d5f7cf19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photostructure-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

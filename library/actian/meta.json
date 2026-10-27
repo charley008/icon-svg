@@ -1,0 +1,40 @@
+{
+  "collection_id": 663,
+  "schema_version": 1,
+  "id": 890,
+  "title": "Actian",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "actian"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1133,
+      "collection": "Dashboard Icons",
+      "file": "actian.svg",
+      "id": 1851,
+      "is_default": true,
+      "label": "actian",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "actian.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "53d83424ae711e3a03aaf0315b4dc51b6ded313f539a7ab99a49cf612f32862a"
+      },
+      "sha256": "d68276c4fd80e5b912113dc7587c9e341b22ea0ee64eac8b7e538341b5cbecec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/actian.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

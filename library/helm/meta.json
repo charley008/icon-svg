@@ -1,0 +1,60 @@
+{
+  "collection_id": 1464,
+  "schema_version": 1,
+  "id": 1691,
+  "title": "Helm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "helm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2225,
+      "collection": "Dashboard Icons",
+      "file": "helm.svg",
+      "id": 2915,
+      "is_default": true,
+      "label": "helm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "helm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "57ddf50eb52807567f15bbb0f289d819b328c731b8437745e31c99b3610da967"
+      },
+      "sha256": "a99d8d33884df957aa1acd209cfe0860fb3f9654956aa997a61b53185571c8d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/helm.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2408,
+      "collection": "TechIcons / Devicon",
+      "file": "helm-1.svg",
+      "id": 5201,
+      "is_default": false,
+      "label": "TechIcons · Helm",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Helm.svg",
+        "original_sha256": "83efc74139c06f09c29cab6592fdad80c8ce9e5090fc1da3ba39d40686fb511b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/helm",
+        "reference_website": "https://helm.sh"
+      },
+      "sha256": "1efea50e3fe72f3e04a5269f897d904714e97c767c63fc19de3ef4c1be3a790d",
+      "source": "https://techicons.dev/icons/helm",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1298,
+  "schema_version": 1,
+  "id": 1525,
+  "title": "Fluent Reader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "fluent-reader",
+    "RSS Reader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3940,
+      "collection": "Dashboard Icons",
+      "file": "fluent-reader.svg",
+      "id": 2685,
+      "is_default": true,
+      "label": "fluent-reader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fluent-reader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fdfe254747bcb2fb57af9675ca4e1321a8bc3b8e753c7253d0ec4d79b88bb7d6"
+      },
+      "sha256": "1912c8f9ffddfb2bb92a86734667064db0213ba39b934ef88c069bf5054ed52b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fluent-reader.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

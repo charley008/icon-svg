@@ -1,0 +1,44 @@
+{
+  "collection_id": 2839,
+  "schema_version": 1,
+  "id": 3066,
+  "title": "Truecommand",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Server-Panels",
+    "File-Sharing-\u0026-Sync"
+  ],
+  "aliases": [
+    "truecommand",
+    "truenas-manager",
+    "nas-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2411,
+      "collection": "Dashboard Icons",
+      "file": "truecommand.svg",
+      "id": 4734,
+      "is_default": true,
+      "label": "truecommand",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "truecommand.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0409e16d8868f0b4afecba04f10bb3f33d8e0192f4d5e8b5ed4207a018852a92"
+      },
+      "sha256": "9b1e5ff57c59bfafd5081e20fef03ea8cb2e6ddaa49d6be5e297c0196d80f0ef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/truecommand.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

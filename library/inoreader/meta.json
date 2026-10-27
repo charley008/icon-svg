@@ -1,0 +1,44 @@
+{
+  "collection_id": 1550,
+  "schema_version": 1,
+  "id": 1777,
+  "title": "Inoreader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "新闻资讯"
+  ],
+  "aliases": [
+    "inoreader",
+    "online-rss-reader",
+    "feed-aggregator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 339,
+      "collection": "Dashboard Icons",
+      "file": "inoreader.svg",
+      "id": 3025,
+      "is_default": true,
+      "label": "inoreader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "inoreader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd05cfbef408bb7417b80bd170b429e6015bbfeb2ad9a024dee656a958f81543"
+      },
+      "sha256": "038628b853cf65ed7a5818dc47a00e509d144336fb875c00b6e8e943e505b62f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/inoreader.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

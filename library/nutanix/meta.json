@@ -1,0 +1,40 @@
+{
+  "collection_id": 1974,
+  "schema_version": 1,
+  "id": 2201,
+  "title": "Nutanix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nutanix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1123,
+      "collection": "Dashboard Icons",
+      "file": "nutanix.svg",
+      "id": 3582,
+      "is_default": true,
+      "label": "nutanix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nutanix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ab27406f72f0ef65e947080cf3e520fed05ddf12341d6bf4c5d5c2884e35932"
+      },
+      "sha256": "a6d8e65819e94623df180900339ab2c14a5ac6a31b346b7079914630821dbe59",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nutanix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

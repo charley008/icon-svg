@@ -2,6 +2,7 @@
   "collection_id": 79,
   "schema_version": 1,
   "id": 147,
+  "deleted": true,
   "title": "Character.AI",
   "url": "https://character.ai",
   "domains": [

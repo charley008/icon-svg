@@ -1,0 +1,44 @@
+{
+  "collection_id": 2643,
+  "schema_version": 1,
+  "id": 2870,
+  "title": "Snikket",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "snikket",
+    "xmpp-chat",
+    "instant-messaging-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4878,
+      "collection": "Dashboard Icons",
+      "file": "snikket.svg",
+      "id": 4487,
+      "is_default": true,
+      "label": "snikket",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snikket.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6600d345142f711180f5f651a503092f0f31cfcf67a9e8d76d1d7f4b2955369e"
+      },
+      "sha256": "e5379adf52bff2f0e2cf9dd10a7ccac258554663e4f4e4ed0af9bfc1d4d0a0e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snikket.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

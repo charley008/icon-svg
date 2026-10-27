@@ -1,0 +1,45 @@
+{
+  "collection_id": 3083,
+  "schema_version": 1,
+  "id": 3322,
+  "title": "Babel",
+  "url": "https://babeljs.io",
+  "domains": [
+    "babeljs.io"
+  ],
+  "description": "用于 JavaScript 语法转换的编译工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Babel",
+    "babel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 28054,
+      "collection": "TechIcons / Devicon",
+      "file": "babel-1.svg",
+      "id": 5088,
+      "is_default": true,
+      "label": "TechIcons · Babel",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Babel.svg",
+        "original_sha256": "bf4ed23dffb7393284065590461c6791f39cd306bce7bba06bebe8ab06051fc4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/babel",
+        "reference_website": "https://babeljs.io"
+      },
+      "sha256": "19695765576ccb2c6d969a96ca525db7b94d975c0c151114b87958f56bd4bc5a",
+      "source": "https://techicons.dev/icons/babel",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

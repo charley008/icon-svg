@@ -1,0 +1,41 @@
+{
+  "collection_id": 2235,
+  "schema_version": 1,
+  "id": 2462,
+  "title": "Pulsarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "pulsarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9440,
+      "collection": "Dashboard Icons",
+      "file": "pulsarr.svg",
+      "id": 3959,
+      "is_default": true,
+      "label": "pulsarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pulsarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6abe63075cec7e1d618d05fd5cfe8b651e14fccbf8e9dae30fae140908baface"
+      },
+      "sha256": "ede30510cd2fec9d1165022e2b80a34c96b85cf0ba8daabddb32494b12b6c777",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pulsarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

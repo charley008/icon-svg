@@ -1,4 +1,7 @@
 {
+  "collection_id": 633,
+  "schema_version": 1,
+  "id": 859,
   "title": "Vultr",
   "url": "https://www.vultr.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "vultr.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "4b588cfd3df19e65f590e2938610747defa497945b2e5f2f0bad2f1a6940bf63",
       "bytes": 772,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vultr.svg",
+      "collection": "Dashboard Icons",
+      "file": "vultr.svg",
+      "id": 1815,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "vultr.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "4b588cfd3df19e65f590e2938610747defa497945b2e5f2f0bad2f1a6940bf63",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vultr.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

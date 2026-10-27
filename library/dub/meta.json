@@ -1,0 +1,61 @@
+{
+  "collection_id": 1163,
+  "schema_version": 1,
+  "id": 1390,
+  "title": "Dub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "dub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 423,
+      "collection": "Dashboard Icons",
+      "file": "dub.svg",
+      "id": 2511,
+      "is_default": true,
+      "label": "dub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e5844cd8a2d53602886593f6958469352f8f0fedbd44b531fb457984e94754e"
+      },
+      "sha256": "df728cadfae7e5dcce218cd4111d78094e1cc0b2dd6cdbe82964e5f15a2aae97",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dub.svg",
+      "version": 0
+    },
+    {
+      "bytes": 435,
+      "collection": "Dashboard Icons",
+      "file": "dub-1.svg",
+      "id": 2512,
+      "is_default": false,
+      "label": "dub-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dub-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aee83e4f6cadfd5aa967a1deb2654d7cee4c5cbb5c860578cfecc704907560d6"
+      },
+      "sha256": "b724774b6133b8258172a6d262569ba261cda85c355710d2c95418f83d2acb10",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dub-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

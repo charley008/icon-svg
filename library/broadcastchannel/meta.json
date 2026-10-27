@@ -1,0 +1,59 @@
+{
+  "collection_id": 903,
+  "schema_version": 1,
+  "id": 1130,
+  "title": "Broadcastchannel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "broadcastchannel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 635,
+      "collection": "Dashboard Icons",
+      "file": "broadcastchannel.svg",
+      "id": 2166,
+      "is_default": true,
+      "label": "broadcastchannel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "broadcastchannel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d613e662b20786aa3b79458be09da925cb5047f7bd1fc0a9f39e3a12cbfe85bd"
+      },
+      "sha256": "331119d73f85bbc374b0e4c0b7fe1d3b118aa77e11bd420fecc93cbdf219d970",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/broadcastchannel.svg",
+      "version": 0
+    },
+    {
+      "bytes": 647,
+      "collection": "Dashboard Icons",
+      "file": "broadcastchannel-1.svg",
+      "id": 2167,
+      "is_default": false,
+      "label": "broadcastchannel-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "broadcastchannel-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85f062f70bceb5fb6b7f51bb4a4ecac05099e6f3299c720f00f9c5f5a8bf88a9"
+      },
+      "sha256": "f03826fd0363d6e5584b9688faa0595f8b465a4c8e4dbe74c8f11509e80fc931",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/broadcastchannel-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

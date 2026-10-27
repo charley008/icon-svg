@@ -1,0 +1,40 @@
+{
+  "collection_id": 1238,
+  "schema_version": 1,
+  "id": 1465,
+  "title": "F4Map",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "f4map"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1175,
+      "collection": "Dashboard Icons",
+      "file": "f4map.svg",
+      "id": 2612,
+      "is_default": true,
+      "label": "f4map",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "f4map.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e76353b009ba9ebaf01254176c62045856e07aec5b3a121e27da9cdd33b3d02"
+      },
+      "sha256": "3f3520e7089a348c5123174a550dfce6d333058f77ee09cbd52d723a55b2373f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/f4map.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

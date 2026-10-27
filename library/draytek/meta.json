@@ -1,0 +1,40 @@
+{
+  "collection_id": 1155,
+  "schema_version": 1,
+  "id": 1382,
+  "title": "Draytek",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "draytek"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2532,
+      "collection": "Dashboard Icons",
+      "file": "draytek.svg",
+      "id": 2500,
+      "is_default": true,
+      "label": "draytek",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "draytek.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c81810d6ad9750b2066c167e89cca0ace6faeb91d9a17afa21b467ec55dfee1"
+      },
+      "sha256": "ef6125828dd0cf0166db19b5a8eb430b93421983cf23e541c5e386786ebb52e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/draytek.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

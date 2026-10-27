@@ -1,0 +1,40 @@
+{
+  "collection_id": 2175,
+  "schema_version": 1,
+  "id": 2402,
+  "title": "Podify",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "podify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1584,
+      "collection": "Dashboard Icons",
+      "file": "podify.svg",
+      "id": 3877,
+      "is_default": true,
+      "label": "podify",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "podify.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ae3e4e9b45dfcdf068492090350c888ed0f645fd7395cd26999fc46da8b98ed"
+      },
+      "sha256": "12fa0cd67108b0c54f1e2496532a6a93c52277fc15090d6cf4b43b0bfe756381",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/podify.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

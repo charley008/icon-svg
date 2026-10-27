@@ -1,4 +1,7 @@
 {
+  "collection_id": 599,
+  "schema_version": 1,
+  "id": 824,
   "title": "qBittorrent",
   "url": "https://www.qbittorrent.org/",
   "domains": [
@@ -22,23 +25,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "qbittorrent.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "dc6a5e20879ad37b6e9367ccc9143fdf90351f40eb08c200cd7d003ff1b1c275",
       "bytes": 1549,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qbittorrent.svg",
+      "collection": "Dashboard Icons",
+      "file": "qbittorrent.svg",
+      "id": 1781,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "qbittorrent.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "dc6a5e20879ad37b6e9367ccc9143fdf90351f40eb08c200cd7d003ff1b1c275",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qbittorrent.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

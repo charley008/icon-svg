@@ -1,0 +1,83 @@
+{
+  "collection_id": 2694,
+  "schema_version": 1,
+  "id": 2921,
+  "redirect_from": [
+    2922
+  ],
+  "title": "Startpage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "startpage",
+    "startpage-wordmark-light",
+    "Startpage Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1873,
+      "collection": "Dashboard Icons",
+      "file": "startpage.svg",
+      "id": 4550,
+      "is_default": true,
+      "label": "startpage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "startpage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a13dfb8fb2048472651b50d46d49221fb6643bb81975e4be8eb7db1caa722eed"
+      },
+      "sha256": "d990d0b702d918678a0165b7cbcbf019c05602238d1f36c5442ca65e7f90d2b4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/startpage.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3050,
+      "collection": "Dashboard Icons",
+      "file": "startpage-1.svg",
+      "id": 4551,
+      "is_default": false,
+      "label": "startpage-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "startpage-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "790f8eb415bf6c29ad5fd3856648ec6863ca39d7264252ed73dd7a2069f02628"
+      },
+      "sha256": "dd79fe6d4e89b15106f0f14f6c058e751782c7d77e56814c63aaa48027490311",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/startpage-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5461,
+      "collection": "Dashboard Icons",
+      "file": "startpage-2.svg",
+      "id": 4552,
+      "is_default": false,
+      "label": "startpage-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "startpage-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4277b928f9a596c9509f905b3c4c2d56c6077459c9c87e32598fee900575e77"
+      },
+      "sha256": "7f89b0efd09d88969336ad7070cc83c83fb4298c6790896c903f4e30e3a37126",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/startpage-wordmark-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

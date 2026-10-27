@@ -1,0 +1,40 @@
+{
+  "collection_id": 2443,
+  "schema_version": 1,
+  "id": 2670,
+  "title": "Qobuz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "qobuz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1192,
+      "collection": "Dashboard Icons",
+      "file": "qobuz.svg",
+      "id": 4233,
+      "is_default": true,
+      "label": "qobuz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qobuz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "84c1294cd8dcc31f7274c956782cc9cebd48c48e331d5f02b1349d79ae79c638"
+      },
+      "sha256": "6acdec09dd63c6115cbede7dadc8626badbc21722bc7da173601657c7b3f0998",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qobuz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

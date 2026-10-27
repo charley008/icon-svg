@@ -1,0 +1,40 @@
+{
+  "collection_id": 2915,
+  "schema_version": 1,
+  "id": 3142,
+  "title": "Virtualbox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "virtualbox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 807,
+      "collection": "Dashboard Icons",
+      "file": "virtualbox.svg",
+      "id": 4837,
+      "is_default": true,
+      "label": "virtualbox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "virtualbox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85646e16db39d49570a8c31f40f783682ec95a6b4d999134d820dea0bfb3972c"
+      },
+      "sha256": "c0f79389cf7a389cd21ab5c9a70db967296e6165d3849219da19fb1a61d2026d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/virtualbox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

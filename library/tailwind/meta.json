@@ -1,0 +1,61 @@
+{
+  "collection_id": 2742,
+  "schema_version": 1,
+  "id": 2969,
+  "title": "Tailwind",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Design",
+    "Development"
+  ],
+  "aliases": [
+    "tailwind"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 814,
+      "collection": "Dashboard Icons",
+      "file": "tailwind.svg",
+      "id": 4613,
+      "is_default": true,
+      "label": "tailwind",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tailwind.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fcf91faf13f58d3a506fcd1ded396db883294109e03b30aaa4b8d4d3227ced29"
+      },
+      "sha256": "339ccf8fb0940749bdccdc40d9d018c96e781240a3b912ef6879b54acc1f128d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tailwind.svg",
+      "version": 0
+    },
+    {
+      "bytes": 89413,
+      "collection": "Dashboard Icons",
+      "file": "tailwind-1.svg",
+      "id": 4614,
+      "is_default": false,
+      "label": "tailwind-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tailwind-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "655491addbbeaa106c466dfc1909852ed2e761056886ddfff1997fc58f94ad0a"
+      },
+      "sha256": "94ca0c6ecbba194617d914be3d4b82c438a8209ea85523bb316013053d4ee5ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tailwind-kawaii.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

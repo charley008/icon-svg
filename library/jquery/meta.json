@@ -37,8 +37,28 @@
       "sha256": "1d0059b8d2e9fc3f874a4b0beef6091ecb7de550e299965227c3d266fec70138",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/jquery-4.svg",
       "version": 0
+    },
+    {
+      "bytes": 3366,
+      "collection": "TechIcons / Devicon",
+      "file": "jquery-1.svg",
+      "id": 5229,
+      "is_default": false,
+      "label": "TechIcons · jQuery",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "jQuery.svg",
+        "original_sha256": "b8224bc5726ce26b18b96df3d9832d7230b60e2390cf87c1342b0822ad66f6f2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jquery",
+        "reference_website": "https://jquery.com/"
+      },
+      "sha256": "cbf8305c3bca448bd4ac3d5461cc0cf9ac131fe52d23cb87899c5c73d676cc4c",
+      "source": "https://techicons.dev/icons/jquery",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

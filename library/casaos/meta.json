@@ -1,0 +1,40 @@
+{
+  "collection_id": 938,
+  "schema_version": 1,
+  "id": 1165,
+  "title": "Casaos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "casaos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 653,
+      "collection": "Dashboard Icons",
+      "file": "casaos.svg",
+      "id": 2212,
+      "is_default": true,
+      "label": "casaos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "casaos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a0930c2dc07ae178d06e290bf3fd3e93460ebf0a6f2a02bb8f6663be08be48ec"
+      },
+      "sha256": "c476527dc2028c13d2dd39d14f70019c304db8561a1c2433d658885f48dfc10c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/casaos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

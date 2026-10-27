@@ -1,0 +1,40 @@
+{
+  "collection_id": 2780,
+  "schema_version": 1,
+  "id": 3007,
+  "title": "Thanos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thanos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 800,
+      "collection": "Dashboard Icons",
+      "file": "thanos.svg",
+      "id": 4659,
+      "is_default": true,
+      "label": "thanos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thanos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f688c965420ac6cbc11c8567dac804b28bfead20ca39133c18ca4952b883e14f"
+      },
+      "sha256": "9e73e9b9557e5815bfd9ab5e0a2ae4b2eeac26ad71d76eb0a081ad1551f96be8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thanos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

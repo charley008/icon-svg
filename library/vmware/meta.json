@@ -1,0 +1,242 @@
+{
+  "collection_id": 2925,
+  "schema_version": 1,
+  "id": 3152,
+  "title": "Vmware",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vmware"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1122,
+      "collection": "Dashboard Icons",
+      "file": "vmware.svg",
+      "id": 4850,
+      "is_default": true,
+      "label": "vmware",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vmware.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f27d789a27bcb5b4ab1560fca847d1d876a6dbce782d895d1785274790f38780"
+      },
+      "sha256": "41df9e4ec6e982d04d447329104f218db2a27aacf1aa339007f1a09df336f1e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vmware.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 3153,
+      "key": "esxi",
+      "title": "Vmware Esxi",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "vmware-esxi"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1514,
+          "collection": "Dashboard Icons",
+          "file": "vmware-esxi.svg",
+          "id": 4851,
+          "is_default": true,
+          "label": "vmware-esxi",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "vmware-esxi.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "59bb0e45f7c78179aed0ee6d1cf4ff8f39425528700a20ceebb61014f2d79ae8"
+          },
+          "sha256": "fb85325033ef4114bd5f00444aa5092f5612eecb851d57c392df63adefb3719d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vmware-esxi.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3298,
+      "key": "fusion",
+      "title": "VMware Fusion",
+      "url": "",
+      "domains": [],
+      "description": "适用于 macOS 的桌面虚拟机软件。",
+      "category": "系统工具",
+      "tags": [
+        "虚拟机",
+        "虚拟化",
+        "macOS",
+        "VMware"
+      ],
+      "aliases": [
+        "vmware-fusion",
+        "VMware Fusion",
+        "Fusion",
+        "Mac 虚拟机"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2741,
+          "collection": "用户提供素材",
+          "file": "vmware-fusion-1.svg",
+          "id": 5050,
+          "is_default": true,
+          "label": "彩色图标",
+          "license": "用户提供，图标及商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "vmware fusion.svg",
+            "processing": "removed non-rendering editor metadata and editor attributes; preserved geometry, colors and dimensions",
+            "upstream_sha256": "0c37356827cffefae7bafeaafdb057bbc7dca81e03df26683658cad7e1660310"
+          },
+          "sha256": "738ae29bfcbf36f6f46bfe297d979685d179a00f143030390c6bfe2df1675b77",
+          "source": "用户提供",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3154,
+      "key": "nsx",
+      "title": "Vmware Nsx",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "vmware-nsx"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5634,
+          "collection": "Dashboard Icons",
+          "file": "vmware-nsx.svg",
+          "id": 4852,
+          "is_default": true,
+          "label": "vmware-nsx",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "vmware-nsx.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8c129cc57566a9a7568553b42211493cf0d0d3793f20f36616ec4f700b47aa3b"
+          },
+          "sha256": "2154f299d3b0b84a455769e4e82640d66343bc379648306bef718bfd8de15036",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vmware-nsx.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3521,
+      "key": "vsphere",
+      "title": "VMware vSphere",
+      "url": "https://www.vmware.com/ca/products/vsphere.html",
+      "domains": [
+        "vmware.com"
+      ],
+      "description": "VMware 的数据中心虚拟化平台。",
+      "category": "云服务",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "VMware vSphere",
+        "vsphere",
+        "vSphere"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1148,
+          "collection": "TechIcons / Devicon",
+          "file": "vmware-vsphere-1.svg",
+          "id": 5397,
+          "is_default": true,
+          "label": "TechIcons · VMware vSphere",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "vSphere.svg",
+            "original_sha256": "98f2c442f68614aadf8a8f059c5562be633bdda2e5bd8da94b55dfc386eef983",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/vsphere",
+            "reference_website": "https://www.vmware.com/ca/products/vsphere.html"
+          },
+          "sha256": "f74431635c900dd23aa3c638651c953343797994281cfeecb6922c406a9a7813",
+          "source": "https://techicons.dev/icons/vsphere",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3155,
+      "key": "workstation",
+      "title": "Vmware Workstation",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "vmware-workstation"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2252,
+          "collection": "Dashboard Icons",
+          "file": "vmware-workstation.svg",
+          "id": 4853,
+          "is_default": true,
+          "label": "vmware-workstation",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "vmware-workstation.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "08d3ab9d4f7691d3fe3c10d18de8d817a4780e3f650f5bb8cfcc0bf2ad92b0d4"
+          },
+          "sha256": "6a42a712dbbc65f9eab521cb8660f3df7cedf6fcdd1df47166de2b5b6bbabe56",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vmware-workstation.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

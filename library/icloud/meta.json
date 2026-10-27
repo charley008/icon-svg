@@ -1,0 +1,40 @@
+{
+  "collection_id": 1527,
+  "schema_version": 1,
+  "id": 1754,
+  "title": "Icloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "icloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1034,
+      "collection": "Dashboard Icons",
+      "file": "icloud.svg",
+      "id": 2997,
+      "is_default": true,
+      "label": "icloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6a2b940eb85b4304bae3062a623ad074b3681f4e844fd883c678b27feebaae82"
+      },
+      "sha256": "4743228cda1d3e743a699ee801b4a0197fd84efe7341879a0f49dc9aac2e5274",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icloud.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

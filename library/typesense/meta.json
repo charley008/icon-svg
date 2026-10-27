@@ -1,0 +1,41 @@
+{
+  "collection_id": 2862,
+  "schema_version": 1,
+  "id": 3089,
+  "title": "Typesense",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Search"
+  ],
+  "aliases": [
+    "typesense"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 23066,
+      "collection": "Dashboard Icons",
+      "file": "typesense.svg",
+      "id": 4764,
+      "is_default": true,
+      "label": "typesense",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "typesense.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "822e0cb4f936d75c016705967815d1018a990437891399bb255fca14bab313a6"
+      },
+      "sha256": "bb7c60a060e34a20e17d99fd61a1b44994272d67f48a6fc4b984ac500e2c4deb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/typesense.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

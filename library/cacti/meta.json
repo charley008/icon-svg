@@ -1,0 +1,45 @@
+{
+  "collection_id": 927,
+  "schema_version": 1,
+  "id": 1154,
+  "title": "Cacti",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "cacti",
+    "network-graphing",
+    "performance-monitoring"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9230,
+      "collection": "Dashboard Icons",
+      "file": "cacti.svg",
+      "id": 2197,
+      "is_default": true,
+      "label": "cacti",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cacti.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d7c9fdff458db105e6d7ffdaf0488cbdc06830da076330e96228d9fb213a86a1"
+      },
+      "sha256": "02a75ffb0df0faa1fd037baa7f23379af74b7de4359a0964f29a3595c2343433",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cacti.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

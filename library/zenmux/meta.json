@@ -1,0 +1,40 @@
+{
+  "collection_id": 3050,
+  "schema_version": 1,
+  "id": 3277,
+  "title": "Zenmux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zenmux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2620,
+      "collection": "Dashboard Icons",
+      "file": "zenmux.svg",
+      "id": 5012,
+      "is_default": true,
+      "label": "zenmux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zenmux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7de875c5c40042f37acfdc010e9e77a425df8a12f0d6a8074dee0192b5fa301b"
+      },
+      "sha256": "f3fed732e0a07a1ec92f803e769d1382817d21dc6bb4d828cc1178565b7efc61",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zenmux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

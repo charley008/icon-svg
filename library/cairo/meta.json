@@ -1,0 +1,46 @@
+{
+  "collection_id": 3090,
+  "schema_version": 1,
+  "id": 3329,
+  "title": "Cairo Graphics",
+  "url": "https://www.cairographics.org",
+  "domains": [
+    "cairographics.org"
+  ],
+  "description": "用于二维矢量图形绘制的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Cairo Graphics",
+    "cairo",
+    "Cairo-Graphics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6261,
+      "collection": "TechIcons / Devicon",
+      "file": "cairo-1.svg",
+      "id": 5098,
+      "is_default": true,
+      "label": "TechIcons · Cairo Graphics",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Cairo-Graphics.svg",
+        "original_sha256": "89a146c7911cd1c3c4e375b09699a579da4fcfbc28c3a88b03c1f0f24d64041d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/cairo",
+        "reference_website": "https://www.cairographics.org"
+      },
+      "sha256": "ea9aede09d7efa4d2f7a96a6af5cca51c2bbdda00879aae9257338bc3bc4a928",
+      "source": "https://techicons.dev/icons/cairo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

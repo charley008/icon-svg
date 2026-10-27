@@ -1,0 +1,40 @@
+{
+  "collection_id": 1135,
+  "schema_version": 1,
+  "id": 1362,
+  "title": "Docusaurus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docusaurus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6207,
+      "collection": "Dashboard Icons",
+      "file": "docusaurus.svg",
+      "id": 2475,
+      "is_default": true,
+      "label": "docusaurus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docusaurus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f22b59c6af95a22f29669da95a2a3a3adf1aadfeb0d2c4b4a50eecb2dac9b135"
+      },
+      "sha256": "14f30a732144fbca00a31344e5276783967fc063142ed9812ea42c19c35d9bb1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docusaurus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

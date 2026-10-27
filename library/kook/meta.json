@@ -1,0 +1,45 @@
+{
+  "collection_id": 1658,
+  "schema_version": 1,
+  "id": 1885,
+  "title": "Kook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "kook",
+    "voice-chat-platform",
+    "community-platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1020,
+      "collection": "Dashboard Icons",
+      "file": "kook.svg",
+      "id": 3159,
+      "is_default": true,
+      "label": "kook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd1bda1cfa6be51544e186d74dfc107e2268c6b71dce2bc3c2f19b7966977a09"
+      },
+      "sha256": "7a24244a84ea7b27b10ccd536d439f9855d9c889c564c2e8186d84d5194e1f35",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kook.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

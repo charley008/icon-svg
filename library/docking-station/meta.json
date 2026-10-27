@@ -1,0 +1,42 @@
+{
+  "collection_id": 1127,
+  "schema_version": 1,
+  "id": 1354,
+  "title": "Docking Station",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "docking-station"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1262,
+      "collection": "Dashboard Icons",
+      "file": "docking-station.svg",
+      "id": 2466,
+      "is_default": true,
+      "label": "docking-station",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docking-station.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "126ce96df0661ff04c588795ff9d87b8b223330b52a51846e01990536f094822"
+      },
+      "sha256": "d7bf61ae5be632b8f2f46756c8c9162f0c6a462af0dd95c72f7ca90098a677a5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docking-station.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1323,
+  "schema_version": 1,
+  "id": 1550,
+  "title": "Freecad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freecad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1837,
+      "collection": "Dashboard Icons",
+      "file": "freecad.svg",
+      "id": 2715,
+      "is_default": true,
+      "label": "freecad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freecad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "195853f552af56c3165ce9c31d66ab1504d9fa48a2f24ffe2d0a6b7e3e43000e"
+      },
+      "sha256": "0be23cb153d51b420cebdd49c73548ee1e14ac3b7934314f9ca393307ef54666",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freecad.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1107,
+      "collection": "Dashboard Icons",
+      "file": "freecad-1.svg",
+      "id": 2716,
+      "is_default": false,
+      "label": "freecad-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freecad-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6627355542943227b1bf17b2bcfb0f27dcc6edc4d46397a45ec81eefd1019fc3"
+      },
+      "sha256": "8a40fb221726bea0df89c296f4f6da3e9908c00aafbf8f3d290ada1bdd66794d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freecad-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

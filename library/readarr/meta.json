@@ -1,0 +1,40 @@
+{
+  "collection_id": 2470,
+  "schema_version": 1,
+  "id": 2697,
+  "title": "Readarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "readarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1743,
+      "collection": "Dashboard Icons",
+      "file": "readarr.svg",
+      "id": 4265,
+      "is_default": true,
+      "label": "readarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "readarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "38ae0e171833f8234278c03a19fe02ef8bdad1cb1c0aa71d23811f096ca0b988"
+      },
+      "sha256": "a68c61bda40cbfebdccda922c4d85739dc8173509ef5eca4be1ed4a9b7df2acd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/readarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

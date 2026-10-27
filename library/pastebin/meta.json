@@ -1,0 +1,59 @@
+{
+  "collection_id": 2102,
+  "schema_version": 1,
+  "id": 2329,
+  "title": "Pastebin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pastebin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4574,
+      "collection": "Dashboard Icons",
+      "file": "pastebin.svg",
+      "id": 3768,
+      "is_default": true,
+      "label": "pastebin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pastebin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6dcc550dd88377301974033119dae1b54b627e01b32d88ac11b639d303c84088"
+      },
+      "sha256": "f7054d16f744639e38e8208e26f863d1110483fb4452be467a8c2b6ed1122687",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pastebin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4592,
+      "collection": "Dashboard Icons",
+      "file": "pastebin-1.svg",
+      "id": 3769,
+      "is_default": false,
+      "label": "pastebin-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pastebin-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "67e4ac0cfde685fa7e6a6baba01c61b29776521b59a43f115e244e9035411891"
+      },
+      "sha256": "c0668c9047d863cdafa5acf5deb0c4f0377170dc74dd71586b07ecbe59c0ff86",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pastebin-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

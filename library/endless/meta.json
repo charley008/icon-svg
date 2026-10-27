@@ -1,0 +1,59 @@
+{
+  "collection_id": 1204,
+  "schema_version": 1,
+  "id": 1431,
+  "title": "Endless",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "endless"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4398,
+      "collection": "Dashboard Icons",
+      "file": "endless.svg",
+      "id": 2568,
+      "is_default": true,
+      "label": "endless",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "endless.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "daca4f92aec1fb7d8a47e3362f3a71d0dfa85899e54384803407ce544c247fe5"
+      },
+      "sha256": "de36957afe4311b71ccf5070c18b410c07e9bf69084538dd348e49d5e0d0e445",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/endless.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4417,
+      "collection": "Dashboard Icons",
+      "file": "endless-1.svg",
+      "id": 2569,
+      "is_default": false,
+      "label": "endless-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "endless-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36f29cfe13adb7a1b8fbb71d28ea92d4067948f0e0d503a7b6d59e59b2b279cf"
+      },
+      "sha256": "b37a25cc4357c369a8263387488bb29b6e4ecef00440fee7d92a123b063d239d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/endless-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

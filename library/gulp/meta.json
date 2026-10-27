@@ -1,0 +1,45 @@
+{
+  "collection_id": 3138,
+  "schema_version": 1,
+  "id": 3385,
+  "title": "Gulp.js",
+  "url": "https://gulpjs.com",
+  "domains": [
+    "gulpjs.com"
+  ],
+  "description": "用于前端构建流程的任务自动化工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Gulp.js",
+    "gulp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3244,
+      "collection": "TechIcons / Devicon",
+      "file": "gulp-1.svg",
+      "id": 5192,
+      "is_default": true,
+      "label": "TechIcons · Gulp.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gulp.js.svg",
+        "original_sha256": "d4bf6fa9662cc5f6bcb33f4ce7b5dca7631e26113134415e37794dc91a65e256",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gulp",
+        "reference_website": "https://gulpjs.com"
+      },
+      "sha256": "a689ccdef117347c35f2b8a8cd33b3bbaa67ef73649aa95f6237f774adc5dbcf",
+      "source": "https://techicons.dev/icons/gulp",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

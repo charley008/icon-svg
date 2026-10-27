@@ -1,0 +1,43 @@
+{
+  "collection_id": 2165,
+  "schema_version": 1,
+  "id": 2392,
+  "title": "Plesk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Server-Panels"
+  ],
+  "aliases": [
+    "plesk",
+    "hosting-control-panel",
+    "website-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1970,
+      "collection": "Dashboard Icons",
+      "file": "plesk.svg",
+      "id": 3858,
+      "is_default": true,
+      "label": "plesk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plesk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95db10551dc0ee2795d646c6fe135445da055c23e829d6de580020f892ba3a68"
+      },
+      "sha256": "1c65c20009fb7c454041e31a4a0c6cb574ee8b6c14fbb3f07615d96c7601505d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plesk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

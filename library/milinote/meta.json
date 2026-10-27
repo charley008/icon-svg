@@ -1,0 +1,40 @@
+{
+  "collection_id": 1828,
+  "schema_version": 1,
+  "id": 2055,
+  "title": "Milinote",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "milinote"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 682,
+      "collection": "Dashboard Icons",
+      "file": "milinote.svg",
+      "id": 3387,
+      "is_default": true,
+      "label": "milinote",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "milinote.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b77f8c9989db0188b6ffcdde2ad37d93e1ee92e3de61efefe82613fac25163bb"
+      },
+      "sha256": "2fffad1965cdd4a09131dee71e98ecf3eca163b54fbdfdbd3d9487737dc904ff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/milinote.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

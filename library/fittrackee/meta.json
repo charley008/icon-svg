@@ -1,0 +1,40 @@
+{
+  "collection_id": 1283,
+  "schema_version": 1,
+  "id": 1510,
+  "title": "Fittrackee",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fittrackee"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2749,
+      "collection": "Dashboard Icons",
+      "file": "fittrackee.svg",
+      "id": 2668,
+      "is_default": true,
+      "label": "fittrackee",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fittrackee.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fac4af8a4027615108df7b90d7dd850a7d13400e606f30e9a2bf4e7436382ba9"
+      },
+      "sha256": "59361ee82b5f2570505f89a54e9e19e389f35121e44d7e72ec4a427ff41f6566",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fittrackee.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

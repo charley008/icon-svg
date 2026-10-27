@@ -1,0 +1,42 @@
+{
+  "collection_id": 2209,
+  "schema_version": 1,
+  "id": 2436,
+  "title": "Printer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "printer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11468,
+      "collection": "Dashboard Icons",
+      "file": "printer.svg",
+      "id": 3926,
+      "is_default": true,
+      "label": "printer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "printer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "138113bf59c4dd466165117352e29414e99a001ba4a2ecbb748fc4184d5e7eda"
+      },
+      "sha256": "4d0d12316a2f9bac55927332c5c4331fb3cde097a9041a5e6a4c5636108cd386",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/printer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

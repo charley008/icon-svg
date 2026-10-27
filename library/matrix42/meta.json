@@ -1,0 +1,40 @@
+{
+  "collection_id": 1786,
+  "schema_version": 1,
+  "id": 2013,
+  "title": "Matrix42",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "matrix42"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1709,
+      "collection": "Dashboard Icons",
+      "file": "matrix42.svg",
+      "id": 3323,
+      "is_default": true,
+      "label": "matrix42",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matrix42.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45164e477f5029a867e7c9d30abfdcea698ba58a6c3f8a8f8be0398e7bdd54c6"
+      },
+      "sha256": "b927d343dae71931e6f9befe1d61704eda832ce8373cd94060a6512e42d69155",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matrix42.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

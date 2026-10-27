@@ -1,0 +1,42 @@
+{
+  "collection_id": 1410,
+  "schema_version": 1,
+  "id": 1637,
+  "title": "Gopeed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "网盘存储"
+  ],
+  "aliases": [
+    "gopeed"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4011,
+      "collection": "Dashboard Icons",
+      "file": "gopeed.svg",
+      "id": 2836,
+      "is_default": true,
+      "label": "gopeed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gopeed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd8bff0c19de9a56aeca3f457a2833ebdfc6e9c8d74fefa38b1644c2e18e72b5"
+      },
+      "sha256": "1ad2d19a43c4dd441a0b6dfcba626c5f9de162c3eb061ab19608f10326492d30",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gopeed.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

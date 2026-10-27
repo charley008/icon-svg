@@ -156,10 +156,134 @@
       "sha256": "45e914d2b28ef30dea809019b337bec694139a4e47c0390fe09c8db8091dbab1",
       "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/google/mono.svg",
       "version": 5
+    },
+    {
+      "bytes": 861,
+      "collection": "Dashboard Icons",
+      "file": "google-6.svg",
+      "id": 2802,
+      "is_default": false,
+      "label": "google",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "google.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b68e01a0dd2b0cc6a3bcb9d61419f39a7722dd88517bfbf2904214a6d84aa2f3"
+      },
+      "sha256": "23208cc8dbc36e20369cbb5be0290f992b18a64e0e25e9230b17944489ef5c36",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google.svg",
+      "version": 6
+    },
+    {
+      "bytes": 1501,
+      "collection": "TechIcons / Devicon",
+      "file": "google-7.svg",
+      "id": 5181,
+      "is_default": false,
+      "label": "TechIcons · Google",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Google.svg",
+        "original_sha256": "a8ec042934c876b60fb8120bddd526d4ef8b10b8a4ff89b881d427ed866275fb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/google",
+        "reference_website": "https://www.google.com"
+      },
+      "sha256": "49a96d293bc5ff7d553020584ed0cdfa6c2cddac506d491b7440b945e86b9cd1",
+      "source": "https://techicons.dev/icons/google",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": [
+    {
+      "id": 1615,
+      "key": "admin",
+      "title": "Google Admin",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons",
+        "Office-Suites",
+        "Cloud-Computing",
+        "Server-Panels",
+        "网络工具"
+      ],
+      "aliases": [
+        "google-admin",
+        "Google Workspace Admin"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 997,
+          "collection": "Dashboard Icons",
+          "file": "google-admin.svg",
+          "id": 2814,
+          "is_default": true,
+          "label": "google-admin",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-admin.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "967eb93e57e17477c9ede13b371b8f4f6b70bb6475a8f380e547c6dd4d0e3615"
+          },
+          "sha256": "672ebae0d6af1c6da2bb62046755640f1e1b3e8a59a2ef1237251506ac77c5c1",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-admin.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1616,
+      "key": "admob",
+      "title": "Google Admob",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons",
+        "Developer-Tools",
+        "E-commerce-Platforms"
+      ],
+      "aliases": [
+        "google-admob",
+        "mobile-ads",
+        "app-monetization"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 837,
+          "collection": "Dashboard Icons",
+          "file": "google-admob.svg",
+          "id": 2815,
+          "is_default": true,
+          "label": "google-admob",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-admob.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "54e6374a8aaa3ba913b6c7f0b1608e5fa43631e76aa37c3ffa42a353d2b44982"
+          },
+          "sha256": "3fe789354b6a0c32f12a602636b007414d82ea3da639706efa3a9c9fa2b17d57",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-admob.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
     {
       "id": 249,
       "key": "adsense",
@@ -169,7 +293,7 @@
         "adsense.google.com"
       ],
       "description": "",
-      "category": "开发编程",
+      "category": "办公效率",
       "tags": [
         "开发",
         "编程",
@@ -211,7 +335,94 @@
       "next_version": 1
     },
     {
+      "id": 1617,
+      "key": "alerts",
+      "title": "Google Alerts",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-alerts"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 743,
+          "collection": "Dashboard Icons",
+          "file": "google-alerts.svg",
+          "id": 2816,
+          "is_default": true,
+          "label": "google-alerts",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-alerts.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5fc7b81dd28b5acae70ec60dee117ff2cc89ce7db872084d7f45a32b736e36c7"
+          },
+          "sha256": "f787b62f95ed555f01b25382588e4771850f16341ad6bb0a4ffa885ee550e5d5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-alerts.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 728,
+      "key": "analytics",
+      "title": "Google Analytics",
+      "url": "https://analytics.google.com/",
+      "domains": [
+        "analytics.google.com"
+      ],
+      "description": "Google 网站与应用分析服务。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌分析",
+        "GA",
+        "网站统计",
+        "Google Analytics"
+      ],
+      "aliases": [
+        "google-analytics",
+        "谷歌分析",
+        "GA",
+        "网站统计",
+        "website-analytics",
+        "tracking-tool"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 679,
+          "collection": "Dashboard Icons",
+          "file": "google-analytics.svg",
+          "id": 1688,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-analytics.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "b37c65dc4ad2299368aadf8addfe6107bddf115388a2461fe5127e96d0e9910f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-analytics.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 250,
+      "redirect_from": [
+        934
+      ],
       "key": "android",
       "title": "Android",
       "url": "https://android.com",
@@ -228,7 +439,11 @@
         "android.com"
       ],
       "aliases": [
-        "android"
+        "android",
+        "android-robot",
+        "Android Robot",
+        "android-logo",
+        "mobile-os-icon"
       ],
       "notes": [],
       "icons": [
@@ -249,6 +464,234 @@
           "sha256": "ee3139c6405e7cf50b997c2d20ef32afe1fd24b58f806a2da658c27d469442c1",
           "source": "https://cdn.worldvectorlogo.com/logos/android-6.svg",
           "source_page": "https://worldvectorlogo.com/zh/logo/android-6",
+          "version": 0
+        },
+        {
+          "bytes": 680,
+          "collection": "Dashboard Icons",
+          "file": "google-android-1.svg",
+          "id": 2803,
+          "is_default": false,
+          "label": "android",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "android.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "93e6580ec2939278473781cc18412180f30e6a292796c8388740c1783078734b"
+          },
+          "sha256": "f435a3664bad4e6c013e72df2fa452a1110a5f1103d2ae1cd49d083011d19b82",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/android.svg",
+          "version": 1
+        },
+        {
+          "bytes": 737,
+          "collection": "Dashboard Icons",
+          "file": "google-android-2.svg",
+          "id": 1906,
+          "is_default": false,
+          "label": "Android Robot",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "android-robot.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "bc61ada51e56cee534d8df34c5165ef67bc006b06ca711042133b85f20fc8ad7"
+          },
+          "sha256": "05af393f2f8fc91e365602a6e4ef3f62a4afbf6f1640461c3a08742dbe057df3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/android-robot.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 933,
+      "key": "android-auto",
+      "title": "Android Auto",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons",
+        "Smart-Home",
+        "系统工具"
+      ],
+      "aliases": [
+        "android-auto"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 6625,
+          "collection": "Dashboard Icons",
+          "file": "google-android-auto.svg",
+          "id": 1904,
+          "is_default": true,
+          "label": "android-auto",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "android-auto.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "941fe4f94003fa9aaee4d2e1de62729c66f60c0092c80f111e792fb125307bc8"
+          },
+          "sha256": "a3d51db3f9d2c7fa951b26c9135ff70cd3dc467629a38062a848a88360d12000",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/android-auto.svg",
+          "version": 0
+        },
+        {
+          "bytes": 6649,
+          "collection": "Dashboard Icons",
+          "file": "google-android-auto-1.svg",
+          "id": 1905,
+          "is_default": false,
+          "label": "android-auto-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "android-auto-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "90cc665cb2d73ee941a7a39ee97e692e1aec308e8a737c578be76415cd3ea6fd"
+          },
+          "sha256": "a0c8a5c5e2f4a384befe7afb83bc6e3094e3ee14c3ab73b875e385b79bfe084f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/android-auto-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3378,
+      "key": "android-studio",
+      "title": "Android Studio",
+      "url": "https://developer.android.com/studio",
+      "domains": [
+        "developer.android.com"
+      ],
+      "description": "Android 应用开发的集成开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Android Studio",
+        "androidstudio",
+        "Android-Studio"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1897,
+          "collection": "TechIcons / Devicon",
+          "file": "google-android-studio-1.svg",
+          "id": 5184,
+          "is_default": true,
+          "label": "TechIcons · Android Studio",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Android-Studio.svg",
+            "original_sha256": "abd43aac4a871ff8c1548cc5d3f54f1bc5123ad5510a7477d62ca048d4edea5a",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/androidstudio",
+            "reference_website": "https://developer.android.com/studio"
+          },
+          "sha256": "d159ebff7159a7dc5f30a2fbde67ea9e9a54a163eb426c7af1995e798b6b6265",
+          "source": "https://techicons.dev/icons/androidstudio",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1618,
+      "key": "assistant",
+      "title": "Google Assistant",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons",
+        "Smart-Home",
+        "AI-\u0026-LLM-Platforms",
+        "系统工具"
+      ],
+      "aliases": [
+        "google-assistant",
+        "Voice Assistant"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 717,
+          "collection": "Dashboard Icons",
+          "file": "google-assistant.svg",
+          "id": 2817,
+          "is_default": true,
+          "label": "google-assistant",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-assistant.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a7b4680da9b139b3f8f3a4fd10d897de88c70e82a7ff8d2bd0676bfbf7e83c03"
+          },
+          "sha256": "658efe5e430a8ad09939bdd87c541826e7581f7ac621d49ec6d6d2b247973f4e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-assistant.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 732,
+      "key": "blogger",
+      "title": "Blogger",
+      "url": "https://www.blogger.com/",
+      "domains": [
+        "www.blogger.com"
+      ],
+      "description": "Google 博客发布服务。",
+      "category": "办公效率",
+      "tags": [
+        "博客",
+        "谷歌博客",
+        "Blogspot",
+        "Blogger"
+      ],
+      "aliases": [
+        "google-blogger",
+        "blogger",
+        "博客",
+        "谷歌博客",
+        "Blogspot"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1834,
+          "collection": "Dashboard Icons",
+          "file": "google-blogger.svg",
+          "id": 1692,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "blogger.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "d6dde902422bac2c6710785a3a47aec74cc2baabe30e82efe0a11e1c5a7768af",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blogger.svg",
           "version": 0
         }
       ],
@@ -394,7 +837,54 @@
       "next_version": 5
     },
     {
+      "id": 723,
+      "key": "chat",
+      "title": "Google Chat",
+      "url": "https://chat.google.com/",
+      "domains": [
+        "chat.google.com"
+      ],
+      "description": "Google 即时通讯应用。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌Chat",
+        "即时通讯",
+        "团队沟通",
+        "Google Chat"
+      ],
+      "aliases": [
+        "google-chat",
+        "谷歌Chat",
+        "即时通讯",
+        "团队沟通"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 549,
+          "collection": "Dashboard Icons",
+          "file": "google-chat.svg",
+          "id": 1683,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-chat.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "249b0127108712a1aa70b0c84dd3d4bb824544194693431617a770a3989df2f3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-chat.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 252,
+      "redirect_from": [
+        1619
+      ],
       "key": "chrome",
       "title": "Google Chrome",
       "url": "https://google.com/chrome",
@@ -417,7 +907,9 @@
       "aliases": [
         "chrome",
         "googlechrome",
-        "google-chrome"
+        "google-chrome",
+        "Google Chrome",
+        "Web Browser"
       ],
       "notes": [],
       "icons": [
@@ -535,9 +1027,48 @@
           "sha256": "c6717408f5519824be3b03851751142436f979cb186f079db709513c90013d16",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#chrome-fill",
           "version": 4
+        },
+        {
+          "bytes": 1812,
+          "collection": "Dashboard Icons",
+          "file": "google-chrome-5.svg",
+          "id": 2818,
+          "is_default": false,
+          "label": "google-chrome",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-chrome.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4748547bb1d1cca359b67d3b164e57efb11eaeb41d2ac9cc3f97fccabfa05b0b"
+          },
+          "sha256": "39b3a868b51ec0f1680fd043ce09f412884c688649fea71230b327cdf86bd666",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-chrome.svg",
+          "version": 5
+        },
+        {
+          "bytes": 3446,
+          "collection": "TechIcons / Devicon",
+          "file": "google-chrome-6.svg",
+          "id": 5182,
+          "is_default": false,
+          "label": "TechIcons · Chrome",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Chrome.svg",
+            "original_sha256": "29e1a66ae7d2dea3d9c92c64a7b9a78f36cf9aecaf24c790eb5988eafdd6a156",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/chrome",
+            "reference_website": "https://www.google.com/chrome"
+          },
+          "sha256": "fc2480759acc9767835bdda8a2aeb3c61f5bfeae8837e19f96b9ae6e829473e3",
+          "source": "https://techicons.dev/icons/chrome",
+          "version": 6
         }
       ],
-      "next_version": 5
+      "next_version": 7
     },
     {
       "id": 253,
@@ -778,7 +1309,52 @@
       "next_version": 1
     },
     {
+      "id": 719,
+      "key": "classroom",
+      "title": "Google Classroom",
+      "url": "https://classroom.google.com/",
+      "domains": [
+        "classroom.google.com"
+      ],
+      "description": "Google 在线教学与课堂管理应用。",
+      "category": "教育科研",
+      "tags": [
+        "谷歌课堂",
+        "在线教学",
+        "Google Classroom"
+      ],
+      "aliases": [
+        "google-classroom",
+        "谷歌课堂",
+        "在线教学"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2274,
+          "collection": "Dashboard Icons",
+          "file": "google-classroom.svg",
+          "id": 1679,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-classroom.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "ae5ad27810b5536679148f562d20b28aff903fb5a2158f6b133ffc73f42ac652",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-classroom.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 258,
+      "redirect_from": [
+        1620
+      ],
       "key": "cloud",
       "title": "Google Cloud",
       "url": "https://cloud.google.com",
@@ -799,7 +1375,9 @@
       ],
       "aliases": [
         "google-cloud",
-        "googlecloud"
+        "googlecloud",
+        "google-cloud-platform",
+        "Google Cloud Platform"
       ],
       "notes": [
         "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
@@ -919,9 +1497,193 @@
           "sha256": "92b9ca9cd5e02d655cc4dc552bad3b5d772a34fb51494748d9b46d3ac9b4c5c3",
           "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-cloud-dark.svg",
           "version": 4
+        },
+        {
+          "bytes": 738,
+          "collection": "Dashboard Icons",
+          "file": "google-cloud-5.svg",
+          "id": 2804,
+          "is_default": false,
+          "label": "google-cloud-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-cloud-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "37ec7b3412aadebdf026f7fd27cc6b1c6d3de167aba1e70afd644dca6c8c4211"
+          },
+          "sha256": "349c5036c6e947c962ffb0e1d27d05afc3053390549f251fa3813f515422d704",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-cloud-light.svg",
+          "version": 5
+        },
+        {
+          "bytes": 759,
+          "collection": "Dashboard Icons",
+          "file": "google-cloud-6.svg",
+          "id": 2819,
+          "is_default": false,
+          "label": "Google Cloud Platform",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-cloud-platform.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7dbcaef85df772e00f65a98caee883f451c4e7474e3924586b7e4d6a002dba19"
+          },
+          "sha256": "aca78214c934be8b4da73bcc1244ebd63187efb297d519979a45cd6081d82be2",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-cloud-platform.svg",
+          "version": 6
+        },
+        {
+          "bytes": 825,
+          "collection": "TechIcons / Devicon",
+          "file": "google-cloud-7.svg",
+          "id": 5183,
+          "is_default": false,
+          "label": "TechIcons · Google Cloud",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Google-Cloud.svg",
+            "original_sha256": "1615b3e53228faa14378f1abb2b78e5f6c3f0ec562bc37db3efde885714e6c2f",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/googlecloud",
+            "reference_website": "https://cloud.google.com"
+          },
+          "sha256": "2a7ab1d39ddaecfe5ce21cd17053719b817c5a0a4b5f9494376ef58516013628",
+          "source": "https://techicons.dev/icons/googlecloud",
+          "version": 7
         }
       ],
-      "next_version": 5
+      "next_version": 8
+    },
+    {
+      "id": 727,
+      "key": "colab",
+      "title": "Google Colab",
+      "url": "https://colab.research.google.com/",
+      "domains": [
+        "colab.research.google.com"
+      ],
+      "description": "Google 在线 Notebook 环境。",
+      "category": "开发编程",
+      "tags": [
+        "Colaboratory",
+        "Notebook",
+        "Python",
+        "Google Colab"
+      ],
+      "aliases": [
+        "google-colab",
+        "Colaboratory",
+        "Notebook",
+        "Python"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 914,
+          "collection": "Dashboard Icons",
+          "file": "google-colab.svg",
+          "id": 1687,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-colab.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "33cef80bd8b842e9fce4456c2915ad4dcd43e309f5622e3963ace4a1d59ac6de",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-colab.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1621,
+      "key": "compute-engine",
+      "title": "Google Compute Engine",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-compute-engine"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1580,
+          "collection": "Dashboard Icons",
+          "file": "google-compute-engine.svg",
+          "id": 2820,
+          "is_default": true,
+          "label": "google-compute-engine",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-compute-engine.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "adcd50732e3f2958344da4cf2b596d91fb377d69c9d9a344f0a88745ffea6395"
+          },
+          "sha256": "5b9ed9111a58718e79b336178e169381f48e235f6c4db256ab6727706946f19c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-compute-engine.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 717,
+      "key": "contacts",
+      "title": "Google Contacts",
+      "url": "https://contacts.google.com/",
+      "domains": [
+        "contacts.google.com"
+      ],
+      "description": "Google 联系人管理应用。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌通讯录",
+        "联系人",
+        "Google Contacts"
+      ],
+      "aliases": [
+        "google-contacts",
+        "谷歌通讯录",
+        "联系人",
+        "address-book",
+        "people-management"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 892,
+          "collection": "Dashboard Icons",
+          "file": "google-contacts.svg",
+          "id": 1677,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-contacts.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "3bac4e978450be6eb149fb106998144e4f1ff3a38466a8ee380bd50af130ffbb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-contacts.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 259,
@@ -1040,6 +1802,49 @@
         }
       ],
       "next_version": 4
+    },
+    {
+      "id": 1622,
+      "key": "domains",
+      "title": "Google Domains",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons",
+        "Cloud-Computing",
+        "Networking-Tools",
+        "网络工具"
+      ],
+      "aliases": [
+        "google-domains",
+        "domain-name-service",
+        "dns-management"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 583,
+          "collection": "Dashboard Icons",
+          "file": "google-domains.svg",
+          "id": 2821,
+          "is_default": true,
+          "label": "google-domains",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-domains.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3b471254f4b008746d3d64c7d1591dfd3cf52d1a84a978eb2030a8a82a5b224a"
+          },
+          "sha256": "0f77e59743b3a1491560a1428135cbb0110abf7af9d90ad7518165e5185efc4e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-domains.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 260,
@@ -1171,9 +1976,28 @@
           "sha256": "6808ea56df06101769c1e0e4b2eac8acf75a492344e7c4021fb3d98dee4a62c6",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-drive",
           "version": 4
+        },
+        {
+          "bytes": 845,
+          "collection": "Dashboard Icons",
+          "file": "google-drive-5.svg",
+          "id": 2805,
+          "is_default": false,
+          "label": "google-drive",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-drive.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "963477d7e4a0b0d8865dd7aec8e27d8fd9c3a4b4f2e5b81f9df8581f9f2eca11"
+          },
+          "sha256": "b752d974fba74c55b77edb77f8316d322a34b968727b67b19642862569af3bfa",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-drive.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
     },
     {
       "id": 261,
@@ -1219,6 +2043,262 @@
           },
           "sha256": "fa56ddd43cca97e24daaaa0f09160d024d47046b1b4f9bc1e5cf4bdcf663bd7f",
           "source": "https://web.gotab.cn/sourceStore/website/01JXCK14VHJG1H9BVKEXQ2ZBCN.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2440,
+          "collection": "Dashboard Icons",
+          "file": "google-earth-1.svg",
+          "id": 2806,
+          "is_default": false,
+          "label": "google-earth",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-earth.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c1c27386cf1a4750f88007ff6b092e47d9af7d3d7e69d4d330a6e38c192a388f"
+          },
+          "sha256": "fce391627a56cf11a7c7a21f47a330e622ba1706e5add4410216fc8ac3ca2e3b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-earth.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1623,
+      "key": "fi",
+      "title": "Google Fi",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-fi"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 762,
+          "collection": "Dashboard Icons",
+          "file": "google-fi.svg",
+          "id": 2822,
+          "is_default": true,
+          "label": "google-fi",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-fi.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6c592e808a6cfed6764dc9b7278fa55b4a5b57d88b78ab79452acc65535ed3d9"
+          },
+          "sha256": "8b6be8288bfd184c890cea1ca5af5c021dc4a17a52e29725b73a973041845818",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-fi.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1624,
+      "key": "find",
+      "title": "Google Find",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-find"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1126,
+          "collection": "Dashboard Icons",
+          "file": "google-find.svg",
+          "id": 2823,
+          "is_default": true,
+          "label": "google-find",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-find.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "fff411b0461facc5c657b856f2b712a719e54ae71294126985fb1fa8ada5d76b"
+          },
+          "sha256": "80785c481deb8358c6f801cb255d46a538c3789e7e0f79d6036fa2eab7887400",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-find.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1625,
+      "key": "fit",
+      "title": "Google Fit",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "生活服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-fit"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 883,
+          "collection": "Dashboard Icons",
+          "file": "google-fit.svg",
+          "id": 2824,
+          "is_default": true,
+          "label": "google-fit",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-fit.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "544e07862ff0b0e4c264ea58ba0c653a0a812cab670af4e69f0187890a649377"
+          },
+          "sha256": "1ea9614252c132832ed2578318e0c3c2630a23bcdf5ef23ffb5249d9c5715608",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-fit.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3379,
+      "key": "flutter",
+      "title": "Flutter",
+      "url": "https://flutter.dev",
+      "domains": [
+        "flutter.dev"
+      ],
+      "description": "Google 的跨平台应用界面开发框架。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Flutter",
+        "flutter"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 692,
+          "collection": "TechIcons / Devicon",
+          "file": "google-flutter-1.svg",
+          "id": 5185,
+          "is_default": true,
+          "label": "TechIcons · Flutter",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Flutter.svg",
+            "original_sha256": "c188249043aecad16b31eaa230474643270a8d8200b897af54a97949cb88e4ae",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/flutter",
+            "reference_website": "https://flutter.dev"
+          },
+          "sha256": "5c1b3a163fa78b8af84c5a68b1da53351f38c5ceb87ba98d9d19064c1247bae5",
+          "source": "https://techicons.dev/icons/flutter",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1626,
+      "key": "fonts",
+      "title": "Google Fonts",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-fonts"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 701,
+          "collection": "Dashboard Icons",
+          "file": "google-fonts.svg",
+          "id": 2825,
+          "is_default": true,
+          "label": "google-fonts",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-fonts.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c652d6f846a2984f76f5dbc7f9228caa56706ebcebf8380c8d507d1ffc0d1ace"
+          },
+          "sha256": "74a8cd15fd5f316dcbf4d839c106aed90aaecaeb3d9ee1f0fb23897c0d1b73f5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-fonts.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 716,
+      "key": "forms",
+      "title": "Google Forms",
+      "url": "https://forms.google.com/",
+      "domains": [
+        "forms.google.com"
+      ],
+      "description": "Google 在线表单与问卷服务。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌表单",
+        "问卷",
+        "Google Forms"
+      ],
+      "aliases": [
+        "google-forms",
+        "谷歌表单",
+        "问卷"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3581,
+          "collection": "Dashboard Icons",
+          "file": "google-forms.svg",
+          "id": 1676,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-forms.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "2b0f4a8d66cceb4773aadd0e3e0e71e718b811566b365c17aa1222a130e54d91",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-forms.svg",
           "version": 0
         }
       ],
@@ -1359,9 +2439,28 @@
           "sha256": "e211eaaac014a3c14b8d2542ca51a601be1d74c390ef1f4c9a3db28150d0b421",
           "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/gemini/wordmark.svg",
           "version": 4
+        },
+        {
+          "bytes": 8801,
+          "collection": "Dashboard Icons",
+          "file": "google-gemini-5.svg",
+          "id": 2807,
+          "is_default": false,
+          "label": "google-gemini",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-gemini.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cda2df6631d5fa227de3fa04ed78cf354f910ba92a9f086e7455655c10ad9d09"
+          },
+          "sha256": "88458a367b453ffa4ebfed302ad135218ecdcd0f84ae6b345e8e6856273ad4f4",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-gemini.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
     },
     {
       "id": 263,
@@ -1372,7 +2471,7 @@
         "mail.google.com"
       ],
       "description": "",
-      "category": "办公效率",
+      "category": "社交通讯",
       "tags": [
         "全球App补充",
         "办公",
@@ -1474,9 +2573,200 @@
           "sha256": "d3bdd1998db06efda5c2c04e7956907904350f599f2f255142708f1175cd6006",
           "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/gmail.svg",
           "version": 3
+        },
+        {
+          "bytes": 579,
+          "collection": "Dashboard Icons",
+          "file": "google-gmail-4.svg",
+          "id": 2808,
+          "is_default": false,
+          "label": "gmail",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gmail.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "deb93af828d913122be262cdc07c5cab6b5609a8e82c885b7d841b735fae167e"
+          },
+          "sha256": "8ed39fa68a15cbb36011b56a4be8b504118e4736656869875f90fdf6fe37185d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gmail.svg",
+          "version": 4
         }
       ],
-      "next_version": 4
+      "next_version": 5
+    },
+    {
+      "id": 721,
+      "key": "home",
+      "title": "Google Home",
+      "url": "https://home.google.com/",
+      "domains": [
+        "home.google.com"
+      ],
+      "description": "Google 智能家居应用。",
+      "category": "生活服务",
+      "tags": [
+        "谷歌Home",
+        "智能家居",
+        "Google Home"
+      ],
+      "aliases": [
+        "google-home",
+        "谷歌Home",
+        "智能家居",
+        "smart-speaker",
+        "voice-assistant-device"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1226,
+          "collection": "Dashboard Icons",
+          "file": "google-home.svg",
+          "id": 1681,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-home.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "543bf4494cc47691e61cdbd2929e289182a18b91bc321bc4928f2f4d41f21986",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-home.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 730,
+      "key": "jules",
+      "title": "Jules",
+      "url": "https://jules.google/",
+      "domains": [
+        "jules.google"
+      ],
+      "description": "Google 编程代理服务。",
+      "category": "AI",
+      "tags": [
+        "Google Jules",
+        "代码助手",
+        "编程助手",
+        "Jules"
+      ],
+      "aliases": [
+        "google-jules",
+        "Google Jules",
+        "代码助手",
+        "编程助手",
+        "jules"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1640,
+          "collection": "Dashboard Icons",
+          "file": "google-jules.svg",
+          "id": 1690,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-jules.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "0915a12d99c8b2aa8b6668032730ad4b36ec057679a4f7fd1f2b7d0e74d1a17c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-jules.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 713,
+      "key": "keep",
+      "title": "Google Keep",
+      "url": "https://keep.google.com/",
+      "domains": [
+        "keep.google.com"
+      ],
+      "description": "Google 笔记与便签应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌Keep",
+        "谷歌笔记",
+        "便签",
+        "Google Keep"
+      ],
+      "aliases": [
+        "google-keep",
+        "谷歌Keep",
+        "谷歌笔记",
+        "便签",
+        "Note Taking"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 499,
+          "collection": "Dashboard Icons",
+          "file": "google-keep.svg",
+          "id": 1673,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-keep.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "d33fa664096dda5c1095ad7b7e74b534c3269cab460c5474b73c5ec485bdae17",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-keep.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1627,
+      "key": "lens",
+      "title": "Google Lens",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "搜索导航",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-lens"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 724,
+          "collection": "Dashboard Icons",
+          "file": "google-lens.svg",
+          "id": 2826,
+          "is_default": true,
+          "label": "google-lens",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-lens.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cf0dd0068426a39f5819544a14e487b0a930cbc3e20c27bc10a19bdad20067e1"
+          },
+          "sha256": "649bf23cfcd9ec0641c8176936b69ae07dc887c970ea71bcb438d62f62bb26db",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-lens.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 264,
@@ -1589,9 +2879,28 @@
           "sha256": "208603536076cf639ea147b0266c226dc1429b0b34725069c3e56d460dbfeb3e",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-maps",
           "version": 3
+        },
+        {
+          "bytes": 929,
+          "collection": "Dashboard Icons",
+          "file": "google-maps-4.svg",
+          "id": 2809,
+          "is_default": false,
+          "label": "google-maps",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-maps.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4e58d8a520f3fb3062d28084ae9850b007e1241fb5e23aa69173116c0ffa8173"
+          },
+          "sha256": "31fb7aca312f7e5743be2dd29a57dc18fdb82fb6a623e65d88d8059c56beccea",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-maps.svg",
+          "version": 4
         }
       ],
-      "next_version": 4
+      "next_version": 5
     },
     {
       "id": 265,
@@ -1602,7 +2911,7 @@
         "meet.google.com"
       ],
       "description": "",
-      "category": "办公效率",
+      "category": "社交通讯",
       "tags": [
         "全球App补充",
         "办公",
@@ -1725,9 +3034,255 @@
           "sha256": "67523416908cc530d1e0a9f3503541cda04f5bc7343486c9a058844c8008597e",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#google-meet",
           "version": 4
+        },
+        {
+          "bytes": 782,
+          "collection": "Dashboard Icons",
+          "file": "google-meet-5.svg",
+          "id": 2810,
+          "is_default": false,
+          "label": "google-meet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-meet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a96bb6e69a0c17779887c3429bfe7d9d3fcf24b3171b89f921952c6430e25b57"
+          },
+          "sha256": "7bfebff121084daed7db4a094d5b9ee21cb5909b2d4f633d826834ee0f1489b2",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-meet.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
+    },
+    {
+      "id": 722,
+      "key": "messages",
+      "title": "Google Messages",
+      "url": "https://messages.google.com/",
+      "domains": [
+        "messages.google.com"
+      ],
+      "description": "Google 信息与短信应用。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌信息",
+        "短信",
+        "RCS",
+        "Google Messages"
+      ],
+      "aliases": [
+        "google-messages",
+        "谷歌信息",
+        "短信",
+        "RCS"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 688,
+          "collection": "Dashboard Icons",
+          "file": "google-messages.svg",
+          "id": 1682,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-messages.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "1664f362dbbb47659c7db8d6f51afa7e9d51a91895af62f10a9cdd10eff45a15",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-messages.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 720,
+      "key": "news",
+      "title": "Google News",
+      "url": "https://news.google.com/",
+      "domains": [
+        "news.google.com"
+      ],
+      "description": "Google 新闻聚合服务。",
+      "category": "新闻资讯",
+      "tags": [
+        "谷歌新闻",
+        "新闻聚合",
+        "Google News"
+      ],
+      "aliases": [
+        "google-news",
+        "谷歌新闻",
+        "新闻聚合",
+        "news-feed",
+        "current-events"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4156,
+          "collection": "Dashboard Icons",
+          "file": "google-news.svg",
+          "id": 1680,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-news.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "b5b1f2f5adc8d10fce5de6c2e6163354c7914b1a2fc469ab379fbafd374ae1c2",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-news.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2185,
+      "key": "notebooklm",
+      "title": "NotebookLM",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "Dashboard Icons",
+        "Cloud"
+      ],
+      "aliases": [
+        "notebook-lm",
+        "Notebook Lm"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 679,
+          "collection": "Dashboard Icons",
+          "file": "google-notebooklm.svg",
+          "id": 3561,
+          "is_default": true,
+          "label": "notebook-lm",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "notebook-lm.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7116c46aaddebb633ca99df8ef9a4282a6c41c71bae5d9c3ea68e792925a4cab"
+          },
+          "sha256": "ce01469e302160f032211f96b4abd0dcd2392d71df4088d3adaa3b5b222a2fea",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notebook-lm.svg",
+          "version": 0
+        },
+        {
+          "bytes": 692,
+          "collection": "Dashboard Icons",
+          "file": "google-notebooklm-1.svg",
+          "id": 3562,
+          "is_default": false,
+          "label": "notebook-lm-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "notebook-lm-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8ba53a1778d2c99738a9d4e528efc2ea6a703efe02e4116c1f3be13bf35e91d7"
+          },
+          "sha256": "840f50efa079bdbb9ab9a9ebde39239a9f57a86379812759687c0ec0601b00c3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notebook-lm-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 726,
+      "key": "one",
+      "title": "Google One",
+      "url": "https://one.google.com/",
+      "domains": [
+        "one.google.com"
+      ],
+      "description": "Google 云存储订阅服务。",
+      "category": "网盘存储",
+      "tags": [
+        "谷歌One",
+        "云存储",
+        "Google One"
+      ],
+      "aliases": [
+        "google-one",
+        "谷歌One",
+        "云存储"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1647,
+          "collection": "Dashboard Icons",
+          "file": "google-one.svg",
+          "id": 1686,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-one.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "913e54467d24066de0bbe34f6a00969223aba70e736316e1539c7f2ea3176afd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-one.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1628,
+      "key": "password-manager",
+      "title": "Google Password Manager",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-password-manager"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 943,
+          "collection": "Dashboard Icons",
+          "file": "google-password-manager.svg",
+          "id": 2827,
+          "is_default": true,
+          "label": "google-password-manager",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-password-manager.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ad2dd15037adf5d789b009d9f7d8c7e531cc7b088c6b161ef32593e4bb25d36e"
+          },
+          "sha256": "a78f96c6476decd12d93c8c6a5a2475095fb13e344e8beff86959d53b7721a07",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-password-manager.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 266,
@@ -1918,6 +3473,147 @@
           "sha256": "bcdf40e42267281d0cc80054aa3bac3c38fcfa628b49fc5c97ccd2cba3c2873c",
           "source": "https://web.gotab.cn/sourceStore/website/01K1ASNXTZZK0EBZ34SBAAQP2D.svg",
           "version": 0
+        },
+        {
+          "bytes": 574,
+          "collection": "Dashboard Icons",
+          "file": "google-play-1.svg",
+          "id": 2811,
+          "is_default": false,
+          "label": "google-play",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-play.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b8f7a2a69b73b7b875ef330aaf2d905bc66f7d4e3ef41d49954fb6e997f5ee7e"
+          },
+          "sha256": "02d5557e362692d15d5750a716ac0e8a2b656dea06249332d74fdc95c510ee9f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-play.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 731,
+      "key": "play-books",
+      "title": "Google Play Books",
+      "url": "https://play.google.com/books",
+      "domains": [
+        "play.google.com"
+      ],
+      "description": "Google 电子书与有声书应用。",
+      "category": "阅读",
+      "tags": [
+        "谷歌图书",
+        "电子书",
+        "Google Play Books"
+      ],
+      "aliases": [
+        "google-play-books",
+        "谷歌图书",
+        "电子书"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1273,
+          "collection": "Dashboard Icons",
+          "file": "google-play-books.svg",
+          "id": 1691,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-play-books.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "1e3e98baa5bbd4f78aee200a3c9c296f0953fa7f52106d990d67eeb32317fafd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-play-books.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1629,
+      "key": "play-games",
+      "title": "Google Play Games",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-play-games"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1122,
+          "collection": "Dashboard Icons",
+          "file": "google-play-games.svg",
+          "id": 2828,
+          "is_default": true,
+          "label": "google-play-games",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-play-games.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8ef2ddcdc389f3b4541124dca259786b70cf9885119a7a512eb27d625513de67"
+          },
+          "sha256": "5b06632aee89b2b7f63671ffced58a5176dc2c40d34e2a407b2504a501219b7d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-play-games.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1630,
+      "key": "podcasts",
+      "title": "Google Podcasts",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons",
+        "Media-Servers",
+        "Music-Streaming",
+        "影音娱乐"
+      ],
+      "aliases": [
+        "google-podcasts",
+        "Podcast Player"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 473,
+          "collection": "Dashboard Icons",
+          "file": "google-podcasts.svg",
+          "id": 2829,
+          "is_default": true,
+          "label": "google-podcasts",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-podcasts.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b2cc45af8bbed103e2ff58af1aaa38b51ea4f299927e4b5596d5ed2d9ff57b5c"
+          },
+          "sha256": "84718a9de7ebbe2831334043898ff56d8b445f1c71e79ea16b436e2029730ff4",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-podcasts.svg",
+          "version": 0
         }
       ],
       "next_version": 1
@@ -1967,6 +3663,356 @@
           },
           "sha256": "781e764363edc0326de5e5d4b8c671951331d19ce7dfca13c40e556d54fbe3ea",
           "source": "https://web.gotab.cn/sourceStore/website/01KPDFP5RYR0R6QMEAFJC8RYJN.svg",
+          "version": 0
+        },
+        {
+          "bytes": 398,
+          "collection": "Dashboard Icons",
+          "file": "google-scholar-1.svg",
+          "id": 2812,
+          "is_default": false,
+          "label": "google-scholar",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-scholar.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d2a7e35a0b1ce33bbb89fa982ba966851e6a8c3a33a7d4e47a1ce0b0b628eb45"
+          },
+          "sha256": "14a4a67d4ad1e7d347b02eb7940e49ab7e5b184fa7b50a558e137ce609e4f8d0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-scholar.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 729,
+      "key": "search-console",
+      "title": "Google Search Console",
+      "url": "https://search.google.com/search-console/about",
+      "domains": [
+        "search.google.com"
+      ],
+      "description": "Google 网站搜索表现管理工具。",
+      "category": "办公效率",
+      "tags": [
+        "站长工具",
+        "SEO",
+        "谷歌搜索控制台",
+        "Google Search Console"
+      ],
+      "aliases": [
+        "google-search-console",
+        "站长工具",
+        "SEO",
+        "谷歌搜索控制台",
+        "seo-analytics",
+        "website-performance"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1021,
+          "collection": "Dashboard Icons",
+          "file": "google-search-console.svg",
+          "id": 1689,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-search-console.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "9850939748e70475b0a77664e1fe895f03bb4d8bc026042ae7d67dd48c44efde",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-search-console.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 714,
+      "key": "sheets",
+      "title": "Google Sheets",
+      "url": "https://sheets.google.com/",
+      "domains": [
+        "sheets.google.com"
+      ],
+      "description": "Google 在线电子表格应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌表格",
+        "电子表格",
+        "Google Sheets"
+      ],
+      "aliases": [
+        "google-sheets",
+        "谷歌表格",
+        "电子表格"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3663,
+          "collection": "Dashboard Icons",
+          "file": "google-sheets.svg",
+          "id": 1674,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-sheets.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "d5b7a4ac78701b87069182b5780d5c966ffcb7715119618ffc215ae429b46898",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-sheets.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1631,
+      "key": "shopping",
+      "title": "Google Shopping",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "电商购物",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-shopping"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1520,
+          "collection": "Dashboard Icons",
+          "file": "google-shopping.svg",
+          "id": 2830,
+          "is_default": true,
+          "label": "google-shopping",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-shopping.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "bc3cede0303e103b7de1f4fadaa890f6396fdc280fe7aeac500ba54aa7494790"
+          },
+          "sha256": "bae3d44a750a53c32b5876ad60221b68717aecc538eb9031f9ecffdc26a9d05f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-shopping.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1632,
+      "key": "sites",
+      "title": "Google Sites",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-sites"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 354,
+          "collection": "Dashboard Icons",
+          "file": "google-sites.svg",
+          "id": 2831,
+          "is_default": true,
+          "label": "google-sites",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-sites.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c2d5bfc3706886e1fb6e01819aef529dd54bfe5a8918c827494d69a8e1c5535f"
+          },
+          "sha256": "565ff0afefa4d6d938411aac185e7d28ef4fe81fe455fe8adae0e0ae950b511e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-sites.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 715,
+      "key": "slides",
+      "title": "Google Slides",
+      "url": "https://slides.google.com/",
+      "domains": [
+        "slides.google.com"
+      ],
+      "description": "Google 在线演示文稿应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌幻灯片",
+        "演示文稿",
+        "Google Slides"
+      ],
+      "aliases": [
+        "google-slides",
+        "谷歌幻灯片",
+        "演示文稿"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3619,
+          "collection": "Dashboard Icons",
+          "file": "google-slides.svg",
+          "id": 1675,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-slides.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "7dd0da473d39b45005d7d6a10a257252f4e78c63d54561629664e08c954c92b6",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-slides.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1633,
+      "key": "street-view",
+      "title": "Google Street View",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "Dashboard Icons",
+        "Search-Engines"
+      ],
+      "aliases": [
+        "google-street-view",
+        "street-view",
+        "map-imagery"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 13659,
+          "collection": "Dashboard Icons",
+          "file": "google-street-view.svg",
+          "id": 2832,
+          "is_default": true,
+          "label": "google-street-view",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-street-view.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0aac5f65d309827a38cd3a9af9dea34dec80102e31b1dea9569ab00adac800b6"
+          },
+          "sha256": "ae1c1cc115c0ed11c939618acb99cc7bb3cd27b2d8625f094ff6799e5cef3bc4",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-street-view.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1634,
+      "key": "tag-manager",
+      "title": "Google Tag Manager",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons",
+        "Developer-Tools"
+      ],
+      "aliases": [
+        "google-tag-manager",
+        "tag-manager",
+        "analytics-tool"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 589,
+          "collection": "Dashboard Icons",
+          "file": "google-tag-manager.svg",
+          "id": 2833,
+          "is_default": true,
+          "label": "google-tag-manager",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-tag-manager.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8159b4f42d44b515003e5510716bd36c9e54cb17e40841ed26d2789c74ff88c8"
+          },
+          "sha256": "29a644623564dbc8a694d2d6caf8eed3035a873de0455e904e8de397a37daac5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-tag-manager.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 718,
+      "key": "tasks",
+      "title": "Google Tasks",
+      "url": "https://tasks.google.com/",
+      "domains": [
+        "tasks.google.com"
+      ],
+      "description": "Google 待办与任务应用。",
+      "category": "办公效率",
+      "tags": [
+        "谷歌任务",
+        "待办清单",
+        "Google Tasks"
+      ],
+      "aliases": [
+        "google-tasks",
+        "谷歌任务",
+        "待办清单"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 922,
+          "collection": "Dashboard Icons",
+          "file": "google-tasks.svg",
+          "id": 1678,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg-cleaned",
+          "provenance": {
+            "original_file": "google-tasks.svg",
+            "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved.",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "071697599cf1bfeac603e14dd3fa4f946209d68a01946805b2ec8c3258f83e4a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-tasks.svg",
           "version": 0
         }
       ],
@@ -2019,12 +4065,239 @@
           "sha256": "94f4b784e3bc1af5866a59c3b89ba7e56f43f41c11f8304bb075aaf2f174fd5d",
           "source": "https://web.gotab.cn/sourceStore/website/01J8HDT0BBNKC63AFM7HMHQGT4.svg",
           "version": 0
+        },
+        {
+          "bytes": 2014,
+          "collection": "Dashboard Icons",
+          "file": "google-translate-1.svg",
+          "id": 2813,
+          "is_default": false,
+          "label": "google-translate",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-translate.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cf95e198187a0b91f8d41dbe2c520180713e3863dc421008ab6c77a653c505f7"
+          },
+          "sha256": "b33bafac24aea6063f2790000790e81eefa93629729d4ef16ff6d7ca6d0868ed",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-translate.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1635,
+      "key": "tv",
+      "title": "Google Tv",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-tv"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 649,
+          "collection": "Dashboard Icons",
+          "file": "google-tv.svg",
+          "id": 2834,
+          "is_default": true,
+          "label": "google-tv",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-tv.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ec762eab80523c6aac7f715057c2259f1e611c8b87491d5fd61b9568bc371168"
+          },
+          "sha256": "eae7fad8211698743973f096078c27cec20004d12d2e4043d21c3881de112b95",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-tv.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3380,
+      "key": "v8",
+      "title": "V8",
+      "url": "https://v8.dev",
+      "domains": [
+        "v8.dev"
+      ],
+      "description": "Google 的 JavaScript 与 WebAssembly 运行引擎。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "V8",
+        "v8"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 7455,
+          "collection": "TechIcons / Devicon",
+          "file": "google-v8-1.svg",
+          "id": 5186,
+          "is_default": true,
+          "label": "TechIcons · V8",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "V8.svg",
+            "original_sha256": "a3da9797df834163f0b9ab152b155581c40b8be807ae5d017796a6203c02af66",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/v8",
+            "reference_website": "https://v8.dev"
+          },
+          "sha256": "ae86cf0443d2c3194ad43655a15c1db424fa313c31f1c0d937417cfca7054257",
+          "source": "https://techicons.dev/icons/v8",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 724,
+      "key": "voice",
+      "title": "Google Voice",
+      "url": "https://voice.google.com/",
+      "domains": [
+        "voice.google.com"
+      ],
+      "description": "Google 网络电话服务。",
+      "category": "社交通讯",
+      "tags": [
+        "谷歌语音",
+        "网络电话",
+        "Google Voice"
+      ],
+      "aliases": [
+        "google-voice",
+        "谷歌语音",
+        "网络电话"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 942,
+          "collection": "Dashboard Icons",
+          "file": "google-voice.svg",
+          "id": 1684,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-voice.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "fd5d1a7571bd40cd773551cbb39259615b12d6abf1d2357204e4f85a1e80ffc8",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-voice.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 725,
+      "key": "wallet",
+      "title": "Google Wallet",
+      "url": "https://wallet.google/",
+      "domains": [
+        "wallet.google"
+      ],
+      "description": "Google 数字钱包应用。",
+      "category": "金融支付",
+      "tags": [
+        "谷歌钱包",
+        "数字钱包",
+        "Google Wallet"
+      ],
+      "aliases": [
+        "google-wallet",
+        "谷歌钱包",
+        "数字钱包",
+        "mobile-wallet",
+        "payment-app"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 986,
+          "collection": "Dashboard Icons",
+          "file": "google-wallet.svg",
+          "id": 1685,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-wallet.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "e55a105345f2183b9aa70a00608f85b2e58c5c13fe28a8bbe849e69a431e9632",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-wallet.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1636,
+      "key": "wifi",
+      "title": "Google Wifi",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "google-wifi"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1236,
+          "collection": "Dashboard Icons",
+          "file": "google-wifi.svg",
+          "id": 2835,
+          "is_default": true,
+          "label": "google-wifi",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "google-wifi.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "baed211d043e0388a89a33381edd65943ece392ba0bd7cd69aefb70932c7f13d"
+          },
+          "sha256": "735c859024e2911d6241afb8bd39fe7d334e6abdf20ba2e4a3c678210db7425c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-wifi.svg",
+          "version": 0
         }
       ],
       "next_version": 1
     },
     {
       "id": 270,
+      "redirect_from": [
+        3256
+      ],
       "key": "youtube",
       "title": "YouTube",
       "url": "https://youtube.com",
@@ -2045,7 +4318,9 @@
         "youtube.com"
       ],
       "aliases": [
-        "youtube"
+        "youtube",
+        "video-sharing-site",
+        "google-video"
       ],
       "notes": [
         "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
@@ -2156,9 +4431,66 @@
           "sha256": "93867bd9e2f5b88da218f07ba3dd83f20773cd64c8deaeaf7dc4ce1ad57cf9b0",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/icon-park.json#youtube",
           "version": 4
+        },
+        {
+          "bytes": 520,
+          "collection": "Dashboard Icons",
+          "file": "google-youtube-5.svg",
+          "id": 4987,
+          "is_default": false,
+          "label": "youtube",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "320ae220c53a6126da81aaf6803d8c813837bcaa95f39dcf5f75932335746673"
+          },
+          "sha256": "9dd3da2bed69d713a0c37156ccec94f2cec779328040c53ce262d15be39daf1d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/youtube.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
+    },
+    {
+      "id": 3258,
+      "key": "youtube-kids",
+      "title": "YouTube Kids",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "youtube-kids"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3305,
+          "collection": "Dashboard Icons",
+          "file": "google-youtube-kids.svg",
+          "id": 4989,
+          "is_default": true,
+          "label": "youtube-kids",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "youtube-kids.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d461ece49f268fce4910c58faf7c4a15fa102ee7dd55fdd3136254e666971a0d"
+          },
+          "sha256": "3c418424bd22a834d07ef96c32aacc3faf5f31c42cd6600a7a496820218ab46d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/youtube-kids.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 271,
@@ -2301,836 +4633,83 @@
       "next_version": 5
     },
     {
-      "title": "Google Keep",
-      "url": "https://keep.google.com/",
-      "domains": [
-        "keep.google.com"
-      ],
-      "description": "Google 笔记与便签应用。",
-      "category": "办公效率",
+      "id": 3259,
+      "key": "youtube-studio",
+      "title": "YouTube Studio",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
       "tags": [
-        "谷歌Keep",
-        "谷歌笔记",
-        "便签",
-        "Google Keep"
+        "Dashboard Icons"
       ],
       "aliases": [
-        "google-keep",
-        "谷歌Keep",
-        "谷歌笔记",
-        "便签",
-        "Note Taking"
+        "youtube-studio"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "google-keep.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 1107,
+          "collection": "Dashboard Icons",
+          "file": "google-youtube-studio.svg",
+          "id": 4990,
           "is_default": true,
-          "sha256": "d33fa664096dda5c1095ad7b7e74b534c3269cab460c5474b73c5ec485bdae17",
-          "bytes": 499,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-keep.svg",
+          "label": "youtube-studio",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
-            "original_file": "google-keep.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "keep"
-    },
-    {
-      "title": "Google Sheets",
-      "url": "https://sheets.google.com/",
-      "domains": [
-        "sheets.google.com"
-      ],
-      "description": "Google 在线电子表格应用。",
-      "category": "办公效率",
-      "tags": [
-        "谷歌表格",
-        "电子表格",
-        "Google Sheets"
-      ],
-      "aliases": [
-        "google-sheets",
-        "谷歌表格",
-        "电子表格"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-sheets.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "d5b7a4ac78701b87069182b5780d5c966ffcb7715119618ffc215ae429b46898",
-          "bytes": 3663,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-sheets.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-sheets.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "sheets"
-    },
-    {
-      "title": "Google Slides",
-      "url": "https://slides.google.com/",
-      "domains": [
-        "slides.google.com"
-      ],
-      "description": "Google 在线演示文稿应用。",
-      "category": "办公效率",
-      "tags": [
-        "谷歌幻灯片",
-        "演示文稿",
-        "Google Slides"
-      ],
-      "aliases": [
-        "google-slides",
-        "谷歌幻灯片",
-        "演示文稿"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-slides.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "7dd0da473d39b45005d7d6a10a257252f4e78c63d54561629664e08c954c92b6",
-          "bytes": 3619,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-slides.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-slides.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "slides"
-    },
-    {
-      "title": "Google Forms",
-      "url": "https://forms.google.com/",
-      "domains": [
-        "forms.google.com"
-      ],
-      "description": "Google 在线表单与问卷服务。",
-      "category": "办公效率",
-      "tags": [
-        "谷歌表单",
-        "问卷",
-        "Google Forms"
-      ],
-      "aliases": [
-        "google-forms",
-        "谷歌表单",
-        "问卷"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-forms.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "2b0f4a8d66cceb4773aadd0e3e0e71e718b811566b365c17aa1222a130e54d91",
-          "bytes": 3581,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-forms.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-forms.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "forms"
-    },
-    {
-      "title": "Google Contacts",
-      "url": "https://contacts.google.com/",
-      "domains": [
-        "contacts.google.com"
-      ],
-      "description": "Google 联系人管理应用。",
-      "category": "办公效率",
-      "tags": [
-        "谷歌通讯录",
-        "联系人",
-        "Google Contacts"
-      ],
-      "aliases": [
-        "google-contacts",
-        "谷歌通讯录",
-        "联系人",
-        "address-book",
-        "people-management"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-contacts.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "3bac4e978450be6eb149fb106998144e4f1ff3a38466a8ee380bd50af130ffbb",
-          "bytes": 892,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-contacts.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-contacts.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "contacts"
-    },
-    {
-      "title": "Google Tasks",
-      "url": "https://tasks.google.com/",
-      "domains": [
-        "tasks.google.com"
-      ],
-      "description": "Google 待办与任务应用。",
-      "category": "办公效率",
-      "tags": [
-        "谷歌任务",
-        "待办清单",
-        "Google Tasks"
-      ],
-      "aliases": [
-        "google-tasks",
-        "谷歌任务",
-        "待办清单"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-tasks.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "071697599cf1bfeac603e14dd3fa4f946209d68a01946805b2ec8c3258f83e4a",
-          "bytes": 922,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-tasks.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg-cleaned",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-tasks.svg",
+            "original_file": "youtube-studio.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
             "repository": "https://github.com/homarr-labs/dashboard-icons",
-            "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
-          }
+            "upstream_sha256": "a8e126ca22cb16793f9a0c2a267a67dee37d5be0f47791b21f47f6abb3e2ebe5"
+          },
+          "sha256": "3ac1a8da7afee5301302504cf44b8965ad510425dcfe9553b7a804dcbe0fc59d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/youtube-studio.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "tasks"
+      "next_version": 1
     },
     {
-      "title": "Google Classroom",
-      "url": "https://classroom.google.com/",
-      "domains": [
-        "classroom.google.com"
-      ],
-      "description": "Google 在线教学与课堂管理应用。",
-      "category": "教育科研",
+      "id": 3260,
+      "key": "youtube-tv",
+      "title": "YouTube TV",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
       "tags": [
-        "谷歌课堂",
-        "在线教学",
-        "Google Classroom"
+        "Dashboard Icons",
+        "Streaming",
+        "Video",
+        "影音娱乐"
       ],
       "aliases": [
-        "google-classroom",
-        "谷歌课堂",
-        "在线教学"
+        "youtube-tv"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "google-classroom.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 668,
+          "collection": "Dashboard Icons",
+          "file": "google-youtube-tv.svg",
+          "id": 4991,
           "is_default": true,
-          "sha256": "ae5ad27810b5536679148f562d20b28aff903fb5a2158f6b133ffc73f42ac652",
-          "bytes": 2274,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-classroom.svg",
+          "label": "youtube-tv",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
-            "original_file": "google-classroom.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+            "original_file": "youtube-tv.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "2d2fc81107b1e6f98b99fb43650564534a7dfd0999c9297aa7a669f333fcc876"
+          },
+          "sha256": "cafee793a1c00fdcffb3d4fbcb7f69a2f4d5f439213b599d2df28219d6f8bdfc",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/youtube-tv.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "classroom"
-    },
-    {
-      "title": "Google News",
-      "url": "https://news.google.com/",
-      "domains": [
-        "news.google.com"
-      ],
-      "description": "Google 新闻聚合服务。",
-      "category": "新闻资讯",
-      "tags": [
-        "谷歌新闻",
-        "新闻聚合",
-        "Google News"
-      ],
-      "aliases": [
-        "google-news",
-        "谷歌新闻",
-        "新闻聚合",
-        "news-feed",
-        "current-events"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-news.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "b5b1f2f5adc8d10fce5de6c2e6163354c7914b1a2fc469ab379fbafd374ae1c2",
-          "bytes": 4156,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-news.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-news.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "news"
-    },
-    {
-      "title": "Google Home",
-      "url": "https://home.google.com/",
-      "domains": [
-        "home.google.com"
-      ],
-      "description": "Google 智能家居应用。",
-      "category": "生活服务",
-      "tags": [
-        "谷歌Home",
-        "智能家居",
-        "Google Home"
-      ],
-      "aliases": [
-        "google-home",
-        "谷歌Home",
-        "智能家居",
-        "smart-speaker",
-        "voice-assistant-device"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-home.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "543bf4494cc47691e61cdbd2929e289182a18b91bc321bc4928f2f4d41f21986",
-          "bytes": 1226,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-home.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-home.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "home"
-    },
-    {
-      "title": "Google Messages",
-      "url": "https://messages.google.com/",
-      "domains": [
-        "messages.google.com"
-      ],
-      "description": "Google 信息与短信应用。",
-      "category": "社交通讯",
-      "tags": [
-        "谷歌信息",
-        "短信",
-        "RCS",
-        "Google Messages"
-      ],
-      "aliases": [
-        "google-messages",
-        "谷歌信息",
-        "短信",
-        "RCS"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-messages.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "1664f362dbbb47659c7db8d6f51afa7e9d51a91895af62f10a9cdd10eff45a15",
-          "bytes": 688,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-messages.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-messages.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "messages"
-    },
-    {
-      "title": "Google Chat",
-      "url": "https://chat.google.com/",
-      "domains": [
-        "chat.google.com"
-      ],
-      "description": "Google 即时通讯应用。",
-      "category": "社交通讯",
-      "tags": [
-        "谷歌Chat",
-        "即时通讯",
-        "团队沟通",
-        "Google Chat"
-      ],
-      "aliases": [
-        "google-chat",
-        "谷歌Chat",
-        "即时通讯",
-        "团队沟通"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-chat.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "249b0127108712a1aa70b0c84dd3d4bb824544194693431617a770a3989df2f3",
-          "bytes": 549,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-chat.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-chat.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "chat"
-    },
-    {
-      "title": "Google Voice",
-      "url": "https://voice.google.com/",
-      "domains": [
-        "voice.google.com"
-      ],
-      "description": "Google 网络电话服务。",
-      "category": "社交通讯",
-      "tags": [
-        "谷歌语音",
-        "网络电话",
-        "Google Voice"
-      ],
-      "aliases": [
-        "google-voice",
-        "谷歌语音",
-        "网络电话"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-voice.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "fd5d1a7571bd40cd773551cbb39259615b12d6abf1d2357204e4f85a1e80ffc8",
-          "bytes": 942,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-voice.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-voice.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "voice"
-    },
-    {
-      "title": "Google Wallet",
-      "url": "https://wallet.google/",
-      "domains": [
-        "wallet.google"
-      ],
-      "description": "Google 数字钱包应用。",
-      "category": "金融支付",
-      "tags": [
-        "谷歌钱包",
-        "数字钱包",
-        "Google Wallet"
-      ],
-      "aliases": [
-        "google-wallet",
-        "谷歌钱包",
-        "数字钱包",
-        "mobile-wallet",
-        "payment-app"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-wallet.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "e55a105345f2183b9aa70a00608f85b2e58c5c13fe28a8bbe849e69a431e9632",
-          "bytes": 986,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-wallet.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-wallet.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "wallet"
-    },
-    {
-      "title": "Google One",
-      "url": "https://one.google.com/",
-      "domains": [
-        "one.google.com"
-      ],
-      "description": "Google 云存储订阅服务。",
-      "category": "网盘存储",
-      "tags": [
-        "谷歌One",
-        "云存储",
-        "Google One"
-      ],
-      "aliases": [
-        "google-one",
-        "谷歌One",
-        "云存储"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-one.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "913e54467d24066de0bbe34f6a00969223aba70e736316e1539c7f2ea3176afd",
-          "bytes": 1647,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-one.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-one.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "one"
-    },
-    {
-      "title": "Google Colab",
-      "url": "https://colab.research.google.com/",
-      "domains": [
-        "colab.research.google.com"
-      ],
-      "description": "Google 在线 Notebook 环境。",
-      "category": "开发编程",
-      "tags": [
-        "Colaboratory",
-        "Notebook",
-        "Python",
-        "Google Colab"
-      ],
-      "aliases": [
-        "google-colab",
-        "Colaboratory",
-        "Notebook",
-        "Python"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-colab.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "33cef80bd8b842e9fce4456c2915ad4dcd43e309f5622e3963ace4a1d59ac6de",
-          "bytes": 914,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-colab.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-colab.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "colab"
-    },
-    {
-      "title": "Google Analytics",
-      "url": "https://analytics.google.com/",
-      "domains": [
-        "analytics.google.com"
-      ],
-      "description": "Google 网站与应用分析服务。",
-      "category": "开发编程",
-      "tags": [
-        "谷歌分析",
-        "GA",
-        "网站统计",
-        "Google Analytics"
-      ],
-      "aliases": [
-        "google-analytics",
-        "谷歌分析",
-        "GA",
-        "网站统计",
-        "website-analytics",
-        "tracking-tool"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-analytics.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "b37c65dc4ad2299368aadf8addfe6107bddf115388a2461fe5127e96d0e9910f",
-          "bytes": 679,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-analytics.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-analytics.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "analytics"
-    },
-    {
-      "title": "Google Search Console",
-      "url": "https://search.google.com/search-console/about",
-      "domains": [
-        "search.google.com"
-      ],
-      "description": "Google 网站搜索表现管理工具。",
-      "category": "开发编程",
-      "tags": [
-        "站长工具",
-        "SEO",
-        "谷歌搜索控制台",
-        "Google Search Console"
-      ],
-      "aliases": [
-        "google-search-console",
-        "站长工具",
-        "SEO",
-        "谷歌搜索控制台",
-        "seo-analytics",
-        "website-performance"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-search-console.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "9850939748e70475b0a77664e1fe895f03bb4d8bc026042ae7d67dd48c44efde",
-          "bytes": 1021,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-search-console.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-search-console.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "search-console"
-    },
-    {
-      "title": "Jules",
-      "url": "https://jules.google/",
-      "domains": [
-        "jules.google"
-      ],
-      "description": "Google 编程代理服务。",
-      "category": "AI",
-      "tags": [
-        "Google Jules",
-        "代码助手",
-        "编程助手",
-        "Jules"
-      ],
-      "aliases": [
-        "google-jules",
-        "Google Jules",
-        "代码助手",
-        "编程助手",
-        "jules"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-jules.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "0915a12d99c8b2aa8b6668032730ad4b36ec057679a4f7fd1f2b7d0e74d1a17c",
-          "bytes": 1640,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-jules.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-jules.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "jules"
-    },
-    {
-      "title": "Google Play Books",
-      "url": "https://play.google.com/books",
-      "domains": [
-        "play.google.com"
-      ],
-      "description": "Google 电子书与有声书应用。",
-      "category": "阅读",
-      "tags": [
-        "谷歌图书",
-        "电子书",
-        "Google Play Books"
-      ],
-      "aliases": [
-        "google-play-books",
-        "谷歌图书",
-        "电子书"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-play-books.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "1e3e98baa5bbd4f78aee200a3c9c296f0953fa7f52106d990d67eeb32317fafd",
-          "bytes": 1273,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/google-play-books.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "google-play-books.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "play-books"
-    },
-    {
-      "title": "Blogger",
-      "url": "https://www.blogger.com/",
-      "domains": [
-        "www.blogger.com"
-      ],
-      "description": "Google 博客发布服务。",
-      "category": "开发编程",
-      "tags": [
-        "博客",
-        "谷歌博客",
-        "Blogspot",
-        "Blogger"
-      ],
-      "aliases": [
-        "google-blogger",
-        "blogger",
-        "博客",
-        "谷歌博客",
-        "Blogspot"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "google-blogger.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "d6dde902422bac2c6710785a3a47aec74cc2baabe30e82efe0a11e1c5a7768af",
-          "bytes": 1834,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blogger.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "blogger.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "blogger"
+      "next_version": 1
     }
   ]
 }

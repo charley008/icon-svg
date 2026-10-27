@@ -1,0 +1,41 @@
+{
+  "collection_id": 1647,
+  "schema_version": 1,
+  "id": 1874,
+  "title": "Ko Insight",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "ko-insight"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3563,
+      "collection": "Dashboard Icons",
+      "file": "ko-insight.svg",
+      "id": 3146,
+      "is_default": true,
+      "label": "ko-insight",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ko-insight.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8d28189c089423a3adb6105523be798dabb0b94345ead6ceee62dce5167d01e3"
+      },
+      "sha256": "02dd2b0b098e87fe767272d6232d61dbb87425a173a8006e05beab318b46f425",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ko-insight.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

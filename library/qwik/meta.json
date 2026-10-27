@@ -1,0 +1,42 @@
+{
+  "collection_id": 2453,
+  "schema_version": 1,
+  "id": 2680,
+  "title": "Qwik",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "qwik",
+    "qwikjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 934,
+      "collection": "Dashboard Icons",
+      "file": "qwik.svg",
+      "id": 4243,
+      "is_default": true,
+      "label": "qwik",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qwik.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4f1d832da38c968b9888e585f3310fbaa1c0bff4bbc6ecee5ba818c68762269"
+      },
+      "sha256": "712ec014ee7b42d3b1378e6b3cc648221f9d722b52625e156a36612f4e9c5d6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qwik.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

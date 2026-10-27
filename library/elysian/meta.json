@@ -1,0 +1,40 @@
+{
+  "collection_id": 1191,
+  "schema_version": 1,
+  "id": 1418,
+  "title": "Elysian",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "elysian"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 337080,
+      "collection": "Dashboard Icons",
+      "file": "elysian.svg",
+      "id": 2549,
+      "is_default": true,
+      "label": "elysian",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elysian.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "47f0d376ca3dbe0f6c5baf61de1c139a439920fda33ede79b8c0a4c00af1836e"
+      },
+      "sha256": "6dfc9c105843e5f3d8fbf9760052ff18fa28930ea6dc1c8d88b1a48ab1478cf2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elysian.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

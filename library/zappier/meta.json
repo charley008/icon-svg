@@ -1,0 +1,40 @@
+{
+  "collection_id": 3045,
+  "schema_version": 1,
+  "id": 3272,
+  "title": "Zappier",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zappier"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2766,
+      "collection": "Dashboard Icons",
+      "file": "zappier.svg",
+      "id": 5005,
+      "is_default": true,
+      "label": "zappier",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zappier.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3684d36422bbedeaaf52d670de694a0e8816713ceb71e7884f237894927274ef"
+      },
+      "sha256": "9745be1189e232c942668e978c25d0ecc06355f496807effa38988a87d0051b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zappier.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

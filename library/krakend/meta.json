@@ -1,0 +1,45 @@
+{
+  "collection_id": 1662,
+  "schema_version": 1,
+  "id": 1889,
+  "title": "Krakend",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Networking-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "krakend",
+    "reverse-proxy",
+    "api-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3455,
+      "collection": "Dashboard Icons",
+      "file": "krakend.svg",
+      "id": 3164,
+      "is_default": true,
+      "label": "krakend",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "krakend.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab96675a6e4e843c029e26698e3b1073462b1b280e77d5248900ef8abb92b791"
+      },
+      "sha256": "dd65600ae49cf829c8ae3779d7ae926cf294c9311b945e037813ea3773dc18d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/krakend.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3252,
+  "schema_version": 1,
+  "id": 3516,
+  "title": "Unified Modelling Language (UML)",
+  "url": "https://www.uml.org",
+  "domains": [
+    "uml.org"
+  ],
+  "description": "用于表达软件结构与设计的统一建模语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Unified Modelling Language (UML)",
+    "unifiedmodelinglanguage",
+    "Unified-Modelling-Language-(UML)"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1473,
+      "collection": "TechIcons / Devicon",
+      "file": "unifiedmodelinglanguage-1.svg",
+      "id": 5388,
+      "is_default": true,
+      "label": "TechIcons · Unified Modelling Language (UML)",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Unified-Modelling-Language-(UML).svg",
+        "original_sha256": "d4b44f11393c23809c2da576d84c3a23fbe79ddaf1257ae00aca3371bbe8f2b3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/unifiedmodelinglanguage",
+        "reference_website": "https://www.uml.org"
+      },
+      "sha256": "3ccc989849719d7b887de37203edaaea22509f6d0bb70f0cfeb33e0771ffd8c2",
+      "source": "https://techicons.dev/icons/unifiedmodelinglanguage",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

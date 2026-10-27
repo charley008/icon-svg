@@ -1,0 +1,40 @@
+{
+  "collection_id": 1343,
+  "schema_version": 1,
+  "id": 1570,
+  "title": "Fronius",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fronius"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1412,
+      "collection": "Dashboard Icons",
+      "file": "fronius.svg",
+      "id": 2739,
+      "is_default": true,
+      "label": "fronius",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fronius.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98793b02d1437566a77ccdf375011e38306c9bdc71380f974c0de61e8be49ffe"
+      },
+      "sha256": "ccc89995d0d0de48f810f686e32dc9ad8c8db5557c8b62e130e4e9dc6a4b50c3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fronius.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

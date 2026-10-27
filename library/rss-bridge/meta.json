@@ -1,0 +1,40 @@
+{
+  "collection_id": 2526,
+  "schema_version": 1,
+  "id": 2753,
+  "title": "Rss Bridge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rss-bridge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2344,
+      "collection": "Dashboard Icons",
+      "file": "rss-bridge.svg",
+      "id": 4334,
+      "is_default": true,
+      "label": "rss-bridge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rss-bridge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7f5d15089c5d80e4f8cf317bf31f82d04b54ee93e9441ce35131e704ee27c6fe"
+      },
+      "sha256": "9ac01a438fbf841bb4747f7660cd97742311d4e13ed504ef0185977fb6406c6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rss-bridge.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

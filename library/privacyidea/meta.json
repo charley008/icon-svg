@@ -1,0 +1,44 @@
+{
+  "collection_id": 2213,
+  "schema_version": 1,
+  "id": 2440,
+  "title": "Privacyidea",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Password-Managers",
+    "Security",
+    "系统工具"
+  ],
+  "aliases": [
+    "privacyidea",
+    "2FA"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2714,
+      "collection": "Dashboard Icons",
+      "file": "privacyidea.svg",
+      "id": 3930,
+      "is_default": true,
+      "label": "privacyidea",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "privacyidea.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f6b666bcfb45322b53ba852496a8ee81db2d25dc3261ea879380f3d9d14f439"
+      },
+      "sha256": "7e1b6e0332a71d3961a58360d8f09ed187518eaa6b9bfe58a90ba8f9760266d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/privacyidea.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

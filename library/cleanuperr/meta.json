@@ -1,0 +1,79 @@
+{
+  "collection_id": 981,
+  "schema_version": 1,
+  "id": 1208,
+  "title": "Cleanuperr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cleanuperr",
+    "cleanuparr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 70654,
+      "collection": "Dashboard Icons",
+      "file": "cleanuperr.svg",
+      "id": 2263,
+      "is_default": true,
+      "label": "cleanuperr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cleanuperr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8261da1f24da4b6805cbcdae6ae7638a64f8ca79fe565c9a1f41bdc97a24e54b"
+      },
+      "sha256": "65e7ce7ca2a54b37dcc585ea1d43439da7c7ac850e159fb761559b7a4c5bf697",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cleanuperr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10894,
+      "collection": "Dashboard Icons",
+      "file": "cleanuperr-1.svg",
+      "id": 2264,
+      "is_default": false,
+      "label": "cleanuperr-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cleanuperr-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "42cd8c4014096ffedb287d60402ecf2518b7c9c18f266c0b7733fd02b55ee62c"
+      },
+      "sha256": "a0ff2296ef36c3ebcb0a7911be6e47013d3dd3d080db85fa74a3faaaf635ef09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cleanuperr-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 10852,
+      "collection": "Dashboard Icons",
+      "file": "cleanuperr-2.svg",
+      "id": 2265,
+      "is_default": false,
+      "label": "cleanuperr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cleanuperr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6140d13b3ed7fb5830fbc4b1ff8fee0ef32e1872ae1856cdd8e1ab02659dce03"
+      },
+      "sha256": "67da46cfe3f9a6afbde22a5fd8a84a29248debbf14b52ddbf10dd267b6ffcf1c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cleanuperr-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

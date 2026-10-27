@@ -1,0 +1,45 @@
+{
+  "collection_id": 3184,
+  "schema_version": 1,
+  "id": 3446,
+  "title": "NHibernate",
+  "url": "https://nhibernate.info",
+  "domains": [
+    "nhibernate.info"
+  ],
+  "description": "面向 .NET 的对象关系映射开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "NHibernate",
+    "nhibernate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2187,
+      "collection": "TechIcons / Devicon",
+      "file": "nhibernate-1.svg",
+      "id": 5283,
+      "is_default": true,
+      "label": "TechIcons · NHibernate",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "NHibernate.svg",
+        "original_sha256": "733e28903df8642a02cb187fe6e9c63d4ad13dede854375cbf0662877c3b6bad",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nhibernate",
+        "reference_website": "https://nhibernate.info"
+      },
+      "sha256": "100caa731bbbfe2a92d0d379a0b883fdf9bb9ea21ec267cdfcdc56ee9d94facd",
+      "source": "https://techicons.dev/icons/nhibernate",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

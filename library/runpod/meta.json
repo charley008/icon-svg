@@ -1,0 +1,59 @@
+{
+  "collection_id": 2535,
+  "schema_version": 1,
+  "id": 2762,
+  "title": "Runpod",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "runpod"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2176,
+      "collection": "Dashboard Icons",
+      "file": "runpod.svg",
+      "id": 4343,
+      "is_default": true,
+      "label": "runpod",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "runpod.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce807ce25d7abd95ae7b9746c0762c48754028f14a27405a1c4991bd7b8348e3"
+      },
+      "sha256": "093e651318516e4a692a254a9766f0a98d70d69bc983b797611e83f24eb6bff1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/runpod.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2176,
+      "collection": "Dashboard Icons",
+      "file": "runpod-1.svg",
+      "id": 4344,
+      "is_default": false,
+      "label": "runpod-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "runpod-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2cd26251638c77a2237a6c16d7db69ae6b0243923fb6f8c1bd0e363f9c8b4ed6"
+      },
+      "sha256": "c1e79196b1d9841197257934dd96570bea783d5e11d0894864b3d11ced0b6b18",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/runpod-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

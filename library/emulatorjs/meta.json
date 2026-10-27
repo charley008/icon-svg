@@ -1,0 +1,40 @@
+{
+  "collection_id": 1199,
+  "schema_version": 1,
+  "id": 1426,
+  "title": "Emulatorjs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "emulatorjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 54729,
+      "collection": "Dashboard Icons",
+      "file": "emulatorjs.svg",
+      "id": 2561,
+      "is_default": true,
+      "label": "emulatorjs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emulatorjs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1588804ccbbcda2409340faf671dd61246f4fc5fb82194bae79323e97c30647"
+      },
+      "sha256": "e0e997cbd0fb422a138d020c39f495573f3be8b1077d144c83bff09aba8f6356",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emulatorjs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1858,
+  "schema_version": 1,
+  "id": 2085,
+  "title": "Morss",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "morss"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 558,
+      "collection": "Dashboard Icons",
+      "file": "morss.svg",
+      "id": 3431,
+      "is_default": true,
+      "label": "morss",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "morss.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5dff2b37fa2adb94d9549d50e4aa23ae9d61e65fb8be83c5f5375f19a2fb5d20"
+      },
+      "sha256": "9e344024b1fcfc7b969aca40a83e7cc2eb87f08c6170b8f5bdac7ec85c2454e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/morss.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

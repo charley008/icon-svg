@@ -1,0 +1,40 @@
+{
+  "collection_id": 2507,
+  "schema_version": 1,
+  "id": 2734,
+  "title": "Richy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "richy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1524,
+      "collection": "Dashboard Icons",
+      "file": "richy.svg",
+      "id": 4310,
+      "is_default": true,
+      "label": "richy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "richy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8485ff420fd4e3a35876c6171df8a2e82a66e9918fbf332b9b2f22317eb3316"
+      },
+      "sha256": "3be1c8698e1475b9438292b6b7a10358c394387ca914e50244173c1a17dffdf2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/richy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

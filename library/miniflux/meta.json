@@ -1,0 +1,63 @@
+{
+  "collection_id": 1829,
+  "schema_version": 1,
+  "id": 2056,
+  "title": "Miniflux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "新闻资讯"
+  ],
+  "aliases": [
+    "miniflux",
+    "minimalist-rss-reader",
+    "feed-aggregator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 942,
+      "collection": "Dashboard Icons",
+      "file": "miniflux.svg",
+      "id": 3389,
+      "is_default": true,
+      "label": "miniflux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "miniflux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "132032458a533a14451d8c3a108a2fc98305e804fc4ec721831be8677bd0a8b5"
+      },
+      "sha256": "b2490eeba35e2fedf2005b6f527f1a0f2fe6759b6747a9f401559c3c1c77b909",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/miniflux.svg",
+      "version": 0
+    },
+    {
+      "bytes": 954,
+      "collection": "Dashboard Icons",
+      "file": "miniflux-1.svg",
+      "id": 3390,
+      "is_default": false,
+      "label": "miniflux-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "miniflux-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b8ecaaafebc4ed5717edaaaaaaa76461df4d9a3c0e6aaf8f80f5c570cc79b89"
+      },
+      "sha256": "6bf48108e63f87c5553d72ab5ea897f4e755b06228f9608bce537d4d68845125",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/miniflux-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 1803,
+  "schema_version": 1,
+  "id": 2030,
+  "title": "Meilisearch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Search-Engines",
+    "Databases",
+    "开发编程"
+  ],
+  "aliases": [
+    "meilisearch",
+    "open-source-search",
+    "fast-search-engine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1303,
+      "collection": "Dashboard Icons",
+      "file": "meilisearch.svg",
+      "id": 3345,
+      "is_default": true,
+      "label": "meilisearch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meilisearch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f08d5015112ceb7bf5997e6e9ccc7f7cb00fb918f2145950df59ba0d43b4339e"
+      },
+      "sha256": "573e57388d4cd280b716f95379b192a2cb695cc59325985c47dda256fca9eeb6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/meilisearch.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

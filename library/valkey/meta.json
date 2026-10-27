@@ -1,0 +1,44 @@
+{
+  "collection_id": 2891,
+  "schema_version": 1,
+  "id": 3118,
+  "title": "Valkey",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "开发编程"
+  ],
+  "aliases": [
+    "valkey",
+    "redis-compatible",
+    "in-memory-database"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 613,
+      "collection": "Dashboard Icons",
+      "file": "valkey.svg",
+      "id": 4801,
+      "is_default": true,
+      "label": "valkey",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "valkey.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40c7baff64efc4f488a23edecc6a0a11376d2ebe8e9207dcdc739883eb1890a1"
+      },
+      "sha256": "23aef29eefc88afb63e4ec794ba313b4469078e7aed05b2b01cfba28c8a5df4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/valkey.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1659,
+  "schema_version": 1,
+  "id": 1886,
+  "title": "Koreader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "koreader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3391,
+      "collection": "Dashboard Icons",
+      "file": "koreader.svg",
+      "id": 3160,
+      "is_default": true,
+      "label": "koreader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "koreader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b4221bfabf3c1981eaa0d1b35a39f9e46e1962e58ae5a51d0c759eb14d1b26eb"
+      },
+      "sha256": "b6fa5d7a9f6fda3d8054a091c5fbe954a70fc55bf231b8a009437ae14ca9210f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/koreader.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

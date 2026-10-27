@@ -1,4 +1,11 @@
 {
+  "collection_id": 601,
+  "schema_version": 1,
+  "id": 826,
+  "redirect_from": [
+    2684,
+    2685
+  ],
   "title": "Radarr",
   "url": "https://radarr.video/",
   "domains": [
@@ -16,28 +23,71 @@
     "radarr",
     "电影",
     "媒体管理",
-    "自托管"
+    "自托管",
+    "radarr-4k",
+    "Radarr 4K",
+    "radarr4k",
+    "radarr-dv",
+    "Radarr Dv"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "radarr.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "c3d07ecdfab432ca97f26cf01fe06dbfc0993b5cb6093827b3de1c7421a6fb95",
       "bytes": 778,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/radarr.svg",
+      "collection": "Dashboard Icons",
+      "file": "radarr.svg",
+      "id": 1783,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "radarr.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "c3d07ecdfab432ca97f26cf01fe06dbfc0993b5cb6093827b3de1c7421a6fb95",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/radarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1558,
+      "collection": "Dashboard Icons",
+      "file": "radarr-1.svg",
+      "id": 4247,
+      "is_default": false,
+      "label": "Radarr 4K",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "radarr-4k.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f5fbde951c33d22bfa519245f9cd2389cdead7fad4422dce4038f504f8757cb"
+      },
+      "sha256": "7a950b9c005cc59f6ddba9ad644fd0e4d574ad0f0781ad6bcc8c1115cd8415ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/radarr-4k.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1093,
+      "collection": "Dashboard Icons",
+      "file": "radarr-2.svg",
+      "id": 4248,
+      "is_default": false,
+      "label": "Radarr Dv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "radarr-dv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a7c676cbea79a9845908160fee749e4a664a630f1e9db22bcaeda8adc6fe7c64"
+      },
+      "sha256": "091907d565221f2966f1c3f10383f0945e2236d9ef7d11842a9bdb58bf9610e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/radarr-dv.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 3,
   "products": []
 }

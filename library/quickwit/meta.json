@@ -1,0 +1,44 @@
+{
+  "collection_id": 2450,
+  "schema_version": 1,
+  "id": 2677,
+  "title": "Quickwit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Search-Engines",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "quickwit",
+    "Search Engine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 847,
+      "collection": "Dashboard Icons",
+      "file": "quickwit.svg",
+      "id": 4240,
+      "is_default": true,
+      "label": "quickwit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quickwit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce23ea420cf4b9b5092367b7f829439e3966591e414ffe263e6d7aa45e89767c"
+      },
+      "sha256": "fdb5a3c7988020ccd7e5e02cdc10e4be63f28f79d20ec86b4ac13c1f2852547a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/quickwit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

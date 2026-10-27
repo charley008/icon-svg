@@ -1,0 +1,40 @@
+{
+  "collection_id": 1029,
+  "schema_version": 1,
+  "id": 1256,
+  "title": "Cosign",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cosign"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5005,
+      "collection": "Dashboard Icons",
+      "file": "cosign.svg",
+      "id": 2334,
+      "is_default": true,
+      "label": "cosign",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cosign.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6894caf6d4c251b1adbcc7b6faeed2c72d598a681189d095d0d3e1884b57a245"
+      },
+      "sha256": "3b71b72510997392f1d8ae3c64f54a26b24299c293696e9cfe995442b5c68b89",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cosign.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

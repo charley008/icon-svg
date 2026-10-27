@@ -1,0 +1,40 @@
+{
+  "collection_id": 1913,
+  "schema_version": 1,
+  "id": 2140,
+  "title": "Newsblur",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "newsblur"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3924,
+      "collection": "Dashboard Icons",
+      "file": "newsblur.svg",
+      "id": 3505,
+      "is_default": true,
+      "label": "newsblur",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "newsblur.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1d27a0071253a02a6dfa38a063556453b8d1b21e384c991a385bfd5753ac143"
+      },
+      "sha256": "aec84c35ca1dbba0a7525d16e625e0c373d81de49c30e95ab9205e3f545ce52e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/newsblur.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

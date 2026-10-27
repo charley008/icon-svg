@@ -1,0 +1,40 @@
+{
+  "collection_id": 1717,
+  "schema_version": 1,
+  "id": 1944,
+  "title": "Linuxserver Io",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "linuxserver-io"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6757,
+      "collection": "Dashboard Icons",
+      "file": "linuxserver-io.svg",
+      "id": 3241,
+      "is_default": true,
+      "label": "linuxserver-io",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linuxserver-io.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "286dfac52e8fb6e7e6673ea86a698c8974dd753d446fdb549b206cb684757dd9"
+      },
+      "sha256": "0e503a6db91ae859bebd3b2686e0af113912e18130193257f5ccc56b22a3adaa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linuxserver-io.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

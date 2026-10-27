@@ -1,0 +1,44 @@
+{
+  "collection_id": 1254,
+  "schema_version": 1,
+  "id": 1481,
+  "title": "Ferretdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "开发编程"
+  ],
+  "aliases": [
+    "ferretdb",
+    "mongodb-alternative",
+    "document-database"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1908,
+      "collection": "Dashboard Icons",
+      "file": "ferretdb.svg",
+      "id": 2636,
+      "is_default": true,
+      "label": "ferretdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ferretdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "674a38aca32298dfa609b65cf8130da18c3bcd7b303edbb78a8d02d34f1591e8"
+      },
+      "sha256": "eef0a6533f0dd61d509df37a118d79c45be9c8e10ec084c7b6831cf0a387945e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ferretdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

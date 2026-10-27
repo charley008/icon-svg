@@ -1,0 +1,40 @@
+{
+  "collection_id": 1956,
+  "schema_version": 1,
+  "id": 2183,
+  "title": "Nordvpn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nordvpn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 338,
+      "collection": "Dashboard Icons",
+      "file": "nordvpn.svg",
+      "id": 3559,
+      "is_default": true,
+      "label": "nordvpn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nordvpn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77548d4543437429217f34d9a7506e279cba920f376c5ee9ae84693c35c0aa24"
+      },
+      "sha256": "c1871d2369322ac7c626e4c84d0f80b85e97448ac001e0a8f3222a7e05c554aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nordvpn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

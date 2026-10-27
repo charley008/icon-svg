@@ -1,0 +1,40 @@
+{
+  "collection_id": 1763,
+  "schema_version": 1,
+  "id": 1990,
+  "title": "Mailfence",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mailfence"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 951,
+      "collection": "Dashboard Icons",
+      "file": "mailfence.svg",
+      "id": 3295,
+      "is_default": true,
+      "label": "mailfence",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailfence.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "08274bf7e5f2dffb230408fc8188ad2362e2e1f31f0c994a4e7b81e9d7729e90"
+      },
+      "sha256": "e8a8de5d2aa8bfa35022120d73b30538b2de1ebe804ca02a40645938cdb67d4c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailfence.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

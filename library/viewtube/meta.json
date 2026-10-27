@@ -1,0 +1,44 @@
+{
+  "collection_id": 2911,
+  "schema_version": 1,
+  "id": 3138,
+  "title": "Viewtube",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "viewtube",
+    "youtube-alternative",
+    "privacy-youtube"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27096,
+      "collection": "Dashboard Icons",
+      "file": "viewtube.svg",
+      "id": 4831,
+      "is_default": true,
+      "label": "viewtube",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viewtube.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "578655ca99e8090b28e5b29e50e6d9d8eb91faeecefb171a9c9fe3b1b35e9021"
+      },
+      "sha256": "6484e4babdf34effe176fe149130ab6e7d3ad4c75d8107891004d1818b69b6a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/viewtube.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

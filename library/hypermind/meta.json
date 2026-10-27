@@ -1,0 +1,40 @@
+{
+  "collection_id": 1510,
+  "schema_version": 1,
+  "id": 1737,
+  "title": "Hypermind",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hypermind"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3483,
+      "collection": "Dashboard Icons",
+      "file": "hypermind.svg",
+      "id": 2974,
+      "is_default": true,
+      "label": "hypermind",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hypermind.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "833bc0e9ab99d128e7278f4006d6e6c47a8246aba58c6f009dc1692167f7340b"
+      },
+      "sha256": "11b9dfb3cdbe76e04fc67e1ca07face345524a373b9e1ee686dd30f06f5d2292",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hypermind.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1819,
+  "schema_version": 1,
+  "id": 2046,
+  "title": "Micro Off",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "micro-off"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2928,
+      "collection": "Dashboard Icons",
+      "file": "micro-off.svg",
+      "id": 3367,
+      "is_default": true,
+      "label": "micro-off",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "micro-off.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f9cc83ade1c92807d953ceb474f33be1d05b5b0fd3d1f4818ac9ba06b874c592"
+      },
+      "sha256": "ebfb56856a36f3303106600ae78f7cfce78514363dc5b5dc8d216e652ff47582",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/micro-off.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

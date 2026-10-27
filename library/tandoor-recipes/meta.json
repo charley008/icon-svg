@@ -1,0 +1,43 @@
+{
+  "collection_id": 2744,
+  "schema_version": 1,
+  "id": 2971,
+  "title": "Tandoor Recipes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "tandoor-recipes",
+    "Recipe Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4328,
+      "collection": "Dashboard Icons",
+      "file": "tandoor-recipes.svg",
+      "id": 4616,
+      "is_default": true,
+      "label": "tandoor-recipes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tandoor-recipes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be1f28ba467da541bc52804dba22bd0a1346176ae70618ff896ac1b96869c14e"
+      },
+      "sha256": "b34e7b42b291e0aef11b39c79578866b14253e266b4d95153bea2e011cf968e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tandoor-recipes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

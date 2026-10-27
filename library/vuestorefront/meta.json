@@ -1,0 +1,46 @@
+{
+  "collection_id": 3257,
+  "schema_version": 1,
+  "id": 3522,
+  "title": "Vue Storefront",
+  "url": "https://vuestorefront.io",
+  "domains": [
+    "vuestorefront.io"
+  ],
+  "description": "用于电子商务应用的前端开发平台。",
+  "category": "电商购物",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Vue Storefront",
+    "vuestorefront",
+    "Vue-Storefront"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1519,
+      "collection": "TechIcons / Devicon",
+      "file": "vuestorefront-1.svg",
+      "id": 5398,
+      "is_default": true,
+      "label": "TechIcons · Vue Storefront",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Vue-Storefront.svg",
+        "original_sha256": "3876f2d5d6e1fc8ab477b4bd1329742432e37faa4b4e9d7b0c4e0d0d62fc2d25",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/vuestorefront",
+        "reference_website": "https://vuestorefront.io"
+      },
+      "sha256": "d9c0d84390c24e2e07493e77d7e8a61ee9676884aab18c8e9718025400307e80",
+      "source": "https://techicons.dev/icons/vuestorefront",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,64 @@
+{
+  "collection_id": 2797,
+  "schema_version": 1,
+  "id": 3024,
+  "redirect_from": [
+    3025
+  ],
+  "title": "Thread",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thread",
+    "thread-wordmark-dark",
+    "Thread Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 924,
+      "collection": "Dashboard Icons",
+      "file": "thread.svg",
+      "id": 4679,
+      "is_default": true,
+      "label": "thread",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thread.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d3482064f732e41f53833f25efddb0dc90b191289d635205110b429b90dc3a97"
+      },
+      "sha256": "6d1a2234b6ac6c9be1bb9d996b098a9bc6270f3ddfb9e1d737b7a50ec0544fc2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thread.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3446,
+      "collection": "Dashboard Icons",
+      "file": "thread-1.svg",
+      "id": 4680,
+      "is_default": false,
+      "label": "thread-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thread-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc0becee12ffd8a74c828183b9a363cf55fc5c7221ec6f534f29a591c5b640f8"
+      },
+      "sha256": "cff031b7b95982acc22b1d5e922933eb686a9990af8409590553507cf8c0cc8e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thread-wordmark-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

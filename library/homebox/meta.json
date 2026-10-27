@@ -1,0 +1,40 @@
+{
+  "collection_id": 1486,
+  "schema_version": 1,
+  "id": 1713,
+  "title": "Homebox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "homebox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2804,
+      "collection": "Dashboard Icons",
+      "file": "homebox.svg",
+      "id": 2947,
+      "is_default": true,
+      "label": "homebox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homebox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a1b9e2fc2368d433c5e7f79dae29986aa8927cb171731dfc3c16258742ca824"
+      },
+      "sha256": "25fbc276949a80f7e95b74c5cabc300a751eff5e9a68a83e64cfa1fbb952bb66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homebox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

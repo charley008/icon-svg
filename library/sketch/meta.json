@@ -1,0 +1,45 @@
+{
+  "collection_id": 3233,
+  "schema_version": 1,
+  "id": 3496,
+  "title": "Sketch",
+  "url": "https://www.sketch.com",
+  "domains": [
+    "sketch.com"
+  ],
+  "description": "用于界面与图形设计的软件。",
+  "category": "设计素材",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Sketch",
+    "sketch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 667,
+      "collection": "TechIcons / Devicon",
+      "file": "sketch-1.svg",
+      "id": 5359,
+      "is_default": true,
+      "label": "TechIcons · Sketch",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Sketch.svg",
+        "original_sha256": "2a862f8c907afe4cfe0da16d057137e6cbbbf1e694726f9d7939d1fd47de216b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sketch",
+        "reference_website": "https://www.sketch.com"
+      },
+      "sha256": "db13b081d953b028183633c4a1f3fbe658b822e8c42439d4564ce7b85994fb9e",
+      "source": "https://techicons.dev/icons/sketch",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

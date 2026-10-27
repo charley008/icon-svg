@@ -1,0 +1,59 @@
+{
+  "collection_id": 2025,
+  "schema_version": 1,
+  "id": 2252,
+  "title": "Openbao",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openbao"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 26293,
+      "collection": "Dashboard Icons",
+      "file": "openbao.svg",
+      "id": 3659,
+      "is_default": true,
+      "label": "openbao",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openbao.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2975871f98671f7cedd071b17e4f4e1a24d9e2bc855bf7f4d7a47e91a5c5cc80"
+      },
+      "sha256": "1d7d70280f97792df373d4d3e97ee260f9c369c685715788012a8ddd132aba03",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openbao.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9302,
+      "collection": "Dashboard Icons",
+      "file": "openbao-1.svg",
+      "id": 3660,
+      "is_default": false,
+      "label": "openbao-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openbao-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd81e2aeafc952fd072e4791b0f9e2bc665de21a34f9d8dc5d6fc5db3a3551cd"
+      },
+      "sha256": "18cdaa8c006f935dcc5ad6edb4ed921dd88aa4d7be3deddaa07fc62c6f1fbc92",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openbao-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

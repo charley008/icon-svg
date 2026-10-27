@@ -1,0 +1,86 @@
+{
+  "collection_id": 1434,
+  "schema_version": 1,
+  "id": 1661,
+  "redirect_from": [
+    1662,
+    1663
+  ],
+  "title": "Haiku",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "haiku",
+    "haiku-wordmark-light",
+    "Haiku Wordmark Light",
+    "haiku-wordmark-dark",
+    "Haiku Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4136,
+      "collection": "Dashboard Icons",
+      "file": "haiku.svg",
+      "id": 2869,
+      "is_default": true,
+      "label": "haiku",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haiku.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bfc8068db47f3994a1d0b34d4932bba86e51f197d005d4d883b33e0ed81d231a"
+      },
+      "sha256": "38a3808ed1506c6d31f10cdfee753e0bc25fb1355bdc53fad6524b2f83273747",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haiku.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5662,
+      "collection": "Dashboard Icons",
+      "file": "haiku-1.svg",
+      "id": 2871,
+      "is_default": false,
+      "label": "haiku-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haiku-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4951e4df1caccc92c7c425cb8693fb5b07af27134e69b55a98a4fc28940d0c3"
+      },
+      "sha256": "3dc66defac8b936729584513847c97302e693c2045943aa26d01a6096bbb8047",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haiku-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5788,
+      "collection": "Dashboard Icons",
+      "file": "haiku-2.svg",
+      "id": 2870,
+      "is_default": false,
+      "label": "haiku-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haiku-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "43f50b495bb7a47a0ac0829d0d5fbef9b62c37d35c07880ef0a9cf97f9404ccd"
+      },
+      "sha256": "5686ebb46f49c8b8216518ee21a6c2b6e534b26d7109ceac7f09cf1f59cb4905",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haiku-wordmark-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

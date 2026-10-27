@@ -1,0 +1,40 @@
+{
+  "collection_id": 2234,
+  "schema_version": 1,
+  "id": 2461,
+  "title": "Pufferpanel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pufferpanel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 25946,
+      "collection": "Dashboard Icons",
+      "file": "pufferpanel.svg",
+      "id": 3958,
+      "is_default": true,
+      "label": "pufferpanel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pufferpanel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "87fd695be8298b9222e086d29756d3724a1ab28292849337b2228e508bc74418"
+      },
+      "sha256": "4a447f5a477af5f9998ca26abe6c1d9df025b07789718e76748cd132f7d4fb59",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pufferpanel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2043,
+  "schema_version": 1,
+  "id": 2270,
+  "title": "Opensearch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "opensearch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 870,
+      "collection": "Dashboard Icons",
+      "file": "opensearch.svg",
+      "id": 3689,
+      "is_default": true,
+      "label": "opensearch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opensearch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cab662b3624a8569772d67bbc33fe44c0ce86856858e343bdd4a2a1c0c0abd7"
+      },
+      "sha256": "6c5baa7d02b061f8df90291871a46a4040bd7fa021e4333df18381ee97c40b7a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opensearch.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

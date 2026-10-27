@@ -1,0 +1,40 @@
+{
+  "collection_id": 1041,
+  "schema_version": 1,
+  "id": 1268,
+  "title": "Crosswatch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "crosswatch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 953,
+      "collection": "Dashboard Icons",
+      "file": "crosswatch.svg",
+      "id": 2348,
+      "is_default": true,
+      "label": "crosswatch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crosswatch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85f6303784d72b48e8c7c1d0dfa5b39457fc88e03e4c0edc8c0c20790a7816f5"
+      },
+      "sha256": "63f17bf96da19b729025b8101c12ed6514e977498613ef3c2c53b068941a881d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crosswatch.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

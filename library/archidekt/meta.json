@@ -1,0 +1,42 @@
+{
+  "collection_id": 745,
+  "schema_version": 1,
+  "id": 972,
+  "title": "Archidekt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "archidekt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4368,
+      "collection": "Dashboard Icons",
+      "file": "archidekt.svg",
+      "id": 1961,
+      "is_default": true,
+      "label": "archidekt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "archidekt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c0bfd1dc61702c24985bf3abdbf31f13b2a3d9585c3c9b21b1ef63a169c1d279"
+      },
+      "sha256": "469c072f83f38780cf46d8262d61e9293566d02fd84c1b20d2b55d199d7de89a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/archidekt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,61 @@
+{
+  "collection_id": 2836,
+  "schema_version": 1,
+  "id": 3063,
+  "title": "Trellix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "trellix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1901,
+      "collection": "Dashboard Icons",
+      "file": "trellix.svg",
+      "id": 4729,
+      "is_default": true,
+      "label": "trellix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trellix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a1ca7150e42ac06f99537acc97f59df3d092e2fce395e45bc35f59ee641d4ab4"
+      },
+      "sha256": "eaebd8b28d8e1e0d20527ce9def4c599ecabfc9d51cbf104b3784a0af7107cb6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trellix.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1898,
+      "collection": "Dashboard Icons",
+      "file": "trellix-1.svg",
+      "id": 4730,
+      "is_default": false,
+      "label": "trellix-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trellix-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3097d847a857e527f5c55bf10db55e7e2091386cb8c14bb5b8b4b5aed0c7650b"
+      },
+      "sha256": "bac549263e229cc6525b116bcd13a16083d021c370e75b46e7a37e9be63f9f06",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trellix-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

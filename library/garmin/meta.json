@@ -1,0 +1,40 @@
+{
+  "collection_id": 1351,
+  "schema_version": 1,
+  "id": 1578,
+  "title": "Garmin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "garmin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 497,
+      "collection": "Dashboard Icons",
+      "file": "garmin.svg",
+      "id": 2749,
+      "is_default": true,
+      "label": "garmin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "garmin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ee32dfd8b2f7df13566a3cab231c3814cc92a1dacf0d1ddb63976f3fd2221dc"
+      },
+      "sha256": "27bdf626ad7b883f51b33a85807583dd06d49c4f6c2a19598264db15e95fa4df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/garmin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

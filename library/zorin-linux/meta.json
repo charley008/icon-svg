@@ -1,0 +1,44 @@
+{
+  "collection_id": 3064,
+  "schema_version": 1,
+  "id": 3291,
+  "title": "Zorin Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "zorin-linux",
+    "zorin-os",
+    "zorin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 557,
+      "collection": "Dashboard Icons",
+      "file": "zorin-linux.svg",
+      "id": 5030,
+      "is_default": true,
+      "label": "zorin-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zorin-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "602b9d91b3339fa48400b848078b6515288f578faa770fd5051af29104f195a1"
+      },
+      "sha256": "95474a01ba941f6473b13ae6dc497546886273fe20794b5b2652880c2def4958",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zorin-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

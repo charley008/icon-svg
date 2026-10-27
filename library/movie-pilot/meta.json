@@ -1,0 +1,41 @@
+{
+  "collection_id": 1863,
+  "schema_version": 1,
+  "id": 2090,
+  "title": "Movie Pilot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "movie-pilot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10332,
+      "collection": "Dashboard Icons",
+      "file": "movie-pilot.svg",
+      "id": 3438,
+      "is_default": true,
+      "label": "movie-pilot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "movie-pilot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "199cb6b188f88595bba7e3e79d057fd32fe871a1b5bc29414807711e7dc7d267"
+      },
+      "sha256": "0e2b4479b0561f11666daa18039e4f25e0aeeec28c0bc06a2c380ecee16312ed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/movie-pilot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

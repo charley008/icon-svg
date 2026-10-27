@@ -1,0 +1,40 @@
+{
+  "collection_id": 2573,
+  "schema_version": 1,
+  "id": 2800,
+  "title": "Seerr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "seerr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1845,
+      "collection": "Dashboard Icons",
+      "file": "seerr.svg",
+      "id": 4396,
+      "is_default": true,
+      "label": "seerr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "seerr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6177afd497bc02b65acb4ffd180290b0a1cd2da37cdfff40f441fa9ad594e7ac"
+      },
+      "sha256": "86bc0ac2df2849e7955dece60d9e4e3f07874f57f4e00a24b5e7c045e5366f60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/seerr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

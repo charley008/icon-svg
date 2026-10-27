@@ -1,0 +1,41 @@
+{
+  "collection_id": 1883,
+  "schema_version": 1,
+  "id": 2110,
+  "title": "Mympd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "mympd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 543,
+      "collection": "Dashboard Icons",
+      "file": "mympd.svg",
+      "id": 3462,
+      "is_default": true,
+      "label": "mympd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mympd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7afb27567f750d7ffa1bdc31bc18111f3d336c1aa667fd760f9031c432bdf9a2"
+      },
+      "sha256": "4f86597204509072ae341ed0525f77f4d97f858b2dc765f7fc6fe64003e6f3fe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mympd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -42,8 +42,27 @@
       "sha256": "55dd12571caf164b639679093c0887a42b16aeebc9b882909c711f6de44fdf56",
       "source": "用户优选",
       "version": 0
+    },
+    {
+      "bytes": 386,
+      "collection": "Dashboard Icons",
+      "file": "emby-1.svg",
+      "id": 2552,
+      "is_default": false,
+      "label": "emby",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emby.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f449dcbb77831d962953203e699b69cb5a5636c9803b2e8e1437f6224740a19"
+      },
+      "sha256": "47b7461300d1196537789c9f757b0859b065df1c5d267791027ba9a1b2ac0131",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emby.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

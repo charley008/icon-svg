@@ -1,0 +1,40 @@
+{
+  "collection_id": 1268,
+  "schema_version": 1,
+  "id": 1495,
+  "title": "Filescom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "filescom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1301,
+      "collection": "Dashboard Icons",
+      "file": "filescom.svg",
+      "id": 2652,
+      "is_default": true,
+      "label": "filescom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filescom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b2a3ad771b3c87a2ed9711f4d1bb8d529f759bf0e43983a377eca48ff3acf071"
+      },
+      "sha256": "d6a6793ba3e882c4f8a0a10a586669e834dd1bb06f87c5a86139185b138c43ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filescom.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

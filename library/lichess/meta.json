@@ -1,0 +1,61 @@
+{
+  "collection_id": 1702,
+  "schema_version": 1,
+  "id": 1929,
+  "title": "Lichess",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "lichess"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2617,
+      "collection": "Dashboard Icons",
+      "file": "lichess.svg",
+      "id": 3220,
+      "is_default": true,
+      "label": "lichess",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lichess.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c688baf75b3bb5787d1a6b58ca8e84c7dd1ef590ea7301a4b1683141be2501c6"
+      },
+      "sha256": "ea3fcc6fb536f04d05c9e0486f8e2461088870a54dee500065a4f5e7fb82f4ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lichess.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2617,
+      "collection": "Dashboard Icons",
+      "file": "lichess-1.svg",
+      "id": 3221,
+      "is_default": false,
+      "label": "lichess-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lichess-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "502711d5e72034e1a3ed2b61745b9bbf66738f11ac426cadae30c989708aa2dd"
+      },
+      "sha256": "0efe49c9e7edc87205042d6f79b92a65a1ec8766efcfa43cd27c5f4006ebe03d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lichess-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

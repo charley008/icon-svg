@@ -1,0 +1,109 @@
+{
+  "collection_id": 2827,
+  "schema_version": 1,
+  "id": 3054,
+  "title": "Traefik",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "网络工具"
+  ],
+  "aliases": [
+    "traefik",
+    "Reverse Proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2228,
+      "collection": "Dashboard Icons",
+      "file": "traefik.svg",
+      "id": 4720,
+      "is_default": true,
+      "label": "traefik",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "traefik.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c5f633eb532e02147a12f0e8971222129f52a19d7f29d5354fdbef4a00ed0c7"
+      },
+      "sha256": "9fca0f789bc211a00d927fb70bd4988b6ce39321856328b283569bd1df6f03b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/traefik.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1451,
+      "collection": "TechIcons / Devicon",
+      "file": "traefik-1.svg",
+      "id": 5383,
+      "is_default": false,
+      "label": "TechIcons · Traefik Proxy",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Traefik-Proxy.svg",
+        "original_sha256": "b102713a2c312bfeadc349bb1132fc73364bd20597392905da79545eabc06f22",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/traefikproxy",
+        "reference_website": "https://traefik.io/traefik"
+      },
+      "sha256": "459a6020da272351e7d52da7f32ce5f8851af5ce2d6d80fb66dedfc2cef6c1c8",
+      "source": "https://techicons.dev/icons/traefikproxy",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 3514,
+      "key": "mesh",
+      "title": "Traefik Mesh",
+      "url": "https://traefik.io/traefik-mesh",
+      "domains": [
+        "traefik.io"
+      ],
+      "description": "面向服务通信管理的服务网格工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Traefik Mesh",
+        "traefikmesh",
+        "Traefik-Mesh"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1372,
+          "collection": "TechIcons / Devicon",
+          "file": "traefik-mesh-1.svg",
+          "id": 5384,
+          "is_default": true,
+          "label": "TechIcons · Traefik Mesh",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Traefik-Mesh.svg",
+            "original_sha256": "f926ba8a6f8f82701b321b756eec340470e49424e37f3d96df131b9923168ec5",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/traefikmesh",
+            "reference_website": "https://traefik.io/traefik-mesh"
+          },
+          "sha256": "47b3534ea468bab3c3e87a076713fe793c90cbb40c044b2e5b7c0c0edebc8dc0",
+          "source": "https://techicons.dev/icons/traefikmesh",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

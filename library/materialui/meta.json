@@ -1,0 +1,46 @@
+{
+  "collection_id": 3170,
+  "schema_version": 1,
+  "id": 3427,
+  "title": "Material UI",
+  "url": "https://mui.com",
+  "domains": [
+    "mui.com"
+  ],
+  "description": "基于 React 的界面组件库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Material UI",
+    "materialui",
+    "Material-UI"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 443,
+      "collection": "TechIcons / Devicon",
+      "file": "materialui-1.svg",
+      "id": 5257,
+      "is_default": true,
+      "label": "TechIcons · Material UI",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Material-UI.svg",
+        "original_sha256": "6480f23a1e32cf36801e7e771f4f68d6c5f3b2f1c9cb636b9ac6c25c58779f18",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/materialui",
+        "reference_website": "https://mui.com"
+      },
+      "sha256": "ea9e663875f1e05d39620c73b2ec8f391882fe47d950cabc3fa9277fe61a3c47",
+      "source": "https://techicons.dev/icons/materialui",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

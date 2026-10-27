@@ -1,0 +1,43 @@
+{
+  "collection_id": 2830,
+  "schema_version": 1,
+  "id": 3057,
+  "title": "Traggo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "traggo",
+    "Activity Tracking"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 43449,
+      "collection": "Dashboard Icons",
+      "file": "traggo.svg",
+      "id": 4723,
+      "is_default": true,
+      "label": "traggo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "traggo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "91a3b27636fa793a97015521724ac9e7753ba92a7444f9a6719b0238c128c041"
+      },
+      "sha256": "ee1d103bbebb5f918bbd129ab25e3bf29eaaac73861941bb6e0233d714927480",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/traggo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

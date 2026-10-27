@@ -1,0 +1,40 @@
+{
+  "collection_id": 2615,
+  "schema_version": 1,
+  "id": 2842,
+  "title": "Signaturepdf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "signaturepdf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4230,
+      "collection": "Dashboard Icons",
+      "file": "signaturepdf.svg",
+      "id": 4452,
+      "is_default": true,
+      "label": "signaturepdf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signaturepdf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b7f043dff777308a446070f3b2950482d7e046555865a0568ef4133a906017fa"
+      },
+      "sha256": "6499ce01b561af398526863b21b8085cdcac3cca08b2fa11314787f7ea784239",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/signaturepdf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

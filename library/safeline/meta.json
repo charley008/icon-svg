@@ -1,0 +1,42 @@
+{
+  "collection_id": 2543,
+  "schema_version": 1,
+  "id": 2770,
+  "title": "Safeline",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "safeline"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6271,
+      "collection": "Dashboard Icons",
+      "file": "safeline.svg",
+      "id": 4358,
+      "is_default": true,
+      "label": "safeline",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "safeline.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9367d329be617ff0a65c36c0a23b036a010f22f9819056e7bd825f05cafd9443"
+      },
+      "sha256": "dad7421c4e62b3dccde965435e1f739cd22100d418bdcc6a1c72d1b478ab6ea2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/safeline.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

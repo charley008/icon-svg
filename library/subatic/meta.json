@@ -1,0 +1,40 @@
+{
+  "collection_id": 2712,
+  "schema_version": 1,
+  "id": 2939,
+  "title": "Subatic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "subatic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1536,
+      "collection": "Dashboard Icons",
+      "file": "subatic.svg",
+      "id": 4574,
+      "is_default": true,
+      "label": "subatic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "subatic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ea75304ac81d144fcf46ff3655ab444f27167ce4ea9006569aaef373f5b52f3"
+      },
+      "sha256": "f33623a7892697498bb20dbd5ac587ce166fff844a552060bd9f92e2ca25d89e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/subatic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

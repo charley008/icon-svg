@@ -1,0 +1,45 @@
+{
+  "collection_id": 1460,
+  "schema_version": 1,
+  "id": 1687,
+  "title": "Hedgedoc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Note-taking-Apps",
+    "办公效率"
+  ],
+  "aliases": [
+    "hedgedoc",
+    "online-markdown-editor",
+    "realtime-markdown"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2088,
+      "collection": "Dashboard Icons",
+      "file": "hedgedoc.svg",
+      "id": 2908,
+      "is_default": true,
+      "label": "hedgedoc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hedgedoc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68d63299352beb7b44e0c9996ad3761762a981220d66ddd3e0044dd2118a7d4b"
+      },
+      "sha256": "8d1d60724308eb80d962bb8d5cb0aedfd7208241425dc5d5f8040e30b9696b8c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hedgedoc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

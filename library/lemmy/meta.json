@@ -1,0 +1,59 @@
+{
+  "collection_id": 1684,
+  "schema_version": 1,
+  "id": 1911,
+  "title": "Lemmy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lemmy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2600,
+      "collection": "Dashboard Icons",
+      "file": "lemmy.svg",
+      "id": 3192,
+      "is_default": true,
+      "label": "lemmy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lemmy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "577487ae28dc6f01b956c33ba7671d8a101930aad4cffaf4faedaa141c2d6c4b"
+      },
+      "sha256": "4dfbb95ee663c4985e59253afd901cb3f2106ed7209ab9cc1bc93c8bc53f6108",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lemmy.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2546,
+      "collection": "Dashboard Icons",
+      "file": "lemmy-1.svg",
+      "id": 3193,
+      "is_default": false,
+      "label": "lemmy-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lemmy-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ccefdfd7a980c8df27f1f37fbf768c527d05e73b744aa4c792f212abfcc40f7"
+      },
+      "sha256": "f32739f2a649a210ca3b75a440bd906c16db05d3c3f32a6f17b1bcaddd363aae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lemmy-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

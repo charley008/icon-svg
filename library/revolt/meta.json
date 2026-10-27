@@ -1,0 +1,63 @@
+{
+  "collection_id": 2504,
+  "schema_version": 1,
+  "id": 2731,
+  "title": "Revolt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Communication"
+  ],
+  "aliases": [
+    "revolt",
+    "discord-alternative",
+    "voice-chat-app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 582,
+      "collection": "Dashboard Icons",
+      "file": "revolt.svg",
+      "id": 4305,
+      "is_default": true,
+      "label": "revolt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "revolt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ad59d6c392447caadaa3ed02f5f997b31734c1203639217655f738618d82250"
+      },
+      "sha256": "9d4a9e1ed3f3b88fe1bf5fc0e176913bce3dd93a5040e151036fa049a63b37a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/revolt.svg",
+      "version": 0
+    },
+    {
+      "bytes": 579,
+      "collection": "Dashboard Icons",
+      "file": "revolt-1.svg",
+      "id": 4306,
+      "is_default": false,
+      "label": "revolt-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "revolt-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "704ea31ff16d226c9c2f51fd28c30fc969392b3220d7bf31b07983aac428839e"
+      },
+      "sha256": "2fbd05fc87d4f242a2a8b965a15a0cda61a7b805ff41df1406ff74f87bed069c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/revolt-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

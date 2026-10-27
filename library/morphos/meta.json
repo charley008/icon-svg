@@ -1,0 +1,43 @@
+{
+  "collection_id": 1857,
+  "schema_version": 1,
+  "id": 2084,
+  "title": "Morphos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "系统工具"
+  ],
+  "aliases": [
+    "morphos",
+    "Operating System"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12929,
+      "collection": "Dashboard Icons",
+      "file": "morphos.svg",
+      "id": 3430,
+      "is_default": true,
+      "label": "morphos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "morphos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3de3f12088861c73927fd0ab39a20ad50d141bb330282e328360fee58174e1b6"
+      },
+      "sha256": "2e7cf3f057a4d0491d16c92d6b88a4f9dff4ce4d70206f86a8d64b21edccb729",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/morphos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

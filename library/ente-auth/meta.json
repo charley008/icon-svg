@@ -1,0 +1,42 @@
+{
+  "collection_id": 1207,
+  "schema_version": 1,
+  "id": 1434,
+  "title": "Ente Auth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "ente-auth"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9879,
+      "collection": "Dashboard Icons",
+      "file": "ente-auth.svg",
+      "id": 2572,
+      "is_default": true,
+      "label": "ente-auth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ente-auth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "429db4cd2f14ecd123ab4d0b940a3e7bd9f870140b75be285bbd9e8756b2d42d"
+      },
+      "sha256": "f9bc6cfc1d0a49d0fc15ce23d0033907bd8309367d57e2c6cc088e4bbe8ccd67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ente-auth.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

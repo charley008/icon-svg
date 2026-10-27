@@ -1,0 +1,105 @@
+{
+  "collection_id": 1674,
+  "schema_version": 1,
+  "id": 1901,
+  "redirect_from": [
+    1902,
+    1903
+  ],
+  "title": "Lancom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lancom",
+    "lancom-wordmark-light",
+    "Lancom Wordmark Light",
+    "lancom-wordmark-dark",
+    "Lancom Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 332,
+      "collection": "Dashboard Icons",
+      "file": "lancom.svg",
+      "id": 3176,
+      "is_default": true,
+      "label": "lancom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8f3e1c21d3c6c490509be49e8244900684159aa506658c39a1142b5e1a2e3e2f"
+      },
+      "sha256": "d1520aece69e9ad57f3f7413583d1fd7796302ac22fba5d6b4c4f87960ba1c48",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancom.svg",
+      "version": 0
+    },
+    {
+      "bytes": 329,
+      "collection": "Dashboard Icons",
+      "file": "lancom-1.svg",
+      "id": 3177,
+      "is_default": false,
+      "label": "lancom-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancom-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6a7f1803bca3220124801e6a24d4c03dbbb0f724d07f3b654d3ea83a8c31540c"
+      },
+      "sha256": "b90f859a56e544336cd7b00797a4bec45d4fff0b8f10a03f3ddefd5a54cad8ec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancom-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4063,
+      "collection": "Dashboard Icons",
+      "file": "lancom-2.svg",
+      "id": 3179,
+      "is_default": false,
+      "label": "lancom-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancom-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc4f311509459d3631429756e0c4ccbeab2e6991478b5abdf74a898b4e0beded"
+      },
+      "sha256": "7681b04235513505b3b8c1b0dc57c413573448b2c3682cd29380306e68676dc0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancom-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4115,
+      "collection": "Dashboard Icons",
+      "file": "lancom-3.svg",
+      "id": 3178,
+      "is_default": false,
+      "label": "lancom-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancom-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd488cda32a676f925ca921a4befe03653bc0229d02f4bbc850ac226908561b5"
+      },
+      "sha256": "162788a4ef90ece3fb748cea7a863fd5283170fe2ecc0787c5f2a36009aba5ef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancom-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

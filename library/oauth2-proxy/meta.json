@@ -1,0 +1,44 @@
+{
+  "collection_id": 1982,
+  "schema_version": 1,
+  "id": 2209,
+  "title": "Oauth2 Proxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Networking-Tools",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "oauth2-proxy",
+    "Authentication Proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1220,
+      "collection": "Dashboard Icons",
+      "file": "oauth2-proxy.svg",
+      "id": 3594,
+      "is_default": true,
+      "label": "oauth2-proxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oauth2-proxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d967453f8c54cc529512b973a224a94f3a6c865c67f60c5d2044bbb416d53c7"
+      },
+      "sha256": "baae430c2d712b4017599b0ea5210fa1b880e16e63384af46f3903229733b1c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oauth2-proxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

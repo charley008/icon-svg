@@ -1,0 +1,40 @@
+{
+  "collection_id": 1711,
+  "schema_version": 1,
+  "id": 1938,
+  "title": "Linkace",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "linkace"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 879,
+      "collection": "Dashboard Icons",
+      "file": "linkace.svg",
+      "id": 3232,
+      "is_default": true,
+      "label": "linkace",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linkace.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "26538de0bf8834d949ec0fb8f487a9feef01515cdc3f613cfb0701418ee539f9"
+      },
+      "sha256": "c24aed489c491e222a60d05cc2aed7391e3b0b64ecff93b1b3c9cb910e7f87e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linkace.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

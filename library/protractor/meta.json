@@ -1,0 +1,46 @@
+{
+  "collection_id": 3209,
+  "schema_version": 1,
+  "id": 3472,
+  "title": "Protractor Test",
+  "url": "https://www.protractortest.org",
+  "domains": [
+    "protractortest.org"
+  ],
+  "description": "用于 Web 应用的端到端测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Protractor Test",
+    "protractor",
+    "Protractor-Test"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 593,
+      "collection": "TechIcons / Devicon",
+      "file": "protractor-1.svg",
+      "id": 5324,
+      "is_default": true,
+      "label": "TechIcons · Protractor Test",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Protractor-Test.svg",
+        "original_sha256": "c9c83d8078d687415ccda44993167a14e78ec820a3363b6cca5396789e63a138",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/protractor",
+        "reference_website": "https://www.protractortest.org"
+      },
+      "sha256": "06e0b888adbd9e46bcdc643f203519079ed132676ebb1c7f306e4617660f182b",
+      "source": "https://techicons.dev/icons/protractor",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

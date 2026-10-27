@@ -1,0 +1,41 @@
+{
+  "collection_id": 1373,
+  "schema_version": 1,
+  "id": 1600,
+  "title": "Glitchtip",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "glitchtip"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2046,
+      "collection": "Dashboard Icons",
+      "file": "glitchtip.svg",
+      "id": 2779,
+      "is_default": true,
+      "label": "glitchtip",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glitchtip.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd0f4132d67878cce1c8b9fb52621052898e58500b00f35d3ae7ed664109484c"
+      },
+      "sha256": "29b1ff1091abf736ed5ad2df44f5e4b20c1ecbc3747798c14efa557911177b62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glitchtip.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

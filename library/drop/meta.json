@@ -1,0 +1,41 @@
+{
+  "collection_id": 1158,
+  "schema_version": 1,
+  "id": 1385,
+  "title": "Drop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "drop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 456,
+      "collection": "Dashboard Icons",
+      "file": "drop.svg",
+      "id": 2504,
+      "is_default": true,
+      "label": "drop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "drop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb6cb5462859998a7dd0c1de338326c833e7a0df1e74f8eb75a5dfd13ca0d5b4"
+      },
+      "sha256": "e4594c853aafa21f4639bfa2db08d5d06d4ccf5bfe3086448d071865d4705b97",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/drop.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

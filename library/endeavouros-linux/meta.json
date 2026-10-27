@@ -1,0 +1,43 @@
+{
+  "collection_id": 1202,
+  "schema_version": 1,
+  "id": 1429,
+  "title": "Endeavouros Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "endeavouros-linux",
+    "endeavouros"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1422,
+      "collection": "Dashboard Icons",
+      "file": "endeavouros-linux.svg",
+      "id": 2565,
+      "is_default": true,
+      "label": "endeavouros-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "endeavouros-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f3670514260f9dc8bc47628fffe22f355ec070ec7687d91b21586f121bcf3175"
+      },
+      "sha256": "ee77371c9daea3286943040cc2284d168b315d2a35d9b588e597450d900a3398",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/endeavouros-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 2072,
+  "schema_version": 1,
+  "id": 2299,
+  "title": "Owntone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Home-Automation"
+  ],
+  "aliases": [
+    "owntone",
+    "airplay-receiver",
+    "audio-streaming-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1717,
+      "collection": "Dashboard Icons",
+      "file": "owntone.svg",
+      "id": 3727,
+      "is_default": true,
+      "label": "owntone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "owntone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2e0c61e74d078c98eedd31048178c1e787561d906e73ce55d55ce8b8dbf0170f"
+      },
+      "sha256": "d5c753aac24cd0e3c780c45fc392863bb498dab47bb3ad0f9379a9f98d094c5f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/owntone.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

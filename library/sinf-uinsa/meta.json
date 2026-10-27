@@ -1,0 +1,102 @@
+{
+  "collection_id": 2626,
+  "schema_version": 1,
+  "id": 2853,
+  "redirect_from": [
+    2854
+  ],
+  "title": "Sinf Uinsa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sinf-uinsa",
+    "sinf-uinsa-wordmark-dark",
+    "Sinf Uinsa Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 24550,
+      "collection": "Dashboard Icons",
+      "file": "sinf-uinsa.svg",
+      "id": 4465,
+      "is_default": true,
+      "label": "sinf-uinsa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sinf-uinsa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b86c94a29ee6a909e468c5bc4f52d91aa2dbdb7683540067cca5af3250399c8a"
+      },
+      "sha256": "2fcd9d8c7927f7bce70015979d7bc8e7fa01cdfcc87995d612c07713ac136814",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sinf-uinsa.svg",
+      "version": 0
+    },
+    {
+      "bytes": 24550,
+      "collection": "Dashboard Icons",
+      "file": "sinf-uinsa-1.svg",
+      "id": 4466,
+      "is_default": false,
+      "label": "sinf-uinsa-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sinf-uinsa-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e7fff036a9d7bea76945b593b81dbe14f2cfcf23d1cafdbb9e15c5bff21eb17c"
+      },
+      "sha256": "7bbabdba6f8b2aea147e1d88e5dfd9e4d11044fbfe479536ce04825dc8b5d0b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sinf-uinsa-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 24550,
+      "collection": "Dashboard Icons",
+      "file": "sinf-uinsa-2.svg",
+      "id": 4467,
+      "is_default": false,
+      "label": "sinf-uinsa-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sinf-uinsa-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc48d1a7fa591c2e8cd5fac42a1c3960e55992fc91f85c7857dab06d7970f990"
+      },
+      "sha256": "ec7e8907227052633ffe401baf9640bfd9a65d7bb8d91acd1772adab93bb0eb8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sinf-uinsa-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 25489,
+      "collection": "Dashboard Icons",
+      "file": "sinf-uinsa-3.svg",
+      "id": 4468,
+      "is_default": false,
+      "label": "sinf-uinsa-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sinf-uinsa-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "846f0f88027f5500fb2e0dd3d9f1ac9280ac8c0b86923af52180f9f3c4537404"
+      },
+      "sha256": "475474c124f01128e89d5f3f6c6b76e290dd5302b33c9bb26d73ef7d309f62cf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sinf-uinsa-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

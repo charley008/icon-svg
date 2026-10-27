@@ -1,0 +1,40 @@
+{
+  "collection_id": 2216,
+  "schema_version": 1,
+  "id": 2443,
+  "title": "Proalpha",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "proalpha"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 445,
+      "collection": "Dashboard Icons",
+      "file": "proalpha.svg",
+      "id": 3933,
+      "is_default": true,
+      "label": "proalpha",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "proalpha.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc9c3ae52557a121298c48ee68c1b5dfea13737c180b243e94e560df4a36a341"
+      },
+      "sha256": "fd9a655890ad7ae36dc69806e6ea80d4bc6a24fc73058debdeacd7ed8dbc80d7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proalpha.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

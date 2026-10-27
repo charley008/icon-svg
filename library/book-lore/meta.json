@@ -1,0 +1,61 @@
+{
+  "collection_id": 889,
+  "schema_version": 1,
+  "id": 1116,
+  "title": "BookLore",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "book-lore",
+    "Book Lore"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 857,
+      "collection": "Dashboard Icons",
+      "file": "book-lore.svg",
+      "id": 2148,
+      "is_default": true,
+      "label": "book-lore",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "book-lore.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "380e3295281022fc648d1ee4d29ccab4e8aa0011b11049dc5c7063b42b146ad8"
+      },
+      "sha256": "dc698776c313a1eaddcdba53eaa916b1ddb0bd2d37c0b98640a1d09193ce0694",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/book-lore.svg",
+      "version": 0
+    },
+    {
+      "bytes": 882,
+      "collection": "Dashboard Icons",
+      "file": "book-lore-1.svg",
+      "id": 2149,
+      "is_default": false,
+      "label": "booklore",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booklore.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "330c1b3ec7ee88c946864c4e7dc779b2b56c41653422d959e72c4592b3dd24f5"
+      },
+      "sha256": "ff5372f4145df7c46d58875383a8b54c99c7cced8b88b06a70cd1c23fbf7b49c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/booklore.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

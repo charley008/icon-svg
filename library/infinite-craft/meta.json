@@ -1,0 +1,42 @@
+{
+  "collection_id": 1539,
+  "schema_version": 1,
+  "id": 1766,
+  "title": "Infinite Craft",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "infinite-craft"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4377,
+      "collection": "Dashboard Icons",
+      "file": "infinite-craft.svg",
+      "id": 3011,
+      "is_default": true,
+      "label": "infinite-craft",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infinite-craft.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b88caa2d43c4cb395b82e40b2d2c04e6daaa2d19e4ee990a89338552d00e5d62"
+      },
+      "sha256": "df233f0073d5bb87e4e7a6cc04bb0e311b84fe26658e07065735bebdf027c7e6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infinite-craft.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

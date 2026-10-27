@@ -1,0 +1,40 @@
+{
+  "collection_id": 2952,
+  "schema_version": 1,
+  "id": 3179,
+  "title": "Waves",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "waves"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5634,
+      "collection": "Dashboard Icons",
+      "file": "waves.svg",
+      "id": 4884,
+      "is_default": true,
+      "label": "waves",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "waves.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f0eb9aeeae8dc807bcb3b327847e5daa3c06eb23a7321b0541db0f70008f887f"
+      },
+      "sha256": "7270008a0cded30f66507dc35783161f155c05374b8244b7b14cd29b51c963b8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/waves.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

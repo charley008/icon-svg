@@ -1,0 +1,40 @@
+{
+  "collection_id": 2738,
+  "schema_version": 1,
+  "id": 2965,
+  "title": "Tabula",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tabula"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5661,
+      "collection": "Dashboard Icons",
+      "file": "tabula.svg",
+      "id": 4608,
+      "is_default": true,
+      "label": "tabula",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tabula.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "261685d81a92c8504506e40e006d32f69c9c6bb2fb9e0544a8cf4b90aa9ff2f6"
+      },
+      "sha256": "5d236141ef881537419a31bd095a7e8456ca92b5adbc524f4136b81ce8bbe591",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tabula.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

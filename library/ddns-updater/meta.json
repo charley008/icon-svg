@@ -1,0 +1,40 @@
+{
+  "collection_id": 1082,
+  "schema_version": 1,
+  "id": 1309,
+  "title": "Ddns Updater",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ddns-updater"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6466,
+      "collection": "Dashboard Icons",
+      "file": "ddns-updater.svg",
+      "id": 2401,
+      "is_default": true,
+      "label": "ddns-updater",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ddns-updater.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e93957a3e44d4e288ee7d62afb4c6e52027ef54b4d45ecda285b7ea04ad00953"
+      },
+      "sha256": "a1f6349996f4879a442b78f603e282f21e63f3dea1c1f8406c65b8e17a7492e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ddns-updater.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

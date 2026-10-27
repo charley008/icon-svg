@@ -1,0 +1,40 @@
+{
+  "collection_id": 1750,
+  "schema_version": 1,
+  "id": 1977,
+  "title": "Lunasea",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lunasea"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 476,
+      "collection": "Dashboard Icons",
+      "file": "lunasea.svg",
+      "id": 3279,
+      "is_default": true,
+      "label": "lunasea",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lunasea.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "503314a5458776ad2904b3baf23cadf6fa131f12650f5d5bc238e2e3061023d2"
+      },
+      "sha256": "d1cc3ab5f9e2e6870a5c3e3ca3317774536b9a434690644c8db8163bd9330e67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lunasea.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

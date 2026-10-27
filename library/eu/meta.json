@@ -1,0 +1,393 @@
+{
+  "collection_id": 1997,
+  "schema_version": 1,
+  "id": 2224,
+  "redirect_from": [
+    2225,
+    2226
+  ],
+  "title": "EU / Office.eu",
+  "url": "https://office.eu/",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "office-eu",
+    "office-eu-wordmark-light",
+    "Office Eu Wordmark Light",
+    "office-eu-wordmark-dark",
+    "Office Eu Wordmark Dark",
+    "Office.eu",
+    "EU"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "eu.svg",
+      "id": 3613,
+      "is_default": true,
+      "label": "office-eu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "office-eu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ae2de5a8aa66d126e7300af935c5911c6f00339a678cd7088b13fe460f8ca02"
+      },
+      "sha256": "8ed736fd190510ba29a8721b9a30d3dc0914a367e65e93842022fb5d87964b55",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/office-eu.svg",
+      "version": 0
+    },
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "eu-1.svg",
+      "id": 3614,
+      "is_default": false,
+      "label": "office-eu-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "office-eu-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d694eb9d753952c0507535cfcb18f567f7b4292d69c62bb5b4e08fdf0e3a4df"
+      },
+      "sha256": "ed6d129a869177814b9c82ff029d6623632eb0c9a856c95551a7897f967a30ef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/office-eu-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "eu-2.svg",
+      "id": 3615,
+      "is_default": false,
+      "label": "office-eu-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "office-eu-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d8657be58507aa655391707a19ed572ee1bd8f49110aea3abe12a64cb95107f"
+      },
+      "sha256": "acec261931777f339db563075594ee9b92798e756539c95fb64587a03c32f3bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/office-eu-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4029,
+      "collection": "Dashboard Icons",
+      "file": "eu-3.svg",
+      "id": 3617,
+      "is_default": false,
+      "label": "office-eu-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "office-eu-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "865799efe11d705881136d550091771e8d5823affa1b48ff7adbe6166d0a2169"
+      },
+      "sha256": "928f67e79032085c38314b3f3fea5a7437d51e765b4da558a717f5b20b83b939",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/office-eu-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 5440,
+      "collection": "Dashboard Icons",
+      "file": "eu-4.svg",
+      "id": 3616,
+      "is_default": false,
+      "label": "office-eu-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "office-eu-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6ada08ce2917a1e02bcd095e85f1245e33ded0cf86c5174510e5e0c381f6cb1"
+      },
+      "sha256": "912d3d3a0b30cbca8ca45450719c7ffc4cb17cdf569478d9a7fd7b626a241fa8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/office-eu-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": [
+    {
+      "id": 1447,
+      "key": "calendar",
+      "title": "Eu Calendar",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-calendar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3980,
+          "collection": "Dashboard Icons",
+          "file": "eu-calendar.svg",
+          "id": 2591,
+          "is_default": true,
+          "label": "eu-calendar",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-calendar.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "256d9e96ff4b57542b848eb0771a28e6287bc71b7aa914b653a980a81da30aa8"
+          },
+          "sha256": "d1d9bf7570164a6016e6894f8fbaeec5785bda718c183e5608d60490ba13de6c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-calendar.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1448,
+      "key": "docs",
+      "title": "Eu Docs",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-docs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1852,
+          "collection": "Dashboard Icons",
+          "file": "eu-docs.svg",
+          "id": 2592,
+          "is_default": true,
+          "label": "eu-docs",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-docs.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "18f98afb4eab8de5c00f3ba768e98e7ed91bcde8bfbf8650ea8c6b5376929151"
+          },
+          "sha256": "3a2075859cac1aa5003244e8005b53624e60ddad620ea358b24c52df81cefb81",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-docs.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1449,
+      "key": "drive",
+      "title": "Eu Drive",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-drive"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1797,
+          "collection": "Dashboard Icons",
+          "file": "eu-drive.svg",
+          "id": 2593,
+          "is_default": true,
+          "label": "eu-drive",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-drive.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "bd89a49c311f32522a3a5ed05fbcdc9a788a84242d684fb46aa299a1b7b1f95c"
+          },
+          "sha256": "88a0e415ad275e1d997b97c62875934e637178229eb3a7dd2d69e5c639373ce5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-drive.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1450,
+      "key": "mail",
+      "title": "Eu Mail",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-mail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1718,
+          "collection": "Dashboard Icons",
+          "file": "eu-mail.svg",
+          "id": 2594,
+          "is_default": true,
+          "label": "eu-mail",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-mail.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5623173b9451e7834d40b08e413a44ad35a4aa29b6b440edeb228dbf6b49cd6a"
+          },
+          "sha256": "6485c17aa70a0c3f44d98609d2350dacc809a2fc05f688dcd65d40ee40ab6a8a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-mail.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1451,
+      "key": "presentation",
+      "title": "Eu Presentation",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-presentation"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1834,
+          "collection": "Dashboard Icons",
+          "file": "eu-presentation.svg",
+          "id": 2595,
+          "is_default": true,
+          "label": "eu-presentation",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-presentation.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3bb01127b192bc31364a14668b36af81cd2ab9416a7cddb4b7443e37833e5c8f"
+          },
+          "sha256": "d1824316526461a5732613def6db7d308854da07f8b1f91a33d759fdea5d2f0f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-presentation.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1452,
+      "key": "spreadsheet",
+      "title": "Eu Spreadsheet",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-spreadsheet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5312,
+          "collection": "Dashboard Icons",
+          "file": "eu-spreadsheet.svg",
+          "id": 2596,
+          "is_default": true,
+          "label": "eu-spreadsheet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-spreadsheet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c57823998ceade1f194fe35dd92fe827662ade8114e7cb30eb013c07218848a1"
+          },
+          "sha256": "396f5850ef37f20198aae3b805d0e020de0035be53186be9ea9a0208c4edcada",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-spreadsheet.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1453,
+      "key": "talk",
+      "title": "Eu Talk",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "eu-talk"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4936,
+          "collection": "Dashboard Icons",
+          "file": "eu-talk.svg",
+          "id": 2597,
+          "is_default": true,
+          "label": "eu-talk",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "eu-talk.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "29986376c53362641aaf9f768190d8a88340dea7381281a48409ca32797624ba"
+          },
+          "sha256": "1139c1df1fd1d33ea43e3c035e65e0988fd0a0232a24a727795d022fb718526a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eu-talk.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

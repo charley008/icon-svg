@@ -1,0 +1,45 @@
+{
+  "collection_id": 3241,
+  "schema_version": 1,
+  "id": 3504,
+  "title": "Storybook",
+  "url": "https://storybook.js.org",
+  "domains": [
+    "storybook.js.org"
+  ],
+  "description": "用于界面组件开发和文档展示的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Storybook",
+    "storybook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 910,
+      "collection": "TechIcons / Devicon",
+      "file": "storybook-1.svg",
+      "id": 5371,
+      "is_default": true,
+      "label": "TechIcons · Storybook",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Storybook.svg",
+        "original_sha256": "c36a9be77eea7f0bded78f50b360568698caa35ad5841eca285c27c4151fe9c7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/storybook",
+        "reference_website": "https://storybook.js.org"
+      },
+      "sha256": "4c468e1431a8918541e61d9cdac5be7e017b7cdf8efecbfa8607800fda984649",
+      "source": "https://techicons.dev/icons/storybook",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

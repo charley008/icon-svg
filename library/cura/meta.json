@@ -1,0 +1,40 @@
+{
+  "collection_id": 1058,
+  "schema_version": 1,
+  "id": 1285,
+  "title": "Cura",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cura"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1054,
+      "collection": "Dashboard Icons",
+      "file": "cura.svg",
+      "id": 2372,
+      "is_default": true,
+      "label": "cura",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cura.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3dfc159f8d66c5d1143b8f7d3b0537f7fbbc8a74bb15797a1472b9397fd59afa"
+      },
+      "sha256": "790482e9b8577e9563a636572aa16c4fc9ff07d3dd90fa6ae4d902324651ad12",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cura.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

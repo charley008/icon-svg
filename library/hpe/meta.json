@@ -1,0 +1,59 @@
+{
+  "collection_id": 1496,
+  "schema_version": 1,
+  "id": 1723,
+  "title": "Hpe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hpe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 528,
+      "collection": "Dashboard Icons",
+      "file": "hpe.svg",
+      "id": 2958,
+      "is_default": true,
+      "label": "hpe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hpe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "18ceb6c9b927255ddad2e117eca135e7b28a6c0428f85765ce58474e47e88119"
+      },
+      "sha256": "a92b9f5cfce261c4e1e521a8747cab191f2b3f4c742945ed9eb6929f7f030a43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hpe.svg",
+      "version": 0
+    },
+    {
+      "bytes": 540,
+      "collection": "Dashboard Icons",
+      "file": "hpe-1.svg",
+      "id": 2959,
+      "is_default": false,
+      "label": "hpe-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hpe-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1f8bee5b21aec468ec8e7ec208f162608bccaf5ed2eb2efebfd53cab6d4b05a"
+      },
+      "sha256": "5735b892dd16d14d2ece0f941084d2c9e7371ac8ffe7d6f77a20a7bf0c1ca4ef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hpe-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

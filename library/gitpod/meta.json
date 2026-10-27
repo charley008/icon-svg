@@ -1,0 +1,45 @@
+{
+  "collection_id": 3132,
+  "schema_version": 1,
+  "id": 3376,
+  "title": "Gitpod",
+  "url": "https://www.gitpod.io",
+  "domains": [
+    "gitpod.io"
+  ],
+  "description": "用于软件项目的云端开发工作区。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Gitpod",
+    "gitpod"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1090,
+      "collection": "TechIcons / Devicon",
+      "file": "gitpod-1.svg",
+      "id": 5178,
+      "is_default": true,
+      "label": "TechIcons · Gitpod",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gitpod.svg",
+        "original_sha256": "3938f777a77707cf7feeb453003bff0b3811e7a45e5e1728a7b4d73c58d9ed1a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gitpod",
+        "reference_website": "https://www.gitpod.io"
+      },
+      "sha256": "421aea7d540773dd65dffc89d6a4a1cbea38632695299a81d1ff92fe3fe96080",
+      "source": "https://techicons.dev/icons/gitpod",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

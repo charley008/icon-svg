@@ -1,0 +1,44 @@
+{
+  "collection_id": 2998,
+  "schema_version": 1,
+  "id": 3225,
+  "title": "Worklenz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-commerce-Platforms",
+    "电商购物"
+  ],
+  "aliases": [
+    "worklenz",
+    "job-search-website",
+    "recruitment-platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1493,
+      "collection": "Dashboard Icons",
+      "file": "worklenz.svg",
+      "id": 4943,
+      "is_default": true,
+      "label": "worklenz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "worklenz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eb1bb7df5bf9ecee40ba9cabff4264c556e94e6cdf6d3e702c4cfa0a2d2fcefd"
+      },
+      "sha256": "ee8506191711a594a4f9be230c13ac257dee5e5ba5db5b5562ca6bc300a93298",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/worklenz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

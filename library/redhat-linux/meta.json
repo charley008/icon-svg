@@ -1,0 +1,105 @@
+{
+  "collection_id": 2480,
+  "schema_version": 1,
+  "id": 2707,
+  "title": "Redhat Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "redhat-linux",
+    "Red Hat",
+    "RedHat",
+    "红帽"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1058,
+      "collection": "Dashboard Icons",
+      "file": "redhat-linux.svg",
+      "id": 4277,
+      "is_default": true,
+      "label": "redhat-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "redhat-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea180e422d00091347fdbdfef2a0259a59619c0b0d02664686f6727f317ab73a"
+      },
+      "sha256": "97037a3abc98307dfb76d457a1e34790c27bca77a72b7fd4734d07834ca810c3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redhat-linux.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3077,
+      "collection": "用户提供",
+      "file": "redhat-linux-1.svg",
+      "id": 5047,
+      "is_default": false,
+      "label": "Red Hat 单色文字标志",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "redhat_plain_wordmark_logo_icon_146371.svg",
+        "original_sha256": "a76d4d23d19c5ed1c6535f9d641c2d77e0d752197d846e2e2dcd62c410238fc6",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "a76d4d23d19c5ed1c6535f9d641c2d77e0d752197d846e2e2dcd62c410238fc6",
+      "source": "用户提供：redhat_plain_wordmark_logo_icon_146371.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3942,
+      "collection": "用户提供",
+      "file": "redhat-linux-2.svg",
+      "id": 5048,
+      "is_default": false,
+      "label": "Red Hat 原色文字标志",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "redhat_original_wordmark_logo_icon_146373.svg",
+        "original_sha256": "7067ea3e48d418dfc769a2182ff830f1906f2b1e645a6b6559ae52b1701ab7bb",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "7067ea3e48d418dfc769a2182ff830f1906f2b1e645a6b6559ae52b1701ab7bb",
+      "source": "用户提供：redhat_original_wordmark_logo_icon_146373.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2666,
+      "collection": "TechIcons / Devicon",
+      "file": "redhat-linux-3.svg",
+      "id": 5339,
+      "is_default": false,
+      "label": "TechIcons · Red Hat",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Red-Hat.svg",
+        "original_sha256": "c7ec409610e7c222191166a5fe7bd52b57e6d057cb8e51ee44d12a2743401e21",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/redhat",
+        "reference_website": "https://www.redhat.com"
+      },
+      "sha256": "764a06ee926c6b450762f2329cecd6375b87de6594c8bc4bf2d2160b26ea5669",
+      "source": "https://techicons.dev/icons/redhat",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

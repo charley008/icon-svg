@@ -1,0 +1,40 @@
+{
+  "collection_id": 887,
+  "schema_version": 1,
+  "id": 1114,
+  "title": "Boltnew",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "boltnew"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1493,
+      "collection": "Dashboard Icons",
+      "file": "boltnew.svg",
+      "id": 2146,
+      "is_default": true,
+      "label": "boltnew",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "boltnew.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "50907d0ab159d2d20601d50d7ed078aa9f193e0886527aef1f13fe0f59465466"
+      },
+      "sha256": "f4fe4571ceb5b04516f5578905a5365abc9f65112d63c93534e9308a0c47d4c9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/boltnew.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

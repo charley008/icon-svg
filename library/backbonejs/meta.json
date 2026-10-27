@@ -1,0 +1,45 @@
+{
+  "collection_id": 3084,
+  "schema_version": 1,
+  "id": 3323,
+  "title": "Backbone.js",
+  "url": "https://backbonejs.org",
+  "domains": [
+    "backbonejs.org"
+  ],
+  "description": "JavaScript 应用的数据模型与界面组织框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Backbone.js",
+    "backbonejs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 571,
+      "collection": "TechIcons / Devicon",
+      "file": "backbonejs-1.svg",
+      "id": 5089,
+      "is_default": true,
+      "label": "TechIcons · Backbone.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Backbone.js.svg",
+        "original_sha256": "f42ddc48ddee52bf81c5428f3da1c788e55ea3b13c4f7aac630013a20a80af18",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/backbonejs",
+        "reference_website": "https://backbonejs.org"
+      },
+      "sha256": "9c5e8b05207dd87e00b4f8469d7ea059ea9e1c8372cda88ef1eed814e0d36002",
+      "source": "https://techicons.dev/icons/backbonejs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

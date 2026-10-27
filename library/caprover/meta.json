@@ -1,0 +1,40 @@
+{
+  "collection_id": 934,
+  "schema_version": 1,
+  "id": 1161,
+  "title": "Caprover",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "caprover"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2093,
+      "collection": "Dashboard Icons",
+      "file": "caprover.svg",
+      "id": 2208,
+      "is_default": true,
+      "label": "caprover",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "caprover.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d6dcdf0c2f4b30839f3fcc1a9fdcc9e657d404b13d4040362d136274971be88"
+      },
+      "sha256": "53850636acc1e819916326b87ab86e9afb39bf54874257260877ac909bca843b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/caprover.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

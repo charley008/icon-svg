@@ -1,0 +1,59 @@
+{
+  "collection_id": 2512,
+  "schema_version": 1,
+  "id": 2739,
+  "title": "Riverside Fm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "riverside-fm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1059,
+      "collection": "Dashboard Icons",
+      "file": "riverside-fm.svg",
+      "id": 4316,
+      "is_default": true,
+      "label": "riverside-fm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "riverside-fm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0f9705d83dac4e222d34025ad26d405379fcfbad528a3572be3997730942d9d"
+      },
+      "sha256": "8f7e6e5c29ea4eee707b32ff77bd6651af9b1ae8c4fd61bb3cbdd5b0de2da83f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/riverside-fm.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1062,
+      "collection": "Dashboard Icons",
+      "file": "riverside-fm-1.svg",
+      "id": 4317,
+      "is_default": false,
+      "label": "riverside-fm-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "riverside-fm-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc7d785c785bd6bd756033f1efd706ae005d3d24f669abfcfc3ec5bf69cb4a7f"
+      },
+      "sha256": "44e448dc7b4ff9f0e01f04b06c71db6ceafa2b82ce87ecec0d21089bf07e6007",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/riverside-fm-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

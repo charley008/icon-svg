@@ -1,0 +1,40 @@
+{
+  "collection_id": 1263,
+  "schema_version": 1,
+  "id": 1490,
+  "title": "Filegator",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "filegator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1361,
+      "collection": "Dashboard Icons",
+      "file": "filegator.svg",
+      "id": 2646,
+      "is_default": true,
+      "label": "filegator",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filegator.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "282940d69790c91de5135e0d4997bdb99fdbebbf569f0bfa2ad04bbdd67838f1"
+      },
+      "sha256": "23d6237ebd5566ffa29cf55c3065ea8967f684fa4bd5b91bbb72f371440a0169",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filegator.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

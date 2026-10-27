@@ -1,0 +1,42 @@
+{
+  "collection_id": 956,
+  "schema_version": 1,
+  "id": 1183,
+  "title": "Chatwoot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "chatwoot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 617,
+      "collection": "Dashboard Icons",
+      "file": "chatwoot.svg",
+      "id": 2236,
+      "is_default": true,
+      "label": "chatwoot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chatwoot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "445cdb573e30a244522b5fd748cc058e350be01eef15e3cb8dd3cb47cc128608"
+      },
+      "sha256": "f2f8d310f399650bb117dd4a79edd9273a1bafb5d897af1271a84444631fe90d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chatwoot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

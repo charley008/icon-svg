@@ -1,0 +1,63 @@
+{
+  "collection_id": 1873,
+  "schema_version": 1,
+  "id": 2100,
+  "title": "Mumble",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "Gaming-Platforms",
+    "社交通讯"
+  ],
+  "aliases": [
+    "mumble",
+    "Voice Chat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2900,
+      "collection": "Dashboard Icons",
+      "file": "mumble.svg",
+      "id": 3449,
+      "is_default": true,
+      "label": "mumble",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mumble.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c37ca46503224fb2e2c418eed6214836890b939be1456e4fa0948e774acca65c"
+      },
+      "sha256": "315c6f7d30ad4cffd11a96843b97147c431cdf26f7f2f07587cc44a45a046b06",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mumble.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2996,
+      "collection": "Dashboard Icons",
+      "file": "mumble-1.svg",
+      "id": 3450,
+      "is_default": false,
+      "label": "mumble-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mumble-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "08993de1b0e12d3a63fc64ef8a38428d2376cdf6ca5af7ad6e560ed24d087edf"
+      },
+      "sha256": "03c4c906d8f8887bc7690435c443763a69dd542a4c95097d948545daf151711f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mumble-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3223,
+  "schema_version": 1,
+  "id": 3486,
+  "title": "Rollup.js",
+  "url": "https://rollupjs.org",
+  "domains": [
+    "rollupjs.org"
+  ],
+  "description": "JavaScript 模块打包与构建工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Rollup.js",
+    "rollup"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3971,
+      "collection": "TechIcons / Devicon",
+      "file": "rollup-1.svg",
+      "id": 5344,
+      "is_default": true,
+      "label": "TechIcons · Rollup.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Rollup.js.svg",
+        "original_sha256": "93d8b7b945ea6558590be004817ae08b3d3311488da6eb716b2baf8ed5bfa4a3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/rollup",
+        "reference_website": "https://rollupjs.org"
+      },
+      "sha256": "4ca352d1b9fc88f1ccd9b6e0ea714bfc6c398e1c1e5c3e0eab52eb4d772d1c92",
+      "source": "https://techicons.dev/icons/rollup",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

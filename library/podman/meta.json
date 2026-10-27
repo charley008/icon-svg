@@ -1,0 +1,44 @@
+{
+  "collection_id": 2176,
+  "schema_version": 1,
+  "id": 2403,
+  "title": "Podman",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "podman",
+    "Container Engine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12307,
+      "collection": "Dashboard Icons",
+      "file": "podman.svg",
+      "id": 3878,
+      "is_default": true,
+      "label": "podman",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "podman.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a47bb85420e90e263eefea9132b8b4db40fb007deecbefd79e158b9e55636031"
+      },
+      "sha256": "ad801150f53bd07edd7f37436eb3ec91d9fc4f7f3ce9822884d43b8f197b343a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/podman.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

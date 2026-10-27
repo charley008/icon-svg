@@ -1,0 +1,43 @@
+{
+  "collection_id": 2546,
+  "schema_version": 1,
+  "id": 2773,
+  "title": "Salt Project",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "salt-project",
+    "saltstack",
+    "salt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 319,
+      "collection": "Dashboard Icons",
+      "file": "salt-project.svg",
+      "id": 4362,
+      "is_default": true,
+      "label": "salt-project",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "salt-project.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c00db53750ad5a2c6fb26c24f088cead98357e38ba9cf08b369dc5a985639c35"
+      },
+      "sha256": "76beb4037ec4f26ab3b347f7ecb0241b2d8697adbb7122a1d32123b2fc3859a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/salt-project.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

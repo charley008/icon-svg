@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="xMidYMid" id="svg2" viewBox="17.36 -11.81 221.29 141.62">
+  <defs id="defs2" />
+  <title id="title1">Chroma</title>
+  <g id="g2" transform="matrix(0.86440678,0,0,0.86440678,17.355932,-11.812063)">
+    <ellipse fill="#ffde2d" cx="170.66679" cy="81.919838" rx="85.333206" ry="81.919838" id="ellipse1" />
+    <ellipse fill="#327eff" cx="85.333206" cy="81.919838" rx="85.333206" ry="81.919838" id="ellipse2" />
+    <path d="m 170.66679,81.919964 c 0,45.243426 -38.20536,81.919196 -85.333713,81.919196 V 81.919964 Z M 85.333205,81.919836 C 85.333205,36.676791 123.53819,8.9599821e-5 170.66679,8.9599821e-5 V 81.919836 Z" fill="#ff6446" id="path2" />
+  </g>
+</svg>

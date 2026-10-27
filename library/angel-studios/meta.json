@@ -1,0 +1,40 @@
+{
+  "collection_id": 708,
+  "schema_version": 1,
+  "id": 935,
+  "title": "Angel Studios",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "angel-studios"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11189,
+      "collection": "Dashboard Icons",
+      "file": "angel-studios.svg",
+      "id": 1907,
+      "is_default": true,
+      "label": "angel-studios",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "angel-studios.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c98242f0a70a286cba999453d151bb2b44fda906327a6d1d8a3837b9cf210a22"
+      },
+      "sha256": "6e2473779743ec0ed4bf2087c41f997c6bc92a208c1f97349d77d4d63c44f7bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/angel-studios.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

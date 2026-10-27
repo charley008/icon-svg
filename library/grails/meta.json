@@ -1,0 +1,45 @@
+{
+  "collection_id": 3135,
+  "schema_version": 1,
+  "id": 3382,
+  "title": "Grails",
+  "url": "https://grails.org",
+  "domains": [
+    "grails.org"
+  ],
+  "description": "基于 Groovy 和 JVM 的 Web 开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Grails",
+    "grails"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6486,
+      "collection": "TechIcons / Devicon",
+      "file": "grails-1.svg",
+      "id": 5189,
+      "is_default": true,
+      "label": "TechIcons · Grails",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Grails.svg",
+        "original_sha256": "5cee6e9d487bb4e3cd1457c08fe38919a264f9c6759a5f2752c72cc35caf004a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/grails",
+        "reference_website": "https://grails.org"
+      },
+      "sha256": "7eac01a0a8401320b4a957262c1cceeeba059747bdbf567c66758901f6a24d4d",
+      "source": "https://techicons.dev/icons/grails",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

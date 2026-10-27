@@ -1,0 +1,40 @@
+{
+  "collection_id": 1847,
+  "schema_version": 1,
+  "id": 2074,
+  "title": "Mojeek",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mojeek"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4059,
+      "collection": "Dashboard Icons",
+      "file": "mojeek.svg",
+      "id": 3416,
+      "is_default": true,
+      "label": "mojeek",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mojeek.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "390b9c81d7849db350b019aae83968e26584630ea9aa280891ec16dc7cb4d78c"
+      },
+      "sha256": "4b55c8fdd983990847d982d93865f57287cf46661f2126214192a3c5729f9164",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mojeek.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

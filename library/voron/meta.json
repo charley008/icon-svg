@@ -1,0 +1,40 @@
+{
+  "collection_id": 2939,
+  "schema_version": 1,
+  "id": 3166,
+  "title": "Voron",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "voron"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 304,
+      "collection": "Dashboard Icons",
+      "file": "voron.svg",
+      "id": 4866,
+      "is_default": true,
+      "label": "voron",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "voron.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "92c9e420661b43ffe70a8f92cb8299c1dece9c6c4c6361f1221aea07f25a59ef"
+      },
+      "sha256": "73f064da53d229dafb99bd82b9451b199044dc6ecba1f97fa184bfb0b710d4de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/voron.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

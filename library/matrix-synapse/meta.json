@@ -1,0 +1,59 @@
+{
+  "collection_id": 1785,
+  "schema_version": 1,
+  "id": 2012,
+  "title": "Matrix Synapse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "matrix-synapse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 329,
+      "collection": "Dashboard Icons",
+      "file": "matrix-synapse.svg",
+      "id": 3321,
+      "is_default": true,
+      "label": "matrix-synapse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matrix-synapse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "64932bce113e7fa61b5998ff9c83225183a929babef398bfd5b8d398fbc616a8"
+      },
+      "sha256": "062c169ff850ff1959bd5d0a2b066d8edbffbfe409d070cb012726da0dc59d54",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matrix-synapse.svg",
+      "version": 0
+    },
+    {
+      "bytes": 341,
+      "collection": "Dashboard Icons",
+      "file": "matrix-synapse-1.svg",
+      "id": 3322,
+      "is_default": false,
+      "label": "matrix-synapse-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matrix-synapse-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89cc2b64735f08f352b6b62d16d9875249d57aa20fcb866e0967190d897e18c0"
+      },
+      "sha256": "99c60606fdc180fd38adb14f519c6f433df87718e229651296316ad45c9139b3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matrix-synapse-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,105 @@
+{
+  "collection_id": 2776,
+  "schema_version": 1,
+  "id": 3003,
+  "redirect_from": [
+    3004,
+    3005
+  ],
+  "title": "Tether",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tether",
+    "tether-wordmark-light",
+    "Tether Wordmark Light",
+    "tether-wordmark-dark",
+    "Tether Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1184,
+      "collection": "Dashboard Icons",
+      "file": "tether.svg",
+      "id": 4654,
+      "is_default": true,
+      "label": "tether",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tether.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "10ce2b68ccf23ebabe2d741054a2f22300a46acac8b32b0d0737e642ded454a0"
+      },
+      "sha256": "8067a760464cad177e1f7dcaca67d5b09ff5e341866b75c68aa107f0a4f52ce5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tether.svg",
+      "version": 0
+    },
+    {
+      "bytes": 960,
+      "collection": "Dashboard Icons",
+      "file": "tether-1.svg",
+      "id": 4655,
+      "is_default": false,
+      "label": "tether-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tether-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6e5201722631669e3db0f241323c5ab90d3d74f026b6cff3bba09da63c082c2f"
+      },
+      "sha256": "38a9311b98dbced780b0319bd635391dd6004ae69434bccfe3d23cd6e41b53b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tether-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4214,
+      "collection": "Dashboard Icons",
+      "file": "tether-2.svg",
+      "id": 4657,
+      "is_default": false,
+      "label": "tether-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tether-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e398ab879be00752b34b80a4abf709f6d02ff707a297e38f66c36ac042b78eae"
+      },
+      "sha256": "396b1b2d2e1461fddee6cbc1d1eb064ba3e9ed6e9efe193f5970682c9e3741bd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tether-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2691,
+      "collection": "Dashboard Icons",
+      "file": "tether-3.svg",
+      "id": 4656,
+      "is_default": false,
+      "label": "tether-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tether-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0dc2f7435fcf772df11d14c5e0c91194ae5507a894abb46e33f83a0baa037240"
+      },
+      "sha256": "962fb9cd2c6265c3430b2feaa6bc5dfa868f4e6f966050bbf36d90cea1ee0621",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tether-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

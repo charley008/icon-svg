@@ -1,0 +1,44 @@
+{
+  "collection_id": 1736,
+  "schema_version": 1,
+  "id": 1963,
+  "title": "Logto",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "logto",
+    "Auth Service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1246,
+      "collection": "Dashboard Icons",
+      "file": "logto.svg",
+      "id": 3264,
+      "is_default": true,
+      "label": "logto",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "logto.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1efb63d55ac7184bcfdb549a7daf6ddf5e4e548173c1e033e50e4e36200e5962"
+      },
+      "sha256": "c6e4279d156aaa0c478d93c2b4a588948239616f5189f4d53bf61e7266c845f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logto.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

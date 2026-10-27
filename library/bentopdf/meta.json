@@ -1,0 +1,41 @@
+{
+  "collection_id": 862,
+  "schema_version": 1,
+  "id": 1089,
+  "title": "Bentopdf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "bentopdf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 533,
+      "collection": "Dashboard Icons",
+      "file": "bentopdf.svg",
+      "id": 2111,
+      "is_default": true,
+      "label": "bentopdf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bentopdf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7d989985d5a1282b9dcddac38c820f19629fed2577d2f725a062a2065432d9c6"
+      },
+      "sha256": "ec7b3d0444a4267532a27f8cfd32d22f368094d7c424d49127b50c6f9f380c50",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bentopdf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

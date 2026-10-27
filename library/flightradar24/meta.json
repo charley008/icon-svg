@@ -1,0 +1,59 @@
+{
+  "collection_id": 1293,
+  "schema_version": 1,
+  "id": 1520,
+  "title": "Flightradar24",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flightradar24"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1700,
+      "collection": "Dashboard Icons",
+      "file": "flightradar24.svg",
+      "id": 2679,
+      "is_default": true,
+      "label": "flightradar24",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flightradar24.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6fbec8e7f10ca7adf3dde84795cee38492804bf4afd70f9c5e1944d42558179a"
+      },
+      "sha256": "6475c20c41c5d2073820dedfda67777c698779a47906b32e3ed7b1a712d4f392",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flightradar24.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1712,
+      "collection": "Dashboard Icons",
+      "file": "flightradar24-1.svg",
+      "id": 2680,
+      "is_default": false,
+      "label": "flightradar24-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flightradar24-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "832d5a9db58009edb272c4fe18cb899cfd9bb98f949f3e41034369834eb93210"
+      },
+      "sha256": "6b8e111ff20167f440120d5c035540c969d067243c915e2824759b082ed12b11",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flightradar24-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

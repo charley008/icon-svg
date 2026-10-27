@@ -1,0 +1,43 @@
+{
+  "collection_id": 1734,
+  "schema_version": 1,
+  "id": 1961,
+  "title": "Lodestone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "Office-Suites"
+  ],
+  "aliases": [
+    "lodestone",
+    "Knowledge Base"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4585,
+      "collection": "Dashboard Icons",
+      "file": "lodestone.svg",
+      "id": 3260,
+      "is_default": true,
+      "label": "lodestone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lodestone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "19475d3da66e2d2a9ad1ea45a61dd459170e58db8e523dec18ed1381085f018c"
+      },
+      "sha256": "49c927e99436d1ae5ee883e4f0ed09ec173b13aba77b846896058a8a45bdec85",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lodestone.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

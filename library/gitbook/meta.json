@@ -1,0 +1,60 @@
+{
+  "collection_id": 1366,
+  "schema_version": 1,
+  "id": 1593,
+  "title": "Gitbook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gitbook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1242,
+      "collection": "Dashboard Icons",
+      "file": "gitbook.svg",
+      "id": 2765,
+      "is_default": true,
+      "label": "gitbook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitbook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b1bc7cbf565868f9174234edebfed8491c38b73891f10c80d3fed657e6ff11b"
+      },
+      "sha256": "f785ea221846dc18940d2bdf0e55b2d98b72bbe92d1f5d41d3e95b62074ca9c9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gitbook.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2428,
+      "collection": "TechIcons / Devicon",
+      "file": "gitbook-1.svg",
+      "id": 5174,
+      "is_default": false,
+      "label": "TechIcons · GitBook",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "GitBook.svg",
+        "original_sha256": "d4b6a07acb96986921a816d8fb2d3a3087eb9e546663980046e94e60e2183e26",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gitbook",
+        "reference_website": "https://www.gitbook.com"
+      },
+      "sha256": "ac184350256e727e904d2bf7bacdd2aa04eee6bb96f41608832fb152172a8f51",
+      "source": "https://techicons.dev/icons/gitbook",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

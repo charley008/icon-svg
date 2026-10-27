@@ -1,0 +1,63 @@
+{
+  "collection_id": 1273,
+  "schema_version": 1,
+  "id": 1500,
+  "title": "Fios",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Communication",
+    "网络工具"
+  ],
+  "aliases": [
+    "fios",
+    "ISP"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3122,
+      "collection": "Dashboard Icons",
+      "file": "fios.svg",
+      "id": 2657,
+      "is_default": true,
+      "label": "fios",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fios.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "722508d2eaa1db1ed8ed258ad0f543da10f131729ae064e0fae40d859687ed0c"
+      },
+      "sha256": "802e23449f8d1a581d8ecf96eb0dfeaa1962f9f72b5e759c729d5e2c02d79b43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fios.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3119,
+      "collection": "Dashboard Icons",
+      "file": "fios-1.svg",
+      "id": 2658,
+      "is_default": false,
+      "label": "fios-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fios-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d662b7bccce753128f87cf5897a585145dabbb99e448dce519c157c2f11ed9c"
+      },
+      "sha256": "9b3abda1f08690798c955f737400892c87ba29b0c29a15b4e84fda3c716d571a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fios-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

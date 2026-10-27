@@ -1,0 +1,61 @@
+{
+  "collection_id": 2152,
+  "schema_version": 1,
+  "id": 2379,
+  "title": "Pioneer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "pioneer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 436,
+      "collection": "Dashboard Icons",
+      "file": "pioneer.svg",
+      "id": 3843,
+      "is_default": true,
+      "label": "pioneer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pioneer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e297c63ff7eb9b963eee7483da03bccbbfe986d2c36766f3ae40376c54c86219"
+      },
+      "sha256": "134417efd45b8bc4959e164b8de0930f4a0365a39231ae59a5152004aa296561",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pioneer.svg",
+      "version": 0
+    },
+    {
+      "bytes": 436,
+      "collection": "Dashboard Icons",
+      "file": "pioneer-1.svg",
+      "id": 3844,
+      "is_default": false,
+      "label": "pioneer-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pioneer-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0cc83b5ad2dfb6fcd3d3843d3e4154c45e1a1a99d0ea6692dccda09aba89f978"
+      },
+      "sha256": "ae6c5c6763e6d699382de9e64dda5773a405864569b73d0bc6c2e75f9dbcc147",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pioneer-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

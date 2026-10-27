@@ -1,0 +1,40 @@
+{
+  "collection_id": 1347,
+  "schema_version": 1,
+  "id": 1574,
+  "title": "Fulcio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fulcio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5148,
+      "collection": "Dashboard Icons",
+      "file": "fulcio.svg",
+      "id": 2743,
+      "is_default": true,
+      "label": "fulcio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fulcio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d6fbb5e3582e7ea8eb7f8f672687070aff7468e5a70d5a76fef04bee35878aa7"
+      },
+      "sha256": "ada56b3730b3e3e5dd892a21677ac508ddc232c13c13ab3d0b3f614b7b0500da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fulcio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

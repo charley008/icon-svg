@@ -1,0 +1,40 @@
+{
+  "collection_id": 1154,
+  "schema_version": 1,
+  "id": 1381,
+  "title": "Draw Io",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "draw-io"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1715,
+      "collection": "Dashboard Icons",
+      "file": "draw-io.svg",
+      "id": 2499,
+      "is_default": true,
+      "label": "draw-io",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "draw-io.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab7e219b66036aa5e065c300dd87ebf2d5e0f18801906055aee326a1fcddf880"
+      },
+      "sha256": "709c4103b96a1f11db538ee668f8e1df7ef0d644384a8678c2545f4b928c2582",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/draw-io.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

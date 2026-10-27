@@ -1,0 +1,41 @@
+{
+  "collection_id": 2906,
+  "schema_version": 1,
+  "id": 3133,
+  "title": "Victron Energy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Logistics"
+  ],
+  "aliases": [
+    "victron-energy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2869,
+      "collection": "Dashboard Icons",
+      "file": "victron-energy.svg",
+      "id": 4826,
+      "is_default": true,
+      "label": "victron-energy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "victron-energy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "549cdc7cbc72034a6b7f38156071a679de170b5b80d3c54b0a24a4be8a704cc1"
+      },
+      "sha256": "fdb6b20d98e64ae03992183e71db3e0607ea19c808998c5cb0494af7b5ccfc20",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/victron-energy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

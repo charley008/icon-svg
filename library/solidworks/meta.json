@@ -1,0 +1,40 @@
+{
+  "collection_id": 2654,
+  "schema_version": 1,
+  "id": 2881,
+  "title": "Solidworks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "solidworks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1244,
+      "collection": "Dashboard Icons",
+      "file": "solidworks.svg",
+      "id": 4499,
+      "is_default": true,
+      "label": "solidworks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "solidworks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d93f941bcb7527bea296d95fd0790954fafdba7958874adb5eaf3bf93945202b"
+      },
+      "sha256": "92f1f66f4d401d933ee7a92f96f6d8eee893270587a487e64f4f9c6c43b8ecf5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/solidworks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

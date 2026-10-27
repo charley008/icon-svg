@@ -1,0 +1,59 @@
+{
+  "collection_id": 2033,
+  "schema_version": 1,
+  "id": 2260,
+  "title": "Openemr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openemr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1227,
+      "collection": "Dashboard Icons",
+      "file": "openemr.svg",
+      "id": 3674,
+      "is_default": true,
+      "label": "openemr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openemr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "efdcc55217a6b7e5a05ff371f8d21026cd9e4aef18ece3a9fcbeacba5097b32e"
+      },
+      "sha256": "ff7c931755af8259515bdc597e258d3d57e35d222aa4f2993b2b5581d4325fe8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openemr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1246,
+      "collection": "Dashboard Icons",
+      "file": "openemr-1.svg",
+      "id": 3675,
+      "is_default": false,
+      "label": "openemr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openemr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9a9c59002a35491892d485c60abafe01fe313ace80eb8b46d5d9825e5e5184d7"
+      },
+      "sha256": "e47c57988910a0309e450c8ff8a5cc8b8376dec959482907f13584f22115040a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openemr-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

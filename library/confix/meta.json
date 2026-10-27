@@ -1,0 +1,43 @@
+{
+  "collection_id": 1015,
+  "schema_version": 1,
+  "id": 1242,
+  "title": "Confix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "confix",
+    "config",
+    "text-editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10816,
+      "collection": "Dashboard Icons",
+      "file": "confix.svg",
+      "id": 2315,
+      "is_default": true,
+      "label": "confix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "confix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "238a2fd61763007181ac6884fa1ee1dccb8df2dcb6147a8f153ba42565e9d83f"
+      },
+      "sha256": "e774061a15f6a142f4dc1900f1ed4d9b565e0422eedb5244fda785068281fb86",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/confix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

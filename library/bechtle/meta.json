@@ -1,0 +1,42 @@
+{
+  "collection_id": 858,
+  "schema_version": 1,
+  "id": 1085,
+  "title": "Bechtle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "bechtle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 965,
+      "collection": "Dashboard Icons",
+      "file": "bechtle.svg",
+      "id": 2104,
+      "is_default": true,
+      "label": "bechtle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bechtle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77e5b73bb838cf764c83e921b4738ac68a18c72063b55d07efd66605b49ef9b7"
+      },
+      "sha256": "32374623bf746a23ae6633f4dc52a0964013dc61bab7f93aca136db975c897bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bechtle.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

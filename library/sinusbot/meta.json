@@ -1,0 +1,40 @@
+{
+  "collection_id": 2629,
+  "schema_version": 1,
+  "id": 2856,
+  "title": "Sinusbot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sinusbot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1063,
+      "collection": "Dashboard Icons",
+      "file": "sinusbot.svg",
+      "id": 4470,
+      "is_default": true,
+      "label": "sinusbot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sinusbot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f5af5777e2f831dff74ba42249659cfbbb1ef05b557971bd98a5b4e52fb6b1f"
+      },
+      "sha256": "6eac9a70867602dd8d1bc25a492773b39bdca5299fe45b421708e1e2c7535ca7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sinusbot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

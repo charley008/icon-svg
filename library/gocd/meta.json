@@ -1,0 +1,40 @@
+{
+  "collection_id": 1380,
+  "schema_version": 1,
+  "id": 1607,
+  "title": "Gocd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gocd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 410,
+      "collection": "Dashboard Icons",
+      "file": "gocd.svg",
+      "id": 2788,
+      "is_default": true,
+      "label": "gocd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gocd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dc49175a761739bbbf25a5688a689727ec8d1de4d6b94cafefc4f1f003fa7f31"
+      },
+      "sha256": "da1f1816b85350e189b247eea06e4f15bc391bb3f724ac96d5f66068eded35f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gocd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

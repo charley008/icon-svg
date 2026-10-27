@@ -1,0 +1,40 @@
+{
+  "collection_id": 2711,
+  "schema_version": 1,
+  "id": 2938,
+  "title": "Sub Store",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sub-store"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5058,
+      "collection": "Dashboard Icons",
+      "file": "sub-store.svg",
+      "id": 4573,
+      "is_default": true,
+      "label": "sub-store",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sub-store.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4f5261a34a69e61910afbca64fbc0c7f499c5467012f8e8539297f0831636e1"
+      },
+      "sha256": "5a11946419f079e7ff3e4f08178ca61130f3b7a976a7bd4bdf8482fbcf117b4a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sub-store.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

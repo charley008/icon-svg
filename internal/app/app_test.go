@@ -91,6 +91,8 @@ func TestFullLibraryLoadAndRestart(t *testing.T) {
 	var e error
 	// Derive expectations from the shipped files so adding artwork does not break CI.
 	wantBrands, wantGroups, wantIcons, wantDefaults := 0, 0, 0, 0
+	wantPublicIcons := 0
+	wantCuratedState := map[string]int{"brands": 0, "groups": 0, "icons": 0}
 	entries, err := os.ReadDir(filepath.Join("..", "..", "library"))
 	if err != nil {
 		t.Fatal(err)
@@ -111,10 +113,25 @@ func TestFullLibraryLoadAndRestart(t *testing.T) {
 			t.Fatal(err)
 		}
 		wantBrands++
+		if meta.Deleted || (meta.Published != nil && !*meta.Published) {
+			wantCuratedState["brands"]++
+		}
 		for _, group := range append([]GroupMeta{meta.GroupMeta}, meta.Products...) {
 			wantGroups++
+			// Root deletion lives on the brand; only products have a group
+			// recycle-bin flag. These states are declared in the source files.
+			if (group.Key != "" && group.Deleted) || (group.Published != nil && !*group.Published) {
+				wantCuratedState["groups"]++
+			}
 			wantIcons += len(group.Icons)
 			for _, icon := range group.Icons {
+				if !meta.Deleted && (meta.Published == nil || *meta.Published) &&
+					(group.Key == "" || !group.Deleted) && (group.Published == nil || *group.Published) && !icon.Deleted {
+					wantPublicIcons++
+				}
+				if icon.Deleted {
+					wantCuratedState["icons"]++
+				}
 				if icon.Default {
 					wantDefaults++
 				}
@@ -138,10 +155,15 @@ func TestFullLibraryLoadAndRestart(t *testing.T) {
 	}
 	for table, predicate := range map[string]string{
 		"audit": "1=1", "sessions": "1=1", "attempts": "1=1",
-		"icons": "deleted<>0 OR downloads<>0", "groups": "deleted<>0 OR published<>1", "brands": "deleted<>0 OR published<>1",
+		"icons": "downloads<>0",
 	} {
 		if e = s.db.QueryRow("SELECT COUNT(*) FROM " + table + " WHERE " + predicate).Scan(&count); e != nil || count != 0 {
 			t.Fatalf("fresh %s must have no operational state: %d %v", table, count, e)
+		}
+	}
+	for table, predicate := range map[string]string{"brands": "deleted<>0 OR published<>1", "groups": "deleted<>0 OR published<>1", "icons": "deleted<>0"} {
+		if e = s.db.QueryRow("SELECT COUNT(*) FROM " + table + " WHERE " + predicate).Scan(&count); e != nil || count != wantCuratedState[table] {
+			t.Fatalf("%s curated visibility=%d want %d: %v", table, count, wantCuratedState[table], e)
 		}
 	}
 	for _, target := range []string{"/", "/?q=Gmail", "/detail/1", "/healthz"} {
@@ -170,8 +192,8 @@ func TestFullLibraryLoadAndRestart(t *testing.T) {
 	var imported int
 	reimport.db.QueryRow(`SELECT COUNT(*) FROM icons`).Scan(&imported)
 	reimport.db.Close()
-	if imported != wantIcons {
-		t.Fatal(imported)
+	if imported != wantPublicIcons {
+		t.Fatalf("published export contains %d icons, want %d (recycle-bin records must be excluded)", imported, wantPublicIcons)
 	}
 	var raw []byte
 	s.db.QueryRow(`SELECT svg FROM icons WHERE id=1`).Scan(&raw)

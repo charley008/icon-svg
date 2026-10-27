@@ -1,0 +1,40 @@
+{
+  "collection_id": 1513,
+  "schema_version": 1,
+  "id": 1740,
+  "title": "I Am Designer Kawaii English",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "i-am-designer-kawaii-english"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 247033,
+      "collection": "Dashboard Icons",
+      "file": "i-am-designer-kawaii-english.svg",
+      "id": 2978,
+      "is_default": true,
+      "label": "i-am-designer-kawaii-english",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "i-am-designer-kawaii-english.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54945d70d7316b20e4d87c08e689ec7dcd1ea20d6993b7b6ffd419b81062f697"
+      },
+      "sha256": "45e1429989097b33fb64d25f959369e28fae39623a6e0efc2660795ac4e557ed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/i-am-designer-kawaii-english.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

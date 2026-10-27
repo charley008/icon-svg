@@ -1,0 +1,40 @@
+{
+  "collection_id": 1575,
+  "schema_version": 1,
+  "id": 1802,
+  "title": "Jaeger",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jaeger"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 17261,
+      "collection": "Dashboard Icons",
+      "file": "jaeger.svg",
+      "id": 3061,
+      "is_default": true,
+      "label": "jaeger",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jaeger.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "182763896d8bd83fc155f42b40b176a76bad1e94a43104bdd174154279da4252"
+      },
+      "sha256": "487fcf0b39ff5e15214ed5d5101e0b4733cf539bbcd8018d89c76e3f2d82cd52",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jaeger.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

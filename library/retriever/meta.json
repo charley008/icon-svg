@@ -1,0 +1,40 @@
+{
+  "collection_id": 2501,
+  "schema_version": 1,
+  "id": 2728,
+  "title": "Retriever",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "retriever"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10557,
+      "collection": "Dashboard Icons",
+      "file": "retriever.svg",
+      "id": 4302,
+      "is_default": true,
+      "label": "retriever",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "retriever.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "815cbcaaf8519324896d8466a4d7f4980469078f18bb738f43d9d4b1ab4da3da"
+      },
+      "sha256": "993adb6f6204261b6025154abf814bee38e1d5bd62ba9a9f9643da3329b5eb57",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/retriever.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

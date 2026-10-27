@@ -1,0 +1,40 @@
+{
+  "collection_id": 1779,
+  "schema_version": 1,
+  "id": 2006,
+  "title": "Maptiler",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "maptiler"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1180,
+      "collection": "Dashboard Icons",
+      "file": "maptiler.svg",
+      "id": 3315,
+      "is_default": true,
+      "label": "maptiler",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "maptiler.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6fc76940e6deffed6688c0505f5b6daf9bf707223c6f56f52b07a39bfa143d74"
+      },
+      "sha256": "8ab6c35baa09a4f5189d3406a55218e2a581143c97ecca48156f4710902750a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/maptiler.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

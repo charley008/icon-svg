@@ -1,0 +1,44 @@
+{
+  "collection_id": 1813,
+  "schema_version": 1,
+  "id": 2040,
+  "title": "Meta",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "meta",
+    "facebook-company"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1966,
+      "collection": "Dashboard Icons",
+      "file": "meta.svg",
+      "id": 3361,
+      "is_default": true,
+      "label": "meta",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meta.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f3a684eb3af0f3fe8dbd14c75c975da37bdfb16f53ba777049371c438b21889"
+      },
+      "sha256": "6be5acf78f9de32089e475585f04bcbaaea1f968d8a3de015bdff61f83b5e47d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/meta.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

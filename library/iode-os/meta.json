@@ -1,0 +1,59 @@
+{
+  "collection_id": 1560,
+  "schema_version": 1,
+  "id": 1787,
+  "title": "Iode Os",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "iode-os"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 807,
+      "collection": "Dashboard Icons",
+      "file": "iode-os.svg",
+      "id": 3037,
+      "is_default": true,
+      "label": "iode-os",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iode-os.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40d60c108c424f2c3486d09971960fd1c6d63f006e2e4e9de630024c301604a3"
+      },
+      "sha256": "783421e38de3f4e49158d1895c936513879d063dd9fb48b7738bed4bdeb18942",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iode-os.svg",
+      "version": 0
+    },
+    {
+      "bytes": 807,
+      "collection": "Dashboard Icons",
+      "file": "iode-os-1.svg",
+      "id": 3038,
+      "is_default": false,
+      "label": "iode-os-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iode-os-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "298df13c35b5492173b8fead64a44a8648f2a03e2bd17e19356f07e1323b1443"
+      },
+      "sha256": "6f70be81234d31f5639d5d169b0d7e0fae21556e3aa1d24dcefbc83cde2616b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iode-os-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 2483,
+  "schema_version": 1,
+  "id": 2710,
+  "title": "Redmine",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "redmine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3753,
+      "collection": "Dashboard Icons",
+      "file": "redmine.svg",
+      "id": 4281,
+      "is_default": true,
+      "label": "redmine",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "redmine.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "701e38f8b62bd2477d9e42d92767dcb12dc718d44c045a4e19ae105d1432039b"
+      },
+      "sha256": "9bfbd0f28b42b7e231f0c4d9ade277b69cfb76704f3d540d028103eb2482e995",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redmine.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

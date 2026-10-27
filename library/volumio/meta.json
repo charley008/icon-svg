@@ -1,0 +1,63 @@
+{
+  "collection_id": 2938,
+  "schema_version": 1,
+  "id": 3165,
+  "title": "Volumio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "Media-Servers",
+    "Linux-Distributions"
+  ],
+  "aliases": [
+    "volumio",
+    "Music Player OS"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 510,
+      "collection": "Dashboard Icons",
+      "file": "volumio.svg",
+      "id": 4864,
+      "is_default": true,
+      "label": "volumio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "volumio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0346c280606d926222480c596a87fff40ff35b789d8ffe0bd00233f9e374e0e9"
+      },
+      "sha256": "a419ce37d0234184f2a03be6b7406006395c930bfdb99025cf261cd2c9bc852e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/volumio.svg",
+      "version": 0
+    },
+    {
+      "bytes": 510,
+      "collection": "Dashboard Icons",
+      "file": "volumio-1.svg",
+      "id": 4865,
+      "is_default": false,
+      "label": "volumio-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "volumio-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b2e3ec49ee0fceffe00c64db00c65e88784cd36b23e4a36a571b229f7f6716a8"
+      },
+      "sha256": "1d01de7f21839febbde4f74869a79f3b7c7978c9d97ec6e9893b82d600aeb16c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/volumio-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

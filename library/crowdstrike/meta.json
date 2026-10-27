@@ -1,0 +1,124 @@
+{
+  "collection_id": 1045,
+  "schema_version": 1,
+  "id": 1272,
+  "redirect_from": [
+    1273,
+    1274
+  ],
+  "title": "Crowdstrike",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "crowdstrike",
+    "crowdstrike-wordmark-light",
+    "Crowdstrike Wordmark Light",
+    "crowdstrike-wordmark-dark",
+    "Crowdstrike Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1802,
+      "collection": "Dashboard Icons",
+      "file": "crowdstrike.svg",
+      "id": 2353,
+      "is_default": true,
+      "label": "crowdstrike",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdstrike.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4639cfdeaadca25af44179ef804a630f62082b62046eb9e30a718c6b30c5a93"
+      },
+      "sha256": "815a7f184e37c082431d494724290ce38659fad4dc0d9d5822dcde2ac6ad4743",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1844,
+      "collection": "Dashboard Icons",
+      "file": "crowdstrike-1.svg",
+      "id": 2354,
+      "is_default": false,
+      "label": "crowdstrike-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdstrike-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e30098638882e9dbe11e8920f368a6b8273b86c13a1bf54c9727e2231aa2e6d"
+      },
+      "sha256": "240341122dcfb9d306807a251f83364a09d2a587a7322b471ec1f12dcbdc5e7b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1847,
+      "collection": "Dashboard Icons",
+      "file": "crowdstrike-2.svg",
+      "id": 2355,
+      "is_default": false,
+      "label": "crowdstrike-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdstrike-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "66d16a78c52b33b35e674cdeb63e59c44cb6578c54e287e30dcc2f7dcba71ddd"
+      },
+      "sha256": "abe09f2ad86c4eb1bc537895d04e9c424af62500ca8bca5292d996009352c604",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3465,
+      "collection": "Dashboard Icons",
+      "file": "crowdstrike-3.svg",
+      "id": 2357,
+      "is_default": false,
+      "label": "crowdstrike-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdstrike-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74527d671649af7112ded215cde04d48d7aa9281cadebc7f53a7660f8fc43ea3"
+      },
+      "sha256": "4ec3d2f7612de775de4dab868572f2edf8d517ff053298fcb830679feac0962b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3512,
+      "collection": "Dashboard Icons",
+      "file": "crowdstrike-4.svg",
+      "id": 2356,
+      "is_default": false,
+      "label": "crowdstrike-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdstrike-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1071083c02450da9f08316c05d4bf51c61c421b5cededb91bc1f1af0e2c34a7b"
+      },
+      "sha256": "a01a565ba37492e858d57ecc6e6cb4e1e332d78b038a4c980514f4d0077a5785",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdstrike-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

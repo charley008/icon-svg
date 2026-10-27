@@ -1,0 +1,78 @@
+{
+  "collection_id": 1463,
+  "schema_version": 1,
+  "id": 1690,
+  "title": "Helix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "helix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1597,
+      "collection": "Dashboard Icons",
+      "file": "helix.svg",
+      "id": 2912,
+      "is_default": true,
+      "label": "helix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "helix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "88e1cc4119b9fff7cb4b5d7e926a72360731eab365c8d4e2b5e1efd74966f0dd"
+      },
+      "sha256": "403bf89c1074350e4126a7140bf762ebc96ff74bf13fb67f29b305caf62831f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/helix.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3120,
+      "collection": "Dashboard Icons",
+      "file": "helix-1.svg",
+      "id": 2913,
+      "is_default": false,
+      "label": "helix-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "helix-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "418dabaed98cdf95c8678235c8c84f58ccaa70ab2b783279ba54258b273b177a"
+      },
+      "sha256": "456b91d1bb81ca11bf983c3bc3ad03e6f4a6f4bb8ef5713068a52194309efd25",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/helix-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3028,
+      "collection": "Dashboard Icons",
+      "file": "helix-2.svg",
+      "id": 2914,
+      "is_default": false,
+      "label": "helix-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "helix-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b07822ecfdeaa97d4dd9c53431dc87996910dc3e651ea9352327d577c3bd9d6"
+      },
+      "sha256": "098894b72c4994bb16251e28c797c6a438cab214800c6d47e4a106d8d8a03d11",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/helix-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

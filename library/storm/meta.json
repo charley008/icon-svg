@@ -1,0 +1,40 @@
+{
+  "collection_id": 2705,
+  "schema_version": 1,
+  "id": 2932,
+  "title": "Storm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "storm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2932,
+      "collection": "Dashboard Icons",
+      "file": "storm.svg",
+      "id": 4564,
+      "is_default": true,
+      "label": "storm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "storm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "71af673cf2d566cb79859ef33d04d3ebfcf12c55fbb7e8682ea7acc910459325"
+      },
+      "sha256": "f3c1fa9acf07bfcbf59cfc664bd96ccc3ee9f3a16d33d8fa4d68de1733221171",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/storm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

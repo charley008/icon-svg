@@ -1,0 +1,43 @@
+{
+  "collection_id": 1124,
+  "schema_version": 1,
+  "id": 1351,
+  "title": "Docker Volume Backup",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "docker-volume-backup",
+    "Volume Backup"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 547,
+      "collection": "Dashboard Icons",
+      "file": "docker-volume-backup.svg",
+      "id": 2463,
+      "is_default": true,
+      "label": "docker-volume-backup",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-volume-backup.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "204253c70aa840d92aab21c871c98ca155742aff48b40be49d3390f6e72b075a"
+      },
+      "sha256": "23d1aa1569ed02626914beb70de480417cde25173b65559ab5cb168f4bea0b9d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker-volume-backup.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

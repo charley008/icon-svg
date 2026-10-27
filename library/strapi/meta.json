@@ -1,0 +1,40 @@
+{
+  "collection_id": 2707,
+  "schema_version": 1,
+  "id": 2934,
+  "title": "Strapi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "strapi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 746,
+      "collection": "Dashboard Icons",
+      "file": "strapi.svg",
+      "id": 4566,
+      "is_default": true,
+      "label": "strapi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "strapi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "13e9d4fd8f32b888d22a98a63e7edafe0382db389a02d0ede5546b6576ac9a15"
+      },
+      "sha256": "b05907f21acbdc803530e34f4dc4db36bf46aa77938eb417642d0d0ba62b8917",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/strapi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

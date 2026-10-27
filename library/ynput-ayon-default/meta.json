@@ -1,0 +1,40 @@
+{
+  "collection_id": 3025,
+  "schema_version": 1,
+  "id": 3252,
+  "title": "Ynput Ayon Default",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ynput-ayon-default"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 855,
+      "collection": "Dashboard Icons",
+      "file": "ynput-ayon-default.svg",
+      "id": 4983,
+      "is_default": true,
+      "label": "ynput-ayon-default",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ynput-ayon-default.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "50e91bfcc3ce97cb36a556881a29f5e4a8e0d6e07ed08b08ac6490305104bd38"
+      },
+      "sha256": "cc2b918321858cd573cfc1ea0d14d1b639ef9f727dc293fe0da373edc0469119",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ynput-ayon-default.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

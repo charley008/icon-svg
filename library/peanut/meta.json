@@ -1,0 +1,59 @@
+{
+  "collection_id": 2115,
+  "schema_version": 1,
+  "id": 2342,
+  "title": "Peanut",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "peanut"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4865,
+      "collection": "Dashboard Icons",
+      "file": "peanut.svg",
+      "id": 3786,
+      "is_default": true,
+      "label": "peanut",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peanut.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c91c9bfca70dfd170fb5273fbf4b27485d0fad5282df796922896f34f460f9ae"
+      },
+      "sha256": "3b893be51abf2940149cf57e1f9e421b7ba59672740e00bc7dffd2c500a8176c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peanut.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4901,
+      "collection": "Dashboard Icons",
+      "file": "peanut-1.svg",
+      "id": 3787,
+      "is_default": false,
+      "label": "peanut-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peanut-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0f478fe58d0b3bee10029dba4f3e5c6902ac53cbb90e851cf973648c5d5bbc9e"
+      },
+      "sha256": "cb4d6e15897eefdd1571e2b0754cb086752a21b622bf637315fa978a91d76bba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peanut-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

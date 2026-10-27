@@ -1,0 +1,41 @@
+{
+  "collection_id": 845,
+  "schema_version": 1,
+  "id": 1072,
+  "title": "Ballerina",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "ballerina"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 462,
+      "collection": "Dashboard Icons",
+      "file": "ballerina.svg",
+      "id": 2084,
+      "is_default": true,
+      "label": "ballerina",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ballerina.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ab62c09f9751ad5d0c2e4f86e3be545d47b5a73be2c8647e35686fdb07ca97b"
+      },
+      "sha256": "744f215afbd1c1f7dc43d9c7ecf8d712739fbb8287766be35a7b2a66b0820f35",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ballerina.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,80 @@
+{
+  "collection_id": 709,
+  "schema_version": 1,
+  "id": 936,
+  "title": "Angular",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "angular"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1814,
+      "collection": "Dashboard Icons",
+      "file": "angular.svg",
+      "id": 1908,
+      "is_default": true,
+      "label": "angular",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "angular.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "937b5365216601250d79a9297ce4754e29ea7a3db681a5c7ed0e3e7d7417b902"
+      },
+      "sha256": "d6abef3ad06d76710703d3a0c49cca82356480dfeb503a5d701be26a100e6c3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/angular.svg",
+      "version": 0
+    },
+    {
+      "bytes": 118658,
+      "collection": "Dashboard Icons",
+      "file": "angular-1.svg",
+      "id": 1909,
+      "is_default": false,
+      "label": "angular-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "angular-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "400ef12f31b2b306e3e3de3d6c4b44ac8d66d2e1fa354e34700c3a5f9a06f818"
+      },
+      "sha256": "2e94188fcfaf576283507eb0ddb1a5b1e5980c5058e5be0c13e70bdfe8240e14",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/angular-kawaii.svg",
+      "version": 1
+    },
+    {
+      "bytes": 954,
+      "collection": "TechIcons / Devicon",
+      "file": "angular-2.svg",
+      "id": 5062,
+      "is_default": false,
+      "label": "TechIcons · Angular",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Angular.svg",
+        "original_sha256": "ab41688de46bdfd5674edda83387d3a7d06b5f04be9de0799a78a24166c32232",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/angular",
+        "reference_website": "https://angular.io"
+      },
+      "sha256": "777917028eb20bbc10f1cc18725fd0b0fe901ae6df33d271900293dada87281e",
+      "source": "https://techicons.dev/icons/angular",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

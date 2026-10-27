@@ -1,0 +1,43 @@
+{
+  "collection_id": 2750,
+  "schema_version": 1,
+  "id": 2977,
+  "title": "Tautulli",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Media-Servers"
+  ],
+  "aliases": [
+    "tautulli",
+    "Plex Stats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1092,
+      "collection": "Dashboard Icons",
+      "file": "tautulli.svg",
+      "id": 4623,
+      "is_default": true,
+      "label": "tautulli",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tautulli.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f792a23f20b977aeac135cfc9aceb5589fa27e68160b7a278a539ff83621419c"
+      },
+      "sha256": "cd63a79fd9b920a3c32ff9181791d7d00af9f599615371ae83c777a0f299031d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tautulli.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -135,8 +135,27 @@
       "sha256": "06be7879a3775ac8306c10713edbabbcca4ce727d06abf79c48a0191fa3a4e5c",
       "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snapchat.svg",
       "version": 4
+    },
+    {
+      "bytes": 4667,
+      "collection": "Dashboard Icons",
+      "file": "snapchat-5.svg",
+      "id": 4480,
+      "is_default": false,
+      "label": "snapchat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snapchat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e5fabffd2827f6b2684c743559b93cd454dae51594054fb3b066997a4038763"
+      },
+      "sha256": "c6c85e94887d5ab7bfaee3c40da33f9ee1991c7b6efc01f3fc3b9cdde1071b2e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snapchat.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

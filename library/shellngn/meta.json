@@ -1,0 +1,40 @@
+{
+  "collection_id": 2601,
+  "schema_version": 1,
+  "id": 2828,
+  "title": "Shellngn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shellngn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9244,
+      "collection": "Dashboard Icons",
+      "file": "shellngn.svg",
+      "id": 4436,
+      "is_default": true,
+      "label": "shellngn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shellngn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4bf9fa1b39f2dcf0e77d85162c9b0fd5f295342347d89cd015ca50b2e87215bb"
+      },
+      "sha256": "06408cf7290c784e6b0e17e884fe8d94d6b68567299448c6f65604d686f19229",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shellngn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

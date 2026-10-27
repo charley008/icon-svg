@@ -1,0 +1,41 @@
+{
+  "collection_id": 2806,
+  "schema_version": 1,
+  "id": 3033,
+  "title": "Ting Isp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "ting-isp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2339,
+      "collection": "Dashboard Icons",
+      "file": "ting-isp.svg",
+      "id": 4692,
+      "is_default": true,
+      "label": "ting-isp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ting-isp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b008158357e8a3002354346d150d9871da5974c057e5a4c4e3c4933f3e4284ea"
+      },
+      "sha256": "e8b565a797b5dc78f9688960c24737b2f6a101c2421bc8b59e775fc5217d8cf8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ting-isp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

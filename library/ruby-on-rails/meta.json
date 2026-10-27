@@ -1,0 +1,62 @@
+{
+  "collection_id": 2530,
+  "schema_version": 1,
+  "id": 2757,
+  "title": "Ruby On Rails",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "ruby-on-rails",
+    "rails"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2013,
+      "collection": "Dashboard Icons",
+      "file": "ruby-on-rails.svg",
+      "id": 4338,
+      "is_default": true,
+      "label": "ruby-on-rails",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ruby-on-rails.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "622e0b77c467d654d9a3b4ba6fc2e7a550557902a9f2adfa4f38946380b2806a"
+      },
+      "sha256": "25303eb8be188cda328c1aaf5109055acd8444fd5e56100e24b081aa8a1bb079",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ruby-on-rails.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2183,
+      "collection": "TechIcons / Devicon",
+      "file": "ruby-on-rails-1.svg",
+      "id": 5348,
+      "is_default": false,
+      "label": "TechIcons · Ruby on Rails",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ruby-on-Rails.svg",
+        "original_sha256": "4b3c11c91fbe94ebc123089599c6567d73489b855ef6550b0da0356da0c9ceea",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/rails",
+        "reference_website": "https://guides.rubyonrails.org"
+      },
+      "sha256": "a6e8820698d349c967270aae33d77472f772474f535446f27a1528c371a1944b",
+      "source": "https://techicons.dev/icons/rails",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

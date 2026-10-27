@@ -1,0 +1,45 @@
+{
+  "collection_id": 3158,
+  "schema_version": 1,
+  "id": 3415,
+  "title": "Knex.js",
+  "url": "https://knexjs.org",
+  "domains": [
+    "knexjs.org"
+  ],
+  "description": "JavaScript SQL 查询构建与数据库操作工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Knex.js",
+    "knexjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5623,
+      "collection": "TechIcons / Devicon",
+      "file": "knexjs-1.svg",
+      "id": 5240,
+      "is_default": true,
+      "label": "TechIcons · Knex.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Knex.js.svg",
+        "original_sha256": "e093346b2257344993b9794cb323ba312dee0b7b8f8bad67e39460e7ef14aff2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/knexjs",
+        "reference_website": "https://knexjs.org"
+      },
+      "sha256": "dd3c21ec1bd59cbc89c7bf2587bb748ca42ef9ea07a4f96c0d6a37836f21c564",
+      "source": "https://techicons.dev/icons/knexjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3172,
+  "schema_version": 1,
+  "id": 3429,
+  "title": "Matplotlib",
+  "url": "https://matplotlib.org",
+  "domains": [
+    "matplotlib.org"
+  ],
+  "description": "用于 Python 数据绘图与可视化的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Matplotlib",
+    "matplotlib"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 23565,
+      "collection": "TechIcons / Devicon",
+      "file": "matplotlib-1.svg",
+      "id": 5259,
+      "is_default": true,
+      "label": "TechIcons · Matplotlib",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Matplotlib.svg",
+        "original_sha256": "c93696650c82f3c87b0c7228b501187feab0c10326249ffa1ea8b4c196e57f1b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/matplotlib",
+        "reference_website": "https://matplotlib.org"
+      },
+      "sha256": "b4772c08bde2baf4dba6620f816baadfd239b3993109a86395e69e6779bab869",
+      "source": "https://techicons.dev/icons/matplotlib",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

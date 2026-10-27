@@ -1,0 +1,59 @@
+{
+  "collection_id": 1248,
+  "schema_version": 1,
+  "id": 1475,
+  "title": "Feedbin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "feedbin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2595,
+      "collection": "Dashboard Icons",
+      "file": "feedbin.svg",
+      "id": 2627,
+      "is_default": true,
+      "label": "feedbin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "feedbin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "907f0a74bd6bce921f329963ef09d840b281c401d5929ebd362a376b0dc71642"
+      },
+      "sha256": "6b81819109ceeb014c803a4ad37b6166e59b71e476b8bf10d4cb2b7ab1380eda",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/feedbin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2607,
+      "collection": "Dashboard Icons",
+      "file": "feedbin-1.svg",
+      "id": 2628,
+      "is_default": false,
+      "label": "feedbin-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "feedbin-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5bcb69fda9d35d9f810a10e8c118337319f623e956e4c8854ca9997e27ecafb8"
+      },
+      "sha256": "47b94f0c007ec032beeb3edc36f0723e28d22c3094cca05c9baa6f4ae6fd5565",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/feedbin-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

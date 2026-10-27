@@ -1,11 +1,14 @@
 {
+  "collection_id": 605,
+  "schema_version": 1,
+  "id": 830,
   "title": "Remmina",
   "url": "https://remmina.org/",
   "domains": [
     "remmina.org"
   ],
   "description": "开源远程桌面客户端。",
-  "category": "系统工具",
+  "category": "网络工具",
   "tags": [
     "远程桌面",
     "RDP",
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "remmina.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "0857195bbb98134ac7b79c51e01e2f37183a0e1505a41a6108af8d9189987953",
       "bytes": 4132,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/remmina.svg",
+      "collection": "Dashboard Icons",
+      "file": "remmina.svg",
+      "id": 1787,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "remmina.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "0857195bbb98134ac7b79c51e01e2f37183a0e1505a41a6108af8d9189987953",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/remmina.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

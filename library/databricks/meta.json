@@ -1,0 +1,40 @@
+{
+  "collection_id": 1072,
+  "schema_version": 1,
+  "id": 1299,
+  "title": "Databricks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "databricks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 472,
+      "collection": "Dashboard Icons",
+      "file": "databricks.svg",
+      "id": 2389,
+      "is_default": true,
+      "label": "databricks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "databricks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "91f536ec57cfc059779de5081ef1b9613876b9b4f65efa6f0b8cd66edd32f3d7"
+      },
+      "sha256": "4e907dbc4daed59a48dc5a4553201cdf99fae2a4ce71f4472aff4b18bd175eb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/databricks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

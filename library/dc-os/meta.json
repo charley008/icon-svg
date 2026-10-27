@@ -1,0 +1,45 @@
+{
+  "collection_id": 1078,
+  "schema_version": 1,
+  "id": 1305,
+  "title": "Dc Os",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools",
+    "Cloud-Computing",
+    "开发编程"
+  ],
+  "aliases": [
+    "dc-os",
+    "Container Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8445,
+      "collection": "Dashboard Icons",
+      "file": "dc-os.svg",
+      "id": 2395,
+      "is_default": true,
+      "label": "dc-os",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dc-os.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eeb7654316c54dbe9d4035a3042b27fc957040ddfcc88434f44221552e5c0022"
+      },
+      "sha256": "c4de4fc27f140a88dabaf945fec9f95a35176b89987363b3b3f0a985a06bc11d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dc-os.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

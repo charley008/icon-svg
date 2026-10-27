@@ -1,0 +1,40 @@
+{
+  "collection_id": 754,
+  "schema_version": 1,
+  "id": 981,
+  "title": "Arrpulse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "arrpulse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1854,
+      "collection": "Dashboard Icons",
+      "file": "arrpulse.svg",
+      "id": 1972,
+      "is_default": true,
+      "label": "arrpulse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "arrpulse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c9c4e358975db896963ddf72d49c282dbc13c4d553bca53ed6a2112a97a5fac"
+      },
+      "sha256": "64c5577006b81eaea225c412d32b33486476ba2a6e308314ddb11e2eae799b16",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arrpulse.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

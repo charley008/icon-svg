@@ -1,4 +1,7 @@
 {
+  "collection_id": 533,
+  "schema_version": 1,
+  "id": 709,
   "title": "Floorp",
   "url": "https://floorp.app/",
   "domains": [
@@ -19,24 +22,24 @@
   "notes": [],
   "icons": [
     {
-      "file": "floorp.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "1fecfaa97e9b8073aec7eb1cc46d7d5150193534099d474ad5bcbdd0bce151da",
       "bytes": 30345,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/floorp.svg",
+      "collection": "Dashboard Icons",
+      "file": "floorp.svg",
+      "id": 1669,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg-cleaned",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "floorp.svg",
-        "repository": "https://github.com/homarr-labs/dashboard-icons",
-        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
-      }
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved.",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      },
+      "sha256": "1fecfaa97e9b8073aec7eb1cc46d7d5150193534099d474ad5bcbdd0bce151da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/floorp.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

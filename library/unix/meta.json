@@ -1,0 +1,45 @@
+{
+  "collection_id": 3253,
+  "schema_version": 1,
+  "id": 3517,
+  "title": "UNIX",
+  "url": "https://unix.org",
+  "domains": [
+    "unix.org"
+  ],
+  "description": "UNIX 操作系统及技术体系的标志。",
+  "category": "系统工具",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "UNIX",
+    "unix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 684,
+      "collection": "TechIcons / Devicon",
+      "file": "unix-1.svg",
+      "id": 5390,
+      "is_default": true,
+      "label": "TechIcons · UNIX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "UNIX.svg",
+        "original_sha256": "f7f9316edad946395cd4fb7478f08f28ca110022d5356df4e513ddc102e3d4e7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/unix",
+        "reference_website": "https://unix.org"
+      },
+      "sha256": "d36fd490e4c4817e902393314fcc9adf03fa9fdc4af1012bdb5ff6f1765ff44c",
+      "source": "https://techicons.dev/icons/unix",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

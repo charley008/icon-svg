@@ -1,0 +1,42 @@
+{
+  "collection_id": 1344,
+  "schema_version": 1,
+  "id": 1571,
+  "title": "Frp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "frp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3325,
+      "collection": "Dashboard Icons",
+      "file": "frp.svg",
+      "id": 2740,
+      "is_default": true,
+      "label": "frp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "frp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "33fbbde19a3d0f15cb7fab1f684f2568cac16e513355307e45366a1c1169913e"
+      },
+      "sha256": "e6246c11fa1088cb75dc01480327f6b6ffcc816c46e25b817ef873a81866917e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/frp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

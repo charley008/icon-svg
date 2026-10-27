@@ -1,4 +1,7 @@
 {
+  "collection_id": 550,
+  "schema_version": 1,
+  "id": 751,
   "title": "JetBrains",
   "url": "https://www.jetbrains.com/",
   "domains": [
@@ -17,91 +20,162 @@
     "开发工具"
   ],
   "notes": [],
-  "icons": [],
-  "next_version": 0,
-  "schema_version": 1,
+  "icons": [
+    {
+      "bytes": 3648,
+      "collection": "TechIcons / Devicon",
+      "file": "jetbrains.svg",
+      "id": 5218,
+      "is_default": true,
+      "label": "TechIcons · JetBrains",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "JetBrains.svg",
+        "original_sha256": "bdb59bef1e6569cdefdc5ade07443dd1e5702f73866a08f7ca91b056834cbfa5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jetbrains",
+        "reference_website": "https://www.jetbrains.com"
+      },
+      "sha256": "071de79dfd9f0204f0fc04bbf16c82f4c79d0f87ea6c6d272f96d5c362c79e47",
+      "source": "https://techicons.dev/icons/jetbrains",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
   "products": [
     {
-      "title": "JetBrains Toolbox",
-      "url": "https://www.jetbrains.com/toolbox-app/",
+      "id": 3399,
+      "key": "clion",
+      "title": "CLion",
+      "url": "https://www.jetbrains.com/clion",
       "domains": [
-        "www.jetbrains.com"
+        "jetbrains.com"
       ],
-      "description": "JetBrains IDE 管理应用。",
+      "description": "JetBrains 的集成软件开发环境。",
       "category": "开发编程",
       "tags": [
-        "IDE管理",
-        "开发工具",
-        "JetBrains Toolbox"
+        "TechIcons",
+        "Devicon"
       ],
       "aliases": [
-        "jetbrains-toolbox",
-        "IDE管理",
-        "开发工具"
+        "CLion",
+        "clion"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "jetbrains-toolbox.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 2474,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-clion-1.svg",
+          "id": 5220,
           "is_default": true,
-          "sha256": "6322225e83c089e4efcb121436293c03247d1fc144b5da3430c865f7633e3558",
-          "bytes": 572,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetbrains-toolbox.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
+          "label": "TechIcons · CLion",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
           "provenance": {
-            "original_file": "jetbrains-toolbox.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+            "original_file": "CLion.svg",
+            "original_sha256": "1c8c872fc2515a24881a9ab016be14178c71cb278fd962b4693cf31e18190e5a",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/clion",
+            "reference_website": "https://www.jetbrains.com/clion"
+          },
+          "sha256": "7a3679120287f1509e5fa088885971413267ca6240281e863705f04d0e657441",
+          "source": "https://techicons.dev/icons/clion",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "toolbox"
+      "next_version": 2
     },
     {
-      "title": "YouTrack",
-      "url": "https://www.jetbrains.com/youtrack/",
+      "id": 3400,
+      "key": "dataspell",
+      "title": "DataSpell",
+      "url": "https://jetbrains.com/dataspell",
       "domains": [
-        "www.jetbrains.com"
+        "jetbrains.com"
       ],
-      "description": "JetBrains 项目与问题跟踪工具。",
-      "category": "办公效率",
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
       "tags": [
-        "问题跟踪",
-        "项目管理",
-        "YouTrack"
+        "TechIcons",
+        "Devicon"
       ],
       "aliases": [
-        "jetbrains-youtrack",
-        "问题跟踪",
-        "项目管理"
+        "DataSpell",
+        "dataspell"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "jetbrains-youtrack.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 2756,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-dataspell-1.svg",
+          "id": 5221,
           "is_default": true,
-          "sha256": "9089055c6d36fa3541d9f4d404b117734917ede13014b23559c77fa992e763e6",
-          "bytes": 2218,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetbrains-youtrack.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
+          "label": "TechIcons · DataSpell",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
           "provenance": {
-            "original_file": "jetbrains-youtrack.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+            "original_file": "DataSpell.svg",
+            "original_sha256": "76dd42f5fc126a8a9af3dcc07e482eaa3401df724f127031a2c505572fbbbfa1",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/dataspell",
+            "reference_website": "https://jetbrains.com/dataspell"
+          },
+          "sha256": "922c5c151649121f3a06609a956b04ec1184d42e4059025c11cf0d2a92babf3c",
+          "source": "https://techicons.dev/icons/dataspell",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "youtrack"
+      "next_version": 2
     },
     {
+      "id": 3401,
+      "key": "goland",
+      "title": "GoLand",
+      "url": "https://www.jetbrains.com/go",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "GoLand",
+        "goland"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2868,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-goland-1.svg",
+          "id": 5222,
+          "is_default": true,
+          "label": "TechIcons · GoLand",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "GoLand.svg",
+            "original_sha256": "0a060685da614ef1feb3cad7b8d37620a134383ca7ad403e706268829058522f",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/goland",
+            "reference_website": "https://www.jetbrains.com/go"
+          },
+          "sha256": "07a33b2ad0184c6af41c1f06d2476a0e563a264c72e507ccb8bd2b109c9bce2e",
+          "source": "https://techicons.dev/icons/goland",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 754,
+      "key": "intellij",
       "title": "IntelliJ IDEA",
       "url": "https://www.jetbrains.com/idea/",
       "domains": [
@@ -125,24 +199,405 @@
       "notes": [],
       "icons": [
         {
-          "file": "jetbrains-intellij.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "0891480058f9359b69c656176b240fd7d097da2e7b3af70a7113058389a06855",
           "bytes": 3586,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/intellij.svg",
+          "collection": "Dashboard Icons",
+          "file": "jetbrains-intellij.svg",
+          "id": 1712,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "intellij.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "0891480058f9359b69c656176b240fd7d097da2e7b3af70a7113058389a06855",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/intellij.svg",
+          "version": 0
+        },
+        {
+          "bytes": 117235,
+          "collection": "Dashboard Icons",
+          "file": "jetbrains-intellij-1.svg",
+          "id": 3076,
+          "is_default": false,
+          "label": "intellij-kawaii",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "intellij-kawaii.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3e5591e67f0dad9a553f50f6791f58f1d7990362c48b5f038107496fb56f8513"
+          },
+          "sha256": "880e8b6e097dd12acb6936cb5b7d9d02acc320f518e5f96a556059990e761f05",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/intellij-kawaii.svg",
+          "version": 1
+        },
+        {
+          "bytes": 2684,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-intellij-2.svg",
+          "id": 5219,
+          "is_default": false,
+          "label": "TechIcons · IntelliJ IDEA",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "IntelliJ-IDEA.svg",
+            "original_sha256": "7ce573a86bc3e352295b8df8a09e1136700297e0add359f9d4d7e3aec77bc65f",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/intellij",
+            "reference_website": "https://www.jetbrains.com/idea"
+          },
+          "sha256": "9d737b702e847e628c032b703c3343515e9683fde1d8dfdbe4c12529077a180b",
+          "source": "https://techicons.dev/icons/intellij",
+          "version": 2
         }
       ],
-      "next_version": 1,
-      "key": "intellij"
+      "next_version": 3
+    },
+    {
+      "id": 3402,
+      "key": "phpstorm",
+      "title": "PhpStorm",
+      "url": "https://www.jetbrains.com/phpstorm",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "PhpStorm",
+        "phpstorm"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2768,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-phpstorm-1.svg",
+          "id": 5223,
+          "is_default": true,
+          "label": "TechIcons · PhpStorm",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "PhpStorm.svg",
+            "original_sha256": "72fd3e316ef3436a24c722a8802cccbb72dc42b1dd924e071233f136148b614d",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/phpstorm",
+            "reference_website": "https://www.jetbrains.com/phpstorm"
+          },
+          "sha256": "147322f972d84507769700701b9cd10d2827c9f88f8621daf3fa58030e2ff2f3",
+          "source": "https://techicons.dev/icons/phpstorm",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3403,
+      "key": "pycharm",
+      "title": "PyCharm",
+      "url": "https://www.jetbrains.com/pycharm",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "PyCharm",
+        "pycharm"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3873,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-pycharm-1.svg",
+          "id": 5224,
+          "is_default": true,
+          "label": "TechIcons · PyCharm",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "PyCharm.svg",
+            "original_sha256": "e477243951215d340f7cfc32e44b99752b050a0896a7f3ead53bda43b15304df",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/pycharm",
+            "reference_website": "https://www.jetbrains.com/pycharm"
+          },
+          "sha256": "e654633dc9b347489df4c29c9462522353d5f8caff56e61603fcdbea2253209b",
+          "source": "https://techicons.dev/icons/pycharm",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3404,
+      "key": "qodana",
+      "title": "Qodana",
+      "url": "https://www.jetbrains.com/qodana",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的代码静态分析与质量检查工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Qodana",
+        "qodana"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2132,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-qodana-1.svg",
+          "id": 5225,
+          "is_default": true,
+          "label": "TechIcons · Qodana",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Qodana.svg",
+            "original_sha256": "7d7e76c5e7c43e10b69a3d0d439dbb3837bfe54bba5227d91269a5c46c0b4961",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/qodana",
+            "reference_website": "https://www.jetbrains.com/qodana"
+          },
+          "sha256": "2431b18b05ba9f0b8d49ffff0c04cbecdbda9d28968d5885babd782f9b3b95c8",
+          "source": "https://techicons.dev/icons/qodana",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3405,
+      "key": "rider",
+      "title": "Rider",
+      "url": "https://www.jetbrains.com/rider",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Rider",
+        "rider"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1764,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-rider-1.svg",
+          "id": 5226,
+          "is_default": true,
+          "label": "TechIcons · Rider",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Rider.svg",
+            "original_sha256": "768dc8b8cbc5eb40758e0ee7616ec92d66209d4b5d7fcb48f2ea788684e17217",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/rider",
+            "reference_website": "https://www.jetbrains.com/rider"
+          },
+          "sha256": "67db4dfc2eef0f8127fd45e5a7f5affe4a4d3171ce90799cf127c132ce1def72",
+          "source": "https://techicons.dev/icons/rider",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3406,
+      "key": "rubymine",
+      "title": "RubyMine",
+      "url": "https://www.jetbrains.com/ruby",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "RubyMine",
+        "rubymine"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2217,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-rubymine-1.svg",
+          "id": 5227,
+          "is_default": true,
+          "label": "TechIcons · RubyMine",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "RubyMine.svg",
+            "original_sha256": "cd188f78355ad9625d54cb2fcb77563058dafbde4921121e489c96099f1c7dab",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/rubymine",
+            "reference_website": "https://www.jetbrains.com/ruby"
+          },
+          "sha256": "2ccb8f7cbc032524ab98195703fd1629f9a0b685f44138bfd1f524996fe8dc81",
+          "source": "https://techicons.dev/icons/rubymine",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 752,
+      "key": "toolbox",
+      "title": "JetBrains Toolbox",
+      "url": "https://www.jetbrains.com/toolbox-app/",
+      "domains": [
+        "www.jetbrains.com"
+      ],
+      "description": "JetBrains IDE 管理应用。",
+      "category": "开发编程",
+      "tags": [
+        "IDE管理",
+        "开发工具",
+        "JetBrains Toolbox"
+      ],
+      "aliases": [
+        "jetbrains-toolbox",
+        "IDE管理",
+        "开发工具"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 572,
+          "collection": "Dashboard Icons",
+          "file": "jetbrains-toolbox.svg",
+          "id": 1710,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jetbrains-toolbox.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "6322225e83c089e4efcb121436293c03247d1fc144b5da3430c865f7633e3558",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetbrains-toolbox.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3407,
+      "key": "webstorm",
+      "title": "WebStorm",
+      "url": "https://www.jetbrains.com/webstorm",
+      "domains": [
+        "jetbrains.com"
+      ],
+      "description": "JetBrains 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "WebStorm",
+        "webstorm"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1993,
+          "collection": "TechIcons / Devicon",
+          "file": "jetbrains-webstorm-1.svg",
+          "id": 5228,
+          "is_default": true,
+          "label": "TechIcons · WebStorm",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "WebStorm.svg",
+            "original_sha256": "64d2b0f3db1b1f72f7eb28bb7e6957f79efa81ce24ae532ba616e34798e6058a",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/webstorm",
+            "reference_website": "https://www.jetbrains.com/webstorm"
+          },
+          "sha256": "d90b720e8e244155924c0a33f545890fe4b666de03e053e55624548a95b3cc15",
+          "source": "https://techicons.dev/icons/webstorm",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 753,
+      "key": "youtrack",
+      "title": "YouTrack",
+      "url": "https://www.jetbrains.com/youtrack/",
+      "domains": [
+        "www.jetbrains.com"
+      ],
+      "description": "JetBrains 项目与问题跟踪工具。",
+      "category": "办公效率",
+      "tags": [
+        "问题跟踪",
+        "项目管理",
+        "YouTrack"
+      ],
+      "aliases": [
+        "jetbrains-youtrack",
+        "问题跟踪",
+        "项目管理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2218,
+          "collection": "Dashboard Icons",
+          "file": "jetbrains-youtrack.svg",
+          "id": 1711,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jetbrains-youtrack.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "9089055c6d36fa3541d9f4d404b117734917ede13014b23559c77fa992e763e6",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetbrains-youtrack.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     }
   ]
 }

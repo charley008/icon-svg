@@ -1,0 +1,40 @@
+{
+  "collection_id": 2082,
+  "schema_version": 1,
+  "id": 2309,
+  "title": "Palo Alto",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "palo-alto"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 451,
+      "collection": "Dashboard Icons",
+      "file": "palo-alto.svg",
+      "id": 3741,
+      "is_default": true,
+      "label": "palo-alto",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "palo-alto.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "80852b82b93d178ac4451cd213d155ff3f7c775da243ea4e7b9e2220a8f17984"
+      },
+      "sha256": "3a50739912cacf4dde2fd59ad2807cb0adbecc02789ad5fb8901d99b25507444",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/palo-alto.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2882,
+  "schema_version": 1,
+  "id": 3109,
+  "title": "Unstoppabledomains",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "unstoppabledomains"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 882,
+      "collection": "Dashboard Icons",
+      "file": "unstoppabledomains.svg",
+      "id": 4792,
+      "is_default": true,
+      "label": "unstoppabledomains",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unstoppabledomains.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39cc135cff104a6907f446f15b63e94c6e7ce276c91d4753357383b65fc62e33"
+      },
+      "sha256": "a41d62996dd2ef0844b2e0f62b3e4de22792f9c1e349d9454320ab8572f6b4c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unstoppabledomains.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

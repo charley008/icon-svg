@@ -1,0 +1,61 @@
+{
+  "collection_id": 1837,
+  "schema_version": 1,
+  "id": 2064,
+  "title": "MLflow",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "ml-flow-wordmark",
+    "Ml Flow Wordmark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2651,
+      "collection": "Dashboard Icons",
+      "file": "ml-flow-wordmark.svg",
+      "id": 3404,
+      "is_default": true,
+      "label": "ml-flow-wordmark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ml-flow-wordmark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37b4e89e3bf3058f930a5d15d5141fdb13e3ee4464dcf9aff67781cd103fb732"
+      },
+      "sha256": "40d970937b60a8705f3397de7be7bca4dbd83e62ce8a4a94470d038caf0868d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ml-flow-wordmark.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2647,
+      "collection": "Dashboard Icons",
+      "file": "ml-flow-wordmark-1.svg",
+      "id": 3405,
+      "is_default": false,
+      "label": "ml-flow-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ml-flow-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe398c70bd87b0c01394dad7707f3d9b9080d2ab3578137f57d8f924d6e56a32"
+      },
+      "sha256": "7a47d44a70b36e222ae310bf0bcb359bc33d39b64daf5ba329e380e402eade79",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ml-flow-wordmark-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1613,
+  "schema_version": 1,
+  "id": 1840,
+  "title": "Kanboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kanboard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1122,
+      "collection": "Dashboard Icons",
+      "file": "kanboard.svg",
+      "id": 3107,
+      "is_default": true,
+      "label": "kanboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kanboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6bc43cb5cd641dd4bc0cde3d9301368a2d4713ef0719abc73b5c28b504a1f12d"
+      },
+      "sha256": "e0887675a75617f78497fb0f0ef0b4608eaccf048e61991b4e8e23d66ad38fcc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kanboard.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1119,
+      "collection": "Dashboard Icons",
+      "file": "kanboard-1.svg",
+      "id": 3108,
+      "is_default": false,
+      "label": "kanboard-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kanboard-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fa38b82bb686523a311f83543858468dd8aa13c2c30914eccf6660ca43faa3ce"
+      },
+      "sha256": "d1ff4cd667cd3dba92ea23d5440cd0c93ebd8cc046f1492d90886466b642af66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kanboard-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2189,
+  "schema_version": 1,
+  "id": 2416,
+  "title": "Portus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "portus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5676,
+      "collection": "Dashboard Icons",
+      "file": "portus.svg",
+      "id": 3899,
+      "is_default": true,
+      "label": "portus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36041da1ba3ad125abc1e4929d52fd4704bf332315346a393e5c6001416e442a"
+      },
+      "sha256": "846b82cec38d3fe3160b6f7d0bca10bdebebee60d87a9d88310ebc81898398d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

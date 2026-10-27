@@ -1,0 +1,43 @@
+{
+  "collection_id": 1934,
+  "schema_version": 1,
+  "id": 2161,
+  "title": "Nexterm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "nexterm",
+    "Terminal Emulator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 499,
+      "collection": "Dashboard Icons",
+      "file": "nexterm.svg",
+      "id": 3529,
+      "is_default": true,
+      "label": "nexterm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nexterm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc15bb1414d93e017670deae205d98f1efd95481d1095332ce0bf3f107fd5885"
+      },
+      "sha256": "63fd869197fb45b67ae32d1024104339cd09649cc3e4112be2cce8740a58341a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nexterm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

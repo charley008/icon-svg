@@ -1,0 +1,40 @@
+{
+  "collection_id": 2056,
+  "schema_version": 1,
+  "id": 2283,
+  "title": "Orangedental",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "orangedental"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 726,
+      "collection": "Dashboard Icons",
+      "file": "orangedental.svg",
+      "id": 3705,
+      "is_default": true,
+      "label": "orangedental",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "orangedental.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3d7f45018c23d95ff0f8c9a30ecba7a16a2fb910c045da99672ccdada8ee1127"
+      },
+      "sha256": "68ad2093b75ab7acd4b26a4397dda6265b44b9e760983ac9ba69bc38cad8b7b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/orangedental.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

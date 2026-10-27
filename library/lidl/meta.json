@@ -1,0 +1,40 @@
+{
+  "collection_id": 1704,
+  "schema_version": 1,
+  "id": 1931,
+  "title": "Lidl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lidl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1401,
+      "collection": "Dashboard Icons",
+      "file": "lidl.svg",
+      "id": 3223,
+      "is_default": true,
+      "label": "lidl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lidl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f5f601978faa2140e13dc39eabeb81317a905df0ffd2db2b12f54069df0993f"
+      },
+      "sha256": "c63de0c1189f8e0d3635a4aa58a6c81fc283c13f5bd15ce8b33e0dc07a11d4fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lidl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

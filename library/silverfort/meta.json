@@ -1,0 +1,40 @@
+{
+  "collection_id": 2622,
+  "schema_version": 1,
+  "id": 2849,
+  "title": "Silverfort",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "silverfort"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 462,
+      "collection": "Dashboard Icons",
+      "file": "silverfort.svg",
+      "id": 4461,
+      "is_default": true,
+      "label": "silverfort",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silverfort.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c25eff43867d82c3dd1c410100fa8909d68ae729a85c7e736d18a3ee332fa2aa"
+      },
+      "sha256": "4d45c837ff71dc6eb67e114d406d4efddac17d12330c0e456a2053f9936ece67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silverfort.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

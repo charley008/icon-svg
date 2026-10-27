@@ -1,0 +1,40 @@
+{
+  "collection_id": 758,
+  "schema_version": 1,
+  "id": 985,
+  "title": "Associated Press",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "associated-press"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1507,
+      "collection": "Dashboard Icons",
+      "file": "associated-press.svg",
+      "id": 1976,
+      "is_default": true,
+      "label": "associated-press",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "associated-press.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd62d516855f5aaed0800ac5e79488646d1295ec77c6eae31ca08eaea9836dd0"
+      },
+      "sha256": "084e4f37c11acde998fd92786bd69b151b95181b4ec13820ab7e04af96172df0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/associated-press.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1329,
+  "schema_version": 1,
+  "id": 1556,
+  "title": "Freepbx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freepbx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1857,
+      "collection": "Dashboard Icons",
+      "file": "freepbx.svg",
+      "id": 2722,
+      "is_default": true,
+      "label": "freepbx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freepbx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7ff09264a04ba32577d1caef19307864d64163d8744ed439c90711a7275ecb85"
+      },
+      "sha256": "a7937cd927855890c62aa5e0e2d0cbc21afeb570517118ef7b2f793981201515",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freepbx.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

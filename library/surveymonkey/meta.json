@@ -1,0 +1,44 @@
+{
+  "collection_id": 2721,
+  "schema_version": 1,
+  "id": 2948,
+  "title": "Surveymonkey",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "办公效率"
+  ],
+  "aliases": [
+    "surveymonkey",
+    "online-survey",
+    "questionnaire-tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1131,
+      "collection": "Dashboard Icons",
+      "file": "surveymonkey.svg",
+      "id": 4583,
+      "is_default": true,
+      "label": "surveymonkey",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "surveymonkey.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d59368adac5508204a2db9efaf9b72f909cb651432ea815a34448c4bed91958a"
+      },
+      "sha256": "bbf574bb5800ecd010a196b54385168cb8962e2265518f54d210e6129327b981",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/surveymonkey.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

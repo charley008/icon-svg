@@ -1,0 +1,40 @@
+{
+  "collection_id": 2933,
+  "schema_version": 1,
+  "id": 3160,
+  "title": "Voilib",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "voilib"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 826,
+      "collection": "Dashboard Icons",
+      "file": "voilib.svg",
+      "id": 4858,
+      "is_default": true,
+      "label": "voilib",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "voilib.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54f1cfe6c80634421e472fe2456283feac4bd0f8c6b0a932de28f0428a3a1b02"
+      },
+      "sha256": "f01f169469b2c22637e3ac9b9216c98247e4db6ecb89bc68363a11266ee2f198",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/voilib.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2559,
+  "schema_version": 1,
+  "id": 2786,
+  "title": "Scanopy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "scanopy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5035,
+      "collection": "Dashboard Icons",
+      "file": "scanopy.svg",
+      "id": 4378,
+      "is_default": true,
+      "label": "scanopy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scanopy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d60abbb1090613f42b853434f71eb0bcf82be702a122e8ef6c0284778a326d0"
+      },
+      "sha256": "7c504b8531ea2406d0244ebfcb2ba55e5ee4f15e6ce2b033796d04df7ff13a93",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scanopy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,63 @@
+{
+  "collection_id": 2997,
+  "schema_version": 1,
+  "id": 3224,
+  "title": "Wooting",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "wooting",
+    "keyboard",
+    "wootility"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 465,
+      "collection": "Dashboard Icons",
+      "file": "wooting.svg",
+      "id": 4941,
+      "is_default": true,
+      "label": "wooting",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wooting.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4c65c310d3dd6d8109bdc6c40eeb47de40749e3847fd32d8105fba8b2fd75532"
+      },
+      "sha256": "1c75963ec33bd05c94dbe62b55927c4064eb096319985ec2e53a2f4c9d0e9f89",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wooting.svg",
+      "version": 0
+    },
+    {
+      "bytes": 465,
+      "collection": "Dashboard Icons",
+      "file": "wooting-1.svg",
+      "id": 4942,
+      "is_default": false,
+      "label": "wooting-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wooting-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e65216b6455d6bc01000fcfbbc1b57e12b03ea3f495dbf50a8d7092889a8fa5b"
+      },
+      "sha256": "4f5c4c5276155e0aa1a4a35e424a5538fc17b2302bc9fa37fff1333f169febe8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wooting-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

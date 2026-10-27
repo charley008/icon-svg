@@ -1,0 +1,45 @@
+{
+  "collection_id": 3222,
+  "schema_version": 1,
+  "id": 3485,
+  "title": "RocksDB",
+  "url": "https://rocksdb.org",
+  "domains": [
+    "rocksdb.org"
+  ],
+  "description": "嵌入式键值数据存储引擎。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "RocksDB",
+    "rocksdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4751,
+      "collection": "TechIcons / Devicon",
+      "file": "rocksdb-1.svg",
+      "id": 5343,
+      "is_default": true,
+      "label": "TechIcons · RocksDB",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "RocksDB.svg",
+        "original_sha256": "8d8618450cb1c8fdb33865704f1a5953025b7595092fc8f124bc4526d2c16787",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/rocksdb",
+        "reference_website": "https://rocksdb.org"
+      },
+      "sha256": "0dfcb5e9d0270602a3f7057aac3e3a1666377e3effd50e7bc99e7df0e697bbd6",
+      "source": "https://techicons.dev/icons/rocksdb",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

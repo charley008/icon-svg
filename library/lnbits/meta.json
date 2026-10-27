@@ -1,0 +1,40 @@
+{
+  "collection_id": 1727,
+  "schema_version": 1,
+  "id": 1954,
+  "title": "Lnbits",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lnbits"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 337,
+      "collection": "Dashboard Icons",
+      "file": "lnbits.svg",
+      "id": 3252,
+      "is_default": true,
+      "label": "lnbits",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lnbits.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d3e92755f3b5f6ed495de4ff3f35a9ef0dbed75a370cf6af6667494ebfa523f"
+      },
+      "sha256": "9ef16a550038a7a609b1d3fd63849caf335bc8d0a596e54b100174047caba179",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lnbits.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

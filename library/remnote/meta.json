@@ -1,0 +1,43 @@
+{
+  "collection_id": 2491,
+  "schema_version": 1,
+  "id": 2718,
+  "title": "Remnote",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "remnote",
+    "rem-note"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2423,
+      "collection": "Dashboard Icons",
+      "file": "remnote.svg",
+      "id": 4290,
+      "is_default": true,
+      "label": "remnote",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "remnote.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4f4bd0674bb796a8ce81a25b9861ed0d4e08b0bde1329906482ac1e70d7dae4f"
+      },
+      "sha256": "5586e48db716fad8059fe172474df4c923f654bf8f39d42ddc0189e2aea601cf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/remnote.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

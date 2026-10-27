@@ -1,0 +1,45 @@
+{
+  "collection_id": 3104,
+  "schema_version": 1,
+  "id": 3344,
+  "title": "Contao",
+  "url": "https://contao.org",
+  "domains": [
+    "contao.org"
+  ],
+  "description": "用于网站建设的内容管理系统。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Contao",
+    "contao"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 860,
+      "collection": "TechIcons / Devicon",
+      "file": "contao-1.svg",
+      "id": 5115,
+      "is_default": true,
+      "label": "TechIcons · Contao",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Contao.svg",
+        "original_sha256": "0a85f81cde60b50b9c73f50fb655bdb8c98202b773e3206e060d68ed43ebe5ed",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/contao",
+        "reference_website": "https://contao.org"
+      },
+      "sha256": "fc0233c2f280153b70dcd231aeac1bbc6115c48d5296b05b44ae495d9012af5f",
+      "source": "https://techicons.dev/icons/contao",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,64 @@
+{
+  "collection_id": 2957,
+  "schema_version": 1,
+  "id": 3184,
+  "title": "Web Check",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "web-check",
+    "website-monitor",
+    "url-checker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2895,
+      "collection": "Dashboard Icons",
+      "file": "web-check.svg",
+      "id": 4889,
+      "is_default": true,
+      "label": "web-check",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "web-check.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d2c2e97bfd503d198dfccce5bce9c940f7c1272c193c89064171083ced87109d"
+      },
+      "sha256": "78963b839a68e293b5ec34aa50314fced6ce2b69f1b32beb23508ff11c8fc8e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/web-check.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2907,
+      "collection": "Dashboard Icons",
+      "file": "web-check-1.svg",
+      "id": 4890,
+      "is_default": false,
+      "label": "web-check-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "web-check-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7482cf6f858184a981121e5c2b9381f8532717049f1b773dc206b14bac54d17d"
+      },
+      "sha256": "14ba80c58e395f798102e82c2f89d0ba467bb86de5b7aebae2936843872ad90a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/web-check-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

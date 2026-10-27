@@ -1,0 +1,59 @@
+{
+  "collection_id": 2802,
+  "schema_version": 1,
+  "id": 3029,
+  "title": "Tidal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tidal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2058,
+      "collection": "Dashboard Icons",
+      "file": "tidal.svg",
+      "id": 4685,
+      "is_default": true,
+      "label": "tidal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tidal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5250a705e73fb73753b1c62a3c8f8e7dc8b29da7c7d752ec83a25cd246b6a16"
+      },
+      "sha256": "2228d61e046e9eebaa1e7806874e7934879da59318f19833f1a4ebcdcfe8907d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tidal.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2026,
+      "collection": "Dashboard Icons",
+      "file": "tidal-1.svg",
+      "id": 4686,
+      "is_default": false,
+      "label": "tidal-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tidal-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7698b7ffdd89f72be4c4bcb3a22aba243144a46b8cd0ce65b35edf4a0af25276"
+      },
+      "sha256": "389fc91cb0f46d29bc1d17752251df8399553476c6a2d715b3ad42517757149e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tidal-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

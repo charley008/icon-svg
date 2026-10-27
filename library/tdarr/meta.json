@@ -1,0 +1,63 @@
+{
+  "collection_id": 2751,
+  "schema_version": 1,
+  "id": 2978,
+  "title": "Tdarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "tdarr",
+    "video-encoder",
+    "media-converter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9072,
+      "collection": "Dashboard Icons",
+      "file": "tdarr.svg",
+      "id": 4624,
+      "is_default": true,
+      "label": "tdarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tdarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f9debe4eca48b60e90e06ac61ccee1054742261d62dc9145012b37621ddce469"
+      },
+      "sha256": "4ba712b5d3fbfd00efe01baefae865ff6ac432b8162118efdd332d31d05e186f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tdarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 23306,
+      "collection": "Dashboard Icons",
+      "file": "tdarr-1.svg",
+      "id": 4625,
+      "is_default": false,
+      "label": "tdarr-white",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tdarr-white.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "27a1a16396d700575e5b1f1a21cb2e3d2b91b8e0c8a7e367752bb7e0d2d866e7"
+      },
+      "sha256": "48584ba9a4724396ef75674ceb43a614657a874262dee8f190a5b61d1de746f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tdarr-white.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

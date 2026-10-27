@@ -1,0 +1,43 @@
+{
+  "collection_id": 1184,
+  "schema_version": 1,
+  "id": 1411,
+  "title": "Electrum",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "electrum",
+    "bitcoin-electrum"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4336,
+      "collection": "Dashboard Icons",
+      "file": "electrum.svg",
+      "id": 2539,
+      "is_default": true,
+      "label": "electrum",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "electrum.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c8aae95a99544ba31c5e66543f6d593786114217cc1ad9ecd6ab484f42f99993"
+      },
+      "sha256": "177ec60cc6c268b5faab952a6fa3be1a7e888631435c560b5a7625a98a655a49",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/electrum.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

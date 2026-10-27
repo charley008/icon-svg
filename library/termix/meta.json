@@ -1,0 +1,42 @@
+{
+  "collection_id": 2773,
+  "schema_version": 1,
+  "id": 3000,
+  "title": "Termix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "termix",
+    "ssh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 17788,
+      "collection": "Dashboard Icons",
+      "file": "termix.svg",
+      "id": 4650,
+      "is_default": true,
+      "label": "termix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "termix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6fc8fbbae692d901dd1f97f5f89b4a4bc37567c2184078c99db6e58c1bfde0d0"
+      },
+      "sha256": "c2652baccda53a188a14e395f140a6453e2210a0e55804b4763a932b23728030",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/termix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

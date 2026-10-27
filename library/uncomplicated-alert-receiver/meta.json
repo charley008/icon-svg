@@ -1,0 +1,42 @@
+{
+  "collection_id": 2875,
+  "schema_version": 1,
+  "id": 3102,
+  "title": "Uncomplicated Alert Receiver",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "uncomplicated-alert-receiver",
+    "uar"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2011,
+      "collection": "Dashboard Icons",
+      "file": "uncomplicated-alert-receiver.svg",
+      "id": 4782,
+      "is_default": true,
+      "label": "uncomplicated-alert-receiver",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uncomplicated-alert-receiver.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc377bd7645c97d201fc0ca5ed3db8be2987cb9a730a823b5b85a47712b9b7f5"
+      },
+      "sha256": "0a9a7d770fdf0229225d2d012923200fd2fa83f993c1e5c2ea3329db9594799e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/uncomplicated-alert-receiver.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1030,
+  "schema_version": 1,
+  "id": 1257,
+  "title": "Cosmic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cosmic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2417,
+      "collection": "Dashboard Icons",
+      "file": "cosmic.svg",
+      "id": 2335,
+      "is_default": true,
+      "label": "cosmic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cosmic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "94b2a7e8b088c54ec0c28616ee713f1f494054dd3f193da5c4186cf1c544a015"
+      },
+      "sha256": "9379ae61af8c6f24c9d3dc625c703ac2c75cdb2e58682f4b20050f8ba43291a3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cosmic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

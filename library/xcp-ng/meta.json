@@ -1,0 +1,40 @@
+{
+  "collection_id": 3007,
+  "schema_version": 1,
+  "id": 3234,
+  "title": "Xcp Ng",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xcp-ng"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 101885,
+      "collection": "Dashboard Icons",
+      "file": "xcp-ng.svg",
+      "id": 4958,
+      "is_default": true,
+      "label": "xcp-ng",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xcp-ng.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ca2b1cfcca13087cd9219cf10f7b3b8a6b18b7cc35299c42b5b8dbd9ea883e7"
+      },
+      "sha256": "76737e2b5ccb27fff902396fc90739169b890156205d6b9a059758e482336c62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xcp-ng.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

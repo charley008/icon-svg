@@ -1,0 +1,40 @@
+{
+  "collection_id": 1231,
+  "schema_version": 1,
+  "id": 1458,
+  "title": "Eway Crm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "eway-crm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2613,
+      "collection": "Dashboard Icons",
+      "file": "eway-crm.svg",
+      "id": 2603,
+      "is_default": true,
+      "label": "eway-crm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "eway-crm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "407fba14ead7ae231e830d73fc7e8df4bc3c3ec660a5b343629f7a93b9d2bf66"
+      },
+      "sha256": "1346fcbbfb17c7efffe186a8b207030ce145f68d1b84a173559ed1cfc36806f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eway-crm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

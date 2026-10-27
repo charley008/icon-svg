@@ -1,0 +1,40 @@
+{
+  "collection_id": 1519,
+  "schema_version": 1,
+  "id": 1746,
+  "title": "I2Pd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "i2pd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18927,
+      "collection": "Dashboard Icons",
+      "file": "i2pd.svg",
+      "id": 2985,
+      "is_default": true,
+      "label": "i2pd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "i2pd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d29fe72ed8ceda054cdcfc89e4b0a797a8cc32cff15c295653ca9076ea33906"
+      },
+      "sha256": "7ba6dc7252e68b38db6f97ce53f12853c7ef2328a6947f487dcd7586dae6f86a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/i2pd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

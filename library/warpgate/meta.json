@@ -1,0 +1,40 @@
+{
+  "collection_id": 2949,
+  "schema_version": 1,
+  "id": 3176,
+  "title": "Warpgate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "warpgate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5907,
+      "collection": "Dashboard Icons",
+      "file": "warpgate.svg",
+      "id": 4880,
+      "is_default": true,
+      "label": "warpgate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "warpgate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ca6ef0a89e6fd424cf329ca02fae8ee62bdae28201f64b75c3b28154ed4d7ec"
+      },
+      "sha256": "5593e2e57822c8b64948d5db61513bc12b915f26de937c00f9266de4ab97427e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/warpgate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

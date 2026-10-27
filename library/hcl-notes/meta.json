@@ -1,0 +1,40 @@
+{
+  "collection_id": 1451,
+  "schema_version": 1,
+  "id": 1678,
+  "title": "Hcl Notes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hcl-notes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 933,
+      "collection": "Dashboard Icons",
+      "file": "hcl-notes.svg",
+      "id": 2895,
+      "is_default": true,
+      "label": "hcl-notes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hcl-notes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2e6e8232d0f6dfa5240e408f07ba736a3594afdfba89be519a3146b0943427f2"
+      },
+      "sha256": "2b8afe08ad59717586d8fc5e46b8c0505e03394642ef25f797d9fc8314c13ae6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hcl-notes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

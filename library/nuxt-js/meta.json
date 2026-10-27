@@ -1,0 +1,144 @@
+{
+  "collection_id": 1975,
+  "schema_version": 1,
+  "id": 2202,
+  "redirect_from": [
+    2203,
+    2204
+  ],
+  "title": "Nuxt Js",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nuxt-js",
+    "nuxt-js-wordmark-light",
+    "Nuxt Js Wordmark Light",
+    "nuxt-js-wordmark-dark",
+    "Nuxt Js Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1225,
+      "collection": "Dashboard Icons",
+      "file": "nuxt-js.svg",
+      "id": 3583,
+      "is_default": true,
+      "label": "nuxt-js",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nuxt-js.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "81e3c923bcb71c5685badfe00b5c38bca1ca612508d595a73f5ae3630e0ee759"
+      },
+      "sha256": "81c6d939dac3d75c20eb46772ca4e097ead51aa74d9d770baf0505ed9f9bac91",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nuxt-js.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1223,
+      "collection": "Dashboard Icons",
+      "file": "nuxt-js-1.svg",
+      "id": 3584,
+      "is_default": false,
+      "label": "nuxt-js-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nuxt-js-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7a432665269392ad859fcfea52730fe1f74442f417e8182bdbb55872d1bec643"
+      },
+      "sha256": "70a40ed75b04c31322377ea25cab360728b7c83c2d3c1a642cab5d0aef666091",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nuxt-js-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1223,
+      "collection": "Dashboard Icons",
+      "file": "nuxt-js-2.svg",
+      "id": 3585,
+      "is_default": false,
+      "label": "nuxt-js-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nuxt-js-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cadee73e7cc3251506ed8d6ef6fa5c18096fdec903e9ba35969b75c2be404da1"
+      },
+      "sha256": "f0d10ce7762734dc9ade307f2cc77c82ce79ab3285f9699a15d3f3a4e99276ab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nuxt-js-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2559,
+      "collection": "Dashboard Icons",
+      "file": "nuxt-js-3.svg",
+      "id": 3587,
+      "is_default": false,
+      "label": "nuxt-js-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nuxt-js-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "53b0d7b61c6db1ebb8eb514dd50480ab014dbdb2a32a16592aa5a35925cb3696"
+      },
+      "sha256": "f06f32e869bede707a075cee7b3caa0ee10ccc2e495ec228c3d6fda7dfebe78b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nuxt-js-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2559,
+      "collection": "Dashboard Icons",
+      "file": "nuxt-js-4.svg",
+      "id": 3586,
+      "is_default": false,
+      "label": "nuxt-js-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nuxt-js-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e23718a1d10ea47be16f0858040b702239e339b8fa9d269f6538266e8c7a2346"
+      },
+      "sha256": "76c695f059433f8210ade65283da9194961ef91087ef4e026ac429ec9357554b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nuxt-js-wordmark-dark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1055,
+      "collection": "TechIcons / Devicon",
+      "file": "nuxt-js-5.svg",
+      "id": 5291,
+      "is_default": false,
+      "label": "TechIcons · Nuxt JS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nuxt-JS.svg",
+        "original_sha256": "607ae21caf3008c8fad200d017b4fca95aae42eca4c41d69cdc83cd8a9322800",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nuxtjs",
+        "reference_website": "https://nuxtjs.org"
+      },
+      "sha256": "8ed2e4736537c591548537da3dd048b61c8d6525b8c702ea8b94590eca83991e",
+      "source": "https://techicons.dev/icons/nuxtjs",
+      "version": 5
+    }
+  ],
+  "next_version": 6,
+  "products": []
+}

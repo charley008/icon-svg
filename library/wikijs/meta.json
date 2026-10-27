@@ -1,0 +1,59 @@
+{
+  "collection_id": 2978,
+  "schema_version": 1,
+  "id": 3205,
+  "title": "Wikijs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wikijs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 31228,
+      "collection": "Dashboard Icons",
+      "file": "wikijs.svg",
+      "id": 4916,
+      "is_default": true,
+      "label": "wikijs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikijs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d6a94a4de7f73e79d9978063c05f9eafb9ad0d38c379870267662bba9e34c59"
+      },
+      "sha256": "754b8ae415b437dccd6d650db9fa13ac013e13c6760d09a12abcfc55072880d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikijs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 39271,
+      "collection": "Dashboard Icons",
+      "file": "wikijs-1.svg",
+      "id": 4917,
+      "is_default": false,
+      "label": "wikijs-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikijs-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "69aca99df5b20b32c22b82c6214c0d5913a614d09dfb3249b320b32d7c2d20ce"
+      },
+      "sha256": "f3ea1d3d98a31845f9e9542f0ea51238528a6e15e678f47ceacbda3c41d45292",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikijs-alt.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

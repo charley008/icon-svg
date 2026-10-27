@@ -1,0 +1,59 @@
+{
+  "collection_id": 1649,
+  "schema_version": 1,
+  "id": 1876,
+  "title": "Koillection",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "koillection"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10238,
+      "collection": "Dashboard Icons",
+      "file": "koillection.svg",
+      "id": 3148,
+      "is_default": true,
+      "label": "koillection",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "koillection.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "26e87c682b4b881f908cab0547da25081e92a6ca3d82bbd5888cbaa5c71b97d9"
+      },
+      "sha256": "48e6c98fe1cc167a543ab5121cbdbdcde1b42c922eab418dc167a90030b00ff3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/koillection.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10148,
+      "collection": "Dashboard Icons",
+      "file": "koillection-1.svg",
+      "id": 3149,
+      "is_default": false,
+      "label": "koillection-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "koillection-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a1b6a8d2efc8195091c03ef26b2325fb7fdca6b740a626aaffb2ae63332b7302"
+      },
+      "sha256": "c877706bf92c48a4cc3f0bd4e740507e9f17980079d8037675355229c360f429",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/koillection-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

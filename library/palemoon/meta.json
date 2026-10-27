@@ -1,0 +1,40 @@
+{
+  "collection_id": 2081,
+  "schema_version": 1,
+  "id": 2308,
+  "title": "Palemoon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "palemoon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1027,
+      "collection": "Dashboard Icons",
+      "file": "palemoon.svg",
+      "id": 3740,
+      "is_default": true,
+      "label": "palemoon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "palemoon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b64c25bb8b358ce10c359e8d6a6c403380b079ff65b5149f2a156d5e33451453"
+      },
+      "sha256": "368adc4d95900a79c8b81cc2996d5bfc8a36d2c3b1265e865d00a1fbbc77084a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/palemoon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

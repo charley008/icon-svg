@@ -1,4 +1,7 @@
 {
+  "collection_id": 574,
+  "schema_version": 1,
+  "id": 792,
   "title": "Namecheap",
   "url": "https://www.namecheap.com/",
   "domains": [
@@ -21,24 +24,24 @@
   "notes": [],
   "icons": [
     {
-      "file": "namecheap.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "2687288f4bfafa9b7244acee331789d3787899f932b9ed4c1d04ff1eac0fde2b",
       "bytes": 2743,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/namecheap.svg",
+      "collection": "Dashboard Icons",
+      "file": "namecheap.svg",
+      "id": 1749,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg-cleaned",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "namecheap.svg",
-        "repository": "https://github.com/homarr-labs/dashboard-icons",
-        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
-      }
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved.",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      },
+      "sha256": "2687288f4bfafa9b7244acee331789d3787899f932b9ed4c1d04ff1eac0fde2b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/namecheap.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

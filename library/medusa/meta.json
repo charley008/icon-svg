@@ -1,0 +1,59 @@
+{
+  "collection_id": 1802,
+  "schema_version": 1,
+  "id": 2029,
+  "title": "Medusa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "medusa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 506,
+      "collection": "Dashboard Icons",
+      "file": "medusa.svg",
+      "id": 3342,
+      "is_default": true,
+      "label": "medusa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medusa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a6ecbcaab2857abec013a74bafe5c3e10c9b4f6192b5025b8170550cd25010e"
+      },
+      "sha256": "1409e5b4010f1681e8ba71473311eb5c3dc7100d69690ff426bd96ae15415186",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/medusa.svg",
+      "version": 0
+    },
+    {
+      "bytes": 503,
+      "collection": "Dashboard Icons",
+      "file": "medusa-1.svg",
+      "id": 3343,
+      "is_default": false,
+      "label": "medusa-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medusa-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f8d1718a3497c2a144c8b9bc5c0a884e79d328e3b4e86c6a2164e6b7573d712"
+      },
+      "sha256": "ef2c41207096b92a29aca96abff421013bbffcb0f6e1f6c1f85e7bd1e0eb41aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/medusa-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

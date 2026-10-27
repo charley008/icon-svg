@@ -1,0 +1,45 @@
+{
+  "collection_id": 3263,
+  "schema_version": 1,
+  "id": 3528,
+  "title": "XML",
+  "url": "https://www.w3.org/standards/xml",
+  "domains": [
+    "w3.org"
+  ],
+  "description": "用于结构化数据表示的标记语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "XML",
+    "xml"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3661,
+      "collection": "TechIcons / Devicon",
+      "file": "xml-1.svg",
+      "id": 5407,
+      "is_default": true,
+      "label": "TechIcons · XML",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "XML.svg",
+        "original_sha256": "4034ab568bb655668671e2fd49422f798205697f85fa1b26a87521ef5c5ecd51",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/xml",
+        "reference_website": "https://www.w3.org/standards/xml"
+      },
+      "sha256": "0b0200515df1c49df739e992468410378766fe7431bf77ef884175557b2587b1",
+      "source": "https://techicons.dev/icons/xml",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

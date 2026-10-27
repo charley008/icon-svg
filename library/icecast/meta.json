@@ -1,0 +1,45 @@
+{
+  "collection_id": 1522,
+  "schema_version": 1,
+  "id": 1749,
+  "title": "Icecast",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Music-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "icecast",
+    "audio-streaming-server",
+    "internet-radio-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4817,
+      "collection": "Dashboard Icons",
+      "file": "icecast.svg",
+      "id": 2990,
+      "is_default": true,
+      "label": "icecast",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icecast.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "262bb78bf5a86241c935630fa98b35a15a43d77f1f5f4c898ad1f9bd8eb9f681"
+      },
+      "sha256": "bed3b3f851368e3cb9f94a32507af7cb72cad42553741e12afbb15df48bc0cb9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icecast.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

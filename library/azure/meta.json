@@ -1,0 +1,1359 @@
+{
+  "collection_id": 3069,
+  "schema_version": 1,
+  "parent_brand": "microsoft",
+  "id": 359,
+  "title": "Azure",
+  "url": "https://azure.microsoft.com",
+  "domains": [
+    "azure.microsoft.com"
+  ],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "全球App补充",
+    "用户优选",
+    "云计算",
+    "微软",
+    "Microsoft Azure",
+    "azure",
+    "microsoftazure",
+    "microsoft-azure",
+    "azure.microsoft.com"
+  ],
+  "aliases": [
+    "azure",
+    "microsoftazure",
+    "microsoft-azure"
+  ],
+  "notes": [
+    "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+  ],
+  "icons": [
+    {
+      "bytes": 2209,
+      "collection": "用户优选",
+      "file": "azure.svg",
+      "id": 884,
+      "is_default": true,
+      "label": "azure",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "azure.svg",
+        "original_is_default": true,
+        "original_slug": "azure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1987,
+        "previous_sha256": "eded90d4bf1b0f5a7733a5583378d6c9f8143bb8fd137e8ace23301601a4f1ce",
+        "ratio": 0.2
+      },
+      "sha256": "3e841eedbb0264b9460e967f126b728aaadc7bc1e36601dc5cbb8d33a07492f6",
+      "source": "用户优选",
+      "version": 0
+    },
+    {
+      "bytes": 719,
+      "collection": "theSVG",
+      "file": "azure-1.svg",
+      "id": 885,
+      "is_default": false,
+      "label": "default",
+      "license": "brand-use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azure-1.svg",
+        "original_is_default": false,
+        "original_slug": "azure"
+      },
+      "sha256": "6dc1fd39a7056e171dd2eeadeff5f90d0df381a477e1195ad345021776397aec",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure/default.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2020,
+      "collection": "theSVG",
+      "file": "azure-2.svg",
+      "id": 886,
+      "is_default": false,
+      "label": "default",
+      "license": "MIT",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azure-2.svg",
+        "original_is_default": false,
+        "original_slug": "azure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1786,
+        "previous_sha256": "1f70cd07822c543c4168a6c99dad01ce4ce7f63c4f136c54b0fcdd6828904a8e",
+        "ratio": 0.2
+      },
+      "sha256": "43196a6cdad4c71b9832e463b30ac5240c6c9c34d5fdca1a18e9ed0427c1953f",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-azure/default.svg",
+      "version": 2
+    },
+    {
+      "bytes": 984,
+      "collection": "theSVG",
+      "file": "azure-3.svg",
+      "id": 887,
+      "is_default": false,
+      "label": "default",
+      "license": "CC0-1.0",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azure-3.svg",
+        "original_is_default": false,
+        "original_slug": "azure"
+      },
+      "rounded_corners": {
+        "previous_bytes": 759,
+        "previous_sha256": "62fb8b580421615fed957b9bae8551337133dd8e58d4e2f15baa9715ee20bc24",
+        "ratio": 0.2
+      },
+      "sha256": "0075d2888ed934f460a0beeb70153625d72a96aa4328e4948e0b212c965059f5",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure-badge/default.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3450,
+      "collection": "theSVG",
+      "file": "azure-4.svg",
+      "id": 888,
+      "is_default": false,
+      "label": "wordmark",
+      "license": "brand-use",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azure-4.svg",
+        "original_is_default": false,
+        "original_slug": "azure"
+      },
+      "sha256": "65b8b52f1eed0dc1a15dd0195ced89f60e2473cffcec79cfb6668faae8caba1c",
+      "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure/wordmark.svg",
+      "version": 4
+    },
+    {
+      "bytes": 265,
+      "collection": "Dashboard Icons",
+      "file": "azure-5.svg",
+      "id": 3368,
+      "is_default": false,
+      "label": "azure",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azure.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "278395c0c6bbcd580b705b114d5e3d9787a24daee031a9e083de299ead82bfc6"
+      },
+      "sha256": "c3c0facfbbdd0c118c8ac07e1354d0441b74731a398c9a7dfa1dae72f2e10f8c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure.svg",
+      "version": 5
+    },
+    {
+      "bytes": 2353,
+      "collection": "Dashboard Icons",
+      "file": "azure-6.svg",
+      "id": 3369,
+      "is_default": false,
+      "label": "azure-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azure-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "abfd7030c8ed1988d109f57a04d4c511a9a6bf0e66152a9f3e5ef1b0f9564347"
+      },
+      "sha256": "21096eafa358e89f394dda2bacf9cd50f633da40ed289810c77b28fe428e8079",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-linux.svg",
+      "version": 6
+    },
+    {
+      "bytes": 1714,
+      "collection": "Dashboard Icons",
+      "file": "azure-7.svg",
+      "id": 3370,
+      "is_default": false,
+      "label": "microsoft-azure",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "microsoft-azure.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d5b5b17973fef7855a6a759f9c9c7f747bf60e94efadc9f1755c8dadb4a105ab"
+      },
+      "sha256": "d5a906c5778e0b97f06cdd7ebab8d723709e354496b8d797a31899e4e4718e2b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg",
+      "version": 7
+    }
+  ],
+  "next_version": 8,
+  "products": [
+    {
+      "id": 1034,
+      "key": "application-insights",
+      "title": "Azure Application Insights",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-application-insights"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2359,
+          "collection": "Dashboard Icons",
+          "file": "azure-application-insights.svg",
+          "id": 2040,
+          "is_default": true,
+          "label": "azure-application-insights",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-application-insights.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "36c73dea8b1598fbfff84890a2b409600f1339eec8c1bf1a896439e9da8f9dca"
+          },
+          "sha256": "ee557cb221842b9ed52c3a0ccc2d0828baa5647b653fb4c2dea0955070d9fd09",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-application-insights.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1035,
+      "key": "bicep",
+      "title": "Azure Bicep",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-bicep"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4362,
+          "collection": "Dashboard Icons",
+          "file": "azure-bicep.svg",
+          "id": 2041,
+          "is_default": true,
+          "label": "azure-bicep",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-bicep.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "444e2e554f27a2e29af4e12195e00e73fe5b2ce3445ef277d127c31d3da261ae"
+          },
+          "sha256": "892f0b1b2f9b463e1ace7d7bf855df20538a1ef194459868cde2cb8c033baf98",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-bicep.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1036,
+      "key": "certificate",
+      "title": "Azure Certificate",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-certificate"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1534,
+          "collection": "Dashboard Icons",
+          "file": "azure-certificate.svg",
+          "id": 2042,
+          "is_default": true,
+          "label": "azure-certificate",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-certificate.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b90934a8b965334d25af050f044a8c3a802c62fa91f81b3f43540ef3ed4e0e75"
+          },
+          "sha256": "65bd731fdd6bea0b41e86a34c09c9681873ec19833fcd82429607abeed889e96",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-certificate.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1037,
+      "key": "container-apps",
+      "title": "Azure Container Apps",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-container-apps"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3208,
+          "collection": "Dashboard Icons",
+          "file": "azure-container-apps.svg",
+          "id": 2043,
+          "is_default": true,
+          "label": "azure-container-apps",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-container-apps.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b53c7e6b7af75b25c04231a7dff85074f0c32cc1c306376350c0c8df0cb64417"
+          },
+          "sha256": "ee4b243f98e494cc17bcf6f2d790cf9e3ad537632918c05401f31aa5d34ed8d9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-container-apps.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1038,
+      "key": "container-instances",
+      "title": "Azure Container Instances",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-container-instances"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1182,
+          "collection": "Dashboard Icons",
+          "file": "azure-container-instances.svg",
+          "id": 2044,
+          "is_default": true,
+          "label": "azure-container-instances",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-container-instances.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "296b39c725a1665112d39b5698482b9e0d8b8726af8ad86cc0e131b0b7f53f3e"
+          },
+          "sha256": "e36e54182084cde3c57fc209bc8b3a7cfe2ae916980d15107e0a61c0a46dc82c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-container-instances.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1039,
+      "key": "container-registry",
+      "title": "Azure Container Registry",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-container-registry"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2747,
+          "collection": "Dashboard Icons",
+          "file": "azure-container-registry.svg",
+          "id": 2045,
+          "is_default": true,
+          "label": "azure-container-registry",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-container-registry.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c134b0a442f203a7eeeb6f99a1f02ed34e51373d7fca59f96c9f125874c9d7d4"
+          },
+          "sha256": "d9daf6a9c0c99bd410040f3ee5c3a34ce2f9b10ba34eb48f3450532ebe541534",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-container-registry.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1040,
+      "key": "container-service",
+      "title": "Azure Container Service",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-container-service"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3151,
+          "collection": "Dashboard Icons",
+          "file": "azure-container-service.svg",
+          "id": 2046,
+          "is_default": true,
+          "label": "azure-container-service",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-container-service.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1504a2e2ef5260904995b73f45539607796932a80a401b02e5df62f399651e75"
+          },
+          "sha256": "ddbd4732528ee2631d5a5629b42fc0d2bf9ba490ba43eec98d112426ad34bc1a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-container-service.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1041,
+      "key": "cosmos-db",
+      "title": "Azure Cosmos Db",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-cosmos-db"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2638,
+          "collection": "Dashboard Icons",
+          "file": "azure-cosmos-db.svg",
+          "id": 2047,
+          "is_default": true,
+          "label": "azure-cosmos-db",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-cosmos-db.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b6f1f2afac15762d1de44366d34984c5a3e6e58f94d9e81407ac01565212e8e3"
+          },
+          "sha256": "5415257a58568fc1ee4e4480c696eeb85e93aaffb259eeba11b8008489b45532",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-cosmos-db.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2790,
+          "collection": "TechIcons / Devicon",
+          "file": "azure-cosmos-db-1.svg",
+          "id": 5087,
+          "is_default": false,
+          "label": "TechIcons · Cosmos BD",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Cosmos-BD.svg",
+            "original_sha256": "068adfa9f19bad8471f19cfa9c2896988ee8c58947a24863d8ee15fdc97ab790",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/cosmosdb",
+            "reference_website": "https://learn.microsoft.com/en-us/azure/cosmos-db/introduction"
+          },
+          "sha256": "7e2f23e6d253220abd7d9d6aacc92adfb9c35a5af7eee4a3543067bf9a8ce140",
+          "source": "https://techicons.dev/icons/cosmosdb",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1042,
+      "key": "cost-management",
+      "title": "Azure Cost Management",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-cost-management"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1468,
+          "collection": "Dashboard Icons",
+          "file": "azure-cost-management.svg",
+          "id": 2048,
+          "is_default": true,
+          "label": "azure-cost-management",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-cost-management.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b44611f260bf85610a7442ac64b427030e835aa5339cb51f423dff6d1f3028d7"
+          },
+          "sha256": "71d98b74f952d2fe74c133bd822aaf9af597958fb5cbf009ae22e397c8b2dc88",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-cost-management.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1043,
+      "key": "data-factory",
+      "title": "Azure Data Factory",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-data-factory"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1518,
+          "collection": "Dashboard Icons",
+          "file": "azure-data-factory.svg",
+          "id": 2049,
+          "is_default": true,
+          "label": "azure-data-factory",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-data-factory.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a16a9c345c72e9342874425ea5883900df601ec815e5babbcf67085d5e2fa582"
+          },
+          "sha256": "14eb8dd90766684baa59ad09237a5e3ae4f2975573e9c022ad809ccd5aa6380f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-data-factory.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1044,
+      "key": "devops",
+      "title": "Azure Devops",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-devops"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 572,
+          "collection": "Dashboard Icons",
+          "file": "azure-devops.svg",
+          "id": 2050,
+          "is_default": true,
+          "label": "azure-devops",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-devops.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ae6a28ac6f21a7ca4d3e3025b2cc7964ef49915ad6d4e64980ac5b7e46db343c"
+          },
+          "sha256": "3e05e8503edf0b62e4a4736b9e2419c566b89e2e51dad3e817041f8f388ac709",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-devops.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1045,
+      "key": "dns",
+      "title": "Azure Dns",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-dns"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2142,
+          "collection": "Dashboard Icons",
+          "file": "azure-dns.svg",
+          "id": 2051,
+          "is_default": true,
+          "label": "azure-dns",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-dns.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "097b92704155598a98a60b6625f08ff30e8ac00dccee949ede8c647a4634d9b5"
+          },
+          "sha256": "b2ff64a8e34d32bdef3fb29e89bc936d3662780ca5c085407f094a67583fdeac",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-dns.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1046,
+      "key": "expressroute-cirtcuits",
+      "title": "Azure Expressroute Cirtcuits",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-expressroute-cirtcuits"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1564,
+          "collection": "Dashboard Icons",
+          "file": "azure-expressroute-cirtcuits.svg",
+          "id": 2052,
+          "is_default": true,
+          "label": "azure-expressroute-cirtcuits",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-expressroute-cirtcuits.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0087cb8e3027b750c18249915b620e67348d12cb6d147f10c6a701976c948696"
+          },
+          "sha256": "1846be82bfdb23008176e264a57930e136a9924519fe63869ca51a2c0921d5a1",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-expressroute-cirtcuits.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1047,
+      "key": "firewall",
+      "title": "Azure Firewall",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-firewall"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1513,
+          "collection": "Dashboard Icons",
+          "file": "azure-firewall.svg",
+          "id": 2053,
+          "is_default": true,
+          "label": "azure-firewall",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-firewall.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "154c416cc15b95b7c6c1ab61a5ecb33f14845197b7d163bd9dc6f1968c14be1e"
+          },
+          "sha256": "1064577ae4e76240aa9a54fc8a28c5e176a2a54ba899c0252dd4317eef29c126",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-firewall.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1048,
+      "key": "front-door",
+      "title": "Azure Front Door",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-front-door"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 981,
+          "collection": "Dashboard Icons",
+          "file": "azure-front-door.svg",
+          "id": 2054,
+          "is_default": true,
+          "label": "azure-front-door",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-front-door.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b2e9c9a8b091a0694532257354dea94bb8c65b33876826e44dbc9b2aae01cf17"
+          },
+          "sha256": "15983fc381177fba97781149132222cc49821e013ae45691c46883e4b9c6f4a0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-front-door.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1049,
+      "key": "functions",
+      "title": "Azure Functions",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-functions"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1786,
+          "collection": "Dashboard Icons",
+          "file": "azure-functions.svg",
+          "id": 2055,
+          "is_default": true,
+          "label": "azure-functions",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-functions.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1a6c9c108d5f63f7b78bc6fbc464059acd2eaa8c1d111e9bcd28a8b2cdf470b9"
+          },
+          "sha256": "d0a50df6600612f5d3933bbf8e22fd19d3714625022e160d1c5534b673d20fdd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-functions.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1050,
+      "key": "keyvault",
+      "title": "Azure Keyvault",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-keyvault"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2270,
+          "collection": "Dashboard Icons",
+          "file": "azure-keyvault.svg",
+          "id": 2056,
+          "is_default": true,
+          "label": "azure-keyvault",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-keyvault.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "712b426f54f0fc50d0816dc79df709daa7ac5f93ccaf4e9b3527f627f6e9ad97"
+          },
+          "sha256": "d3bf2ca0fee2f07fe6b9e13dab780e97db8125aadad6a02352c9433855eded01",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-keyvault.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1051,
+      "key": "kubernetes-services",
+      "title": "Azure Kubernetes Services",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-kubernetes-services"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3982,
+          "collection": "Dashboard Icons",
+          "file": "azure-kubernetes-services.svg",
+          "id": 2057,
+          "is_default": true,
+          "label": "azure-kubernetes-services",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-kubernetes-services.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "81954a481503057498d543a51863b2eb4673284e109662cdc421051d11dba25c"
+          },
+          "sha256": "a34a59c94d3ff452d479b9e58219dc7f5b031678e587d8597ca4ff02ba771600",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-kubernetes-services.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1052,
+      "key": "log-analytics-workspaces",
+      "title": "Azure Log Analytics Workspaces",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-log-analytics-workspaces"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1334,
+          "collection": "Dashboard Icons",
+          "file": "azure-log-analytics-workspaces.svg",
+          "id": 2058,
+          "is_default": true,
+          "label": "azure-log-analytics-workspaces",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-log-analytics-workspaces.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7a244a8d7260e84be5c904185db7b04994fe6ed345e2b224163bc5f7e3d97ce0"
+          },
+          "sha256": "f48968570e81d921f4ea8947f7020b3a1b69823a3f2b52dfaeb274e58c5185ca",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-log-analytics-workspaces.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1053,
+      "key": "monitor",
+      "title": "Azure Monitor",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-monitor"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1973,
+          "collection": "Dashboard Icons",
+          "file": "azure-monitor.svg",
+          "id": 2059,
+          "is_default": true,
+          "label": "azure-monitor",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-monitor.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1396f59a7d8fd7505a423842b987c9b343a092263d1ab5c7b0d94d58d8b17448"
+          },
+          "sha256": "63228b6e3eeb5e455341b1b13e50a925116c753c70a80c3732f847f7f77a7755",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-monitor.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1054,
+      "key": "postgres-server",
+      "title": "Azure Postgres Server",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-postgres-server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3603,
+          "collection": "Dashboard Icons",
+          "file": "azure-postgres-server.svg",
+          "id": 2060,
+          "is_default": true,
+          "label": "azure-postgres-server",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-postgres-server.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8232e8ecfbd607ce3b54646199805a823646d71e552f9aa71e7a3952cde35620"
+          },
+          "sha256": "8a2b16cf0b52013006ec48baa6dcabc5c210e8bf388ce8f09032a33c0ee33d83",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-postgres-server.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1055,
+      "key": "service-bus",
+      "title": "Azure Service Bus",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-service-bus"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2722,
+          "collection": "Dashboard Icons",
+          "file": "azure-service-bus.svg",
+          "id": 2061,
+          "is_default": true,
+          "label": "azure-service-bus",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-service-bus.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "eaf42cb87aedf608f60d40b601eb86491daaa71b8eab40a935e8e7fa2e62a2cf"
+          },
+          "sha256": "177ec26988c8963a1ac003af22b9aa6f18971f9ad0f6f8229f4f138eb3df3007",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-service-bus.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1056,
+      "key": "sql-db",
+      "title": "Azure Sql Db",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-sql-db"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2453,
+          "collection": "Dashboard Icons",
+          "file": "azure-sql-db.svg",
+          "id": 2062,
+          "is_default": true,
+          "label": "azure-sql-db",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-sql-db.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e548d03a74481566345803ad615d643e667b7cd1f47d1be7dcc1ed85d6e835f9"
+          },
+          "sha256": "e478305a0223a1e9c6fa494c0efceea1e791118e96c9d66cac4927ac343ac9bd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-sql-db.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1057,
+      "key": "sql-server",
+      "title": "Azure Sql Server",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-sql-server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2487,
+          "collection": "Dashboard Icons",
+          "file": "azure-sql-server.svg",
+          "id": 2063,
+          "is_default": true,
+          "label": "azure-sql-server",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-sql-server.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "72c6104c5f2199f6eaebbc215c5cb78dea9c1d571b95f470341ca7f83eee5be8"
+          },
+          "sha256": "baa9477eafdae0cb35596f59e6cbd5e7f0445968e493dc922beae4f3a0ba1c55",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-sql-server.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1058,
+      "key": "storage-accounts",
+      "title": "Azure Storage Accounts",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-storage-accounts"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1196,
+          "collection": "Dashboard Icons",
+          "file": "azure-storage-accounts.svg",
+          "id": 2064,
+          "is_default": true,
+          "label": "azure-storage-accounts",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-storage-accounts.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7190d3bb14ce30ce74bd0af873915830fe821e8c5f6ef6f3149e6f7cfb2aa4f7"
+          },
+          "sha256": "d038af0134215c4113adc07a316efc2b091441bcac52fe995dfcdccb79404c3d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-storage-accounts.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1059,
+      "key": "traffic-manager",
+      "title": "Azure Traffic Manager",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-traffic-manager"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1731,
+          "collection": "Dashboard Icons",
+          "file": "azure-traffic-manager.svg",
+          "id": 2065,
+          "is_default": true,
+          "label": "azure-traffic-manager",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-traffic-manager.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b4305970b3d623a9a7bd59d77df41cd9f6821128e2f95a2fb8d13f64c8ebe071"
+          },
+          "sha256": "982c96fdeaf39fb0a92c2b9ea79850652385d0e99004d2161a314805c0c9ce74",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-traffic-manager.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1060,
+      "key": "virtual-desktop",
+      "title": "Azure Virtual Desktop",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-virtual-desktop"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1330,
+          "collection": "Dashboard Icons",
+          "file": "azure-virtual-desktop.svg",
+          "id": 2066,
+          "is_default": true,
+          "label": "azure-virtual-desktop",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-virtual-desktop.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "34e8873ecd2196493128bbc74a328fb97febeec1c619c374870b74e044fd93ed"
+          },
+          "sha256": "76dd9b8d2e1ad11a609f7423cb5d20265877bef19917f134cedc6bcf6e1f2bdc",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-virtual-desktop.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1061,
+      "key": "virtual-network-gateways",
+      "title": "Azure Virtual Network Gateways",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-virtual-network-gateways"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2117,
+          "collection": "Dashboard Icons",
+          "file": "azure-virtual-network-gateways.svg",
+          "id": 2067,
+          "is_default": true,
+          "label": "azure-virtual-network-gateways",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-virtual-network-gateways.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5ed14416dafff4e946fae5b68b9c86e8c9a9bbaa37ab94324a5d94c5cfbcb106"
+          },
+          "sha256": "5bdc327adf9f3476193ab5a5f1235ec356a303df6f221d1bb46a0bae5d38c52a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-virtual-network-gateways.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1062,
+      "key": "vm",
+      "title": "Azure Vm",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-vm"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1369,
+          "collection": "Dashboard Icons",
+          "file": "azure-vm.svg",
+          "id": 2068,
+          "is_default": true,
+          "label": "azure-vm",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-vm.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "092d18ffadec9ec0e5af129186dc7bc2a80544011e55f965604ed4b13873e0fc"
+          },
+          "sha256": "fd1d11eab0a302e586584ad3a3a60d79577725f33307d84826b0a0980f2c52f6",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-vm.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1063,
+      "key": "vnet",
+      "title": "Azure Vnet",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "azure-vnet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1899,
+          "collection": "Dashboard Icons",
+          "file": "azure-vnet.svg",
+          "id": 2069,
+          "is_default": true,
+          "label": "azure-vnet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "azure-vnet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "64a5e75ecef2f9f69067faa2eb131266cb8f2858706f8ab74bfea5ad0d98b14d"
+          },
+          "sha256": "5a7c64e042a22f617c77dd9c6f8de72c9991c4640951dd83dee4fb63963c6e9b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azure-vnet.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

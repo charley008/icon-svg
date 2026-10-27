@@ -1,0 +1,40 @@
+{
+  "collection_id": 844,
+  "schema_version": 1,
+  "id": 1071,
+  "title": "Balena Etcher",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "balena-etcher"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3274,
+      "collection": "Dashboard Icons",
+      "file": "balena-etcher.svg",
+      "id": 2083,
+      "is_default": true,
+      "label": "balena-etcher",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "balena-etcher.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f5fa8c5bdc638f57ce011845718cfad09286ae6eebdafcef9b6a760d881cd910"
+      },
+      "sha256": "b6c7b63a539b19f30cd11cf30782cb474e5aff328b49ae4641fb182a2ceb58a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/balena-etcher.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2910,
+  "schema_version": 1,
+  "id": 3137,
+  "title": "Vidzy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vidzy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 594,
+      "collection": "Dashboard Icons",
+      "file": "vidzy.svg",
+      "id": 4830,
+      "is_default": true,
+      "label": "vidzy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vidzy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "17f461a9fcb4d614818b18688d9d4fa57be027f2aaef8aa3b32b60367f3b4e78"
+      },
+      "sha256": "e108c97a6de1d3ec7167ed13fe50c92f3ccb4bef28d022a9ec6e8cb358eb5995",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vidzy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

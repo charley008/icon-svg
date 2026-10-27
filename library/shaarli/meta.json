@@ -1,0 +1,40 @@
+{
+  "collection_id": 2593,
+  "schema_version": 1,
+  "id": 2820,
+  "title": "Shaarli",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shaarli"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2221,
+      "collection": "Dashboard Icons",
+      "file": "shaarli.svg",
+      "id": 4425,
+      "is_default": true,
+      "label": "shaarli",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shaarli.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "451892b217ea84f3a3425e3182039208c75359359dd0c663ed56fd13000a96fe"
+      },
+      "sha256": "7ee22cda9767188251bb44c22d1463282906769a358fbce29283a9c24f8b43b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shaarli.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

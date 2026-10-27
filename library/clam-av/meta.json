@@ -1,0 +1,42 @@
+{
+  "collection_id": 978,
+  "schema_version": 1,
+  "id": 1205,
+  "title": "Clam Av",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "clam-av"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6560,
+      "collection": "Dashboard Icons",
+      "file": "clam-av.svg",
+      "id": 2260,
+      "is_default": true,
+      "label": "clam-av",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "clam-av.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4264f1c2f825d3a294885db4e3e55b7fbb9cd6d9d2ac82d44b4e038bf17ca7ec"
+      },
+      "sha256": "572e77a223c86413add31566680ce99916ee82c3e8e13ecaa8a66c1b92b882b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/clam-av.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

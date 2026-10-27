@@ -1,0 +1,41 @@
+{
+  "collection_id": 2208,
+  "schema_version": 1,
+  "id": 2435,
+  "title": "Printables",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "printables"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 410,
+      "collection": "Dashboard Icons",
+      "file": "printables.svg",
+      "id": 3925,
+      "is_default": true,
+      "label": "printables",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "printables.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e992fea6ba672b11e0cba12361789ec760b0b8df8a17551d1c65321c4b5e7c86"
+      },
+      "sha256": "9551b8e059449dcc0d985a6962c810103211619f0afaa59b3286f82b1bcdf6f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/printables.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

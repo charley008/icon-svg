@@ -1,0 +1,78 @@
+{
+  "collection_id": 1897,
+  "schema_version": 1,
+  "id": 2124,
+  "title": "Neovim",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "neovim"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 401,
+      "collection": "Dashboard Icons",
+      "file": "neovim.svg",
+      "id": 3480,
+      "is_default": true,
+      "label": "neovim",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neovim.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "01f016e1e393f67ed60c8a51de8d3c73b66599ebd3faaf32f5f1c05bb89fad1f"
+      },
+      "sha256": "2d0dca9b572c120c02c28fe7df3ea34f9a8324bb01e7e290dc6cfec1acd179fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neovim.svg",
+      "version": 0
+    },
+    {
+      "bytes": 401,
+      "collection": "Dashboard Icons",
+      "file": "neovim-1.svg",
+      "id": 3481,
+      "is_default": false,
+      "label": "neovim-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neovim-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "99e102832b0d399960396700984b4495ddda0151bed3376fd33e1082941e3066"
+      },
+      "sha256": "fe74e3a9fb7109e04022958e349f10ea1b1c76fc95ef44e7882364615086e0fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neovim-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 401,
+      "collection": "Dashboard Icons",
+      "file": "neovim-2.svg",
+      "id": 3482,
+      "is_default": false,
+      "label": "neovim-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neovim-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "71f5ec4e2b954cec0b6a56cee880b698cf2f988e29e7de964d3d234f3235f838"
+      },
+      "sha256": "6cf19d44439d255387df0aed31e83f742f133d72d04b24245a579d5d21d28459",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neovim-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

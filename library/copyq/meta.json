@@ -1,0 +1,40 @@
+{
+  "collection_id": 1026,
+  "schema_version": 1,
+  "id": 1253,
+  "title": "Copyq",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "copyq"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2936,
+      "collection": "Dashboard Icons",
+      "file": "copyq.svg",
+      "id": 2331,
+      "is_default": true,
+      "label": "copyq",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "copyq.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c343480f66ff73096f849027840924a2422fa2f0ced4959b9e096e3d1a6caeb1"
+      },
+      "sha256": "1da96f3979dd59f03de1a3c85838c0b55eea245d6398bb0c97202d7a09dd7902",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/copyq.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

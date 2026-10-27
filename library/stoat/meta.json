@@ -1,0 +1,59 @@
+{
+  "collection_id": 2703,
+  "schema_version": 1,
+  "id": 2930,
+  "title": "Stoat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stoat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3560,
+      "collection": "Dashboard Icons",
+      "file": "stoat.svg",
+      "id": 4561,
+      "is_default": true,
+      "label": "stoat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stoat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e3ce7965e2a58088f92d652541012082922cb7998eb71442947e1f4d45db33f"
+      },
+      "sha256": "3a596911ff04a40ff03594b246e703b21c32cdced53aea45d264367b5c555f0e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stoat.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3569,
+      "collection": "Dashboard Icons",
+      "file": "stoat-1.svg",
+      "id": 4562,
+      "is_default": false,
+      "label": "stoat-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stoat-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3dfe3a12f6150f4a1533d4a0c90b2338674afad9eb587f31d0e122c806a63c56"
+      },
+      "sha256": "00fe53480f793e818b654d16edf96127fb87007193aa8c68d5017bc3196dcb60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stoat-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

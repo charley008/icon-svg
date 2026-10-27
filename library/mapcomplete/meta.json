@@ -1,0 +1,40 @@
+{
+  "collection_id": 1777,
+  "schema_version": 1,
+  "id": 2004,
+  "title": "Mapcomplete",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mapcomplete"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 55571,
+      "collection": "Dashboard Icons",
+      "file": "mapcomplete.svg",
+      "id": 3313,
+      "is_default": true,
+      "label": "mapcomplete",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mapcomplete.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b87c18ee071fb7d235f45e10747e5e37dcf7dfa80c52fe5079fb624241d6d5b3"
+      },
+      "sha256": "988d8a32871bf01e71e27581d76869693ecb36af830c6601cc182cca60788aa6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mapcomplete.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1902,
+  "schema_version": 1,
+  "id": 2129,
+  "title": "Netbootxyz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netbootxyz",
+    "nbxyz-logo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5950,
+      "collection": "Dashboard Icons",
+      "file": "netbootxyz.svg",
+      "id": 3489,
+      "is_default": true,
+      "label": "netbootxyz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netbootxyz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fa02a396394f165c24c4c742d2742a80fa85e51c2e32adcc3d4b4416bfe05248"
+      },
+      "sha256": "99c25895189af1d82b926dac41ada4b9fadea5d573bcb27e40c8085ac03d5fe7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbootxyz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

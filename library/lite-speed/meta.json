@@ -1,0 +1,41 @@
+{
+  "collection_id": 1721,
+  "schema_version": 1,
+  "id": 1948,
+  "title": "Lite Speed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "lite-speed"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2640,
+      "collection": "Dashboard Icons",
+      "file": "lite-speed.svg",
+      "id": 3245,
+      "is_default": true,
+      "label": "lite-speed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lite-speed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2648d7d8a9d7f004aedbee526b5e7b6ce0b3513494e6db6c135dedf8a361bc6"
+      },
+      "sha256": "2843776972a6c212a9e123e66e295f250f095f3bf66e49de6d8140a75629b4b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lite-speed.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

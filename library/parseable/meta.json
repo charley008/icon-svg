@@ -1,0 +1,40 @@
+{
+  "collection_id": 2096,
+  "schema_version": 1,
+  "id": 2323,
+  "title": "Parseable",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "parseable"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 895,
+      "collection": "Dashboard Icons",
+      "file": "parseable.svg",
+      "id": 3761,
+      "is_default": true,
+      "label": "parseable",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "parseable.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb0de257514f826cd41038ddd33adfca530ed9d6119fc8df7c0220ab66bc43b1"
+      },
+      "sha256": "9c5005729c9e728f45d8fc11d5f8ec11f70966c68740fd497af6e2030a518189",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/parseable.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

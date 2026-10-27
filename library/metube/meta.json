@@ -1,0 +1,44 @@
+{
+  "collection_id": 1817,
+  "schema_version": 1,
+  "id": 2044,
+  "title": "Metube",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Download-Managers",
+    "网络工具"
+  ],
+  "aliases": [
+    "metube",
+    "youtube-dl-gui",
+    "video-downloader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 905,
+      "collection": "Dashboard Icons",
+      "file": "metube.svg",
+      "id": 3365,
+      "is_default": true,
+      "label": "metube",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "metube.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f930cc07019c7592c8e69d50e16e27eb9147d96cf7ebcc94d4ecc271266891c"
+      },
+      "sha256": "7d1f015e335fb1a0107dee8879b73265b7759be9101f4fe1a4e6d88649ad58a4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/metube.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

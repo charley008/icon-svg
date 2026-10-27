@@ -1,0 +1,64 @@
+{
+  "collection_id": 1732,
+  "schema_version": 1,
+  "id": 1959,
+  "title": "Locals",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Monitoring-Tools",
+    "Web-Browsers",
+    "系统工具"
+  ],
+  "aliases": [
+    "locals",
+    "Local Services Dashboard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 449,
+      "collection": "Dashboard Icons",
+      "file": "locals.svg",
+      "id": 3257,
+      "is_default": true,
+      "label": "locals",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "locals.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a170382e37e245ea513e28ecca45942879e4770804adc53ada029d1b4056ddb"
+      },
+      "sha256": "9227220bc6fe6309b8da11b7ee521c9062af33056de6f67dad5dab00607e1ac5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/locals.svg",
+      "version": 0
+    },
+    {
+      "bytes": 461,
+      "collection": "Dashboard Icons",
+      "file": "locals-1.svg",
+      "id": 3258,
+      "is_default": false,
+      "label": "locals-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "locals-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6a09b191e678685f6e3169bc08ff4cd1eb107212588d54328926d42a658a68f3"
+      },
+      "sha256": "c6f08956c221188691f80d17ee0631f8062a6e62605d9cf1621e0b895530f109",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/locals-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

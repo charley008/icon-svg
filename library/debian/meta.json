@@ -1,5 +1,7 @@
 {
+  "collection_id": 1083,
   "schema_version": 1,
+  "id": 1310,
   "title": "Debian",
   "url": "https://www.debian.org/",
   "domains": [
@@ -24,26 +26,186 @@
   ],
   "icons": [
     {
-      "file": "debian.svg",
-      "version": 0,
-      "label": "官方红色旋涡",
-      "is_default": true,
-      "sha256": "b41a16e4dae6ceed6e6e715cb65cc11135881c0f641008aa4c29411a76ecd9bc",
       "bytes": 4990,
-      "source": "https://www.debian.org/logos/openlogo-nd.svg",
+      "collection": "Debian 官方标志",
+      "file": "debian.svg",
+      "id": 2402,
+      "is_default": true,
+      "label": "官方红色旋涡",
       "license": "CC-BY-SA-3.0；商标权归相应权利人",
       "method": "downloaded-svg-cleaned",
-      "collection": "Debian 官方标志",
       "provenance": {
-        "original_file": "openlogo-nd.svg",
         "author": "Raul Silva",
         "copyright": "Copyright (c) 1999 Software in the Public Interest, Inc.",
         "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "source_page": "https://www.debian.org/logos/",
-        "processing": "Removed non-rendering Adobe editor metadata and attributes; vector geometry and original #A80030 color preserved."
-      }
+        "original_file": "openlogo-nd.svg",
+        "processing": "Removed non-rendering Adobe editor metadata and attributes; vector geometry and original #A80030 color preserved.",
+        "source_page": "https://www.debian.org/logos/"
+      },
+      "sha256": "b41a16e4dae6ceed6e6e715cb65cc11135881c0f641008aa4c29411a76ecd9bc",
+      "source": "https://www.debian.org/logos/openlogo-nd.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3149,
+      "collection": "Dashboard Icons",
+      "file": "debian-1.svg",
+      "id": 2403,
+      "is_default": false,
+      "label": "debian-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "debian-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd74f1c4460d50d01fbbc53b17ae88e0857ca8ead0f6c0b74fc6aadeaf74fb1e"
+      },
+      "sha256": "ea0f2174fe04338ba37f8147cc351c4f696bf38f407465f01cb5bfca4136e665",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/debian-linux.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6777,
+      "collection": "用户提供",
+      "file": "debian-2.svg",
+      "id": 5038,
+      "is_default": false,
+      "label": "Debian 原色文字标志",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "debian_original_wordmark_logo_icon_146569.svg",
+        "original_sha256": "5edb171640af92427a92264e0ae704d5e4a4e87f7a543747512fee13478ca360",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "5edb171640af92427a92264e0ae704d5e4a4e87f7a543747512fee13478ca360",
+      "source": "用户提供：debian_original_wordmark_logo_icon_146569.svg",
+      "version": 2
+    },
+    {
+      "bytes": 6905,
+      "collection": "用户提供",
+      "file": "debian-3.svg",
+      "id": 5039,
+      "is_default": false,
+      "label": "Debian 单色文字标志",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "debian_plain_wordmark_logo_icon_146567.svg",
+        "original_sha256": "82b5119388912b32ca9e278d9740b5c5f34f3925fb59e1680cfbc8676435931f",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "82b5119388912b32ca9e278d9740b5c5f34f3925fb59e1680cfbc8676435931f",
+      "source": "用户提供：debian_plain_wordmark_logo_icon_146567.svg",
+      "version": 3
+    },
+    {
+      "bytes": 9453,
+      "collection": "用户提供",
+      "file": "debian-4.svg",
+      "id": 5040,
+      "is_default": false,
+      "label": "Debian 标志（169285）",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "debian_logo_icon_169285.svg",
+        "original_sha256": "9e442e3fa81dfcc68be78094340293695478d2912e718b39d8d6727f0b58beb4",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "9e442e3fa81dfcc68be78094340293695478d2912e718b39d8d6727f0b58beb4",
+      "source": "用户提供：debian_logo_icon_169285.svg",
+      "version": 4
+    },
+    {
+      "bytes": 13478,
+      "collection": "用户提供",
+      "file": "debian-5.svg",
+      "id": 5041,
+      "is_default": false,
+      "label": "Debian 发行版图标（93598）",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "distributorlogodebian_93598.svg",
+        "original_sha256": "7a1ac0dc108b7903c6a12b8f13d2cbede9d2f43cee8c13e7630c21f2f054a76f",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "7a1ac0dc108b7903c6a12b8f13d2cbede9d2f43cee8c13e7630c21f2f054a76f",
+      "source": "用户提供：distributorlogodebian_93598.svg",
+      "version": 5
+    },
+    {
+      "bytes": 3988,
+      "collection": "用户提供",
+      "file": "debian-6.svg",
+      "id": 5042,
+      "is_default": false,
+      "label": "Debian 原色旋涡标志",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "debian_original_logo_icon_146566.svg",
+        "original_sha256": "f3f43fb7c4a83967536ab645954399fde8f860f2c394bce0e0f1daf58fef72f5",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "f3f43fb7c4a83967536ab645954399fde8f860f2c394bce0e0f1daf58fef72f5",
+      "source": "用户提供：debian_original_logo_icon_146566.svg",
+      "version": 6
+    },
+    {
+      "bytes": 8260,
+      "collection": "用户提供",
+      "file": "debian-7.svg",
+      "id": 5043,
+      "is_default": false,
+      "label": "Debian 横版标志（168290）",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "debian_logo_icon_168290.svg",
+        "original_sha256": "78d08a6c72c7ea69157e8070d3eb07de89c5c6b2533fc345dd3e96412d33ab3b",
+        "processing": [
+          "Original SVG bytes preserved"
+        ]
+      },
+      "sha256": "78d08a6c72c7ea69157e8070d3eb07de89c5c6b2533fc345dd3e96412d33ab3b",
+      "source": "用户提供：debian_logo_icon_168290.svg",
+      "version": 7
+    },
+    {
+      "bytes": 8468,
+      "collection": "用户提供",
+      "file": "debian-8.svg",
+      "id": 5044,
+      "is_default": false,
+      "label": "Debian 发行版图标（103834）",
+      "license": "用户提供；未附许可声明，图形及商标权归各自权利人",
+      "method": "user-supplied-svg",
+      "provenance": {
+        "original_file": "distributorlogodebian_103834.svg",
+        "original_sha256": "6a28e42723c754b395f5384041185c318f8af6b639a992cde6a785c3cc143e3a",
+        "processing": [
+          "Removed non-rendering Inkscape/Sodipodi/RDF editor metadata; SVG geometry, gradients, transforms and colors unchanged"
+        ]
+      },
+      "sha256": "fb8d80b62d15c7426475cf4d21138c3eb88940f7946cd66b92524dc0dc42db5a",
+      "source": "用户提供：distributorlogodebian_103834.svg",
+      "version": 8
     }
   ],
-  "next_version": 1,
+  "next_version": 9,
   "products": []
 }

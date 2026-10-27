@@ -1,0 +1,45 @@
+{
+  "collection_id": 3244,
+  "schema_version": 1,
+  "id": 3507,
+  "title": "Symfony",
+  "url": "https://symfony.com",
+  "domains": [
+    "symfony.com"
+  ],
+  "description": "PHP 应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Symfony",
+    "symfony"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1222,
+      "collection": "TechIcons / Devicon",
+      "file": "symfony-1.svg",
+      "id": 5375,
+      "is_default": true,
+      "label": "TechIcons · Symfony",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Symfony.svg",
+        "original_sha256": "9efe9dd777673188b8ee15afad54c0f097ad73ecaf9510ff2acc17a40ce80004",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/symfony",
+        "reference_website": "https://symfony.com"
+      },
+      "sha256": "e60f9134b8bb0705d9ccb64c6bb327fb4dc8c24797873bc20373aac57f20302f",
+      "source": "https://techicons.dev/icons/symfony",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

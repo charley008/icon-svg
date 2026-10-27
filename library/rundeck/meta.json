@@ -1,0 +1,40 @@
+{
+  "collection_id": 2532,
+  "schema_version": 1,
+  "id": 2759,
+  "title": "Rundeck",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rundeck"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 321,
+      "collection": "Dashboard Icons",
+      "file": "rundeck.svg",
+      "id": 4340,
+      "is_default": true,
+      "label": "rundeck",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rundeck.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d19c21815e4ebc877ff74acf2055aeb1d92a99c0249119b3746b257f001604b5"
+      },
+      "sha256": "4f9341ed498c242606e703f9d2760a5a3fabc3b6512b6b3f000f1444fe372af7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rundeck.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

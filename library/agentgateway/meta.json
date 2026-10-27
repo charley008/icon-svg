@@ -1,0 +1,59 @@
+{
+  "collection_id": 673,
+  "schema_version": 1,
+  "id": 900,
+  "title": "Agentgateway",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "agentgateway"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2684,
+      "collection": "Dashboard Icons",
+      "file": "agentgateway.svg",
+      "id": 1862,
+      "is_default": true,
+      "label": "agentgateway",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "agentgateway.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ad1160d85d26865c818ca095ab8eefc89ee014592cc989116e77ed21c9388815"
+      },
+      "sha256": "b2729fc69f7fa32829e9aee9adfd63097853c5d4b0b1a3ca6d5e2f0292bc3ae5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/agentgateway.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2662,
+      "collection": "Dashboard Icons",
+      "file": "agentgateway-1.svg",
+      "id": 1863,
+      "is_default": false,
+      "label": "agentgateway-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "agentgateway-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4e49fba4414912905cf569e07bf4b2f6904b1d18af8fb9ce41a44f3d14c21633"
+      },
+      "sha256": "391cd11a678afebc14e1ec8866cea9f497da419f36920e4f6c9b055e64db65bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/agentgateway-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

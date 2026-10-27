@@ -1,0 +1,40 @@
+{
+  "collection_id": 2964,
+  "schema_version": 1,
+  "id": 3191,
+  "title": "Webtorrent",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "webtorrent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2318,
+      "collection": "Dashboard Icons",
+      "file": "webtorrent.svg",
+      "id": 4899,
+      "is_default": true,
+      "label": "webtorrent",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webtorrent.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7980410eab8946db22833fd806c4551009da1f6700c43b155ff38a8aa61b6747"
+      },
+      "sha256": "157a1e78abba1d558a886ce5c997a67e40560a50619257d55ae2b7faf65d4004",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webtorrent.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

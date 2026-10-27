@@ -1,0 +1,40 @@
+{
+  "collection_id": 2942,
+  "schema_version": 1,
+  "id": 3169,
+  "title": "Vuetorrent",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vuetorrent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 420,
+      "collection": "Dashboard Icons",
+      "file": "vuetorrent.svg",
+      "id": 4870,
+      "is_default": true,
+      "label": "vuetorrent",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vuetorrent.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9a6cbfd881e723363f5b53525587084fff61ebb4341054956b24da93e0f29ab6"
+      },
+      "sha256": "366dbe64286120b5953aa8d545cb73f64b6efd3f03e6844eb4d9ce080e92f43f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vuetorrent.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

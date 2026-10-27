@@ -1,4 +1,7 @@
 {
+  "collection_id": 540,
+  "schema_version": 1,
+  "id": 736,
   "title": "HashiCorp",
   "url": "https://www.hashicorp.com/",
   "domains": [
@@ -19,131 +22,72 @@
   "notes": [],
   "icons": [],
   "next_version": 0,
-  "schema_version": 1,
   "products": [
     {
-      "title": "Terraform",
-      "url": "https://developer.hashicorp.com/terraform",
-      "domains": [
-        "developer.hashicorp.com"
+      "id": 1669,
+      "redirect_from": [
+        1125
       ],
-      "description": "HashiCorp 基础设施管理工具。",
-      "category": "开发编程",
+      "key": "boundary",
+      "title": "Hashicorp Boundary",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
       "tags": [
-        "基础设施即代码",
-        "IaC",
-        "Terraform"
+        "Dashboard Icons"
       ],
       "aliases": [
-        "hashicorp-terraform",
-        "基础设施即代码",
-        "IaC"
+        "hashicorp-boundary",
+        "boundary",
+        "Boundary"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "hashicorp-terraform.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 449,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-boundary.svg",
+          "id": 2884,
           "is_default": true,
-          "sha256": "ed47a3461dfc0ca627b44642dae86175ff6e9f624dbd87a3251afba6899bda4a",
-          "bytes": 313,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-terraform.svg",
+          "label": "hashicorp-boundary",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
-            "original_file": "hashicorp-terraform.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "terraform"
-    },
-    {
-      "title": "Vagrant",
-      "url": "https://developer.hashicorp.com/vagrant",
-      "domains": [
-        "developer.hashicorp.com"
-      ],
-      "description": "HashiCorp 开发环境管理工具。",
-      "category": "开发编程",
-      "tags": [
-        "虚拟环境",
-        "开发环境",
-        "Vagrant"
-      ],
-      "aliases": [
-        "hashicorp-vagrant",
-        "虚拟环境",
-        "开发环境"
-      ],
-      "notes": [],
-      "icons": [
+            "original_file": "hashicorp-boundary.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4cd72f622263e49bde46257dc20cc02a87c65fe1d64b2f7f2fd44df87367ab8d"
+          },
+          "sha256": "fc4fd2ca37d57ecf78461735ba17027b0393b9a1bb9359e62fa2b1e2b2ce973c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-boundary.svg",
+          "version": 0
+        },
         {
-          "file": "hashicorp-vagrant.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "fcdba83d0e0de8198712741ee672925604ef68c867a8bd8d202dce8b267d98a0",
-          "bytes": 226,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-vagrant.svg",
+          "bytes": 699,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-boundary-1.svg",
+          "id": 2161,
+          "is_default": false,
+          "label": "Boundary",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
-            "original_file": "hashicorp-vagrant.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+            "original_file": "boundary.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3297661a584f2af40b54cf69be6b818dd042f5f68f38ed623ef2b335d4e3653c"
+          },
+          "sha256": "0758a089be084e3e8fce76e91f869442530d5c8bb8386f8350729b98fd14c683",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/boundary.svg",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "vagrant"
+      "next_version": 2
     },
     {
-      "title": "Vault",
-      "url": "https://developer.hashicorp.com/vault",
-      "domains": [
-        "developer.hashicorp.com"
-      ],
-      "description": "HashiCorp 机密与凭据管理工具。",
-      "category": "开发编程",
-      "tags": [
-        "密钥管理",
-        "机密管理",
-        "Vault"
-      ],
-      "aliases": [
-        "hashicorp-vault",
-        "密钥管理",
-        "机密管理",
-        "secret-storage",
-        "password-vault"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "hashicorp-vault.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "f25c46cbbf71008666a17d0c3fcaaf28ce463952fc4f8410d55f61c4a358bdf3",
-          "bytes": 329,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-vault.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "hashicorp-vault.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "vault"
-    },
-    {
+      "id": 740,
+      "key": "consul",
       "title": "Consul",
       "url": "https://developer.hashicorp.com/consul",
       "domains": [
@@ -166,26 +110,47 @@
       "notes": [],
       "icons": [
         {
-          "file": "hashicorp-consul.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "f53b1843ef3ede81bae856685cb4ee064506c5d887ce4b0cdf0ab0a7aecc78fe",
           "bytes": 2137,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-consul.svg",
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-consul.svg",
+          "id": 1699,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "hashicorp-consul.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "f53b1843ef3ede81bae856685cb4ee064506c5d887ce4b0cdf0ab0a7aecc78fe",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-consul.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1144,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-consul-1.svg",
+          "id": 2879,
+          "is_default": false,
+          "label": "consul",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "consul.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c6cafc25d2277d83a4e1290c792279b104653509384376b810dee7b604e9ed08"
+          },
+          "sha256": "655588d4b120fe81bb8d42c3619ec49f3d584f673c79f678848918e95ec7bb2e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/consul.svg",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "consul"
+      "next_version": 2
     },
     {
+      "id": 741,
+      "key": "nomad",
       "title": "Nomad",
       "url": "https://developer.hashicorp.com/nomad",
       "domains": [
@@ -206,24 +171,364 @@
       "notes": [],
       "icons": [
         {
-          "file": "hashicorp-nomad.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "1f63f10369d5e5810ca7dfc9c0e1dbe1aa76c59b03796219688806d4507133fb",
           "bytes": 266,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-nomad.svg",
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-nomad.svg",
+          "id": 1700,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "hashicorp-nomad.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "1f63f10369d5e5810ca7dfc9c0e1dbe1aa76c59b03796219688806d4507133fb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-nomad.svg",
+          "version": 0
+        },
+        {
+          "bytes": 548,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-nomad-1.svg",
+          "id": 2880,
+          "is_default": false,
+          "label": "nomad",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nomad.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d0118c99e5b409ac72b814be7f99a55f4f4081a61fc36de739bddd592713817f"
+          },
+          "sha256": "d06ae3ad5fde461b5d7a6278c1038605edddc23948a5af8b88c7f29ad27d634f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nomad.svg",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "nomad"
+      "next_version": 2
+    },
+    {
+      "id": 1670,
+      "key": "packer",
+      "title": "Hashicorp Packer",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "hashicorp-packer"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 376,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-packer.svg",
+          "id": 2885,
+          "is_default": true,
+          "label": "hashicorp-packer",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hashicorp-packer.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1b6d7fcffdf7106d712897fc5499b18b297275df173d1748f2c36a5e042897e2"
+          },
+          "sha256": "c91ff427812dfcb78028328d4134233cfc637cc81eed1b7fbd47d65a86e4eef1",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-packer.svg",
+          "version": 0
+        },
+        {
+          "bytes": 374,
+          "collection": "TechIcons / Devicon",
+          "file": "hashicorp-packer-1.svg",
+          "id": 5196,
+          "is_default": false,
+          "label": "TechIcons · Packer",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Packer.svg",
+            "original_sha256": "dafe1745731ec8dd0d85bca04aca96b88738558c22a2be9325c2d49a75526bc4",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/packer",
+            "reference_website": "https://www.packer.io"
+          },
+          "sha256": "2824ab6522d7d4499821cb8e303729c6b34f2dbae2b7f248f522fabacd6c370d",
+          "source": "https://techicons.dev/icons/packer",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 737,
+      "key": "terraform",
+      "title": "Terraform",
+      "url": "https://developer.hashicorp.com/terraform",
+      "domains": [
+        "developer.hashicorp.com"
+      ],
+      "description": "HashiCorp 基础设施管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "基础设施即代码",
+        "IaC",
+        "Terraform"
+      ],
+      "aliases": [
+        "hashicorp-terraform",
+        "基础设施即代码",
+        "IaC"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 313,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-terraform.svg",
+          "id": 1696,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hashicorp-terraform.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "ed47a3461dfc0ca627b44642dae86175ff6e9f624dbd87a3251afba6899bda4a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-terraform.svg",
+          "version": 0
+        },
+        {
+          "bytes": 340,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-terraform-1.svg",
+          "id": 2881,
+          "is_default": false,
+          "label": "terraform",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "terraform.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "81bb8443a3299c1bb00cf191953dbf0e42af6eb833873c7e54fc1c98dea82caf"
+          },
+          "sha256": "e0608cd89f31dc6649e371b491b4f51d7b99bc49ec61c0973ea0ae5c9f280613",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terraform.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 738,
+      "key": "vagrant",
+      "title": "Vagrant",
+      "url": "https://developer.hashicorp.com/vagrant",
+      "domains": [
+        "developer.hashicorp.com"
+      ],
+      "description": "HashiCorp 开发环境管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "虚拟环境",
+        "开发环境",
+        "Vagrant"
+      ],
+      "aliases": [
+        "hashicorp-vagrant",
+        "虚拟环境",
+        "开发环境"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 226,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-vagrant.svg",
+          "id": 1697,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hashicorp-vagrant.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "fcdba83d0e0de8198712741ee672925604ef68c867a8bd8d202dce8b267d98a0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-vagrant.svg",
+          "version": 0
+        },
+        {
+          "bytes": 547,
+          "collection": "TechIcons / Devicon",
+          "file": "hashicorp-vagrant-1.svg",
+          "id": 5197,
+          "is_default": false,
+          "label": "TechIcons · HashiCorp Vagrant",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "HashiCorp-Vagrant.svg",
+            "original_sha256": "daddd8af47a144d7ebda068664b02b1c2f09fcdef261d3d002824634160f7f4f",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/vagrant",
+            "reference_website": "https://www.vagrantup.com"
+          },
+          "sha256": "bddecc4fe02701ea77d893b5fcb79495acdd22f6b8be2b994da130ac61c44e08",
+          "source": "https://techicons.dev/icons/vagrant",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 739,
+      "key": "vault",
+      "title": "Vault",
+      "url": "https://developer.hashicorp.com/vault",
+      "domains": [
+        "developer.hashicorp.com"
+      ],
+      "description": "HashiCorp 机密与凭据管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "密钥管理",
+        "机密管理",
+        "Vault"
+      ],
+      "aliases": [
+        "hashicorp-vault",
+        "密钥管理",
+        "机密管理",
+        "secret-storage",
+        "password-vault"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 329,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-vault.svg",
+          "id": 1698,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hashicorp-vault.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "f25c46cbbf71008666a17d0c3fcaaf28ce463952fc4f8410d55f61c4a358bdf3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-vault.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1442,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-vault-1.svg",
+          "id": 2882,
+          "is_default": false,
+          "label": "vault",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "vault.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "24b1cf96d949c6fa1811f9c14b2ee5697a347ec077a56d301fa01f51a5a3d0a5"
+          },
+          "sha256": "9fbc77e5dd342ab81365eafa4fd32ab31b02ee5482aa73416786900137fadc1f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vault.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1538,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-vault-2.svg",
+          "id": 2883,
+          "is_default": false,
+          "label": "vault-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "vault-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0fc145e58efd881aff7b84ce4ccc0dca2ee7914297dd397094c8362a38bbcdd6"
+          },
+          "sha256": "ae84063e8293ff0d4237c696c8017cec0cc2ff952c3e56e566655690d9ff93cd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vault-light.svg",
+          "version": 2
+        },
+        {
+          "bytes": 394,
+          "collection": "TechIcons / Devicon",
+          "file": "hashicorp-vault-3.svg",
+          "id": 5198,
+          "is_default": false,
+          "label": "TechIcons · HashiCorp Vault",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "HashiCorp-Vault.svg",
+            "original_sha256": "7ba6a343ddad8558691960d4649e337ac30e4182adb91702980c4cc06f0c8ef3",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/vault",
+            "reference_website": "https://www.hashicorp.com/products/vault"
+          },
+          "sha256": "33b133cfb7757808a5403b15c704fe4729100af0bbaa6678dbb0c246a5c06106",
+          "source": "https://techicons.dev/icons/vault",
+          "version": 3
+        }
+      ],
+      "next_version": 4
+    },
+    {
+      "id": 1671,
+      "key": "waypoint",
+      "title": "Hashicorp Waypoint",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "hashicorp-waypoint"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 301,
+          "collection": "Dashboard Icons",
+          "file": "hashicorp-waypoint.svg",
+          "id": 2886,
+          "is_default": true,
+          "label": "hashicorp-waypoint",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hashicorp-waypoint.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d162d842acbc94f5ecca0efc090014889af018e610cc5a81680f648ed1609b4b"
+          },
+          "sha256": "fd0f3469815de015b14a88de121d7995575e94e9369ead6ede92528bc621d300",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hashicorp-waypoint.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     }
   ]
 }

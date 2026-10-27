@@ -1,0 +1,59 @@
+{
+  "collection_id": 1170,
+  "schema_version": 1,
+  "id": 1397,
+  "title": "Dvd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dvd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1142,
+      "collection": "Dashboard Icons",
+      "file": "dvd.svg",
+      "id": 2520,
+      "is_default": true,
+      "label": "dvd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dvd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ecf2f548a7a8c25e52563c8bc14b900d584b63cafe79694981674393a2e49bb"
+      },
+      "sha256": "0a52b57b8f6dc53fd5e428b025d95e376ddcddf493c2d0d710b22c70feed323b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dvd.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1130,
+      "collection": "Dashboard Icons",
+      "file": "dvd-1.svg",
+      "id": 2521,
+      "is_default": false,
+      "label": "dvd-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dvd-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f4d61a5133204f0d3100c8a4ff68b89e47d4ca87d9774cd1229511e37fad7df"
+      },
+      "sha256": "129282c0a9d9235bbaa98497e5f45fdf4daff16311a3f7c695e4ff3dfb799896",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dvd-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

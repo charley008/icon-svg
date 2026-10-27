@@ -1,0 +1,40 @@
+{
+  "collection_id": 852,
+  "schema_version": 1,
+  "id": 1079,
+  "title": "Baserow",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "baserow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1028,
+      "collection": "Dashboard Icons",
+      "file": "baserow.svg",
+      "id": 2096,
+      "is_default": true,
+      "label": "baserow",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baserow.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "55457ff82cbe405f893acd13511915847cda7ad332e190a419b9e3c3c639040f"
+      },
+      "sha256": "7ddebfa8078c68a5042ff5e0563d2b942af1e1228bb3271d448290a4985366e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/baserow.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

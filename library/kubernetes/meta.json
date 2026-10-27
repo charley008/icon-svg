@@ -1,4 +1,7 @@
 {
+  "collection_id": 558,
+  "schema_version": 1,
+  "id": 762,
   "title": "Kubernetes",
   "url": "https://kubernetes.io/",
   "domains": [
@@ -19,23 +22,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "kubernetes.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "cb354c94ba42b4201dd5c1da46323df2f98cc30b124a0e280a78d5b3b508018c",
       "bytes": 6040,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kubernetes.svg",
+      "collection": "Dashboard Icons",
+      "file": "kubernetes.svg",
+      "id": 1720,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "kubernetes.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "cb354c94ba42b4201dd5c1da46323df2f98cc30b124a0e280a78d5b3b508018c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kubernetes.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3929,
+      "collection": "TechIcons / Devicon",
+      "file": "kubernetes-1.svg",
+      "id": 5245,
+      "is_default": false,
+      "label": "TechIcons · Kubernetes",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Kubernetes.svg",
+        "original_sha256": "aa222303eb15e7f7ce4a6c7a0295c4c299e4754032d1ef4c35081472db8d4b83",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/kubernetes",
+        "reference_website": "https://kubernetes.io"
+      },
+      "sha256": "2d1014626b7b122a243e2c3398ce6e10878ca2a32f55ff321bbcfcecc46dafec",
+      "source": "https://techicons.dev/icons/kubernetes",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

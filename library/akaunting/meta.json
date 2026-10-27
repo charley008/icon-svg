@@ -1,0 +1,42 @@
+{
+  "collection_id": 682,
+  "schema_version": 1,
+  "id": 909,
+  "title": "Akaunting",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "akaunting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1040,
+      "collection": "Dashboard Icons",
+      "file": "akaunting.svg",
+      "id": 1872,
+      "is_default": true,
+      "label": "akaunting",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "akaunting.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8f62190902e9b21f7b6964472ccdb0dba6a7f0cbc7b601135733b48d58dcb5c3"
+      },
+      "sha256": "02e242807cabcb224ab7324d71e60219f73bc98fd4eb97ec5c079be48515af67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/akaunting.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

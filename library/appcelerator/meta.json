@@ -1,0 +1,90 @@
+{
+  "collection_id": 3078,
+  "schema_version": 1,
+  "id": 3312,
+  "title": "Appcelerator",
+  "url": "https://www.axway.com/en/appcelerator-end-of-life",
+  "domains": [
+    "axway.com"
+  ],
+  "description": "跨平台移动应用开发平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Appcelerator",
+    "appcelerator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 816,
+      "collection": "TechIcons / Devicon",
+      "file": "appcelerator-1.svg",
+      "id": 5071,
+      "is_default": true,
+      "label": "TechIcons · Appcelerator",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Appcelerator.svg",
+        "original_sha256": "e2666a201315d5769605dddb69859ebf3e946f94e4a62620e4a0087701e58a54",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/appcelerator",
+        "reference_website": "https://www.axway.com/en/appcelerator-end-of-life"
+      },
+      "sha256": "6dc6d6331b55f97cd2f3f576776b77f228a6d70989c6f05f02bb3d7660f7aefb",
+      "source": "https://techicons.dev/icons/appcelerator",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 3313,
+      "key": "titanium-sdk",
+      "title": "Titanium SDK",
+      "url": "https://titaniumsdk.com",
+      "domains": [
+        "titaniumsdk.com"
+      ],
+      "description": "用于构建跨平台原生移动应用的开发套件。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Titanium SDK",
+        "titaniumsdk",
+        "Titanium-SDK"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4892,
+          "collection": "TechIcons / Devicon",
+          "file": "appcelerator-titanium-sdk-1.svg",
+          "id": 5072,
+          "is_default": true,
+          "label": "TechIcons · Titanium SDK",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Titanium-SDK.svg",
+            "original_sha256": "4512e79b317738062530042e9984b3562c86a117e4f5a6606bfb16f6f03ffbfe",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/titaniumsdk",
+            "reference_website": "https://titaniumsdk.com"
+          },
+          "sha256": "24c35acb4458f926f6bd8a558304f364042303ad439f56b6512afe2a49605709",
+          "source": "https://techicons.dev/icons/titaniumsdk",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

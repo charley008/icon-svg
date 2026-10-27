@@ -1,0 +1,40 @@
+{
+  "collection_id": 1145,
+  "schema_version": 1,
+  "id": 1372,
+  "title": "Doozle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "doozle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9006,
+      "collection": "Dashboard Icons",
+      "file": "doozle.svg",
+      "id": 2487,
+      "is_default": true,
+      "label": "doozle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doozle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd1c2846965e710008aca19eacab1c0c19ce9586d8a88b9ffa958f81330a6eb4"
+      },
+      "sha256": "3ee26b440b9e8863b47e1348392f5e2c5a7e153e0bc25123acc3ab2a7adab915",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/doozle.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

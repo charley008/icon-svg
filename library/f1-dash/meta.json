@@ -1,0 +1,41 @@
+{
+  "collection_id": 1237,
+  "schema_version": 1,
+  "id": 1464,
+  "title": "F1 Dash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "体育运动",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "f1-dash",
+    "f1 dash"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2423,
+      "collection": "Dashboard Icons",
+      "file": "f1-dash.svg",
+      "id": 2611,
+      "is_default": true,
+      "label": "f1-dash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "f1-dash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "228b09bc31abfae075645b91d2711b1bf09ae5e908f87f02d10f44e9f26811ee"
+      },
+      "sha256": "10c4f04a3876b1257c2af981acd8f6bd43233040227949b11ed87ed14edd78bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/f1-dash.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

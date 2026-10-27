@@ -1,0 +1,40 @@
+{
+  "collection_id": 1475,
+  "schema_version": 1,
+  "id": 1702,
+  "title": "Heyform",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "heyform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 949,
+      "collection": "Dashboard Icons",
+      "file": "heyform.svg",
+      "id": 2930,
+      "is_default": true,
+      "label": "heyform",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "heyform.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a17fd3d66edab3dcb502f35ac45845f519eb6bcf06f0360634ed3520cf6a35e"
+      },
+      "sha256": "8dfc00d68ab7afcd63acb2f1f4cfa8ab524e0838646424e8c33fbd319b4a96e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/heyform.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

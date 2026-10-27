@@ -1,0 +1,45 @@
+{
+  "collection_id": 3166,
+  "schema_version": 1,
+  "id": 3423,
+  "title": "Livewire",
+  "url": "https://laravel-livewire.com",
+  "domains": [
+    "laravel-livewire.com"
+  ],
+  "description": "基于 Laravel 的动态界面开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Livewire",
+    "livewire"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3041,
+      "collection": "TechIcons / Devicon",
+      "file": "livewire-1.svg",
+      "id": 5252,
+      "is_default": true,
+      "label": "TechIcons · Livewire",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Livewire.svg",
+        "original_sha256": "c167324ee6ed84ee8c674de6a14f29a95082cb2cbea74448578d66180c2b273d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/livewire",
+        "reference_website": "https://laravel-livewire.com"
+      },
+      "sha256": "df02c392a645ae005f6c52d5320a18e940aafc5d3076813e9e42ecf9f87dcbe1",
+      "source": "https://techicons.dev/icons/livewire",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

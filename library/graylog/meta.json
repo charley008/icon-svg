@@ -1,0 +1,40 @@
+{
+  "collection_id": 1423,
+  "schema_version": 1,
+  "id": 1650,
+  "title": "Graylog",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "graylog"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1195,
+      "collection": "Dashboard Icons",
+      "file": "graylog.svg",
+      "id": 2851,
+      "is_default": true,
+      "label": "graylog",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "graylog.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ebdb021895b5f01fdd546f2e76f140c4145fb03ca2ef500ca374403fd5ad9409"
+      },
+      "sha256": "6207f4c9fd45b24f1467479eb6b8c8432af54866b6ee13090e32fdb82158ed22",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/graylog.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

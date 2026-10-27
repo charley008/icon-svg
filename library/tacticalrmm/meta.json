@@ -1,0 +1,40 @@
+{
+  "collection_id": 2739,
+  "schema_version": 1,
+  "id": 2966,
+  "title": "Tacticalrmm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tacticalrmm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2033,
+      "collection": "Dashboard Icons",
+      "file": "tacticalrmm.svg",
+      "id": 4609,
+      "is_default": true,
+      "label": "tacticalrmm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tacticalrmm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cc466f85905b7cf8dcd9ee1dcd4c88dbc799a3a0f81e66df1b6118c9c14ce0d"
+      },
+      "sha256": "32f9c84effa7d4265f954d6b3b593c4cbfebdd249620a30b8c088e770850ec70",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tacticalrmm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

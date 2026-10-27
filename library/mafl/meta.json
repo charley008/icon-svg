@@ -1,0 +1,40 @@
+{
+  "collection_id": 1757,
+  "schema_version": 1,
+  "id": 1984,
+  "title": "Mafl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mafl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1242,
+      "collection": "Dashboard Icons",
+      "file": "mafl.svg",
+      "id": 3288,
+      "is_default": true,
+      "label": "mafl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mafl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef1e1385d05a88c88375dcc7471aa5566d18853d8bb59f4bda9b4420285a4969"
+      },
+      "sha256": "c19ca56058db8951127f939d813b9106fe2fbcd2a3de217d8804f553fd01c1f1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mafl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

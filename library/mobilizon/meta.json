@@ -1,0 +1,86 @@
+{
+  "collection_id": 1839,
+  "schema_version": 1,
+  "id": 2066,
+  "redirect_from": [
+    2067,
+    2068
+  ],
+  "title": "Mobilizon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mobilizon",
+    "mobilizon-logo-wordmark-dark",
+    "Mobilizon Logo Wordmark Dark",
+    "mobilizon-logo",
+    "Mobilizon Logo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 906,
+      "collection": "Dashboard Icons",
+      "file": "mobilizon.svg",
+      "id": 3407,
+      "is_default": true,
+      "label": "mobilizon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mobilizon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37fa487d61bf86b6bd201384c241f9d650afa3b3c42d2236bf37b98483caf485"
+      },
+      "sha256": "4eed9321d8fd678d6b90c093dbc44b9c3c89697d1d75608dff44a91567bb1894",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mobilizon.svg",
+      "version": 0
+    },
+    {
+      "bytes": 11540,
+      "collection": "Dashboard Icons",
+      "file": "mobilizon-1.svg",
+      "id": 3409,
+      "is_default": false,
+      "label": "mobilizon-logo-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mobilizon-logo-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78caf05c5a097b797267c92c15d9fa8c3e386cacf9a148660273e74e199509dc"
+      },
+      "sha256": "6e222cc616ec1a0bd3d8f473beceee7901080fa66ed3bbf6a288c24589e22db3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mobilizon-logo-wordmark-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2739,
+      "collection": "Dashboard Icons",
+      "file": "mobilizon-2.svg",
+      "id": 3408,
+      "is_default": false,
+      "label": "mobilizon-logo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mobilizon-logo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d1531b2fed8ac7acf3b78d571ebedeba6c43a41474362049ec2b13ae8c704f6"
+      },
+      "sha256": "792b2872de92c9dab2fd24984d96b2a5debea4a68c72b279cc2f3dcfceb09b8c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mobilizon-logo.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

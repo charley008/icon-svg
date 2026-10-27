@@ -1,0 +1,40 @@
+{
+  "collection_id": 2753,
+  "schema_version": 1,
+  "id": 2980,
+  "title": "Teamarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "teamarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 62791,
+      "collection": "Dashboard Icons",
+      "file": "teamarr.svg",
+      "id": 4627,
+      "is_default": true,
+      "label": "teamarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teamarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef025170cb7cad5bc508b41749a4fb10dc2877e3822bb9e724ad8a99ab1c5d1a"
+      },
+      "sha256": "65084e07d23d5a0ad9337143fd17b3dc40ff76d02ef1cf22acd80a8f8d1ee0a3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teamarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

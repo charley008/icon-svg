@@ -1,0 +1,45 @@
+{
+  "collection_id": 881,
+  "schema_version": 1,
+  "id": 1108,
+  "title": "Blocky",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "blocky",
+    "dns-server",
+    "adblocking-dns"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14119,
+      "collection": "Dashboard Icons",
+      "file": "blocky.svg",
+      "id": 2139,
+      "is_default": true,
+      "label": "blocky",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "blocky.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce3bfa66306fb858da7695753acf118f7db27469e0189c5fb6d9a323599c4bcd"
+      },
+      "sha256": "cba3a8f0244dbb86d835b7ed2b598288a88d50ddc84c8f27fa113920065e4402",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blocky.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

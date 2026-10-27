@@ -1,0 +1,40 @@
+{
+  "collection_id": 848,
+  "schema_version": 1,
+  "id": 1075,
+  "title": "Baramundi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "baramundi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1257,
+      "collection": "Dashboard Icons",
+      "file": "baramundi.svg",
+      "id": 2090,
+      "is_default": true,
+      "label": "baramundi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baramundi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ebc63d4dcd46d800edc28fab11a7a9a9342b0328c4ff9cfe6a60fbe7a9abc93"
+      },
+      "sha256": "6473127d23d93d385d6401461732d14fdd46771682fbcc0121b03625a1e580e6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/baramundi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

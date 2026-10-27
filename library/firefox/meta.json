@@ -2,6 +2,12 @@
   "collection_id": 156,
   "schema_version": 1,
   "id": 227,
+  "redirect_from": [
+    1503,
+    1504,
+    1505,
+    1506
+  ],
   "title": "Firefox",
   "url": "https://firefox.com",
   "domains": [
@@ -19,7 +25,17 @@
   ],
   "aliases": [
     "firefox",
-    "mozilla-firefox"
+    "mozilla-firefox",
+    "firefox-beta",
+    "Firefox Beta",
+    "firefox-beta-channel",
+    "beta-browser",
+    "firefox-developer-edition",
+    "Firefox Developer Edition",
+    "firefox-lite",
+    "Firefox Lite",
+    "firefox-nightly",
+    "Firefox Nightly"
   ],
   "notes": [],
   "icons": [
@@ -127,8 +143,143 @@
       "sha256": "97fe49b48acfb2346a357a77bf7bea16e70f606594f8c42d393513f87f703dc2",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#firefox-fill",
       "version": 4
+    },
+    {
+      "bytes": 9475,
+      "collection": "Dashboard Icons",
+      "file": "firefox-5.svg",
+      "id": 2661,
+      "is_default": false,
+      "label": "Firefox Beta",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-beta.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f477f57e1968fd6b5d2033e7cb46710300cb943759e3a2378e3a1a3c574d30a"
+      },
+      "sha256": "2129da3bb9cb6a71e5824bd593cf124d467d71e63a4e719329c05ecc5afc4cf3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefox-beta.svg",
+      "version": 5
+    },
+    {
+      "bytes": 27443,
+      "collection": "Dashboard Icons",
+      "file": "firefox-6.svg",
+      "id": 2662,
+      "is_default": false,
+      "label": "Firefox Developer Edition",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-developer-edition.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb6c3b415571f1592e41d1c5f829797f470758a7e735b02e2364125695babb8a"
+      },
+      "sha256": "d2724401e0858139bfd5ef9480fe5148ee0634f73f0fe7677003b8978c7ad523",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefox-developer-edition.svg",
+      "version": 6
+    },
+    {
+      "bytes": 7657,
+      "collection": "Dashboard Icons",
+      "file": "firefox-7.svg",
+      "id": 2663,
+      "is_default": false,
+      "label": "Firefox Lite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-lite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f79c5741bc7d5ed2e8e35d6583c1528bf63ef47af08317b91c64b2a5f9cd6539"
+      },
+      "sha256": "04a6667068f3e8cc636ca170e2e709ff3f0b74e255734f627a54c7cfb75b2118",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefox-lite.svg",
+      "version": 7
+    },
+    {
+      "bytes": 9375,
+      "collection": "Dashboard Icons",
+      "file": "firefox-8.svg",
+      "id": 2664,
+      "is_default": false,
+      "label": "Firefox Nightly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefox-nightly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da1c8956074fd03e99f1b3bd724c48fe9f49b09d59cb5faa11e23a8c126cd702"
+      },
+      "sha256": "901ba3c6d50840ffb6d992fcf35730527dae6f436b524fb32f95d872d88097bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefox-nightly.svg",
+      "version": 8
+    },
+    {
+      "bytes": 38404,
+      "collection": "TechIcons / Devicon",
+      "file": "firefox-9.svg",
+      "id": 5161,
+      "is_default": false,
+      "label": "TechIcons · Firefox",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Firefox.svg",
+        "original_sha256": "029a7e6f1163f76de4c5d488216524264c25154bc659d7a7d3ea26e1d5181b1f",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/firefox",
+        "reference_website": "https://www.mozilla.org/firefox"
+      },
+      "sha256": "13bd5ccb082af89df63c36b7c75e14ac7d1b461e6879118abc071dc2f11b07e5",
+      "source": "https://techicons.dev/icons/firefox",
+      "version": 9
     }
   ],
-  "next_version": 5,
-  "products": []
+  "next_version": 10,
+  "products": [
+    {
+      "id": 1507,
+      "key": "send",
+      "title": "Firefox Send",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "firefox-send"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3318,
+          "collection": "Dashboard Icons",
+          "file": "firefox-send.svg",
+          "id": 2665,
+          "is_default": true,
+          "label": "firefox-send",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "firefox-send.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e8c3595bdd9583998718e65936ee48ca54d205ed8f0507d6a67d1da6ef83df08"
+          },
+          "sha256": "825c46b39db68d599631b6be7bbc43574b4e5e26fdcf8a06889c0bef1bc7a233",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefox-send.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

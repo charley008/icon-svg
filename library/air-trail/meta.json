@@ -1,0 +1,42 @@
+{
+  "collection_id": 676,
+  "schema_version": 1,
+  "id": 903,
+  "title": "Air Trail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Travel"
+  ],
+  "aliases": [
+    "air-trail",
+    "airtrail"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 467,
+      "collection": "Dashboard Icons",
+      "file": "air-trail.svg",
+      "id": 1866,
+      "is_default": true,
+      "label": "air-trail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "air-trail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b25944b8e5575e92967cb5f837fdf16851bf1579312431bdf51629fbf365d275"
+      },
+      "sha256": "76f2059b06772f61740b6a323a70d9be7a08b28f32823fa0280b85fa25dd38c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/air-trail.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

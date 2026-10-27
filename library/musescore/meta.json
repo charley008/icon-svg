@@ -1,0 +1,42 @@
+{
+  "collection_id": 1878,
+  "schema_version": 1,
+  "id": 2105,
+  "title": "Musescore",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "musescore"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2897,
+      "collection": "Dashboard Icons",
+      "file": "musescore.svg",
+      "id": 3455,
+      "is_default": true,
+      "label": "musescore",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "musescore.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6bcb6e5b376bea55b79de7c7821d538e24976f48633e46f351801eaaa06e817f"
+      },
+      "sha256": "27daa6b6c659061700434695c9fdcba1db537a8dddbeafd5fc0ce5623d27d798",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/musescore.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 692,
+  "schema_version": 1,
+  "id": 919,
+  "title": "Aliasvault",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aliasvault"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2906,
+      "collection": "Dashboard Icons",
+      "file": "aliasvault.svg",
+      "id": 1885,
+      "is_default": true,
+      "label": "aliasvault",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aliasvault.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "05aecb279ad3bbbbdeafa9edbc24f99712408532f42ddce221af92ae13e7393d"
+      },
+      "sha256": "01d22d6e501722f9cbc9f189cbf1980ab2340cbdd27c626774721827dc24cc3b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aliasvault.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

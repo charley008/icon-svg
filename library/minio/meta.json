@@ -1,4 +1,7 @@
 {
+  "collection_id": 570,
+  "schema_version": 1,
+  "id": 788,
   "title": "MinIO",
   "url": "https://www.min.io/",
   "domains": [
@@ -21,23 +24,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "minio.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "775c27a9dcbee9f2bd12409a78376c2600612e9c3bea5822ef51e82c8b363c27",
       "bytes": 774,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minio.svg",
+      "collection": "Dashboard Icons",
+      "file": "minio.svg",
+      "id": 1745,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "minio.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "775c27a9dcbee9f2bd12409a78376c2600612e9c3bea5822ef51e82c8b363c27",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minio.svg",
+      "version": 0
+    },
+    {
+      "bytes": 812,
+      "collection": "Dashboard Icons",
+      "file": "minio-1.svg",
+      "id": 3393,
+      "is_default": false,
+      "label": "minio-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minio-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b2ad916a6e85f115c9b7f3b033e4dec20bf11c1d53055027ce6932f16a10f925"
+      },
+      "sha256": "8f34722f44d4a2a8a77d5c279fcfd76f6c484ccab1ca6187aaf339fcdff24ef9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minio-light.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

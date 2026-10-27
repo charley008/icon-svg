@@ -1,0 +1,40 @@
+{
+  "collection_id": 1838,
+  "schema_version": 1,
+  "id": 2065,
+  "title": "Mlb Tv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mlb-tv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2435,
+      "collection": "Dashboard Icons",
+      "file": "mlb-tv.svg",
+      "id": 3406,
+      "is_default": true,
+      "label": "mlb-tv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mlb-tv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae477d825538097a069e8299defeb96d1616c40b43faa6bc206e2bcdd922d7db"
+      },
+      "sha256": "63deaa1b0085c6493dd60dfd541e7a756e2d04c09ce97ccb26b01c4a110c6f04",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mlb-tv.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

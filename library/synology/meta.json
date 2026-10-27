@@ -17,8 +17,47 @@
   ],
   "aliases": [],
   "notes": [],
-  "icons": [],
-  "next_version": 0,
+  "icons": [
+    {
+      "bytes": 4382,
+      "collection": "Dashboard Icons",
+      "file": "synology.svg",
+      "id": 4604,
+      "is_default": true,
+      "label": "synology",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "synology.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "989255fc7cf04784190ac811c8b8dd9358e3d52896776b26a8a9ebabee519869"
+      },
+      "sha256": "fc84a0fa4e79bb7c0431583e41ffbc3828554864bb4e424a47632094d9b5f24c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/synology.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4442,
+      "collection": "Dashboard Icons",
+      "file": "synology-1.svg",
+      "id": 4605,
+      "is_default": false,
+      "label": "synology-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "synology-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "71c1d217f03d3f616d96a38ba6b22ff64ee97ba45129930b0bbfb7215c8afd92"
+      },
+      "sha256": "687d6aef6921be84fce6c0a105cde6b15b00a0720c68bd2769930be3e9a9f164",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/synology-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
   "products": [
     {
       "id": 511,
@@ -114,9 +153,28 @@
           "sha256": "38454a3bd02bfc01a560c8afa45d3d7afc429506ee2481c659bda32efb82ec6f",
           "source": "用户优选",
           "version": 0
+        },
+        {
+          "bytes": 2611,
+          "collection": "Dashboard Icons",
+          "file": "synology-dsm-1.svg",
+          "id": 4606,
+          "is_default": false,
+          "label": "synology-dsm",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "synology-dsm.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "2d2063957364d3de2e8ad5ad2b5366ade263b18802e2edf484f36e368d7426f0"
+          },
+          "sha256": "7a50854408d9fb1cca1bba8cf5735c09be2ee33ffbdab850027751d766f1ddc7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/synology-dsm.svg",
+          "version": 1
         }
       ],
-      "next_version": 1
+      "next_version": 2
     },
     {
       "id": 513,

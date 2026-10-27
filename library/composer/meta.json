@@ -1,0 +1,45 @@
+{
+  "collection_id": 3103,
+  "schema_version": 1,
+  "id": 3343,
+  "title": "Composer",
+  "url": "https://getcomposer.org",
+  "domains": [
+    "getcomposer.org"
+  ],
+  "description": "PHP 项目的依赖管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Composer",
+    "composer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 46014,
+      "collection": "TechIcons / Devicon",
+      "file": "composer-1.svg",
+      "id": 5114,
+      "is_default": true,
+      "label": "TechIcons · Composer",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Composer.svg",
+        "original_sha256": "146892e50267d38ca99b406d70b7ad5bd0da8a968763116bbc4d610ade115e92",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/composer",
+        "reference_website": "https://getcomposer.org"
+      },
+      "sha256": "9df0f1a1adbe62bc2eb1e1fc4c10dee7ad71f4319f412e0cd24816be500b17ce",
+      "source": "https://techicons.dev/icons/composer",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1909,
+  "schema_version": 1,
+  "id": 2136,
+  "title": "Network Ups Tools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "network-ups-tools"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3859,
+      "collection": "Dashboard Icons",
+      "file": "network-ups-tools.svg",
+      "id": 3500,
+      "is_default": true,
+      "label": "network-ups-tools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "network-ups-tools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "943800fed4a875adb0a34718055e69f6f898bf4d66a0d57d6beafb74a7709929"
+      },
+      "sha256": "dc10c5013a17d5e56a1cf1e71c98079fbf0765e9381d71894db0c3de9890e83f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/network-ups-tools.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

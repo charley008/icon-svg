@@ -140,131 +140,8 @@
   "next_version": 5,
   "products": [
     {
-      "title": "Jira",
-      "url": "https://www.atlassian.com/software/jira",
-      "domains": [
-        "www.atlassian.com"
-      ],
-      "description": "Atlassian 项目与问题跟踪应用。",
-      "category": "办公效率",
-      "tags": [
-        "吉拉",
-        "项目管理",
-        "问题跟踪",
-        "Jira"
-      ],
-      "aliases": [
-        "atlassian-jira",
-        "吉拉",
-        "项目管理",
-        "问题跟踪",
-        "Issue Tracker"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "atlassian-jira.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "f51bb4f8582ef051da91b8270a090aa25e6bef0222349b863866fe5d2bd25f09",
-          "bytes": 988,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-jira.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "atlassian-jira.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "jira"
-    },
-    {
-      "title": "Confluence",
-      "url": "https://www.atlassian.com/software/confluence",
-      "domains": [
-        "www.atlassian.com"
-      ],
-      "description": "Atlassian 团队文档与知识库应用。",
-      "category": "办公效率",
-      "tags": [
-        "团队文档",
-        "知识库",
-        "协作",
-        "Confluence"
-      ],
-      "aliases": [
-        "atlassian-confluence",
-        "团队文档",
-        "知识库",
-        "协作"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "atlassian-confluence.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "aa2154f4303b5e196879e232da4632af823b2a4ba5ff81ca88a9ae826e942d8b",
-          "bytes": 1053,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-confluence.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "atlassian-confluence.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "confluence"
-    },
-    {
-      "title": "Bitbucket",
-      "url": "https://bitbucket.org/",
-      "domains": [
-        "bitbucket.org"
-      ],
-      "description": "Atlassian Git 代码托管服务。",
-      "category": "开发编程",
-      "tags": [
-        "Git",
-        "代码托管",
-        "Bitbucket"
-      ],
-      "aliases": [
-        "atlassian-bitbucket",
-        "Git",
-        "代码托管"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "atlassian-bitbucket.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "e681229dbcdcefd722caf0299f237724bdd3db2ead0fdefa5596f99ef6885848",
-          "bytes": 776,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-bitbucket.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "atlassian-bitbucket.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "bitbucket"
-    },
-    {
+      "id": 674,
+      "key": "bamboo",
       "title": "Bamboo",
       "url": "https://www.atlassian.com/software/bamboo",
       "domains": [
@@ -289,24 +166,511 @@
       "notes": [],
       "icons": [
         {
-          "file": "atlassian-bamboo.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "3a6e9955d70b91a53dbd25275edbfd2a8f38eff5f9b7cddf7bc467ac6f6af550",
           "bytes": 1109,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-bamboo.svg",
+          "collection": "Dashboard Icons",
+          "file": "atlassian-bamboo.svg",
+          "id": 1635,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "atlassian-bamboo.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "3a6e9955d70b91a53dbd25275edbfd2a8f38eff5f9b7cddf7bc467ac6f6af550",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-bamboo.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "bamboo"
+      "next_version": 1
+    },
+    {
+      "id": 673,
+      "key": "bitbucket",
+      "title": "Bitbucket",
+      "url": "https://bitbucket.org/",
+      "domains": [
+        "bitbucket.org"
+      ],
+      "description": "Atlassian Git 代码托管服务。",
+      "category": "开发编程",
+      "tags": [
+        "Git",
+        "代码托管",
+        "Bitbucket"
+      ],
+      "aliases": [
+        "atlassian-bitbucket",
+        "Git",
+        "代码托管"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 776,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-bitbucket.svg",
+          "id": 1634,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "atlassian-bitbucket.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "e681229dbcdcefd722caf0299f237724bdd3db2ead0fdefa5596f99ef6885848",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-bitbucket.svg",
+          "version": 0
+        },
+        {
+          "bytes": 877,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-bitbucket-1.svg",
+          "id": 1991,
+          "is_default": false,
+          "label": "bitbucket",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bitbucket.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "359e607e21df2210186486ee0c29f973456bfbe08ae29df0c781ad362f4f14c1"
+          },
+          "sha256": "32d70403ffc9c20d2cc3bb120763e5c13248008478e7e51b9f327261e63ea967",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitbucket.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 672,
+      "key": "confluence",
+      "title": "Confluence",
+      "url": "https://www.atlassian.com/software/confluence",
+      "domains": [
+        "www.atlassian.com"
+      ],
+      "description": "Atlassian 团队文档与知识库应用。",
+      "category": "办公效率",
+      "tags": [
+        "团队文档",
+        "知识库",
+        "协作",
+        "Confluence"
+      ],
+      "aliases": [
+        "atlassian-confluence",
+        "团队文档",
+        "知识库",
+        "协作"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1053,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-confluence.svg",
+          "id": 1633,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "atlassian-confluence.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "aa2154f4303b5e196879e232da4632af823b2a4ba5ff81ca88a9ae826e942d8b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-confluence.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1369,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-confluence-1.svg",
+          "id": 1992,
+          "is_default": false,
+          "label": "confluence",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "confluence.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "eeaf1eeab6b2300154fc547a09b04ca6ab57635158f7b501ea483bf7124bb94f"
+          },
+          "sha256": "9445fe542961c0b32a7485427588c915e48caecfa84fcbb7e5e23981c00ec5ea",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/confluence.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 671,
+      "key": "jira",
+      "title": "Jira",
+      "url": "https://www.atlassian.com/software/jira",
+      "domains": [
+        "www.atlassian.com"
+      ],
+      "description": "Atlassian 项目与问题跟踪应用。",
+      "category": "办公效率",
+      "tags": [
+        "吉拉",
+        "项目管理",
+        "问题跟踪",
+        "Jira"
+      ],
+      "aliases": [
+        "atlassian-jira",
+        "吉拉",
+        "项目管理",
+        "问题跟踪",
+        "Issue Tracker"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 988,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-jira.svg",
+          "id": 1632,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "atlassian-jira.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "f51bb4f8582ef051da91b8270a090aa25e6bef0222349b863866fe5d2bd25f09",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-jira.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1084,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-jira-1.svg",
+          "id": 1993,
+          "is_default": false,
+          "label": "jira",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jira.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6b9d28921e20a79d55ade425b8d2cf6a68ff89115f4ef8cbc3816bda6db6a5ae"
+          },
+          "sha256": "87e739812965062623686b9ba22828ce8383074e2e878a6553f68fdc9b719e3b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jira.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3316,
+      "key": "jira-align",
+      "title": "Jira Align",
+      "url": "https://www.atlassian.com/software/jira/align",
+      "domains": [
+        "atlassian.com"
+      ],
+      "description": "用于组织敏捷开发规划和协作的平台。",
+      "category": "办公效率",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Jira Align",
+        "jiraalign",
+        "Jira-Align"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 989,
+          "collection": "TechIcons / Devicon",
+          "file": "atlassian-jira-align-1.svg",
+          "id": 5080,
+          "is_default": true,
+          "label": "TechIcons · Jira Align",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Jira-Align.svg",
+            "original_sha256": "2b86ed90fc259966ecf523a7ed3911179e30c2df7effe2993ef1b2ce6140970d",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/jiraalign",
+            "reference_website": "https://www.atlassian.com/software/jira/align"
+          },
+          "sha256": "21a85e7f7a0860be7d61b5135830accc982e2bfddf25bbe985a0943cec494c40",
+          "source": "https://techicons.dev/icons/jiraalign",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 996,
+      "key": "opsgenie",
+      "title": "Atlassian Opsgenie",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "atlassian-opsgenie"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1178,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-opsgenie.svg",
+          "id": 1994,
+          "is_default": true,
+          "label": "atlassian-opsgenie",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "atlassian-opsgenie.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5aeda637ff2f581e2c17ff906f89eb1b635ef40ab0e62c43c089728992f7e787"
+          },
+          "sha256": "9f98ed4d43bbecfb35971d305012bea323391febb67d3a5c9c2cb81adb112486",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-opsgenie.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3317,
+      "key": "sourcetree",
+      "title": "Sourcetree",
+      "url": "https://www.sourcetreeapp.com",
+      "domains": [
+        "sourcetreeapp.com"
+      ],
+      "description": "Atlassian 的 Git 图形化管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Sourcetree",
+        "sourcetree"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1579,
+          "collection": "TechIcons / Devicon",
+          "file": "atlassian-sourcetree-1.svg",
+          "id": 5081,
+          "is_default": true,
+          "label": "TechIcons · Sourcetree",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Sourcetree.svg",
+            "original_sha256": "8c9815e8c4407bbd375cf8e8eb543c3d59428098e6d34077c315ff4cc1cc2676",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/sourcetree",
+            "reference_website": "https://www.sourcetreeapp.com"
+          },
+          "sha256": "d789945a767ab792332cf51506edb7a58db45887202a7d2625022837f80c2fe9",
+          "source": "https://techicons.dev/icons/sourcetree",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 997,
+      "redirect_from": [
+        540
+      ],
+      "key": "trello",
+      "title": "Trello",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "atlassian-trello",
+        "trello",
+        "Trello",
+        "Atlassian Trello"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 828,
+          "collection": "Dashboard Icons",
+          "file": "atlassian-trello.svg",
+          "id": 1995,
+          "is_default": true,
+          "label": "atlassian-trello",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "atlassian-trello.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0dd554918f80082ec8b611c8e43aa2fe293d089f4b1029e39389b417f85acd00"
+          },
+          "sha256": "d2f80f531021319d172e1d11b55a42015e656421b0dc5f9d395004e469a29470",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/atlassian-trello.svg",
+          "version": 0
+        },
+        {
+          "bytes": 795,
+          "collection": "theSVG",
+          "file": "atlassian-trello-1.svg",
+          "id": 1349,
+          "is_default": false,
+          "label": "Trello",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trello.svg",
+            "original_is_default": true,
+            "original_slug": "trello"
+          },
+          "rounded_corners": {
+            "previous_bytes": 562,
+            "previous_sha256": "360609eead17533317ed736ec84db09fe9acb7862919314f3296463cbbe9f227",
+            "ratio": 0.2
+          },
+          "sha256": "ff23aad127057da1951dcb6ad03c287b50bbcc351033471862c736456f748f78",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/trello/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 897,
+          "collection": "theSVG",
+          "file": "atlassian-trello-2.svg",
+          "id": 1350,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trello-1.svg",
+            "original_is_default": false,
+            "original_slug": "trello"
+          },
+          "rounded_corners": {
+            "previous_bytes": 672,
+            "previous_sha256": "89ed298d7725a71b03bd402161b59511465b4f46a858487679d82059c0ce96f7",
+            "ratio": 0.2
+          },
+          "sha256": "11359ea55706922d2bca1a003ddf3036719830f3f4e1d6f424d679982a93410b",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/trello-badge/default.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1898,
+          "collection": "theSVG",
+          "file": "atlassian-trello-3.svg",
+          "id": 1351,
+          "is_default": false,
+          "label": "wordmark",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trello-2.svg",
+            "original_is_default": false,
+            "original_slug": "trello"
+          },
+          "sha256": "d010651c80982de62c3995c844804c8b80daf8cb68ec0d9dc245dee167fd049a",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/trello/wordmark.svg",
+          "version": 3
+        },
+        {
+          "bytes": 795,
+          "collection": "theSVG",
+          "file": "atlassian-trello-4.svg",
+          "id": 1352,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trello-3.svg",
+            "original_is_default": false,
+            "original_slug": "trello"
+          },
+          "rounded_corners": {
+            "previous_bytes": 562,
+            "previous_sha256": "76d2d5ec30b65bf97b55660f98ecdecf8c951c5bf860694aee464dbaca08342f",
+            "ratio": 0.2
+          },
+          "sha256": "e8888bf85f151cb5a0e5c318adbc88cabdea3f3920f89a9b4ea5da03c5d4dd34",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/trello/mono.svg",
+          "version": 4
+        },
+        {
+          "bytes": 1503,
+          "collection": "SVGL",
+          "file": "atlassian-trello-5.svg",
+          "id": 1353,
+          "is_default": false,
+          "label": "trello",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "trello-4.svg",
+            "original_is_default": false,
+            "original_slug": "trello"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1269,
+            "previous_sha256": "257ccfb23b2c46bdcfee7a978b9af55e98dab1ab8fd89e8bde66efd2bcf518e4",
+            "ratio": 0.2
+          },
+          "sha256": "b6892ef5914d1069c4723a6a91c6cdf19590140aa3a384f696def6aa3100c30b",
+          "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/trello.svg",
+          "version": 5
+        },
+        {
+          "bytes": 617,
+          "collection": "TechIcons / Devicon",
+          "file": "atlassian-trello-6.svg",
+          "id": 5079,
+          "is_default": false,
+          "label": "TechIcons · Trello",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Trello.svg",
+            "original_sha256": "16e78bee6b30811d9b35f385e812487c7c9972858ab3d80a56070e11fc55edc7",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/trello",
+            "reference_website": "https://trello.com/"
+          },
+          "sha256": "651d227c4cf8049ee7fc3ea38f2679da9c2f015729d1a65f2770ddd1bc294e22",
+          "source": "https://techicons.dev/icons/trello",
+          "version": 6
+        }
+      ],
+      "next_version": 7
     }
   ]
 }

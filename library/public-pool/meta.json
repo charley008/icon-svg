@@ -1,0 +1,41 @@
+{
+  "collection_id": 2233,
+  "schema_version": 1,
+  "id": 2460,
+  "title": "Public Pool",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware"
+  ],
+  "aliases": [
+    "public-pool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 127058,
+      "collection": "Dashboard Icons",
+      "file": "public-pool.svg",
+      "id": 3957,
+      "is_default": true,
+      "label": "public-pool",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "public-pool.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8193ad2ecaeceb3cc03e5643ea68e51e985fc6e19bb26844c5504ecd36d16704"
+      },
+      "sha256": "a7d36a6cae09342f52cbbada38a3a10e33a1e6b9bfcfc915abd40467d3afbdc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/public-pool.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

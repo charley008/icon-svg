@@ -1,0 +1,40 @@
+{
+  "collection_id": 2704,
+  "schema_version": 1,
+  "id": 2931,
+  "title": "Storj",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "storj"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4631,
+      "collection": "Dashboard Icons",
+      "file": "storj.svg",
+      "id": 4563,
+      "is_default": true,
+      "label": "storj",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "storj.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0c07fd0f11c16895925580788a31d0efeb2ad725b838f8cd15de3fd5729900a"
+      },
+      "sha256": "8d2185ebaa7fde24a0118455e6850c2d56527ccb1bf410abef4a306bec6a84c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/storj.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2893,
+  "schema_version": 1,
+  "id": 3120,
+  "title": "Vaultwarden",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vaultwarden"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5405,
+      "collection": "Dashboard Icons",
+      "file": "vaultwarden.svg",
+      "id": 4803,
+      "is_default": true,
+      "label": "vaultwarden",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vaultwarden.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "afa3af723b4de7f502d2cc962352842a5cb41026bb5940a9f970cb5271b9472b"
+      },
+      "sha256": "05c20aabe102f9cf0754b853501fa7863563a831c1edf781272361ba5a6b1387",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vaultwarden.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5462,
+      "collection": "Dashboard Icons",
+      "file": "vaultwarden-1.svg",
+      "id": 4804,
+      "is_default": false,
+      "label": "vaultwarden-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vaultwarden-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "924d21f0e525d5ae208a0a374db5221e0659fd4ed38ac290f9e875e16f677b35"
+      },
+      "sha256": "028a419abddee0f06afc236c623fb9420e44e1f876082c4a442948b1a279413c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vaultwarden-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

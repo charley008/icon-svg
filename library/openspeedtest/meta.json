@@ -1,0 +1,40 @@
+{
+  "collection_id": 2045,
+  "schema_version": 1,
+  "id": 2272,
+  "title": "Openspeedtest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openspeedtest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8825,
+      "collection": "Dashboard Icons",
+      "file": "openspeedtest.svg",
+      "id": 3692,
+      "is_default": true,
+      "label": "openspeedtest",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openspeedtest.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dcb488ff5e71516c9f71e305bad6bff1b8b9ae5afd4b12698583248570477f8b"
+      },
+      "sha256": "759e2a7a6c8534941ee821c91d67159f7691a90ddd85a091dc374cc8e447382b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openspeedtest.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

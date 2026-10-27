@@ -100,7 +100,9 @@ jobs:
 
           解压目录包含 icon-svg.exe、library、web、data。程序从外部 library 扫描 SVG 并建立内存索引，从 web 读取模板和静态文件；操作日志和下载次数初始为空，账号凭据保存在 data/initial-admin.txt。默认地址 http://127.0.0.1:8000/。
 
-          后台设置提供独立素材库管理与数据库备份，可即时保存扫描间隔并查看最近新增素材缩略图；修改密码需要两次确认。
+          后台设置支持素材库 ZIP 导入/导出：保留现有默认图标、自动跳过重复素材、导入后立即生效，后续添加素材无需重新拉取镜像。补全 Dashboard Icons SVG、操作系统与 React 等框架图标；页面显示版本号和 GitHub 链接。独立数据库备份、扫描间隔及新增缩略图预览继续可用。
+
+          已有 Docker 部署可在升级程序后下载 icon-svg-$version-materials.zip，通过后台“素材库管理 → 导入素材库”补齐素材；不会覆盖原有默认图标。之后只更新素材时无需拉取镜像。
 
           library 和 web 不内嵌进 EXE，请保留完整目录。SHA256SUMS.txt 提供 ZIP 校验值。Docker 支持 build 本地构建及 Docker Hub 镜像部署；镜像在 Windows 发布成功后推送，library、data 可持久化挂载。
           "@

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1825,
+  "schema_version": 1,
+  "id": 2052,
+  "title": "Midarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "midarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 593,
+      "collection": "Dashboard Icons",
+      "file": "midarr.svg",
+      "id": 3383,
+      "is_default": true,
+      "label": "midarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "midarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4cfb19a134dbce34cf839a03cf8e882681dd013f420db2d48929c7f5bed5c038"
+      },
+      "sha256": "6d96aad4723181483fb35e56236831cb16b1d709e16204f060eb3b5bcdb2bcde",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/midarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

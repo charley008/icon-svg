@@ -1,0 +1,40 @@
+{
+  "collection_id": 1175,
+  "schema_version": 1,
+  "id": 1402,
+  "title": "Easyepg Lite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "easyepg-lite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1506,
+      "collection": "Dashboard Icons",
+      "file": "easyepg-lite.svg",
+      "id": 2528,
+      "is_default": true,
+      "label": "easyepg-lite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "easyepg-lite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd0cab6c4b28486f6a2d9c0bd063fcb808dad5beab57530fd95cf2d740a9b670"
+      },
+      "sha256": "92e61613f498eb73b6d862eddc322cb4d59447550f4f0d242d2b6fc2526595d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/easyepg-lite.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

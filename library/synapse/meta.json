@@ -1,0 +1,59 @@
+{
+  "collection_id": 2735,
+  "schema_version": 1,
+  "id": 2962,
+  "title": "Synapse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "synapse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1674,
+      "collection": "Dashboard Icons",
+      "file": "synapse.svg",
+      "id": 4600,
+      "is_default": true,
+      "label": "synapse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "synapse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2cca537cad4fe991baa789d4cd2c095a580f331cb1474d241ad085c76d8d3f5"
+      },
+      "sha256": "d5e487e53ef55008c73304f286b2fc22e4a69ef6485e837f98bdff48979bb4a9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/synapse.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1686,
+      "collection": "Dashboard Icons",
+      "file": "synapse-1.svg",
+      "id": 4601,
+      "is_default": false,
+      "label": "synapse-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "synapse-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7bda2462245be2fac6cfe10d96ba6c15828d92378440465b4a81082f6ee72137"
+      },
+      "sha256": "f84ce9074318de69cb95ace5357ff8023caad8311cfa9fb538d59d9eb43417a9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/synapse-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

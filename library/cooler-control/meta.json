@@ -1,0 +1,43 @@
+{
+  "collection_id": 1023,
+  "schema_version": 1,
+  "id": 1250,
+  "title": "Cooler Control",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "Monitoring-Tools"
+  ],
+  "aliases": [
+    "cooler-control",
+    "Fan Control"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2544,
+      "collection": "Dashboard Icons",
+      "file": "cooler-control.svg",
+      "id": 2328,
+      "is_default": true,
+      "label": "cooler-control",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cooler-control.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "abc0fb3c416224fedffa145280dbebceabd38ab734606ffb82dee3411de9448a"
+      },
+      "sha256": "2a2a8b8b0588b45d0fa8ef0c810362dd9e64ba09f65d3a74c300bee998b306b3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cooler-control.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

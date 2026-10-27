@@ -1,0 +1,45 @@
+{
+  "collection_id": 2217,
+  "schema_version": 1,
+  "id": 2444,
+  "title": "Profilarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media",
+    "Monitoring-Tools",
+    "Media-Servers"
+  ],
+  "aliases": [
+    "profilarr",
+    "plex-stats",
+    "jellyfin-stats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1467,
+      "collection": "Dashboard Icons",
+      "file": "profilarr.svg",
+      "id": 3934,
+      "is_default": true,
+      "label": "profilarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "profilarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e834d1f34f1aecb38dbf87d8bf016ad3b6fca8271ed969d4c6665402dd0ef39b"
+      },
+      "sha256": "7a980901f52cff86cc6eb32271dbf0f656fe23126f8ffc4dd9b56f15ceca3fe8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/profilarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

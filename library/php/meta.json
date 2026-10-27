@@ -1,0 +1,62 @@
+{
+  "collection_id": 2138,
+  "schema_version": 1,
+  "id": 2365,
+  "title": "Php",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "php"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6002,
+      "collection": "Dashboard Icons",
+      "file": "php.svg",
+      "id": 3823,
+      "is_default": true,
+      "label": "php",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "php.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1b109c76f12767197303646880f56b45b8a807a914c88c176311e5b0eaa85954"
+      },
+      "sha256": "df8bfb53ffa4ed09ac6650228404ad9366a3e21f26ef6c7262274a01cfc80add",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/php.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5665,
+      "collection": "Dashboard Icons",
+      "file": "php-1.svg",
+      "id": 3824,
+      "is_default": false,
+      "label": "php-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "php-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "312c8069843a49f0a0784b84f6773d9651863175f2f6a02f4253a3d52ccf9f96"
+      },
+      "sha256": "abe321e0f9ff197919648dbdd91d6a870a496c5742dd4a8441ec02ac21547539",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/php-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

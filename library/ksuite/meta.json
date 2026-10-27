@@ -1,0 +1,42 @@
+{
+  "collection_id": 1665,
+  "schema_version": 1,
+  "id": 1892,
+  "title": "Ksuite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "ksuite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2380,
+      "collection": "Dashboard Icons",
+      "file": "ksuite.svg",
+      "id": 3167,
+      "is_default": true,
+      "label": "ksuite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ksuite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4cf0d40309d720129f0ae94145794c2cf5c4966dc2bb3b014b60eb4c18bd7430"
+      },
+      "sha256": "996c65639f56453eefec48547c68f4d37144658fe67934440834b65b1a77dd50",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ksuite.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

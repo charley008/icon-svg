@@ -1,0 +1,59 @@
+{
+  "collection_id": 1752,
+  "schema_version": 1,
+  "id": 1979,
+  "title": "Lynx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lynx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 23712,
+      "collection": "Dashboard Icons",
+      "file": "lynx.svg",
+      "id": 3281,
+      "is_default": true,
+      "label": "lynx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lynx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ac85b1ce3d75e80d175f059574016f08f4a921308ddb86740d832c349ef3097f"
+      },
+      "sha256": "276b832a3b4c5e84b92fa3a1c9f4c4c73bb1b337a28cf134e2d4a8c0bce390fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lynx.svg",
+      "version": 0
+    },
+    {
+      "bytes": 23709,
+      "collection": "Dashboard Icons",
+      "file": "lynx-1.svg",
+      "id": 3282,
+      "is_default": false,
+      "label": "lynx-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lynx-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "832c7c931f27b3bc33f76424a43c75c5503678972668a6c14098d1205e67d9ca"
+      },
+      "sha256": "70834d4944eb66bfa5ae6560d8428b04005fb1af59174f315d67e8c2dbcc0157",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lynx-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

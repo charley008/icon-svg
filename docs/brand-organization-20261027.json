@@ -1,0 +1,2946 @@
+{
+  "deleted": [
+    {
+      "slug": "character-ai",
+      "id": 147,
+      "title": "Character.AI"
+    }
+  ],
+  "merges": [
+    {
+      "source": "black-forest-labs-wordmark-light",
+      "old_id": 1106,
+      "brand": "black-forest-labs",
+      "target_id": 1104
+    },
+    {
+      "source": "the-io-foundation-wordmark-light",
+      "old_id": 3010,
+      "brand": "the-io-foundation",
+      "target_id": 3008
+    },
+    {
+      "source": "black-forest-labs-wordmark-dark",
+      "old_id": 1105,
+      "brand": "black-forest-labs",
+      "target_id": 1104
+    },
+    {
+      "source": "dependency-track-wordmark-light",
+      "old_id": 1321,
+      "brand": "dependency-track",
+      "target_id": 1319
+    },
+    {
+      "source": "the-io-foundation-wordmark-dark",
+      "old_id": 3009,
+      "brand": "the-io-foundation",
+      "target_id": 3008
+    },
+    {
+      "source": "dependency-track-wordmark-dark",
+      "old_id": 1320,
+      "brand": "dependency-track",
+      "target_id": 1319
+    },
+    {
+      "source": "mobilizon-logo-wordmark-dark",
+      "old_id": 2068,
+      "brand": "mobilizon",
+      "target_id": 2066
+    },
+    {
+      "source": "nextlink-labs-wordmark-light",
+      "old_id": 2164,
+      "brand": "nextlink-labs",
+      "target_id": 2162
+    },
+    {
+      "source": "nextlink-labs-wordmark-dark",
+      "old_id": 2163,
+      "brand": "nextlink-labs",
+      "target_id": 2162
+    },
+    {
+      "source": "rocket-money-wordmark-light",
+      "old_id": 2742,
+      "brand": "rocket-money",
+      "target_id": 2741
+    },
+    {
+      "source": "apache-jena-wordmark-light",
+      "old_id": 953,
+      "brand": "apache-jena",
+      "target_id": 952
+    },
+    {
+      "source": "check-point-wordmark-light",
+      "old_id": 1186,
+      "brand": "check-point",
+      "target_id": 1185
+    },
+    {
+      "source": "crowdstrike-wordmark-light",
+      "old_id": 1274,
+      "brand": "crowdstrike",
+      "target_id": 1272
+    },
+    {
+      "source": "silo-server-wordmark-light",
+      "old_id": 2848,
+      "brand": "silo-server",
+      "target_id": 2846
+    },
+    {
+      "source": "crowdstrike-wordmark-dark",
+      "old_id": 1273,
+      "brand": "crowdstrike",
+      "target_id": 1272
+    },
+    {
+      "source": "emeraldhost-wordmark-dark",
+      "old_id": 1422,
+      "brand": "emeraldhost",
+      "target_id": 1421
+    },
+    {
+      "source": "perplexity-wordmark-light",
+      "old_id": 2354,
+      "brand": "perplexity",
+      "target_id": 433
+    },
+    {
+      "source": "silo-server-wordmark-dark",
+      "old_id": 2847,
+      "brand": "silo-server",
+      "target_id": 2846
+    },
+    {
+      "source": "solarwinds-wordmark-light",
+      "old_id": 2879,
+      "brand": "solarwinds",
+      "target_id": 2878
+    },
+    {
+      "source": "statuspage-wordmark-light",
+      "old_id": 2926,
+      "brand": "statuspage",
+      "target_id": 2924
+    },
+    {
+      "source": "tensorflow-wordmark-light",
+      "old_id": 2998,
+      "brand": "tensorflow",
+      "target_id": 2996
+    },
+    {
+      "source": "twake-mail-wordmark-light",
+      "old_id": 3083,
+      "brand": "twake-mail",
+      "target_id": 3082
+    },
+    {
+      "source": "office-eu-wordmark-light",
+      "old_id": 2226,
+      "brand": "office-eu",
+      "target_id": 2224
+    },
+    {
+      "source": "perplexity-wordmark-dark",
+      "old_id": 2353,
+      "brand": "perplexity",
+      "target_id": 433
+    },
+    {
+      "source": "portabase-wordmark-light",
+      "old_id": 2413,
+      "brand": "portabase",
+      "target_id": 2411
+    },
+    {
+      "source": "sinf-uinsa-wordmark-dark",
+      "old_id": 2854,
+      "brand": "sinf-uinsa",
+      "target_id": 2853
+    },
+    {
+      "source": "snapmaker-wordmark-light",
+      "old_id": 2868,
+      "brand": "snapmaker",
+      "target_id": 2866
+    },
+    {
+      "source": "sourcehut-wordmark-light",
+      "old_id": 2891,
+      "brand": "sourcehut",
+      "target_id": 2889
+    },
+    {
+      "source": "stackyard-wordmark-light",
+      "old_id": 2918,
+      "brand": "stackyard",
+      "target_id": 2916
+    },
+    {
+      "source": "startpage-wordmark-light",
+      "old_id": 2922,
+      "brand": "startpage",
+      "target_id": 2921
+    },
+    {
+      "source": "statuspage-wordmark-dark",
+      "old_id": 2925,
+      "brand": "statuspage",
+      "target_id": 2924
+    },
+    {
+      "source": "tensorflow-wordmark-dark",
+      "old_id": 2997,
+      "brand": "tensorflow",
+      "target_id": 2996
+    },
+    {
+      "source": "thingport-wordmark-light",
+      "old_id": 3021,
+      "brand": "thingport",
+      "target_id": 3019
+    },
+    {
+      "source": "virustotal-wordmark-dark",
+      "old_id": 3145,
+      "brand": "virustotal",
+      "target_id": 3144
+    },
+    {
+      "source": "anaconda-wordmark-light",
+      "old_id": 931,
+      "brand": "anaconda",
+      "target_id": 929
+    },
+    {
+      "source": "broadcom-wordmark-light",
+      "old_id": 1132,
+      "brand": "broadcom",
+      "target_id": 1131
+    },
+    {
+      "source": "docusign-wordmark-light",
+      "old_id": 1366,
+      "brand": "docusign",
+      "target_id": 1364
+    },
+    {
+      "source": "euquista-wordmark-light",
+      "old_id": 1455,
+      "brand": "euquista",
+      "target_id": 1454
+    },
+    {
+      "source": "fairphone-wordmark-dark",
+      "old_id": 1467,
+      "brand": "fairphone",
+      "target_id": 1466
+    },
+    {
+      "source": "infor-xa-wordmark-light",
+      "old_id": 1776,
+      "brand": "infor-xa",
+      "target_id": 1775
+    },
+    {
+      "source": "nextbike-wordmark-light",
+      "old_id": 2144,
+      "brand": "nextbike",
+      "target_id": 2142
+    },
+    {
+      "source": "office-eu-wordmark-dark",
+      "old_id": 2225,
+      "brand": "office-eu",
+      "target_id": 2224
+    },
+    {
+      "source": "openclaw-wordmark-light",
+      "old_id": 2255,
+      "brand": "openclaw",
+      "target_id": 422
+    },
+    {
+      "source": "opencode-wordmark-light",
+      "old_id": 2257,
+      "brand": "opencode",
+      "target_id": 423
+    },
+    {
+      "source": "portabase-wordmark-dark",
+      "old_id": 2412,
+      "brand": "portabase",
+      "target_id": 2411
+    },
+    {
+      "source": "snapmaker-wordmark-dark",
+      "old_id": 2867,
+      "brand": "snapmaker",
+      "target_id": 2866
+    },
+    {
+      "source": "sourcehut-wordmark-dark",
+      "old_id": 2890,
+      "brand": "sourcehut",
+      "target_id": 2889
+    },
+    {
+      "source": "stackyard-wordmark-dark",
+      "old_id": 2917,
+      "brand": "stackyard",
+      "target_id": 2916
+    },
+    {
+      "source": "thingport-wordmark-dark",
+      "old_id": 3020,
+      "brand": "thingport",
+      "target_id": 3019
+    },
+    {
+      "source": "toolhive-wordmark-light",
+      "old_id": 3042,
+      "brand": "toolhive",
+      "target_id": 3040
+    },
+    {
+      "source": "wikidata-wordmark-light",
+      "old_id": 3203,
+      "brand": "wikidata",
+      "target_id": 3202
+    },
+    {
+      "source": "anaconda-wordmark-dark",
+      "old_id": 930,
+      "brand": "anaconda",
+      "target_id": 929
+    },
+    {
+      "source": "comfyui-wordmark-light",
+      "old_id": 1234,
+      "brand": "comfyui",
+      "target_id": 1232
+    },
+    {
+      "source": "conduyt-wordmark-light",
+      "old_id": 1240,
+      "brand": "conduyt",
+      "target_id": 1239
+    },
+    {
+      "source": "ctrader-wordmark-light",
+      "old_id": 1282,
+      "brand": "ctrader",
+      "target_id": 1280
+    },
+    {
+      "source": "docusign-wordmark-dark",
+      "old_id": 1365,
+      "brand": "docusign",
+      "target_id": 1364
+    },
+    {
+      "source": "fastapi-wordmark-light",
+      "old_id": 1472,
+      "brand": "fastapi",
+      "target_id": 1471
+    },
+    {
+      "source": "fromkai-wordmark-light",
+      "old_id": 1569,
+      "brand": "fromkai",
+      "target_id": 1568
+    },
+    {
+      "source": "lovable-wordmark-light",
+      "old_id": 1970,
+      "brand": "lovable",
+      "target_id": 1968
+    },
+    {
+      "source": "maltego-wordmark-light",
+      "old_id": 1998,
+      "brand": "maltego",
+      "target_id": 1996
+    },
+    {
+      "source": "nextbike-wordmark-dark",
+      "old_id": 2143,
+      "brand": "nextbike",
+      "target_id": 2142
+    },
+    {
+      "source": "nuxt-js-wordmark-light",
+      "old_id": 2204,
+      "brand": "nuxt-js",
+      "target_id": 2202
+    },
+    {
+      "source": "openclaw-wordmark-dark",
+      "old_id": 2254,
+      "brand": "openclaw",
+      "target_id": 422
+    },
+    {
+      "source": "opencode-wordmark-dark",
+      "old_id": 2256,
+      "brand": "opencode",
+      "target_id": 423
+    },
+    {
+      "source": "pytorch-wordmark-light",
+      "old_id": 2652,
+      "brand": "pytorch",
+      "target_id": 2651
+    },
+    {
+      "source": "toolhive-wordmark-dark",
+      "old_id": 3041,
+      "brand": "toolhive",
+      "target_id": 3040
+    },
+    {
+      "source": "comfyui-wordmark-dark",
+      "old_id": 1233,
+      "brand": "comfyui",
+      "target_id": 1232
+    },
+    {
+      "source": "ctrader-wordmark-dark",
+      "old_id": 1281,
+      "brand": "ctrader",
+      "target_id": 1280
+    },
+    {
+      "source": "ecosia-wordmark-light",
+      "old_id": 1405,
+      "brand": "ecosia",
+      "target_id": 211
+    },
+    {
+      "source": "homarr-wordmark-light",
+      "old_id": 1712,
+      "brand": "homarr",
+      "target_id": 1711
+    },
+    {
+      "source": "jtu-me-wordmark-light",
+      "old_id": 1826,
+      "brand": "jtu-me",
+      "target_id": 1824
+    },
+    {
+      "source": "konica-minolta-symbol",
+      "old_id": 1883,
+      "brand": "konica-minolta",
+      "target_id": 1882
+    },
+    {
+      "source": "lancom-wordmark-light",
+      "old_id": 1903,
+      "brand": "lancom",
+      "target_id": 1901
+    },
+    {
+      "source": "lovable-wordmark-dark",
+      "old_id": 1969,
+      "brand": "lovable",
+      "target_id": 1968
+    },
+    {
+      "source": "maltego-wordmark-dark",
+      "old_id": 1997,
+      "brand": "maltego",
+      "target_id": 1996
+    },
+    {
+      "source": "murena-wordmark-light",
+      "old_id": 2104,
+      "brand": "murena",
+      "target_id": 2102
+    },
+    {
+      "source": "nuxt-js-wordmark-dark",
+      "old_id": 2203,
+      "brand": "nuxt-js",
+      "target_id": 2202
+    },
+    {
+      "source": "sat-ip-wordmark-light",
+      "old_id": 2782,
+      "brand": "sat-ip",
+      "target_id": 2780
+    },
+    {
+      "source": "shelly-wordmark-light",
+      "old_id": 2830,
+      "brand": "shelly",
+      "target_id": 839
+    },
+    {
+      "source": "tether-wordmark-light",
+      "old_id": 3005,
+      "brand": "tether",
+      "target_id": 3003
+    },
+    {
+      "source": "bitly-wordmark-light",
+      "old_id": 1102,
+      "brand": "bitly",
+      "target_id": 1101
+    },
+    {
+      "source": "ecosia-wordmark-dark",
+      "old_id": 1404,
+      "brand": "ecosia",
+      "target_id": 211
+    },
+    {
+      "source": "haiku-wordmark-light",
+      "old_id": 1663,
+      "brand": "haiku",
+      "target_id": 1661
+    },
+    {
+      "source": "issabel-pbx-wordmark",
+      "old_id": 1793,
+      "brand": "issabel-pbx",
+      "target_id": 1792
+    },
+    {
+      "source": "jtu-me-wordmark-dark",
+      "old_id": 1825,
+      "brand": "jtu-me",
+      "target_id": 1824
+    },
+    {
+      "source": "kafka-wordmark-light",
+      "old_id": 1836,
+      "brand": "kafka",
+      "target_id": 1834
+    },
+    {
+      "source": "lancom-wordmark-dark",
+      "old_id": 1902,
+      "brand": "lancom",
+      "target_id": 1901
+    },
+    {
+      "source": "murena-wordmark-dark",
+      "old_id": 2103,
+      "brand": "murena",
+      "target_id": 2102
+    },
+    {
+      "source": "ngrok-wordmark-light",
+      "old_id": 2169,
+      "brand": "ngrok",
+      "target_id": 2167
+    },
+    {
+      "source": "sat-ip-wordmark-dark",
+      "old_id": 2781,
+      "brand": "sat-ip",
+      "target_id": 2780
+    },
+    {
+      "source": "scala-wordmark-light",
+      "old_id": 2785,
+      "brand": "scala",
+      "target_id": 2784
+    },
+    {
+      "source": "shelly-wordmark-dark",
+      "old_id": 2829,
+      "brand": "shelly",
+      "target_id": 839
+    },
+    {
+      "source": "tether-wordmark-dark",
+      "old_id": 3004,
+      "brand": "tether",
+      "target_id": 3003
+    },
+    {
+      "source": "thread-wordmark-dark",
+      "old_id": 3025,
+      "brand": "thread",
+      "target_id": 3024
+    },
+    {
+      "source": "haiku-wordmark-dark",
+      "old_id": 1662,
+      "brand": "haiku",
+      "target_id": 1661
+    },
+    {
+      "source": "kafka-wordmark-dark",
+      "old_id": 1835,
+      "brand": "kafka",
+      "target_id": 1834
+    },
+    {
+      "source": "kirby-wordmark-dark",
+      "old_id": 1865,
+      "brand": "kirby",
+      "target_id": 1864
+    },
+    {
+      "source": "kong-wordmark-light",
+      "old_id": 1881,
+      "brand": "kong",
+      "target_id": 1879
+    },
+    {
+      "source": "ngrok-wordmark-dark",
+      "old_id": 2168,
+      "brand": "ngrok",
+      "target_id": 2167
+    },
+    {
+      "source": "niri-wordmark-light",
+      "old_id": 2175,
+      "brand": "niri",
+      "target_id": 2174
+    },
+    {
+      "source": "pypi-wordmark-light",
+      "old_id": 2650,
+      "brand": "pypi",
+      "target_id": 2649
+    },
+    {
+      "source": "kong-wordmark-dark",
+      "old_id": 1880,
+      "brand": "kong",
+      "target_id": 1879
+    },
+    {
+      "source": "aws-dynamodb-logo",
+      "old_id": 1029,
+      "brand": "aws-dynamodb",
+      "target_id": 1028
+    },
+    {
+      "source": "mode-777-wordmark",
+      "old_id": 2072,
+      "brand": "mode-777",
+      "target_id": 2071
+    },
+    {
+      "source": "oddinpay-wordmark",
+      "old_id": 2217,
+      "brand": "oddinpay",
+      "target_id": 2216
+    },
+    {
+      "source": "hermes-agent-alt",
+      "old_id": 1696,
+      "brand": "hermes-agent",
+      "target_id": 284
+    },
+    {
+      "source": "packetfence-full",
+      "old_id": 2305,
+      "brand": "packetfence",
+      "target_id": 2304
+    },
+    {
+      "source": "ammds-wordmark",
+      "old_id": 928,
+      "brand": "ammds",
+      "target_id": 927
+    },
+    {
+      "source": "mobilizon-logo",
+      "old_id": 2067,
+      "brand": "mobilizon",
+      "target_id": 2066
+    },
+    {
+      "source": "btop-wordmark",
+      "old_id": 1137,
+      "brand": "btop",
+      "target_id": 1136
+    },
+    {
+      "source": "icinga-full",
+      "old_id": 1753,
+      "brand": "icinga",
+      "target_id": 1752
+    },
+    {
+      "source": "ivanti-icon",
+      "old_id": 1799,
+      "brand": "ivanti",
+      "target_id": 1798
+    },
+    {
+      "source": "jetkvm-full",
+      "old_id": 1817,
+      "brand": "jetkvm",
+      "target_id": 1816
+    },
+    {
+      "source": "loxone-full",
+      "old_id": 1972,
+      "brand": "loxone",
+      "target_id": 1971
+    },
+    {
+      "source": "netbox-full",
+      "old_id": 2131,
+      "brand": "netbox",
+      "target_id": 2130
+    },
+    {
+      "source": "odysee-full",
+      "old_id": 2220,
+      "brand": "odysee",
+      "target_id": 2219
+    },
+    {
+      "source": "foxit-icon",
+      "old_id": 1546,
+      "brand": "foxit",
+      "target_id": 1545
+    },
+    {
+      "source": "asus-full",
+      "old_id": 989,
+      "brand": "asus",
+      "target_id": 670
+    },
+    {
+      "source": "svg-logo",
+      "old_id": 508,
+      "brand": "svg",
+      "target_id": 2951
+    },
+    {
+      "source": "font-awesome-icons",
+      "old_id": 1536,
+      "brand": "fontawesome",
+      "target_id": 1537
+    },
+    {
+      "source": "google-chrome",
+      "old_id": 1619,
+      "brand": "google",
+      "target_id": 252
+    }
+  ],
+  "products": [
+    {
+      "source": "azure-application-insights",
+      "id": 1034,
+      "brand": "azure",
+      "key": "application-insights"
+    },
+    {
+      "source": "azure-bicep",
+      "id": 1035,
+      "brand": "azure",
+      "key": "bicep"
+    },
+    {
+      "source": "azure-certificate",
+      "id": 1036,
+      "brand": "azure",
+      "key": "certificate"
+    },
+    {
+      "source": "azure-container-apps",
+      "id": 1037,
+      "brand": "azure",
+      "key": "container-apps"
+    },
+    {
+      "source": "azure-container-instances",
+      "id": 1038,
+      "brand": "azure",
+      "key": "container-instances"
+    },
+    {
+      "source": "azure-container-registry",
+      "id": 1039,
+      "brand": "azure",
+      "key": "container-registry"
+    },
+    {
+      "source": "azure-container-service",
+      "id": 1040,
+      "brand": "azure",
+      "key": "container-service"
+    },
+    {
+      "source": "azure-cosmos-db",
+      "id": 1041,
+      "brand": "azure",
+      "key": "cosmos-db"
+    },
+    {
+      "source": "azure-cost-management",
+      "id": 1042,
+      "brand": "azure",
+      "key": "cost-management"
+    },
+    {
+      "source": "azure-data-factory",
+      "id": 1043,
+      "brand": "azure",
+      "key": "data-factory"
+    },
+    {
+      "source": "azure-devops",
+      "id": 1044,
+      "brand": "azure",
+      "key": "devops"
+    },
+    {
+      "source": "azure-dns",
+      "id": 1045,
+      "brand": "azure",
+      "key": "dns"
+    },
+    {
+      "source": "azure-expressroute-cirtcuits",
+      "id": 1046,
+      "brand": "azure",
+      "key": "expressroute-cirtcuits"
+    },
+    {
+      "source": "azure-firewall",
+      "id": 1047,
+      "brand": "azure",
+      "key": "firewall"
+    },
+    {
+      "source": "azure-front-door",
+      "id": 1048,
+      "brand": "azure",
+      "key": "front-door"
+    },
+    {
+      "source": "azure-functions",
+      "id": 1049,
+      "brand": "azure",
+      "key": "functions"
+    },
+    {
+      "source": "azure-keyvault",
+      "id": 1050,
+      "brand": "azure",
+      "key": "keyvault"
+    },
+    {
+      "source": "azure-kubernetes-services",
+      "id": 1051,
+      "brand": "azure",
+      "key": "kubernetes-services"
+    },
+    {
+      "source": "azure-log-analytics-workspaces",
+      "id": 1052,
+      "brand": "azure",
+      "key": "log-analytics-workspaces"
+    },
+    {
+      "source": "azure-monitor",
+      "id": 1053,
+      "brand": "azure",
+      "key": "monitor"
+    },
+    {
+      "source": "azure-postgres-server",
+      "id": 1054,
+      "brand": "azure",
+      "key": "postgres-server"
+    },
+    {
+      "source": "azure-service-bus",
+      "id": 1055,
+      "brand": "azure",
+      "key": "service-bus"
+    },
+    {
+      "source": "azure-sql-db",
+      "id": 1056,
+      "brand": "azure",
+      "key": "sql-db"
+    },
+    {
+      "source": "azure-sql-server",
+      "id": 1057,
+      "brand": "azure",
+      "key": "sql-server"
+    },
+    {
+      "source": "azure-storage-accounts",
+      "id": 1058,
+      "brand": "azure",
+      "key": "storage-accounts"
+    },
+    {
+      "source": "azure-traffic-manager",
+      "id": 1059,
+      "brand": "azure",
+      "key": "traffic-manager"
+    },
+    {
+      "source": "azure-virtual-desktop",
+      "id": 1060,
+      "brand": "azure",
+      "key": "virtual-desktop"
+    },
+    {
+      "source": "azure-virtual-network-gateways",
+      "id": 1061,
+      "brand": "azure",
+      "key": "virtual-network-gateways"
+    },
+    {
+      "source": "azure-vm",
+      "id": 1062,
+      "brand": "azure",
+      "key": "vm"
+    },
+    {
+      "source": "azure-vnet",
+      "id": 1063,
+      "brand": "azure",
+      "key": "vnet"
+    },
+    {
+      "source": "eu-calendar",
+      "id": 1447,
+      "brand": "eu",
+      "key": "calendar"
+    },
+    {
+      "source": "eu-docs",
+      "id": 1448,
+      "brand": "eu",
+      "key": "docs"
+    },
+    {
+      "source": "eu-drive",
+      "id": 1449,
+      "brand": "eu",
+      "key": "drive"
+    },
+    {
+      "source": "eu-mail",
+      "id": 1450,
+      "brand": "eu",
+      "key": "mail"
+    },
+    {
+      "source": "eu-presentation",
+      "id": 1451,
+      "brand": "eu",
+      "key": "presentation"
+    },
+    {
+      "source": "eu-spreadsheet",
+      "id": 1452,
+      "brand": "eu",
+      "key": "spreadsheet"
+    },
+    {
+      "source": "eu-talk",
+      "id": 1453,
+      "brand": "eu",
+      "key": "talk"
+    },
+    {
+      "source": "adguard-home-sync",
+      "id": 893,
+      "brand": "adguard",
+      "key": "home-sync"
+    },
+    {
+      "source": "docker-engine",
+      "id": 1348,
+      "brand": "docker",
+      "key": "engine"
+    },
+    {
+      "source": "docker-moby",
+      "id": 1350,
+      "brand": "docker",
+      "key": "moby"
+    },
+    {
+      "source": "adobe-indesign",
+      "id": 895,
+      "brand": "adobe",
+      "key": "indesign"
+    },
+    {
+      "source": "amazon-luna",
+      "id": 924,
+      "brand": "amazon",
+      "key": "luna"
+    },
+    {
+      "source": "amazon-prime",
+      "id": 925,
+      "brand": "amazon",
+      "key": "prime"
+    },
+    {
+      "source": "apache-airflow",
+      "id": 945,
+      "brand": "apache",
+      "key": "airflow"
+    },
+    {
+      "source": "apache-answer",
+      "id": 946,
+      "brand": "apache",
+      "key": "answer"
+    },
+    {
+      "source": "apache-cassandra",
+      "id": 947,
+      "brand": "apache",
+      "key": "cassandra"
+    },
+    {
+      "source": "apache-cloudstack",
+      "id": 948,
+      "brand": "apache",
+      "key": "cloudstack"
+    },
+    {
+      "source": "apache-druid",
+      "id": 949,
+      "brand": "apache",
+      "key": "druid"
+    },
+    {
+      "source": "apache-guacamole",
+      "id": 950,
+      "brand": "apache",
+      "key": "guacamole"
+    },
+    {
+      "source": "apache-iceberg",
+      "id": 951,
+      "brand": "apache",
+      "key": "iceberg"
+    },
+    {
+      "source": "apache-jena",
+      "id": 952,
+      "brand": "apache",
+      "key": "jena"
+    },
+    {
+      "source": "apache-openoffice",
+      "id": 954,
+      "brand": "apache",
+      "key": "openoffice"
+    },
+    {
+      "source": "apache-solr",
+      "id": 955,
+      "brand": "apache",
+      "key": "solr"
+    },
+    {
+      "source": "apache-subversion",
+      "id": 956,
+      "brand": "apache",
+      "key": "subversion"
+    },
+    {
+      "source": "apache-superset",
+      "id": 957,
+      "brand": "apache",
+      "key": "superset"
+    },
+    {
+      "source": "apache-tomcat",
+      "id": 958,
+      "brand": "apache",
+      "key": "tomcat"
+    },
+    {
+      "source": "apple-maps",
+      "id": 964,
+      "brand": "apple",
+      "key": "maps"
+    },
+    {
+      "source": "apple-tv-plus",
+      "id": 965,
+      "brand": "apple",
+      "key": "tv-plus"
+    },
+    {
+      "source": "asus-rog",
+      "id": 990,
+      "brand": "asus",
+      "key": "rog"
+    },
+    {
+      "source": "asus-router",
+      "id": 991,
+      "brand": "asus",
+      "key": "router"
+    },
+    {
+      "source": "atlassian-opsgenie",
+      "id": 996,
+      "brand": "atlassian",
+      "key": "opsgenie"
+    },
+    {
+      "source": "atlassian-trello",
+      "id": 997,
+      "brand": "atlassian",
+      "key": "trello"
+    },
+    {
+      "source": "cloudflare-pages",
+      "id": 1215,
+      "brand": "cloudflare",
+      "key": "pages"
+    },
+    {
+      "source": "cloudflare-zero-trust",
+      "id": 1216,
+      "brand": "cloudflare",
+      "key": "zero-trust"
+    },
+    {
+      "source": "google-admin",
+      "id": 1615,
+      "brand": "google",
+      "key": "admin"
+    },
+    {
+      "source": "google-admob",
+      "id": 1616,
+      "brand": "google",
+      "key": "admob"
+    },
+    {
+      "source": "google-alerts",
+      "id": 1617,
+      "brand": "google",
+      "key": "alerts"
+    },
+    {
+      "source": "google-assistant",
+      "id": 1618,
+      "brand": "google",
+      "key": "assistant"
+    },
+    {
+      "source": "google-cloud-platform",
+      "id": 1620,
+      "brand": "google",
+      "key": "cloud-platform"
+    },
+    {
+      "source": "google-compute-engine",
+      "id": 1621,
+      "brand": "google",
+      "key": "compute-engine"
+    },
+    {
+      "source": "google-domains",
+      "id": 1622,
+      "brand": "google",
+      "key": "domains"
+    },
+    {
+      "source": "google-fi",
+      "id": 1623,
+      "brand": "google",
+      "key": "fi"
+    },
+    {
+      "source": "google-find",
+      "id": 1624,
+      "brand": "google",
+      "key": "find"
+    },
+    {
+      "source": "google-fit",
+      "id": 1625,
+      "brand": "google",
+      "key": "fit"
+    },
+    {
+      "source": "google-fonts",
+      "id": 1626,
+      "brand": "google",
+      "key": "fonts"
+    },
+    {
+      "source": "google-lens",
+      "id": 1627,
+      "brand": "google",
+      "key": "lens"
+    },
+    {
+      "source": "google-password-manager",
+      "id": 1628,
+      "brand": "google",
+      "key": "password-manager"
+    },
+    {
+      "source": "google-play-games",
+      "id": 1629,
+      "brand": "google",
+      "key": "play-games"
+    },
+    {
+      "source": "google-podcasts",
+      "id": 1630,
+      "brand": "google",
+      "key": "podcasts"
+    },
+    {
+      "source": "google-shopping",
+      "id": 1631,
+      "brand": "google",
+      "key": "shopping"
+    },
+    {
+      "source": "google-sites",
+      "id": 1632,
+      "brand": "google",
+      "key": "sites"
+    },
+    {
+      "source": "google-street-view",
+      "id": 1633,
+      "brand": "google",
+      "key": "street-view"
+    },
+    {
+      "source": "google-tag-manager",
+      "id": 1634,
+      "brand": "google",
+      "key": "tag-manager"
+    },
+    {
+      "source": "google-tv",
+      "id": 1635,
+      "brand": "google",
+      "key": "tv"
+    },
+    {
+      "source": "google-wifi",
+      "id": 1636,
+      "brand": "google",
+      "key": "wifi"
+    },
+    {
+      "source": "hashicorp-boundary",
+      "id": 1669,
+      "brand": "hashicorp",
+      "key": "boundary"
+    },
+    {
+      "source": "hashicorp-packer",
+      "id": 1670,
+      "brand": "hashicorp",
+      "key": "packer"
+    },
+    {
+      "source": "hashicorp-waypoint",
+      "id": 1671,
+      "brand": "hashicorp",
+      "key": "waypoint"
+    },
+    {
+      "source": "libreoffice-colibre-database",
+      "id": 1921,
+      "brand": "libreoffice",
+      "key": "colibre-database"
+    },
+    {
+      "source": "libreoffice-colibre-graphic",
+      "id": 1922,
+      "brand": "libreoffice",
+      "key": "colibre-graphic"
+    },
+    {
+      "source": "libreoffice-colibre-presentation",
+      "id": 1923,
+      "brand": "libreoffice",
+      "key": "colibre-presentation"
+    },
+    {
+      "source": "libreoffice-colibre-spreadsheet",
+      "id": 1924,
+      "brand": "libreoffice",
+      "key": "colibre-spreadsheet"
+    },
+    {
+      "source": "libreoffice-colibre-text",
+      "id": 1925,
+      "brand": "libreoffice",
+      "key": "colibre-text"
+    },
+    {
+      "source": "microsoft-365-admin-center",
+      "id": 2047,
+      "brand": "microsoft",
+      "key": "365-admin-center"
+    },
+    {
+      "source": "microsoft-dataverse",
+      "id": 2049,
+      "brand": "microsoft",
+      "key": "dataverse"
+    },
+    {
+      "source": "microsoft-project",
+      "id": 2050,
+      "brand": "microsoft",
+      "key": "project"
+    },
+    {
+      "source": "microsoft-visio",
+      "id": 2051,
+      "brand": "microsoft",
+      "key": "visio"
+    },
+    {
+      "source": "nextcloud-blue",
+      "id": 2145,
+      "brand": "nextcloud",
+      "key": "blue"
+    },
+    {
+      "source": "nextcloud-calendar",
+      "id": 2146,
+      "brand": "nextcloud",
+      "key": "calendar"
+    },
+    {
+      "source": "nextcloud-contacts",
+      "id": 2147,
+      "brand": "nextcloud",
+      "key": "contacts"
+    },
+    {
+      "source": "nextcloud-cookbook",
+      "id": 2148,
+      "brand": "nextcloud",
+      "key": "cookbook"
+    },
+    {
+      "source": "nextcloud-cospend",
+      "id": 2149,
+      "brand": "nextcloud",
+      "key": "cospend"
+    },
+    {
+      "source": "nextcloud-deck",
+      "id": 2150,
+      "brand": "nextcloud",
+      "key": "deck"
+    },
+    {
+      "source": "nextcloud-files",
+      "id": 2151,
+      "brand": "nextcloud",
+      "key": "files"
+    },
+    {
+      "source": "nextcloud-ncdownloader",
+      "id": 2152,
+      "brand": "nextcloud",
+      "key": "ncdownloader"
+    },
+    {
+      "source": "nextcloud-news",
+      "id": 2153,
+      "brand": "nextcloud",
+      "key": "news"
+    },
+    {
+      "source": "nextcloud-notes",
+      "id": 2154,
+      "brand": "nextcloud",
+      "key": "notes"
+    },
+    {
+      "source": "nextcloud-photos",
+      "id": 2155,
+      "brand": "nextcloud",
+      "key": "photos"
+    },
+    {
+      "source": "nextcloud-social",
+      "id": 2156,
+      "brand": "nextcloud",
+      "key": "social"
+    },
+    {
+      "source": "nextcloud-tables",
+      "id": 2157,
+      "brand": "nextcloud",
+      "key": "tables"
+    },
+    {
+      "source": "nextcloud-tasks",
+      "id": 2158,
+      "brand": "nextcloud",
+      "key": "tasks"
+    },
+    {
+      "source": "nextcloud-timemanager",
+      "id": 2159,
+      "brand": "nextcloud",
+      "key": "timemanager"
+    },
+    {
+      "source": "proton-docs",
+      "id": 2448,
+      "brand": "proton",
+      "key": "docs"
+    },
+    {
+      "source": "proton-lumo",
+      "id": 2449,
+      "brand": "proton",
+      "key": "lumo"
+    },
+    {
+      "source": "proton-meet",
+      "id": 2450,
+      "brand": "proton",
+      "key": "meet"
+    },
+    {
+      "source": "proton-sheets",
+      "id": 2451,
+      "brand": "proton",
+      "key": "sheets"
+    },
+    {
+      "source": "proton-wallet",
+      "id": 2452,
+      "brand": "proton",
+      "key": "wallet"
+    },
+    {
+      "source": "qnap-adra-ndr",
+      "id": 2660,
+      "brand": "qnap",
+      "key": "adra-ndr"
+    },
+    {
+      "source": "qnap-containers",
+      "id": 2661,
+      "brand": "qnap",
+      "key": "containers"
+    },
+    {
+      "source": "qnap-firewall",
+      "id": 2662,
+      "brand": "qnap",
+      "key": "firewall"
+    },
+    {
+      "source": "qnap-qsync",
+      "id": 2663,
+      "brand": "qnap",
+      "key": "qsync"
+    },
+    {
+      "source": "qnap-qvr-center",
+      "id": 2664,
+      "brand": "qnap",
+      "key": "qvr-center"
+    },
+    {
+      "source": "qnap-qvr-face",
+      "id": 2665,
+      "brand": "qnap",
+      "key": "qvr-face"
+    },
+    {
+      "source": "qnap-qvr-human",
+      "id": 2666,
+      "brand": "qnap",
+      "key": "qvr-human"
+    },
+    {
+      "source": "qnap-qvr-surveillance",
+      "id": 2667,
+      "brand": "qnap",
+      "key": "qvr-surveillance"
+    },
+    {
+      "source": "qnap-virtualization",
+      "id": 2668,
+      "brand": "qnap",
+      "key": "virtualization"
+    },
+    {
+      "source": "qnap-vpn",
+      "id": 2669,
+      "brand": "qnap",
+      "key": "vpn"
+    },
+    {
+      "source": "vmware-esxi",
+      "id": 3153,
+      "brand": "vmware",
+      "key": "esxi"
+    },
+    {
+      "source": "vmware-nsx",
+      "id": 3154,
+      "brand": "vmware",
+      "key": "nsx"
+    },
+    {
+      "source": "vmware-workstation",
+      "id": 3155,
+      "brand": "vmware",
+      "key": "workstation"
+    }
+  ],
+  "artwork_moves": [
+    {
+      "id": 884,
+      "old": "microsoft/microsoft-azure.svg",
+      "new": "azure/azure.svg"
+    },
+    {
+      "id": 885,
+      "old": "microsoft/microsoft-azure-1.svg",
+      "new": "azure/azure-1.svg"
+    },
+    {
+      "id": 886,
+      "old": "microsoft/microsoft-azure-2.svg",
+      "new": "azure/azure-2.svg"
+    },
+    {
+      "id": 887,
+      "old": "microsoft/microsoft-azure-3.svg",
+      "new": "azure/azure-3.svg"
+    },
+    {
+      "id": 888,
+      "old": "microsoft/microsoft-azure-4.svg",
+      "new": "azure/azure-4.svg"
+    },
+    {
+      "id": 3368,
+      "old": "microsoft/microsoft-azure-5.svg",
+      "new": "azure/azure-5.svg"
+    },
+    {
+      "id": 3369,
+      "old": "microsoft/microsoft-azure-6.svg",
+      "new": "azure/azure-6.svg"
+    },
+    {
+      "id": 3370,
+      "old": "microsoft/microsoft-azure-7.svg",
+      "new": "azure/azure-7.svg"
+    },
+    {
+      "id": 2135,
+      "old": "black-forest-labs-wordmark-light/black-forest-labs-wordmark-light.svg",
+      "new": "black-forest-labs/black-forest-labs-2.svg"
+    },
+    {
+      "id": 4663,
+      "old": "the-io-foundation-wordmark-light/the-io-foundation-wordmark-light.svg",
+      "new": "the-io-foundation/the-io-foundation-2.svg"
+    },
+    {
+      "id": 2134,
+      "old": "black-forest-labs-wordmark-dark/black-forest-labs-wordmark-dark.svg",
+      "new": "black-forest-labs/black-forest-labs-3.svg"
+    },
+    {
+      "id": 2422,
+      "old": "dependency-track-wordmark-light/dependency-track-wordmark-light.svg",
+      "new": "dependency-track/dependency-track-1.svg"
+    },
+    {
+      "id": 4662,
+      "old": "the-io-foundation-wordmark-dark/the-io-foundation-wordmark-dark.svg",
+      "new": "the-io-foundation/the-io-foundation-3.svg"
+    },
+    {
+      "id": 2421,
+      "old": "dependency-track-wordmark-dark/dependency-track-wordmark-dark.svg",
+      "new": "dependency-track/dependency-track-2.svg"
+    },
+    {
+      "id": 3409,
+      "old": "mobilizon-logo-wordmark-dark/mobilizon-logo-wordmark-dark.svg",
+      "new": "mobilizon/mobilizon-1.svg"
+    },
+    {
+      "id": 3533,
+      "old": "nextlink-labs-wordmark-light/nextlink-labs-wordmark-light.svg",
+      "new": "nextlink-labs/nextlink-labs-2.svg"
+    },
+    {
+      "id": 3532,
+      "old": "nextlink-labs-wordmark-dark/nextlink-labs-wordmark-dark.svg",
+      "new": "nextlink-labs/nextlink-labs-3.svg"
+    },
+    {
+      "id": 4320,
+      "old": "rocket-money-wordmark-light/rocket-money-wordmark-light.svg",
+      "new": "rocket-money/rocket-money-1.svg"
+    },
+    {
+      "id": 1932,
+      "old": "apache-jena-wordmark-light/apache-jena-wordmark-light.svg",
+      "new": "apache-jena/apache-jena-1.svg"
+    },
+    {
+      "id": 2239,
+      "old": "check-point-wordmark-light/check-point-wordmark-light.svg",
+      "new": "check-point/check-point-1.svg"
+    },
+    {
+      "id": 2357,
+      "old": "crowdstrike-wordmark-light/crowdstrike-wordmark-light.svg",
+      "new": "crowdstrike/crowdstrike-3.svg"
+    },
+    {
+      "id": 4460,
+      "old": "silo-server-wordmark-light/silo-server-wordmark-light.svg",
+      "new": "silo-server/silo-server-3.svg"
+    },
+    {
+      "id": 2356,
+      "old": "crowdstrike-wordmark-dark/crowdstrike-wordmark-dark.svg",
+      "new": "crowdstrike/crowdstrike-4.svg"
+    },
+    {
+      "id": 2556,
+      "old": "emeraldhost-wordmark-dark/emeraldhost-wordmark-dark.svg",
+      "new": "emeraldhost/emeraldhost-3.svg"
+    },
+    {
+      "id": 3802,
+      "old": "perplexity-wordmark-light/perplexity-wordmark-light.svg",
+      "new": "perplexity/perplexity-6.svg"
+    },
+    {
+      "id": 4459,
+      "old": "silo-server-wordmark-dark/silo-server-wordmark-dark.svg",
+      "new": "silo-server/silo-server-4.svg"
+    },
+    {
+      "id": 4496,
+      "old": "solarwinds-wordmark-light/solarwinds-wordmark-light.svg",
+      "new": "solarwinds/solarwinds-1.svg"
+    },
+    {
+      "id": 4556,
+      "old": "statuspage-wordmark-light/statuspage-wordmark-light.svg",
+      "new": "statuspage/statuspage-1.svg"
+    },
+    {
+      "id": 4648,
+      "old": "tensorflow-wordmark-light/tensorflow-wordmark-light.svg",
+      "new": "tensorflow/tensorflow-2.svg"
+    },
+    {
+      "id": 4754,
+      "old": "twake-mail-wordmark-light/twake-mail-wordmark-light.svg",
+      "new": "twake-mail/twake-mail-1.svg"
+    },
+    {
+      "id": 3617,
+      "old": "office-eu-wordmark-light/office-eu-wordmark-light.svg",
+      "new": "office-eu/office-eu-3.svg"
+    },
+    {
+      "id": 3801,
+      "old": "perplexity-wordmark-dark/perplexity-wordmark-dark.svg",
+      "new": "perplexity/perplexity-7.svg"
+    },
+    {
+      "id": 3892,
+      "old": "portabase-wordmark-light/portabase-wordmark-light.svg",
+      "new": "portabase/portabase-3.svg"
+    },
+    {
+      "id": 4468,
+      "old": "sinf-uinsa-wordmark-dark/sinf-uinsa-wordmark-dark.svg",
+      "new": "sinf-uinsa/sinf-uinsa-3.svg"
+    },
+    {
+      "id": 4484,
+      "old": "snapmaker-wordmark-light/snapmaker-wordmark-light.svg",
+      "new": "snapmaker/snapmaker-1.svg"
+    },
+    {
+      "id": 4515,
+      "old": "sourcehut-wordmark-light/sourcehut-wordmark-light.svg",
+      "new": "sourcehut/sourcehut-2.svg"
+    },
+    {
+      "id": 4547,
+      "old": "stackyard-wordmark-light/stackyard-wordmark-light.svg",
+      "new": "stackyard/stackyard-2.svg"
+    },
+    {
+      "id": 4552,
+      "old": "startpage-wordmark-light/startpage-wordmark-light.svg",
+      "new": "startpage/startpage-2.svg"
+    },
+    {
+      "id": 4555,
+      "old": "statuspage-wordmark-dark/statuspage-wordmark-dark.svg",
+      "new": "statuspage/statuspage-2.svg"
+    },
+    {
+      "id": 4647,
+      "old": "tensorflow-wordmark-dark/tensorflow-wordmark-dark.svg",
+      "new": "tensorflow/tensorflow-3.svg"
+    },
+    {
+      "id": 4676,
+      "old": "thingport-wordmark-light/thingport-wordmark-light.svg",
+      "new": "thingport/thingport-2.svg"
+    },
+    {
+      "id": 4842,
+      "old": "virustotal-wordmark-dark/virustotal-wordmark-dark.svg",
+      "new": "virustotal/virustotal-3.svg"
+    },
+    {
+      "id": 1902,
+      "old": "anaconda-wordmark-light/anaconda-wordmark-light.svg",
+      "new": "anaconda/anaconda-1.svg"
+    },
+    {
+      "id": 2170,
+      "old": "broadcom-wordmark-light/broadcom-wordmark-light.svg",
+      "new": "broadcom/broadcom-2.svg"
+    },
+    {
+      "id": 2480,
+      "old": "docusign-wordmark-light/docusign-wordmark-light.svg",
+      "new": "docusign/docusign-2.svg"
+    },
+    {
+      "id": 2599,
+      "old": "euquista-wordmark-light/euquista-wordmark-light.svg",
+      "new": "euquista/euquista-1.svg"
+    },
+    {
+      "id": 2615,
+      "old": "fairphone-wordmark-dark/fairphone-wordmark-dark.svg",
+      "new": "fairphone/fairphone-2.svg"
+    },
+    {
+      "id": 3024,
+      "old": "infor-xa-wordmark-light/infor-xa-wordmark-light.svg",
+      "new": "infor-xa/infor-xa-1.svg"
+    },
+    {
+      "id": 3511,
+      "old": "nextbike-wordmark-light/nextbike-wordmark-light.svg",
+      "new": "nextbike/nextbike-2.svg"
+    },
+    {
+      "id": 3616,
+      "old": "office-eu-wordmark-dark/office-eu-wordmark-dark.svg",
+      "new": "office-eu/office-eu-4.svg"
+    },
+    {
+      "id": 3666,
+      "old": "openclaw-wordmark-light/openclaw-wordmark-light.svg",
+      "new": "openclaw/openclaw-3.svg"
+    },
+    {
+      "id": 3670,
+      "old": "opencode-wordmark-light/opencode-wordmark-light.svg",
+      "new": "opencode/opencode-3.svg"
+    },
+    {
+      "id": 3891,
+      "old": "portabase-wordmark-dark/portabase-wordmark-dark.svg",
+      "new": "portabase/portabase-4.svg"
+    },
+    {
+      "id": 4483,
+      "old": "snapmaker-wordmark-dark/snapmaker-wordmark-dark.svg",
+      "new": "snapmaker/snapmaker-2.svg"
+    },
+    {
+      "id": 4514,
+      "old": "sourcehut-wordmark-dark/sourcehut-wordmark-dark.svg",
+      "new": "sourcehut/sourcehut-3.svg"
+    },
+    {
+      "id": 4546,
+      "old": "stackyard-wordmark-dark/stackyard-wordmark-dark.svg",
+      "new": "stackyard/stackyard-3.svg"
+    },
+    {
+      "id": 4675,
+      "old": "thingport-wordmark-dark/thingport-wordmark-dark.svg",
+      "new": "thingport/thingport-3.svg"
+    },
+    {
+      "id": 4705,
+      "old": "toolhive-wordmark-light/toolhive-wordmark-light.svg",
+      "new": "toolhive/toolhive-2.svg"
+    },
+    {
+      "id": 4914,
+      "old": "wikidata-wordmark-light/wikidata-wordmark-light.svg",
+      "new": "wikidata/wikidata-1.svg"
+    },
+    {
+      "id": 1901,
+      "old": "anaconda-wordmark-dark/anaconda-wordmark-dark.svg",
+      "new": "anaconda/anaconda-2.svg"
+    },
+    {
+      "id": 2305,
+      "old": "comfyui-wordmark-light/comfyui-wordmark-light.svg",
+      "new": "comfyui/comfyui-3.svg"
+    },
+    {
+      "id": 2313,
+      "old": "conduyt-wordmark-light/conduyt-wordmark-light.svg",
+      "new": "conduyt/conduyt-1.svg"
+    },
+    {
+      "id": 2368,
+      "old": "ctrader-wordmark-light/ctrader-wordmark-light.svg",
+      "new": "ctrader/ctrader-3.svg"
+    },
+    {
+      "id": 2479,
+      "old": "docusign-wordmark-dark/docusign-wordmark-dark.svg",
+      "new": "docusign/docusign-3.svg"
+    },
+    {
+      "id": 2622,
+      "old": "fastapi-wordmark-light/fastapi-wordmark-light.svg",
+      "new": "fastapi/fastapi-1.svg"
+    },
+    {
+      "id": 2738,
+      "old": "fromkai-wordmark-light/fromkai-wordmark-light.svg",
+      "new": "fromkai/fromkai-2.svg"
+    },
+    {
+      "id": 3271,
+      "old": "lovable-wordmark-light/lovable-wordmark-light.svg",
+      "new": "lovable/lovable-1.svg"
+    },
+    {
+      "id": 3305,
+      "old": "maltego-wordmark-light/maltego-wordmark-light.svg",
+      "new": "maltego/maltego-2.svg"
+    },
+    {
+      "id": 3510,
+      "old": "nextbike-wordmark-dark/nextbike-wordmark-dark.svg",
+      "new": "nextbike/nextbike-3.svg"
+    },
+    {
+      "id": 3587,
+      "old": "nuxt-js-wordmark-light/nuxt-js-wordmark-light.svg",
+      "new": "nuxt-js/nuxt-js-3.svg"
+    },
+    {
+      "id": 3665,
+      "old": "openclaw-wordmark-dark/openclaw-wordmark-dark.svg",
+      "new": "openclaw/openclaw-4.svg"
+    },
+    {
+      "id": 3669,
+      "old": "opencode-wordmark-dark/opencode-wordmark-dark.svg",
+      "new": "opencode/opencode-4.svg"
+    },
+    {
+      "id": 4213,
+      "old": "pytorch-wordmark-light/pytorch-wordmark-light.svg",
+      "new": "pytorch/pytorch-2.svg"
+    },
+    {
+      "id": 4704,
+      "old": "toolhive-wordmark-dark/toolhive-wordmark-dark.svg",
+      "new": "toolhive/toolhive-3.svg"
+    },
+    {
+      "id": 2304,
+      "old": "comfyui-wordmark-dark/comfyui-wordmark-dark.svg",
+      "new": "comfyui/comfyui-4.svg"
+    },
+    {
+      "id": 2367,
+      "old": "ctrader-wordmark-dark/ctrader-wordmark-dark.svg",
+      "new": "ctrader/ctrader-4.svg"
+    },
+    {
+      "id": 2533,
+      "old": "ecosia-wordmark-light/ecosia-wordmark-light.svg",
+      "new": "ecosia/ecosia-5.svg"
+    },
+    {
+      "id": 2945,
+      "old": "homarr-wordmark-light/homarr-wordmark-light.svg",
+      "new": "homarr/homarr-1.svg"
+    },
+    {
+      "id": 3089,
+      "old": "jtu-me-wordmark-light/jtu-me-wordmark-light.svg",
+      "new": "jtu-me/jtu-me-3.svg"
+    },
+    {
+      "id": 3157,
+      "old": "konica-minolta-symbol/konica-minolta-symbol.svg",
+      "new": "konica-minolta/konica-minolta-1.svg"
+    },
+    {
+      "id": 3179,
+      "old": "lancom-wordmark-light/lancom-wordmark-light.svg",
+      "new": "lancom/lancom-2.svg"
+    },
+    {
+      "id": 3270,
+      "old": "lovable-wordmark-dark/lovable-wordmark-dark.svg",
+      "new": "lovable/lovable-2.svg"
+    },
+    {
+      "id": 3304,
+      "old": "maltego-wordmark-dark/maltego-wordmark-dark.svg",
+      "new": "maltego/maltego-3.svg"
+    },
+    {
+      "id": 3454,
+      "old": "murena-wordmark-light/murena-wordmark-light.svg",
+      "new": "murena/murena-1.svg"
+    },
+    {
+      "id": 3586,
+      "old": "nuxt-js-wordmark-dark/nuxt-js-wordmark-dark.svg",
+      "new": "nuxt-js/nuxt-js-4.svg"
+    },
+    {
+      "id": 4372,
+      "old": "sat-ip-wordmark-light/sat-ip-wordmark-light.svg",
+      "new": "sat-ip/sat-ip-2.svg"
+    },
+    {
+      "id": 4440,
+      "old": "shelly-wordmark-light/shelly-wordmark-light.svg",
+      "new": "shelly/shelly-3.svg"
+    },
+    {
+      "id": 4657,
+      "old": "tether-wordmark-light/tether-wordmark-light.svg",
+      "new": "tether/tether-2.svg"
+    },
+    {
+      "id": 2130,
+      "old": "bitly-wordmark-light/bitly-wordmark-light.svg",
+      "new": "bitly/bitly-2.svg"
+    },
+    {
+      "id": 2532,
+      "old": "ecosia-wordmark-dark/ecosia-wordmark-dark.svg",
+      "new": "ecosia/ecosia-6.svg"
+    },
+    {
+      "id": 2871,
+      "old": "haiku-wordmark-light/haiku-wordmark-light.svg",
+      "new": "haiku/haiku-1.svg"
+    },
+    {
+      "id": 3048,
+      "old": "issabel-pbx-wordmark/issabel-pbx-wordmark.svg",
+      "new": "issabel-pbx/issabel-pbx-2.svg"
+    },
+    {
+      "id": 3049,
+      "old": "issabel-pbx-wordmark/issabel-pbx-wordmark-1.svg",
+      "new": "issabel-pbx/issabel-pbx-3.svg"
+    },
+    {
+      "id": 3088,
+      "old": "jtu-me-wordmark-dark/jtu-me-wordmark-dark.svg",
+      "new": "jtu-me/jtu-me-4.svg"
+    },
+    {
+      "id": 3103,
+      "old": "kafka-wordmark-light/kafka-wordmark-light.svg",
+      "new": "kafka/kafka-2.svg"
+    },
+    {
+      "id": 3178,
+      "old": "lancom-wordmark-dark/lancom-wordmark-dark.svg",
+      "new": "lancom/lancom-3.svg"
+    },
+    {
+      "id": 3453,
+      "old": "murena-wordmark-dark/murena-wordmark-dark.svg",
+      "new": "murena/murena-2.svg"
+    },
+    {
+      "id": 3541,
+      "old": "ngrok-wordmark-light/ngrok-wordmark-light.svg",
+      "new": "ngrok/ngrok-2.svg"
+    },
+    {
+      "id": 4371,
+      "old": "sat-ip-wordmark-dark/sat-ip-wordmark-dark.svg",
+      "new": "sat-ip/sat-ip-3.svg"
+    },
+    {
+      "id": 4377,
+      "old": "scala-wordmark-light/scala-wordmark-light.svg",
+      "new": "scala/scala-1.svg"
+    },
+    {
+      "id": 4439,
+      "old": "shelly-wordmark-dark/shelly-wordmark-dark.svg",
+      "new": "shelly/shelly-4.svg"
+    },
+    {
+      "id": 4656,
+      "old": "tether-wordmark-dark/tether-wordmark-dark.svg",
+      "new": "tether/tether-3.svg"
+    },
+    {
+      "id": 4680,
+      "old": "thread-wordmark-dark/thread-wordmark-dark.svg",
+      "new": "thread/thread-1.svg"
+    },
+    {
+      "id": 2870,
+      "old": "haiku-wordmark-dark/haiku-wordmark-dark.svg",
+      "new": "haiku/haiku-2.svg"
+    },
+    {
+      "id": 3102,
+      "old": "kafka-wordmark-dark/kafka-wordmark-dark.svg",
+      "new": "kafka/kafka-3.svg"
+    },
+    {
+      "id": 3136,
+      "old": "kirby-wordmark-dark/kirby-wordmark-dark.svg",
+      "new": "kirby/kirby-1.svg"
+    },
+    {
+      "id": 3155,
+      "old": "kong-wordmark-light/kong-wordmark-light.svg",
+      "new": "kong/kong-2.svg"
+    },
+    {
+      "id": 3540,
+      "old": "ngrok-wordmark-dark/ngrok-wordmark-dark.svg",
+      "new": "ngrok/ngrok-3.svg"
+    },
+    {
+      "id": 3548,
+      "old": "niri-wordmark-light/niri-wordmark-light.svg",
+      "new": "niri/niri-1.svg"
+    },
+    {
+      "id": 4209,
+      "old": "pypi-wordmark-light/pypi-wordmark-light.svg",
+      "new": "pypi/pypi-1.svg"
+    },
+    {
+      "id": 3154,
+      "old": "kong-wordmark-dark/kong-wordmark-dark.svg",
+      "new": "kong/kong-3.svg"
+    },
+    {
+      "id": 2035,
+      "old": "aws-dynamodb-logo/aws-dynamodb-logo.svg",
+      "new": "aws-dynamodb/aws-dynamodb-1.svg"
+    },
+    {
+      "id": 3414,
+      "old": "mode-777-wordmark/mode-777-wordmark.svg",
+      "new": "mode-777/mode-777-1.svg"
+    },
+    {
+      "id": 3605,
+      "old": "oddinpay-wordmark/oddinpay-wordmark.svg",
+      "new": "oddinpay/oddinpay-3.svg"
+    },
+    {
+      "id": 2923,
+      "old": "hermes-agent-alt/hermes-agent-alt.svg",
+      "new": "hermes-agent/hermes-agent-1.svg"
+    },
+    {
+      "id": 2924,
+      "old": "hermes-agent-alt/hermes-agent-alt-1.svg",
+      "new": "hermes-agent/hermes-agent-2.svg"
+    },
+    {
+      "id": 3735,
+      "old": "packetfence-full/packetfence-full.svg",
+      "new": "packetfence/packetfence-2.svg"
+    },
+    {
+      "id": 3736,
+      "old": "packetfence-full/packetfence-full-1.svg",
+      "new": "packetfence/packetfence-3.svg"
+    },
+    {
+      "id": 1898,
+      "old": "ammds-wordmark/ammds-wordmark.svg",
+      "new": "ammds/ammds-2.svg"
+    },
+    {
+      "id": 1899,
+      "old": "ammds-wordmark/ammds-wordmark-1.svg",
+      "new": "ammds/ammds-3.svg"
+    },
+    {
+      "id": 3408,
+      "old": "mobilizon-logo/mobilizon-logo.svg",
+      "new": "mobilizon/mobilizon-2.svg"
+    },
+    {
+      "id": 2176,
+      "old": "btop-wordmark/btop-wordmark.svg",
+      "new": "btop/btop-1.svg"
+    },
+    {
+      "id": 2995,
+      "old": "icinga-full/icinga-full.svg",
+      "new": "icinga/icinga-2.svg"
+    },
+    {
+      "id": 2996,
+      "old": "icinga-full/icinga-full-1.svg",
+      "new": "icinga/icinga-3.svg"
+    },
+    {
+      "id": 3057,
+      "old": "ivanti-icon/ivanti-icon.svg",
+      "new": "ivanti/ivanti-1.svg"
+    },
+    {
+      "id": 3078,
+      "old": "jetkvm-full/jetkvm-full.svg",
+      "new": "jetkvm/jetkvm-1.svg"
+    },
+    {
+      "id": 3273,
+      "old": "loxone-full/loxone-full.svg",
+      "new": "loxone/loxone-1.svg"
+    },
+    {
+      "id": 3492,
+      "old": "netbox-full/netbox-full.svg",
+      "new": "netbox/netbox-2.svg"
+    },
+    {
+      "id": 3493,
+      "old": "netbox-full/netbox-full-1.svg",
+      "new": "netbox/netbox-3.svg"
+    },
+    {
+      "id": 3608,
+      "old": "odysee-full/odysee-full.svg",
+      "new": "odysee/odysee-1.svg"
+    },
+    {
+      "id": 3609,
+      "old": "odysee-full/odysee-full-1.svg",
+      "new": "odysee/odysee-2.svg"
+    },
+    {
+      "id": 2711,
+      "old": "foxit-icon/foxit-icon.svg",
+      "new": "foxit/foxit-1.svg"
+    },
+    {
+      "id": 1983,
+      "old": "asus-full/asus-full.svg",
+      "new": "asus/asus-1.svg"
+    },
+    {
+      "id": 1282,
+      "old": "svg-logo/svg-logo.svg",
+      "new": "svg/svg-1.svg"
+    },
+    {
+      "id": 3613,
+      "old": "office-eu/office-eu.svg",
+      "new": "eu/eu.svg"
+    },
+    {
+      "id": 3614,
+      "old": "office-eu/office-eu-1.svg",
+      "new": "eu/eu-1.svg"
+    },
+    {
+      "id": 3615,
+      "old": "office-eu/office-eu-2.svg",
+      "new": "eu/eu-2.svg"
+    },
+    {
+      "id": 3617,
+      "old": "office-eu/office-eu-3.svg",
+      "new": "eu/eu-3.svg"
+    },
+    {
+      "id": 3616,
+      "old": "office-eu/office-eu-4.svg",
+      "new": "eu/eu-4.svg"
+    },
+    {
+      "id": 2040,
+      "old": "azure-application-insights/azure-application-insights.svg",
+      "new": "azure/azure-application-insights.svg"
+    },
+    {
+      "id": 2041,
+      "old": "azure-bicep/azure-bicep.svg",
+      "new": "azure/azure-bicep.svg"
+    },
+    {
+      "id": 2042,
+      "old": "azure-certificate/azure-certificate.svg",
+      "new": "azure/azure-certificate.svg"
+    },
+    {
+      "id": 2043,
+      "old": "azure-container-apps/azure-container-apps.svg",
+      "new": "azure/azure-container-apps.svg"
+    },
+    {
+      "id": 2044,
+      "old": "azure-container-instances/azure-container-instances.svg",
+      "new": "azure/azure-container-instances.svg"
+    },
+    {
+      "id": 2045,
+      "old": "azure-container-registry/azure-container-registry.svg",
+      "new": "azure/azure-container-registry.svg"
+    },
+    {
+      "id": 2046,
+      "old": "azure-container-service/azure-container-service.svg",
+      "new": "azure/azure-container-service.svg"
+    },
+    {
+      "id": 2047,
+      "old": "azure-cosmos-db/azure-cosmos-db.svg",
+      "new": "azure/azure-cosmos-db.svg"
+    },
+    {
+      "id": 2048,
+      "old": "azure-cost-management/azure-cost-management.svg",
+      "new": "azure/azure-cost-management.svg"
+    },
+    {
+      "id": 2049,
+      "old": "azure-data-factory/azure-data-factory.svg",
+      "new": "azure/azure-data-factory.svg"
+    },
+    {
+      "id": 2050,
+      "old": "azure-devops/azure-devops.svg",
+      "new": "azure/azure-devops.svg"
+    },
+    {
+      "id": 2051,
+      "old": "azure-dns/azure-dns.svg",
+      "new": "azure/azure-dns.svg"
+    },
+    {
+      "id": 2052,
+      "old": "azure-expressroute-cirtcuits/azure-expressroute-cirtcuits.svg",
+      "new": "azure/azure-expressroute-cirtcuits.svg"
+    },
+    {
+      "id": 2053,
+      "old": "azure-firewall/azure-firewall.svg",
+      "new": "azure/azure-firewall.svg"
+    },
+    {
+      "id": 2054,
+      "old": "azure-front-door/azure-front-door.svg",
+      "new": "azure/azure-front-door.svg"
+    },
+    {
+      "id": 2055,
+      "old": "azure-functions/azure-functions.svg",
+      "new": "azure/azure-functions.svg"
+    },
+    {
+      "id": 2056,
+      "old": "azure-keyvault/azure-keyvault.svg",
+      "new": "azure/azure-keyvault.svg"
+    },
+    {
+      "id": 2057,
+      "old": "azure-kubernetes-services/azure-kubernetes-services.svg",
+      "new": "azure/azure-kubernetes-services.svg"
+    },
+    {
+      "id": 2058,
+      "old": "azure-log-analytics-workspaces/azure-log-analytics-workspaces.svg",
+      "new": "azure/azure-log-analytics-workspaces.svg"
+    },
+    {
+      "id": 2059,
+      "old": "azure-monitor/azure-monitor.svg",
+      "new": "azure/azure-monitor.svg"
+    },
+    {
+      "id": 2060,
+      "old": "azure-postgres-server/azure-postgres-server.svg",
+      "new": "azure/azure-postgres-server.svg"
+    },
+    {
+      "id": 2061,
+      "old": "azure-service-bus/azure-service-bus.svg",
+      "new": "azure/azure-service-bus.svg"
+    },
+    {
+      "id": 2062,
+      "old": "azure-sql-db/azure-sql-db.svg",
+      "new": "azure/azure-sql-db.svg"
+    },
+    {
+      "id": 2063,
+      "old": "azure-sql-server/azure-sql-server.svg",
+      "new": "azure/azure-sql-server.svg"
+    },
+    {
+      "id": 2064,
+      "old": "azure-storage-accounts/azure-storage-accounts.svg",
+      "new": "azure/azure-storage-accounts.svg"
+    },
+    {
+      "id": 2065,
+      "old": "azure-traffic-manager/azure-traffic-manager.svg",
+      "new": "azure/azure-traffic-manager.svg"
+    },
+    {
+      "id": 2066,
+      "old": "azure-virtual-desktop/azure-virtual-desktop.svg",
+      "new": "azure/azure-virtual-desktop.svg"
+    },
+    {
+      "id": 2067,
+      "old": "azure-virtual-network-gateways/azure-virtual-network-gateways.svg",
+      "new": "azure/azure-virtual-network-gateways.svg"
+    },
+    {
+      "id": 2068,
+      "old": "azure-vm/azure-vm.svg",
+      "new": "azure/azure-vm.svg"
+    },
+    {
+      "id": 2069,
+      "old": "azure-vnet/azure-vnet.svg",
+      "new": "azure/azure-vnet.svg"
+    },
+    {
+      "id": 2591,
+      "old": "eu-calendar/eu-calendar.svg",
+      "new": "eu/eu-calendar.svg"
+    },
+    {
+      "id": 2592,
+      "old": "eu-docs/eu-docs.svg",
+      "new": "eu/eu-docs.svg"
+    },
+    {
+      "id": 2593,
+      "old": "eu-drive/eu-drive.svg",
+      "new": "eu/eu-drive.svg"
+    },
+    {
+      "id": 2594,
+      "old": "eu-mail/eu-mail.svg",
+      "new": "eu/eu-mail.svg"
+    },
+    {
+      "id": 2595,
+      "old": "eu-presentation/eu-presentation.svg",
+      "new": "eu/eu-presentation.svg"
+    },
+    {
+      "id": 2596,
+      "old": "eu-spreadsheet/eu-spreadsheet.svg",
+      "new": "eu/eu-spreadsheet.svg"
+    },
+    {
+      "id": 2597,
+      "old": "eu-talk/eu-talk.svg",
+      "new": "eu/eu-talk.svg"
+    },
+    {
+      "id": 1854,
+      "old": "adguard-home-sync/adguard-home-sync.svg",
+      "new": "adguard/adguard-home-sync.svg"
+    },
+    {
+      "id": 2459,
+      "old": "docker-engine/docker-engine.svg",
+      "new": "docker/docker-engine.svg"
+    },
+    {
+      "id": 2462,
+      "old": "docker-moby/docker-moby.svg",
+      "new": "docker/docker-moby.svg"
+    },
+    {
+      "id": 2699,
+      "old": "font-awesome-icons/font-awesome-icons.svg",
+      "new": "fontawesome/fontawesome-1.svg"
+    },
+    {
+      "id": 1856,
+      "old": "adobe-indesign/adobe-indesign.svg",
+      "new": "adobe/adobe-indesign.svg"
+    },
+    {
+      "id": 1892,
+      "old": "amazon-luna/amazon-luna.svg",
+      "new": "amazon/amazon-luna.svg"
+    },
+    {
+      "id": 1893,
+      "old": "amazon-prime/amazon-prime.svg",
+      "new": "amazon/amazon-prime.svg"
+    },
+    {
+      "id": 1924,
+      "old": "apache-airflow/apache-airflow.svg",
+      "new": "apache/apache-airflow.svg"
+    },
+    {
+      "id": 1925,
+      "old": "apache-answer/apache-answer.svg",
+      "new": "apache/apache-answer.svg"
+    },
+    {
+      "id": 1926,
+      "old": "apache-cassandra/apache-cassandra.svg",
+      "new": "apache/apache-cassandra.svg"
+    },
+    {
+      "id": 1927,
+      "old": "apache-cloudstack/apache-cloudstack.svg",
+      "new": "apache/apache-cloudstack.svg"
+    },
+    {
+      "id": 1928,
+      "old": "apache-druid/apache-druid.svg",
+      "new": "apache/apache-druid.svg"
+    },
+    {
+      "id": 1929,
+      "old": "apache-guacamole/apache-guacamole.svg",
+      "new": "apache/apache-guacamole.svg"
+    },
+    {
+      "id": 1930,
+      "old": "apache-iceberg/apache-iceberg.svg",
+      "new": "apache/apache-iceberg.svg"
+    },
+    {
+      "id": 1931,
+      "old": "apache-jena/apache-jena.svg",
+      "new": "apache/apache-jena.svg"
+    },
+    {
+      "id": 1932,
+      "old": "apache-jena/apache-jena-1.svg",
+      "new": "apache/apache-jena-1.svg"
+    },
+    {
+      "id": 1933,
+      "old": "apache-openoffice/apache-openoffice.svg",
+      "new": "apache/apache-openoffice.svg"
+    },
+    {
+      "id": 1934,
+      "old": "apache-solr/apache-solr.svg",
+      "new": "apache/apache-solr.svg"
+    },
+    {
+      "id": 1935,
+      "old": "apache-subversion/apache-subversion.svg",
+      "new": "apache/apache-subversion.svg"
+    },
+    {
+      "id": 1936,
+      "old": "apache-superset/apache-superset.svg",
+      "new": "apache/apache-superset.svg"
+    },
+    {
+      "id": 1937,
+      "old": "apache-superset/apache-superset-1.svg",
+      "new": "apache/apache-superset-1.svg"
+    },
+    {
+      "id": 1938,
+      "old": "apache-superset/apache-superset-2.svg",
+      "new": "apache/apache-superset-2.svg"
+    },
+    {
+      "id": 1939,
+      "old": "apache-tomcat/apache-tomcat.svg",
+      "new": "apache/apache-tomcat.svg"
+    },
+    {
+      "id": 1940,
+      "old": "apache-tomcat/apache-tomcat-1.svg",
+      "new": "apache/apache-tomcat-1.svg"
+    },
+    {
+      "id": 1951,
+      "old": "apple-maps/apple-maps.svg",
+      "new": "apple/apple-maps.svg"
+    },
+    {
+      "id": 1952,
+      "old": "apple-tv-plus/apple-tv-plus.svg",
+      "new": "apple/apple-tv-plus.svg"
+    },
+    {
+      "id": 1953,
+      "old": "apple-tv-plus/apple-tv-plus-1.svg",
+      "new": "apple/apple-tv-plus-1.svg"
+    },
+    {
+      "id": 1984,
+      "old": "asus-rog/asus-rog.svg",
+      "new": "asus/asus-rog.svg"
+    },
+    {
+      "id": 1985,
+      "old": "asus-router/asus-router.svg",
+      "new": "asus/asus-router.svg"
+    },
+    {
+      "id": 1994,
+      "old": "atlassian-opsgenie/atlassian-opsgenie.svg",
+      "new": "atlassian/atlassian-opsgenie.svg"
+    },
+    {
+      "id": 1995,
+      "old": "atlassian-trello/atlassian-trello.svg",
+      "new": "atlassian/atlassian-trello.svg"
+    },
+    {
+      "id": 2276,
+      "old": "cloudflare-pages/cloudflare-pages.svg",
+      "new": "cloudflare/cloudflare-pages.svg"
+    },
+    {
+      "id": 2277,
+      "old": "cloudflare-zero-trust/cloudflare-zero-trust.svg",
+      "new": "cloudflare/cloudflare-zero-trust.svg"
+    },
+    {
+      "id": 2814,
+      "old": "google-admin/google-admin.svg",
+      "new": "google/google-admin.svg"
+    },
+    {
+      "id": 2815,
+      "old": "google-admob/google-admob.svg",
+      "new": "google/google-admob.svg"
+    },
+    {
+      "id": 2816,
+      "old": "google-alerts/google-alerts.svg",
+      "new": "google/google-alerts.svg"
+    },
+    {
+      "id": 2817,
+      "old": "google-assistant/google-assistant.svg",
+      "new": "google/google-assistant.svg"
+    },
+    {
+      "id": 2818,
+      "old": "google-chrome/google-chrome.svg",
+      "new": "google/google-chrome-5.svg"
+    },
+    {
+      "id": 2819,
+      "old": "google-cloud-platform/google-cloud-platform.svg",
+      "new": "google/google-cloud-platform.svg"
+    },
+    {
+      "id": 2820,
+      "old": "google-compute-engine/google-compute-engine.svg",
+      "new": "google/google-compute-engine.svg"
+    },
+    {
+      "id": 2821,
+      "old": "google-domains/google-domains.svg",
+      "new": "google/google-domains.svg"
+    },
+    {
+      "id": 2822,
+      "old": "google-fi/google-fi.svg",
+      "new": "google/google-fi.svg"
+    },
+    {
+      "id": 2823,
+      "old": "google-find/google-find.svg",
+      "new": "google/google-find.svg"
+    },
+    {
+      "id": 2824,
+      "old": "google-fit/google-fit.svg",
+      "new": "google/google-fit.svg"
+    },
+    {
+      "id": 2825,
+      "old": "google-fonts/google-fonts.svg",
+      "new": "google/google-fonts.svg"
+    },
+    {
+      "id": 2826,
+      "old": "google-lens/google-lens.svg",
+      "new": "google/google-lens.svg"
+    },
+    {
+      "id": 2827,
+      "old": "google-password-manager/google-password-manager.svg",
+      "new": "google/google-password-manager.svg"
+    },
+    {
+      "id": 2828,
+      "old": "google-play-games/google-play-games.svg",
+      "new": "google/google-play-games.svg"
+    },
+    {
+      "id": 2829,
+      "old": "google-podcasts/google-podcasts.svg",
+      "new": "google/google-podcasts.svg"
+    },
+    {
+      "id": 2830,
+      "old": "google-shopping/google-shopping.svg",
+      "new": "google/google-shopping.svg"
+    },
+    {
+      "id": 2831,
+      "old": "google-sites/google-sites.svg",
+      "new": "google/google-sites.svg"
+    },
+    {
+      "id": 2832,
+      "old": "google-street-view/google-street-view.svg",
+      "new": "google/google-street-view.svg"
+    },
+    {
+      "id": 2833,
+      "old": "google-tag-manager/google-tag-manager.svg",
+      "new": "google/google-tag-manager.svg"
+    },
+    {
+      "id": 2834,
+      "old": "google-tv/google-tv.svg",
+      "new": "google/google-tv.svg"
+    },
+    {
+      "id": 2835,
+      "old": "google-wifi/google-wifi.svg",
+      "new": "google/google-wifi.svg"
+    },
+    {
+      "id": 2884,
+      "old": "hashicorp-boundary/hashicorp-boundary.svg",
+      "new": "hashicorp/hashicorp-boundary.svg"
+    },
+    {
+      "id": 2885,
+      "old": "hashicorp-packer/hashicorp-packer.svg",
+      "new": "hashicorp/hashicorp-packer.svg"
+    },
+    {
+      "id": 2886,
+      "old": "hashicorp-waypoint/hashicorp-waypoint.svg",
+      "new": "hashicorp/hashicorp-waypoint.svg"
+    },
+    {
+      "id": 3205,
+      "old": "libreoffice-colibre-database/libreoffice-colibre-database.svg",
+      "new": "libreoffice/libreoffice-colibre-database.svg"
+    },
+    {
+      "id": 3206,
+      "old": "libreoffice-colibre-database/libreoffice-colibre-database-1.svg",
+      "new": "libreoffice/libreoffice-colibre-database-1.svg"
+    },
+    {
+      "id": 3207,
+      "old": "libreoffice-colibre-graphic/libreoffice-colibre-graphic.svg",
+      "new": "libreoffice/libreoffice-colibre-graphic.svg"
+    },
+    {
+      "id": 3208,
+      "old": "libreoffice-colibre-graphic/libreoffice-colibre-graphic-1.svg",
+      "new": "libreoffice/libreoffice-colibre-graphic-1.svg"
+    },
+    {
+      "id": 3209,
+      "old": "libreoffice-colibre-presentation/libreoffice-colibre-presentation.svg",
+      "new": "libreoffice/libreoffice-colibre-presentation.svg"
+    },
+    {
+      "id": 3210,
+      "old": "libreoffice-colibre-presentation/libreoffice-colibre-presentation-1.svg",
+      "new": "libreoffice/libreoffice-colibre-presentation-1.svg"
+    },
+    {
+      "id": 3211,
+      "old": "libreoffice-colibre-spreadsheet/libreoffice-colibre-spreadsheet.svg",
+      "new": "libreoffice/libreoffice-colibre-spreadsheet.svg"
+    },
+    {
+      "id": 3212,
+      "old": "libreoffice-colibre-spreadsheet/libreoffice-colibre-spreadsheet-1.svg",
+      "new": "libreoffice/libreoffice-colibre-spreadsheet-1.svg"
+    },
+    {
+      "id": 3213,
+      "old": "libreoffice-colibre-text/libreoffice-colibre-text.svg",
+      "new": "libreoffice/libreoffice-colibre-text.svg"
+    },
+    {
+      "id": 3214,
+      "old": "libreoffice-colibre-text/libreoffice-colibre-text-1.svg",
+      "new": "libreoffice/libreoffice-colibre-text-1.svg"
+    },
+    {
+      "id": 3378,
+      "old": "microsoft-365-admin-center/microsoft-365-admin-center.svg",
+      "new": "microsoft/microsoft-365-admin-center.svg"
+    },
+    {
+      "id": 3380,
+      "old": "microsoft-dataverse/microsoft-dataverse.svg",
+      "new": "microsoft/microsoft-dataverse.svg"
+    },
+    {
+      "id": 3381,
+      "old": "microsoft-project/microsoft-project.svg",
+      "new": "microsoft/microsoft-project.svg"
+    },
+    {
+      "id": 3382,
+      "old": "microsoft-visio/microsoft-visio.svg",
+      "new": "microsoft/microsoft-visio.svg"
+    },
+    {
+      "id": 3513,
+      "old": "nextcloud-blue/nextcloud-blue.svg",
+      "new": "nextcloud/nextcloud-blue.svg"
+    },
+    {
+      "id": 3514,
+      "old": "nextcloud-calendar/nextcloud-calendar.svg",
+      "new": "nextcloud/nextcloud-calendar.svg"
+    },
+    {
+      "id": 3515,
+      "old": "nextcloud-contacts/nextcloud-contacts.svg",
+      "new": "nextcloud/nextcloud-contacts.svg"
+    },
+    {
+      "id": 3516,
+      "old": "nextcloud-cookbook/nextcloud-cookbook.svg",
+      "new": "nextcloud/nextcloud-cookbook.svg"
+    },
+    {
+      "id": 3517,
+      "old": "nextcloud-cospend/nextcloud-cospend.svg",
+      "new": "nextcloud/nextcloud-cospend.svg"
+    },
+    {
+      "id": 3518,
+      "old": "nextcloud-deck/nextcloud-deck.svg",
+      "new": "nextcloud/nextcloud-deck.svg"
+    },
+    {
+      "id": 3519,
+      "old": "nextcloud-files/nextcloud-files.svg",
+      "new": "nextcloud/nextcloud-files.svg"
+    },
+    {
+      "id": 3520,
+      "old": "nextcloud-ncdownloader/nextcloud-ncdownloader.svg",
+      "new": "nextcloud/nextcloud-ncdownloader.svg"
+    },
+    {
+      "id": 3521,
+      "old": "nextcloud-news/nextcloud-news.svg",
+      "new": "nextcloud/nextcloud-news.svg"
+    },
+    {
+      "id": 3522,
+      "old": "nextcloud-notes/nextcloud-notes.svg",
+      "new": "nextcloud/nextcloud-notes.svg"
+    },
+    {
+      "id": 3523,
+      "old": "nextcloud-photos/nextcloud-photos.svg",
+      "new": "nextcloud/nextcloud-photos.svg"
+    },
+    {
+      "id": 3524,
+      "old": "nextcloud-social/nextcloud-social.svg",
+      "new": "nextcloud/nextcloud-social.svg"
+    },
+    {
+      "id": 3525,
+      "old": "nextcloud-tables/nextcloud-tables.svg",
+      "new": "nextcloud/nextcloud-tables.svg"
+    },
+    {
+      "id": 3526,
+      "old": "nextcloud-tasks/nextcloud-tasks.svg",
+      "new": "nextcloud/nextcloud-tasks.svg"
+    },
+    {
+      "id": 3527,
+      "old": "nextcloud-timemanager/nextcloud-timemanager.svg",
+      "new": "nextcloud/nextcloud-timemanager.svg"
+    },
+    {
+      "id": 3938,
+      "old": "proton-docs/proton-docs.svg",
+      "new": "proton/proton-docs.svg"
+    },
+    {
+      "id": 3939,
+      "old": "proton-lumo/proton-lumo.svg",
+      "new": "proton/proton-lumo.svg"
+    },
+    {
+      "id": 3940,
+      "old": "proton-meet/proton-meet.svg",
+      "new": "proton/proton-meet.svg"
+    },
+    {
+      "id": 3941,
+      "old": "proton-sheets/proton-sheets.svg",
+      "new": "proton/proton-sheets.svg"
+    },
+    {
+      "id": 3942,
+      "old": "proton-wallet/proton-wallet.svg",
+      "new": "proton/proton-wallet.svg"
+    },
+    {
+      "id": 4223,
+      "old": "qnap-adra-ndr/qnap-adra-ndr.svg",
+      "new": "qnap/qnap-adra-ndr.svg"
+    },
+    {
+      "id": 4224,
+      "old": "qnap-containers/qnap-containers.svg",
+      "new": "qnap/qnap-containers.svg"
+    },
+    {
+      "id": 4225,
+      "old": "qnap-firewall/qnap-firewall.svg",
+      "new": "qnap/qnap-firewall.svg"
+    },
+    {
+      "id": 4226,
+      "old": "qnap-qsync/qnap-qsync.svg",
+      "new": "qnap/qnap-qsync.svg"
+    },
+    {
+      "id": 4227,
+      "old": "qnap-qvr-center/qnap-qvr-center.svg",
+      "new": "qnap/qnap-qvr-center.svg"
+    },
+    {
+      "id": 4228,
+      "old": "qnap-qvr-face/qnap-qvr-face.svg",
+      "new": "qnap/qnap-qvr-face.svg"
+    },
+    {
+      "id": 4229,
+      "old": "qnap-qvr-human/qnap-qvr-human.svg",
+      "new": "qnap/qnap-qvr-human.svg"
+    },
+    {
+      "id": 4230,
+      "old": "qnap-qvr-surveillance/qnap-qvr-surveillance.svg",
+      "new": "qnap/qnap-qvr-surveillance.svg"
+    },
+    {
+      "id": 4231,
+      "old": "qnap-virtualization/qnap-virtualization.svg",
+      "new": "qnap/qnap-virtualization.svg"
+    },
+    {
+      "id": 4232,
+      "old": "qnap-vpn/qnap-vpn.svg",
+      "new": "qnap/qnap-vpn.svg"
+    },
+    {
+      "id": 4851,
+      "old": "vmware-esxi/vmware-esxi.svg",
+      "new": "vmware/vmware-esxi.svg"
+    },
+    {
+      "id": 4852,
+      "old": "vmware-nsx/vmware-nsx.svg",
+      "new": "vmware/vmware-nsx.svg"
+    },
+    {
+      "id": 4853,
+      "old": "vmware-workstation/vmware-workstation.svg",
+      "new": "vmware/vmware-workstation.svg"
+    }
+  ],
+  "renames": [
+    {
+      "old": "microsoft/azure",
+      "new": "azure",
+      "id": 359
+    },
+    {
+      "old": "office-eu",
+      "new": "eu",
+      "id": 2224
+    }
+  ],
+  "summary": {
+    "brands": 2700,
+    "products": 356,
+    "icons_preserved": 5048,
+    "merged_collections": 238,
+    "products_reassigned": 130,
+    "deleted_collections": 13
+  }
+}

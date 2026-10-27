@@ -1,0 +1,40 @@
+{
+  "collection_id": 662,
+  "schema_version": 1,
+  "id": 889,
+  "title": "Act",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "act"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1171,
+      "collection": "Dashboard Icons",
+      "file": "act.svg",
+      "id": 1850,
+      "is_default": true,
+      "label": "act",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "act.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "acad2a215775d171f4d3646f5d96a66f8ac6725c64238f5726c422879668b6e2"
+      },
+      "sha256": "21a764890545312712a09bcd80618778c322525f3c88a5e1d45232b2f3a5f4f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/act.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

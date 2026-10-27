@@ -1,0 +1,40 @@
+{
+  "collection_id": 2105,
+  "schema_version": 1,
+  "id": 2332,
+  "title": "Patzer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "patzer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 588,
+      "collection": "Dashboard Icons",
+      "file": "patzer.svg",
+      "id": 3773,
+      "is_default": true,
+      "label": "patzer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "patzer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd2d1bb0f1cb453181f4cdaaa12c54225fc3e4d3040fa39c33cd4d54671b7ba7"
+      },
+      "sha256": "9a3f28ff9ad83f572a344c5a22d6cefa0d51162c02c73757cf5c49fffd74a725",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/patzer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

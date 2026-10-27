@@ -1,4 +1,7 @@
 {
+  "collection_id": 615,
+  "schema_version": 1,
+  "id": 840,
   "title": "SimpleX Chat",
   "url": "https://simplex.chat/",
   "domains": [
@@ -20,23 +23,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "simplex-chat.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "19a46609ee4197555b516b14eb31b285da1faa12f9d141243645538a5a8dff55",
       "bytes": 594,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/simplex-chat.svg",
+      "collection": "Dashboard Icons",
+      "file": "simplex-chat.svg",
+      "id": 1797,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "simplex-chat.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "19a46609ee4197555b516b14eb31b285da1faa12f9d141243645538a5a8dff55",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/simplex-chat.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 778,
+  "schema_version": 1,
+  "id": 1005,
+  "title": "Authman",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "authman"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7067,
+      "collection": "Dashboard Icons",
+      "file": "authman.svg",
+      "id": 2005,
+      "is_default": true,
+      "label": "authman",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "authman.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f99e823cf923756626e8df7fb1b04534d51486c7e6f5440c66d54ea688451b5e"
+      },
+      "sha256": "8bef150941762026f4da9f03e6532da6a95940dcc54bd06cc496e437b3af17ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/authman.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

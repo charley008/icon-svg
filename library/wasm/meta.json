@@ -1,0 +1,45 @@
+{
+  "collection_id": 3260,
+  "schema_version": 1,
+  "id": 3525,
+  "title": "WebAssembly",
+  "url": "https://webassembly.org",
+  "domains": [
+    "webassembly.org"
+  ],
+  "description": "用于运行 Web 高性能程序的字节码与执行技术。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "WebAssembly",
+    "wasm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 564,
+      "collection": "TechIcons / Devicon",
+      "file": "wasm-1.svg",
+      "id": 5401,
+      "is_default": true,
+      "label": "TechIcons · WebAssembly",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "WebAssembly.svg",
+        "original_sha256": "c08ba90af97cc980bd3c5c9dc36c723e69f64617ca280a28b3b66e318e8b00c7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/wasm",
+        "reference_website": "https://webassembly.org"
+      },
+      "sha256": "d9ce27f07bb1b91c091501f33b7fb3e0929673966dd5460bcb1606cd580107de",
+      "source": "https://techicons.dev/icons/wasm",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

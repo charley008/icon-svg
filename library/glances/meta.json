@@ -1,0 +1,59 @@
+{
+  "collection_id": 1371,
+  "schema_version": 1,
+  "id": 1598,
+  "title": "Glances",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "glances"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2800,
+      "collection": "Dashboard Icons",
+      "file": "glances.svg",
+      "id": 2775,
+      "is_default": true,
+      "label": "glances",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glances.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1f77398ac60e29283a42d9efffa8fbc6b6f5c54f6dc42fbf0270693d7a18510"
+      },
+      "sha256": "160cfbad43f510043d1cb3573cd422f603474e5c598621400d804180d5247272",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glances.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2800,
+      "collection": "Dashboard Icons",
+      "file": "glances-1.svg",
+      "id": 2776,
+      "is_default": false,
+      "label": "glances-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glances-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6371702cc6b198c00eb7d9bc8b8a04c5f06de4b5aa02fdbe85aa945d3477a8d3"
+      },
+      "sha256": "7e926552496941a4e1541d95016f789473b67d86bd98e7a91e63957c801655cf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glances-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

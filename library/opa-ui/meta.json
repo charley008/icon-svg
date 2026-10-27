@@ -1,0 +1,78 @@
+{
+  "collection_id": 2014,
+  "schema_version": 1,
+  "id": 2241,
+  "title": "Opa Ui",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "opa-ui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2788,
+      "collection": "Dashboard Icons",
+      "file": "opa-ui.svg",
+      "id": 3642,
+      "is_default": true,
+      "label": "opa-ui",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opa-ui.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c23336df15bcb18a040fab74a9cb6a83ef09dfcbf66cd586a9d150cd418985f"
+      },
+      "sha256": "dd4f6188e3ee856e4107443ff6da8621708a4c687dac92e11853ae5a32b57541",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opa-ui.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3835,
+      "collection": "Dashboard Icons",
+      "file": "opa-ui-1.svg",
+      "id": 3643,
+      "is_default": false,
+      "label": "opa-ui-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opa-ui-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae5107bbb84c921e84ff63f13a59ab21ad70b33a89e333e27a1ce038dac74899"
+      },
+      "sha256": "ab5fa943152f688a3b8737677aabd4ce9364a4a26ffd6b4aea6b24da353e8119",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opa-ui-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3835,
+      "collection": "Dashboard Icons",
+      "file": "opa-ui-2.svg",
+      "id": 3644,
+      "is_default": false,
+      "label": "opa-ui-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opa-ui-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "121ecfdca96df07f702d7f889d562fef5ef23c4083b954060ecbb16fc8519a81"
+      },
+      "sha256": "1743935f804f1e379692eddce11776b93f7fab7ad1b2a0b1dc29b3364dd0e77b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opa-ui-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

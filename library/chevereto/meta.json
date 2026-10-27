@@ -1,0 +1,40 @@
+{
+  "collection_id": 964,
+  "schema_version": 1,
+  "id": 1191,
+  "title": "Chevereto",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chevereto"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1174,
+      "collection": "Dashboard Icons",
+      "file": "chevereto.svg",
+      "id": 2244,
+      "is_default": true,
+      "label": "chevereto",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chevereto.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "07f270452407d5edc65aaf271e923cede0cbf8e20288db32b78240ce9ddbc7c3"
+      },
+      "sha256": "44a3886e376ac3051a4e8a388cb6eaacc922fcae291f11e0f606ee2a9c9a1963",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chevereto.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

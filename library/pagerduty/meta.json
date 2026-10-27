@@ -1,0 +1,44 @@
+{
+  "collection_id": 2080,
+  "schema_version": 1,
+  "id": 2307,
+  "title": "Pagerduty",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "pagerduty",
+    "incident-alerting",
+    "on-call-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 944,
+      "collection": "Dashboard Icons",
+      "file": "pagerduty.svg",
+      "id": 3739,
+      "is_default": true,
+      "label": "pagerduty",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pagerduty.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1a2317bcf8ecb598561fb9a6d498a4c3364177962a5c9278328e93c54921350"
+      },
+      "sha256": "655d2c0d97a4350d8da323a3fb77066696c4389fcc50ec57151f70d73bbe19c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pagerduty.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

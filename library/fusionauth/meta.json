@@ -1,0 +1,59 @@
+{
+  "collection_id": 1349,
+  "schema_version": 1,
+  "id": 1576,
+  "title": "Fusionauth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fusionauth"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2189,
+      "collection": "Dashboard Icons",
+      "file": "fusionauth.svg",
+      "id": 2746,
+      "is_default": true,
+      "label": "fusionauth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fusionauth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e412ab63a30f5c63dfc3149c1f920a399c3424920b660cd1aad690549d480247"
+      },
+      "sha256": "f6b9825cb744c007de3f9ab7c881843edd6e1b1756cf7262baa8dab661005174",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fusionauth.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2309,
+      "collection": "Dashboard Icons",
+      "file": "fusionauth-1.svg",
+      "id": 2747,
+      "is_default": false,
+      "label": "fusionauth-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fusionauth-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b34dfdd987b5964df14b753be9c4b50be77ce5d61b54050fccd0553098dc576"
+      },
+      "sha256": "aa8c46dcaeb5fcec92ecfcb1979a6c2aa1ea359ebcb66a7ba6cdfba4b1727070",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fusionauth-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,62 @@
+{
+  "collection_id": 859,
+  "schema_version": 1,
+  "id": 1086,
+  "title": "Beef",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "beef",
+    "php-web-framework"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12033,
+      "collection": "Dashboard Icons",
+      "file": "beef.svg",
+      "id": 2105,
+      "is_default": true,
+      "label": "beef",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beef.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2139023508d769144117c1ac72ceab8c0ab39b8e41b893d179e5a92870798e99"
+      },
+      "sha256": "6b3481d753b1c1d3ede5a4236aaaa3c1c3f2415ff7eea12b298ceef70ff44253",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beef.svg",
+      "version": 0
+    },
+    {
+      "bytes": 12066,
+      "collection": "Dashboard Icons",
+      "file": "beef-1.svg",
+      "id": 2106,
+      "is_default": false,
+      "label": "beef-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beef-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5b5226d0c62a12ae47eb13050e0655de5629a3a2e8e0edd7ba6c08358814bf8"
+      },
+      "sha256": "ceb0e8c5b758ecac6fdaf0482556c5d0248f96782b0a685ef5b1a317f183a006",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beef-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

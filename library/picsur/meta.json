@@ -1,0 +1,59 @@
+{
+  "collection_id": 2141,
+  "schema_version": 1,
+  "id": 2368,
+  "title": "Picsur",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "picsur"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 704,
+      "collection": "Dashboard Icons",
+      "file": "picsur.svg",
+      "id": 3827,
+      "is_default": true,
+      "label": "picsur",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "picsur.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7a5c935cd7a835e307c7e6229c4d1d1287069295cb0feb22ecda3cf13a0aa2b5"
+      },
+      "sha256": "209654768103a1f92b251fa8f81951886dc40a74963e95e5b535cd5f8816fdd9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/picsur.svg",
+      "version": 0
+    },
+    {
+      "bytes": 701,
+      "collection": "Dashboard Icons",
+      "file": "picsur-1.svg",
+      "id": 3828,
+      "is_default": false,
+      "label": "picsur-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "picsur-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "99b6c710acb8f087d788f8ce8b39aba49da3236e0830c467f8f42dd8f31096d4"
+      },
+      "sha256": "29188890ff5c6acf60afd76a8b33e52a7ecf92bb7cd4a83051f20d686cd14d60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/picsur-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

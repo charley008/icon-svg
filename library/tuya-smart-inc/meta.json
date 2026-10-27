@@ -1,0 +1,59 @@
+{
+  "collection_id": 2852,
+  "schema_version": 1,
+  "id": 3079,
+  "title": "Tuya Smart Inc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tuya-smart-inc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2190,
+      "collection": "Dashboard Icons",
+      "file": "tuya-smart-inc.svg",
+      "id": 4749,
+      "is_default": true,
+      "label": "tuya-smart-inc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tuya-smart-inc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1124417ae6ce364e3c254f60a71f2b329f03c15212b08498578cf2bf9918be4b"
+      },
+      "sha256": "4739fbf36eabe30741a919f2a0e79152aaa4fc1c613309af7732a227efd60097",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuya-smart-inc.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2190,
+      "collection": "Dashboard Icons",
+      "file": "tuya-smart-inc-1.svg",
+      "id": 4750,
+      "is_default": false,
+      "label": "tuya-smart-inc-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tuya-smart-inc-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b20d02690c6a400476620c5c80439f034b525b7b2b4aafbe9c82464f2fd72adc"
+      },
+      "sha256": "bf94e92538f720bfce9969b26b90a14456a8b3665b4f587ac6669d4b8972d4cb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuya-smart-inc-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

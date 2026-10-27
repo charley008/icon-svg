@@ -1,0 +1,40 @@
+{
+  "collection_id": 994,
+  "schema_version": 1,
+  "id": 1221,
+  "title": "Cms",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18643,
+      "collection": "Dashboard Icons",
+      "file": "cms.svg",
+      "id": 2284,
+      "is_default": true,
+      "label": "cms",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cms.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "69e00472d551770c1804dc87e6e2e572101312c21c8578bcc4cff077fd9fcf9c"
+      },
+      "sha256": "e35fd61d6e9211744d6a31629a6324da324d1911bb7b6c22b72823e32a785b2c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cms.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

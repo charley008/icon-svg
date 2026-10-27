@@ -1,0 +1,60 @@
+{
+  "collection_id": 871,
+  "schema_version": 1,
+  "id": 1098,
+  "title": "Binner",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Logistics"
+  ],
+  "aliases": [
+    "binner"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1541,
+      "collection": "Dashboard Icons",
+      "file": "binner.svg",
+      "id": 2122,
+      "is_default": true,
+      "label": "binner",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binner.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "01243f90fd792114ac6325f486545f6e9f1c3870c56b6022157fde2ab3177e9b"
+      },
+      "sha256": "26289bc5be93c43a63f5b6707aed0a3c490a932943fceb6bdd4fa0bc74ff749e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/binner.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1541,
+      "collection": "Dashboard Icons",
+      "file": "binner-1.svg",
+      "id": 2123,
+      "is_default": false,
+      "label": "binner-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "binner-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "285104642b71374268957033de1aac323637f137b0186916e37c3c3621162eb8"
+      },
+      "sha256": "65c4690550d8f38a23ad897b58134f429b9248fdb21cba28fbc2c2273cb8b5a1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/binner-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

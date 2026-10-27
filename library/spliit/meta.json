@@ -1,0 +1,43 @@
+{
+  "collection_id": 2674,
+  "schema_version": 1,
+  "id": 2901,
+  "title": "Spliit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "Finance",
+    "云服务"
+  ],
+  "aliases": [
+    "spliit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1779,
+      "collection": "Dashboard Icons",
+      "file": "spliit.svg",
+      "id": 4526,
+      "is_default": true,
+      "label": "spliit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spliit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be8ffe746c71496a333b766b5464d1a4e85c690eb50b61a03e334f56263c369d"
+      },
+      "sha256": "7d2fba1646c151562e93419c0c3eeb5ebf1d123887eb2340f51f428fd196d638",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spliit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1141,
+  "schema_version": 1,
+  "id": 1368,
+  "title": "Docuware",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docuware"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 433,
+      "collection": "Dashboard Icons",
+      "file": "docuware.svg",
+      "id": 2482,
+      "is_default": true,
+      "label": "docuware",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docuware.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f655b6443d20d3eec8bd8700e40441cbfa4af2b65007251295aa98996e31801"
+      },
+      "sha256": "7e683a706690ea0995f72612630b30bcfa36c88020255eee464e68d95f5b3f72",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docuware.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

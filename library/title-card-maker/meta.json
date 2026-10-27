@@ -1,0 +1,61 @@
+{
+  "collection_id": 2809,
+  "schema_version": 1,
+  "id": 3036,
+  "title": "Title Card Maker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "title-card-maker",
+    "tcm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1398,
+      "collection": "Dashboard Icons",
+      "file": "title-card-maker.svg",
+      "id": 4695,
+      "is_default": true,
+      "label": "title-card-maker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "title-card-maker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9eb3703ad226ca72ed8c2070bac2bdf2e3b45bff7b9bae0d82cee58890554313"
+      },
+      "sha256": "0e8917ec4c5ce99920f6dec8939825ed13b63ecb85bfe21bc4888de2a7f21681",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/title-card-maker.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1401,
+      "collection": "Dashboard Icons",
+      "file": "title-card-maker-1.svg",
+      "id": 4696,
+      "is_default": false,
+      "label": "title-card-maker-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "title-card-maker-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f6f13ab9d73717aac404331c77e598dca5f844bca026f99f13026be94160785"
+      },
+      "sha256": "6b29ddc44a4073d6b95788462c675f3cac0274385d4986bc1b612e45f5df0c19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/title-card-maker-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

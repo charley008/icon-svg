@@ -1,0 +1,46 @@
+{
+  "collection_id": 3258,
+  "schema_version": 1,
+  "id": 3523,
+  "title": "Vuetify",
+  "url": "https://vuetifyjs.com",
+  "domains": [
+    "vuetifyjs.com"
+  ],
+  "description": "基于 Vue 的界面组件框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Vuetify",
+    "vuetify",
+    "Veutify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 491,
+      "collection": "TechIcons / Devicon",
+      "file": "vuetify-1.svg",
+      "id": 5399,
+      "is_default": true,
+      "label": "TechIcons · Vuetify",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Veutify.svg",
+        "original_sha256": "fc436e01cd21cc20f6abc931d411b6e2d2efb4f0d0c344503a354d75fde4b35d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/vuetify",
+        "reference_website": "https://vuetifyjs.com"
+      },
+      "sha256": "8570df00445dd46e4b039d6f977ce9be5ebbcb14d5f4c3893f2046c2c7a54431",
+      "source": "https://techicons.dev/icons/vuetify",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

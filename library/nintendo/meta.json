@@ -133,6 +133,8 @@
   "next_version": 5,
   "products": [
     {
+      "id": 797,
+      "key": "switch",
       "title": "Nintendo Switch",
       "url": "https://www.nintendo.com/us/gaming-systems/switch/",
       "domains": [
@@ -155,24 +157,24 @@
       "notes": [],
       "icons": [
         {
-          "file": "nintendo-switch.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "015647559c35d2ed564b25fa88160023ddd715f9fcf6e278d7975bf0fa90ae75",
           "bytes": 1686,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nintendo-switch.svg",
+          "collection": "Dashboard Icons",
+          "file": "nintendo-switch.svg",
+          "id": 1754,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "nintendo-switch.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "015647559c35d2ed564b25fa88160023ddd715f9fcf6e278d7975bf0fa90ae75",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nintendo-switch.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "switch"
+      "next_version": 1
     }
   ]
 }

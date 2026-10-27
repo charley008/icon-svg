@@ -1,0 +1,40 @@
+{
+  "collection_id": 2733,
+  "schema_version": 1,
+  "id": 2960,
+  "title": "Symfonium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "symfonium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1086,
+      "collection": "Dashboard Icons",
+      "file": "symfonium.svg",
+      "id": 4597,
+      "is_default": true,
+      "label": "symfonium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "symfonium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b9853f97703d8f759492c4b0368b45b81188de5f5d4e7a251414912e27974d0"
+      },
+      "sha256": "8fd6303c00eb0c3a8a7271f55d641246adfe3aa178c2303de141e384b0b8d8b9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/symfonium.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1360,
+  "schema_version": 1,
+  "id": 1587,
+  "title": "Gerbera",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Home-Automation"
+  ],
+  "aliases": [
+    "gerbera",
+    "upnp-server",
+    "dlna-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12840,
+      "collection": "Dashboard Icons",
+      "file": "gerbera.svg",
+      "id": 2758,
+      "is_default": true,
+      "label": "gerbera",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gerbera.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4f31799fabcfd356a731053561599ad9037889e7dd57fdeaef268b028de0ab7"
+      },
+      "sha256": "74cc5638b436638fc789fda1e106e07428d7f058bc0d5eab434bc334c4cf2be5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gerbera.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

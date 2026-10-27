@@ -1,0 +1,41 @@
+{
+  "collection_id": 3039,
+  "schema_version": 1,
+  "id": 3266,
+  "title": "Z Ai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "z-ai",
+    "zai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10912,
+      "collection": "Dashboard Icons",
+      "file": "z-ai.svg",
+      "id": 4998,
+      "is_default": true,
+      "label": "z-ai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "z-ai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1cedc54a781239ec813fcd4e947b8c147cae85fc0f6e5c9f318448921bbd3ee0"
+      },
+      "sha256": "db22a9568bbc76745afed98d00dcbc94a6944ed00496f72d4e903abb37d5502d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/z-ai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

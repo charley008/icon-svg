@@ -1,0 +1,40 @@
+{
+  "collection_id": 1035,
+  "schema_version": 1,
+  "id": 1262,
+  "title": "Cpanel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cpanel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1159,
+      "collection": "Dashboard Icons",
+      "file": "cpanel.svg",
+      "id": 2340,
+      "is_default": true,
+      "label": "cpanel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cpanel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "07fce86733e5314504e14d2605e07b03858c6a7b721e51d00d7b2a6f9b7472a9"
+      },
+      "sha256": "aebef914bae8dc37635aa657f5f04894d1fde234003674646bd894410d69be90",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cpanel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

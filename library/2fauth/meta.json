@@ -1,0 +1,63 @@
+{
+  "collection_id": 646,
+  "schema_version": 1,
+  "id": 873,
+  "title": "2Fauth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Password-Managers",
+    "Security",
+    "系统工具"
+  ],
+  "aliases": [
+    "2fauth",
+    "2FA Authenticator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 524,
+      "collection": "Dashboard Icons",
+      "file": "2fauth.svg",
+      "id": 1831,
+      "is_default": true,
+      "label": "2fauth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "2fauth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f48c792c9508b71cf47a389700ddb3f983a52e9759f60ff23702cfba70faa7f8"
+      },
+      "sha256": "65047ec3c01b75abbf6f5d1c58370ff7b8b5852824ea8ecd31e43a8f51fc42ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/2fauth.svg",
+      "version": 0
+    },
+    {
+      "bytes": 548,
+      "collection": "Dashboard Icons",
+      "file": "2fauth-1.svg",
+      "id": 1832,
+      "is_default": false,
+      "label": "2fauth-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "2fauth-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3dea14ae36c92c594b0f91abef2dbf30f46fc48befdf4802f08f4307a98707ed"
+      },
+      "sha256": "970f4fd7e3bbc3d951b07db12a53487e773b6175dfcd2caa6166d34b56c1ab9e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/2fauth-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

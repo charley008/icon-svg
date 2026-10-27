@@ -1,0 +1,40 @@
+{
+  "collection_id": 2108,
+  "schema_version": 1,
+  "id": 2335,
+  "title": "Pcloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pcloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4318,
+      "collection": "Dashboard Icons",
+      "file": "pcloud.svg",
+      "id": 3777,
+      "is_default": true,
+      "label": "pcloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pcloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5d510308ad205aa4321376635e94c7187315d23ac38ea5d4fbf5b6e67c95345"
+      },
+      "sha256": "0970d24dc609471996454151281821a0b19bed01da4528ac0803836f0cdc6d40",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pcloud.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

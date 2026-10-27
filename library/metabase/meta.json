@@ -1,0 +1,40 @@
+{
+  "collection_id": 1814,
+  "schema_version": 1,
+  "id": 2041,
+  "title": "Metabase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "metabase"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1651,
+      "collection": "Dashboard Icons",
+      "file": "metabase.svg",
+      "id": 3362,
+      "is_default": true,
+      "label": "metabase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "metabase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fae6d1f817af8363e83c7281ab322b28e58d039f03d48ebe394d9d6bee3ac095"
+      },
+      "sha256": "0e7d45b50c377daa2273ccfd34138e570c4380e48f6d642350c7816244c10d88",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/metabase.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1493,
+  "schema_version": 1,
+  "id": 1720,
+  "title": "Hono",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hono-kawaii",
+    "Hono Kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 71859,
+      "collection": "Dashboard Icons",
+      "file": "hono-kawaii.svg",
+      "id": 2954,
+      "is_default": true,
+      "label": "hono-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hono-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0512edbbb862cab7edda2badf378139187b4e290adaae076af006ac3e728ed38"
+      },
+      "sha256": "3e566e4057bf915b753e3bba9e0a950fd4ef03509d0688ee43fbd09af19d2f24",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hono-kawaii.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

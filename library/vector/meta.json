@@ -1,0 +1,40 @@
+{
+  "collection_id": 2894,
+  "schema_version": 1,
+  "id": 3121,
+  "title": "Vector",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vector"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1690,
+      "collection": "Dashboard Icons",
+      "file": "vector.svg",
+      "id": 4805,
+      "is_default": true,
+      "label": "vector",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vector.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "52fb31daf4e71d171d6b9779b55ba0001f4797e474cd2f273e2992b59e0046d5"
+      },
+      "sha256": "4ef3aefc1b263cbdbbffa908987063c1b619e0b47d454a9caca84be45600ce2d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vector.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

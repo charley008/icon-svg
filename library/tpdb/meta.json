@@ -1,0 +1,40 @@
+{
+  "collection_id": 2822,
+  "schema_version": 1,
+  "id": 3049,
+  "title": "Tpdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tpdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2479,
+      "collection": "Dashboard Icons",
+      "file": "tpdb.svg",
+      "id": 4713,
+      "is_default": true,
+      "label": "tpdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tpdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "032a69dea993d43f34ab76cae2e681e615782ee649c0e0f883c176194b4bd13e"
+      },
+      "sha256": "d75449b5ca5ec0324da6defa6be4a954f316b1cf076f338bbdd0c38d5179c6e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tpdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

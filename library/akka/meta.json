@@ -1,0 +1,45 @@
+{
+  "collection_id": 3073,
+  "schema_version": 1,
+  "id": 3303,
+  "title": "Akka",
+  "url": "https://akka.io",
+  "domains": [
+    "akka.io"
+  ],
+  "description": "用于构建并发与分布式应用的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Akka",
+    "akka"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 517,
+      "collection": "TechIcons / Devicon",
+      "file": "akka-1.svg",
+      "id": 5058,
+      "is_default": true,
+      "label": "TechIcons · Akka",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Akka.svg",
+        "original_sha256": "0658fec9ca2286488020526f8b2f65695b974891399233b0e64840305d0d4464",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/akka",
+        "reference_website": "https://akka.io"
+      },
+      "sha256": "2bf77be7ed7d6673dfdd4b88c3a735567995c7168cfe0c0a9c37429055b33045",
+      "source": "https://techicons.dev/icons/akka",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

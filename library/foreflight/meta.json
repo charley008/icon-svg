@@ -1,0 +1,61 @@
+{
+  "collection_id": 1311,
+  "schema_version": 1,
+  "id": 1538,
+  "title": "Foreflight",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Travel"
+  ],
+  "aliases": [
+    "foreflight",
+    "Flight Planning"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13022,
+      "collection": "Dashboard Icons",
+      "file": "foreflight.svg",
+      "id": 2701,
+      "is_default": true,
+      "label": "foreflight",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "foreflight.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3de9e3f8ecb4beb447d2f3c6531a3eff91d691fd4179e014996eaef3a3642879"
+      },
+      "sha256": "9ed62d87c3b797b6b12351b76db7155e3d59d7916793fb4be0617b452c00a21b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/foreflight.svg",
+      "version": 0
+    },
+    {
+      "bytes": 12672,
+      "collection": "Dashboard Icons",
+      "file": "foreflight-1.svg",
+      "id": 2702,
+      "is_default": false,
+      "label": "foreflight-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "foreflight-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "141aaae7f34196e3beb0850b870969c210de870e7d84e9f79da7b750f2e2c1f5"
+      },
+      "sha256": "f8a55a35b33e07142fdc13eb7e22122373ec224399bdccb1c8eaf7c16d3ab6cb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/foreflight-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

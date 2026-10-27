@@ -1,4 +1,10 @@
 {
+  "collection_id": 563,
+  "schema_version": 1,
+  "id": 767,
+  "redirect_from": [
+    1962
+  ],
   "title": "Logitech",
   "url": "https://www.logitech.com/",
   "domains": [
@@ -14,14 +20,75 @@
   "aliases": [
     "logitech",
     "罗技",
-    "外设"
+    "外设",
+    "logitech-legacy",
+    "Logitech Legacy"
   ],
   "notes": [],
-  "icons": [],
-  "next_version": 0,
-  "schema_version": 1,
+  "icons": [
+    {
+      "bytes": 1028,
+      "collection": "Dashboard Icons",
+      "file": "logitech.svg",
+      "id": 3261,
+      "is_default": true,
+      "label": "logitech",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "logitech.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "820ec8615b40768a7eba669834268fd8f31202a5fdd9aea22cf2bf5ea133b113"
+      },
+      "sha256": "14a001a6be6cb7b83515c4868a02d69c12679b450acbf2304ce707e199a708b9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logitech.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1028,
+      "collection": "Dashboard Icons",
+      "file": "logitech-1.svg",
+      "id": 3262,
+      "is_default": false,
+      "label": "logitech-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "logitech-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78c1b6f0ba7a708e0966e6c3f2e111b1ec99da62cd83ae1a20070d7c024ec956"
+      },
+      "sha256": "f0b542983cf26f47e77f25d9aa728a86e484c7ad64cb43255ed1d6e5b379617d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logitech-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6067,
+      "collection": "Dashboard Icons",
+      "file": "logitech-2.svg",
+      "id": 3263,
+      "is_default": false,
+      "label": "Logitech Legacy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "logitech-legacy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e9681541562bd7756deb53e64d07fb4475784031624ee75cf8231e7cffca320f"
+      },
+      "sha256": "57f8c70c8a2b63fa74c2853b0336839f58ccdc47f60718d5b88e140751f73c92",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logitech-legacy.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
   "products": [
     {
+      "id": 768,
+      "key": "g",
       "title": "Logitech G",
       "url": "https://www.logitechg.com/",
       "domains": [
@@ -45,24 +112,24 @@
       "notes": [],
       "icons": [
         {
-          "file": "logitech-g.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "4e43c4241b45a28017270c4b14e21e09a3da5fecddb1da15207e812e2566b003",
           "bytes": 548,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logitech-gaming.svg",
+          "collection": "Dashboard Icons",
+          "file": "logitech-g.svg",
+          "id": 1725,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "logitech-gaming.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "4e43c4241b45a28017270c4b14e21e09a3da5fecddb1da15207e812e2566b003",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logitech-gaming.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "g"
+      "next_version": 1
     }
   ]
 }

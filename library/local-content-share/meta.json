@@ -1,0 +1,40 @@
+{
+  "collection_id": 1729,
+  "schema_version": 1,
+  "id": 1956,
+  "title": "Local Content Share",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "local-content-share"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 126380,
+      "collection": "Dashboard Icons",
+      "file": "local-content-share.svg",
+      "id": 3254,
+      "is_default": true,
+      "label": "local-content-share",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "local-content-share.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a7566f3f9ddf821beaedcdc0d64542f42efdd2d7f00993838d149d9b7e632045"
+      },
+      "sha256": "55f3de6fba8440c6a380475c57b565878e8db5bab581fce8a97b84a07f7e4752",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/local-content-share.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

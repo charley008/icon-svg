@@ -1,4 +1,7 @@
 {
+  "collection_id": 572,
+  "schema_version": 1,
+  "id": 790,
   "title": "Music Assistant",
   "url": "https://www.music-assistant.io/",
   "domains": [
@@ -19,24 +22,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "music-assistant.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "435492942dfa81b4d2431d97b897f1580d9be59c1aacccb91cae78f7b36166a7",
       "bytes": 9560,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/music-assistant.svg",
+      "collection": "Dashboard Icons",
+      "file": "music-assistant.svg",
+      "id": 1747,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg-cleaned",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "music-assistant.svg",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved.",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      },
+      "sha256": "435492942dfa81b4d2431d97b897f1580d9be59c1aacccb91cae78f7b36166a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/music-assistant.svg",
+      "version": 0
+    },
+    {
+      "bytes": 358,
+      "collection": "Dashboard Icons",
+      "file": "music-assistant-1.svg",
+      "id": 3456,
+      "is_default": false,
+      "label": "music-assistant-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "music-assistant-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
         "repository": "https://github.com/homarr-labs/dashboard-icons",
-        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
-      }
+        "upstream_sha256": "b166957228e19591c3038b23ea7dbf577d36ef9d696ac47ba331babec2a48346"
+      },
+      "sha256": "45299d0124b8ec788adea236c151504f6bde0b8d4e125301ddc5db7beec69392",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/music-assistant-light.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

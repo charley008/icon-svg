@@ -1,0 +1,40 @@
+{
+  "collection_id": 2979,
+  "schema_version": 1,
+  "id": 3206,
+  "title": "Wikimedia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wikimedia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 459,
+      "collection": "Dashboard Icons",
+      "file": "wikimedia.svg",
+      "id": 4918,
+      "is_default": true,
+      "label": "wikimedia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikimedia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3421fea69c147665bc5667ec32b58ac549cae300e79b0028a0ce0e62e4932531"
+      },
+      "sha256": "c6ba88d99ff7480b53f40a6e179f46014f2124ed4d4e0ee7abf6b11e25b3d717",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikimedia.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

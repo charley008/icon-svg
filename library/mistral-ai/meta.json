@@ -1,0 +1,43 @@
+{
+  "collection_id": 1833,
+  "schema_version": 1,
+  "id": 2060,
+  "title": "Mistral AI",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "mistral-ai",
+    "mistral",
+    "Mistral Ai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3595,
+      "collection": "Dashboard Icons",
+      "file": "mistral-ai.svg",
+      "id": 3399,
+      "is_default": true,
+      "label": "mistral-ai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mistral-ai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eaf6426a57ecb2f64809f7490825ecaef1c3b3e4e9b9703aa9d804aa94e20a80"
+      },
+      "sha256": "9a2b63cb2abb72098029cc666129b96cbd495ab52ee2d1b092520db3d3785c97",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mistral-ai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

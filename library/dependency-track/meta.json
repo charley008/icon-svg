@@ -1,0 +1,86 @@
+{
+  "collection_id": 1092,
+  "schema_version": 1,
+  "id": 1319,
+  "redirect_from": [
+    1320,
+    1321
+  ],
+  "title": "Dependency Track",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dependency-track",
+    "dependency-track-wordmark-light",
+    "Dependency Track Wordmark Light",
+    "dependency-track-wordmark-dark",
+    "Dependency Track Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2101,
+      "collection": "Dashboard Icons",
+      "file": "dependency-track.svg",
+      "id": 2420,
+      "is_default": true,
+      "label": "dependency-track",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dependency-track.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d7b0d343342609fdcad2034004abf34f6b32a1a0bffb200b40391a643c5b0c7"
+      },
+      "sha256": "de4441909a30a3ce1812321e4951fc6eddbc790cf023509ac3d75b8a02889aff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dependency-track.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9109,
+      "collection": "Dashboard Icons",
+      "file": "dependency-track-1.svg",
+      "id": 2422,
+      "is_default": false,
+      "label": "dependency-track-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dependency-track-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0021bb5f6ad73714361c54de2f372bea9a6c695142fc62f516a3df1c0e6a8ef"
+      },
+      "sha256": "699fd7553ed157a8ba7f0cd985fbae25da5087c877f80fa168a59283fc7b21b2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dependency-track-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 9029,
+      "collection": "Dashboard Icons",
+      "file": "dependency-track-2.svg",
+      "id": 2421,
+      "is_default": false,
+      "label": "dependency-track-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dependency-track-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd589970cd334169060adc12e2a888e6dfe4d1610b95264700eeef0ce8ea5d91"
+      },
+      "sha256": "177919f7497d41c40f75896064b43aab5102cab7edaca62a58dc434d2614e623",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dependency-track-wordmark-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

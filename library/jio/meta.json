@@ -1,0 +1,40 @@
+{
+  "collection_id": 1592,
+  "schema_version": 1,
+  "id": 1819,
+  "title": "Jio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7759,
+      "collection": "Dashboard Icons",
+      "file": "jio.svg",
+      "id": 3080,
+      "is_default": true,
+      "label": "jio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6c40c1f2e437e291efe45e1fb3b0bfe119858e1db3fc21c3c3b157d4b0884eb"
+      },
+      "sha256": "c3887f89d513c82b0f2b47978d627b1c0cc6080a1ccc5f1068f91fc9df5b8514",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

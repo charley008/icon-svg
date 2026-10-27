@@ -1,0 +1,59 @@
+{
+  "collection_id": 2937,
+  "schema_version": 1,
+  "id": 3164,
+  "title": "Voltaserve",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "voltaserve"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1782,
+      "collection": "Dashboard Icons",
+      "file": "voltaserve.svg",
+      "id": 4862,
+      "is_default": true,
+      "label": "voltaserve",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "voltaserve.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ee982a747222340b4acc917f8adc3aba060893c6218420227f7a2cf5aaef3e9"
+      },
+      "sha256": "af0e4bff9733bd7a3efe116b14d024af2a672fad2fa92b493dd388124285f22d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/voltaserve.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1797,
+      "collection": "Dashboard Icons",
+      "file": "voltaserve-1.svg",
+      "id": 4863,
+      "is_default": false,
+      "label": "voltaserve-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "voltaserve-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1528988df8880a3c3afc98df9f698e03b84c605144a54243b5cedaa11efd174"
+      },
+      "sha256": "5654f3f9fa66113cc6abda3d1d2c7311fe658ffb9a7e42072461d7d981e09eca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/voltaserve-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

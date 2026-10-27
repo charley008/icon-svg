@@ -1,4 +1,7 @@
 {
+  "collection_id": 600,
+  "schema_version": 1,
+  "id": 825,
   "title": "QNAP",
   "url": "https://www.qnap.com/",
   "domains": [
@@ -21,23 +24,404 @@
   "notes": [],
   "icons": [
     {
-      "file": "qnap.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "1d0bd6c4435820b347e7e2499f8a4c1bda5c4ee98d3818482bfec4904efd29d8",
       "bytes": 445,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap.svg",
+      "collection": "Dashboard Icons",
+      "file": "qnap.svg",
+      "id": 1782,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "qnap.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "1d0bd6c4435820b347e7e2499f8a4c1bda5c4ee98d3818482bfec4904efd29d8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "products": [
+    {
+      "id": 2660,
+      "key": "adra-ndr",
+      "title": "Qnap Adra Ndr",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-adra-ndr"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8334,
+          "collection": "Dashboard Icons",
+          "file": "qnap-adra-ndr.svg",
+          "id": 4223,
+          "is_default": true,
+          "label": "qnap-adra-ndr",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-adra-ndr.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "dabec34bac1b29e2ac5872476b9eeacb821c06851808aa227c4f65c4b1d5eb97"
+          },
+          "sha256": "cc2d6d55271b1c32bb042122f522ad52031b95d419a12bc644c0a397699c223a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-adra-ndr.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2661,
+      "key": "containers",
+      "title": "Qnap Containers",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-containers"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1706,
+          "collection": "Dashboard Icons",
+          "file": "qnap-containers.svg",
+          "id": 4224,
+          "is_default": true,
+          "label": "qnap-containers",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-containers.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "f5b5510c5a38752e5d8c1fdbca24ee8217ba7d868977349418f70942a62b7f3e"
+          },
+          "sha256": "b4ad610dcf94c6bb114ee49ce12a1cfab46eda76d3df9f274034a88621b8062d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-containers.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2662,
+      "key": "firewall",
+      "title": "Qnap Firewall",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-firewall"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8578,
+          "collection": "Dashboard Icons",
+          "file": "qnap-firewall.svg",
+          "id": 4225,
+          "is_default": true,
+          "label": "qnap-firewall",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-firewall.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ed04d9894529cb44373967e1d3bcc985c5cc5f6fe0a719f9c743ebd31b5d0b22"
+          },
+          "sha256": "6410085156bea96312b4a091534dd13c3646327a8dfcd264749dec2de7aa55b7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-firewall.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2663,
+      "key": "qsync",
+      "title": "Qnap Qsync",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-qsync"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4865,
+          "collection": "Dashboard Icons",
+          "file": "qnap-qsync.svg",
+          "id": 4226,
+          "is_default": true,
+          "label": "qnap-qsync",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-qsync.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8bfdbe97622769d103ef4b923af201bb537bfb8372eaec47b4562e5a95691c3b"
+          },
+          "sha256": "edec8eace9d6f537c13f17f1f55690fff7a03f16d204e8c5675c44896a01ff07",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-qsync.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2664,
+      "key": "qvr-center",
+      "title": "Qnap Qvr Center",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-qvr-center"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 15901,
+          "collection": "Dashboard Icons",
+          "file": "qnap-qvr-center.svg",
+          "id": 4227,
+          "is_default": true,
+          "label": "qnap-qvr-center",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-qvr-center.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c9eca633cb8f6aa5cd44c479b9b8a3c88ea059216aebcff848d3f8afaa06218e"
+          },
+          "sha256": "89d9167b3c8ce0ead19fa8d891ae70bfa2502c47243c2e4266931679284be7c7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-qvr-center.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2665,
+      "key": "qvr-face",
+      "title": "Qnap Qvr Face",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-qvr-face"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 19513,
+          "collection": "Dashboard Icons",
+          "file": "qnap-qvr-face.svg",
+          "id": 4228,
+          "is_default": true,
+          "label": "qnap-qvr-face",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-qvr-face.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "72ef4ea53bf0560048e8497f3193685b45fab26c8917057efd9eb10b8621160d"
+          },
+          "sha256": "b703dd51f3bf864ab63857609af4a35484e3c8f52449bd23e773a5c1f012180c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-qvr-face.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2666,
+      "key": "qvr-human",
+      "title": "Qnap Qvr Human",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-qvr-human"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 23290,
+          "collection": "Dashboard Icons",
+          "file": "qnap-qvr-human.svg",
+          "id": 4229,
+          "is_default": true,
+          "label": "qnap-qvr-human",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-qvr-human.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3587e9344f1cca5ff4acffa4f2e58dbca0ddda8bfb9f01e8c08c4881786f2e5b"
+          },
+          "sha256": "48de0337284c96812eb07234b4b144a2c38ebd5da9c0a1de5b82dd1c6f10a75b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-qvr-human.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2667,
+      "key": "qvr-surveillance",
+      "title": "Qnap Qvr Surveillance",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-qvr-surveillance"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 11259,
+          "collection": "Dashboard Icons",
+          "file": "qnap-qvr-surveillance.svg",
+          "id": 4230,
+          "is_default": true,
+          "label": "qnap-qvr-surveillance",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-qvr-surveillance.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b97c56145494c9649b47d91bb074e71daeaf96f33a388960b100d25d19c10383"
+          },
+          "sha256": "ae91e816a9665814330b09a8dacd0461c76ce66d784dfeb7c186a7774e77a926",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-qvr-surveillance.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2668,
+      "key": "virtualization",
+      "title": "Qnap Virtualization",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-virtualization"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1412,
+          "collection": "Dashboard Icons",
+          "file": "qnap-virtualization.svg",
+          "id": 4231,
+          "is_default": true,
+          "label": "qnap-virtualization",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-virtualization.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "42fa84726b9fbc97b35b97357f473970ae84161d2557395d2524c9b5db2cd2c9"
+          },
+          "sha256": "3a4bffb4002f59d1217d6a08bf4d6146399f9e86da2f81f7376ca15fabf58a8f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-virtualization.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2669,
+      "key": "vpn",
+      "title": "Qnap Vpn",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "qnap-vpn"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5137,
+          "collection": "Dashboard Icons",
+          "file": "qnap-vpn.svg",
+          "id": 4232,
+          "is_default": true,
+          "label": "qnap-vpn",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "qnap-vpn.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "62588bf978eeea4526678a1a570d27a761972906ac26ac595a386fb2fab4d3f6"
+          },
+          "sha256": "aeb95815320f57d12a7506534b0f8ff8ab52b70b51046360e9b9bedb94cd6101",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qnap-vpn.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

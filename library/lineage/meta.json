@@ -1,0 +1,59 @@
+{
+  "collection_id": 1708,
+  "schema_version": 1,
+  "id": 1935,
+  "title": "Lineage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lineage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 525,
+      "collection": "Dashboard Icons",
+      "file": "lineage.svg",
+      "id": 3227,
+      "is_default": true,
+      "label": "lineage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lineage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "53bac1949e1b3cd8a2c7bfe1eb94eb8fa5f16dbe504cfebda85c6ecdad89a0f3"
+      },
+      "sha256": "762b638123cbdb71af26b5950099174e40b761ad09f39f6fa7df391e54cf33b8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lineage.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1367,
+      "collection": "Dashboard Icons",
+      "file": "lineage-1.svg",
+      "id": 3228,
+      "is_default": false,
+      "label": "lineage-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lineage-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3a1ef430fa46e87667d6b3c153eb8f96e4fd62bed0bb7626fea37dd3002de40d"
+      },
+      "sha256": "c334f47c81134ba6a515d2df5e7f85e050f3a95cdf54028e947a4914486d126f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lineage-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

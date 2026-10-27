@@ -1,0 +1,45 @@
+{
+  "collection_id": 3108,
+  "schema_version": 1,
+  "id": 3348,
+  "title": "D3.js",
+  "url": "https://d3js.org",
+  "domains": [
+    "d3js.org"
+  ],
+  "description": "用于构建数据驱动可视化的 JavaScript 开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "D3.js",
+    "d3js"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3388,
+      "collection": "TechIcons / Devicon",
+      "file": "d3-1.svg",
+      "id": 5123,
+      "is_default": true,
+      "label": "TechIcons · D3.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "D3.js.svg",
+        "original_sha256": "cdcd60f2cb0c8766fe9bb8aa02a3432744219ae862c6ef08f4b3ce3ccf17f670",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/d3js",
+        "reference_website": "https://d3js.org"
+      },
+      "sha256": "5bcca2406cd4d57ced3f98d11a2cb6e4815e3e3c8c2d6aeaefba430d33d9ce31",
+      "source": "https://techicons.dev/icons/d3js",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

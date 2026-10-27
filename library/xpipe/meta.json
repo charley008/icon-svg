@@ -1,0 +1,40 @@
+{
+  "collection_id": 3014,
+  "schema_version": 1,
+  "id": 3241,
+  "title": "Xpipe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xpipe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3409,
+      "collection": "Dashboard Icons",
+      "file": "xpipe.svg",
+      "id": 4967,
+      "is_default": true,
+      "label": "xpipe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xpipe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "43a938e760aa2db71b529b30cd57a4172a680e983e43915e36f3f97dae04055b"
+      },
+      "sha256": "b50977c085c7e9f25089eb21f0f09ffb17cb0257cf1449aeb18c417a798d52e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xpipe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

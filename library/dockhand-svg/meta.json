@@ -1,0 +1,40 @@
+{
+  "collection_id": 1126,
+  "schema_version": 1,
+  "id": 1353,
+  "title": "Dockhand Svg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dockhand-svg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6033,
+      "collection": "Dashboard Icons",
+      "file": "dockhand-svg.svg",
+      "id": 2465,
+      "is_default": true,
+      "label": "dockhand-svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dockhand-svg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "70911bfb3ab4cc7d8b365a3159b69863370df3755faf403cc1d2c8c7f37d382b"
+      },
+      "sha256": "875fbf7cf28c9bb3a608fab69992048759ac1f1146cbcd346178c745390bbabf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dockhand-svg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

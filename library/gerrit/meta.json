@@ -1,0 +1,41 @@
+{
+  "collection_id": 1361,
+  "schema_version": 1,
+  "id": 1588,
+  "title": "Gerrit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "gerrit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 546,
+      "collection": "Dashboard Icons",
+      "file": "gerrit.svg",
+      "id": 2759,
+      "is_default": true,
+      "label": "gerrit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gerrit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1c95fc52027c6e4c8e9584584f63e73a7c2a13e902b77dd18c665af8ca95ffa1"
+      },
+      "sha256": "d2072356abe09880219113cf74cc8a9301277458163551359185bd001556822b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gerrit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

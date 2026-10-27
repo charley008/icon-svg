@@ -1,0 +1,59 @@
+{
+  "collection_id": 683,
+  "schema_version": 1,
+  "id": 910,
+  "title": "Akkoma",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "akkoma"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 884,
+      "collection": "Dashboard Icons",
+      "file": "akkoma.svg",
+      "id": 1873,
+      "is_default": true,
+      "label": "akkoma",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "akkoma.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7cc86a6aa88d034484187e93b9b5cbd94d45fb6a2749161573137e558e0f9d2b"
+      },
+      "sha256": "0c719ae00f9bf1dee3484409c60ced46c4792414e5ee57c76b218135f180b722",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/akkoma.svg",
+      "version": 0
+    },
+    {
+      "bytes": 884,
+      "collection": "Dashboard Icons",
+      "file": "akkoma-1.svg",
+      "id": 1874,
+      "is_default": false,
+      "label": "akkoma-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "akkoma-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "72cd859d62ded82cc5a39bb6a7b948e27a8dccd47fa05b2d4d81281c99806593"
+      },
+      "sha256": "e45331203474cfc19d1cd1e3ceae43c5f9659fe5aac380c1cd8043fd4668f663",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/akkoma-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

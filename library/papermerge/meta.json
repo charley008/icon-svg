@@ -1,0 +1,64 @@
+{
+  "collection_id": 2092,
+  "schema_version": 1,
+  "id": 2319,
+  "title": "Papermerge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "File-Sharing-\u0026-Sync",
+    "办公效率"
+  ],
+  "aliases": [
+    "papermerge",
+    "document-scanner",
+    "digital-archive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2624,
+      "collection": "Dashboard Icons",
+      "file": "papermerge.svg",
+      "id": 3754,
+      "is_default": true,
+      "label": "papermerge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "papermerge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "484b39ea8df8f4e466b94ac6179deaaaef3350922239b985d726b25d788aa772"
+      },
+      "sha256": "9d140b2fe74762a17e70b2ade77524adccd2e4c30de4a36f06a5be4712f49fae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/papermerge.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2720,
+      "collection": "Dashboard Icons",
+      "file": "papermerge-1.svg",
+      "id": 3755,
+      "is_default": false,
+      "label": "papermerge-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "papermerge-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63795be6c5ceb2d2cd3f153797fed5090c68047183120e953d4fd2f0487f359b"
+      },
+      "sha256": "3d2bed2f82d0e4bb5da7666b262b7c81d36d142177b96edf41fdc1487b932655",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/papermerge-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

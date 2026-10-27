@@ -1,0 +1,63 @@
+{
+  "collection_id": 2868,
+  "schema_version": 1,
+  "id": 3095,
+  "title": "Udemy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "udemy",
+    "online-courses",
+    "e-learning-platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 486,
+      "collection": "Dashboard Icons",
+      "file": "udemy.svg",
+      "id": 4772,
+      "is_default": true,
+      "label": "udemy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "udemy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eb3d970a74582c42a73396313c358efa3dfb9746e1bb5a28eb6539739feddd82"
+      },
+      "sha256": "98e74fea75e5ea0d3f9773e595afa6743f26052c9518d52a5849bf50f97a4910",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/udemy.svg",
+      "version": 0
+    },
+    {
+      "bytes": 501,
+      "collection": "Dashboard Icons",
+      "file": "udemy-1.svg",
+      "id": 4773,
+      "is_default": false,
+      "label": "udemy-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "udemy-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5829194059fab0e9e4aa25a23dd8032f4361df4a455291bebe4a140abb43c935"
+      },
+      "sha256": "0c8586aa836d0cb5a9712aacf868c31833d5079810c3dc192d5e6ea84104b64f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/udemy-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

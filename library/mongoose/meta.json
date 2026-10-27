@@ -1,0 +1,45 @@
+{
+  "collection_id": 3179,
+  "schema_version": 1,
+  "id": 3441,
+  "title": "Mongoose.js",
+  "url": "https://mongoosejs.com",
+  "domains": [
+    "mongoosejs.com"
+  ],
+  "description": "用于 Node.js 数据建模与 MongoDB 操作的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Mongoose.js",
+    "mongoose"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5597,
+      "collection": "TechIcons / Devicon",
+      "file": "mongoose-1.svg",
+      "id": 5275,
+      "is_default": true,
+      "label": "TechIcons · Mongoose.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Mongoose.js.svg",
+        "original_sha256": "cf6476e21f83cd875ba4d82d696463d4fb71468370d3296d80f1f7dfb022f38a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/mongoose",
+        "reference_website": "https://mongoosejs.com"
+      },
+      "sha256": "ea352721fbc39baee204d2778b86c86a393d417ea61588eb3f450a2651f92db4",
+      "source": "https://techicons.dev/icons/mongoose",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

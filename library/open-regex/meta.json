@@ -1,0 +1,40 @@
+{
+  "collection_id": 2020,
+  "schema_version": 1,
+  "id": 2247,
+  "title": "Open Regex",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "open-regex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4431,
+      "collection": "Dashboard Icons",
+      "file": "open-regex.svg",
+      "id": 3651,
+      "is_default": true,
+      "label": "open-regex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-regex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe26360cb4865985ac74661cfb14fc197d6a1e6649aa4670702dc3c52f3d80f6"
+      },
+      "sha256": "56e157ddebfa7c1bf58105e42258cd74695d1867e7d008393faf78451b6fc73a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-regex.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

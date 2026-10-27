@@ -1,0 +1,40 @@
+{
+  "collection_id": 2810,
+  "schema_version": 1,
+  "id": 3037,
+  "title": "Tmdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tmdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2361,
+      "collection": "Dashboard Icons",
+      "file": "tmdb.svg",
+      "id": 4697,
+      "is_default": true,
+      "label": "tmdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tmdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "180a0c3f7a6e03074487eaa46415fff2efca6124355d7c34b58c354ce65a9815"
+      },
+      "sha256": "8bf82dadd3ec894305d340fbcf1f060c0961a17dec2913432c02cdba28bff159",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tmdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

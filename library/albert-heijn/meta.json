@@ -1,0 +1,40 @@
+{
+  "collection_id": 687,
+  "schema_version": 1,
+  "id": 914,
+  "title": "Albert Heijn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "albert-heijn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1135,
+      "collection": "Dashboard Icons",
+      "file": "albert-heijn.svg",
+      "id": 1878,
+      "is_default": true,
+      "label": "albert-heijn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "albert-heijn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "152884b4228c2773de2beaf6950096f571e8199436edfac0824676a3ebc03d60"
+      },
+      "sha256": "3c74b8496e2954aed0779f5710895fac9931ced13bee012fb276ad4d7c7fe0ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/albert-heijn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

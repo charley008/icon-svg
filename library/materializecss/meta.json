@@ -1,0 +1,45 @@
+{
+  "collection_id": 3169,
+  "schema_version": 1,
+  "id": 3426,
+  "title": "Materialize",
+  "url": "https://materializecss.com",
+  "domains": [
+    "materializecss.com"
+  ],
+  "description": "用于 Web 界面开发的 CSS 框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Materialize",
+    "materializecss"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3115,
+      "collection": "TechIcons / Devicon",
+      "file": "materializecss-1.svg",
+      "id": 5256,
+      "is_default": true,
+      "label": "TechIcons · Materialize",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Materialize.svg",
+        "original_sha256": "a714ea4790bfd1cd101e69e44415eaa39708add74637bb5a2a4df0c07cf62308",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/materializecss",
+        "reference_website": "https://materializecss.com"
+      },
+      "sha256": "b9cfcd920650254a52eac5da6b740a51e94d016e866e116f04152ea7504791f7",
+      "source": "https://techicons.dev/icons/materializecss",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

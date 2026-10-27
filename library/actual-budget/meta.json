@@ -1,0 +1,40 @@
+{
+  "collection_id": 665,
+  "schema_version": 1,
+  "id": 892,
+  "title": "Actual Budget",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "actual-budget"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 815,
+      "collection": "Dashboard Icons",
+      "file": "actual-budget.svg",
+      "id": 1853,
+      "is_default": true,
+      "label": "actual-budget",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "actual-budget.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ec6621a8d0b69f622ff10d7f957a229f959d94d4bc8c5e3586aebe71c922407"
+      },
+      "sha256": "863eeec1c67ca520d067e7240bc315c1815fb9d624291f725b52173d93f05b0c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/actual-budget.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

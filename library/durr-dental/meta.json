@@ -1,0 +1,40 @@
+{
+  "collection_id": 1169,
+  "schema_version": 1,
+  "id": 1396,
+  "title": "Durr Dental",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "durr-dental"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 515,
+      "collection": "Dashboard Icons",
+      "file": "durr-dental.svg",
+      "id": 2519,
+      "is_default": true,
+      "label": "durr-dental",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "durr-dental.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "60f3d490dff790d5c6da3ec467c631940278b7ef31c9070e72a10d4e8a1c303a"
+      },
+      "sha256": "5ecf37e6cb206fc9853d3693e7dce20da501d19146af0e0f9ab2f21613a1e5f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/durr-dental.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

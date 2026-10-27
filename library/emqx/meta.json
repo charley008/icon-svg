@@ -1,0 +1,45 @@
+{
+  "collection_id": 1197,
+  "schema_version": 1,
+  "id": 1424,
+  "title": "Emqx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "emqx",
+    "mqtt-server",
+    "iot-broker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 963,
+      "collection": "Dashboard Icons",
+      "file": "emqx.svg",
+      "id": 2559,
+      "is_default": true,
+      "label": "emqx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emqx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b67204f98adbdb63fd48da693fda8fd265e9bf5a47a1b3b193771b747f2f6a3"
+      },
+      "sha256": "fdfb321d2a61d8537169cb337e90aa0d8d2d683ec4950462b899f3e379d55a98",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emqx.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

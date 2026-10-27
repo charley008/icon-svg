@@ -1,0 +1,40 @@
+{
+  "collection_id": 2612,
+  "schema_version": 1,
+  "id": 2839,
+  "title": "Shp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3852,
+      "collection": "Dashboard Icons",
+      "file": "shp.svg",
+      "id": 4449,
+      "is_default": true,
+      "label": "shp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f785c36a9c59b9d3164d266d1013ea0cb3c3699b8ee11fb28b21f15b6842fa6"
+      },
+      "sha256": "4715c288bddbffdee77460161e040056f081c52f5b9277c279e2c95af678a714",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

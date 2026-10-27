@@ -1,0 +1,40 @@
+{
+  "collection_id": 2500,
+  "schema_version": 1,
+  "id": 2727,
+  "title": "Restreamer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "restreamer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 593,
+      "collection": "Dashboard Icons",
+      "file": "restreamer.svg",
+      "id": 4301,
+      "is_default": true,
+      "label": "restreamer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "restreamer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5542e974129600d5e6ca48e8cfe6628879dd539f778276a1dafa7a42fda25527"
+      },
+      "sha256": "12c2819de38d14d87b1f93b2fa458caeaacf115f3ee36628e0abc22a459e6d1f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/restreamer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

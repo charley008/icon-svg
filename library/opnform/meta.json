@@ -1,0 +1,45 @@
+{
+  "collection_id": 2054,
+  "schema_version": 1,
+  "id": 2281,
+  "title": "Opnform",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "opnform",
+    "online-form-creator",
+    "survey-builder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 671,
+      "collection": "Dashboard Icons",
+      "file": "opnform.svg",
+      "id": 3702,
+      "is_default": true,
+      "label": "opnform",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opnform.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da3abd3ba2a321786c4c47a704ef467e99166874047e398471ab1c0015056741"
+      },
+      "sha256": "4b62cb216b039f3cc038391704d0fc4df61be132aa1d4a2c978d699302755560",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opnform.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

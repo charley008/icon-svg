@@ -1,0 +1,40 @@
+{
+  "collection_id": 1791,
+  "schema_version": 1,
+  "id": 2018,
+  "title": "Maybe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "maybe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1409,
+      "collection": "Dashboard Icons",
+      "file": "maybe.svg",
+      "id": 3330,
+      "is_default": true,
+      "label": "maybe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "maybe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d5595bb72b7c2cd1d25aad416b543ee77d329c2317b389406efadff3295cf071"
+      },
+      "sha256": "939546fe01d47e15974d87c442aef2d3ebf3e7a7f8dee81318871b83b7fc163b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/maybe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

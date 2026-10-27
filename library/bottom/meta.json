@@ -1,0 +1,61 @@
+{
+  "collection_id": 897,
+  "schema_version": 1,
+  "id": 1124,
+  "title": "Bottom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "bottom",
+    "btm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15456,
+      "collection": "Dashboard Icons",
+      "file": "bottom.svg",
+      "id": 2159,
+      "is_default": true,
+      "label": "bottom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bottom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "745fd7162fbf7a9614ef95ed32965a4b8f09fb5056d32f5fe4208d3cea142e7a"
+      },
+      "sha256": "4b38f063f33fe9f2829163285a051913ea25dddaf670adacccd02509f9a70a16",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bottom.svg",
+      "version": 0
+    },
+    {
+      "bytes": 15449,
+      "collection": "Dashboard Icons",
+      "file": "bottom-1.svg",
+      "id": 2160,
+      "is_default": false,
+      "label": "bottom-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bottom-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "450a930198161efd2ed34ab1dc14b947ac3f1582868de249b34bffc21ec60c2c"
+      },
+      "sha256": "d7a162500ea1b44e4a0a7b1884babae31f9d9ab09d67eae890c69c2838b12afc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bottom-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

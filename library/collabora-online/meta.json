@@ -1,0 +1,40 @@
+{
+  "collection_id": 1004,
+  "schema_version": 1,
+  "id": 1231,
+  "title": "Collabora Online",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "collabora-online"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5432,
+      "collection": "Dashboard Icons",
+      "file": "collabora-online.svg",
+      "id": 2300,
+      "is_default": true,
+      "label": "collabora-online",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "collabora-online.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb619f40d742a23a3d521e7206884a61afe7eb6ce154615dcf13fcc0313e38cf"
+      },
+      "sha256": "37e30c8f886540dad63cbc7f4920bc531f5847078c6f253aefc38bc82ecf9826",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/collabora-online.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

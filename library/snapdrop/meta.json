@@ -1,0 +1,40 @@
+{
+  "collection_id": 2638,
+  "schema_version": 1,
+  "id": 2865,
+  "title": "Snapdrop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "snapdrop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1115,
+      "collection": "Dashboard Icons",
+      "file": "snapdrop.svg",
+      "id": 4481,
+      "is_default": true,
+      "label": "snapdrop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snapdrop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da8cebd943a4651c6ecf190cf44b60b9890b3c30e645cb926a81b5d2aa40eb4a"
+      },
+      "sha256": "b7a162678aab04d87f21025abbb9dcc5bd68c7f7f864c02b5554e1c27b2e238c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snapdrop.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

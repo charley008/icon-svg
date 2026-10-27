@@ -1,4 +1,7 @@
 {
+  "collection_id": 612,
+  "schema_version": 1,
+  "id": 837,
   "title": "SABnzbd",
   "url": "https://sabnzbd.org/",
   "domains": [
@@ -19,23 +22,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "sabnzbd.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "1253fd62e310f2c7c436002a7864b8135654a20d36b2177e3900542fcf8497b0",
       "bytes": 921,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sabnzbd.svg",
+      "collection": "Dashboard Icons",
+      "file": "sabnzbd.svg",
+      "id": 1794,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "sabnzbd.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "1253fd62e310f2c7c436002a7864b8135654a20d36b2177e3900542fcf8497b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sabnzbd.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1010,
+      "collection": "Dashboard Icons",
+      "file": "sabnzbd-1.svg",
+      "id": 4356,
+      "is_default": false,
+      "label": "sabnzbd-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sabnzbd-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8008b47962e29ac20e61852a4ed7515ce03b64f4b71aa685e0d0562a89c67534"
+      },
+      "sha256": "70d56aca189079a14fdbd340fcdb503ddeff47c577e5663399568e6edae42de0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sabnzbd-light.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

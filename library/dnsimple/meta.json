@@ -1,0 +1,40 @@
+{
+  "collection_id": 1119,
+  "schema_version": 1,
+  "id": 1346,
+  "title": "Dnsimple",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dnsimple"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "dnsimple.svg",
+      "id": 2456,
+      "is_default": true,
+      "label": "dnsimple",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dnsimple.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b496d36d21c828953b161557119ecc3d108be76502ba46254799da7a4ff6bfd2"
+      },
+      "sha256": "55a31d966bdeae5322538bd5f77bb5b01777de0e9e553307de37517706034452",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dnsimple.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 2116,
+  "schema_version": 1,
+  "id": 2343,
+  "title": "Peertube",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "Media-Servers",
+    "Social-Media",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "peertube",
+    "Video Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 344,
+      "collection": "Dashboard Icons",
+      "file": "peertube.svg",
+      "id": 3788,
+      "is_default": true,
+      "label": "peertube",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peertube.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f7b7d1b1d91b66144651247c398822be82d08b6f7ff0b909bedeb19fd567345c"
+      },
+      "sha256": "93c268849ffc139ea1f83549975977b1aad11a51dbf39d917df386287da0398b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peertube.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

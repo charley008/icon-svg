@@ -1,0 +1,45 @@
+{
+  "collection_id": 3234,
+  "schema_version": 1,
+  "id": 3497,
+  "title": "Socket.io",
+  "url": "https://socket.io",
+  "domains": [
+    "socket.io"
+  ],
+  "description": "用于应用实时双向通信的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Socket.io",
+    "socketio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1346,
+      "collection": "TechIcons / Devicon",
+      "file": "socketio-1.svg",
+      "id": 5360,
+      "is_default": true,
+      "label": "TechIcons · Socket.io",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Socket.io.svg",
+        "original_sha256": "8eb3ff7176fc26c34c8e3c6887d71717193ff0ae4529de9419ce628413bfb6fb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/socketio",
+        "reference_website": "https://socket.io"
+      },
+      "sha256": "4a973d41aae5bca23976d82a05319204ca7d3ea29ecd05506dec45339b7e65ee",
+      "source": "https://techicons.dev/icons/socketio",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

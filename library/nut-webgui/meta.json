@@ -1,0 +1,41 @@
+{
+  "collection_id": 1973,
+  "schema_version": 1,
+  "id": 2200,
+  "title": "Nut Webgui",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "nut-webgui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1316,
+      "collection": "Dashboard Icons",
+      "file": "nut-webgui.svg",
+      "id": 3581,
+      "is_default": true,
+      "label": "nut-webgui",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nut-webgui.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d8020f1694002a1cc36d2bb589ad3d14b9d8aad35bc38f94680bb6f37003589"
+      },
+      "sha256": "ec6eb8539e3720b5058c6b2c67afa38d61028642461c59c7c4fe0ef8de3183de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nut-webgui.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

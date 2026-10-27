@@ -1,0 +1,63 @@
+{
+  "collection_id": 2541,
+  "schema_version": 1,
+  "id": 2768,
+  "title": "Ryot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "ryot",
+    "mastodon-app",
+    "federated-social-client"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2341,
+      "collection": "Dashboard Icons",
+      "file": "ryot.svg",
+      "id": 4354,
+      "is_default": true,
+      "label": "ryot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ryot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "388cfde4bacf05dc7c3f2b924138847493bc104bf7c60f332ecd70f0e781b84d"
+      },
+      "sha256": "cfea29693376b414b7b624c54d368bca1dd1ea1a713aab8aa51b9d660710672c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ryot.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2353,
+      "collection": "Dashboard Icons",
+      "file": "ryot-1.svg",
+      "id": 4355,
+      "is_default": false,
+      "label": "ryot-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ryot-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de9d76e3475787a74b92988e4a469d47f4cb6b21f11774476f21acad48b821a0"
+      },
+      "sha256": "c6e4897e7049fed3f6f17962f5ffa4390445f02f2d068bd41db310e6d63d0f6a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ryot-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

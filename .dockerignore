@@ -2,6 +2,8 @@
 data
 bin
 dist
+.local-tests
+.playwright-cli
 *.exe
 .env
 *_test.go

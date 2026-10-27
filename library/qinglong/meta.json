@@ -1,0 +1,44 @@
+{
+  "collection_id": 2430,
+  "schema_version": 1,
+  "id": 2657,
+  "title": "Qinglong",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Developer-Tools",
+    "系统工具"
+  ],
+  "aliases": [
+    "qinglong",
+    "Automation Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 48302,
+      "collection": "Dashboard Icons",
+      "file": "qinglong.svg",
+      "id": 4220,
+      "is_default": true,
+      "label": "qinglong",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qinglong.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0492b529ae4e13e39eb3075c106486a249075d9edb0afce027b537ae1eb20b9c"
+      },
+      "sha256": "b16bc99f2f6f77b1e0fa9901a2c27755830a9af55a336188b5aed2e7f2e939a5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qinglong.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

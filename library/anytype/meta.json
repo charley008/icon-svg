@@ -1,0 +1,40 @@
+{
+  "collection_id": 716,
+  "schema_version": 1,
+  "id": 943,
+  "title": "Anytype",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "anytype"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6604,
+      "collection": "Dashboard Icons",
+      "file": "anytype.svg",
+      "id": 1921,
+      "is_default": true,
+      "label": "anytype",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anytype.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1e9d205a7f7d3546aacd74091728038f8fd5ef0c0f5ee24a7c73430b94de419"
+      },
+      "sha256": "2ad38eacd99af79ff6381e7ec8f46ee95bb1c31973adba854333d8cd17ee7d9e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anytype.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

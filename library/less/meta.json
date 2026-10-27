@@ -1,0 +1,45 @@
+{
+  "collection_id": 3164,
+  "schema_version": 1,
+  "id": 3421,
+  "title": "Less.js",
+  "url": "https://lesscss.org",
+  "domains": [
+    "lesscss.org"
+  ],
+  "description": "可扩展 CSS 语法的样式语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Less.js",
+    "less"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3536,
+      "collection": "TechIcons / Devicon",
+      "file": "less-1.svg",
+      "id": 5249,
+      "is_default": true,
+      "label": "TechIcons · Less.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Less.js.svg",
+        "original_sha256": "14fd319b395784cfee0a719f1ea6f302793439ae66432c8e411d60d327f9e9bd",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/less",
+        "reference_website": "https://lesscss.org"
+      },
+      "sha256": "affc73c9c3e36ccea77346b91ceaca2be915c0798ff8c8db8b4716d2a09c1c78",
+      "source": "https://techicons.dev/icons/less",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

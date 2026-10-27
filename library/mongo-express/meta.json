@@ -1,0 +1,40 @@
+{
+  "collection_id": 1851,
+  "schema_version": 1,
+  "id": 2078,
+  "title": "Mongo Express",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mongo-express"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1776,
+      "collection": "Dashboard Icons",
+      "file": "mongo-express.svg",
+      "id": 3421,
+      "is_default": true,
+      "label": "mongo-express",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mongo-express.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "59e60badf63de642a502c06df5479d9ad60a920c4b480629d81a10edd8074d38"
+      },
+      "sha256": "ecc8c9dcf16076d5331b6d740145b5a200a210141da3760c8129485b5b66319e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mongo-express.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

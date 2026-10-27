@@ -1,0 +1,44 @@
+{
+  "collection_id": 951,
+  "schema_version": 1,
+  "id": 1178,
+  "title": "Channels Dvr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Home-Automation"
+  ],
+  "aliases": [
+    "channels-dvr",
+    "digital-video-recorder",
+    "tv-recording"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1694,
+      "collection": "Dashboard Icons",
+      "file": "channels-dvr.svg",
+      "id": 2229,
+      "is_default": true,
+      "label": "channels-dvr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "channels-dvr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "79915c244d8351da29dd9f01738734d47ac9ba4cece109582c0a091ffbcb464f"
+      },
+      "sha256": "37a4aff1eeb789aaa66be21a966ccf528d9cd59017263b968205a20e69406880",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/channels-dvr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

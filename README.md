@@ -8,17 +8,21 @@
 - 图标版本预览、默认版本、收藏、SVG / PNG 下载和批量打包。
 - 后台维护合集、产品、分类、标签、上传、回收站及默认图标。
 - 设置按需展示素材库管理、数据库备份、账号安全、分类管理和操作日志。
+- 素材库 ZIP 导入/导出：追加去重、保留默认图标、导入后立即生效，无需重新拉取镜像。
+- 页面底部显示程序版本，右上角提供项目 GitHub 链接。
 - 前后台深色/浅色模式，英文在前、中文按拼音排序。
 
 ## 初始数据
 
-当前 library 包含 **641 个合集、227 个产品、1824 个 SVG、23 个分类**，保留当前已上架内容、默认版本、分类、标签和版本序号。
+1.0.3 的 library 包含 **2723 个合集、425 个产品、5132 个 SVG、23 个分类**（含回收站记录），保留当前已上架内容、默认版本、分类、标签和版本序号。
+
+同一品牌的文字、深浅色等图形合并为版本；相关服务归入品牌下的产品。合并后的旧详情链接会永久跳转，原默认版本及素材 ID 保留。
 
 启动时扫描文件库并重建内存索引，之后默认每 5 分钟扫描一次；设置中也可手动刷新。后台修改直接更新素材文件和索引。全新安装的操作日志、下载次数和会话为空，管理员账号独立生成；仓库不包含数据库或凭据。
 
 ## Windows
 
-当前分支为尚未发布的文件素材库版本，可按下文从源码编译。后续下载对应版本的 [Release 完整 ZIP](https://github.com/charley008/icon-svg/releases)，完整解压到可写目录后双击 `icon-svg.exe`。无需安装 Go、Python、Node.js；请保留 `library` 和 `web`，EXE 不包含这些文件。
+可按下文从源码编译 1.0.3，或下载已经发布的对应版本的 [Release 完整 ZIP](https://github.com/charley008/icon-svg/releases)，完整解压到可写目录后双击 `icon-svg.exe`。无需安装 Go、Python、Node.js；请保留 `library` 和 `web`，EXE 不包含这些文件。
 
 ```text
 icon-svg/
@@ -281,3 +285,54 @@ library 是受信任管理员维护的素材目录，请勿让不可信本机用
 收录的图标、Logo 和商标归各自权利人所有，不因项目代码采用 MIT 而改变其授权范围。素材来源及许可见各 `meta.json` 和 [library/licenses](library/licenses/README.md)。
 
 如有图标涉及侵权，请联系[项目维护者](https://github.com/charley008)，我们会及时核实并删除。
+
+## 1.0.3：素材迁移与补全
+
+后台 → 设置 → 素材库管理 → 导入与导出：
+
+- **导出完整素材库**：包含 `library/<合集>/meta.json`、SVG、分类和许可文件；包含未上架及回收站素材，不包含账号、会话、密码和数据库。
+- **导出已上架素材**：只包含当前可公开使用的素材，同样可以导入。
+- **导入素材库**：选择本项目导出的 ZIP（最大 64 MB，解压总大小最大 256 MB）。支持带 `library/` 前缀或直接以合集目录开头的结构。先校验再写入，拒绝无效 SVG、目录穿越、符号链接、重复路径和数据库文件。
+- 按合集和产品标识追加；相同内容或相同 HTTPS 来源跳过，文件名冲突时分配新版本；保留目标库已有资料、默认版本、ID、上下架及回收站状态。勾选“补全其他分类”时，仅把空分类或“其他”补成素材包提供的具体分类，已有具体分类保持不变。新导入的 ID 自动分配，避免与其他安装冲突。
+- 许可文件一同保存；同名但内容不同的许可文件保留为带内容哈希后缀的副本。导入成功后刷新索引和新增预览，重启后仍然保留。导入属于合并追加，不是删除后完整还原；账号与数据库备份仍在单独的“数据管理”中。
+
+Docker 继续挂载 `./library:/app/library` 和 `./data:/app/data`。首次升级程序到 1.0.3 后，后续仅添加素材可直接导入 ZIP，不需要再拉取镜像。已有非空素材目录不会被镜像内置素材覆盖，可下载对应 Release 的 `icon-svg-1.0.3-materials.zip`，通过导入补全。本地生成的素材包位于 `dist/icon-svg-1.0.3-materials.zip`。
+
+本次核对 Dashboard Icons 上游完整 SVG 清单，新增 3212 个文件，跳过 304 个已有来源和 84 个重复内容；99 个非矢量、无效文件或不支持的内容未导入。原有默认图标保持不变。React 使用 `react` 合集并提供 `reactjs`、`react.js` 别名；操作系统放在“系统工具”，框架放在“开发编程”。详细来源、目标路径和排除原因见 [导入报告](docs/dashboard-icons-import.json)。
+
+维护者可在本地完整 upstream checkout 上重跑：
+
+```powershell
+python .github/scripts/sync-dashboard-icons.py D:\path\to\dashboard-icons --report D:\path\to\import-report.json
+```
+
+脚本按来源、精确名称/别名和文件 SHA256 去重，不覆盖现有文件或默认图标。新增图形仅清除编辑器元数据、无用远程字体和非显示脚本；保留矢量几何与颜色。提交前必须通过 `go test ./...` 中的完整 SVG 校验。
+
+## 分类整理与 Debian 检索说明
+
+1.0.3 已将原“其他”中的 **1796 个条目**按用途归入现有 23 个分类，“其他”从 **1799 项降至 3 项**。余下 Gostiklogo、Iba、Quest 的原始元数据缺少明确用途，暂保留待核对。分类没有修改 SVG、默认版本、ID、上下架状态或其他资料。完整前后统计和逐条依据见 [分类报告](docs/library-classification-report.json)。
+
+规则结合 Dashboard Icons 的 `metadata.json`、旧版 `meta/` 分类、明确的产品用途和同产品变体；大小写、横线及 wordmark/light/dark 等形式会统一识别。以后同步素材也使用同一套规则。需要复跑时：
+
+```powershell
+python .github/scripts/classify-library.py --upstream D:\path\to\dashboard-icons --report D:\path\to\classification-preview.json
+python .github/scripts/classify-library.py --upstream D:\path\to\dashboard-icons --report D:\path\to\classification-report.json --apply --backup D:\path\to\metadata-backup
+```
+
+已有实例导入本次素材包时，可以勾选“用素材包补全已有条目的其他分类”。即使图标被判定为重复而跳过，空分类/“其他”仍会补全；你已设置的具体分类、默认图标和其他资料不变。
+
+Debian 官方标志由提交 `6c0dcafe67216a0be01390e8c7a02070c37d54cf` 添加，仍是 `library/debian/debian.svg` 中的默认版本，可搜索 `debian`、`Debian GNU/Linux` 或 `蝶变`。该提交晚于 `v1.0.2` 标签，不能仅凭版本号推断部署实例已包含这次素材变更。程序版本、GitHub 源码和实例挂载的 library 内容各自独立；访问线上域名时看到的是线上实例。
+
+## 2026-10-27 用户提供的操作系统 SVG
+
+追加 11 个备选版本：Red Hat 2 个、Linux 2 个、Debian 7 个，均位于“系统工具”。三个合集原有默认图标不变，文件名按各合集现有序号继续分配；保留原始文件名和 SHA256 来源记录。Linux 单色 SVG 移除了外部 DOCTYPE 声明，一份 Debian 发行版图标移除了非显示的 Inkscape 元数据，图形、颜色、渐变、比例不变。其余 9 个 SVG 保留原始字节。
+
+本地素材总数为 5048。新增素材专项包为 `dist/icon-svg-os-additions-20261027.zip`（包含这三个合集的完整元数据和全部版本，便于安全合并），完整素材包仍为 `dist/icon-svg-1.0.3-materials.zip`。版本说明和文件映射见 [添加记录](docs/user-os-assets-20261027.json)。
+
+## 1.0.3 页面与 Copilot 整理
+
+前后台共用同一个页脚，统一显示 logo、项目名、版本与许可链接；内容较少时页脚位于窗口底部，内容较长时跟随正文，手机端自动换行。已移除顶部“为你的下一个项目，找个好图标”和底部“每一个小图标，都值得好好挑选。”两句文案。
+
+Microsoft Copilot 统一位于 Microsoft 合集的 `copilot` 产品下，保留原默认图标及 ID 361，Dashboard Icons 版本作为第 6 个备选，原素材 ID 3379 保留。独立的 `microsoft-copilot` 合集已合并移出素材目录，旧详情 `/detail/2048` 永久跳转至 `/detail/361`。合并记录见 [Copilot 整理报告](docs/copilot-merge-20261027.json)。同步脚本优先匹配已有的“合集-产品”完整标识。
+
+维护者可在分组的 `redirect_from` 数组记录本实例退役的详情 ID；这些 ID 会参与冲突检查和新 ID 分配。它们只用于当前实例的旧链接兼容，素材包导入会丢弃外来跳转 ID，避免与目标实例的 ID 冲突。

@@ -1,0 +1,42 @@
+{
+  "collection_id": 992,
+  "schema_version": 1,
+  "id": 1219,
+  "title": "Cloudreve",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "网盘存储"
+  ],
+  "aliases": [
+    "cloudreve"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 132743,
+      "collection": "Dashboard Icons",
+      "file": "cloudreve.svg",
+      "id": 2282,
+      "is_default": true,
+      "label": "cloudreve",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudreve.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16c0de6f7095b9a05a2d4c561d822e894ab15e55235a6691c5a6082e15a51da5"
+      },
+      "sha256": "978a0370b0aa1148155e164f8c2bf083d87438a6cf80b6ac3a43f51ec99913da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudreve.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

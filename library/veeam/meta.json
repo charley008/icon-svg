@@ -1,0 +1,43 @@
+{
+  "collection_id": 2895,
+  "schema_version": 1,
+  "id": 3122,
+  "title": "Veeam",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "veeam",
+    "vm-backup",
+    "data-backup"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 247,
+      "collection": "Dashboard Icons",
+      "file": "veeam.svg",
+      "id": 4806,
+      "is_default": true,
+      "label": "veeam",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "veeam.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "35b365e3c2f14662b1c0c3f26010ea7c6564c848be3e238d3dd9c3721a3829bc"
+      },
+      "sha256": "90e0248d679f03a6eb8fef8bbc8e8627dbec734b7b7ebbc4568710b3f94fa457",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/veeam.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

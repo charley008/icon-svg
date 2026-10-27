@@ -1,0 +1,44 @@
+{
+  "collection_id": 2667,
+  "schema_version": 1,
+  "id": 2894,
+  "title": "Sparkleshare",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Cloud-Computing",
+    "网盘存储"
+  ],
+  "aliases": [
+    "sparkleshare",
+    "File Sync"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2364,
+      "collection": "Dashboard Icons",
+      "file": "sparkleshare.svg",
+      "id": 4519,
+      "is_default": true,
+      "label": "sparkleshare",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sparkleshare.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f79b0e40a4724321173b78692f3dd8486d843526b05a3581923d1bdb2e53e91"
+      },
+      "sha256": "ab8b0ca881ae901b9b29dff3cf50f8f56fef50458b64b610fde2add014463871",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sparkleshare.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1426,
+  "schema_version": 1,
+  "id": 1653,
+  "title": "Gridscale",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gridscale"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1146,
+      "collection": "Dashboard Icons",
+      "file": "gridscale.svg",
+      "id": 2855,
+      "is_default": true,
+      "label": "gridscale",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gridscale.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8f7f0fd0f3cdcd5d707f611abef4ed636ec5768ecd9e8c65623e82659ea04315"
+      },
+      "sha256": "4e1436fe1ba725c28f11ab66b55c315dcf2dabaa06ae3bf965943ee3fe98a170",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gridscale.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1143,
+      "collection": "Dashboard Icons",
+      "file": "gridscale-1.svg",
+      "id": 2856,
+      "is_default": false,
+      "label": "gridscale-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gridscale-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8fce3855d5ecffa951c22e4fce79c8978eaf25a42d99578f5f76673d32141535"
+      },
+      "sha256": "2edf44f7fe2f379133de56530f7fcd46d1d67b89659311228810afed6b6b6acb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gridscale-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

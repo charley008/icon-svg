@@ -1,0 +1,59 @@
+{
+  "collection_id": 907,
+  "schema_version": 1,
+  "id": 1134,
+  "title": "Browserless",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "browserless"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 477,
+      "collection": "Dashboard Icons",
+      "file": "browserless.svg",
+      "id": 2172,
+      "is_default": true,
+      "label": "browserless",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "browserless.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6134469fcdd045e1c05a17cc24f05124d4c7e4a6f08500e4282b5fc60bd26fc5"
+      },
+      "sha256": "17b7f6386e3982122012d4ac98a7bfa200d165f8e3427a3a36a07393cc98e9d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/browserless.svg",
+      "version": 0
+    },
+    {
+      "bytes": 489,
+      "collection": "Dashboard Icons",
+      "file": "browserless-1.svg",
+      "id": 2173,
+      "is_default": false,
+      "label": "browserless-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "browserless-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1213a9c89961580fe948a603d9076a40d0c77c80f0fb9ce29460950a9cc6952f"
+      },
+      "sha256": "2f9883fbe8e58de5ed4b27632db70b274b3ff0f2ba6d0fd436df97a2993b5ec2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/browserless-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

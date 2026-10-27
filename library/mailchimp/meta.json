@@ -1,0 +1,59 @@
+{
+  "collection_id": 1762,
+  "schema_version": 1,
+  "id": 1989,
+  "title": "Mailchimp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mailchimp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3637,
+      "collection": "Dashboard Icons",
+      "file": "mailchimp.svg",
+      "id": 3293,
+      "is_default": true,
+      "label": "mailchimp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailchimp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02d1e97d9e711d80c954e5e24790e776d37d4a63a047a6944c6cde7663ce13d1"
+      },
+      "sha256": "67478ef33bf7ce33d9c0968493c4833a47b91ab2a4cb2a654f8d62d27263dcd6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailchimp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3637,
+      "collection": "Dashboard Icons",
+      "file": "mailchimp-1.svg",
+      "id": 3294,
+      "is_default": false,
+      "label": "mailchimp-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailchimp-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e017daaef99b0c5b6b96242fda2ee8ef7e72216ea58be3e9a8c3ad01690c256"
+      },
+      "sha256": "602171eaa7b7f771f00b2eea6200861cef34b3c4066b5132a65c6f408f73d332",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailchimp-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

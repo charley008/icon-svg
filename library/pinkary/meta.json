@@ -1,0 +1,40 @@
+{
+  "collection_id": 2151,
+  "schema_version": 1,
+  "id": 2378,
+  "title": "Pinkary",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pinkary"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1435,
+      "collection": "Dashboard Icons",
+      "file": "pinkary.svg",
+      "id": 3842,
+      "is_default": true,
+      "label": "pinkary",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinkary.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "780c58f9e6dab9034352095759c49208ed15a6fa5bd85396873a7f7d105f1d10"
+      },
+      "sha256": "143ca942e2172952f62501e3eec2f757553476543da6dd09b168d0faad39bca2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pinkary.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

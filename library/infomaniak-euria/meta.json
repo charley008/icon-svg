@@ -1,0 +1,40 @@
+{
+  "collection_id": 1543,
+  "schema_version": 1,
+  "id": 1770,
+  "title": "Infomaniak Euria",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "infomaniak-euria"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3947,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-euria.svg",
+      "id": 3015,
+      "is_default": true,
+      "label": "infomaniak-euria",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-euria.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "24ec48258c7fbc5df75b0000015e3b690e4c507122587b4064812ab904f3c8cb"
+      },
+      "sha256": "bbe671c1b87641877b6bb475f44a13ae621b8f310607583ea222bbb45c8fa354",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-euria.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

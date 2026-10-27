@@ -1,0 +1,41 @@
+{
+  "collection_id": 2586,
+  "schema_version": 1,
+  "id": 2813,
+  "title": "Series Troxide",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "series-troxide"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3487,
+      "collection": "Dashboard Icons",
+      "file": "series-troxide.svg",
+      "id": 4416,
+      "is_default": true,
+      "label": "series-troxide",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "series-troxide.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48cbe1d6b4e096b6b70d9a78edd27a127f93de4b1b5ea4bd8888d878ddfaa8d5"
+      },
+      "sha256": "a35929ed8dc22e30de2c298996694ee555931f4690ab78c429a9e3352aae4d36",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/series-troxide.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

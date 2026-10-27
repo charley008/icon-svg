@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" fill="none" role="img" class="logo icon-size-9 glyph-only shrink-0" aria-labelledby="logo-46-title" version="1.1" id="svg409">
+  <title id="logo-46-title">Proton Sheets</title>
+  <g id="g615" transform="matrix(1.2857105,0,0,1.2857134,-5.1428649,-5.1428278)">
+    <path d="M 4.00008,8.66666 C 4.00008,6.08933 6.08942,4 8.66674,4 H 27.3334 c 2.5773,0 4.6667,2.08934 4.6667,4.66666 V 27.3333 C 32.0001,29.9106 29.9107,32 27.3334,32 H 8.66674 C 6.08941,32 4.00008,29.9106 4.00008,27.3333 Z" fill="url(#logo-46-a)" id="path390" style="fill:url(#logo-46-a)" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m 12.475,15.6972 c 0.6494,0 1.176,0.5265 1.176,1.176 v 9.968 c 0,0.6495 -0.5266,1.176 -1.176,1.176 -0.6495,0 -1.176,-0.5265 -1.176,-1.176 v -9.968 c 0,-0.6495 0.5265,-1.176 1.176,-1.176 z" fill="#ffffff" id="path392" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m 7.37897,23.3692 c 0,-0.6495 0.52651,-1.176 1.17599,-1.176 H 19.643 c 0.6494,0 1.176,0.5265 1.176,1.176 0,0.6495 -0.5266,1.176 -1.176,1.176 H 8.55496 c -0.64948,0 -1.17599,-0.5265 -1.17599,-1.176 z" fill="#ffffff" id="path394" />
+    <path d="m 18.0001,3.99998 h 7 V 11 h -7 z" fill="#ffffff" fill-opacity="0.5" id="path396" />
+    <path d="m 24.9997,3.99998 h 2.3333 c 2.5773,0 4.6667,2.08934 4.6667,4.66667 V 11 h -7 z" fill="#ffffff" fill-opacity="0.8" id="path398" />
+    <path d="m 24.9997,11 h 7 v 7 h -7 z" fill="#ffffff" fill-opacity="0.5" id="path400" />
+  </g>
+  <defs id="defs407">
+    <radialGradient id="logo-46-a" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(19.815055,-26.439581,26.439581,19.815055,2.06388,37.5918)">
+      <stop stop-color="#1B854C" id="stop402" />
+      <stop offset="1" stop-color="#26DA79" id="stop404" />
+    </radialGradient>
+  </defs>
+  </svg>

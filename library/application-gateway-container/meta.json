@@ -1,0 +1,40 @@
+{
+  "collection_id": 739,
+  "schema_version": 1,
+  "id": 966,
+  "title": "Application Gateway Container",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "application-gateway-container"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3745,
+      "collection": "Dashboard Icons",
+      "file": "application-gateway-container.svg",
+      "id": 1954,
+      "is_default": true,
+      "label": "application-gateway-container",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "application-gateway-container.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "46e64663cfc72ca01d76f777990792feed2b32d8743b407adeea40acb909c887"
+      },
+      "sha256": "99b0a60bf4ee1976b01e3d0dcfab30fee33d2c01d0e922dd7a9f7e9d8dae02e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/application-gateway-container.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -62,8 +62,27 @@
       "source": "https://cdn.worldvectorlogo.com/logos/minecraft.svg",
       "source_page": "https://worldvectorlogo.com/zh/logo/minecraft",
       "version": 1
+    },
+    {
+      "bytes": 89012,
+      "collection": "Dashboard Icons",
+      "file": "minecraft-2.svg",
+      "id": 3388,
+      "is_default": false,
+      "label": "minecraft",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minecraft.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5a8e08843823e780820c21aa9bc8916d7fcf731fd13aca02b3a81435409ce20f"
+      },
+      "sha256": "6c39721ca31a9ed27ed6a7f25dbb4236f2b949357c03fa7d7323923b18306e94",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minecraft.svg",
+      "version": 2
     }
   ],
-  "next_version": 2,
+  "next_version": 3,
   "products": []
 }

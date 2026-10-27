@@ -1,0 +1,40 @@
+{
+  "collection_id": 2897,
+  "schema_version": 1,
+  "id": 3124,
+  "title": "Vera Crypt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vera-crypt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2773,
+      "collection": "Dashboard Icons",
+      "file": "vera-crypt.svg",
+      "id": 4808,
+      "is_default": true,
+      "label": "vera-crypt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vera-crypt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "015840a8da885e795af6c974789e59cdad0c42456b0a7a861ee5224d31bd8c87"
+      },
+      "sha256": "5b6fa76bdeb3ec52f5356730618fe09a8ed6b7fdacdb183d5e4f370c8783d786",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vera-crypt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1299,
+  "schema_version": 1,
+  "id": 1526,
+  "title": "Fluffychat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fluffychat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2795,
+      "collection": "Dashboard Icons",
+      "file": "fluffychat.svg",
+      "id": 2686,
+      "is_default": true,
+      "label": "fluffychat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fluffychat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d349b624def70a5270050532fb29aa6910bb5ec75c76d06310d673e07bcf463"
+      },
+      "sha256": "ec723ff52f76ab43650b7f16a99d19bd60561cbd432d693fd5d6f0028b152205",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fluffychat.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2795,
+      "collection": "Dashboard Icons",
+      "file": "fluffychat-1.svg",
+      "id": 2687,
+      "is_default": false,
+      "label": "fluffychat-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fluffychat-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e1d35f268b6019b2ee703646b8d9d830b8f9f1aefc5ea2b7d2ec73a046116008"
+      },
+      "sha256": "a1c07f94092c59e86e3a6d585141b0ed1407bbb540cc76422f1f40b327ac4cc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fluffychat-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

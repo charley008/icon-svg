@@ -1,0 +1,40 @@
+{
+  "collection_id": 1567,
+  "schema_version": 1,
+  "id": 1794,
+  "title": "Istio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "istio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 275,
+      "collection": "Dashboard Icons",
+      "file": "istio.svg",
+      "id": 3050,
+      "is_default": true,
+      "label": "istio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "istio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e909dc99f35bb5f598829815dee3ccb676a668432afb23feaed49b3e77a8c7f4"
+      },
+      "sha256": "bc40abec268c134055b4a69be5c5001446be36558334178b566e2dea89aafca7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/istio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

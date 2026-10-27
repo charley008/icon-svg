@@ -1,0 +1,40 @@
+{
+  "collection_id": 2731,
+  "schema_version": 1,
+  "id": 2958,
+  "title": "Swingmusic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "swingmusic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1851,
+      "collection": "Dashboard Icons",
+      "file": "swingmusic.svg",
+      "id": 4595,
+      "is_default": true,
+      "label": "swingmusic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "swingmusic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "766d4ea570014c69b22e1fff901999c610e9fb2475e71ecef631f03551728ba7"
+      },
+      "sha256": "e910cfa881c31c5c2eab46a4e7010429916db86533f048f1e61b1fe0f09e7a35",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/swingmusic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

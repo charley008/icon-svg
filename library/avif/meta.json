@@ -1,0 +1,40 @@
+{
+  "collection_id": 786,
+  "schema_version": 1,
+  "id": 1013,
+  "title": "Avif",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "avif"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1203,
+      "collection": "Dashboard Icons",
+      "file": "avif.svg",
+      "id": 2016,
+      "is_default": true,
+      "label": "avif",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "avif.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2ecafd732b915e9d2d2707c77da98fdb167c4ef1daab1a912895f3cdfdf9b892"
+      },
+      "sha256": "f7fc3ba2102f8e9622f70f3c143c3f4b3cf7e620a3571e9e5827899ce39c82a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/avif.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

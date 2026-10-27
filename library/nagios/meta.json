@@ -1,0 +1,40 @@
+{
+  "collection_id": 1887,
+  "schema_version": 1,
+  "id": 2114,
+  "title": "Nagios",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nagios"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1594,
+      "collection": "Dashboard Icons",
+      "file": "nagios.svg",
+      "id": 3466,
+      "is_default": true,
+      "label": "nagios",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nagios.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "75451d473cfb443d99e63e30d309178bfc1345c5dc9fd33d44db1e20cbb977ed"
+      },
+      "sha256": "7d06c731ad25e452c16cb6675818fd59d82279ca4b5094f0fd8ff6108fbb2740",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nagios.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1112,
+  "schema_version": 1,
+  "id": 1339,
+  "title": "Dispatcharr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "dispatcharr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 936,
+      "collection": "Dashboard Icons",
+      "file": "dispatcharr.svg",
+      "id": 2446,
+      "is_default": true,
+      "label": "dispatcharr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dispatcharr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f7445974d129ddc43c3b8761cfa835416b549589c231b4bda50b7a14c1456fc5"
+      },
+      "sha256": "0f067c4682ddc93695ea3013cd95b5e58d1bcb12ec1232b50de76c1a5b225e69",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dispatcharr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

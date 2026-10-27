@@ -1,0 +1,40 @@
+{
+  "collection_id": 1467,
+  "schema_version": 1,
+  "id": 1694,
+  "title": "Herdr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "herdr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2156,
+      "collection": "Dashboard Icons",
+      "file": "herdr.svg",
+      "id": 2921,
+      "is_default": true,
+      "label": "herdr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "herdr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6a21f0159e9a7f8198b262a5c8ff61a5816ba48189dd4e9746f14649b1ab1aab"
+      },
+      "sha256": "647f8b6b3b6c5d0ecfc5029ac653d341ed9ee4c710c2abcbbb3d6b92db72b2ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/herdr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

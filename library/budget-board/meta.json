@@ -1,0 +1,42 @@
+{
+  "collection_id": 911,
+  "schema_version": 1,
+  "id": 1138,
+  "title": "Budget Board",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "budget-board"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1757,
+      "collection": "Dashboard Icons",
+      "file": "budget-board.svg",
+      "id": 2177,
+      "is_default": true,
+      "label": "budget-board",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "budget-board.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "740c9461e8200d6844ed5b4cf5f342f567b74ae8527b090c36baefcceb999f3e"
+      },
+      "sha256": "6655aef3c74a2dbc9e96e20f8c531ddf2ea140abad37d0d0b42fa3e0ccac2034",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/budget-board.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

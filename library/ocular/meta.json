@@ -1,0 +1,40 @@
+{
+  "collection_id": 1987,
+  "schema_version": 1,
+  "id": 2214,
+  "title": "Ocular",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ocular"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 465,
+      "collection": "Dashboard Icons",
+      "file": "ocular.svg",
+      "id": 3599,
+      "is_default": true,
+      "label": "ocular",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ocular.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "868a708e0e66a446ded64d5d8427a4467e59c232a32f11a41c6ae58facefa1bd"
+      },
+      "sha256": "5ba2f55cec9b518e01b98247ee311be8d412fcf5e530bea53270bcaf81b19a41",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ocular.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1554,
+  "schema_version": 1,
+  "id": 1781,
+  "title": "Invidious",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "invidious",
+    "youtube-privacy-frontend",
+    "privacy-youtube"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2786,
+      "collection": "Dashboard Icons",
+      "file": "invidious.svg",
+      "id": 3030,
+      "is_default": true,
+      "label": "invidious",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "invidious.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0bc40ab9bc5c43f39b791fd261e5773eff114ee461c79399e8edc0d68d0969e9"
+      },
+      "sha256": "a487ae14ef66a5d54e988365949179d53b63b209f9ea5c296ba03242e76dbf2f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/invidious.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

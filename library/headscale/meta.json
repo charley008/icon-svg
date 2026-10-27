@@ -1,0 +1,40 @@
+{
+  "collection_id": 1456,
+  "schema_version": 1,
+  "id": 1683,
+  "title": "Headscale",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "headscale"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 905,
+      "collection": "Dashboard Icons",
+      "file": "headscale.svg",
+      "id": 2903,
+      "is_default": true,
+      "label": "headscale",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "headscale.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2ed74a8eeaa6944da4c27d2f5e6e17bfeb925cf971dea30e700b327855f7d737"
+      },
+      "sha256": "504b13d219383eec7d84b9101addd36acc327722aa2e5e539b4d22b1db8da564",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/headscale.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

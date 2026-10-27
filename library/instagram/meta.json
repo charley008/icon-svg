@@ -126,8 +126,27 @@
       "sha256": "b2998a15aad7196c5beed54451cc9ac00ddbf47ccb89cecaaf74ea8656a3c962",
       "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/instagram-wordmark.svg",
       "version": 4
+    },
+    {
+      "bytes": 3334,
+      "collection": "Dashboard Icons",
+      "file": "instagram-5.svg",
+      "id": 3028,
+      "is_default": false,
+      "label": "instagram",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "instagram.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c1ad008f5d7f2abd8f7aa1b7f1c7c87859efb0204aee8f5bc88d12567179550"
+      },
+      "sha256": "cb65fe25b3bfb8fadb14205cc7eaa4eab90e651292be870a01263c75db63c6d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/instagram.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

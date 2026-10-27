@@ -1,11 +1,14 @@
 {
+  "collection_id": 623,
+  "schema_version": 1,
+  "id": 848,
   "title": "Thunderbird",
   "url": "https://www.thunderbird.net/",
   "domains": [
     "www.thunderbird.net"
   ],
   "description": "开源邮件与日历应用。",
-  "category": "办公效率",
+  "category": "社交通讯",
   "tags": [
     "雷鸟",
     "邮件客户端",
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "thunderbird.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "93320abba2cc712c76168bb5efa0350e200f701253de411b670b4a5a9ad94757",
       "bytes": 6141,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thunderbird.svg",
+      "collection": "Dashboard Icons",
+      "file": "thunderbird.svg",
+      "id": 1805,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "thunderbird.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "93320abba2cc712c76168bb5efa0350e200f701253de411b670b4a5a9ad94757",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thunderbird.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,4 +1,7 @@
 {
+  "collection_id": 569,
+  "schema_version": 1,
+  "id": 774,
   "title": "MEGA",
   "url": "https://mega.io/",
   "domains": [
@@ -23,23 +26,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "mega.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "b1eb41ab6f71ad9e44ab627588e595f194620586ad702df9b01e127b3a21c031",
       "bytes": 264,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mega-nz.svg",
+      "collection": "Dashboard Icons",
+      "file": "mega.svg",
+      "id": 1731,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "mega-nz.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "b1eb41ab6f71ad9e44ab627588e595f194620586ad702df9b01e127b3a21c031",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mega-nz.svg",
+      "version": 0
+    },
+    {
+      "bytes": 293,
+      "collection": "Dashboard Icons",
+      "file": "mega-1.svg",
+      "id": 3344,
+      "is_default": false,
+      "label": "mega-nz-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mega-nz-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9e19cb5447aeacc3303b58fff50369d61d2e901fe8f1cf3b5f3f5b79fe312989"
+      },
+      "sha256": "66baa812b001c2bb69c2fa46407edb751709ea76b56c615cae9c173aa15f721b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mega-nz-dark.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

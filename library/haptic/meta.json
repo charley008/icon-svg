@@ -1,0 +1,59 @@
+{
+  "collection_id": 1439,
+  "schema_version": 1,
+  "id": 1666,
+  "title": "Haptic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "haptic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2203,
+      "collection": "Dashboard Icons",
+      "file": "haptic.svg",
+      "id": 2875,
+      "is_default": true,
+      "label": "haptic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haptic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "179fbff49cdea0f9fbd6c02c9976aa6ee037bada3633d7a250daa65e45dc143d"
+      },
+      "sha256": "2594bf5d1c36bae78d7ab5276df2b803467c16e96ee4a9e86864b58f3d44d8ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haptic.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2260,
+      "collection": "Dashboard Icons",
+      "file": "haptic-1.svg",
+      "id": 2876,
+      "is_default": false,
+      "label": "haptic-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haptic-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "23be91fad6897932a519636b2d9fe8529c10357bb6f887745da7a822525bdfd7"
+      },
+      "sha256": "361267cc8ea5b00deb6df9ac50ad3feee89b639029188314cb6f34df29691f3c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haptic-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

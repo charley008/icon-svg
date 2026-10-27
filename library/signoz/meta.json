@@ -1,0 +1,41 @@
+{
+  "collection_id": 2616,
+  "schema_version": 1,
+  "id": 2843,
+  "title": "Signoz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Communication"
+  ],
+  "aliases": [
+    "signoz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4015,
+      "collection": "Dashboard Icons",
+      "file": "signoz.svg",
+      "id": 4453,
+      "is_default": true,
+      "label": "signoz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "signoz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc0a1ace499a08d09398d78dc08d351e0901bd991abb5cdf69ea619ed5a2b525"
+      },
+      "sha256": "159b0bb101a5f30f8ad16321e935c5d64b1b536eeb9bb6fbd2929541bcc3b193",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/signoz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1136,
+  "schema_version": 1,
+  "id": 1363,
+  "title": "Docuseal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docuseal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1814,
+      "collection": "Dashboard Icons",
+      "file": "docuseal.svg",
+      "id": 2476,
+      "is_default": true,
+      "label": "docuseal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docuseal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7a34254195a8b1d44df18abff11ccd673e88055fb5491ac87e2d5ee35b56040c"
+      },
+      "sha256": "ede272eeaab4bedde3bbf873f88009a4f72eb28b7767203f9bd105054fb8a1bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docuseal.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

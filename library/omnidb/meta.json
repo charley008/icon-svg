@@ -1,0 +1,40 @@
+{
+  "collection_id": 2006,
+  "schema_version": 1,
+  "id": 2233,
+  "title": "Omnidb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "omnidb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2829,
+      "collection": "Dashboard Icons",
+      "file": "omnidb.svg",
+      "id": 3630,
+      "is_default": true,
+      "label": "omnidb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "omnidb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b54e450d43d65a2d6bb17df413a3889b726c93c9ea69598f2e6ca8e674bee04f"
+      },
+      "sha256": "ceaf8848e0e0dd8336413fbe6b22e67cbd787dee10ad0c49ece0d131420f2ee1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/omnidb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

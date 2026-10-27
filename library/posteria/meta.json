@@ -1,0 +1,41 @@
+{
+  "collection_id": 2192,
+  "schema_version": 1,
+  "id": 2419,
+  "title": "Posteria",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "posteria"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 656,
+      "collection": "Dashboard Icons",
+      "file": "posteria.svg",
+      "id": 3902,
+      "is_default": true,
+      "label": "posteria",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "posteria.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "58d4f85be4d318faf92db992d9938b3245b9f582ce4b16699a784d6b88452b6c"
+      },
+      "sha256": "1012c42585ff7e7531141a433867b36e13594f6f16e8964f2e2b8f36723817a2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/posteria.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

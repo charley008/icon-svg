@@ -1,0 +1,59 @@
+{
+  "collection_id": 2482,
+  "schema_version": 1,
+  "id": 2709,
+  "title": "Redlib",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "redlib"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 358,
+      "collection": "Dashboard Icons",
+      "file": "redlib.svg",
+      "id": 4279,
+      "is_default": true,
+      "label": "redlib",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "redlib.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0319e4e6ab2141f10ff7a93623f8d2ffdd7eeaf830c991e74d5de5db14cc4c54"
+      },
+      "sha256": "328b81cc775ab0f6d264069bdf722bb0c89887c15963bed79011ee600f6f68a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redlib.svg",
+      "version": 0
+    },
+    {
+      "bytes": 404,
+      "collection": "Dashboard Icons",
+      "file": "redlib-1.svg",
+      "id": 4280,
+      "is_default": false,
+      "label": "redlib-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "redlib-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cfb1338eb6a357348f98c51f4810472ba9eb394b551e148822b8f5c1c78eed5d"
+      },
+      "sha256": "2e1584dcda386eaecd9b6068b64a4b09ec17c996f5b5fd9d733a9f82858abbdf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redlib-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 2808,
+  "schema_version": 1,
+  "id": 3035,
+  "title": "Tinyauth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "tinyauth"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 19287,
+      "collection": "Dashboard Icons",
+      "file": "tinyauth.svg",
+      "id": 4694,
+      "is_default": true,
+      "label": "tinyauth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tinyauth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "47866ddc294246f75bf87a0128ba94f62a213fdae5b08dd5f4f68cb00fb67683"
+      },
+      "sha256": "9e6bac33e730519a4cd6982477bea48865b34400fd6b685563787beb44131641",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tinyauth.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

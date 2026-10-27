@@ -1,0 +1,59 @@
+{
+  "collection_id": 1604,
+  "schema_version": 1,
+  "id": 1831,
+  "title": "Jwt Io",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jwt-io"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1144,
+      "collection": "Dashboard Icons",
+      "file": "jwt-io.svg",
+      "id": 3094,
+      "is_default": true,
+      "label": "jwt-io",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jwt-io.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "effb4c0ab8ac4200f857cd886d7ff4eecde5805d1c97aa11dd0addb1ef39e16c"
+      },
+      "sha256": "750adcdcace1df026ac873317d05ebaf05a8bced2e5f623b337b45205b37ff56",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jwt-io.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1156,
+      "collection": "Dashboard Icons",
+      "file": "jwt-io-1.svg",
+      "id": 3095,
+      "is_default": false,
+      "label": "jwt-io-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jwt-io-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "38fbc05634c822d30f2efb3ea75ba59c5808bd2ed28fded3e4ac1b77887d9aee"
+      },
+      "sha256": "ee47b7850f30fb9a6d316429da014eeffba26f5f248bda544051a7ef410f0949",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jwt-io-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,62 @@
+{
+  "collection_id": 2589,
+  "schema_version": 1,
+  "id": 2816,
+  "title": "Serviio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Home-Automation"
+  ],
+  "aliases": [
+    "serviio",
+    "Media Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 461,
+      "collection": "Dashboard Icons",
+      "file": "serviio.svg",
+      "id": 4420,
+      "is_default": true,
+      "label": "serviio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "serviio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0f9517163a8ef2c7112daf6373466b070fb22200840b34883b23e2e82af5a517"
+      },
+      "sha256": "a7f002d9d4e713701872fd92228fb42f88649a1687fe78ceb2d6405a09fd1e79",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/serviio.svg",
+      "version": 0
+    },
+    {
+      "bytes": 491,
+      "collection": "Dashboard Icons",
+      "file": "serviio-1.svg",
+      "id": 4421,
+      "is_default": false,
+      "label": "serviio-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "serviio-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16c1881da01fdef29637d45477338f93ebd7d322a097628925fc3e7a3b0ade92"
+      },
+      "sha256": "9d219fcef7e49d001c10b48328b01d564ed65fdfd4d56827bf489a4fd2b7f457",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/serviio-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

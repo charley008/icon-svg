@@ -176,6 +176,44 @@
       "next_version": 5
     },
     {
+      "id": 2390,
+      "key": "playstation-plus",
+      "title": "Playstation Plus",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "playstation-plus"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4055,
+          "collection": "Dashboard Icons",
+          "file": "sony-playstation-plus.svg",
+          "id": 3856,
+          "is_default": true,
+          "label": "playstation-plus",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "playstation-plus.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "10fa8d8d87078799b3719a475f6477a6b1ec37ba479bef9ea4bf1efc020f5b22"
+          },
+          "sha256": "3d6120bc5f399fafafa7b9a47bc446d4d0cfc91afa23d16ec1447c831a06067b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/playstation-plus.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 494,
       "key": "ps5",
       "title": "PlayStation 5",

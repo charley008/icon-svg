@@ -1,0 +1,78 @@
+{
+  "collection_id": 873,
+  "schema_version": 1,
+  "id": 1100,
+  "title": "Bitesize",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bitesize"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1514,
+      "collection": "Dashboard Icons",
+      "file": "bitesize.svg",
+      "id": 2125,
+      "is_default": true,
+      "label": "bitesize",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitesize.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "588dc25c280e1221604a1905c796a629e7a5d586aa986e81038a47b190bcc55f"
+      },
+      "sha256": "85651e9d51a8b82fa358d16cd3c9208c9e3251b3fc876b9bb307ce51e484456e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitesize.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1508,
+      "collection": "Dashboard Icons",
+      "file": "bitesize-1.svg",
+      "id": 2126,
+      "is_default": false,
+      "label": "bitesize-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitesize-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f6b72fb81d3ac01aeb67d1e7ae07b714248f5aca26686f94f9baf2c39705b851"
+      },
+      "sha256": "b89e9eda002b3738dd6c7e9a1211c8eeb087518d88b9b59b0ee79d79409a13dd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitesize-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1508,
+      "collection": "Dashboard Icons",
+      "file": "bitesize-2.svg",
+      "id": 2127,
+      "is_default": false,
+      "label": "bitesize-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitesize-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae6b76849e93bca5173f0ee99846691cd8e09fc627b206e291c7b606aa03e42b"
+      },
+      "sha256": "00cb5ccd3621b6167339d97a787b5d3054e03481d4c909dd5e27b27832464ae9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitesize-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

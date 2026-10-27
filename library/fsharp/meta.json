@@ -1,0 +1,46 @@
+{
+  "collection_id": 3127,
+  "schema_version": 1,
+  "id": 3369,
+  "title": "FSharp (F#)",
+  "url": "https://fsharp.org",
+  "domains": [
+    "fsharp.org"
+  ],
+  "description": "FSharp (F#) 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "FSharp (F#)",
+    "fsharp",
+    "FSharp-(F#)"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 391,
+      "collection": "TechIcons / Devicon",
+      "file": "fsharp-1.svg",
+      "id": 5165,
+      "is_default": true,
+      "label": "TechIcons · FSharp (F#)",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "FSharp-(F#).svg",
+        "original_sha256": "6f8c85bc52968197c490032b60029f2298045573a7bb2207f856cd8beb438526",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/fsharp",
+        "reference_website": "https://fsharp.org"
+      },
+      "sha256": "cecedc537086ebf04d7286cedf6a9ead8aabc08da9198d91a65a3fd772fdbbd6",
+      "source": "https://techicons.dev/icons/fsharp",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

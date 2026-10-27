@@ -45,8 +45,27 @@
       "source": "https://cdn.worldvectorlogo.com/logos/hp-hewlett-packard.svg",
       "source_page": "https://worldvectorlogo.com/zh/logo/hp-hewlett-packard",
       "version": 0
+    },
+    {
+      "bytes": 684,
+      "collection": "Dashboard Icons",
+      "file": "hp-1.svg",
+      "id": 2957,
+      "is_default": false,
+      "label": "hp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78609cdf37821a3df16eb2de023fb9c5d4dbb38eaeb7df8e78628167dd74a4ae"
+      },
+      "sha256": "80466dbb2269d6e231025d6bf6c85ab9d93a3d9dd9f85426871658fd43ffbbd4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hp.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

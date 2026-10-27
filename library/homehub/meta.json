@@ -1,0 +1,40 @@
+{
+  "collection_id": 1488,
+  "schema_version": 1,
+  "id": 1715,
+  "title": "Homehub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "homehub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1432,
+      "collection": "Dashboard Icons",
+      "file": "homehub.svg",
+      "id": 2949,
+      "is_default": true,
+      "label": "homehub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homehub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "29dda2d727747c27b35e56aadf0a0d0bf46766575e8f0624880db299ef2fb2d0"
+      },
+      "sha256": "0874c5ed2c19cf3070f4b51f7f5e8fdd0bbda1b2a3df0a079a5b378447c601f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homehub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

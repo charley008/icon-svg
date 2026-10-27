@@ -1,0 +1,41 @@
+{
+  "collection_id": 1540,
+  "schema_version": 1,
+  "id": 1767,
+  "title": "Infisical",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "infisical"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3730,
+      "collection": "Dashboard Icons",
+      "file": "infisical.svg",
+      "id": 3012,
+      "is_default": true,
+      "label": "infisical",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infisical.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "84529af34ee456363f6351e832988f37e9c94d82a98fa0b364111ef591068cd6"
+      },
+      "sha256": "4c43a416eed80b0013ee61bb56c01dcf63d3a1799079a9286d4c24ebaba185dc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infisical.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

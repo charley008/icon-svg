@@ -1,0 +1,60 @@
+{
+  "collection_id": 2681,
+  "schema_version": 1,
+  "id": 2908,
+  "title": "Sqlite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sqlite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9021,
+      "collection": "Dashboard Icons",
+      "file": "sqlite.svg",
+      "id": 4535,
+      "is_default": true,
+      "label": "sqlite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sqlite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "28f714388cc5ba032d2d6fb208681b11a4438633719edb498ed2d507b3ba326d"
+      },
+      "sha256": "45f11e98599d9e67ef17ee5c8304ed2b58ee436beb3e3f3e6a47a05ab83ab7df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sqlite.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2466,
+      "collection": "TechIcons / Devicon",
+      "file": "sqlite-1.svg",
+      "id": 5367,
+      "is_default": false,
+      "label": "TechIcons · SQLite",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "SQLite.svg",
+        "original_sha256": "2b91c30887d3602479ba845cc012ef6ae577fba71eb96705a05b12e35d2c5e7e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sqlite",
+        "reference_website": "https://www.sqlite.org/index.html"
+      },
+      "sha256": "e09156b45d5a016ff7b29dc603c9ababd24e6308172b949ba735d02f37006afc",
+      "source": "https://techicons.dev/icons/sqlite",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

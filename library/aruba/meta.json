@@ -1,4 +1,7 @@
 {
+  "collection_id": 500,
+  "schema_version": 1,
+  "id": 668,
   "title": "Aruba",
   "url": "https://www.arubanetworks.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "aruba.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "0a2591016c393581e4fd908da5be3c7e0dff74d2c1a8314aa72603eeda8bb69f",
       "bytes": 397,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aruba.svg",
+      "collection": "Dashboard Icons",
+      "file": "aruba.svg",
+      "id": 1629,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "aruba.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "0a2591016c393581e4fd908da5be3c7e0dff74d2c1a8314aa72603eeda8bb69f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aruba.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

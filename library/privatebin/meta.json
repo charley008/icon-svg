@@ -1,0 +1,40 @@
+{
+  "collection_id": 2215,
+  "schema_version": 1,
+  "id": 2442,
+  "title": "Privatebin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "privatebin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 774,
+      "collection": "Dashboard Icons",
+      "file": "privatebin.svg",
+      "id": 3932,
+      "is_default": true,
+      "label": "privatebin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "privatebin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62784b99734ec548d14153040806df24ba395c5741d8a70e1666cefc12380deb"
+      },
+      "sha256": "00c619c8524600ca4a57c674e6554e58b0ef4b9e8838c10d620d81236c46cb4d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/privatebin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

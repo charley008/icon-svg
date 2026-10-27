@@ -1,0 +1,40 @@
+{
+  "collection_id": 1229,
+  "schema_version": 1,
+  "id": 1456,
+  "title": "Evcc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "evcc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2383,
+      "collection": "Dashboard Icons",
+      "file": "evcc.svg",
+      "id": 2600,
+      "is_default": true,
+      "label": "evcc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evcc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "51f341e588b5547f76c681359bb74e41e777a67d1da33b28a1556b58a9716145"
+      },
+      "sha256": "c5d06e1f547bf4a7a3a11318d46cefe23196771367f09b91df9b700b1c458cc8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/evcc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

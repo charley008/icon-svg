@@ -1,0 +1,43 @@
+{
+  "collection_id": 1657,
+  "schema_version": 1,
+  "id": 1884,
+  "title": "Kontoj",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "kontoj",
+    "Finance Tracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 744,
+      "collection": "Dashboard Icons",
+      "file": "kontoj.svg",
+      "id": 3158,
+      "is_default": true,
+      "label": "kontoj",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kontoj.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b9dfefa07a24540a154ce20fc8c11de7f2a12853b32899322cd38b07c52dbea"
+      },
+      "sha256": "a52e4dd0accfe50edaee16c2c878a4976e578843d4363d75b5eda2577e169f85",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kontoj.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

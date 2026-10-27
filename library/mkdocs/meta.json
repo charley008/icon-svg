@@ -1,0 +1,59 @@
+{
+  "collection_id": 1836,
+  "schema_version": 1,
+  "id": 2063,
+  "title": "Mkdocs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mkdocs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2711,
+      "collection": "Dashboard Icons",
+      "file": "mkdocs.svg",
+      "id": 3402,
+      "is_default": true,
+      "label": "mkdocs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mkdocs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7edc453b886489c3f427c6d9733de46885bf3233b66e38c24321fd70363b746f"
+      },
+      "sha256": "a2c999ceeb6a7ed4b5d29469b90fb4171f9f827d6d0efeb0e29411242dfa2bd2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mkdocs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2765,
+      "collection": "Dashboard Icons",
+      "file": "mkdocs-1.svg",
+      "id": 3403,
+      "is_default": false,
+      "label": "mkdocs-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mkdocs-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d5365f76fe400e39de24da71a82d3fdd1bb538372343eb45ed33c3ec28b2e2f1"
+      },
+      "sha256": "393b42192f1b47378485660e25590a6d393db3607624fb3f2f756db901789268",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mkdocs-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

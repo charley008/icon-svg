@@ -1,0 +1,60 @@
+{
+  "collection_id": 2120,
+  "schema_version": 1,
+  "id": 2347,
+  "title": "Pepperbox Tv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pepperbox-tv",
+    "pepperbox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 99331,
+      "collection": "Dashboard Icons",
+      "file": "pepperbox-tv.svg",
+      "id": 3793,
+      "is_default": true,
+      "label": "pepperbox-tv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pepperbox-tv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c0cbd18452841f38bec4f9d2f7b066f5f44d97221c4360fbadf0f421866743e0"
+      },
+      "sha256": "b3c0896586066fb978e0434d5ccaf378608148d0d4426b180314d34dd2f6781f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pepperbox-tv.svg",
+      "version": 0
+    },
+    {
+      "bytes": 99331,
+      "collection": "Dashboard Icons",
+      "file": "pepperbox-tv-1.svg",
+      "id": 3794,
+      "is_default": false,
+      "label": "pepperbox-tv-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pepperbox-tv-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "759645a1ebf79d2aeadb9c68ec674964373db224d7e192b2c7dd0de690552308"
+      },
+      "sha256": "7904722d43bf32da2b5e62b8fb206f39156b340dcb991927711db16c36f3cfb3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pepperbox-tv-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

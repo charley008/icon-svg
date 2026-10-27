@@ -1,0 +1,45 @@
+{
+  "collection_id": 3146,
+  "schema_version": 1,
+  "id": 3394,
+  "title": "Insomnia",
+  "url": "https://insomnia.rest",
+  "domains": [
+    "insomnia.rest"
+  ],
+  "description": "用于 API 请求调试与开发的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Insomnia",
+    "insomnia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1097,
+      "collection": "TechIcons / Devicon",
+      "file": "insomnia-1.svg",
+      "id": 5211,
+      "is_default": true,
+      "label": "TechIcons · Insomnia",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Insomnia.svg",
+        "original_sha256": "f72832a242263cd2c5543ab3cd44144069241a62da23fc36b19a1ba6aeda48a1",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/insomnia",
+        "reference_website": "https://insomnia.rest"
+      },
+      "sha256": "021aa2b814ef14eae868826d3be883ee730eb31c23ddb4763be4c1735b2b31b5",
+      "source": "https://techicons.dev/icons/insomnia",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

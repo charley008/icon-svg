@@ -1,0 +1,45 @@
+{
+  "collection_id": 2154,
+  "schema_version": 1,
+  "id": 2381,
+  "title": "Pirate Proxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Security",
+    "VPN",
+    "网络工具"
+  ],
+  "aliases": [
+    "pirate-proxy",
+    "Proxy Service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 100316,
+      "collection": "Dashboard Icons",
+      "file": "pirate-proxy.svg",
+      "id": 3846,
+      "is_default": true,
+      "label": "pirate-proxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pirate-proxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3efdc53479bf093c7f5b94b5b0f4e9fa201c4d7dd2beac7fce518129f10d4916"
+      },
+      "sha256": "c67d7fb09c43ddb65e54481f558ec52e9620be252efdc2ea635a3f4dec45254d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pirate-proxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

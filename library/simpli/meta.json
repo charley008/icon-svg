@@ -1,0 +1,40 @@
+{
+  "collection_id": 2625,
+  "schema_version": 1,
+  "id": 2852,
+  "title": "Simpli",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "simpli"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1189,
+      "collection": "Dashboard Icons",
+      "file": "simpli.svg",
+      "id": 4464,
+      "is_default": true,
+      "label": "simpli",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "simpli.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "552a1b45f1844451ab1ccf5bcd07ce82f0a5f7ff9ee1fdb51731f0fe500c7795"
+      },
+      "sha256": "9b1e6ecbe5a34ec99e4eb9d98b93da89b803bec1e5e19ef792fa3b5bfbe52cdb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/simpli.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

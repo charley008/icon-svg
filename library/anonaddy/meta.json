@@ -1,0 +1,44 @@
+{
+  "collection_id": 711,
+  "schema_version": 1,
+  "id": 938,
+  "title": "Anonaddy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Email-Providers",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "anonaddy",
+    "Email Aliases"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2292,
+      "collection": "Dashboard Icons",
+      "file": "anonaddy.svg",
+      "id": 1911,
+      "is_default": true,
+      "label": "anonaddy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anonaddy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c38e02bcb0fcc5dfc42d796ba3711b77c49162504c0b4aa15d95326b23db6502"
+      },
+      "sha256": "1a796d274f2933b1841cca6ccda7f56cadabf4e74eca9be1838463e18999cd20",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anonaddy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

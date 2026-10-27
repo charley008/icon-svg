@@ -1,0 +1,42 @@
+{
+  "collection_id": 710,
+  "schema_version": 1,
+  "id": 937,
+  "title": "Anime Kai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "anime-kai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 54985,
+      "collection": "Dashboard Icons",
+      "file": "anime-kai.svg",
+      "id": 1910,
+      "is_default": true,
+      "label": "anime-kai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anime-kai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f604f368ff2daad01a510f298b2751d8a4cf309d4c3ddc59a353fa0c618c928a"
+      },
+      "sha256": "490cd1f99a520d4fce255ef31eebaf631f963250cf27f4f6df35e41607698e29",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anime-kai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

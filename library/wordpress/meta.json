@@ -1,4 +1,7 @@
 {
+  "collection_id": 637,
+  "schema_version": 1,
+  "id": 863,
   "title": "WordPress",
   "url": "https://wordpress.org/",
   "domains": [
@@ -21,26 +24,48 @@
   "notes": [],
   "icons": [
     {
-      "file": "wordpress.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "49dae7eb6d790fff860990cf5be51bd53c21d1e33e22c7a99f29583ab073b34a",
       "bytes": 1120,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wordpress.svg",
+      "collection": "Dashboard Icons",
+      "file": "wordpress.svg",
+      "id": 1819,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "wordpress.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "49dae7eb6d790fff860990cf5be51bd53c21d1e33e22c7a99f29583ab073b34a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wordpress.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7732,
+      "collection": "TechIcons / Devicon",
+      "file": "wordpress-1.svg",
+      "id": 5405,
+      "is_default": false,
+      "label": "TechIcons · WordPress",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "WordPress.svg",
+        "original_sha256": "42f73bd829bf978a8c4e4ee45d834e8d316e3ecaa2554846f33df67088a5b810",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/wordpress",
+        "reference_website": "https://wordpress.com"
+      },
+      "sha256": "dc3fa37ba1dea2ea78f851940c712e7dc21360a823386ba1be8fd0a326603afd",
+      "source": "https://techicons.dev/icons/wordpress",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": [
     {
+      "id": 864,
+      "key": "woocommerce",
       "title": "WooCommerce",
       "url": "https://woocommerce.com/",
       "domains": [
@@ -64,24 +89,44 @@
       "notes": [],
       "icons": [
         {
-          "file": "wordpress-woocommerce.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "89075f9f1e27d51ff3bda422b1073bad34b145f3a09da419738e288b7d5ec00b",
           "bytes": 1987,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/woocommerce.svg",
+          "collection": "Dashboard Icons",
+          "file": "wordpress-woocommerce.svg",
+          "id": 1820,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "woocommerce.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "89075f9f1e27d51ff3bda422b1073bad34b145f3a09da419738e288b7d5ec00b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/woocommerce.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1057,
+          "collection": "TechIcons / Devicon",
+          "file": "wordpress-woocommerce-1.svg",
+          "id": 5406,
+          "is_default": false,
+          "label": "TechIcons · WooCommerce",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "WooCommerce.svg",
+            "original_sha256": "7770286380dc0d2ce346da5362c9ab86061abaf24e407b764cc57029909e843a",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/woocommerce",
+            "reference_website": "https://woocommerce.com/"
+          },
+          "sha256": "250adbd6b5f0d3acb19384af30b9bf087b73e7f3dd01bc6a6910378c89895a36",
+          "source": "https://techicons.dev/icons/woocommerce",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "woocommerce"
+      "next_version": 2
     }
   ]
 }

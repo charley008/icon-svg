@@ -137,8 +137,27 @@
       "sha256": "9dbe5a1022d23317fa678cd92628ee6872e1df1f7cf114289cd304fa917e8b24",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#messenger-line",
       "version": 4
+    },
+    {
+      "bytes": 1047,
+      "collection": "Dashboard Icons",
+      "file": "messenger-5.svg",
+      "id": 3359,
+      "is_default": false,
+      "label": "facebook-messenger",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "facebook-messenger.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c68c897454c4820c0df82e6097e43293a6d8d858b071ec38fd3553d281dde4c3"
+      },
+      "sha256": "d771005e6289b028444b0265b03973eca00eeb59ae02575c6ba6d9596d1c6f84",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook-messenger.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

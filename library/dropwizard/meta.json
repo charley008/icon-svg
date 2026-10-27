@@ -1,0 +1,45 @@
+{
+  "collection_id": 3114,
+  "schema_version": 1,
+  "id": 3354,
+  "title": "Dropwizard",
+  "url": "https://www.dropwizard.io",
+  "domains": [
+    "dropwizard.io"
+  ],
+  "description": "用于构建 Java 服务的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Dropwizard",
+    "dropwizard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2626,
+      "collection": "TechIcons / Devicon",
+      "file": "dropwizard-1.svg",
+      "id": 5134,
+      "is_default": true,
+      "label": "TechIcons · Dropwizard",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Dropwizard.svg",
+        "original_sha256": "9638a3ad0822a7f835650575bbd0501cdbcabfb84da3681c6f2d4ef9308a5764",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/dropwizard",
+        "reference_website": "https://www.dropwizard.io"
+      },
+      "sha256": "cb12ca3d72c7455ec3dbf7011e9198775a315d67def2f5cfb73228cce6f109ec",
+      "source": "https://techicons.dev/icons/dropwizard",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

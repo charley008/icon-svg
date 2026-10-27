@@ -1,0 +1,45 @@
+{
+  "collection_id": 3190,
+  "schema_version": 1,
+  "id": 3452,
+  "title": "Objective-C",
+  "url": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC",
+  "domains": [
+    "developer.apple.com"
+  ],
+  "description": "Objective-C 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Objective-C",
+    "objectivec"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1989,
+      "collection": "TechIcons / Devicon",
+      "file": "objectivec-1.svg",
+      "id": 5292,
+      "is_default": true,
+      "label": "TechIcons · Objective-C",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Objective-C.svg",
+        "original_sha256": "8ef92e435763fc39f5b66d09d77267383550a22685ceec5ef2783ebb8f3101b6",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/objectivec",
+        "reference_website": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC"
+      },
+      "sha256": "82672da7139a556135ef18610bf4e6e95e8a891d3178af0d32780ead6a0d869d",
+      "source": "https://techicons.dev/icons/objectivec",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

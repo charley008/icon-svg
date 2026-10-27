@@ -44,8 +44,46 @@
       "sha256": "972502b0286ccbbffceeeb3d4e5683854af616970035a2f7c2064bff3da8247a",
       "source": "https://web.gotab.cn/sourceStore/website/01J8HKE7SH8828H3AJHJSH9DBT.svg",
       "version": 0
+    },
+    {
+      "bytes": 2574,
+      "collection": "Dashboard Icons",
+      "file": "leetcode-1.svg",
+      "id": 3190,
+      "is_default": false,
+      "label": "leetcode",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "leetcode.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4200bcb43e6e9f9685ddee0210436c5ae61b4b688c95d215bf7d95969e1bd666"
+      },
+      "sha256": "7e59e511d7d20a9f8fb969d9de87f3aa4930dc63789d742cf4e4f2477c794444",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leetcode.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2571,
+      "collection": "Dashboard Icons",
+      "file": "leetcode-2.svg",
+      "id": 3191,
+      "is_default": false,
+      "label": "leetcode-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "leetcode-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78f82bf650115e2e10ed0b73e845903e3ed0e48b53567133ef1bdf1778b9242e"
+      },
+      "sha256": "8a8ec7b966dfbdc007d3ece283825a3f8c2b8b865787471f2688317ec1488106",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leetcode-dark.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

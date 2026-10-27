@@ -1,0 +1,40 @@
+{
+  "collection_id": 2884,
+  "schema_version": 1,
+  "id": 3111,
+  "title": "Upscayl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "upscayl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4158,
+      "collection": "Dashboard Icons",
+      "file": "upscayl.svg",
+      "id": 4794,
+      "is_default": true,
+      "label": "upscayl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "upscayl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "94cc86290032dc1c3536f0267267bcf21e5bc22eef3b037147582c908f599e6f"
+      },
+      "sha256": "a9c25966cfbdf541c0e7507ace6e036f8d23e5bb8ac4e6ddfa03bbd57905f50d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/upscayl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

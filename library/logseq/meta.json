@@ -1,4 +1,7 @@
 {
+  "collection_id": 564,
+  "schema_version": 1,
+  "id": 769,
   "title": "Logseq",
   "url": "https://logseq.com/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "logseq.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "12f3c8b6b61deb360e3dd52a76b54d38bbcff82c26fa4158686733a1ca7c3c3b",
       "bytes": 733,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logseq.svg",
+      "collection": "Dashboard Icons",
+      "file": "logseq.svg",
+      "id": 1726,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "logseq.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "12f3c8b6b61deb360e3dd52a76b54d38bbcff82c26fa4158686733a1ca7c3c3b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/logseq.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

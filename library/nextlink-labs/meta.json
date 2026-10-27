@@ -1,0 +1,105 @@
+{
+  "collection_id": 1935,
+  "schema_version": 1,
+  "id": 2162,
+  "redirect_from": [
+    2163,
+    2164
+  ],
+  "title": "Nextlink Labs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nextlink-labs",
+    "nextlink-labs-wordmark-light",
+    "Nextlink Labs Wordmark Light",
+    "nextlink-labs-wordmark-dark",
+    "Nextlink Labs Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 877,
+      "collection": "Dashboard Icons",
+      "file": "nextlink-labs.svg",
+      "id": 3530,
+      "is_default": true,
+      "label": "nextlink-labs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextlink-labs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa16d9f85d4d26185ec46f1181d8b3a0e2883760c188cf8432221615258f0e91"
+      },
+      "sha256": "afb2f090679af7a401121701cca0d773bed9f77ecb3e6aa30521b1f030fb224e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextlink-labs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6975,
+      "collection": "Dashboard Icons",
+      "file": "nextlink-labs-1.svg",
+      "id": 3531,
+      "is_default": false,
+      "label": "nextlink-labs-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextlink-labs-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4c28c97db3285dc8925a64643180f260446de970fc00a01583980840ef092695"
+      },
+      "sha256": "04af055db8ff34c13057bd0bf811d61e16233043738076fbc3fd43eb7a2fed25",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextlink-labs-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 7256,
+      "collection": "Dashboard Icons",
+      "file": "nextlink-labs-2.svg",
+      "id": 3533,
+      "is_default": false,
+      "label": "nextlink-labs-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextlink-labs-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb95e38abc457f7c55aa14e1fde1efbba0e9837b52699f17e80e92dd6bdb1e49"
+      },
+      "sha256": "421b12ddf304a6e0eb1c00e49880d010a0ef68a3107ee1f1bb62e157f60ffd16",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextlink-labs-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1130,
+      "collection": "Dashboard Icons",
+      "file": "nextlink-labs-3.svg",
+      "id": 3532,
+      "is_default": false,
+      "label": "nextlink-labs-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextlink-labs-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4eeffe3c64c0ec866f1263c3febca85c4f9064c3734608fda55cb64eb841ddb0"
+      },
+      "sha256": "be8701b130d387d1fc178a71b61b0288840f47c70fcd06fcd6ee60bc6c0353a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextlink-labs-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

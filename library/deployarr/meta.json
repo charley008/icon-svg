@@ -1,0 +1,40 @@
+{
+  "collection_id": 1095,
+  "schema_version": 1,
+  "id": 1322,
+  "title": "Deployarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "deployarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6183,
+      "collection": "Dashboard Icons",
+      "file": "deployarr.svg",
+      "id": 2423,
+      "is_default": true,
+      "label": "deployarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deployarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4640334e731faabcf904e18a1a52ee6adc65f7ea43c81674909aa0eb16a4f2a9"
+      },
+      "sha256": "a8e8ae1a9579eb89362ea9cb71ebc80e4817fd5c4815fc67380e11cfaba19c73",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deployarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3086,
+  "schema_version": 1,
+  "id": 3325,
+  "title": "Bower",
+  "url": "https://bower.io",
+  "domains": [
+    "bower.io"
+  ],
+  "description": "前端项目的软件包管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Bower",
+    "bower"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8991,
+      "collection": "TechIcons / Devicon",
+      "file": "bower-1.svg",
+      "id": 5093,
+      "is_default": true,
+      "label": "TechIcons · Bower",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Bower.svg",
+        "original_sha256": "b7f261d2b666e4aef7b0eea49264f431ce5d2f1cc452b4f1e2f24bc85891272d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/bower",
+        "reference_website": "https://bower.io"
+      },
+      "sha256": "5e65ce6d42722af0ad8117d1f7af095e5499e4f2f5371b64e3fad60782b32109",
+      "source": "https://techicons.dev/icons/bower",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

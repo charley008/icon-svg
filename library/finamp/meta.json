@@ -1,0 +1,44 @@
+{
+  "collection_id": 1270,
+  "schema_version": 1,
+  "id": 1497,
+  "title": "Finamp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "finamp",
+    "finamp-music-player",
+    "android-music-player"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1789,
+      "collection": "Dashboard Icons",
+      "file": "finamp.svg",
+      "id": 2654,
+      "is_default": true,
+      "label": "finamp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "finamp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf545749b805e4f8b2342f437d7c9bfa681dd96a98ffab858d3a9bc5c61252ed"
+      },
+      "sha256": "2d69d505ac3d2037aa6e6c033b242306894bb7667f9c5b5036990f112c5c8bf7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/finamp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

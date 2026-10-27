@@ -1,4 +1,10 @@
 {
+  "collection_id": 577,
+  "schema_version": 1,
+  "id": 795,
+  "redirect_from": [
+    2145
+  ],
   "title": "Nextcloud",
   "url": "https://nextcloud.com/",
   "domains": [
@@ -16,28 +22,614 @@
     "nextcloud",
     "私有云",
     "网盘",
-    "自托管"
+    "自托管",
+    "nextcloud-blue",
+    "Nextcloud Blue",
+    "nextcloud-skin"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "nextcloud.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "892404c0c7c74cb22d6c728e967fcf5cb680f7d343db1cdfef92186d44cce6d3",
       "bytes": 739,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud.svg",
+      "collection": "Dashboard Icons",
+      "file": "nextcloud.svg",
+      "id": 1752,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "nextcloud.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "892404c0c7c74cb22d6c728e967fcf5cb680f7d343db1cdfef92186d44cce6d3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud.svg",
+      "version": 0
+    },
+    {
+      "bytes": 749,
+      "collection": "Dashboard Icons",
+      "file": "nextcloud-1.svg",
+      "id": 3512,
+      "is_default": false,
+      "label": "nextcloud-white",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextcloud-white.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d2423551884aa59b60f663f06e940e8d524c89650f4e6455358528eb956acada"
+      },
+      "sha256": "d98fa82b136fc224f8bd4021efb7696068d622d6866fb1ca4ee0e5b8b7731c4d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-white.svg",
+      "version": 1
+    },
+    {
+      "bytes": 749,
+      "collection": "Dashboard Icons",
+      "file": "nextcloud-2.svg",
+      "id": 3513,
+      "is_default": false,
+      "label": "Nextcloud Blue",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextcloud-blue.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ff15d1cdbbf74c05a35138be41b51dabf0df069e872b35dabc15d8754926018"
+      },
+      "sha256": "d222deeaa9544164b8bd40905c94cb6a73b0247b084d599ef4b8926fb5beaedb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-blue.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "next_version": 3,
+  "products": [
+    {
+      "id": 2146,
+      "key": "calendar",
+      "title": "Nextcloud Calendar",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-calendar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 694,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-calendar.svg",
+          "id": 3514,
+          "is_default": true,
+          "label": "nextcloud-calendar",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-calendar.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cca7803bdf1e54dba7e484083a6b311b688361b054eb9ac107d1386262441be4"
+          },
+          "sha256": "c2de970d767afed0c7b7a1e2abb3f6e2506bd1061cb4848db4c7be59c17d6d01",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-calendar.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2147,
+      "key": "contacts",
+      "title": "Nextcloud Contacts",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-contacts"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1844,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-contacts.svg",
+          "id": 3515,
+          "is_default": true,
+          "label": "nextcloud-contacts",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-contacts.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "dbc77b3a379261e7536d1aac3fd2ef90dc159a5d9a2c47ea05c30307d568830b"
+          },
+          "sha256": "9394710d73561d91d2a164724e1bb518eddc4455d12404d34a9b8cb67fc661b9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-contacts.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2148,
+      "key": "cookbook",
+      "title": "Nextcloud Cookbook",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-cookbook"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1196,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-cookbook.svg",
+          "id": 3516,
+          "is_default": true,
+          "label": "nextcloud-cookbook",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-cookbook.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "f21c80bb265fa6438121352a1717e4713f618995337194cd7611bb55246da54a"
+          },
+          "sha256": "7396547d458eaf5f445f9cf742696febd75afc84520a371feff3c2a3da51c5ba",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-cookbook.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2149,
+      "key": "cospend",
+      "title": "Nextcloud Cospend",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "金融支付",
+      "tags": [
+        "Dashboard Icons",
+        "Finance-\u0026-Banking",
+        "Office-Suites"
+      ],
+      "aliases": [
+        "nextcloud-cospend",
+        "Expense Tracker"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 827,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-cospend.svg",
+          "id": 3517,
+          "is_default": true,
+          "label": "nextcloud-cospend",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-cospend.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a9b3f1a5c1f90876809d9e64f1f171130bf71ee17d566cb91c4584a1ada5581c"
+          },
+          "sha256": "8886dfead1596e6c6fe774d1d4ec68a397d01b49b0815b908ab7b96fd9b71280",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-cospend.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2150,
+      "key": "deck",
+      "title": "Nextcloud Deck",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-deck"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 578,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-deck.svg",
+          "id": 3518,
+          "is_default": true,
+          "label": "nextcloud-deck",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-deck.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4c4cd1a4def53c71966bd675fa8663012a574d8d89fc56d383bb27174c52697c"
+          },
+          "sha256": "b52298481bece3cb53da62e44303bf5c582b81041371607560f31fe3f8ab1876",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-deck.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2151,
+      "key": "files",
+      "title": "Nextcloud Files",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-files"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 387,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-files.svg",
+          "id": 3519,
+          "is_default": true,
+          "label": "nextcloud-files",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-files.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "782eacc377b78a163fbe7637c83bfd90539ffbd66fac44a8e224663aca37c329"
+          },
+          "sha256": "2f763fe707762f284db0222ffdff0998cf3c45ddc0000e9c05ce77448ecfa244",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-files.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2152,
+      "key": "ncdownloader",
+      "title": "Nextcloud Ncdownloader",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-ncdownloader"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 777,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-ncdownloader.svg",
+          "id": 3520,
+          "is_default": true,
+          "label": "nextcloud-ncdownloader",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-ncdownloader.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1839c7ef9324c715da2300d8634d22e1cd54b83d33ae96a7ae3fb7398d735e35"
+          },
+          "sha256": "0cee0743e4b49df0762150674b88e8ee95b7c344d5677a27c50abed6f99d7b94",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-ncdownloader.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2153,
+      "key": "news",
+      "title": "Nextcloud News",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "新闻资讯",
+      "tags": [
+        "Dashboard Icons",
+        "News",
+        "新闻资讯"
+      ],
+      "aliases": [
+        "nextcloud-news",
+        "nextcloud-feed-reader",
+        "feed-aggregator"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 654,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-news.svg",
+          "id": 3521,
+          "is_default": true,
+          "label": "nextcloud-news",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-news.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b712065c14dadd146f7c8cbf1c3500e8883dab96b6a78a77703bc3df58e2256d"
+          },
+          "sha256": "c8e91c6f94dfa006200e0572f2e5391942f397040e027ac3d908e1c0edebbcd5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-news.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2154,
+      "key": "notes",
+      "title": "Nextcloud Notes",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-notes"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 393,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-notes.svg",
+          "id": 3522,
+          "is_default": true,
+          "label": "nextcloud-notes",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-notes.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1a88a995024f5dc59aa8151e4bc811293a1e084645f2fd68f6178b7c3e1e0730"
+          },
+          "sha256": "0d3de2f274138452adfed34d7b93f736c04e24c389c7149be0e20fa2530b7108",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-notes.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2155,
+      "key": "photos",
+      "title": "Nextcloud Photos",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons",
+        "Media-Servers",
+        "File-Sharing-\u0026-Sync",
+        "Office-Suites",
+        "影音娱乐"
+      ],
+      "aliases": [
+        "nextcloud-photos",
+        "Photo Album"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 484,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-photos.svg",
+          "id": 3523,
+          "is_default": true,
+          "label": "nextcloud-photos",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-photos.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c3b9a8e6765da2673089e537910c7255bfbe0350733481884a07085a452ef46f"
+          },
+          "sha256": "733a2134e274f4ca65d73c78f15a1c5b57c3168f013e02eef8678007c8a7c5fb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-photos.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2156,
+      "key": "social",
+      "title": "Nextcloud Social",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-social"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 349,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-social.svg",
+          "id": 3524,
+          "is_default": true,
+          "label": "nextcloud-social",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-social.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cca9fec1e601d944c866159f665252bee88364f36333e9faeab578f781ffd606"
+          },
+          "sha256": "ebbb64c265fa1660364e5c0f04562ed6186eeeea372684c9945dc2e43bac67f0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-social.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2157,
+      "key": "tables",
+      "title": "Nextcloud Tables",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-tables"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 311,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-tables.svg",
+          "id": 3525,
+          "is_default": true,
+          "label": "nextcloud-tables",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-tables.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "509b54e2c9a111684d909f67f22fff12fae8908e50f162b181f5bc367ed8eaf3"
+          },
+          "sha256": "46c05273c3e32738fdb922ea3e2df474e459ba9482d2f0d534ec0ea9b92d42d7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-tables.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2158,
+      "key": "tasks",
+      "title": "Nextcloud Tasks",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-tasks"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 530,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-tasks.svg",
+          "id": 3526,
+          "is_default": true,
+          "label": "nextcloud-tasks",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-tasks.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "782dd06e55723a5e4c1dc8e4d33490368e2029a2c0c4ec7ddf5b822946263cea"
+          },
+          "sha256": "c78bb4d4c6c3609cea8410568084888ce755aac093d65e5ba66a035d1ef4ea41",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-tasks.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2159,
+      "key": "timemanager",
+      "title": "Nextcloud Timemanager",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "nextcloud-timemanager"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 642,
+          "collection": "Dashboard Icons",
+          "file": "nextcloud-timemanager.svg",
+          "id": 3527,
+          "is_default": true,
+          "label": "nextcloud-timemanager",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextcloud-timemanager.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e323971042d4a2a599cf9b615d58bd24e7f1d9fbe3a223e55ed857722756ad1b"
+          },
+          "sha256": "5abe5bf75e45dfd4dc6d38c11e84f6abac4f9b9d47931cf858b17b2550abd737",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextcloud-timemanager.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

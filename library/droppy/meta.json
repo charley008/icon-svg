@@ -1,0 +1,59 @@
+{
+  "collection_id": 1160,
+  "schema_version": 1,
+  "id": 1387,
+  "title": "Droppy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "droppy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 276,
+      "collection": "Dashboard Icons",
+      "file": "droppy.svg",
+      "id": 2507,
+      "is_default": true,
+      "label": "droppy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "droppy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "75c828721744fb73351f9a5756ece82342d917771f16934ec87ecb73506b2df7"
+      },
+      "sha256": "e232f03fb463f32dd22fa9e6afc09265d6bbafa8d68b5f2922c2fe7e9c7e69a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/droppy.svg",
+      "version": 0
+    },
+    {
+      "bytes": 264,
+      "collection": "Dashboard Icons",
+      "file": "droppy-1.svg",
+      "id": 2508,
+      "is_default": false,
+      "label": "droppy-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "droppy-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36185086f7e8ae483b2644d9ff442de8d471491bf6848f0a285254170324dfd3"
+      },
+      "sha256": "ff1849fef82eb09cb37036f168f5f2eb17cfae4be68a84874b77d64da875eabb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/droppy-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1835,
+  "schema_version": 1,
+  "id": 2062,
+  "title": "Mixpost",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mixpost"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 652,
+      "collection": "Dashboard Icons",
+      "file": "mixpost.svg",
+      "id": 3401,
+      "is_default": true,
+      "label": "mixpost",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mixpost.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be4a5273f3befc2e07db334258ccb78fdb5ec50e620a57e4d092c84e79db93d7"
+      },
+      "sha256": "a988a1a2316073f18193f23cd185d76e5d3df6710fe96a139a32ba7e31d1ee5a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mixpost.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

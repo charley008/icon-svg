@@ -1,0 +1,40 @@
+{
+  "collection_id": 1326,
+  "schema_version": 1,
+  "id": 1553,
+  "title": "Freeipa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freeipa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1356,
+      "collection": "Dashboard Icons",
+      "file": "freeipa.svg",
+      "id": 2719,
+      "is_default": true,
+      "label": "freeipa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freeipa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de7f07b077e9a08b3381a6d27e943c1210406756b08391c5c77a2fb0c85478b4"
+      },
+      "sha256": "d64a3c8be43d92fae8b018d368d935847611d9db97c611477b3d274816a770f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freeipa.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,79 @@
+{
+  "collection_id": 3059,
+  "schema_version": 1,
+  "id": 3286,
+  "title": "Zoho",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zoho"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2848,
+      "collection": "Dashboard Icons",
+      "file": "zoho.svg",
+      "id": 5025,
+      "is_default": true,
+      "label": "zoho",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zoho.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9e186df64cc5df7be70671044ed01cfb729b411f9eee33d867fb26d570d149a7"
+      },
+      "sha256": "bea47af0547811aed667457658bb323e2ee77ab89431eaab4717737cd4b3e1f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zoho.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 3287,
+      "key": "desk",
+      "title": "Zoho Desk",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "zoho-desk"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3920,
+          "collection": "Dashboard Icons",
+          "file": "zoho-desk.svg",
+          "id": 5026,
+          "is_default": true,
+          "label": "zoho-desk",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zoho-desk.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1074b879b6ed71b9cca91949ae52bce9438e3cd65f1d53e65b9ab34b992a1b73"
+          },
+          "sha256": "50b29d54ab8bf1427c5311aaf14f73e2158399e8e7550afbb9c0ad618075ecd7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zoho-desk.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

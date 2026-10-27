@@ -151,8 +151,46 @@
       "sha256": "3b858b779ce92ad7c744110acc5da0e9f52f3cc0272ca1df6118b8bb575035ac",
       "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/epic-games/mono.svg",
       "version": 5
+    },
+    {
+      "bytes": 7115,
+      "collection": "Dashboard Icons",
+      "file": "epic-games-6.svg",
+      "id": 2576,
+      "is_default": false,
+      "label": "epic-games",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6c533b9d4156b311fb666d4d056fdb2d8392705d4d2bac58125ef92f33069221"
+      },
+      "sha256": "2c82eabb7b42a97a2474dceb1e62e1396a6d67966dcb99f55061d31b10bad9d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/epic-games.svg",
+      "version": 6
+    },
+    {
+      "bytes": 7172,
+      "collection": "Dashboard Icons",
+      "file": "epic-games-7.svg",
+      "id": 2577,
+      "is_default": false,
+      "label": "epic-games-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "epic-games-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6e6ff5116cc274d7f5bf52da98db8ba1223c77292bcc7db14afa504eb87fd361"
+      },
+      "sha256": "af78858544a69e7ddb4516cfac8040cd17297647f530595198623530774f74ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/epic-games-light.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": []
 }

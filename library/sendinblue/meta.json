@@ -1,0 +1,40 @@
+{
+  "collection_id": 2582,
+  "schema_version": 1,
+  "id": 2809,
+  "title": "Sendinblue",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sendinblue"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2155,
+      "collection": "Dashboard Icons",
+      "file": "sendinblue.svg",
+      "id": 4411,
+      "is_default": true,
+      "label": "sendinblue",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sendinblue.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e9e438fe7f18877a97f61eec196362c4df46db23a7ca5d1dfa08e31ec7a69737"
+      },
+      "sha256": "21c8df976f633fdb08b13280a91b94275a2a569376b05c26226d0d5eeb396e8b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sendinblue.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

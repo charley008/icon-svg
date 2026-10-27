@@ -1,0 +1,45 @@
+{
+  "collection_id": 1491,
+  "schema_version": 1,
+  "id": 1718,
+  "title": "Homer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Server-Panels",
+    "系统工具"
+  ],
+  "aliases": [
+    "homer",
+    "server-dashboard",
+    "application-launcher"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4194,
+      "collection": "Dashboard Icons",
+      "file": "homer.svg",
+      "id": 2952,
+      "is_default": true,
+      "label": "homer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7dd00f25f31490a5eb9145df2ff92be8390a981c01541d26bb6693848205d215"
+      },
+      "sha256": "033661e7faba152631f323d8573274a5b5ee4a1d2f7c1df1f6e9570e34b4bb9f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

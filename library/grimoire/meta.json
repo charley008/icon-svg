@@ -1,0 +1,44 @@
+{
+  "collection_id": 1427,
+  "schema_version": 1,
+  "id": 1654,
+  "title": "Grimoire",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "办公效率"
+  ],
+  "aliases": [
+    "grimoire",
+    "wiki-software",
+    "knowledge-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 203409,
+      "collection": "Dashboard Icons",
+      "file": "grimoire.svg",
+      "id": 2857,
+      "is_default": true,
+      "label": "grimoire",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grimoire.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b403485cc89858b207a9134ee88250aa2b3108612725fd95b3d84af94b650109"
+      },
+      "sha256": "4fc52219d7bfa8e270d56fa488064475c23c3f6a7b50544ddece065e49002281",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grimoire.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

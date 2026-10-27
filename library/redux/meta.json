@@ -1,0 +1,45 @@
+{
+  "collection_id": 3220,
+  "schema_version": 1,
+  "id": 3483,
+  "title": "Redux",
+  "url": "https://redux.js.org",
+  "domains": [
+    "redux.js.org"
+  ],
+  "description": "用于 JavaScript 应用的状态管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Redux",
+    "redux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1252,
+      "collection": "TechIcons / Devicon",
+      "file": "redux-1.svg",
+      "id": 5341,
+      "is_default": true,
+      "label": "TechIcons · Redux",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Redux.svg",
+        "original_sha256": "72a56f5d8acc368b77624e1e7b7d8a2acbbc070ac6bf5d1b9979c92072d89962",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/redux",
+        "reference_website": "https://redux.js.org"
+      },
+      "sha256": "ce78442affd690b8fdff9f509b5409514a28de0bca5ffa75a5e1866be57d1d04",
+      "source": "https://techicons.dev/icons/redux",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

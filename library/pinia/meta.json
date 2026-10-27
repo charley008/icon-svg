@@ -1,0 +1,41 @@
+{
+  "collection_id": 2150,
+  "schema_version": 1,
+  "id": 2377,
+  "title": "Pinia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "pinia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5410,
+      "collection": "Dashboard Icons",
+      "file": "pinia.svg",
+      "id": 3841,
+      "is_default": true,
+      "label": "pinia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pinia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c11787464dbc3a9e97df56ebb5b5b26e0884ab1179b761fd1ec1d645b6c488bb"
+      },
+      "sha256": "db272ec015e56473fd2a2c47ee02b749600e257a14d8e475aa172b43abb40cb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pinia.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

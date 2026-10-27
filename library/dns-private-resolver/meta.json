@@ -1,0 +1,40 @@
+{
+  "collection_id": 1117,
+  "schema_version": 1,
+  "id": 1344,
+  "title": "Dns Private Resolver",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dns-private-resolver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3972,
+      "collection": "Dashboard Icons",
+      "file": "dns-private-resolver.svg",
+      "id": 2454,
+      "is_default": true,
+      "label": "dns-private-resolver",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dns-private-resolver.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "990d109df8bac6312c886afdf0b521145baa88df78701afca51d7c8f8eaba9ce"
+      },
+      "sha256": "16f0e925edede6cdb10a59f0bb155223c56dfa837626829dc27646ffaf5e7042",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dns-private-resolver.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

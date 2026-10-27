@@ -1,0 +1,64 @@
+{
+  "collection_id": 1507,
+  "schema_version": 1,
+  "id": 1734,
+  "title": "Hugo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "hugo",
+    "website-generator",
+    "jamstack-tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10648,
+      "collection": "Dashboard Icons",
+      "file": "hugo.svg",
+      "id": 2971,
+      "is_default": true,
+      "label": "hugo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hugo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b7e7da3c519f18fedcc11eff350a7bb34bf5eb7fcf6826357e158c005d778fa0"
+      },
+      "sha256": "93bf07f23aeaac5619bc16344d67ab347a6dc3da9ca76586e831f27eca01637c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hugo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 882,
+      "collection": "TechIcons / Devicon",
+      "file": "hugo-1.svg",
+      "id": 5206,
+      "is_default": false,
+      "label": "TechIcons · Hugo",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Hugo.svg",
+        "original_sha256": "3ddc8b498ca1872f7d95ad6cf9fe02741169c4a39682066c1ba6416478b5a6cc",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/hugo",
+        "reference_website": "https://gohugo.io"
+      },
+      "sha256": "5be2a5bad9a441ceed81f3116a32b9f245ad4fa040591293c82ddf1fee42dc51",
+      "source": "https://techicons.dev/icons/hugo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 3027,
+  "schema_version": 1,
+  "id": 3254,
+  "title": "Your Spotify",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "your-spotify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 747,
+      "collection": "Dashboard Icons",
+      "file": "your-spotify.svg",
+      "id": 4985,
+      "is_default": true,
+      "label": "your-spotify",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "your-spotify.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7bc05f8ad22367fda8d4f06c300c38fc7d29f7d91301e5c0b27bc7aa8cde329b"
+      },
+      "sha256": "89d7796294e0c622b1c0fb1ed622d9967e7e3e91b16d34d8fe8a2c4c3487d559",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/your-spotify.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

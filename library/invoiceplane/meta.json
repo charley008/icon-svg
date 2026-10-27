@@ -1,0 +1,40 @@
+{
+  "collection_id": 1557,
+  "schema_version": 1,
+  "id": 1784,
+  "title": "Invoiceplane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "invoiceplane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 876,
+      "collection": "Dashboard Icons",
+      "file": "invoiceplane.svg",
+      "id": 3034,
+      "is_default": true,
+      "label": "invoiceplane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "invoiceplane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd139d4ad65a69a71817d84eead213c8284876d8613892ab2967f9a326dc3175"
+      },
+      "sha256": "bbd30af09da7a51e7c14cd7c038500cd73ebf7008033a93795a8df88ea837e5c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/invoiceplane.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

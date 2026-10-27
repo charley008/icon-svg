@@ -1,0 +1,78 @@
+{
+  "collection_id": 2095,
+  "schema_version": 1,
+  "id": 2322,
+  "title": "Paramount Plus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "paramount-plus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2481,
+      "collection": "Dashboard Icons",
+      "file": "paramount-plus.svg",
+      "id": 3758,
+      "is_default": true,
+      "label": "paramount-plus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paramount-plus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f99ea29c292294128d36f3f8fe06a4a96f0d5341de705bfab669e3f81784b179"
+      },
+      "sha256": "c9eda3cf010c08a4fc6baebb761d9d87011c72f14e8bc44beb341c58f2d606aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paramount-plus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2481,
+      "collection": "Dashboard Icons",
+      "file": "paramount-plus-1.svg",
+      "id": 3759,
+      "is_default": false,
+      "label": "paramount-plus-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paramount-plus-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea96b43aaf10cce63539864494a72b97e3c8744cd825e8dd42be25c3a0f04f9a"
+      },
+      "sha256": "cc0872020e3ec9b7cf24795a27ee727da25babafdef6cbd2591f10d8cc08066a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paramount-plus-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2481,
+      "collection": "Dashboard Icons",
+      "file": "paramount-plus-2.svg",
+      "id": 3760,
+      "is_default": false,
+      "label": "paramount-plus-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paramount-plus-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e9a79d30eefd9c7fd0b21fdd36e38d885adabd7327ab99069819c486fbb5d2e5"
+      },
+      "sha256": "87a920f4a6c0fdfea6599d3d00e8db62081e90c99429939b03b40e7e2ca6d049",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paramount-plus-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

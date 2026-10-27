@@ -1,0 +1,46 @@
+{
+  "collection_id": 3230,
+  "schema_version": 1,
+  "id": 3493,
+  "title": "Sema Software",
+  "url": "https://www.semasoftware.com",
+  "domains": [
+    "semasoftware.com"
+  ],
+  "description": "用于软件代码分析与技术评估的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Sema Software",
+    "sema",
+    "Sema-Software"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 542,
+      "collection": "TechIcons / Devicon",
+      "file": "sema-1.svg",
+      "id": 5356,
+      "is_default": true,
+      "label": "TechIcons · Sema Software",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Sema-Software.svg",
+        "original_sha256": "c76ab62ed22e9ed8dec3ef23d73f1c1cb1db28fe5fcb329db0cc59f4de61d59f",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sema",
+        "reference_website": "https://www.semasoftware.com"
+      },
+      "sha256": "5c4b83b7ba13356057b254f1849280c50489aca1423ebd1428e85df9e02af0d9",
+      "source": "https://techicons.dev/icons/sema",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

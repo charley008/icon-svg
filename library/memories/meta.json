@@ -1,0 +1,59 @@
+{
+  "collection_id": 1805,
+  "schema_version": 1,
+  "id": 2032,
+  "title": "Memories",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "memories"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4588,
+      "collection": "Dashboard Icons",
+      "file": "memories.svg",
+      "id": 3347,
+      "is_default": true,
+      "label": "memories",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "memories.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b29f661d21911339fbda589c2d53691b30ddcce879165b8f7b361f49f592f35c"
+      },
+      "sha256": "ad5c179722df1616686de6c8a860ce27e16fefff37681ef7b8b091951700edea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/memories.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4612,
+      "collection": "Dashboard Icons",
+      "file": "memories-1.svg",
+      "id": 3348,
+      "is_default": false,
+      "label": "memories-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "memories-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4fcfed04b3da13965484754e33f6c30471d7c0a10cc2bd01925fe3c4cd3334f4"
+      },
+      "sha256": "d6c620d7ffc3a9852cace21bee54451319e5c7a4a95f47fe3bc66dd154e14515",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/memories-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

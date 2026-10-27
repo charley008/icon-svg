@@ -1,0 +1,43 @@
+{
+  "collection_id": 1306,
+  "schema_version": 1,
+  "id": 1533,
+  "title": "Focalboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "focalboard",
+    "mattermost-boards"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1636,
+      "collection": "Dashboard Icons",
+      "file": "focalboard.svg",
+      "id": 2696,
+      "is_default": true,
+      "label": "focalboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "focalboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "79e5b7cdbfd5228da9a4bf191f95749a5ec77124286d9e29b8460c2826a3d8ac"
+      },
+      "sha256": "036792e4e5edf0180c475dd78b38e89def14cb2def848c11f77e6a5ffa7e1dab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/focalboard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,61 @@
+{
+  "collection_id": 1808,
+  "schema_version": 1,
+  "id": 2035,
+  "title": "Mergeable",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "mergeable"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 863,
+      "collection": "Dashboard Icons",
+      "file": "mergeable.svg",
+      "id": 3351,
+      "is_default": true,
+      "label": "mergeable",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mergeable.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d4835bc36bedad56300c09616c9ad789bb87be8192e424fe44fe277d45adcd24"
+      },
+      "sha256": "ec0985e110de50fa9a624f5dab595a42ddeda78b0136d5da6ee4faa596b69fc4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mergeable.svg",
+      "version": 0
+    },
+    {
+      "bytes": 857,
+      "collection": "Dashboard Icons",
+      "file": "mergeable-1.svg",
+      "id": 3352,
+      "is_default": false,
+      "label": "mergeable-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mergeable-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7732772c9d46aa10c8d6989fe7279e3dbda95751683cc8b77eee09dd081ef779"
+      },
+      "sha256": "8f42e47d3ea812dd9b817df7ef805873ced78afbacda433f6be9cd875687e4fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mergeable-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

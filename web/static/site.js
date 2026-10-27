@@ -6,6 +6,7 @@ $('#menu-toggle')?.addEventListener('click',()=>{$('#sidebar').classList.toggle(
 let toastTimer;function toast(message){const el=$('#toast');if(!el)return;el.textContent=message;el.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('show'),3000);}
 function previewBackground(value){if(!['soft','white','dark'].includes(value))value='soft';if($('#grid'))$('#grid').dataset.preview=value;all('[data-card-bg]').forEach(b=>b.classList.toggle('active',b.dataset.cardBg===value));try{localStorage.setItem('icon-svg-preview',value);}catch{}}let preview='soft';try{preview=localStorage.getItem('icon-svg-preview')||'soft';}catch{}previewBackground(preview);all('[data-card-bg]').forEach(b=>b.addEventListener('click',()=>previewBackground(b.dataset.cardBg)));
 const savedFavorites=readStorage(localStorage,'icon-svg-favorites',[]),favoriteIds=new Set(Array.isArray(savedFavorites)?savedFavorites:[]);
+all('[data-favorite-aliases]').forEach(b=>{let moved=false;for(const id of b.dataset.favoriteAliases.split(',')){if(id&&favoriteIds.delete(id))moved=true;}if(moved)favoriteIds.add(b.dataset.favorite);});writeStorage(localStorage,'icon-svg-favorites',[...favoriteIds]);
 function updateFavorites(){if($('#favorite-count'))$('#favorite-count').textContent=favoriteIds.size;all('[data-favorite]').forEach(b=>{const active=favoriteIds.has(b.dataset.favorite);b.textContent=active?'♥':'♡';b.classList.toggle('hearted',active);b.setAttribute('aria-pressed',active);});}
 all('[data-favorite]').forEach(b=>b.addEventListener('click',()=>{const key=b.dataset.favorite;favoriteIds.has(key)?favoriteIds.delete(key):favoriteIds.add(key);writeStorage(localStorage,'icon-svg-favorites',[...favoriteIds]);updateFavorites();}));updateFavorites();
 $('#favorites-nav')?.addEventListener('click',()=>{location.href='/?'+new URLSearchParams({favorites:[...favoriteIds].join(',')});});
@@ -70,4 +71,13 @@ if(passwordForm){
     validateConfirmation();
     if(!passwordForm.reportValidity())event.preventDefault();
   });
+}
+
+const libraryImportForm=document.getElementById('library-import-form');
+if(libraryImportForm){
+  const button=libraryImportForm.querySelector('[data-import-submit]');
+  const progress=document.getElementById('library-import-progress');
+  const label=button.textContent;
+  libraryImportForm.addEventListener('submit',()=>{button.disabled=true;button.textContent='正在导入…';progress.classList.remove('hidden');});
+  window.addEventListener('pageshow',()=>{button.disabled=false;button.textContent=label;progress.classList.add('hidden');});
 }

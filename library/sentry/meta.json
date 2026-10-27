@@ -1,0 +1,59 @@
+{
+  "collection_id": 2585,
+  "schema_version": 1,
+  "id": 2812,
+  "title": "Sentry",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sentry"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 973,
+      "collection": "Dashboard Icons",
+      "file": "sentry.svg",
+      "id": 4414,
+      "is_default": true,
+      "label": "sentry",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sentry.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "375cda0236c2308bcfa88f2bbee20cdaf4c974f1649940de5218f0346cff3b38"
+      },
+      "sha256": "19be60732d5b8f5ddbd1bcb89b6a1002f9dd36c852a5ed424c812110ded358db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sentry.svg",
+      "version": 0
+    },
+    {
+      "bytes": 985,
+      "collection": "Dashboard Icons",
+      "file": "sentry-1.svg",
+      "id": 4415,
+      "is_default": false,
+      "label": "sentry-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sentry-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "974763a814879d47e5e50e5e77b67991d6b186891d0dbc7ba16a1d736ff58c1c"
+      },
+      "sha256": "884c24490bc8e4e9ee5db62ff330b21013f5ca8b1a827317242e5800ee498b7b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sentry-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

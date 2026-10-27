@@ -1,0 +1,40 @@
+{
+  "collection_id": 2982,
+  "schema_version": 1,
+  "id": 3209,
+  "title": "Windirstat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "windirstat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7382,
+      "collection": "Dashboard Icons",
+      "file": "windirstat.svg",
+      "id": 4921,
+      "is_default": true,
+      "label": "windirstat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "windirstat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c3131fb59ff49ecd47446fcd8a517a5e713687fcd79e10fbd5191eb935cdabf4"
+      },
+      "sha256": "ab81c45276477d25e578f1082bbb27b835b8476d89f1ee27e7f99973fab421ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windirstat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

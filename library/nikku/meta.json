@@ -1,0 +1,40 @@
+{
+  "collection_id": 1946,
+  "schema_version": 1,
+  "id": 2173,
+  "title": "Nikku",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nikku"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2016,
+      "collection": "Dashboard Icons",
+      "file": "nikku.svg",
+      "id": 3546,
+      "is_default": true,
+      "label": "nikku",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nikku.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0ff2bd4a72898c912946e1647c865a2e6ad9d3c7149b9261b1b7baa012979836"
+      },
+      "sha256": "4459e3be6047bd2872744335134db14f23bf7f3740aa4e89303be3dad12ba99c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nikku.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

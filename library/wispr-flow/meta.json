@@ -1,0 +1,40 @@
+{
+  "collection_id": 2990,
+  "schema_version": 1,
+  "id": 3217,
+  "title": "Wispr Flow",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wispr-flow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4571,
+      "collection": "Dashboard Icons",
+      "file": "wispr-flow.svg",
+      "id": 4931,
+      "is_default": true,
+      "label": "wispr-flow",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wispr-flow.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "64a032ad34eeb00d6bcef45a6dd1b5f359b23fb37e0df49123dc63c20c7ed801"
+      },
+      "sha256": "999f252633625e93dbc41f2c2ea05f81181be2dc00831f96f4f996e9ffb0c234",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wispr-flow.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

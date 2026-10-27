@@ -1,0 +1,45 @@
+{
+  "collection_id": 695,
+  "schema_version": 1,
+  "id": 922,
+  "title": "Alloy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Cloud-Computing",
+    "开发编程"
+  ],
+  "aliases": [
+    "alloy",
+    "no-code-platform",
+    "app-builder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1618,
+      "collection": "Dashboard Icons",
+      "file": "alloy.svg",
+      "id": 1888,
+      "is_default": true,
+      "label": "alloy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alloy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb8d680d6bc0e429968b1ceb2128f447965cc166afbcc72aeeddff055d7e3551"
+      },
+      "sha256": "f58434757de326503d57745985fc612765a7821ed67f731770fee7e0b9eb7d3c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alloy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 1668,
+  "schema_version": 1,
+  "id": 1895,
+  "title": "Kubuntu Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "kubuntu-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2437,
+      "collection": "Dashboard Icons",
+      "file": "kubuntu-linux.svg",
+      "id": 3170,
+      "is_default": true,
+      "label": "kubuntu-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kubuntu-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "53e61e6382b74c2c222bfb07db8cda3949958da539700d9fe97c1cb78248356c"
+      },
+      "sha256": "13b65082278031093dd0d66c155f32c07ffe7f5f3518a43d6635f6b16abc4961",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kubuntu-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

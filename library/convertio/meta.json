@@ -1,0 +1,59 @@
+{
+  "collection_id": 1021,
+  "schema_version": 1,
+  "id": 1248,
+  "title": "Convertio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "convertio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 750,
+      "collection": "Dashboard Icons",
+      "file": "convertio.svg",
+      "id": 2325,
+      "is_default": true,
+      "label": "convertio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "convertio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "67d969cb948b66f8485b53f63873b2f833773fea608ed5fddb039cd3be9cbbdf"
+      },
+      "sha256": "7888dd05799aa06de770e8b3eae49c7caf70de20f6aef73b3e9cf5ab17beee08",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/convertio.svg",
+      "version": 0
+    },
+    {
+      "bytes": 662,
+      "collection": "Dashboard Icons",
+      "file": "convertio-1.svg",
+      "id": 2326,
+      "is_default": false,
+      "label": "convertio-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "convertio-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4596a3edeb2984a4165d3e9e64af5b7377a9ebd1660b7b4c25261bdee48e8551"
+      },
+      "sha256": "413fcc9185cdf0901e54f33f530f8d41c5e5af135603f39c0b32e4e7e5d59898",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/convertio-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

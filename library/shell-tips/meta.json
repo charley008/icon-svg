@@ -1,0 +1,62 @@
+{
+  "collection_id": 2599,
+  "schema_version": 1,
+  "id": 2826,
+  "title": "Shell Tips",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "shell-tips",
+    "Command Line Tips"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 278,
+      "collection": "Dashboard Icons",
+      "file": "shell-tips.svg",
+      "id": 4433,
+      "is_default": true,
+      "label": "shell-tips",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shell-tips.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d8801e6321bb7b191b4b94c9c2b26affbb587f6bf016dc66d20ef6d27949b049"
+      },
+      "sha256": "c83f182495304195361b796e1ff12b410524ce3d1cb76fe938be9aaa39994d21",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shell-tips.svg",
+      "version": 0
+    },
+    {
+      "bytes": 290,
+      "collection": "Dashboard Icons",
+      "file": "shell-tips-1.svg",
+      "id": 4434,
+      "is_default": false,
+      "label": "shell-tips-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shell-tips-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f43f770fdad11c6bbf70903e92b9fc73153505376fff6ef77f0fbfd6b297f01b"
+      },
+      "sha256": "b9710c24d1befd78368fa03785f7bd51beb6e88d184638952d990363e99e2df6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shell-tips-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

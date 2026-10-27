@@ -1,0 +1,44 @@
+{
+  "collection_id": 2851,
+  "schema_version": 1,
+  "id": 3078,
+  "title": "Tux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "系统工具"
+  ],
+  "aliases": [
+    "tux",
+    "linux-penguin",
+    "os-mascot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 36207,
+      "collection": "Dashboard Icons",
+      "file": "tux.svg",
+      "id": 4748,
+      "is_default": true,
+      "label": "tux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "786ed1e2e8c0b8b8fd031ee59a0b8adfef5476d07c5c05b0edec9b80d8db63ef"
+      },
+      "sha256": "ac9e74d0471ea13106c18a2f47e28437a61a9745a731fccc6eb755c19cea3099",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

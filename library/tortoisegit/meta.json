@@ -1,0 +1,45 @@
+{
+  "collection_id": 3249,
+  "schema_version": 1,
+  "id": 3512,
+  "title": "TortoiseGit",
+  "url": "https://tortoisegit.org",
+  "domains": [
+    "tortoisegit.org"
+  ],
+  "description": "集成于 Windows 的 Git 图形化管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "TortoiseGit",
+    "tortoisegit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15195,
+      "collection": "TechIcons / Devicon",
+      "file": "tortoisegit-1.svg",
+      "id": 5381,
+      "is_default": true,
+      "label": "TechIcons · TortoiseGit",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "TortoiseGit.svg",
+        "original_sha256": "e4910b995fbaf7b7cdbe11c438bad92a4d06bbd43f373d0be4efc6138386aeff",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/tortoisegit",
+        "reference_website": "https://tortoisegit.org"
+      },
+      "sha256": "6ed2ea80835f2927bf9494552dda557a19fa07f83689048df374d77de41dd499",
+      "source": "https://techicons.dev/icons/tortoisegit",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

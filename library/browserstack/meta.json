@@ -1,0 +1,45 @@
+{
+  "collection_id": 3087,
+  "schema_version": 1,
+  "id": 3326,
+  "title": "BrowserStack",
+  "url": "https://www.browserstack.com",
+  "domains": [
+    "browserstack.com"
+  ],
+  "description": "浏览器和移动应用测试平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "BrowserStack",
+    "browserstack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5091,
+      "collection": "TechIcons / Devicon",
+      "file": "browserstack-1.svg",
+      "id": 5094,
+      "is_default": true,
+      "label": "TechIcons · BrowserStack",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "BrowserStack.svg",
+        "original_sha256": "7143d89f9c3b8655f90abc9d3b045c7b4fba706ae3aaea1ebf3a0bff3b2a20ad",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/browserstack",
+        "reference_website": "https://www.browserstack.com"
+      },
+      "sha256": "3360953234fa18e14ca025eaef08e5159ba3ea686aa615e2d71aa88f7dc3b248",
+      "source": "https://techicons.dev/icons/browserstack",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

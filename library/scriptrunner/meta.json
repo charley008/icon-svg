@@ -1,0 +1,40 @@
+{
+  "collection_id": 2564,
+  "schema_version": 1,
+  "id": 2791,
+  "title": "Scriptrunner",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "scriptrunner"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1138,
+      "collection": "Dashboard Icons",
+      "file": "scriptrunner.svg",
+      "id": 4384,
+      "is_default": true,
+      "label": "scriptrunner",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scriptrunner.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d6dac1989a75b451ed0078808f5d5b65d61424b555d76e9919984c0613ba48ec"
+      },
+      "sha256": "1b83251f97e4521258c2d48eda68da133265de4005aac3b1aae12d6cbe17f252",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scriptrunner.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

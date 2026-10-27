@@ -1,0 +1,45 @@
+{
+  "collection_id": 3100,
+  "schema_version": 1,
+  "id": 3340,
+  "title": "CodeIgniter",
+  "url": "https://codeigniter.com",
+  "domains": [
+    "codeigniter.com"
+  ],
+  "description": "轻量级 PHP Web 开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "CodeIgniter",
+    "codeigniter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1081,
+      "collection": "TechIcons / Devicon",
+      "file": "codeigniter-1.svg",
+      "id": 5111,
+      "is_default": true,
+      "label": "TechIcons · CodeIgniter",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CodeIgniter.svg",
+        "original_sha256": "e891784062c784af395da5d9695b071fefbe829cf41ede7f86fa83e8c4cdadb5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/codeigniter",
+        "reference_website": "https://codeigniter.com"
+      },
+      "sha256": "96851b4e5f07819d9d4ce38f633d462fa05e6e3f8a8932430d4e3a461a92cbf2",
+      "source": "https://techicons.dev/icons/codeigniter",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

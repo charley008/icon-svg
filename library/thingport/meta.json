@@ -1,0 +1,105 @@
+{
+  "collection_id": 2792,
+  "schema_version": 1,
+  "id": 3019,
+  "redirect_from": [
+    3020,
+    3021
+  ],
+  "title": "Thingport",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thingport",
+    "thingport-wordmark-light",
+    "Thingport Wordmark Light",
+    "thingport-wordmark-dark",
+    "Thingport Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1138,
+      "collection": "Dashboard Icons",
+      "file": "thingport.svg",
+      "id": 4673,
+      "is_default": true,
+      "label": "thingport",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thingport.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c1f4cfe937eaa1f1693a57acbcce531a4d4b3ce3f853df9773f5a8095c1e6c4e"
+      },
+      "sha256": "651593fa4b7c758411d3067a9f00a92aef4147a70a9a1fa24c29e68409dd0f22",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thingport.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1140,
+      "collection": "Dashboard Icons",
+      "file": "thingport-1.svg",
+      "id": 4674,
+      "is_default": false,
+      "label": "thingport-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thingport-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "184e3f5b5cde776c8dbb0ec6f03065892ee767ee0044da101f6f85f8573eb37e"
+      },
+      "sha256": "a4d59d966b249bf5b3ead9b9e6345cb31b28a3662f4e1bfaab517b3b3821c327",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thingport-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4284,
+      "collection": "Dashboard Icons",
+      "file": "thingport-2.svg",
+      "id": 4676,
+      "is_default": false,
+      "label": "thingport-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thingport-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1686b5078f45445a62ba949ae42c40797003824f35590137c2a57ee677b870b5"
+      },
+      "sha256": "94305cdefc05dbc13eacb2dbc6b92e5f8601f5009d34997c0ce6e1cb340e81fa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thingport-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4286,
+      "collection": "Dashboard Icons",
+      "file": "thingport-3.svg",
+      "id": 4675,
+      "is_default": false,
+      "label": "thingport-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thingport-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a81d58226690e4ad99b0307f5b4345ea0d02135663837bae275962e2e7e6dc26"
+      },
+      "sha256": "f0ad2afb2f4c10d55ce4008a9d7a86aa7317b46c4290dd6fad431a557e4cc4be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thingport-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

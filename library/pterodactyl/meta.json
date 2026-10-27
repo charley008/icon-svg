@@ -1,0 +1,40 @@
+{
+  "collection_id": 2232,
+  "schema_version": 1,
+  "id": 2459,
+  "title": "Pterodactyl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pterodactyl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9802,
+      "collection": "Dashboard Icons",
+      "file": "pterodactyl.svg",
+      "id": 3956,
+      "is_default": true,
+      "label": "pterodactyl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pterodactyl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aae930dcd20682c0003981759be87ae020dcb94fa2712cfe14afbb4e3fad566e"
+      },
+      "sha256": "82101751b38c04bf73ce2070ef65f53fa3df8ecf7d392e4adcadb6302d3b1569",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pterodactyl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

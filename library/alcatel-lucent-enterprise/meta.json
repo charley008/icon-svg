@@ -1,0 +1,40 @@
+{
+  "collection_id": 688,
+  "schema_version": 1,
+  "id": 915,
+  "title": "Alcatel Lucent Enterprise",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "alcatel-lucent-enterprise"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1094,
+      "collection": "Dashboard Icons",
+      "file": "alcatel-lucent-enterprise.svg",
+      "id": 1879,
+      "is_default": true,
+      "label": "alcatel-lucent-enterprise",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alcatel-lucent-enterprise.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3dfc6a2ff3e146682993d465850be81ab2f49f272763ca5b4c679df718facaca"
+      },
+      "sha256": "b820cae628d64a370056e0971bf73afcbb0f7f2b3f995df3d6ef7ca793156a26",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alcatel-lucent-enterprise.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

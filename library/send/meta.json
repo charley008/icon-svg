@@ -1,0 +1,40 @@
+{
+  "collection_id": 2581,
+  "schema_version": 1,
+  "id": 2808,
+  "title": "Send",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "send"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1006,
+      "collection": "Dashboard Icons",
+      "file": "send.svg",
+      "id": 4410,
+      "is_default": true,
+      "label": "send",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "send.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8eaf75ca4f3449bf2bc179c92f371c4cd25492553b176821e18aa23d2987f3c"
+      },
+      "sha256": "916bae94ab0339fb8b199c5ddd627188f06126081488b1053917c3790168538f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/send.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

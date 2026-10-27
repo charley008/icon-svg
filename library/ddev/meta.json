@@ -1,0 +1,59 @@
+{
+  "collection_id": 1081,
+  "schema_version": 1,
+  "id": 1308,
+  "title": "Ddev",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ddev"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1889,
+      "collection": "Dashboard Icons",
+      "file": "ddev.svg",
+      "id": 2399,
+      "is_default": true,
+      "label": "ddev",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ddev.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d17236cab0383724abf765401fbfea50cde7b7246f6fea4b3cd56945e1efa2eb"
+      },
+      "sha256": "824f211f9bc48c885d128fc957b982ede6af5701a1c08df5c1628bac8fbda2c6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ddev.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2610,
+      "collection": "Dashboard Icons",
+      "file": "ddev-1.svg",
+      "id": 2400,
+      "is_default": false,
+      "label": "ddev-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ddev-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ebf814abb98b143c8dfe6b46277bc496879fabe6c5ae266bffe11438ad0aa5b4"
+      },
+      "sha256": "0673bdff2ee2104124a396d70a1a9ef94a3601e09972cfc73083aa7224c0c6a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ddev-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

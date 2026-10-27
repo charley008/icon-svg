@@ -1,0 +1,65 @@
+{
+  "collection_id": 1049,
+  "schema_version": 1,
+  "id": 1276,
+  "title": "Csharp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "csharp",
+    "dotnet-language",
+    "c-sharp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1884,
+      "collection": "Dashboard Icons",
+      "file": "csharp.svg",
+      "id": 2359,
+      "is_default": true,
+      "label": "csharp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "csharp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97b9523a8b8f4470a9a72be670c22070713ad6e1629c5224bf1ff12b9906ef53"
+      },
+      "sha256": "934af764a586449b1ae957caea7860d245199e9a155080556a319b5a2493e379",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/csharp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 893,
+      "collection": "TechIcons / Devicon",
+      "file": "csharp-1.svg",
+      "id": 5119,
+      "is_default": false,
+      "label": "TechIcons · C# (CSharp)",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "C#-(CSharp).svg",
+        "original_sha256": "7093478d0888e22a224b6fa832da6c9ffd14c433de8bd14aab0c1cb50925f3ee",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/csharp",
+        "reference_website": "https://learn.microsoft.com/en-us/dotnet/csharp"
+      },
+      "sha256": "72bbc7d23b2f725edbdaf49b58d48fc5b2b17c4bd1efff8d5dcb2ced561a7378",
+      "source": "https://techicons.dev/icons/csharp",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

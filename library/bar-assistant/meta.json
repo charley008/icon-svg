@@ -1,0 +1,40 @@
+{
+  "collection_id": 847,
+  "schema_version": 1,
+  "id": 1074,
+  "title": "Bar Assistant",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bar-assistant"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 762,
+      "collection": "Dashboard Icons",
+      "file": "bar-assistant.svg",
+      "id": 2089,
+      "is_default": true,
+      "label": "bar-assistant",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bar-assistant.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f91f76e08816f44d5c95bc1c576c7184d77e2ad08732e3cfa2f2eb9cd3e11980"
+      },
+      "sha256": "01bb9be6f28aa48425b7a715ff4ea37b0bbef3dbf85b09376f9313ecbde642ec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bar-assistant.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

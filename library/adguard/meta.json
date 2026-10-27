@@ -50,6 +50,8 @@
   "next_version": 1,
   "products": [
     {
+      "id": 660,
+      "key": "home",
       "title": "AdGuard Home",
       "url": "https://adguard.com/adguard-home/overview.html",
       "domains": [
@@ -73,24 +75,62 @@
       "notes": [],
       "icons": [
         {
-          "file": "adguard-home.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "4a65b23ae16bf700f35139e2c10a5f731a32530f2db832abd5612be2523b1f9f",
           "bytes": 672,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adguard-home.svg",
+          "collection": "Dashboard Icons",
+          "file": "adguard-home.svg",
+          "id": 1621,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "adguard-home.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "4a65b23ae16bf700f35139e2c10a5f731a32530f2db832abd5612be2523b1f9f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adguard-home.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "home"
+      "next_version": 1
+    },
+    {
+      "id": 893,
+      "key": "home-sync",
+      "title": "Adguard Home Sync",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "adguard-home-sync"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2436,
+          "collection": "Dashboard Icons",
+          "file": "adguard-home-sync.svg",
+          "id": 1854,
+          "is_default": true,
+          "label": "adguard-home-sync",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "adguard-home-sync.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b390197ed548839301087bad052afcfd3cafa40329a79eade590d78035bb9dae"
+          },
+          "sha256": "7540cbff937f2d2163dd6e3ef16ff2e3c079262ec826285d6efd9f3eb06869f5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adguard-home-sync.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     }
   ]
 }

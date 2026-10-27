@@ -1,0 +1,40 @@
+{
+  "collection_id": 2936,
+  "schema_version": 1,
+  "id": 3163,
+  "title": "Volla",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "volla"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 908,
+      "collection": "Dashboard Icons",
+      "file": "volla.svg",
+      "id": 4861,
+      "is_default": true,
+      "label": "volla",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "volla.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "46af59b02c981157737b67fdde9e6fb993447f74d449fef275c864c2403ddb39"
+      },
+      "sha256": "8af4e4887ae09d1a6a2c37ffe81b18c933dbc64649be3aaf0274a767fecd4c0a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/volla.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

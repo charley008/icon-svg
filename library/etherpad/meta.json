@@ -1,0 +1,44 @@
+{
+  "collection_id": 1219,
+  "schema_version": 1,
+  "id": 1446,
+  "title": "Etherpad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "etherpad",
+    "Collaborative Editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2679,
+      "collection": "Dashboard Icons",
+      "file": "etherpad.svg",
+      "id": 2590,
+      "is_default": true,
+      "label": "etherpad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etherpad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d3b3fefef704f9a674d8aad93ca48b78025d4ca26e818a002a589459c569ad9"
+      },
+      "sha256": "b23368fbea2abc15c72dec5105e06083ab121538bee7af8839205b81f6ca70bd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/etherpad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

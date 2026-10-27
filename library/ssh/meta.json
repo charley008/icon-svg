@@ -1,0 +1,45 @@
+{
+  "collection_id": 3239,
+  "schema_version": 1,
+  "id": 3502,
+  "title": "SSH",
+  "url": "https://www.ssh.com",
+  "domains": [
+    "ssh.com"
+  ],
+  "description": "用于安全远程连接的协议标志。",
+  "category": "网络工具",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "SSH",
+    "ssh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2083,
+      "collection": "TechIcons / Devicon",
+      "file": "ssh-1.svg",
+      "id": 5368,
+      "is_default": true,
+      "label": "TechIcons · SSH",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "SSH.svg",
+        "original_sha256": "36466ed8dbbb431134869121279f3253e31f3ff083a1100b08b2020bea95d377",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ssh",
+        "reference_website": "https://www.ssh.com"
+      },
+      "sha256": "5769aee0a1c0063e520dba9cf15741049ad72ca0c444b89d11bcd952a2c3aead",
+      "source": "https://techicons.dev/icons/ssh",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

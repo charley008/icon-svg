@@ -1,0 +1,40 @@
+{
+  "collection_id": 1886,
+  "schema_version": 1,
+  "id": 2113,
+  "title": "N Able",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "n-able"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 410,
+      "collection": "Dashboard Icons",
+      "file": "n-able.svg",
+      "id": 3465,
+      "is_default": true,
+      "label": "n-able",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "n-able.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "944a28f7429321d60bbb13a603516f7053ac46ca355ab6cc91bfd55af5749299"
+      },
+      "sha256": "79856a156bd28ce1c93bf27a115584cb6bf1182647d584d796038b7762897ac0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/n-able.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

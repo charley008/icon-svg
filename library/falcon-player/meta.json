@@ -1,0 +1,59 @@
+{
+  "collection_id": 1241,
+  "schema_version": 1,
+  "id": 1468,
+  "title": "Falcon Player",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "falcon-player"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2309,
+      "collection": "Dashboard Icons",
+      "file": "falcon-player.svg",
+      "id": 2616,
+      "is_default": true,
+      "label": "falcon-player",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "falcon-player.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97ab21c234c583da77c0273581ee7b1393939161f4ee1f207d6e65255102780f"
+      },
+      "sha256": "0e5c7e5e8ad780e20af89d4c84c566d1bf5d354b355154431bd59d8e7382f9d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/falcon-player.svg",
+      "version": 0
+    },
+    {
+      "bytes": 16132,
+      "collection": "Dashboard Icons",
+      "file": "falcon-player-1.svg",
+      "id": 2617,
+      "is_default": false,
+      "label": "falcon-player-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "falcon-player-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54ed496107673519366c6b5a55a963dbff8e191678afb07833fba333e3fae381"
+      },
+      "sha256": "4bd6f4f7c8ceda5ee98f12ccf7e58cf24c48332574a84c4e7519bbbbdde77e05",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/falcon-player-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2050,
+  "schema_version": 1,
+  "id": 2277,
+  "title": "Openuem",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openuem"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1053,
+      "collection": "Dashboard Icons",
+      "file": "openuem.svg",
+      "id": 3697,
+      "is_default": true,
+      "label": "openuem",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openuem.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee92234077edc1c199962e2062e16a67f093a143e2d12e32c56abb7a3ebe8f83"
+      },
+      "sha256": "f5ab4d80c8f1a1b6925ee22d802761270ab4e465998c1a3d8c2ac374f6b8f995",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openuem.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

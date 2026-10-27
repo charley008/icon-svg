@@ -1,4 +1,7 @@
 {
+  "collection_id": 514,
+  "schema_version": 1,
+  "id": 686,
   "title": "Calibre",
   "url": "https://calibre-ebook.com/",
   "domains": [
@@ -21,26 +24,28 @@
   "notes": [],
   "icons": [
     {
-      "file": "calibre.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "67c209898cf4e1f6ec8e91bd2d1a3f5cf5027841e34efadfc3897ab2eb8eabf8",
       "bytes": 16980,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/calibre.svg",
+      "collection": "Dashboard Icons",
+      "file": "calibre.svg",
+      "id": 1647,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "calibre.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "67c209898cf4e1f6ec8e91bd2d1a3f5cf5027841e34efadfc3897ab2eb8eabf8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/calibre.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": [
     {
+      "id": 687,
+      "key": "web",
       "title": "Calibre-Web",
       "url": "https://github.com/janeczku/calibre-web",
       "domains": [
@@ -63,24 +68,24 @@
       "notes": [],
       "icons": [
         {
-          "file": "calibre-web.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "55efda1bd6ea1d326444ce78f66abe29ef73ec0029ebcc669ec9277afc9abe6c",
           "bytes": 1047,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/calibre-web.svg",
+          "collection": "Dashboard Icons",
+          "file": "calibre-web.svg",
+          "id": 1648,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "calibre-web.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "55efda1bd6ea1d326444ce78f66abe29ef73ec0029ebcc669ec9277afc9abe6c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/calibre-web.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "web"
+      "next_version": 1
     }
   ]
 }

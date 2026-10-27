@@ -1,0 +1,40 @@
+{
+  "collection_id": 2684,
+  "schema_version": 1,
+  "id": 2911,
+  "title": "Squidex",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "squidex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1770,
+      "collection": "Dashboard Icons",
+      "file": "squidex.svg",
+      "id": 4538,
+      "is_default": true,
+      "label": "squidex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "squidex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b0fb2a0e0f61e60c59c921a9f549d7cf9e3878837d52995e380173ac997d0d05"
+      },
+      "sha256": "9d37e40020cbce80a178ca2d7a911bb5627f75b51eca787bdee5ba9fc64cdff0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/squidex.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

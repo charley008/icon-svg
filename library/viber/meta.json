@@ -89,8 +89,27 @@
       "sha256": "b78547e279d214e82f26cb4810d4ee41e82d23d89f424ad755e0727c8dd9d2fd",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#viber",
       "version": 2
+    },
+    {
+      "bytes": 2235,
+      "collection": "Dashboard Icons",
+      "file": "viber-3.svg",
+      "id": 4822,
+      "is_default": false,
+      "label": "viber",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viber.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb20c4ab4116025e14be0ea4c7499c819f52283ee9406ab9b2560c19b1b3d304"
+      },
+      "sha256": "b52210b95cacd72713394e46c19ee547b0574bb6bdc61d497ca6f03407c775f1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/viber.svg",
+      "version": 3
     }
   ],
-  "next_version": 3,
+  "next_version": 4,
   "products": []
 }

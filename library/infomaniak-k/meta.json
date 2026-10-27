@@ -1,0 +1,44 @@
+{
+  "collection_id": 1544,
+  "schema_version": 1,
+  "id": 1771,
+  "title": "Infomaniak K",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud-Computing",
+    "File-Sharing-\u0026-Sync",
+    "网盘存储"
+  ],
+  "aliases": [
+    "infomaniak-k",
+    "Cloud Storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 647,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-k.svg",
+      "id": 3016,
+      "is_default": true,
+      "label": "infomaniak-k",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-k.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5a1942aac8d7b42b04bfcd95cabe68863072ebcd50c4cb72e4c51ff436ad4ccd"
+      },
+      "sha256": "9ff9e76585c20fe3a2d89ed07f8bf1e74f7b6180e072bee44693fde1c044c0d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-k.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2132,
+  "schema_version": 1,
+  "id": 2359,
+  "title": "Phoneinfoga",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "phoneinfoga"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10560,
+      "collection": "Dashboard Icons",
+      "file": "phoneinfoga.svg",
+      "id": 3811,
+      "is_default": true,
+      "label": "phoneinfoga",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phoneinfoga.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e7282123093278c78da47f3b8c255b60d47dfca9c5a1af2eb539066a8b046d7"
+      },
+      "sha256": "63007d148c2d3d4838f04a74487894140995b3c1ef3c6a60d0eb2380552f5218",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phoneinfoga.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10579,
+      "collection": "Dashboard Icons",
+      "file": "phoneinfoga-1.svg",
+      "id": 3812,
+      "is_default": false,
+      "label": "phoneinfoga-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phoneinfoga-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40dad257cd8a75b6d05636a4df1e672ba533e96109e1f83d4817314bd40c41dd"
+      },
+      "sha256": "3a387113464e18178e3a40e8e65390183c48917eee68a7d1207e5ff579fdfa24",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phoneinfoga-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

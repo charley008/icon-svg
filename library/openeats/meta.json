@@ -1,0 +1,63 @@
+{
+  "collection_id": 2032,
+  "schema_version": 1,
+  "id": 2259,
+  "title": "Openeats",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "openeats",
+    "restaurant-app",
+    "food-ordering-app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5449,
+      "collection": "Dashboard Icons",
+      "file": "openeats.svg",
+      "id": 3672,
+      "is_default": true,
+      "label": "openeats",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openeats.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c87c2d398b201b3a43d321e2e9131d7a4dfd74647129f338c78e26181daf433"
+      },
+      "sha256": "8cbb141c60d97a4989887f6dc9c51956a8e0b55633c8509c1ce46b4791ec7fe8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openeats.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5473,
+      "collection": "Dashboard Icons",
+      "file": "openeats-1.svg",
+      "id": 3673,
+      "is_default": false,
+      "label": "openeats-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openeats-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1e61ea14796bc24fbc2ac76346188f6432a8b0c48e360c2e3d541f4689078d48"
+      },
+      "sha256": "029434f9084f9fb0a542b0c93b10f77f1730ba3122f967a24ad12368fde7b9e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openeats-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

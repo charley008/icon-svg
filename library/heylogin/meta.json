@@ -1,0 +1,59 @@
+{
+  "collection_id": 1476,
+  "schema_version": 1,
+  "id": 1703,
+  "title": "Heylogin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "heylogin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1555,
+      "collection": "Dashboard Icons",
+      "file": "heylogin.svg",
+      "id": 2931,
+      "is_default": true,
+      "label": "heylogin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "heylogin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a661a03d17ef5e6a1b98a992ec509c4afc73b441b9f2f4fc76a28f93ec181a5"
+      },
+      "sha256": "15f4143ef6c1e22b58debdaa686e7cbd4413e879c8de7c8cac1341f795509c84",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/heylogin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 904,
+      "collection": "Dashboard Icons",
+      "file": "heylogin-1.svg",
+      "id": 2932,
+      "is_default": false,
+      "label": "heylogin-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "heylogin-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "70b12ab7eb428a34137ed54567ca3442af552488ef079b1fbf0caa10f4e16f63"
+      },
+      "sha256": "4ed891c707449ce41e80d2cfe3c8e0fd6298712e4b27073806cb8bb0361eeb62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/heylogin-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

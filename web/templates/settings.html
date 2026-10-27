@@ -20,6 +20,7 @@
   </section>{{end}}
   {{if eq .View "library"}}<section class="panel" id="library" aria-labelledby="library-title">
     <h2 id="library-title">素材库管理</h2>
+    {{if .ImportMessage}}<p class="import-result" role="status">{{.ImportMessage}}</p>{{end}}
     <div class="library-workspace"><div>
     <form class="field-grid" action="/admin/library/schedule" method="post">
       <input type="hidden" name="csrf" value="{{.CSRF}}">
@@ -36,7 +37,22 @@
       {{if not .Scan.Error}}<p class="muted">新增 {{.Scan.Added}} · 修改 {{.Scan.Modified}} · 移除 {{.Scan.Removed}} 个文件</p>{{end}}
     </div>
 
-    <div class="export-actions"><a class="button" href="/admin/export-library">↓ 导出已上架素材</a><a class="button" href="/admin/settings?view=library">刷新状态</a></div>
+    <section class="library-transfer" aria-labelledby="transfer-title">
+      <h3 id="transfer-title">导入与导出</h3>
+      <p class="muted">素材保存在挂载的 library 目录中，导入后立即生效，无需更新 Docker 镜像或重启。</p>
+      <div class="export-actions"><a class="button" href="/admin/library/export">↓ 导出完整素材库</a><a class="button" href="/admin/export-library">导出已上架素材</a></div>
+      <form class="field-grid" id="library-import-form" action="/admin/library/import" method="post" enctype="multipart/form-data">
+        <input type="hidden" name="csrf" value="{{.CSRF}}">
+        <label>素材库 ZIP<input type="file" name="file" accept=".zip,application/zip" required aria-describedby="import-help"></label>
+        <label class="check-field"><input type="checkbox" name="fill_categories" value="on" checked>用素材包补全已有条目的“其他”分类</label>
+        <p class="muted">分类补全只更新空分类或“其他”，保留已经设置的具体分类。</p>
+        <p class="muted" id="import-help">支持本项目导出的 ZIP（含 meta.json、SVG 和许可文件），最大 64 MB。只追加缺失素材；重复内容或相同来源自动跳过，保留现有资料、默认图标和上下架状态。</p>
+        <button class="button button-primary" type="submit" data-import-submit>↑ 导入素材库</button>
+        <p class="muted hidden" id="library-import-progress" role="status">正在校验并导入，请保持页面打开。大型素材库可能需要一些时间。</p>
+      </form>
+      <p class="muted">完整素材库包含未上架及回收站记录，不包含账号、密码或数据库。导入用于追加合并，不会覆盖或删除现有素材。</p>
+    </section>
+    <div class="export-actions"><a class="button" href="/admin/settings?view=library">刷新状态</a></div>
     <p class="muted">直接复制 SVG 到 library 后，点击扫描即可登记。新的产品需先在 meta.json 中声明。扫描失败时不会发布错误素材。</p>
     </div><aside class="scan-preview" aria-labelledby="scan-preview-title">
       <h3 id="scan-preview-title">最近扫描新增素材</h3>
@@ -63,4 +79,4 @@
     </tbody></table></div>
     {{if gt .Pages 1}}<nav class="pagination" aria-label="日志分页">{{range .Links}}{{if .Gap}}<span class="pagination-gap" aria-hidden="true">…</span>{{else}}<a class="button {{if .Active}}button-primary{{end}}" href="{{.URL}}#logs" aria-label="第 {{.Number}} 页" {{if .Active}}aria-current="page"{{end}}>{{.Number}}</a>{{end}}{{end}}</nav>{{end}}
   </section>{{end}}
-</main></body></html>
+</main>{{template "site-footer"}}</body></html>

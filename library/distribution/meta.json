@@ -1,0 +1,42 @@
+{
+  "collection_id": 1113,
+  "schema_version": 1,
+  "id": 1340,
+  "title": "Distribution",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development",
+    "Cloud"
+  ],
+  "aliases": [
+    "distribution"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3916,
+      "collection": "Dashboard Icons",
+      "file": "distribution.svg",
+      "id": 2447,
+      "is_default": true,
+      "label": "distribution",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "distribution.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "42d657d4b3391490070afacd259434eca1b807b0bb0e3bb86d58385260e277b9"
+      },
+      "sha256": "5977c8cd3a8ed5ee3af61ac04d4f1e2673aa201e60723c811374f81901efbf20",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/distribution.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

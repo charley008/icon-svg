@@ -1,0 +1,45 @@
+{
+  "collection_id": 3091,
+  "schema_version": 1,
+  "id": 3330,
+  "title": "CakePHP",
+  "url": "https://cakephp.org",
+  "domains": [
+    "cakephp.org"
+  ],
+  "description": "PHP Web 应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "CakePHP",
+    "cakephp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 443,
+      "collection": "TechIcons / Devicon",
+      "file": "cakephp-1.svg",
+      "id": 5099,
+      "is_default": true,
+      "label": "TechIcons · CakePHP",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CakePHP.svg",
+        "original_sha256": "5a8fe6c9d1d614e5f376f7b99bc523e09cb0f8d7eeab9b5298b7451bdc374755",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/cakephp",
+        "reference_website": "https://cakephp.org"
+      },
+      "sha256": "3bfb1532045ef24ef9b110569c7e921e7ca7406565d748c7959f80e2a9b28879",
+      "source": "https://techicons.dev/icons/cakephp",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

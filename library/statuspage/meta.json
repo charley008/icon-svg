@@ -1,0 +1,86 @@
+{
+  "collection_id": 2697,
+  "schema_version": 1,
+  "id": 2924,
+  "redirect_from": [
+    2925,
+    2926
+  ],
+  "title": "Statuspage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "statuspage",
+    "statuspage-wordmark-light",
+    "Statuspage Wordmark Light",
+    "statuspage-wordmark-dark",
+    "Statuspage Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1888,
+      "collection": "Dashboard Icons",
+      "file": "statuspage.svg",
+      "id": 4554,
+      "is_default": true,
+      "label": "statuspage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "statuspage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "080bf7ce4de010d4e4fad9db7f674497db395486df5d299d68ce48285dc4a4d4"
+      },
+      "sha256": "338549746bc544901b15765493b0aa8f51d95328ea289f15f7d025d3e3610ccf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/statuspage.svg",
+      "version": 0
+    },
+    {
+      "bytes": 24361,
+      "collection": "Dashboard Icons",
+      "file": "statuspage-1.svg",
+      "id": 4556,
+      "is_default": false,
+      "label": "statuspage-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "statuspage-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d9a3d8b36c48046280b5bd35075d95b1688ac0436bee6c6d22f5060a48f785f"
+      },
+      "sha256": "1ff2c2ca477815308cb16a5dff855f513b92863148783f4ab7878212e8a9d96f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/statuspage-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 24960,
+      "collection": "Dashboard Icons",
+      "file": "statuspage-2.svg",
+      "id": 4555,
+      "is_default": false,
+      "label": "statuspage-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "statuspage-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1e07d8d273c7fe921ef283b7c40df83459818442f13c80c3705d65fdad81ba42"
+      },
+      "sha256": "99940503d5e57912696abc11d0becede886095366f049ee958c207a37119910e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/statuspage-wordmark-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

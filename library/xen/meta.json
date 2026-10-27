@@ -1,0 +1,40 @@
+{
+  "collection_id": 3008,
+  "schema_version": 1,
+  "id": 3235,
+  "title": "Xen",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6715,
+      "collection": "Dashboard Icons",
+      "file": "xen.svg",
+      "id": 4959,
+      "is_default": true,
+      "label": "xen",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xen.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45ec3a8a5ba2dd596e278ecde42e0febe14377f9b03b475ca7e322dbe9c82be4"
+      },
+      "sha256": "fbab4cf8e2ca7dcc786f56a4ba034b7593b26ee4390f59892f614be7d1e1fc94",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xen.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

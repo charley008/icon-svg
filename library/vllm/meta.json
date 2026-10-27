@@ -1,0 +1,40 @@
+{
+  "collection_id": 2924,
+  "schema_version": 1,
+  "id": 3151,
+  "title": "Vllm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vllm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3572,
+      "collection": "Dashboard Icons",
+      "file": "vllm.svg",
+      "id": 4849,
+      "is_default": true,
+      "label": "vllm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vllm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "12a0812e247cef4b31160e0d0267142ffe491491537f3e275d8bc645b61eb1a8"
+      },
+      "sha256": "c5338c1d800e40d7d310f211b4660665fdcbe395ed3a8af086cd9f8bc76af5f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vllm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

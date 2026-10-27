@@ -1,0 +1,42 @@
+{
+  "collection_id": 2784,
+  "schema_version": 1,
+  "id": 3011,
+  "title": "The Onion",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "the-onion",
+    "theonion",
+    "onion"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1051,
+      "collection": "Dashboard Icons",
+      "file": "the-onion.svg",
+      "id": 4664,
+      "is_default": true,
+      "label": "the-onion",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-onion.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c3b27a14236c75b74c4d3a2254ceea852001f3c461bb1c58d209bfe24b0d4ede"
+      },
+      "sha256": "278c3acf8725676386d76ebc07b98d839010e3cd4744745d3db6117ed9793d1c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/the-onion.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

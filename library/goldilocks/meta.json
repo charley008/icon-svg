@@ -1,0 +1,40 @@
+{
+  "collection_id": 1383,
+  "schema_version": 1,
+  "id": 1610,
+  "title": "Goldilocks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "goldilocks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1214,
+      "collection": "Dashboard Icons",
+      "file": "goldilocks.svg",
+      "id": 2796,
+      "is_default": true,
+      "label": "goldilocks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goldilocks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68ad625d097a8a5208b20c94d5561343e5a3b403f1ec702ec58e083c28eb43e3"
+      },
+      "sha256": "ec21e4baf19930b5f3e554b0771ebe3cb1abab9a77b8670162481d46766c6991",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/goldilocks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

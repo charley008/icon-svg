@@ -1,0 +1,41 @@
+{
+  "collection_id": 971,
+  "schema_version": 1,
+  "id": 1198,
+  "title": "Chroma",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "chroma"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 772,
+      "collection": "Dashboard Icons",
+      "file": "chroma.svg",
+      "id": 2251,
+      "is_default": true,
+      "label": "chroma",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chroma.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3d2de400b430f2ff6c4ed73d7b9e64935ce1e90b09da7ab8d27bf12839716573"
+      },
+      "sha256": "429d59bcb6d40a73d3def7294d9c27a17f8c206ea787d301ec8dba322edf8b86",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chroma.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

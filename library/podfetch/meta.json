@@ -1,0 +1,59 @@
+{
+  "collection_id": 2174,
+  "schema_version": 1,
+  "id": 2401,
+  "title": "Podfetch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "podfetch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 417,
+      "collection": "Dashboard Icons",
+      "file": "podfetch.svg",
+      "id": 3875,
+      "is_default": true,
+      "label": "podfetch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "podfetch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "097838b65e0caf2b3934f9c3e7c7a1b71690980c8e2978a6192b181ea65b2e27"
+      },
+      "sha256": "635ee88abe0e3dfb5d4e4e0ea3178889cb8b99242f619fa67f6f3bb915267551",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/podfetch.svg",
+      "version": 0
+    },
+    {
+      "bytes": 435,
+      "collection": "Dashboard Icons",
+      "file": "podfetch-1.svg",
+      "id": 3876,
+      "is_default": false,
+      "label": "podfetch-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "podfetch-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1aaa4eb8147c034b41c560e20373d779bb4231b9e2268e748c70b9f8082c4367"
+      },
+      "sha256": "9469a2e33d7dbf2b26e223509c33ae7fab7d91504872ef8b2dce284772564c21",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/podfetch-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

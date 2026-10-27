@@ -1,0 +1,59 @@
+{
+  "collection_id": 2741,
+  "schema_version": 1,
+  "id": 2968,
+  "title": "Tailscale",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tailscale"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1231,
+      "collection": "Dashboard Icons",
+      "file": "tailscale.svg",
+      "id": 4611,
+      "is_default": true,
+      "label": "tailscale",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tailscale.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cfa3645dcf2f595b9219cf8b0a67beced7fb0f025425859820ba044d1041ad98"
+      },
+      "sha256": "0f325a24665ec2f8bf261be56591a1808628ae402368676421a08b101b40f81c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tailscale.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1336,
+      "collection": "Dashboard Icons",
+      "file": "tailscale-1.svg",
+      "id": 4612,
+      "is_default": false,
+      "label": "tailscale-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tailscale-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "774dfcb3f7d85a76803f94de28ba426ecdb1ac859627c80ad179ad34a879255b"
+      },
+      "sha256": "92471557611e64293e9ff3f8364696452b19a12af04b140761be9a1fc2af571b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tailscale-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

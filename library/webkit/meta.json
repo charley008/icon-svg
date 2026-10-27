@@ -1,0 +1,40 @@
+{
+  "collection_id": 2963,
+  "schema_version": 1,
+  "id": 3190,
+  "title": "Webkit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "webkit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1687,
+      "collection": "Dashboard Icons",
+      "file": "webkit.svg",
+      "id": 4898,
+      "is_default": true,
+      "label": "webkit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webkit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "00611332b3aecd3e533489aa7e10149646bce4427a24650f79089bb49de07729"
+      },
+      "sha256": "b691278776014df9f62ba73f86404462a6ec05fd794ecd715e211ba98e9d6e1b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webkit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

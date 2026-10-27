@@ -1,0 +1,41 @@
+{
+  "collection_id": 2444,
+  "schema_version": 1,
+  "id": 2671,
+  "title": "Quay",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "quay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 911,
+      "collection": "Dashboard Icons",
+      "file": "quay.svg",
+      "id": 4234,
+      "is_default": true,
+      "label": "quay",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quay.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a9bb7e7c5f0d5c8ab3919786f31200a0be6ceae0c582a61d5943cbaa0aa5657d"
+      },
+      "sha256": "c85222344536c62546b4913af8aaa9efc4bffc0be8cea62630eeefc910455771",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/quay.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

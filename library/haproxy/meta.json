@@ -1,0 +1,40 @@
+{
+  "collection_id": 1438,
+  "schema_version": 1,
+  "id": 1665,
+  "title": "Haproxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "haproxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6924,
+      "collection": "Dashboard Icons",
+      "file": "haproxy.svg",
+      "id": 2874,
+      "is_default": true,
+      "label": "haproxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haproxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec71f5b26b248ae4759f2d5586f54eb6257906835252024de1330f9f23ce665c"
+      },
+      "sha256": "8d846a9d20d98407f083e2353960057bfdc71f5383d11c7146ae4684de82e5a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haproxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

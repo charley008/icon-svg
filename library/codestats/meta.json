@@ -1,0 +1,63 @@
+{
+  "collection_id": 1002,
+  "schema_version": 1,
+  "id": 1229,
+  "title": "Codestats",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Monitoring-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "codestats",
+    "Code Analytics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1998,
+      "collection": "Dashboard Icons",
+      "file": "codestats.svg",
+      "id": 2297,
+      "is_default": true,
+      "label": "codestats",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "codestats.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a541dd4c2f9d21cad431c409bf571083545dcdb02a687d891e334b64c0d386f"
+      },
+      "sha256": "6502c93849b9bdd515307d776d3605c7cf2b142c5b2b105c4077371b70970639",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codestats.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2022,
+      "collection": "Dashboard Icons",
+      "file": "codestats-1.svg",
+      "id": 2298,
+      "is_default": false,
+      "label": "codestats-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "codestats-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4fa7616f538fc6a4083070e431791326177f9cd9c2eb0dd10b9e207d145f32e"
+      },
+      "sha256": "b5f79a38367168addfb068243ad1f7cb9beaad3c57425681d72afaf078504b37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codestats-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

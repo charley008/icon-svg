@@ -1,0 +1,40 @@
+{
+  "collection_id": 2042,
+  "schema_version": 1,
+  "id": 2269,
+  "title": "Openscap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openscap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 294,
+      "collection": "Dashboard Icons",
+      "file": "openscap.svg",
+      "id": 3688,
+      "is_default": true,
+      "label": "openscap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openscap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "93b734918be358fcf14309a3fc727bb643ddae967df73c161c0bcb6aa43de815"
+      },
+      "sha256": "1708b8d07e939a157f2352eabc7e78022731f8ff967a07d78280ffd08ed406db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openscap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

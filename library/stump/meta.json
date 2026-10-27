@@ -1,0 +1,62 @@
+{
+  "collection_id": 2710,
+  "schema_version": 1,
+  "id": 2937,
+  "title": "Stump",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers"
+  ],
+  "aliases": [
+    "stump",
+    "comic-book-reader",
+    "cbr-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 34481,
+      "collection": "Dashboard Icons",
+      "file": "stump.svg",
+      "id": 4571,
+      "is_default": true,
+      "label": "stump",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stump.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c63cc0b4c95f6c1784d384031d1d010d88fd0e37381a7955fe7bc743e0ac03bb"
+      },
+      "sha256": "c5858a1835c0d0e929f2de391624b73c07e403eb29cde0d915c1fbc7dff06594",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stump.svg",
+      "version": 0
+    },
+    {
+      "bytes": 78860,
+      "collection": "Dashboard Icons",
+      "file": "stump-1.svg",
+      "id": 4572,
+      "is_default": false,
+      "label": "stump-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stump-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca99c4f396d250821b89f92e8b2820861cb7b3da6a12520a9b5fc7eb35c2d583"
+      },
+      "sha256": "ad0cd902a9f161846c6431b6aba36278c210dfaaf5fff4e1e9e245d9413ad6c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stump-alt.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

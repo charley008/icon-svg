@@ -1,0 +1,42 @@
+{
+  "collection_id": 864,
+  "schema_version": 1,
+  "id": 1091,
+  "title": "Bewcloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud-Computing"
+  ],
+  "aliases": [
+    "bewcloud",
+    "Hosting Provider"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1488,
+      "collection": "Dashboard Icons",
+      "file": "bewcloud.svg",
+      "id": 2113,
+      "is_default": true,
+      "label": "bewcloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bewcloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85883d3b0e5227a11d1987f99442ec2e8fbf5c6979c9da1f4a62d9d9168c7fe4"
+      },
+      "sha256": "f8e58a575254c9021f03be546b1eef9ce534f2de0a871c151e040df9c5f4939e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bewcloud.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

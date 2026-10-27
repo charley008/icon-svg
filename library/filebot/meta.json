@@ -1,0 +1,43 @@
+{
+  "collection_id": 1258,
+  "schema_version": 1,
+  "id": 1485,
+  "title": "Filebot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Download-Managers"
+  ],
+  "aliases": [
+    "filebot",
+    "Media Renamer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5757,
+      "collection": "Dashboard Icons",
+      "file": "filebot.svg",
+      "id": 2641,
+      "is_default": true,
+      "label": "filebot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filebot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e8ece7363f74cc5d7c48e8e2e3b95e6bf7127e82c59c05bedbf074d047441012"
+      },
+      "sha256": "fc1a5acdd4a793f4d3bc2c4c0466b64009f1860bbc83d54eb9ce8e960f811c32",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filebot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

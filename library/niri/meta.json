@@ -1,0 +1,64 @@
+{
+  "collection_id": 1947,
+  "schema_version": 1,
+  "id": 2174,
+  "redirect_from": [
+    2175
+  ],
+  "title": "Niri",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "niri",
+    "niri-wordmark-light",
+    "Niri Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27248,
+      "collection": "Dashboard Icons",
+      "file": "niri.svg",
+      "id": 3547,
+      "is_default": true,
+      "label": "niri",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "niri.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be6e821f56c411cde41c50f6d7e12b6bb76fb3a2a3a0fc99658e7e3b129569fa"
+      },
+      "sha256": "c7134fe16cf5eea4fe2ec39f71cc4edc21f231f02af6d93f512c34535c9b5e93",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/niri.svg",
+      "version": 0
+    },
+    {
+      "bytes": 52158,
+      "collection": "Dashboard Icons",
+      "file": "niri-1.svg",
+      "id": 3548,
+      "is_default": false,
+      "label": "niri-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "niri-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5f3287079f5a315d38895f2ce1acab9bb0728c0d9bc52210a89f2efefc5b85d7"
+      },
+      "sha256": "462020007ec542f7351d3f8bc8744ecdc31b8a38679b4d803cdf629292583230",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/niri-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

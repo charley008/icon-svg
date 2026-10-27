@@ -1,0 +1,64 @@
+{
+  "collection_id": 1548,
+  "schema_version": 1,
+  "id": 1775,
+  "redirect_from": [
+    1776
+  ],
+  "title": "Infor Xa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "infor-xa",
+    "infor-xa-wordmark-light",
+    "Infor Xa Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2507,
+      "collection": "Dashboard Icons",
+      "file": "infor-xa.svg",
+      "id": 3023,
+      "is_default": true,
+      "label": "infor-xa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infor-xa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ad52477f983b3602f574e413101439a2d1a2d46562bd60e303a924f4337bedd8"
+      },
+      "sha256": "bb7931ff55cf893acd3c42f9bbe237552dbf92faf6d4eb11d394259a1ba25a2c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infor-xa.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1306,
+      "collection": "Dashboard Icons",
+      "file": "infor-xa-1.svg",
+      "id": 3024,
+      "is_default": false,
+      "label": "infor-xa-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infor-xa-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3d0cc28e2d247684d30394872f1d67cd85ad6ca6a59f73afc12a0ce770d5808a"
+      },
+      "sha256": "def396087e3097ea58f0f206e07212280ef6640983e0256c0b31956b5d17321d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infor-xa-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

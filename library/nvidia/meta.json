@@ -37,8 +37,27 @@
       "sha256": "dc5c6749947c17bede40ac9da84a68de78d15c8aa2443a757a4b594adb1c6777",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/nvidia-1.svg",
       "version": 0
+    },
+    {
+      "bytes": 858,
+      "collection": "Dashboard Icons",
+      "file": "nvidia-1.svg",
+      "id": 3588,
+      "is_default": false,
+      "label": "nvidia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nvidia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b86bad95e9ffa7445939a60a30a7afe0d9874d6a3158c1d44f25d0a22762701"
+      },
+      "sha256": "278fc5bf721e0b251c87acca9e630ff920cfc4cc7f89ee5fdd156608fd792a59",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nvidia.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

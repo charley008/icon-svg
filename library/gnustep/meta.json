@@ -1,0 +1,59 @@
+{
+  "collection_id": 1377,
+  "schema_version": 1,
+  "id": 1604,
+  "title": "Gnustep",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gnustep"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 777,
+      "collection": "Dashboard Icons",
+      "file": "gnustep.svg",
+      "id": 2783,
+      "is_default": true,
+      "label": "gnustep",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gnustep.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bf5aa8bf7aeb1d7d032b86434b5444c08ac3a65eae977cd97c8069f04100a14e"
+      },
+      "sha256": "66aaee12c03e12f5ad552a2e148d4a48ac94b80ea500046676cbbe84da381701",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gnustep.svg",
+      "version": 0
+    },
+    {
+      "bytes": 790,
+      "collection": "Dashboard Icons",
+      "file": "gnustep-1.svg",
+      "id": 2784,
+      "is_default": false,
+      "label": "gnustep-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gnustep-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1b740af7cf05061aa41d97f72e03bfcd4b5384fe2e31df69aea18834283e1cc"
+      },
+      "sha256": "d4ee3ed4f926f6cd8de4fe1d2e224b0bcbb838435beea8506213792293b8775a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gnustep-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

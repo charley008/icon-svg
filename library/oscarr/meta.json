@@ -1,0 +1,59 @@
+{
+  "collection_id": 2060,
+  "schema_version": 1,
+  "id": 2287,
+  "title": "Oscarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oscarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1970,
+      "collection": "Dashboard Icons",
+      "file": "oscarr.svg",
+      "id": 3710,
+      "is_default": true,
+      "label": "oscarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oscarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c184b7f6bf5b30f9fffb2e5236a8e845d648f613fa1be705bc8345a94c8c08f9"
+      },
+      "sha256": "97aa9e424b3ca69a660e338c37ae9c601068362fbfee38724f7f60c0cbbe2852",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oscarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1989,
+      "collection": "Dashboard Icons",
+      "file": "oscarr-1.svg",
+      "id": 3711,
+      "is_default": false,
+      "label": "oscarr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oscarr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2fc6394cc4835d914fa755a989a06f3128af67b6173e83a9c6a0d2fb052b0e9c"
+      },
+      "sha256": "d994a93cbe1e2fe6c96ef158ce85eee7a2883cb47589f021842e76f4e75c4989",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oscarr-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

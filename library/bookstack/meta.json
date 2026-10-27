@@ -1,4 +1,7 @@
 {
+  "collection_id": 511,
+  "schema_version": 1,
+  "id": 683,
   "title": "BookStack",
   "url": "https://www.bookstackapp.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "bookstack.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "875148604f2e828e977c23a9afa04869dd958dd6300650ec3350eff9c242cd64",
       "bytes": 794,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bookstack.svg",
+      "collection": "Dashboard Icons",
+      "file": "bookstack.svg",
+      "id": 1644,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "bookstack.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "875148604f2e828e977c23a9afa04869dd958dd6300650ec3350eff9c242cd64",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bookstack.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

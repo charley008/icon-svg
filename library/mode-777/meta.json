@@ -1,0 +1,64 @@
+{
+  "collection_id": 1844,
+  "schema_version": 1,
+  "id": 2071,
+  "redirect_from": [
+    2072
+  ],
+  "title": "Mode 777",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mode-777",
+    "mode-777-wordmark",
+    "Mode 777 Wordmark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2776,
+      "collection": "Dashboard Icons",
+      "file": "mode-777.svg",
+      "id": 3413,
+      "is_default": true,
+      "label": "mode-777",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mode-777.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02ab3d7e51378fc260bbe3b844b77cac4b4dddd9e1bcface2049d02ae84be7fc"
+      },
+      "sha256": "e646cb12040afbb471da6445c22a1a59c802bc9e27e214f82575bb8e26a01e02",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mode-777.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7491,
+      "collection": "Dashboard Icons",
+      "file": "mode-777-1.svg",
+      "id": 3414,
+      "is_default": false,
+      "label": "mode-777-wordmark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mode-777-wordmark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "231f5e0d2c0c520f05bc4a1badeb4ea275d485297cf20b527afd29984738d94f"
+      },
+      "sha256": "6bedb038aaa706e0c23e0f236217811ebb3378e5680f739e4328dafac6148b12",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mode-777-wordmark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

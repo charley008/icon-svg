@@ -1,0 +1,78 @@
+{
+  "collection_id": 2228,
+  "schema_version": 1,
+  "id": 2455,
+  "title": "Prozilla Os",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "prozilla-os"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3960,
+      "collection": "Dashboard Icons",
+      "file": "prozilla-os.svg",
+      "id": 3950,
+      "is_default": true,
+      "label": "prozilla-os",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prozilla-os.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e73d7575efd9b1ad30dcfea5bbf4a87614ffb70e02c9a098a0d676e9f42dd4f2"
+      },
+      "sha256": "3924f2fae1858ce04e8ec40e2f9a6a16cd7d7e5fa045536fa074237dc5b75b44",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prozilla-os.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3954,
+      "collection": "Dashboard Icons",
+      "file": "prozilla-os-1.svg",
+      "id": 3951,
+      "is_default": false,
+      "label": "prozilla-os-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prozilla-os-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6cad907dd35a8c70408e0bd73b081cd3f982b62b1f839fd8cb7c9d230fc19b46"
+      },
+      "sha256": "01eb3333d03644dbf555b489d8824ffe0a61872dd1305d1d273562089e388251",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prozilla-os-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3960,
+      "collection": "Dashboard Icons",
+      "file": "prozilla-os-2.svg",
+      "id": 3952,
+      "is_default": false,
+      "label": "prozilla-os-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prozilla-os-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd2be5f05d02eb51a0b671374549290b2fb971bddb0c1dc170ae9cb48a8e9c2d"
+      },
+      "sha256": "c7d9b28e42b90c79e28e9b66cbe35c50e02b50a6da155e8650e9177a3ae95a7b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prozilla-os-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

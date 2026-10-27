@@ -1,0 +1,42 @@
+{
+  "collection_id": 2019,
+  "schema_version": 1,
+  "id": 2246,
+  "title": "Open Observe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "open-observe",
+    "openobserve"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5192,
+      "collection": "Dashboard Icons",
+      "file": "open-observe.svg",
+      "id": 3650,
+      "is_default": true,
+      "label": "open-observe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-observe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "28f5b26a023b7669838b53959a3be1e021c298f7a693ccc295a2373181d3a6b2"
+      },
+      "sha256": "f3f32e43d27408298e82ba6e6f03a04514a5e4523eb5a319c4284b8f86e51df3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-observe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3202,
+  "schema_version": 1,
+  "id": 3465,
+  "title": "Photon Engine",
+  "url": "https://www.photonengine.com",
+  "domains": [
+    "photonengine.com"
+  ],
+  "description": "用于联网游戏开发的服务与开发套件。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Photon Engine",
+    "photonengine",
+    "Photon-Engine-"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4793,
+      "collection": "TechIcons / Devicon",
+      "file": "photonengine-1.svg",
+      "id": 5313,
+      "is_default": true,
+      "label": "TechIcons · Photon Engine",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Photon-Engine-.svg",
+        "original_sha256": "e5fba4bc3d5c05d2722fd89c994b28017e8199a9bd4bea01b80ebba4e6652fc2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/photonengine",
+        "reference_website": "https://www.photonengine.com"
+      },
+      "sha256": "8725cdea991d8ab1ef404a4f0de177d1ec1f8665be3c969325bbf85085847d83",
+      "source": "https://techicons.dev/icons/photonengine",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

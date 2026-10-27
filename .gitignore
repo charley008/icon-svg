@@ -14,3 +14,6 @@
 /library/.library.lock
 /library/.pending.json
 /library/**/.tmp-*
+__pycache__/
+/.local-tests/
+/.playwright-cli/

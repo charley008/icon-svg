@@ -1,0 +1,40 @@
+{
+  "collection_id": 3062,
+  "schema_version": 1,
+  "id": 3289,
+  "title": "Zomro",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zomro"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11855,
+      "collection": "Dashboard Icons",
+      "file": "zomro.svg",
+      "id": 5028,
+      "is_default": true,
+      "label": "zomro",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zomro.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca906f53d223a6297a0566076a17eb1ee68e250165edd2b4f07c55ea146a2f94"
+      },
+      "sha256": "13a99472e5aa2f693bef1d7ded7401071e5ee910838ed8dc02c11287e042bac3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zomro.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 1689,
+  "schema_version": 1,
+  "id": 1916,
+  "title": "Librechat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "librechat",
+    "libre-chat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5811,
+      "collection": "Dashboard Icons",
+      "file": "librechat.svg",
+      "id": 3198,
+      "is_default": true,
+      "label": "librechat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "librechat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb7f60b14de3698d2f650146b920f8ff9cede4bea0a1f00fed01ca0ba81e5876"
+      },
+      "sha256": "a2135b3346526de00a7476e3db6d4efeeb47d53abfb65f1b1edb0e87f966c6be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librechat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

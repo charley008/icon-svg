@@ -1,0 +1,59 @@
+{
+  "collection_id": 1622,
+  "schema_version": 1,
+  "id": 1849,
+  "title": "Keenetic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "keenetic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 970,
+      "collection": "Dashboard Icons",
+      "file": "keenetic.svg",
+      "id": 3117,
+      "is_default": true,
+      "label": "keenetic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keenetic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "69f6c4d709537805056f74e3942aff207aa206f706aa5b94c334c733e6f057e1"
+      },
+      "sha256": "e6787115826903f237104283b013ab126957b77e87424481a633ba78300b8865",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keenetic.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1280,
+      "collection": "Dashboard Icons",
+      "file": "keenetic-1.svg",
+      "id": 3118,
+      "is_default": false,
+      "label": "keenetic-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keenetic-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa2a9df5b443b88507523dab519be99fd3a9f178e0c132a0f2190fe51310e085"
+      },
+      "sha256": "36605f531faa120507e85630c762d7d3120e4333d8df98e880954c8acbb18fc8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keenetic-alt.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

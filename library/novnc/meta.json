@@ -1,0 +1,40 @@
+{
+  "collection_id": 1965,
+  "schema_version": 1,
+  "id": 2192,
+  "title": "Novnc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "novnc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8509,
+      "collection": "Dashboard Icons",
+      "file": "novnc.svg",
+      "id": 3571,
+      "is_default": true,
+      "label": "novnc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "novnc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5adeb73a30f636cfcd4b93ed196e47123b214f9c2f77dc3cd9fd367a37987135"
+      },
+      "sha256": "10cbbd6b9eee512deb13bcb9dfd995bd612e1156d205e3e27902ea84db4271b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/novnc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

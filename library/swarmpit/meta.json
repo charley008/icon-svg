@@ -1,0 +1,44 @@
+{
+  "collection_id": 2729,
+  "schema_version": 1,
+  "id": 2956,
+  "title": "Swarmpit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Monitoring-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "swarmpit",
+    "Docker Swarm UI"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1519,
+      "collection": "Dashboard Icons",
+      "file": "swarmpit.svg",
+      "id": 4593,
+      "is_default": true,
+      "label": "swarmpit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "swarmpit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a06bc21b299b6fab3f83b1d85c70f56ed7d434c5217947ba3fc36ced9d279fe"
+      },
+      "sha256": "3a559345f56f8bfe8ac41d366aed00e901e96a5746d69ce6949f9e9df9129996",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/swarmpit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

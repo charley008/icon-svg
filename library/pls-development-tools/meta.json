@@ -1,0 +1,40 @@
+{
+  "collection_id": 2168,
+  "schema_version": 1,
+  "id": 2395,
+  "title": "Pls Development Tools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pls-development-tools"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 809,
+      "collection": "Dashboard Icons",
+      "file": "pls-development-tools.svg",
+      "id": 3866,
+      "is_default": true,
+      "label": "pls-development-tools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pls-development-tools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4f7ccd2751eff0df5179c522c1fc7697124496f46b9cdc7b2f3db060680a7b4"
+      },
+      "sha256": "c5378c60882997d34edf2dca8bfb0a3c3cf430aaf277e1d68ae65f979104db4a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pls-development-tools.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,60 @@
+{
+  "collection_id": 1601,
+  "schema_version": 1,
+  "id": 1828,
+  "title": "Julia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "julia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 630,
+      "collection": "Dashboard Icons",
+      "file": "julia.svg",
+      "id": 3091,
+      "is_default": true,
+      "label": "julia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "julia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "df32636fd5c4fe0f457e43b18274a91b1b562281224673eeb4924e6cd83a151a"
+      },
+      "sha256": "f40e935d80403f34e90ec7818568902d5f4e3571273802cd2e75c5a787d58242",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/julia.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1082,
+      "collection": "TechIcons / Devicon",
+      "file": "julia-1.svg",
+      "id": 5231,
+      "is_default": false,
+      "label": "TechIcons · Julia",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Julia.svg",
+        "original_sha256": "7738541f247986f495c154b385098b8a4db9b22963912050a81d4055e2437085",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/julia",
+        "reference_website": "https://julialang.org"
+      },
+      "sha256": "fee37cc90bafdde4a8470f2423eb1a5d674eb6abdd28f95b9dc4155881713f82",
+      "source": "https://techicons.dev/icons/julia",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

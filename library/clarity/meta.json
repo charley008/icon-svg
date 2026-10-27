@@ -1,0 +1,45 @@
+{
+  "collection_id": 3094,
+  "schema_version": 1,
+  "id": 3333,
+  "title": "Clarity",
+  "url": "https://clarity-lang.org",
+  "domains": [
+    "clarity-lang.org"
+  ],
+  "description": "用于构建 Web 界面的组件与设计体系。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Clarity",
+    "clarity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2212,
+      "collection": "TechIcons / Devicon",
+      "file": "clarity-1.svg",
+      "id": 5104,
+      "is_default": true,
+      "label": "TechIcons · Clarity",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Clarity.svg",
+        "original_sha256": "4fc8fc2a973c7d18c0f34d51f723c5ba83a0800ff40b10242c85c9c086577e33",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/clarity",
+        "reference_website": "https://clarity-lang.org"
+      },
+      "sha256": "0d1e3d3cc313b90e798305564c29ae2fb847ac11d6fea535253b85d91b067731",
+      "source": "https://techicons.dev/icons/clarity",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

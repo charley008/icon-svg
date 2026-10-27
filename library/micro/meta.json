@@ -1,0 +1,40 @@
+{
+  "collection_id": 1818,
+  "schema_version": 1,
+  "id": 2045,
+  "title": "Micro",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "micro"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1782,
+      "collection": "Dashboard Icons",
+      "file": "micro.svg",
+      "id": 3366,
+      "is_default": true,
+      "label": "micro",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "micro.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40a20719600abc60bdaa3c32f5760010e051e6dd6f71b1482cb53860a65d8a18"
+      },
+      "sha256": "f7834153dd9930450dd85162642828bcdb266712e9c523c5e1ae2357e0204e25",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/micro.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

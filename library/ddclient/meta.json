@@ -1,0 +1,40 @@
+{
+  "collection_id": 1080,
+  "schema_version": 1,
+  "id": 1307,
+  "title": "Ddclient",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ddclient"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1674,
+      "collection": "Dashboard Icons",
+      "file": "ddclient.svg",
+      "id": 2398,
+      "is_default": true,
+      "label": "ddclient",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ddclient.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c5244ec26b55f1125737a12c032d022a854d8d1f6cbd114a6e8e1274abbb114"
+      },
+      "sha256": "8f1d40fc95db704c1f121c9cecadeb7d3454a36bdd403663cd06026e00a05a25",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ddclient.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

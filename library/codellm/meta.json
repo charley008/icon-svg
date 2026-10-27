@@ -1,0 +1,41 @@
+{
+  "collection_id": 1000,
+  "schema_version": 1,
+  "id": 1227,
+  "title": "Codellm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "codellm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5746,
+      "collection": "Dashboard Icons",
+      "file": "codellm.svg",
+      "id": 2294,
+      "is_default": true,
+      "label": "codellm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "codellm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "84c22e430014d4c302dbfbf27ef4d4f145b1be7e088702764399982ed8a6b8a5"
+      },
+      "sha256": "ac3f1ea348fb0e9d301490dc5e3499aeefecbb28fd124f655f8ba1beb2f4469d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/codellm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

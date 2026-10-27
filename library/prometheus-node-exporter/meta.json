@@ -1,0 +1,40 @@
+{
+  "collection_id": 2220,
+  "schema_version": 1,
+  "id": 2447,
+  "title": "Prometheus Node Exporter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "prometheus-node-exporter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2803,
+      "collection": "Dashboard Icons",
+      "file": "prometheus-node-exporter.svg",
+      "id": 3937,
+      "is_default": true,
+      "label": "prometheus-node-exporter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prometheus-node-exporter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a9c4f49c400f93c8d799020d446716c04ce475d710cf37661b5da5271e8a618"
+      },
+      "sha256": "975cd06bc63b624b22b6dd5d52f7789cafed84767d413fe23f9b3f9c75b8bd87",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prometheus-node-exporter.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

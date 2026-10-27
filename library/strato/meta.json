@@ -1,0 +1,40 @@
+{
+  "collection_id": 2708,
+  "schema_version": 1,
+  "id": 2935,
+  "title": "Strato",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "strato"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 560,
+      "collection": "Dashboard Icons",
+      "file": "strato.svg",
+      "id": 4567,
+      "is_default": true,
+      "label": "strato",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "strato.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "055c5594d9fb50bd3d745be00775d1e64d33fc96d8ae22c1e6766e019586aa6f"
+      },
+      "sha256": "03c3f2973a275b0f15853155b19532c454df8b83bacf0bac72c3b5cd70e737da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/strato.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

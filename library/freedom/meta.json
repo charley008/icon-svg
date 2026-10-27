@@ -1,0 +1,40 @@
+{
+  "collection_id": 1324,
+  "schema_version": 1,
+  "id": 1551,
+  "title": "Freedom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freedom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16967,
+      "collection": "Dashboard Icons",
+      "file": "freedom.svg",
+      "id": 2717,
+      "is_default": true,
+      "label": "freedom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freedom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "58ee51d6ae55cd4d8e399bf922d142d9d356a225bcae3ebb33831c7743a678ad"
+      },
+      "sha256": "212c1d377df8916928d90d681ea0b48d00610d9581173ef70e36469014e254dd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freedom.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

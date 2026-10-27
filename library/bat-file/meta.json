@@ -1,0 +1,40 @@
+{
+  "collection_id": 853,
+  "schema_version": 1,
+  "id": 1080,
+  "title": "Bat File",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bat-file"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3225,
+      "collection": "Dashboard Icons",
+      "file": "bat-file.svg",
+      "id": 2097,
+      "is_default": true,
+      "label": "bat-file",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bat-file.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97dbf94122d0d7374d80603178272d7a995614a302e97f7c28d0db7c5f25eb30"
+      },
+      "sha256": "e81531a4d03fce0e1660a2c6075093c44115fb906abb50f28484c83a31395a41",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bat-file.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2144,
+  "schema_version": 1,
+  "id": 2371,
+  "title": "Pigeonpod",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pigeonpod"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 23198,
+      "collection": "Dashboard Icons",
+      "file": "pigeonpod.svg",
+      "id": 3832,
+      "is_default": true,
+      "label": "pigeonpod",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pigeonpod.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "911c6f6bf2807433a3d1815551bcb6595f43c128eb2e6ce99a8917553a18d5da"
+      },
+      "sha256": "0fc8574eeb2952333691ba5984e0f12e3ea961d1e74e34742591fbcde025575c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pigeonpod.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

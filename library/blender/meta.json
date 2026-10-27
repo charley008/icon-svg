@@ -39,8 +39,47 @@
       "source": "https://cdn.worldvectorlogo.com/logos/blender-1.svg",
       "source_page": "https://worldvectorlogo.com/zh/logo/blender-1",
       "version": 0
+    },
+    {
+      "bytes": 2265,
+      "collection": "Dashboard Icons",
+      "file": "blender-1.svg",
+      "id": 2138,
+      "is_default": false,
+      "label": "blender",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "blender.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1f42ae0f0daf1d41112ac6a745cdb3a76819b0dbfda5343f61d3dff5112911b"
+      },
+      "sha256": "b38ac4256e8bf713871589a0961b5ab219751a5107a7f0c2817ae6c6aa0cf2b4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blender.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1650,
+      "collection": "TechIcons / Devicon",
+      "file": "blender-2.svg",
+      "id": 5092,
+      "is_default": false,
+      "label": "TechIcons · Blender",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Blender.svg",
+        "original_sha256": "5bc649b99a194452082c84c5c71ebfb4f3fb15adda65ad703872ca8de0d3ee7a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/blender",
+        "reference_website": "https://www.blender.org"
+      },
+      "sha256": "2a6d1c4602a164b6adfe3f779dfcc46da12189ae9bb963eb2225fce6a80c5a5f",
+      "source": "https://techicons.dev/icons/blender",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

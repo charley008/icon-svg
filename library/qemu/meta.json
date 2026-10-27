@@ -1,0 +1,78 @@
+{
+  "collection_id": 2429,
+  "schema_version": 1,
+  "id": 2656,
+  "title": "Qemu",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "qemu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1511,
+      "collection": "Dashboard Icons",
+      "file": "qemu.svg",
+      "id": 4217,
+      "is_default": true,
+      "label": "qemu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qemu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cdf001329bc3d8d825c6a7e4f76c1f5c03328f853447277089adfcc3a8ade52"
+      },
+      "sha256": "06f0632a494b0fb267914a8d425528ee17ad40fcd48b322728e39ada40b182bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qemu.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1511,
+      "collection": "Dashboard Icons",
+      "file": "qemu-1.svg",
+      "id": 4218,
+      "is_default": false,
+      "label": "qemu-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qemu-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "26f9b9174402638f98e78cffafebebe6bb8a8b5dc21590b976b303491d15a9db"
+      },
+      "sha256": "5fe2e6aaf20037223365aece0d09529aaf1cad815ac71c75551a43b22fddbc9c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qemu-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1511,
+      "collection": "Dashboard Icons",
+      "file": "qemu-2.svg",
+      "id": 4219,
+      "is_default": false,
+      "label": "qemu-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qemu-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c85d727280b9d392c040a909f5956b324e644dc2331c466401d4567d6d25b0ba"
+      },
+      "sha256": "8a6c7dec521183a99e096c5dfc66fbab9d507980cb450ec5337f2ed8ae147c6f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qemu-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

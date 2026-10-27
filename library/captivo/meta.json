@@ -1,0 +1,40 @@
+{
+  "collection_id": 935,
+  "schema_version": 1,
+  "id": 1162,
+  "title": "Captivo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "captivo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 607,
+      "collection": "Dashboard Icons",
+      "file": "captivo.svg",
+      "id": 2209,
+      "is_default": true,
+      "label": "captivo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "captivo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b8722f5d59abbf876d26c9fe824d294f411b82df1396e43b3cbba3276d68589f"
+      },
+      "sha256": "d44e37a4f81766879a8cd2f2c8f2f271063c3e3c11ed131e473d1eb6d0068505",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/captivo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

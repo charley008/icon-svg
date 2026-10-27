@@ -1,0 +1,42 @@
+{
+  "collection_id": 1352,
+  "schema_version": 1,
+  "id": 1579,
+  "title": "Garuda Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "garuda-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18921,
+      "collection": "Dashboard Icons",
+      "file": "garuda-linux.svg",
+      "id": 2750,
+      "is_default": true,
+      "label": "garuda-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "garuda-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36559b73b0a65e50b4f0978644bd31b88d48776bd58d3028b7d993c0bdccf709"
+      },
+      "sha256": "8ac31a3634703ecbdf138fc217eb70a91c6714d4592ef5f0c3560a5b594e9c28",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/garuda-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

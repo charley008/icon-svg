@@ -1,0 +1,40 @@
+{
+  "collection_id": 2062,
+  "schema_version": 1,
+  "id": 2289,
+  "title": "Osmapp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "osmapp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 586,
+      "collection": "Dashboard Icons",
+      "file": "osmapp.svg",
+      "id": 3713,
+      "is_default": true,
+      "label": "osmapp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "osmapp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8fb5dda38312cd277dc226936898952c92829c3525a6fa9c0ef71d1562741521"
+      },
+      "sha256": "0bd8f184d1f524d5967f482780ef35d40ccca2fc143618e6172418db2277a6ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/osmapp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

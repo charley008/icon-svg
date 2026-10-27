@@ -1,0 +1,40 @@
+{
+  "collection_id": 945,
+  "schema_version": 1,
+  "id": 1172,
+  "title": "Cert Manager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cert-manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11821,
+      "collection": "Dashboard Icons",
+      "file": "cert-manager.svg",
+      "id": 2222,
+      "is_default": true,
+      "label": "cert-manager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cert-manager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "116626cf9939a139c2802055039dac655e0cd369b200fdd188b1fe79cef5492f"
+      },
+      "sha256": "491c52420c2ea7a9cfaf5d74ddadfa07450dad49899cf9b548e1a3ce9d3e6659",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cert-manager.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

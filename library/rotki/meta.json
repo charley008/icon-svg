@@ -1,0 +1,42 @@
+{
+  "collection_id": 2522,
+  "schema_version": 1,
+  "id": 2749,
+  "title": "Rotki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "rotki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6568,
+      "collection": "Dashboard Icons",
+      "file": "rotki.svg",
+      "id": 4330,
+      "is_default": true,
+      "label": "rotki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rotki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de7d3fd35bed71f72256afe2897bef639188c6ac69f749bf23fd008333d91cd5"
+      },
+      "sha256": "df39819ac6955e8947055a5fd36e0dffed0f30bc9533e2ba38ddcf7c14ce3e99",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rotki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

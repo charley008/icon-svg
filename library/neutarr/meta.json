@@ -1,0 +1,40 @@
+{
+  "collection_id": 1911,
+  "schema_version": 1,
+  "id": 2138,
+  "title": "Neutarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "neutarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1283,
+      "collection": "Dashboard Icons",
+      "file": "neutarr.svg",
+      "id": 3503,
+      "is_default": true,
+      "label": "neutarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neutarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76b18b76db457929b2c79271a02865924a713e03c08ef15f183d7978426f2f63"
+      },
+      "sha256": "dbb1c78f21875ea15549c4624519ea05aa2f8a7e53acfb805ed7ebb5f411a46c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neutarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

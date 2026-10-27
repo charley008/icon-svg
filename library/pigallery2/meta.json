@@ -1,0 +1,59 @@
+{
+  "collection_id": 2143,
+  "schema_version": 1,
+  "id": 2370,
+  "title": "Pigallery2",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pigallery2"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5540,
+      "collection": "Dashboard Icons",
+      "file": "pigallery2.svg",
+      "id": 3830,
+      "is_default": true,
+      "label": "pigallery2",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pigallery2.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b53269bff0141e9d845d33fb81eb5c1542a40fdc9e317864f4d85e228af4da5f"
+      },
+      "sha256": "518102386069cff760ecc9dff29ebea49ca5117ad6f61fd3a21ce3e55d5bda53",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pigallery2.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5540,
+      "collection": "Dashboard Icons",
+      "file": "pigallery2-1.svg",
+      "id": 3831,
+      "is_default": false,
+      "label": "pigallery2-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pigallery2-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ead98754906edddcd1c4c2daa4c43ed435c83375e83b3f0b66b6f1ad7ca57cb"
+      },
+      "sha256": "eb916669f0191d2f3e36febe8c7e25dd97006197f7ee7d0c5a9a33e419ae73ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pigallery2-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

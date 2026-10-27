@@ -148,9 +148,47 @@
       "sha256": "e81f756735ccffde6d2e12e705aa7e0b2fb7a16e022d781e21dbbb0a8fed90d2",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#minimax-icon",
       "version": 5
+    },
+    {
+      "bytes": 776,
+      "collection": "Dashboard Icons",
+      "file": "minimax-6.svg",
+      "id": 3391,
+      "is_default": false,
+      "label": "minimax",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e514235f472e335f8bb0094ddcc2762b7e38e0dca66225893294457081cc6abf"
+      },
+      "sha256": "8cf9e9085a8b53163a3904bbbc0ecf0cca21583d2d8e7d95496ce6da8a61c8f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minimax.svg",
+      "version": 6
+    },
+    {
+      "bytes": 776,
+      "collection": "Dashboard Icons",
+      "file": "minimax-7.svg",
+      "id": 3392,
+      "is_default": false,
+      "label": "minimax-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "minimax-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "04208ec11d1e96bae9381aa61525e7387d2cba0c191bf632b1b2431546933741"
+      },
+      "sha256": "1aaf2ee9813866302d4b3a66a0927c1ca45a3ac5dad429c96b71c45115e872e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/minimax-light.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": [
     {
       "id": 382,

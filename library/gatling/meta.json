@@ -1,0 +1,45 @@
+{
+  "collection_id": 3128,
+  "schema_version": 1,
+  "id": 3370,
+  "title": "Gatling",
+  "url": "https://gatling.io",
+  "domains": [
+    "gatling.io"
+  ],
+  "description": "用于应用和服务的负载测试工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Gatling",
+    "gatling"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 592,
+      "collection": "TechIcons / Devicon",
+      "file": "gatling-1.svg",
+      "id": 5166,
+      "is_default": true,
+      "label": "TechIcons · Gatling",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gatling.svg",
+        "original_sha256": "52ecaa1a72a4c8ab5c199e4d2351814acdec586c983f2a75d928188b84a36d25",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gatling",
+        "reference_website": "https://gatling.io"
+      },
+      "sha256": "a60f9bf400dfbaa7334e7bace9b133e0501a5d4f84eb112ebe5e4c78d2c3f849",
+      "source": "https://techicons.dev/icons/gatling",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

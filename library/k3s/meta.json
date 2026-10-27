@@ -1,0 +1,78 @@
+{
+  "collection_id": 1605,
+  "schema_version": 1,
+  "id": 1832,
+  "title": "K3S",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "k3s"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 685,
+      "collection": "Dashboard Icons",
+      "file": "k3s.svg",
+      "id": 3096,
+      "is_default": true,
+      "label": "k3s",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "k3s.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "66efa6ec3d579a5e0158b2570391f7a8bd4a62f256bbc99e5caf85d6a058ab1e"
+      },
+      "sha256": "0ea4fff45bc05590ead5b5937a3c0c3b19653342a282b983202cbdc2e72516d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/k3s.svg",
+      "version": 0
+    },
+    {
+      "bytes": 685,
+      "collection": "Dashboard Icons",
+      "file": "k3s-1.svg",
+      "id": 3097,
+      "is_default": false,
+      "label": "k3s-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "k3s-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9115ab0268ac903c07f7c609973bc364704d0261bbc76ef144a677cccb9e3089"
+      },
+      "sha256": "fca4304dff5142e705828358f8eeba1ddfc5ab526f31c94dbe7bc19008e59772",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/k3s-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 685,
+      "collection": "Dashboard Icons",
+      "file": "k3s-2.svg",
+      "id": 3098,
+      "is_default": false,
+      "label": "k3s-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "k3s-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68f31a889f6853e7db72514566b16042eb41591e19cfb9c27b9d9013c516dfb0"
+      },
+      "sha256": "f4bd8a2ef41af7c573da7367a08ac018335ea310ffac4a68c5a5eb4e8f8fe39a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/k3s-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,61 @@
+{
+  "collection_id": 2066,
+  "schema_version": 1,
+  "id": 2293,
+  "title": "Otter Wiki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "otter-wiki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15676,
+      "collection": "Dashboard Icons",
+      "file": "otter-wiki.svg",
+      "id": 3718,
+      "is_default": true,
+      "label": "otter-wiki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "otter-wiki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "078e107cd00aea2f23dcbed58ddf6da8d46dc31cc055c0929cad8cb981457863"
+      },
+      "sha256": "862557f4ccbff840f0537ace5f264ba431413251686f520816eec29316c1318b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/otter-wiki.svg",
+      "version": 0
+    },
+    {
+      "bytes": 15688,
+      "collection": "Dashboard Icons",
+      "file": "otter-wiki-1.svg",
+      "id": 3719,
+      "is_default": false,
+      "label": "otter-wiki-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "otter-wiki-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f75f690e921ea9c3f0f55709773caab44de7e7870bf7a88fda9c30da749ddaaa"
+      },
+      "sha256": "a7281e91b189dd8798d9409aecad089f65b7946539616eb41a698717870f1f1d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/otter-wiki-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

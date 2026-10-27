@@ -1,0 +1,59 @@
+{
+  "collection_id": 1068,
+  "schema_version": 1,
+  "id": 1295,
+  "title": "Dashboard Icons",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dashboard-icons"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1012,
+      "collection": "Dashboard Icons",
+      "file": "dashboard-icons.svg",
+      "id": 2384,
+      "is_default": true,
+      "label": "dashboard-icons",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dashboard-icons.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3906f2eb8035d9478fcf0b7ce921ab9722ad3ca3ad04f1d3ae3f80ffeec1933d"
+      },
+      "sha256": "c072e1e58195fd26c5dde391e51f7c56bdbe7751d23d68db5357081bec73ac7a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dashboard-icons.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1012,
+      "collection": "Dashboard Icons",
+      "file": "dashboard-icons-1.svg",
+      "id": 2385,
+      "is_default": false,
+      "label": "dashboard-icons-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dashboard-icons-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce553a44b800aa28de598bd42ce100ba4207aa72f3c3e8367d8c733009bfe710"
+      },
+      "sha256": "60a98ad82ea36819a1e0a590cce62b92afe988b3e51f29d876d2a9d0663f78f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dashboard-icons-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

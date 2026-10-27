@@ -1,0 +1,44 @@
+{
+  "collection_id": 1959,
+  "schema_version": 1,
+  "id": 2186,
+  "title": "Notediscovery",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "notediscovery",
+    "note-discovery",
+    "Note Discovery"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1160,
+      "collection": "Dashboard Icons",
+      "file": "notediscovery.svg",
+      "id": 3563,
+      "is_default": true,
+      "label": "notediscovery",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notediscovery.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f77fd622df5a6e142636e73c45e0d96295008de946eabe5e31ecf65c3c671e3f"
+      },
+      "sha256": "76582970e22ffcf4524e57ae13b4753ddf0d434feca0a2d8bcc7c370a0f8ba43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notediscovery.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2167,
+  "schema_version": 1,
+  "id": 2394,
+  "title": "Plexrequests",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "plexrequests"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 215,
+      "collection": "Dashboard Icons",
+      "file": "plexrequests.svg",
+      "id": 3864,
+      "is_default": true,
+      "label": "plexrequests",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plexrequests.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "47b2e1e64fb9e0036683f1d02a7d2162b8fb86c723abf5b25b432407dd6243cc"
+      },
+      "sha256": "3453683815f9403c15b87048fc3c3e49352732167ecba25214068e538e059890",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plexrequests.svg",
+      "version": 0
+    },
+    {
+      "bytes": 227,
+      "collection": "Dashboard Icons",
+      "file": "plexrequests-1.svg",
+      "id": 3865,
+      "is_default": false,
+      "label": "plexrequests-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plexrequests-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b84f99749df5a365c212b457f860afb8d10b089c3b5e6437a9cd3a8ee2feb98d"
+      },
+      "sha256": "6bb09fe2376dc90fca6f4148c73cdd6551962bbe049247061138887b0eba050c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plexrequests-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

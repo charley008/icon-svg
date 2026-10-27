@@ -1,0 +1,59 @@
+{
+  "collection_id": 2133,
+  "schema_version": 1,
+  "id": 2360,
+  "title": "Phorge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "phorge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 603,
+      "collection": "Dashboard Icons",
+      "file": "phorge.svg",
+      "id": 3813,
+      "is_default": true,
+      "label": "phorge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phorge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1af86716fc2989f2e9ae018d0a720e8a7f6e8d429b88d768e7e1fc51bd7e3cee"
+      },
+      "sha256": "5e974ba182ede0aec6d4f1b5e1b0f8e66c31b00c427cef6b1a59ae2ac2606426",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phorge.svg",
+      "version": 0
+    },
+    {
+      "bytes": 615,
+      "collection": "Dashboard Icons",
+      "file": "phorge-1.svg",
+      "id": 3814,
+      "is_default": false,
+      "label": "phorge-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phorge-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea9c4d579e2d7bd422926ce1823a48de686dec581a8df1fb2a39ce6676606812"
+      },
+      "sha256": "ba3f059c46fa8b1cceb265893e76fa14d923e685f2c5ef54016beb3e0e619ac7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phorge-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

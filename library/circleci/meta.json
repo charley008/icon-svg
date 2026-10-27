@@ -1,0 +1,45 @@
+{
+  "collection_id": 3093,
+  "schema_version": 1,
+  "id": 3332,
+  "title": "CircleCI",
+  "url": "https://circleci.com",
+  "domains": [
+    "circleci.com"
+  ],
+  "description": "持续集成和持续交付平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "CircleCI",
+    "circleci"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "TechIcons / Devicon",
+      "file": "circleci-1.svg",
+      "id": 5103,
+      "is_default": true,
+      "label": "TechIcons · CircleCI",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CircleCI.svg",
+        "original_sha256": "77a7fb145905ac57daa12223b40dcf6527eb4c001120a3a92f5bb065dec93688",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/circleci",
+        "reference_website": "https://circleci.com"
+      },
+      "sha256": "cd11cadb9d03b173063a167c3834d9d0fca2e776af28e2182bf9139973863e0c",
+      "source": "https://techicons.dev/icons/circleci",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

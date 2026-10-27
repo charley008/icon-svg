@@ -1,0 +1,42 @@
+{
+  "collection_id": 1885,
+  "schema_version": 1,
+  "id": 2112,
+  "title": "Mysterium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "mysterium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2219,
+      "collection": "Dashboard Icons",
+      "file": "mysterium.svg",
+      "id": 3464,
+      "is_default": true,
+      "label": "mysterium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mysterium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63545afa759e495961e2ae59d37d25e5ba9c233bb88abe90321fff2754bf42ba"
+      },
+      "sha256": "843375b8e78dc88108be7488b0b68a2f66a00c824ff246e5d7b9376135249db7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mysterium.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 1866,
+  "schema_version": 1,
+  "id": 2093,
+  "title": "Mtlynch Picoshare",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "网盘存储"
+  ],
+  "aliases": [
+    "mtlynch-picoshare"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1493,
+      "collection": "Dashboard Icons",
+      "file": "mtlynch-picoshare.svg",
+      "id": 3441,
+      "is_default": true,
+      "label": "mtlynch-picoshare",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mtlynch-picoshare.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb7322fed541f6b6948b75a7e9b8792de7d35eded4b46c2527aced94827ac069"
+      },
+      "sha256": "69ca5a15f35bf7a033c2705665128c6d97abf8c9340871bf0f3160554a6c78fe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mtlynch-picoshare.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

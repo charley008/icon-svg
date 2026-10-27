@@ -1,0 +1,45 @@
+{
+  "collection_id": 3134,
+  "schema_version": 1,
+  "id": 3381,
+  "title": "Gradle",
+  "url": "https://gradle.org",
+  "domains": [
+    "gradle.org"
+  ],
+  "description": "支持多种语言的软件构建自动化工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Gradle",
+    "gradle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1698,
+      "collection": "TechIcons / Devicon",
+      "file": "gradle-1.svg",
+      "id": 5187,
+      "is_default": true,
+      "label": "TechIcons · Gradle",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gradle.svg",
+        "original_sha256": "3f59b203d5c4023272270e30aef3cfe7cc7c4fa0a2796227144f4d44b1f08218",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gradle",
+        "reference_website": "https://gradle.org"
+      },
+      "sha256": "2c0b156f101450346e01ffffda16a8835aacc555680a4ca00857969311e48e9a",
+      "source": "https://techicons.dev/icons/gradle",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

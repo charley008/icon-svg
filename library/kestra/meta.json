@@ -1,0 +1,44 @@
+{
+  "collection_id": 1627,
+  "schema_version": 1,
+  "id": 1854,
+  "title": "Kestra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "DevOps",
+    "开发编程"
+  ],
+  "aliases": [
+    "kestra",
+    "Workflow Orchestration"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1333,
+      "collection": "Dashboard Icons",
+      "file": "kestra.svg",
+      "id": 3123,
+      "is_default": true,
+      "label": "kestra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kestra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "21e4f9da9dbd7645a991ae1dd6759a4ad91cc9b777b8d3f4711c8f06cf4d111c"
+      },
+      "sha256": "95df539552e8e62a545aaea76e7e23a828b1db856b3519bd6c856f388511f446",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kestra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

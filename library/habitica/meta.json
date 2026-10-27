@@ -1,0 +1,59 @@
+{
+  "collection_id": 1433,
+  "schema_version": 1,
+  "id": 1660,
+  "title": "Habitica",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "habitica"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2247,
+      "collection": "Dashboard Icons",
+      "file": "habitica.svg",
+      "id": 2867,
+      "is_default": true,
+      "label": "habitica",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "habitica.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b89ece1bec50030fef0f612872d1313f0b60c610985ab3ecfdfb634e01fb5a2"
+      },
+      "sha256": "a264e8eba8093a492adc67c00bfc98afe8b5ba2d9ca47f6a04638c136a90fe25",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/habitica.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2247,
+      "collection": "Dashboard Icons",
+      "file": "habitica-1.svg",
+      "id": 2868,
+      "is_default": false,
+      "label": "habitica-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "habitica-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f480e3abd51c0b3b4250d2779a2ff4260a0dc96ad926b84ad333839ed28f7ae8"
+      },
+      "sha256": "3058018fdf73dc7893b10aaeb3f2894959e610bec994855a174b34094bdf222a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/habitica-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

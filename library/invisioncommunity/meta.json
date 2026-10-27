@@ -1,0 +1,40 @@
+{
+  "collection_id": 1555,
+  "schema_version": 1,
+  "id": 1782,
+  "title": "Invisioncommunity",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "invisioncommunity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 334,
+      "collection": "Dashboard Icons",
+      "file": "invisioncommunity.svg",
+      "id": 3031,
+      "is_default": true,
+      "label": "invisioncommunity",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "invisioncommunity.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "addd3e442e011278730bf650e06a84767c53802164e9dc9d7382a9e3b9283e0d"
+      },
+      "sha256": "62fe9f2c3b3a5b99f66cdb9157c70fbb09eb730ad7d28a713797c5a94112fab1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/invisioncommunity.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

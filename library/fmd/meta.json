@@ -1,0 +1,40 @@
+{
+  "collection_id": 1305,
+  "schema_version": 1,
+  "id": 1532,
+  "title": "Fmd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fmd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 466,
+      "collection": "Dashboard Icons",
+      "file": "fmd.svg",
+      "id": 2694,
+      "is_default": true,
+      "label": "fmd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fmd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf398f06d57ce5be879d91722470bbdd2a4ff41bde1357aa9ba877bc33263ad2"
+      },
+      "sha256": "b170646af5ae9136d9e232b9d3cf67f2a1e692e038b3956f9e46651349390541",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fmd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

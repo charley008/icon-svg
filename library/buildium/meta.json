@@ -1,0 +1,42 @@
+{
+  "collection_id": 915,
+  "schema_version": 1,
+  "id": 1142,
+  "title": "Buildium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "buildium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 477,
+      "collection": "Dashboard Icons",
+      "file": "buildium.svg",
+      "id": 2183,
+      "is_default": true,
+      "label": "buildium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "buildium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02c3ae063375dd01974dd7cdf0af1c532c91495d1e7a4bac80a18dc4cc14743d"
+      },
+      "sha256": "82e12df7cd893ab2f731233a9f20655402c2ddd2fd49d36a5e4bca163847cb8a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/buildium.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 3057,
+  "schema_version": 1,
+  "id": 3284,
+  "title": "Zipline Diced",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media",
+    "File"
+  ],
+  "aliases": [
+    "zipline-diced",
+    "diced-zipline",
+    "zipline-file"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10400,
+      "collection": "Dashboard Icons",
+      "file": "zipline-diced.svg",
+      "id": 5022,
+      "is_default": true,
+      "label": "zipline-diced",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zipline-diced.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b7aa35304ed7d0df025de39daf995b75bd582c374cc7a994ab298ecef4057a7c"
+      },
+      "sha256": "82c2e0001049da4bf150374cda6eefbcde9aeb8f411a1369d48e512111b6025a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zipline-diced.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

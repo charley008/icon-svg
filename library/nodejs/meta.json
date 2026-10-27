@@ -55,8 +55,85 @@
       "sha256": "ed9515f4b31fcb65adefa8888dfdaefb2e4d57c1dc6d1d798037e1f58038dd1f",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/nodejs-3.svg",
       "version": 0
+    },
+    {
+      "bytes": 1750,
+      "collection": "Dashboard Icons",
+      "file": "nodejs-2.svg",
+      "id": 3554,
+      "is_default": false,
+      "label": "nodejs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nodejs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a38f1f19900a97d0e89b6210ab1c901aacf0148d580379cbb9d0706132b3fadd"
+      },
+      "sha256": "b8c322586bd637c1961559c3b6ca2af5983dcf922088e82c0ce4c4aaad7afbd2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nodejs.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2619,
+      "collection": "Dashboard Icons",
+      "file": "nodejs-3.svg",
+      "id": 3555,
+      "is_default": false,
+      "label": "nodejs-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nodejs-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89a98a8e83640a233a1d522f36b42921c4e7dcc05ea972df61a730e8442fb9de"
+      },
+      "sha256": "6a2096d766b412730faa2e71e8e7dc0035cf99e64a313a3c10e6e38e43536253",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nodejs-alt.svg",
+      "version": 3
+    },
+    {
+      "bytes": 87548,
+      "collection": "Dashboard Icons",
+      "file": "nodejs-4.svg",
+      "id": 3556,
+      "is_default": false,
+      "label": "nodejs-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nodejs-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "edb6305fb5712ed71bbddadf71355e4e3719ccc91218002644f2ccbb89443563"
+      },
+      "sha256": "39521c6f279e9ac78acc55aaf7c727849e5679f7d0f437aaa2d940a51ddc1175",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nodejs-kawaii.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1570,
+      "collection": "TechIcons / Devicon",
+      "file": "nodejs-5.svg",
+      "id": 5287,
+      "is_default": false,
+      "label": "TechIcons · Node.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Node.js.svg",
+        "original_sha256": "597b870ecbd5278fda4a2c86e1e1504bab2ada3dfda39479dee72fa42c3ae9b0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nodejs",
+        "reference_website": "https://nodejs.org"
+      },
+      "sha256": "cfd92a0804655a97931c7949cdc30157c163f49080348f157a543551777d97f0",
+      "source": "https://techicons.dev/icons/nodejs",
+      "version": 5
     }
   ],
-  "next_version": 2,
+  "next_version": 6,
   "products": []
 }

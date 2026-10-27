@@ -1,4 +1,7 @@
 {
+  "collection_id": 532,
+  "schema_version": 1,
+  "id": 708,
   "title": "FileZilla",
   "url": "https://filezilla-project.org/",
   "domains": [
@@ -21,23 +24,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "filezilla.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "e5b967a661861ba25036f3312a104ae745734ddbcc1ef62a8ae9162b54a89f0c",
       "bytes": 3489,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filezilla.svg",
+      "collection": "Dashboard Icons",
+      "file": "filezilla.svg",
+      "id": 1668,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "filezilla.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "e5b967a661861ba25036f3312a104ae745734ddbcc1ef62a8ae9162b54a89f0c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filezilla.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2798,
+      "collection": "TechIcons / Devicon",
+      "file": "filezilla-1.svg",
+      "id": 5159,
+      "is_default": false,
+      "label": "TechIcons · FileZilla",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "FileZilla.svg",
+        "original_sha256": "268fc906cf4465106e2d41a4cbb3708666b2ec5e156e98ba354411c14342f4e7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/filezilla",
+        "reference_website": "https://filezilla-project.org"
+      },
+      "sha256": "b7f0a84c4f8e62e33ddf50fa2c80e5518906e63e221d8325a5da5f6a825ace64",
+      "source": "https://techicons.dev/icons/filezilla",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

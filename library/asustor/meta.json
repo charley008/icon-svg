@@ -1,0 +1,40 @@
+{
+  "collection_id": 765,
+  "schema_version": 1,
+  "id": 992,
+  "title": "Asustor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "asustor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2114,
+      "collection": "Dashboard Icons",
+      "file": "asustor.svg",
+      "id": 1986,
+      "is_default": true,
+      "label": "asustor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "asustor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "307c6cfa7639ffa5c6aa302ccfad9390f732a59f7c64c9bd6193f8bfe212e5e8"
+      },
+      "sha256": "a27855e11b9040e14ef0bd01beb1938967230b9e3f3fdffa4547dd6737f9b5ff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asustor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

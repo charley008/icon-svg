@@ -1,0 +1,44 @@
+{
+  "collection_id": 2661,
+  "schema_version": 1,
+  "id": 2888,
+  "title": "Sourcegraph",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Web-Browsers",
+    "开发编程"
+  ],
+  "aliases": [
+    "sourcegraph",
+    "Code Search"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 846,
+      "collection": "Dashboard Icons",
+      "file": "sourcegraph.svg",
+      "id": 4511,
+      "is_default": true,
+      "label": "sourcegraph",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sourcegraph.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa0a9b2ce4241ce75ead37c31b5a33ec5627479586373bf4227285e578867b18"
+      },
+      "sha256": "aa0e8ae233a647d166fceba7617730f78bc2f9b9f0ea932c6dbb48e83bdce54e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sourcegraph.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

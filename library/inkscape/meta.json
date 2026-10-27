@@ -1,0 +1,46 @@
+{
+  "collection_id": 3145,
+  "schema_version": 1,
+  "id": 3393,
+  "title": "Inkscape",
+  "url": "https://inkscape.org",
+  "domains": [
+    "inkscape.org"
+  ],
+  "description": "开源矢量图形编辑软件。",
+  "category": "设计素材",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Inkscape",
+    "inkscape",
+    "Inkscape-"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15518,
+      "collection": "TechIcons / Devicon",
+      "file": "inkscape-1.svg",
+      "id": 5210,
+      "is_default": true,
+      "label": "TechIcons · Inkscape",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Inkscape-.svg",
+        "original_sha256": "f5a8856a8bcbaf563948872ee6fd41236112e37e8c5abfc5784290c84495532e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/inkscape",
+        "reference_website": "https://inkscape.org"
+      },
+      "sha256": "08a962aeccc3479072455849933424710483753c5fd6929690e7b405181e8ee7",
+      "source": "https://techicons.dev/icons/inkscape",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

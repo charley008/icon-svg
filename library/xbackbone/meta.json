@@ -1,0 +1,40 @@
+{
+  "collection_id": 3003,
+  "schema_version": 1,
+  "id": 3230,
+  "title": "Xbackbone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xbackbone"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1208,
+      "collection": "Dashboard Icons",
+      "file": "xbackbone.svg",
+      "id": 4952,
+      "is_default": true,
+      "label": "xbackbone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xbackbone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a80fb9ff36cb04c8232cffbdcb5e9d0cd51c809afceb7d2efdb49b4dc0e10009"
+      },
+      "sha256": "1d635289efd87f9a1a492c9f0127e43f138b5a9f770a4423765bfe09e8e56a47",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xbackbone.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

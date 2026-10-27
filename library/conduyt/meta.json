@@ -1,0 +1,64 @@
+{
+  "collection_id": 1012,
+  "schema_version": 1,
+  "id": 1239,
+  "redirect_from": [
+    1240
+  ],
+  "title": "Conduyt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "conduyt",
+    "conduyt-wordmark-light",
+    "Conduyt Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1924,
+      "collection": "Dashboard Icons",
+      "file": "conduyt.svg",
+      "id": 2312,
+      "is_default": true,
+      "label": "conduyt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "conduyt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f30a3a32eb0b011afd8e8b9f99f39fcf87b7103d2e0d49e323c04cf5d142a36"
+      },
+      "sha256": "271a8ea111cdf0ec0b3582e9494056d4d721b2c8c0336df42024a54a915229c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/conduyt.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5266,
+      "collection": "Dashboard Icons",
+      "file": "conduyt-1.svg",
+      "id": 2313,
+      "is_default": false,
+      "label": "conduyt-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "conduyt-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3262d3b36c30700d3f13d08be4ac1e694011008f7c0b98d68ead18140aa98d15"
+      },
+      "sha256": "604d643e1c1af1b30a1a6b4b0536f5b7a76764ba2dbe47c3d9490cebf56631e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/conduyt-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

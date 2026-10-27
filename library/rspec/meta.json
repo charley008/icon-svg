@@ -1,0 +1,45 @@
+{
+  "collection_id": 3225,
+  "schema_version": 1,
+  "id": 3488,
+  "title": "RSpec",
+  "url": "https://rspec.info",
+  "domains": [
+    "rspec.info"
+  ],
+  "description": "Ruby 项目的行为驱动测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "RSpec",
+    "rspec"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1662,
+      "collection": "TechIcons / Devicon",
+      "file": "rspec-1.svg",
+      "id": 5346,
+      "is_default": true,
+      "label": "TechIcons · RSpec",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "RSpec.svg",
+        "original_sha256": "79d2730e96b25ac90e300cdd5a1bf9fb765b11046247313c89ea2e3633473e7e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/rspec",
+        "reference_website": "https://rspec.info"
+      },
+      "sha256": "00f7de39549c3590da3e8071a275651347a2c2b76206708ada68869270fb1020",
+      "source": "https://techicons.dev/icons/rspec",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

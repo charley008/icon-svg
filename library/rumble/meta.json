@@ -1,0 +1,44 @@
+{
+  "collection_id": 2531,
+  "schema_version": 1,
+  "id": 2758,
+  "title": "Rumble",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "rumble",
+    "youtube-alternative",
+    "video-sharing-site"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 888,
+      "collection": "Dashboard Icons",
+      "file": "rumble.svg",
+      "id": 4339,
+      "is_default": true,
+      "label": "rumble",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rumble.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "67a77d43fd881a4ed56e87a1add90d6d48cd34d7b58ef5e1864c2453f569aae0"
+      },
+      "sha256": "1bb5bce9e4ba846a7eacafadf70c1a63f8153a425a3beca278b7fbeb6559e84f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rumble.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

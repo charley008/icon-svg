@@ -139,5 +139,44 @@
     }
   ],
   "next_version": 5,
-  "products": []
+  "products": [
+    {
+      "id": 2988,
+      "key": "archive",
+      "title": "Telegram Archive",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "telegram-archive"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1156,
+          "collection": "Dashboard Icons",
+          "file": "telegram-archive.svg",
+          "id": 4636,
+          "is_default": true,
+          "label": "telegram-archive",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "telegram-archive.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "dd76651fdb062b36bc81d4d3684fb8463cafb6eb0c66b2ed4f9b188044ea8724"
+          },
+          "sha256": "0da6d14c248754826c4749478c98cb21dcd8446bc87d846454d6263dd4da5c58",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram-archive.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2634,
+  "schema_version": 1,
+  "id": 2861,
+  "title": "Slidev",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "slidev"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3047,
+      "collection": "Dashboard Icons",
+      "file": "slidev.svg",
+      "id": 4476,
+      "is_default": true,
+      "label": "slidev",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slidev.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d9c2ec0401fea745e72c7d65e608bc857ed4fe3b76de5eef12bfa2a010cfacf"
+      },
+      "sha256": "bfdb912e253851bbaae2e11f7ad6c0e80fe5efa8e81892c673789c2eff6bb99d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/slidev.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

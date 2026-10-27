@@ -1,4 +1,7 @@
 {
+  "collection_id": 622,
+  "schema_version": 1,
+  "id": 847,
   "title": "Syncthing",
   "url": "https://syncthing.net/",
   "domains": [
@@ -21,23 +24,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "syncthing.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "65d1430f7522bea0507259929f0033d7c62539d14757d7c6f5b62574eb4da2d3",
       "bytes": 1187,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/syncthing.svg",
+      "collection": "Dashboard Icons",
+      "file": "syncthing.svg",
+      "id": 1804,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "syncthing.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "65d1430f7522bea0507259929f0033d7c62539d14757d7c6f5b62574eb4da2d3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/syncthing.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1254,
+      "collection": "Dashboard Icons",
+      "file": "syncthing-1.svg",
+      "id": 4603,
+      "is_default": false,
+      "label": "syncthing-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "syncthing-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "173d0b69e7f88a522b984f3342ad67f97191d1a262c5044f26ad68305b47d38b"
+      },
+      "sha256": "99cffdb018ba48e2383ce00e6a3ad3ba40889432339e9f1021ff1586b7f37505",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/syncthing-dark.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

@@ -1,0 +1,85 @@
+{
+  "collection_id": 2128,
+  "schema_version": 1,
+  "id": 2355,
+  "title": "Pfsense",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "Networking-Tools",
+    "Security",
+    "Linux-Distributions"
+  ],
+  "aliases": [
+    "pfsense",
+    "Firewall",
+    "Router OS"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1447,
+      "collection": "Dashboard Icons",
+      "file": "pfsense.svg",
+      "id": 3803,
+      "is_default": true,
+      "label": "pfsense",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pfsense.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "073c91999dfb7cb1997a0d7ce00bc82281ce0ed78cf95a5df573d193a9f4903c"
+      },
+      "sha256": "909249bada80e4806be265b8c4e39ce0bdf39fce18ec3bff99fea4ad9189c827",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pfsense.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1447,
+      "collection": "Dashboard Icons",
+      "file": "pfsense-1.svg",
+      "id": 3804,
+      "is_default": false,
+      "label": "pfsense-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pfsense-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fab4dd42c0da598180d675fa0a1c456cbcc0eea0d2b165312eaf663b86f9776c"
+      },
+      "sha256": "496dbfc3580297cb5ea022a4d4eae5c83b2ab31c034768aa24e2960f8fc80287",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pfsense-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1549,
+      "collection": "TechIcons / Devicon",
+      "file": "pfsense-2.svg",
+      "id": 5310,
+      "is_default": false,
+      "label": "TechIcons · pfSense",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "pfSense.svg",
+        "original_sha256": "63055e02010d369c922b47be2fac651fc7f1b85ab8d5e4bf79d6cc0e7c892559",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/pfsense",
+        "reference_website": "https://www.pfsense.org"
+      },
+      "sha256": "7ee5686b57de191f921abac2328d68e76ffd973217943e25e619ef0bb6a8cf2d",
+      "source": "https://techicons.dev/icons/pfsense",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

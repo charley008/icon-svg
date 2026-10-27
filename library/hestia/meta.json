@@ -1,0 +1,40 @@
+{
+  "collection_id": 1470,
+  "schema_version": 1,
+  "id": 1697,
+  "title": "Hestia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hestia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10510,
+      "collection": "Dashboard Icons",
+      "file": "hestia.svg",
+      "id": 2925,
+      "is_default": true,
+      "label": "hestia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hestia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c40111755d312514601aff063735cc92581e6a90a987e085dc4b82aacce82925"
+      },
+      "sha256": "251e935a5c2b374444a41438cf2df67a462a0b4f801ffcc2306b9c54ff635786",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hestia.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1812,
+  "schema_version": 1,
+  "id": 2039,
+  "title": "Met Office Uk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "met-office-uk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4012,
+      "collection": "Dashboard Icons",
+      "file": "met-office-uk.svg",
+      "id": 3360,
+      "is_default": true,
+      "label": "met-office-uk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "met-office-uk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "207b1418150a727732fefd4e72d9d19b979bb615bf05ab8ff41789fd39fca7f4"
+      },
+      "sha256": "59fbfb38640a8ea6e1f456add1dd7524d1d0a8a2326fe94b26b549d4deb9823d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/met-office-uk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1386,
+  "schema_version": 1,
+  "id": 1613,
+  "title": "Gonic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gonic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 38853,
+      "collection": "Dashboard Icons",
+      "file": "gonic.svg",
+      "id": 2800,
+      "is_default": true,
+      "label": "gonic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gonic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a84cf990bd3e47edc1a14fb19a9980e708f082a083fc435656b9abf9e38ad88f"
+      },
+      "sha256": "f67b5e27a5bb12af41e48f0b09135503dd46932ea59e47b467d171ea942dc437",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gonic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1784,
+  "schema_version": 1,
+  "id": 2011,
+  "title": "Material Design Icons",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "material-design-icons"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 747,
+      "collection": "Dashboard Icons",
+      "file": "material-design-icons.svg",
+      "id": 3320,
+      "is_default": true,
+      "label": "material-design-icons",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "material-design-icons.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dc31da561db330abe1395987b70872325461d694ba6c6ca2b6d4467a0c7ea6d9"
+      },
+      "sha256": "4c6a625a13ee7f3418e9b908c81c877b9a4338454fec2cc6aa3c470a0f5124d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/material-design-icons.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

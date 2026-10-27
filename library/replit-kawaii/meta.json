@@ -1,0 +1,41 @@
+{
+  "collection_id": 2496,
+  "schema_version": 1,
+  "id": 2723,
+  "title": "Replit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "replit-kawaii",
+    "Replit Kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 122278,
+      "collection": "Dashboard Icons",
+      "file": "replit-kawaii.svg",
+      "id": 4296,
+      "is_default": true,
+      "label": "replit-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "replit-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dc6b696323802200e9527e608947956ab7ae6539d366b12e39a0ddf7b9617273"
+      },
+      "sha256": "aa8c56abac577b82a151919846461614b25b880ab141c9db8982b5216540b35a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/replit-kawaii.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

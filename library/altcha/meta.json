@@ -1,0 +1,40 @@
+{
+  "collection_id": 696,
+  "schema_version": 1,
+  "id": 923,
+  "title": "Altcha",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "altcha"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1158,
+      "collection": "Dashboard Icons",
+      "file": "altcha.svg",
+      "id": 1889,
+      "is_default": true,
+      "label": "altcha",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "altcha.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "41841f351642a2d0d5b3f48078284141d0561ebf7adda16faa1a309bc9c7d1ba"
+      },
+      "sha256": "ccb41be43ca07493b6709cbd707820e08a796156041809441f57db3db03da9fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/altcha.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

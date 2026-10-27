@@ -1,4 +1,7 @@
 {
+  "collection_id": 596,
+  "schema_version": 1,
+  "id": 821,
   "title": "Prowlarr",
   "url": "https://prowlarr.com/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "prowlarr.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "cd7736bcef6550ad853e59d4d7205f96e9db8ae44be957ca5b7eae7046f5bc67",
       "bytes": 9043,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prowlarr.svg",
+      "collection": "Dashboard Icons",
+      "file": "prowlarr.svg",
+      "id": 1778,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "prowlarr.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "cd7736bcef6550ad853e59d4d7205f96e9db8ae44be957ca5b7eae7046f5bc67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prowlarr.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

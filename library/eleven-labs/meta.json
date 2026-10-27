@@ -1,0 +1,40 @@
+{
+  "collection_id": 1185,
+  "schema_version": 1,
+  "id": 1412,
+  "title": "Eleven Labs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "eleven-labs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3496,
+      "collection": "Dashboard Icons",
+      "file": "eleven-labs.svg",
+      "id": 2542,
+      "is_default": true,
+      "label": "eleven-labs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "eleven-labs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3b7e72e2d6b31d2fe55509d422be582ec7bb170aecd644fe1155136f52fb8466"
+      },
+      "sha256": "d86d9036ed51214d391fb60e564e8c70272cd19131a72d1ad0cb9133d6accc69",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eleven-labs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

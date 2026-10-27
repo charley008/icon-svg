@@ -1,0 +1,79 @@
+{
+  "collection_id": 1497,
+  "schema_version": 1,
+  "id": 1724,
+  "title": "Html",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "html"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 674,
+      "collection": "Dashboard Icons",
+      "file": "html.svg",
+      "id": 2960,
+      "is_default": true,
+      "label": "html",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "html.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "64100b7846dfc9bd1790ae35546cdd331f9a023bb05a00e8c4aa3f33822b4b93"
+      },
+      "sha256": "90aed2f65f86768f9fe4ca8d33e34adcfe2f4eb0f94edd9978b5f0b1d112693f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/html.svg",
+      "version": 0
+    },
+    {
+      "bytes": 686,
+      "collection": "Dashboard Icons",
+      "file": "html-1.svg",
+      "id": 2961,
+      "is_default": false,
+      "label": "html-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "html-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf08131fc8d987a91675cbade29db3d7b454ab0a756aa6dc64af8ff090952852"
+      },
+      "sha256": "1db141aedf43aa0929b9b3a8132a0f21850ecdd274903a4524e29c46c010e68d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/html-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 650,
+      "collection": "TechIcons / Devicon",
+      "file": "html-2.svg",
+      "id": 5205,
+      "is_default": false,
+      "label": "TechIcons · HTML5",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "HTML5.svg",
+        "original_sha256": "34826e5b3315daadf4fa15f723a3c1d5ba4a89277bfd94e22ac4d7d3d54338c5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/html5",
+        "reference_website": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+      },
+      "sha256": "72b5e9aac2480af3f993c7db231ee6275fec4dd435bfc3b8fa28852cb06b79b4",
+      "source": "https://techicons.dev/icons/html5",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

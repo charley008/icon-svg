@@ -36,8 +36,47 @@
       "sha256": "8cceb8579b6ed01308e810648d89095a89d90d22aeb0f2cce55ed26297b43777",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/git-1.svg",
       "version": 0
+    },
+    {
+      "bytes": 835,
+      "collection": "Dashboard Icons",
+      "file": "git-1.svg",
+      "id": 2764,
+      "is_default": false,
+      "label": "git",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "git.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85e3e8c8e95285f4f4007fb29e3adb1ea85a6c0390aa706389e5c1aa9e6ac31b"
+      },
+      "sha256": "43c8dc5d70195ecb4e6bbc1ec614579cec7c9bd602ad315a9891944e16449224",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/git.svg",
+      "version": 1
+    },
+    {
+      "bytes": 818,
+      "collection": "TechIcons / Devicon",
+      "file": "git-2.svg",
+      "id": 5173,
+      "is_default": false,
+      "label": "TechIcons · Git",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Git.svg",
+        "original_sha256": "717a57ea97bf7e86de721dab3e68afac66332a10676d5c9abce4ae6a5a9c9983",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/git",
+        "reference_website": "https://git-scm.com"
+      },
+      "sha256": "0629c7c60d38f8eaf4fd05d5de7e4d6ea578d9e22540cbfd168158e4e432ed89",
+      "source": "https://techicons.dev/icons/git",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

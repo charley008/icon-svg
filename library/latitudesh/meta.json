@@ -1,0 +1,40 @@
+{
+  "collection_id": 1681,
+  "schema_version": 1,
+  "id": 1908,
+  "title": "Latitudesh",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "latitudesh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 614,
+      "collection": "Dashboard Icons",
+      "file": "latitudesh.svg",
+      "id": 3187,
+      "is_default": true,
+      "label": "latitudesh",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "latitudesh.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a3eb50b952ab5c7064aaa665d3bad5af838cd1a449665d5035c2caa22ed8290f"
+      },
+      "sha256": "d560745cb08fc21b6fb2ac34fa1d7cb1d7753c28fbc544ad87b82225c7e447fb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/latitudesh.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

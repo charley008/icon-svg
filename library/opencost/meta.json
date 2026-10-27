@@ -1,0 +1,42 @@
+{
+  "collection_id": 2031,
+  "schema_version": 1,
+  "id": 2258,
+  "title": "Opencost",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "opencost"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5285,
+      "collection": "Dashboard Icons",
+      "file": "opencost.svg",
+      "id": 3671,
+      "is_default": true,
+      "label": "opencost",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opencost.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ae4eba8eb9ce80b2a2b0d93d8d0aab47c510ac220f18c9215357b7358bb1b6d"
+      },
+      "sha256": "7393f0d8626b7026f39f4fbf7d735e2433311fd20ccbffa24b74d9a3990522d7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencost.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,62 @@
+{
+  "collection_id": 2473,
+  "schema_version": 1,
+  "id": 2700,
+  "title": "Readwise Reader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "readwise-reader",
+    "reader",
+    "readwise"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1052,
+      "collection": "Dashboard Icons",
+      "file": "readwise-reader.svg",
+      "id": 4269,
+      "is_default": true,
+      "label": "readwise-reader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "readwise-reader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e17a1934b5836c5ceeb4963b4620b37c3dc7fe7a7123924c3d3fd257a7a35a6"
+      },
+      "sha256": "bb3265b992218ed736939b874337fedca1e9c4c8f88ec1141b738d61a9aa73fb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/readwise-reader.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1296,
+      "collection": "Dashboard Icons",
+      "file": "readwise-reader-1.svg",
+      "id": 4270,
+      "is_default": false,
+      "label": "readwise-reader-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "readwise-reader-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "755a4df41861e570a8bd5c122599925ab6a0b1d686a04766a0b5f34dc6765e5c"
+      },
+      "sha256": "0c7c17185a7382bdaa6c6209fa8bc7733daf443ca2d9cee1dc2ec0320333aee6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/readwise-reader-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

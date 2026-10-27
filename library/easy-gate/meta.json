@@ -1,0 +1,64 @@
+{
+  "collection_id": 1174,
+  "schema_version": 1,
+  "id": 1401,
+  "title": "Easy Gate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Smart-Home",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "easy-gate",
+    "home-automation-hub",
+    "smart-home-controller"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3511,
+      "collection": "Dashboard Icons",
+      "file": "easy-gate.svg",
+      "id": 2526,
+      "is_default": true,
+      "label": "easy-gate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "easy-gate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "00f3b7be5f186385ff2ea64c9a88a6cf61a217413d5b92772c9c3867d1ec19cb"
+      },
+      "sha256": "6cd16af58f02eb8d6d5fa45634ae997029f96163a7987df05fb24f5c20bb2f65",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/easy-gate.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3532,
+      "collection": "Dashboard Icons",
+      "file": "easy-gate-1.svg",
+      "id": 2527,
+      "is_default": false,
+      "label": "easy-gate-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "easy-gate-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b2eb3ba2127411d5b667fe983782ecbc5a0c3fae341791200ceb048b122a669"
+      },
+      "sha256": "100010afb1c9ae195f5be3fcafb8459947de5d185a4856ee39fbf58f582db273",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/easy-gate-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1414,
+  "schema_version": 1,
+  "id": 1641,
+  "title": "Gotomaxx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gotomaxx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 289,
+      "collection": "Dashboard Icons",
+      "file": "gotomaxx.svg",
+      "id": 2840,
+      "is_default": true,
+      "label": "gotomaxx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gotomaxx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f7c4f8c43ec09944ee94bda22e1989a1afd78cbbd77b55bdecfbca5eab51d08f"
+      },
+      "sha256": "18a82b712048458ead938385cab1e9e5e2273892b8fb2f3c219ef8af88d12446",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gotomaxx.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

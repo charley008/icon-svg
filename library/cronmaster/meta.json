@@ -1,0 +1,59 @@
+{
+  "collection_id": 1039,
+  "schema_version": 1,
+  "id": 1266,
+  "title": "Cronmaster",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cronmaster"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9823,
+      "collection": "Dashboard Icons",
+      "file": "cronmaster.svg",
+      "id": 2344,
+      "is_default": true,
+      "label": "cronmaster",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cronmaster.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c36785bcb7fe9692e3b52d0f0d38c65cfa3ad9ef67ef1f23d48eb3d4f8cb3116"
+      },
+      "sha256": "27aeb8d208708b66d18229a85453a6c63e76faa7e13ee0d5c001c013bfe534d1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cronmaster.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9825,
+      "collection": "Dashboard Icons",
+      "file": "cronmaster-1.svg",
+      "id": 2345,
+      "is_default": false,
+      "label": "cronmaster-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cronmaster-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ac7ba6d96fc1c179510c9a9ffc547dc724ea80a07d221f4d37333e30c999c7a"
+      },
+      "sha256": "b8c3ae01fd36a0ce00e93a22534530bf6152869d2838f06ebdc3d163d36bdf46",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cronmaster-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

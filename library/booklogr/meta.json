@@ -1,0 +1,62 @@
+{
+  "collection_id": 890,
+  "schema_version": 1,
+  "id": 1117,
+  "title": "Booklogr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps"
+  ],
+  "aliases": [
+    "booklogr",
+    "book-tracker",
+    "reading-log"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2096,
+      "collection": "Dashboard Icons",
+      "file": "booklogr.svg",
+      "id": 2150,
+      "is_default": true,
+      "label": "booklogr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booklogr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "efe48a1b7b2f5de19bcc1f8f74975fbbb4c43a9b26fe8d67f832c193cd1e5fe3"
+      },
+      "sha256": "fd05ba4ad1e0506d737e7d4dbd04e0047213ef2a7118fb41bcda0838dac97d56",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/booklogr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2072,
+      "collection": "Dashboard Icons",
+      "file": "booklogr-1.svg",
+      "id": 2151,
+      "is_default": false,
+      "label": "booklogr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booklogr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "331b4d66219d854d34512f5b61e4fe29b568f9f22be10e56a9836895b4b27fb6"
+      },
+      "sha256": "1ee5c4f02d91549f86588c9a43368f0dca4bf649444b64800b6e2771a826da37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/booklogr-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

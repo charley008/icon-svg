@@ -1,0 +1,40 @@
+{
+  "collection_id": 1209,
+  "schema_version": 1,
+  "id": 1436,
+  "title": "Enterr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "enterr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11138,
+      "collection": "Dashboard Icons",
+      "file": "enterr.svg",
+      "id": 2574,
+      "is_default": true,
+      "label": "enterr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "enterr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f04569fcb33cb491e6fa6db66ac9c00f92233d2ec6a4e20487b887350a866ae1"
+      },
+      "sha256": "fcd3856923e1fef49c63837d9c2f0055dfac431aa6dba7d4c22da3ddd6786bb9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/enterr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

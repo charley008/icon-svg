@@ -1,0 +1,40 @@
+{
+  "collection_id": 1076,
+  "schema_version": 1,
+  "id": 1303,
+  "title": "Dawarich",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dawarich"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 36402,
+      "collection": "Dashboard Icons",
+      "file": "dawarich.svg",
+      "id": 2393,
+      "is_default": true,
+      "label": "dawarich",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dawarich.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16575c2c68fc06839cc5ef45eebe9a972c5b33a91fa6213406356ca87a309d43"
+      },
+      "sha256": "ad23ddfd83377dc8e212e3186d6beca7c259dd6b6688af06fe785ad78bcb6e1f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dawarich.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

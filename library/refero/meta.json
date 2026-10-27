@@ -1,0 +1,105 @@
+{
+  "collection_id": 2484,
+  "schema_version": 1,
+  "id": 2711,
+  "redirect_from": [
+    2712,
+    2713
+  ],
+  "title": "Refero",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "refero",
+    "refero-mono-fill",
+    "Refero Mono Fill",
+    "refero-mono",
+    "Refero Mono"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1390,
+      "collection": "Dashboard Icons",
+      "file": "refero.svg",
+      "id": 4282,
+      "is_default": true,
+      "label": "refero",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "refero.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a4248b7de0570985a1536df4d12cd308004510a121c3b36b3afff4f4111bba0"
+      },
+      "sha256": "5ea42471940d5a3ce8e0f96a773d005fb2994411f8e494ca310e0a6f3fb4bd35",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/refero.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1388,
+      "collection": "Dashboard Icons",
+      "file": "refero-1.svg",
+      "id": 4283,
+      "is_default": false,
+      "label": "refero-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "refero-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed553add3e33fbdae2d06fe22ffa972c5889c8c5c838d60b3a0b08f9555a5db0"
+      },
+      "sha256": "57a785a49af4c4625ea8c1a7a40c09f4b47c28504c9d02f53b8e198aa26c7392",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/refero-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1150,
+      "collection": "Dashboard Icons",
+      "file": "refero-2.svg",
+      "id": 4285,
+      "is_default": false,
+      "label": "Refero Mono Fill",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "refero-mono-fill.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9234bfc5061f731c7675c5bddbc000aa2ccab0c1461bf47e6480c4208fb81ad1"
+      },
+      "sha256": "cfa012d6a66266b0d07df505d375b71e68ff253d8485512b5c66a6f6814973c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/refero-mono-fill.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1338,
+      "collection": "Dashboard Icons",
+      "file": "refero-3.svg",
+      "id": 4284,
+      "is_default": false,
+      "label": "Refero Mono",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "refero-mono.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7378a7effca7bcba4cee24c5dff5a1539aac3b379367d6547819f532d765dd95"
+      },
+      "sha256": "9f099998b500ff665e288014c030439b199a16f57c29fe0a0e4724c7a28f77f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/refero-mono.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

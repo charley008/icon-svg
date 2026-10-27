@@ -2,6 +2,10 @@
   "collection_id": 297,
   "schema_version": 1,
   "id": 423,
+  "redirect_from": [
+    2256,
+    2257
+  ],
   "title": "OpenCode",
   "url": "https://opencode.ai",
   "domains": [
@@ -17,7 +21,11 @@
     "opencode.ai"
   ],
   "aliases": [
-    "opencode"
+    "opencode",
+    "opencode-wordmark-light",
+    "Opencode Wordmark Light",
+    "opencode-wordmark-dark",
+    "Opencode Wordmark Dark"
   ],
   "notes": [],
   "icons": [
@@ -44,8 +52,84 @@
       "sha256": "0bbd72f9b9d33091fac6ede0ac75df19f54fdf210f85fa5d9b4dbc481c2f63c8",
       "source": "https://web.gotab.cn/sourceStore/website/01KZ80431467J69WSK7R1043DQ.svg",
       "version": 0
+    },
+    {
+      "bytes": 620,
+      "collection": "Dashboard Icons",
+      "file": "opencode-1.svg",
+      "id": 3667,
+      "is_default": false,
+      "label": "opencode",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opencode.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5eeb3a5f14dbbccc03111296ecfd3cd05cc98844150d4f9d77ba921847953380"
+      },
+      "sha256": "74af1de2806c99e4c412261e259aa2a9237a5b9a827ad574e262d69124a4b048",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode.svg",
+      "version": 1
+    },
+    {
+      "bytes": 620,
+      "collection": "Dashboard Icons",
+      "file": "opencode-2.svg",
+      "id": 3668,
+      "is_default": false,
+      "label": "opencode-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opencode-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4e84f87aa7bc2a5f8a72eeb08d3d4f1836b422189256d0bd5e7bfabc830d7ed0"
+      },
+      "sha256": "74f8fcf36a5cc67ba6585dadade9cc0b6a3ca4c244979ede50431a3138327505",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2175,
+      "collection": "Dashboard Icons",
+      "file": "opencode-3.svg",
+      "id": 3670,
+      "is_default": false,
+      "label": "opencode-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opencode-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63577a14ab51a97bda2a1d4bcf751ad151d0fe58caab0f62fcba9816791b525f"
+      },
+      "sha256": "b74e0b0dc1859e074602ea5d736d78a02ed980bb3ab25fdd827718e07eaec482",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2193,
+      "collection": "Dashboard Icons",
+      "file": "opencode-4.svg",
+      "id": 3669,
+      "is_default": false,
+      "label": "opencode-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opencode-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a85aa8114f7200ff0fbd7178b5135aa8efdbbe9611efd4d0d942e6d1c5e6ab5"
+      },
+      "sha256": "c4568788a962d1d6b406f6d9b136feb51a2f1ee2d5900ec7073c9b43c8865d5c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opencode-wordmark-dark.svg",
+      "version": 4
     }
   ],
-  "next_version": 1,
+  "next_version": 5,
   "products": []
 }

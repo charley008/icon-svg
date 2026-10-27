@@ -1,0 +1,40 @@
+{
+  "collection_id": 949,
+  "schema_version": 1,
+  "id": 1176,
+  "title": "Chainguard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chainguard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2227,
+      "collection": "Dashboard Icons",
+      "file": "chainguard.svg",
+      "id": 2227,
+      "is_default": true,
+      "label": "chainguard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chainguard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39e1e588ab134a5531f3190a48218606ed71b6440a7761c111f026e95f27edac"
+      },
+      "sha256": "63594421c45c6eb1f03031edac2ef7d89a19336a8a83ae6fd668897c2c552bed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chainguard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

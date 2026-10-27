@@ -1,0 +1,45 @@
+{
+  "collection_id": 1884,
+  "schema_version": 1,
+  "id": 2111,
+  "title": "Myspeed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Monitoring-Tools",
+    "Web-Browsers",
+    "网络工具"
+  ],
+  "aliases": [
+    "myspeed",
+    "Speed Test"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4143,
+      "collection": "Dashboard Icons",
+      "file": "myspeed.svg",
+      "id": 3463,
+      "is_default": true,
+      "label": "myspeed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "myspeed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec65850749df589bb65e2f1c2bcad88179017471bf0178213133dd912ec8dcdb"
+      },
+      "sha256": "d37d1baeb2d7e553392fd7c7dd4d0a1daa6086671eebdaf559e84043917d8236",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/myspeed.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,64 @@
+{
+  "collection_id": 2597,
+  "schema_version": 1,
+  "id": 2824,
+  "title": "Shell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Operating-Systems",
+    "系统工具"
+  ],
+  "aliases": [
+    "shell",
+    "bash-scripting",
+    "command-line-scripting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1345,
+      "collection": "Dashboard Icons",
+      "file": "shell.svg",
+      "id": 4430,
+      "is_default": true,
+      "label": "shell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d04d0314deacc8d5ce7c2cd76daa335a50a97e4b659e8dccea8dff2a61848ca0"
+      },
+      "sha256": "cde43a95764f4196453b5cdddadef1934b86287343af7a399a23441520bde751",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shell.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1345,
+      "collection": "Dashboard Icons",
+      "file": "shell-1.svg",
+      "id": 4431,
+      "is_default": false,
+      "label": "shell-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shell-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed0031d7183d4ba720547e1fd4477712124276f2709760b1b6d4eece3ff45d40"
+      },
+      "sha256": "e0f7139add69941fee5b83aa6d23c594bc20d43b86300e92adf112bd8459e770",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shell-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

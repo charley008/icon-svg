@@ -1,0 +1,45 @@
+{
+  "collection_id": 2785,
+  "schema_version": 1,
+  "id": 3012,
+  "redirect_from": [
+    3013
+  ],
+  "title": "The Pirate Bay",
+  "url": "https://thepiratebay.org/",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "the-pirate-bay",
+    "The Proxy Bay",
+    "the-proxy-bay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 100307,
+      "collection": "Dashboard Icons",
+      "file": "the-pirate-bay.svg",
+      "id": 4666,
+      "is_default": true,
+      "label": "矢量标志",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-proxy-bay.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8286639470ae902da049f346f14cc0a1bceeffe90785886901b7963a13374f38"
+      },
+      "sha256": "173122a47856e814cbf2d6b52bee252176c37b68e776bfd37366263fc55c425e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/the-proxy-bay.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

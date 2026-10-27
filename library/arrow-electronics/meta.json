@@ -1,0 +1,59 @@
+{
+  "collection_id": 753,
+  "schema_version": 1,
+  "id": 980,
+  "title": "Arrow Electronics",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "arrow-electronics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1400,
+      "collection": "Dashboard Icons",
+      "file": "arrow-electronics.svg",
+      "id": 1970,
+      "is_default": true,
+      "label": "arrow-electronics",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "arrow-electronics.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fffbdba48e508d7c0271808088e5136363ee7f87da091ed847c350172837731c"
+      },
+      "sha256": "81c5a42e2e27a83928d7d2f489f7ba53e5f4cc6b959adf0a0af885edbc517a07",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arrow-electronics.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1478,
+      "collection": "Dashboard Icons",
+      "file": "arrow-electronics-1.svg",
+      "id": 1971,
+      "is_default": false,
+      "label": "arrow-electronics-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "arrow-electronics-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "276d828b88932fb99180bcab674143952ce92dfb282e60f5e1f0be3c87a6407a"
+      },
+      "sha256": "9e7e3d71cf53744548b6ff19db60f58ce10945415756e1e0972a86323da4ca5a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arrow-electronics-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

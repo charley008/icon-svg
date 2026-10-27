@@ -1,0 +1,40 @@
+{
+  "collection_id": 1099,
+  "schema_version": 1,
+  "id": 1326,
+  "title": "Diagrams Net",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "diagrams-net"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 784,
+      "collection": "Dashboard Icons",
+      "file": "diagrams-net.svg",
+      "id": 2428,
+      "is_default": true,
+      "label": "diagrams-net",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "diagrams-net.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f07e097b44638da6394ba00e3712fb1bb1931a659c49a206bbed889b5f23e1e9"
+      },
+      "sha256": "6a208c77db6a4a0eb11cfbd5f054de9870442b6a1fb28e7fb46b5aa2ce3103db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/diagrams-net.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

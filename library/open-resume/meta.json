@@ -1,0 +1,40 @@
+{
+  "collection_id": 2021,
+  "schema_version": 1,
+  "id": 2248,
+  "title": "Open Resume",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "open-resume"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 849,
+      "collection": "Dashboard Icons",
+      "file": "open-resume.svg",
+      "id": 3652,
+      "is_default": true,
+      "label": "open-resume",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-resume.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74c69ba74cf4a7a1188dda6dcfc0bd355905698a3af82453a684ea860a060193"
+      },
+      "sha256": "b670db5e47928c9db3d7c385dcf3e1abfab8516f1a0cb9606930cb676dbac7a2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-resume.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

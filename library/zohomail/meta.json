@@ -1,0 +1,40 @@
+{
+  "collection_id": 3061,
+  "schema_version": 1,
+  "id": 3288,
+  "title": "Zohomail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zohomail"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1120,
+      "collection": "Dashboard Icons",
+      "file": "zohomail.svg",
+      "id": 5027,
+      "is_default": true,
+      "label": "zohomail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zohomail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9dedebe10f58fa0403f692e5e9f047acf523d4997578b4f97dab670077b93d04"
+      },
+      "sha256": "497747d4b88e9bac8de5447881392ee677801647c3604113b4a9c1c8783830e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zohomail.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

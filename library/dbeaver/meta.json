@@ -1,0 +1,45 @@
+{
+  "collection_id": 3109,
+  "schema_version": 1,
+  "id": 3349,
+  "title": "DBeaver",
+  "url": "https://dbeaver.io",
+  "domains": [
+    "dbeaver.io"
+  ],
+  "description": "支持多种数据库的管理与查询工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "DBeaver",
+    "dbeaver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4339,
+      "collection": "TechIcons / Devicon",
+      "file": "dbeaver-1.svg",
+      "id": 5125,
+      "is_default": true,
+      "label": "TechIcons · DBeaver",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "DBeaver.svg",
+        "original_sha256": "018524d7da97118afe2e46c6d6c93b25b8218f2aa423ece0959b5a692a14cd79",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/dbeaver",
+        "reference_website": "https://dbeaver.io"
+      },
+      "sha256": "7ad166f075840d37825ffe4b10165bbb19ae6c4f34275232a6c6cc109bbede75",
+      "source": "https://techicons.dev/icons/dbeaver",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

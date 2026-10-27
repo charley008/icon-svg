@@ -1,0 +1,59 @@
+{
+  "collection_id": 2091,
+  "schema_version": 1,
+  "id": 2318,
+  "title": "Papermark",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "papermark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 892,
+      "collection": "Dashboard Icons",
+      "file": "papermark.svg",
+      "id": 3752,
+      "is_default": true,
+      "label": "papermark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "papermark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9be82ccad7ce2113d6215a3bc41aff04911babfb94b6ad550a6bd2838537b400"
+      },
+      "sha256": "3a7a33782d8c4164881e3bf4b9601979798697c908ce2b249096d1b6c9bb156a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/papermark.svg",
+      "version": 0
+    },
+    {
+      "bytes": 907,
+      "collection": "Dashboard Icons",
+      "file": "papermark-1.svg",
+      "id": 3753,
+      "is_default": false,
+      "label": "papermark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "papermark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "86d59f59be9ce4819a499c9c7730bddf6b39d699c261c3e8dd18be24742b6c46"
+      },
+      "sha256": "4ccf76e2e4a178087cef08169303c6c4b33d8ea8a8ea9b7029550c4edfd841b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/papermark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

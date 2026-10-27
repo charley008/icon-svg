@@ -1,0 +1,63 @@
+{
+  "collection_id": 1547,
+  "schema_version": 1,
+  "id": 1774,
+  "title": "Infomaniak Swisstransfer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Cloud-Computing",
+    "网盘存储"
+  ],
+  "aliases": [
+    "infomaniak-swisstransfer",
+    "File Transfer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13076,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-swisstransfer.svg",
+      "id": 3021,
+      "is_default": true,
+      "label": "infomaniak-swisstransfer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-swisstransfer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f119832933a147b6574ca00bff0afc4ce4567574ea0a3b93873f31d1217ff4c7"
+      },
+      "sha256": "fbe62f41397ae5735682b2ff88a0e220373abbc778f22443aadd37102d6bd795",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-swisstransfer.svg",
+      "version": 0
+    },
+    {
+      "bytes": 12725,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-swisstransfer-1.svg",
+      "id": 3022,
+      "is_default": false,
+      "label": "infomaniak-swisstransfer-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-swisstransfer-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16b552768198697eec531c5a83b3313545414cae2232daddff26e43fb2a1f7b1"
+      },
+      "sha256": "9e07704227416bd251af58aa314d24658eae241b23d19ae9ae0d8b260e176a6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-swisstransfer-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 1332,
+  "schema_version": 1,
+  "id": 1559,
+  "title": "Freshrss",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "News",
+    "浏览器"
+  ],
+  "aliases": [
+    "freshrss",
+    "RSS Reader",
+    "Feed Reader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 593,
+      "collection": "Dashboard Icons",
+      "file": "freshrss.svg",
+      "id": 2726,
+      "is_default": true,
+      "label": "freshrss",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freshrss.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c9fed1ab6f9e271538e041ff3f70117bf01cec9c162239534fb6a7b6bfa1c2b5"
+      },
+      "sha256": "5eb6e6ab78e17f99147eb6402918ae86f3f41d652a9d53a6caef05e64192948c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freshrss.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

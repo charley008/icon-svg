@@ -1,0 +1,63 @@
+{
+  "collection_id": 1159,
+  "schema_version": 1,
+  "id": 1386,
+  "title": "Dropout",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "Gaming-Platforms",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "dropout",
+    "Streaming Service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 635,
+      "collection": "Dashboard Icons",
+      "file": "dropout.svg",
+      "id": 2505,
+      "is_default": true,
+      "label": "dropout",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropout.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e5fe78eb42f87ff3e4b4f1565525a2c7cf612ee8ea1f54116dac75364445f33e"
+      },
+      "sha256": "8fd7ce0724c72d2ae5c8712bfb0c2a0bd912611a31151e0d7427a35936b10ff1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dropout.svg",
+      "version": 0
+    },
+    {
+      "bytes": 647,
+      "collection": "Dashboard Icons",
+      "file": "dropout-1.svg",
+      "id": 2506,
+      "is_default": false,
+      "label": "dropout-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dropout-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4c9bb757988f13dc33a3c60af0ed5d3d067d171e5febc63f2fc6080c60a70e0"
+      },
+      "sha256": "8a4c6e25f4540bfdc66478e20f3d269720b549fa6adee29a32fb76be1a945eb3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dropout-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

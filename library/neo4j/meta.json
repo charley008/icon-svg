@@ -1,0 +1,60 @@
+{
+  "collection_id": 1893,
+  "schema_version": 1,
+  "id": 2120,
+  "title": "Neo4J",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "neo4j"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2727,
+      "collection": "Dashboard Icons",
+      "file": "neo4j.svg",
+      "id": 3476,
+      "is_default": true,
+      "label": "neo4j",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neo4j.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48a7867fe836aabac977395f2883efdec38e17bf8c7128fa2f4e4116a0103ce0"
+      },
+      "sha256": "848d34664e1d9260f0364fd9e30aa5086dbcdc93920702170ca66558ad5c42ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neo4j.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1262,
+      "collection": "TechIcons / Devicon",
+      "file": "neo4j-1.svg",
+      "id": 5278,
+      "is_default": false,
+      "label": "TechIcons · Neo4j",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "New4j.svg",
+        "original_sha256": "5048bfdf1ddf41d9f1d9653ed84092972aa569a7ebac4010483f9a2b203caa7e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/neo4j",
+        "reference_website": "https://neo4j.com"
+      },
+      "sha256": "04159fa229fc8fb3e952461ad6c2f502044dfdae00444a7f9255d4f15c4140a9",
+      "source": "https://techicons.dev/icons/neo4j",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

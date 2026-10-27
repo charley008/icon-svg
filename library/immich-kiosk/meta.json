@@ -1,0 +1,64 @@
+{
+  "collection_id": 1535,
+  "schema_version": 1,
+  "id": 1762,
+  "title": "Immich Kiosk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Media-Servers",
+    "系统工具"
+  ],
+  "aliases": [
+    "immich-kiosk",
+    "photo-display",
+    "digital-photo-frame"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9159,
+      "collection": "Dashboard Icons",
+      "file": "immich-kiosk.svg",
+      "id": 3006,
+      "is_default": true,
+      "label": "immich-kiosk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "immich-kiosk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b3533b83dad99ed8ca57dec4a709d4c43bfb2065c6ae0d7215e6c34723e848a1"
+      },
+      "sha256": "e5ba18d6e0f41353e9cd6592587cb687369d66df2b27b86801b1c6f640c4e45d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich-kiosk.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7032,
+      "collection": "Dashboard Icons",
+      "file": "immich-kiosk-1.svg",
+      "id": 3007,
+      "is_default": false,
+      "label": "immich-kiosk-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "immich-kiosk-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7531010d5a061f75d284fc04dfbc19588818e54ed824982c943971377e2245f6"
+      },
+      "sha256": "f6f620e10d7ca5852a06656681db6488679c22104de2be2b92de42fc656916e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich-kiosk-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 896,
+  "schema_version": 1,
+  "id": 1123,
+  "title": "Borgmatic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "borgmatic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1193,
+      "collection": "Dashboard Icons",
+      "file": "borgmatic.svg",
+      "id": 2157,
+      "is_default": true,
+      "label": "borgmatic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "borgmatic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2fbb89c6ad9df2fc9319c0fdeade5e005afa03eca3b241c56e3f29ab08040e30"
+      },
+      "sha256": "87abd23b8193f36d2688352236e6ff33dab94c4828b84ab21f25f7299add9387",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/borgmatic.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1212,
+      "collection": "Dashboard Icons",
+      "file": "borgmatic-1.svg",
+      "id": 2158,
+      "is_default": false,
+      "label": "borgmatic-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "borgmatic-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6dd9b77d7f1563197ce9440bd7715d4daf180a9dc1f0baa22a9dfc097be1d915"
+      },
+      "sha256": "da024b7fb9667c096aa777c757ce891d097408e5ed95adbfa47bd911840407b3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/borgmatic-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

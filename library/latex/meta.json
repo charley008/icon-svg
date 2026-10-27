@@ -1,0 +1,45 @@
+{
+  "collection_id": 3163,
+  "schema_version": 1,
+  "id": 3420,
+  "title": "LaTeX",
+  "url": "https://www.latex-project.org",
+  "domains": [
+    "latex-project.org"
+  ],
+  "description": "用于专业文档与学术排版的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "LaTeX",
+    "latex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1591,
+      "collection": "TechIcons / Devicon",
+      "file": "latex-1.svg",
+      "id": 5248,
+      "is_default": true,
+      "label": "TechIcons · LaTeX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "LaTeX.svg",
+        "original_sha256": "95a355c5cfcde05317304ce9e770bf532fd45c203e9dc11e4b5a83c4e228ab6a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/latex",
+        "reference_website": "https://www.latex-project.org"
+      },
+      "sha256": "d4cb8cb4b522d7640a957a4ecc621633afa451ce0c2bc53a4f816273ad3020d4",
+      "source": "https://techicons.dev/icons/latex",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

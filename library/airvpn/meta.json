@@ -1,0 +1,40 @@
+{
+  "collection_id": 680,
+  "schema_version": 1,
+  "id": 907,
+  "title": "Airvpn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "airvpn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1431,
+      "collection": "Dashboard Icons",
+      "file": "airvpn.svg",
+      "id": 1870,
+      "is_default": true,
+      "label": "airvpn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airvpn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0cd090a352abf50b2efe2357a33c0ee87323df17a71fa66841897943a4fea97c"
+      },
+      "sha256": "ee126d8ed6fe8d9cff0a44da6bc6ec5219c4858e3a1bb5099dcbcc9bd3874c30",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/airvpn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

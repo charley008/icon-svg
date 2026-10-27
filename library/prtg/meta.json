@@ -1,0 +1,40 @@
+{
+  "collection_id": 2229,
+  "schema_version": 1,
+  "id": 2456,
+  "title": "Prtg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "prtg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1460,
+      "collection": "Dashboard Icons",
+      "file": "prtg.svg",
+      "id": 3953,
+      "is_default": true,
+      "label": "prtg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prtg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cace70e3d0f548581887e0a0901e297b1ccc204fc0d4d250b959fd131227864b"
+      },
+      "sha256": "42a409181d7aab2a19c3523e1fb06af15f65f7ac3940fa74652ceb3babc2db96",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prtg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

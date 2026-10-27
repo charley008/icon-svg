@@ -1,0 +1,40 @@
+{
+  "collection_id": 1213,
+  "schema_version": 1,
+  "id": 1440,
+  "title": "Erste George",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "erste-george"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 360,
+      "collection": "Dashboard Icons",
+      "file": "erste-george.svg",
+      "id": 2581,
+      "is_default": true,
+      "label": "erste-george",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "erste-george.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "df3e516ddab7592150c733983e146a9603526feafa63fae244ac02bc362e970a"
+      },
+      "sha256": "49135bd2a35f321b0b2c80925dd65747749864c1fe188c6c6f0c975be9540014",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/erste-george.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

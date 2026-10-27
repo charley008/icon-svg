@@ -1,0 +1,40 @@
+{
+  "collection_id": 2018,
+  "schema_version": 1,
+  "id": 2245,
+  "title": "Open Notebook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "open-notebook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2195,
+      "collection": "Dashboard Icons",
+      "file": "open-notebook.svg",
+      "id": 3649,
+      "is_default": true,
+      "label": "open-notebook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-notebook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2b233f2d73e167629e9e8ff2e4668b79d4d3b716439459c32bb8942127d4f358"
+      },
+      "sha256": "bf0b26d28cff287bb9172075ac8c07a9eaee40d2c1035eaa7c5a263fcf1d22d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-notebook.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

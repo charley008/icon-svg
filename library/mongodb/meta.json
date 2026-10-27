@@ -1,0 +1,60 @@
+{
+  "collection_id": 1852,
+  "schema_version": 1,
+  "id": 2079,
+  "title": "Mongodb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mongodb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 752,
+      "collection": "Dashboard Icons",
+      "file": "mongodb.svg",
+      "id": 3422,
+      "is_default": true,
+      "label": "mongodb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mongodb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8883073943d486b2fa1926d1ddff0c042a9e03de6b7d0ee3e9ab008f4338bbc9"
+      },
+      "sha256": "010cd6bd743feec03a8e1cef54bc78e8d709f4ee6cdbcf8bf8c565a1250717b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mongodb.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5666,
+      "collection": "TechIcons / Devicon",
+      "file": "mongodb-1.svg",
+      "id": 5274,
+      "is_default": false,
+      "label": "TechIcons · MongoDB",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "MongoDB.svg",
+        "original_sha256": "d9f2bf7041264f4747e9969fb82ede0199c0ac97dfa8632aa0687d702ec05f7b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/mongodb",
+        "reference_website": "https://www.mongodb.com"
+      },
+      "sha256": "a584abeab07c35c60730cef772c3c4cdacd8de1cc8ff0e617be178f40fdb81e8",
+      "source": "https://techicons.dev/icons/mongodb",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

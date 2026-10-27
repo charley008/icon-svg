@@ -1,0 +1,40 @@
+{
+  "collection_id": 2962,
+  "schema_version": 1,
+  "id": 3189,
+  "title": "Webhookd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "webhookd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1999,
+      "collection": "Dashboard Icons",
+      "file": "webhookd.svg",
+      "id": 4897,
+      "is_default": true,
+      "label": "webhookd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webhookd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "11348d2e54f7f8dcdbb14f6217f325f26b93d5f54a575740606ccbba435783ad"
+      },
+      "sha256": "e7f2c8cf637228fffba4ee01abee0c623ed236611588e18873001765c95c0fde",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webhookd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

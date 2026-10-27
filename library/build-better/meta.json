@@ -1,0 +1,61 @@
+{
+  "collection_id": 914,
+  "schema_version": 1,
+  "id": 1141,
+  "title": "Build Better",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "build-better"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 577,
+      "collection": "Dashboard Icons",
+      "file": "build-better.svg",
+      "id": 2181,
+      "is_default": true,
+      "label": "build-better",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "build-better.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7c5873b4913bb3dd1db70f41714828c67d3b1abb463d9cbfeba186e51b53f342"
+      },
+      "sha256": "ba9e0ff16b81359c1fa50c2d4d87ca9f135ddc72e45f3da7d73fbbdc26df414f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/build-better.svg",
+      "version": 0
+    },
+    {
+      "bytes": 577,
+      "collection": "Dashboard Icons",
+      "file": "build-better-1.svg",
+      "id": 2182,
+      "is_default": false,
+      "label": "build-better-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "build-better-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "60a2d9731345ada10a0633714553412d4d5175c7144bc439430b0e41c77f6b66"
+      },
+      "sha256": "7093165dcef866d8c3c39770cf425cdb02ebd9ee21c0e7db7e5e957f2e77dd53",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/build-better-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

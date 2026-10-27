@@ -1,0 +1,40 @@
+{
+  "collection_id": 1776,
+  "schema_version": 1,
+  "id": 2003,
+  "title": "Manyfold",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "manyfold"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 36915,
+      "collection": "Dashboard Icons",
+      "file": "manyfold.svg",
+      "id": 3312,
+      "is_default": true,
+      "label": "manyfold",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "manyfold.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "583854bfec5a85d712e4dce69f98622b96ceb251f0c9607d420414965f5b4bd0"
+      },
+      "sha256": "f2f5011d6f728e2b5205abf2bcc9dbc0baa50dc63b4a74e34a57941cd960472b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/manyfold.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

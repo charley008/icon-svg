@@ -1,0 +1,43 @@
+{
+  "collection_id": 926,
+  "schema_version": 1,
+  "id": 1153,
+  "title": "Cachyos Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "cachyos-linux",
+    "cachyos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9019,
+      "collection": "Dashboard Icons",
+      "file": "cachyos-linux.svg",
+      "id": 2196,
+      "is_default": true,
+      "label": "cachyos-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cachyos-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b6d5db584ad2469ced3c1b221ba2fda9f9e53e9c502b6a65e1834c985e0c53c"
+      },
+      "sha256": "2d1b06660bdf895905445c3e9dd7aed2e3e0a191881420e64ce1e1fa57e76f83",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cachyos-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

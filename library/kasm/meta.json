@@ -1,0 +1,44 @@
+{
+  "collection_id": 1617,
+  "schema_version": 1,
+  "id": 1844,
+  "title": "Kasm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Cloud-Computing",
+    "开发编程"
+  ],
+  "aliases": [
+    "kasm",
+    "Workspace Streaming"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 630,
+      "collection": "Dashboard Icons",
+      "file": "kasm.svg",
+      "id": 3112,
+      "is_default": true,
+      "label": "kasm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kasm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37988c5b9008cfe17886dfc897f46cc42c1f3cdb64eb63ff205baffec016031b"
+      },
+      "sha256": "11192c616b37cc3fb8cf7ba2f39742b484f45efdc0400466635347fc55b37bec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kasm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3200,
+  "schema_version": 1,
+  "id": 3463,
+  "title": "Phalcon",
+  "url": "https://phalcon.io",
+  "domains": [
+    "phalcon.io"
+  ],
+  "description": "用于 PHP Web 应用开发的框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Phalcon",
+    "phalcon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2246,
+      "collection": "TechIcons / Devicon",
+      "file": "phalcon-1.svg",
+      "id": 5311,
+      "is_default": true,
+      "label": "TechIcons · Phalcon",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Phalcon.svg",
+        "original_sha256": "2993f3bac0a0ae74b3442830318609e93a9b52f43c1bbedca77a359fddc63238",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/phalcon",
+        "reference_website": "https://phalcon.io"
+      },
+      "sha256": "5782bcc2cdb473d6277dbb6040e25d00aa32702a5740ae1b3fdfeb2af312a9b8",
+      "source": "https://techicons.dev/icons/phalcon",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1101,
+  "schema_version": 1,
+  "id": 1328,
+  "title": "Dice Logo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dice-logo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1659,
+      "collection": "Dashboard Icons",
+      "file": "dice-logo.svg",
+      "id": 2430,
+      "is_default": true,
+      "label": "dice-logo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dice-logo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ace19e1f65736dcaeb99f93ed070c4f5425fe880f58bf4841b9a2fb7818fa53"
+      },
+      "sha256": "3b89df4e96267b2d0ec4e73c4ff8b56ae06bf3f68b2a4bf776aa92081a0fff98",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dice-logo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

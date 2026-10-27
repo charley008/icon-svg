@@ -1,0 +1,40 @@
+{
+  "collection_id": 1661,
+  "schema_version": 1,
+  "id": 1888,
+  "title": "Kpn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kpn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2269,
+      "collection": "Dashboard Icons",
+      "file": "kpn.svg",
+      "id": 3163,
+      "is_default": true,
+      "label": "kpn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kpn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "442d47b562b046ff0de20e919fbf93e006b73f5fc5ac4a0cc7bf38048eaebbac"
+      },
+      "sha256": "2fc3f05bcbc449a1c6dd6595187a2642bd1720a5545f72c2506769cf8615d774",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kpn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

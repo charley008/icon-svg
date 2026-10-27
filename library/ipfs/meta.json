@@ -1,0 +1,64 @@
+{
+  "collection_id": 1562,
+  "schema_version": 1,
+  "id": 1789,
+  "title": "Ipfs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Cloud-Computing",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "ipfs",
+    "Decentralized Storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2071,
+      "collection": "Dashboard Icons",
+      "file": "ipfs.svg",
+      "id": 3040,
+      "is_default": true,
+      "label": "ipfs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ipfs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "986915b73384a889c79b5e253c937f62d18af6af1274ade59f047d23543bebec"
+      },
+      "sha256": "a3b082161d6a2c16eb8a44c698f84e1ebf981d1733616ea82d13eb81f10151c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ipfs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2059,
+      "collection": "Dashboard Icons",
+      "file": "ipfs-1.svg",
+      "id": 3041,
+      "is_default": false,
+      "label": "ipfs-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ipfs-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a27b4cb3ccb539fd6b31572faf65a89035e9879e4a07785dddc8ba571a53a283"
+      },
+      "sha256": "fc0d74e98c47e56d4024b8a67c5b2a049589dcf2f0f818d14120a566045bc7cc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ipfs-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

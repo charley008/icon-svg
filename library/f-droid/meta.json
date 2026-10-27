@@ -1,0 +1,40 @@
+{
+  "collection_id": 1236,
+  "schema_version": 1,
+  "id": 1463,
+  "title": "F Droid",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "f-droid"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4670,
+      "collection": "Dashboard Icons",
+      "file": "f-droid.svg",
+      "id": 2610,
+      "is_default": true,
+      "label": "f-droid",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "f-droid.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98ac92aed01b00860d28ccbd8f0f7c89348c150730260b2a01df20a79a256ee8"
+      },
+      "sha256": "d1da84f67f0825e177d52cd04017d61855f7f8b9818d3397db7c329fd1b91407",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/f-droid.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

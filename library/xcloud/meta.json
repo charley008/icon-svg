@@ -1,0 +1,78 @@
+{
+  "collection_id": 3006,
+  "schema_version": 1,
+  "id": 3233,
+  "title": "Xcloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xcloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1994,
+      "collection": "Dashboard Icons",
+      "file": "xcloud.svg",
+      "id": 4955,
+      "is_default": true,
+      "label": "xcloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xcloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4fcc94b940358231d7f476b010d5b3cb693c3ff6bddc5804378835ee211109b"
+      },
+      "sha256": "7554ae044ed9291be0bc0a8ac216159b7e38e1ea4837d7f2099ddb729c4e7de1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xcloud.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1980,
+      "collection": "Dashboard Icons",
+      "file": "xcloud-1.svg",
+      "id": 4956,
+      "is_default": false,
+      "label": "xcloud-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xcloud-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0327b9deb56b671e5ec6fc7b6a34c3dade5d4791b6e1010cf78e9082764432e5"
+      },
+      "sha256": "a7b3a082b4dfb34082637f3afe4f545c81cd4ece94c4d0b89c0266d235aab79d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xcloud-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1980,
+      "collection": "Dashboard Icons",
+      "file": "xcloud-2.svg",
+      "id": 4957,
+      "is_default": false,
+      "label": "xcloud-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xcloud-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c3ce33baa1994517ee986232afe08328bed59b44a7910cb8297933e3d70db0f2"
+      },
+      "sha256": "6fee6500862671b2b94268e1dc491ad11f9839ca7373a2bec5cf37e5ecf9eb8a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xcloud-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

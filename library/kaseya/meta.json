@@ -1,0 +1,40 @@
+{
+  "collection_id": 1616,
+  "schema_version": 1,
+  "id": 1843,
+  "title": "Kaseya",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kaseya"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2557,
+      "collection": "Dashboard Icons",
+      "file": "kaseya.svg",
+      "id": 3111,
+      "is_default": true,
+      "label": "kaseya",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kaseya.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a48ba09fc88d5d66a3365b769fd44151d5e8dc1a3fb9a7c12e7dbdda0886cff2"
+      },
+      "sha256": "18162ab49f74711a268afe352cce331d98c7378b393d8550bc4b8b4d4b97f84b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kaseya.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

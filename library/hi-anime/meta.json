@@ -1,0 +1,43 @@
+{
+  "collection_id": 1477,
+  "schema_version": 1,
+  "id": 1704,
+  "title": "Hi Anime",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "hi-anime",
+    "hianime.to"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 20207,
+      "collection": "Dashboard Icons",
+      "file": "hi-anime.svg",
+      "id": 2933,
+      "is_default": true,
+      "label": "hi-anime",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hi-anime.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c98547abb70e93903cdfb30121b3acff5a7013ed870bfc927afc1a8eae97668f"
+      },
+      "sha256": "0786ccc0fa2605888567a5df309a19c6d3cb95094291512b39c8a7fd77221104",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hi-anime.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

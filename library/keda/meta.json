@@ -1,0 +1,40 @@
+{
+  "collection_id": 1621,
+  "schema_version": 1,
+  "id": 1848,
+  "title": "Keda",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "keda"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4530,
+      "collection": "Dashboard Icons",
+      "file": "keda.svg",
+      "id": 3116,
+      "is_default": true,
+      "label": "keda",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keda.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0b90d5fb4c242360db7b0b092d0366e0f852c4c8cbccb6886adeb3b723b5ddb1"
+      },
+      "sha256": "c3a05f40edc08254e2d558a37f63139f02e714c4fb6444db433dfd58b653b3fe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keda.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

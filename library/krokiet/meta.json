@@ -1,0 +1,40 @@
+{
+  "collection_id": 1663,
+  "schema_version": 1,
+  "id": 1890,
+  "title": "Krokiet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "krokiet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27773,
+      "collection": "Dashboard Icons",
+      "file": "krokiet.svg",
+      "id": 3165,
+      "is_default": true,
+      "label": "krokiet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "krokiet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a1361590b398945407d464856b6c19c76eec993448533c1fc5f7c5e3fb2dcaee"
+      },
+      "sha256": "e3bd9105d28aac11f407d493b118bb0b8f541ca526b69190aa48077855738728",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/krokiet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

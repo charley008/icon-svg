@@ -1,0 +1,40 @@
+{
+  "collection_id": 1782,
+  "schema_version": 1,
+  "id": 2009,
+  "title": "Marktplaats",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "marktplaats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 528,
+      "collection": "Dashboard Icons",
+      "file": "marktplaats.svg",
+      "id": 3318,
+      "is_default": true,
+      "label": "marktplaats",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "marktplaats.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbfdb401d47f63c7d3beebcbc937e1e663dbd002f1e622dc6f2f76e2940e0eb0"
+      },
+      "sha256": "ba847fdb0901109b392719ff578eab2c7051eb311a37f672f3443cea958123a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/marktplaats.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1651,
+  "schema_version": 1,
+  "id": 1878,
+  "title": "Konflate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "konflate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 706,
+      "collection": "Dashboard Icons",
+      "file": "konflate.svg",
+      "id": 3151,
+      "is_default": true,
+      "label": "konflate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "konflate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2412373b13492dbaeab0a271433fafa3173f04694afc8c53e84a77b352a7fb95"
+      },
+      "sha256": "9f12b8e2f1df12be4548c051d344a65b96b15229637cdc1f686250e080cdb6c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/konflate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

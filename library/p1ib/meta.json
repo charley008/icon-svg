@@ -1,0 +1,40 @@
+{
+  "collection_id": 2076,
+  "schema_version": 1,
+  "id": 2303,
+  "title": "P1Ib",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "p1ib"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4785,
+      "collection": "Dashboard Icons",
+      "file": "p1ib.svg",
+      "id": 3732,
+      "is_default": true,
+      "label": "p1ib",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "p1ib.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9479d2b74ce9db06879e2028a0c9a99a14a150fe673f219edb2cb995b9ba27af"
+      },
+      "sha256": "a8d0356b4f9a5131a544ffe049e5ebdb66384f475acefe9d241bed2854ad4495",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/p1ib.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

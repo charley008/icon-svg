@@ -1,0 +1,60 @@
+{
+  "collection_id": 1678,
+  "schema_version": 1,
+  "id": 1905,
+  "title": "Laracasts",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "laracasts"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 456,
+      "collection": "Dashboard Icons",
+      "file": "laracasts.svg",
+      "id": 3182,
+      "is_default": true,
+      "label": "laracasts",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "laracasts.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62214327e44faaa381520807ba1c25e6faf6d91ca8054500f99328ff6c0c1b22"
+      },
+      "sha256": "92435c83ab90b6b9e5e1c0a17389e11a6ba580215c732064105092b6e4866064",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/laracasts.svg",
+      "version": 0
+    },
+    {
+      "bytes": 454,
+      "collection": "Dashboard Icons",
+      "file": "laracasts-1.svg",
+      "id": 3183,
+      "is_default": false,
+      "label": "laracasts-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "laracasts-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "61fa663b2aced4e11702fa76a229f3d6d1265d580184786a61c6320780f0626e"
+      },
+      "sha256": "985a39937a45d95fb1b1cc550f2f142ce97be5153143f83b3319626f3b5fa7c9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/laracasts-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

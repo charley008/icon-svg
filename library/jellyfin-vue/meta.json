@@ -1,0 +1,40 @@
+{
+  "collection_id": 1584,
+  "schema_version": 1,
+  "id": 1811,
+  "title": "Jellyfin Vue",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jellyfin-vue"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 933,
+      "collection": "Dashboard Icons",
+      "file": "jellyfin-vue.svg",
+      "id": 3071,
+      "is_default": true,
+      "label": "jellyfin-vue",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jellyfin-vue.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c243413645bd363431b785771966526d52823b2bcdde46ebc2593efdce78e72f"
+      },
+      "sha256": "60268dcbc97a63bc24a3d9411e1b3761e2d1b2ebfe794d216e4667803e55b7e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jellyfin-vue.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

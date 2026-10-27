@@ -1,0 +1,40 @@
+{
+  "collection_id": 1307,
+  "schema_version": 1,
+  "id": 1534,
+  "title": "Folder",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "folder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 573,
+      "collection": "Dashboard Icons",
+      "file": "folder.svg",
+      "id": 2697,
+      "is_default": true,
+      "label": "folder",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "folder.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5b14688d8c21ee8b0bcff5dc26e4fe9f185940acaf3132edb2ebac4344e667d"
+      },
+      "sha256": "f3f53d564820938cf9bff12efc3d65d1458a79261c80e91ab3466b5befeca2f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/folder.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

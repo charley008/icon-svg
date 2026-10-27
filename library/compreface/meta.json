@@ -1,0 +1,40 @@
+{
+  "collection_id": 1010,
+  "schema_version": 1,
+  "id": 1237,
+  "title": "Compreface",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "compreface"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2245,
+      "collection": "Dashboard Icons",
+      "file": "compreface.svg",
+      "id": 2310,
+      "is_default": true,
+      "label": "compreface",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "compreface.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "70b28aeaabfa3eec262bee95b07eb25a4e36bd0f4b92ab984b0482b209acaa51"
+      },
+      "sha256": "237af385505de162d1274b537d53ed5f23471145cc368f2d77be6eaabe40e078",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/compreface.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

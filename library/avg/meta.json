@@ -1,0 +1,40 @@
+{
+  "collection_id": 785,
+  "schema_version": 1,
+  "id": 1012,
+  "title": "Avg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "avg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4639,
+      "collection": "Dashboard Icons",
+      "file": "avg.svg",
+      "id": 2015,
+      "is_default": true,
+      "label": "avg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "avg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "81192ada03c61e6d55d100dd49803133f3e88ce28e3e22692ee0d8d6a529406e"
+      },
+      "sha256": "9f495b168806175ac90967b5e61aa644b95fba7d331e5c17d7f603f54b21a3d7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/avg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

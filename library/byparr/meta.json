@@ -1,0 +1,40 @@
+{
+  "collection_id": 922,
+  "schema_version": 1,
+  "id": 1149,
+  "title": "Byparr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "byparr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4985,
+      "collection": "Dashboard Icons",
+      "file": "byparr.svg",
+      "id": 2190,
+      "is_default": true,
+      "label": "byparr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "byparr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5a42fe47ec03fe16757929c8cd092cc8b1201dd10d86dd3d4f78bf8f32500094"
+      },
+      "sha256": "41c9ac9e8251cb54a223fbd18e07eb4b1a586b8186cb37822d0633964c78dad1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/byparr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

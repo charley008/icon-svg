@@ -1,0 +1,40 @@
+{
+  "collection_id": 2646,
+  "schema_version": 1,
+  "id": 2873,
+  "title": "Sofka",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sofka"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 364,
+      "collection": "Dashboard Icons",
+      "file": "sofka.svg",
+      "id": 4490,
+      "is_default": true,
+      "label": "sofka",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sofka.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc7aa31854a46cc05e2bbc5ce1e2db1580939d5609b3b359ab083d1fdfde1268"
+      },
+      "sha256": "b5de3b55c2abcfeb2461221a633eb82f87288a384a6c1cac0975866b13d299ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sofka.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,69 @@
+{
+  "collection_id": 1484,
+  "schema_version": 1,
+  "id": 1711,
+  "redirect_from": [
+    1712
+  ],
+  "title": "Homarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Server-Panels",
+    "系统工具"
+  ],
+  "aliases": [
+    "homarr",
+    "server-dashboard",
+    "application-launcher",
+    "homarr-wordmark-light",
+    "Homarr Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1276,
+      "collection": "Dashboard Icons",
+      "file": "homarr.svg",
+      "id": 2944,
+      "is_default": true,
+      "label": "homarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8de597a0eb1cf186a0bc2f274ea4f15055bd25dadceabb81e0ab1b08cfabc73a"
+      },
+      "sha256": "f4f7aebd68e336112d67fbc22313449876a5a9f66af835d484d1d0940b744495",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 210337,
+      "collection": "Dashboard Icons",
+      "file": "homarr-1.svg",
+      "id": 2945,
+      "is_default": false,
+      "label": "homarr-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homarr-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "944fbc26b6a78e83ace8c2702fd70fb63a5b2a24b403083517eacc58b0e49503"
+      },
+      "sha256": "df6c3545cf670f77ebc061d61dac72627ddc0cb65f22525f1d43a87b58655e14",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homarr-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

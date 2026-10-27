@@ -1,0 +1,60 @@
+{
+  "collection_id": 748,
+  "schema_version": 1,
+  "id": 975,
+  "title": "Arduino",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "arduino"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1712,
+      "collection": "Dashboard Icons",
+      "file": "arduino.svg",
+      "id": 1964,
+      "is_default": true,
+      "label": "arduino",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "arduino.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "497f5fd971a2b984c276cc566f976cc43f511ce1836f1133fdeb3b439376efbe"
+      },
+      "sha256": "198c04f2ab06c0331fca91e3bc865688d6f5ced3b984baea47d2700c40139970",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arduino.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2491,
+      "collection": "TechIcons / Devicon",
+      "file": "arduino-1.svg",
+      "id": 5076,
+      "is_default": false,
+      "label": "TechIcons · Arduino",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Arduino.svg",
+        "original_sha256": "e1748d89b57310e6272df4de73a49c71b597126a5104c1e22cf5231c90507e94",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/arduino",
+        "reference_website": "https://www.arduino.cc"
+      },
+      "sha256": "0f2920b9b51286dde5650ab6e7b01317a001543c30cc4ddb4377e4aaad77837f",
+      "source": "https://techicons.dev/icons/arduino",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

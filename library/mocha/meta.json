@@ -1,0 +1,45 @@
+{
+  "collection_id": 3176,
+  "schema_version": 1,
+  "id": 3438,
+  "title": "Mocha",
+  "url": "https://mochajs.org",
+  "domains": [
+    "mochajs.org"
+  ],
+  "description": "JavaScript 自动化测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Mocha",
+    "mocha"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4121,
+      "collection": "TechIcons / Devicon",
+      "file": "mocha-1.svg",
+      "id": 5271,
+      "is_default": true,
+      "label": "TechIcons · Mocha",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Mocha.svg",
+        "original_sha256": "59d5edf10ca4a3d7b2630a0ea7696cbb8d61e5bfa10484426be4927b24469383",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/mocha",
+        "reference_website": "https://mochajs.org"
+      },
+      "sha256": "e9d3c862fe766918cf47820ddc61a7fa87b16cc39cad8cf26ef1d2e1564f7602",
+      "source": "https://techicons.dev/icons/mocha",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

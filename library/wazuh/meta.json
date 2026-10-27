@@ -1,11 +1,14 @@
 {
+  "collection_id": 634,
+  "schema_version": 1,
+  "id": 860,
   "title": "Wazuh",
   "url": "https://wazuh.com/",
   "domains": [
     "wazuh.com"
   ],
   "description": "开源安全监控平台。",
-  "category": "系统工具",
+  "category": "网络工具",
   "tags": [
     "安全监控",
     "SIEM",
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "wazuh.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "40e251a6eea635486c0169323276f2a09670292271c4e548bf157af39edbc95c",
       "bytes": 439,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg",
+      "collection": "Dashboard Icons",
+      "file": "wazuh.svg",
+      "id": 1816,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "wazuh.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "40e251a6eea635486c0169323276f2a09670292271c4e548bf157af39edbc95c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wazuh.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

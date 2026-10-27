@@ -155,11 +155,16 @@ func (l *Library) read(name string) ([]byte, error) {
 	if e != nil {
 		return nil, e
 	}
-	if !info.Mode().IsRegular() || info.Size() > 16<<20 {
+	limit := int64(16 << 20)
+	if name == ".pending.json" {
+		// The durable journal contains base64 data for an entire bounded library.
+		limit = 384 << 20
+	}
+	if !info.Mode().IsRegular() || info.Size() > limit {
 		return nil, errors.New("素材文件类型或大小无效")
 	}
-	content, e := io.ReadAll(io.LimitReader(f, (16<<20)+1))
-	if len(content) > 16<<20 {
+	content, e := io.ReadAll(io.LimitReader(f, limit+1))
+	if int64(len(content)) > limit {
 		return nil, errors.New("素材文件过大")
 	}
 	return content, e
@@ -197,6 +202,9 @@ func (l *Library) atomicFile(name string, content []byte) error {
 }
 
 func libraryTarget(name string) bool {
+	if libraryLicenseTarget(name) {
+		return true
+	}
 	if name == "categories.json" {
 		return true
 	}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 2941,
+  "schema_version": 1,
+  "id": 3168,
+  "title": "Vtvgo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media"
+  ],
+  "aliases": [
+    "vtvgo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5296,
+      "collection": "Dashboard Icons",
+      "file": "vtvgo.svg",
+      "id": 4868,
+      "is_default": true,
+      "label": "vtvgo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vtvgo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5bd5dbcdbd3aa5981682af2a0cde54a76565fd8e1a21965efb876f43869e161"
+      },
+      "sha256": "4f182d7fa1545969b5560323c7659d9c0d119a0a95cc554644cc3a344ee6e50b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vtvgo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

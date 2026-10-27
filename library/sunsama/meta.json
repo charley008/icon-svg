@@ -1,0 +1,40 @@
+{
+  "collection_id": 2715,
+  "schema_version": 1,
+  "id": 2942,
+  "title": "Sunsama",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sunsama"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1204,
+      "collection": "Dashboard Icons",
+      "file": "sunsama.svg",
+      "id": 4577,
+      "is_default": true,
+      "label": "sunsama",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sunsama.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d3b7f25b3901b8ef851e035ff60084e4b4bd591327d723ce40eee598edebdd1d"
+      },
+      "sha256": "6f56619215fa24d204c0625e566cad4bcbfad17c554f38c5463c6dad262c5638",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sunsama.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

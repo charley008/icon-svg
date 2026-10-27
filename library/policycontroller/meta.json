@@ -1,0 +1,45 @@
+{
+  "collection_id": 2180,
+  "schema_version": 1,
+  "id": 2407,
+  "title": "Policycontroller",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Security",
+    "开发编程"
+  ],
+  "aliases": [
+    "policycontroller",
+    "kubernetes-security",
+    "policy-management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5049,
+      "collection": "Dashboard Icons",
+      "file": "policycontroller.svg",
+      "id": 3882,
+      "is_default": true,
+      "label": "policycontroller",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "policycontroller.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "db304eff402d5458f5fcef65e2eb3b2456f704f4d2f715268ff590210ef6a599"
+      },
+      "sha256": "b3ea47f5c8c71dda7b7a6e3bb9ae5e8dd8aba5e43de0d501ed9e0c346aa7f68a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/policycontroller.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

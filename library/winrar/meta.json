@@ -1,0 +1,50 @@
+{
+  "collection_id": 3071,
+  "schema_version": 1,
+  "id": 3297,
+  "title": "WinRAR",
+  "url": "https://www.rarlab.com/",
+  "domains": [
+    "rarlab.com",
+    "win-rar.com"
+  ],
+  "description": "文件压缩与解压工具，支持 RAR、ZIP 等格式。",
+  "category": "系统工具",
+  "tags": [
+    "压缩",
+    "解压",
+    "RAR",
+    "ZIP",
+    "Windows"
+  ],
+  "aliases": [
+    "winrar",
+    "Win RAR",
+    "压缩软件",
+    "解压软件"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3683,
+      "collection": "用户指定素材",
+      "file": "winrar.svg",
+      "id": 5049,
+      "is_default": true,
+      "label": "彩色图标",
+      "license": "来源仓库代码采用 MIT；图标授权未单独说明，商标归各权利人所有。",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "assets/winrar-icon.svg",
+        "processing": "original SVG bytes preserved",
+        "repository": "https://github.com/Razinal/winrar",
+        "upstream_sha256": "2e52d76586b02a2168fe0c782822090e61ddd45d9e272b002f21f877a0635e18"
+      },
+      "sha256": "2e52d76586b02a2168fe0c782822090e61ddd45d9e272b002f21f877a0635e18",
+      "source": "https://github.com/Razinal/winrar/blob/master/assets/winrar-icon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

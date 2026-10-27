@@ -1,0 +1,40 @@
+{
+  "collection_id": 2752,
+  "schema_version": 1,
+  "id": 2979,
+  "title": "Team Viewer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "team-viewer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 657,
+      "collection": "Dashboard Icons",
+      "file": "team-viewer.svg",
+      "id": 4626,
+      "is_default": true,
+      "label": "team-viewer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "team-viewer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da1255b1788faefc1fb046b4ed023e222ff6e3e1322eeaaa46d0fff8e6001607"
+      },
+      "sha256": "d2819a921b434c3b2dc99282ef47ddbe70beb6555d62bb7556499de088ac8262",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/team-viewer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1042,
+  "schema_version": 1,
+  "id": 1269,
+  "title": "Crowdin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "crowdin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3044,
+      "collection": "Dashboard Icons",
+      "file": "crowdin.svg",
+      "id": 2349,
+      "is_default": true,
+      "label": "crowdin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b8c13aaa2f754423e0a9094bf77a77dae6409588991bdc2cee15e4cd94245ac"
+      },
+      "sha256": "4aacc6e23dd171e5ea709dca7973be7ae6cb58dc5df55d6bc1f8062c6ef16156",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3111,
+      "collection": "Dashboard Icons",
+      "file": "crowdin-1.svg",
+      "id": 2350,
+      "is_default": false,
+      "label": "crowdin-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crowdin-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a4c2044bf1af5d1947e2d2b0561b507b606a4666f1af42058071325d7c840f9"
+      },
+      "sha256": "6353d0083bfb72bb914bb96345237ce8e864160f9b27cd85f55337240de6fae4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crowdin-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

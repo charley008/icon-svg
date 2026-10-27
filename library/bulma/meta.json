@@ -1,0 +1,45 @@
+{
+  "collection_id": 3088,
+  "schema_version": 1,
+  "id": 3327,
+  "title": "Bulma",
+  "url": "https://bulma.io",
+  "domains": [
+    "bulma.io"
+  ],
+  "description": "基于 CSS 的响应式前端框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Bulma",
+    "bulma"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 188,
+      "collection": "TechIcons / Devicon",
+      "file": "bulma-1.svg",
+      "id": 5095,
+      "is_default": true,
+      "label": "TechIcons · Bulma",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Bulma.svg",
+        "original_sha256": "cdccdfb0246613722e0b14b7dcd865eb40146c1a68ed40062ec870616c66dd3c",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/bulma",
+        "reference_website": "https://bulma.io"
+      },
+      "sha256": "36a17c3975585ab58a12ff3fccbf5238ebeb71918cf160e6b40c809e5d33d754",
+      "source": "https://techicons.dev/icons/bulma",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

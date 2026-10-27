@@ -1,0 +1,45 @@
+{
+  "collection_id": 3265,
+  "schema_version": 1,
+  "id": 3530,
+  "title": "Yarn",
+  "url": "https://yarnpkg.com",
+  "domains": [
+    "yarnpkg.com"
+  ],
+  "description": "JavaScript 项目的依赖管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Yarn",
+    "yarn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1741,
+      "collection": "TechIcons / Devicon",
+      "file": "yarn-1.svg",
+      "id": 5409,
+      "is_default": true,
+      "label": "TechIcons · Yarn",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Yarn.svg",
+        "original_sha256": "bdffcf2476033d131f40ff5ace5f81c12182ed33a083203e746f57f3783aca47",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/yarn",
+        "reference_website": "https://yarnpkg.com"
+      },
+      "sha256": "db500ee742b1c49eda13c6020f0a79db1875bfbf3f4dae018774e50a0bf5f4b0",
+      "source": "https://techicons.dev/icons/yarn",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

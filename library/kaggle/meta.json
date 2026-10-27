@@ -1,0 +1,45 @@
+{
+  "collection_id": 3154,
+  "schema_version": 1,
+  "id": 3411,
+  "title": "Kaggle",
+  "url": "https://www.kaggle.com",
+  "domains": [
+    "kaggle.com"
+  ],
+  "description": "数据科学与机器学习学习、竞赛平台。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Kaggle",
+    "kaggle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 554,
+      "collection": "TechIcons / Devicon",
+      "file": "kaggle-1.svg",
+      "id": 5236,
+      "is_default": true,
+      "label": "TechIcons · Kaggle",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Kaggle.svg",
+        "original_sha256": "ec56e8894a290b84606421f02bce598957549d87e7c5203156a2445b0c5dacb6",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/kaggle",
+        "reference_website": "https://www.kaggle.com"
+      },
+      "sha256": "19f6cc33d4cfb75593096138a2e54e6982e078cbf8b771bd2f5ead5d972afb84",
+      "source": "https://techicons.dev/icons/kaggle",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3097,
+  "schema_version": 1,
+  "id": 3337,
+  "title": "CMake",
+  "url": "https://cmake.org",
+  "domains": [
+    "cmake.org"
+  ],
+  "description": "跨平台的软件构建配置工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "CMake",
+    "cmake"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 332,
+      "collection": "TechIcons / Devicon",
+      "file": "cmake-1.svg",
+      "id": 5108,
+      "is_default": true,
+      "label": "TechIcons · CMake",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CMake.svg",
+        "original_sha256": "c3a8a666d1ceaa0ab92e8d267c3e03e56a62a73c84a6722c92b23e79886f99b4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/cmake",
+        "reference_website": "https://cmake.org"
+      },
+      "sha256": "5a4584e37507ad63b51da2fb661ad5953fa8d5889d48736a180e9caa12d601f9",
+      "source": "https://techicons.dev/icons/cmake",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

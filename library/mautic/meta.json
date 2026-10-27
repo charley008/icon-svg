@@ -1,0 +1,40 @@
+{
+  "collection_id": 1789,
+  "schema_version": 1,
+  "id": 2016,
+  "title": "Mautic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mautic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 705,
+      "collection": "Dashboard Icons",
+      "file": "mautic.svg",
+      "id": 3327,
+      "is_default": true,
+      "label": "mautic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mautic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5bb074e6188e8c1bee5542083ca75858933e6fd5c3b5e40b79c10548420db98"
+      },
+      "sha256": "24a97422f0ded7cab4e1661164758b713f4f4a356d8b3a7b8315941a0f3b5f1f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mautic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

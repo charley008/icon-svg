@@ -1,0 +1,40 @@
+{
+  "collection_id": 3034,
+  "schema_version": 1,
+  "id": 3261,
+  "title": "Yt Dlp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yt-dlp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3169,
+      "collection": "Dashboard Icons",
+      "file": "yt-dlp.svg",
+      "id": 4992,
+      "is_default": true,
+      "label": "yt-dlp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yt-dlp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "08b5bac48dfe195b34521f6467ca01ce79bef4cda91c906e6e09a64cc9a65758"
+      },
+      "sha256": "d0be4d9a68937f937439844713360c655ed6d61bd5452c0ce73fd4c24da6efc7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yt-dlp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

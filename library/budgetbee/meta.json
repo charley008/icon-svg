@@ -1,0 +1,63 @@
+{
+  "collection_id": 912,
+  "schema_version": 1,
+  "id": 1139,
+  "title": "Budgetbee",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance-\u0026-Banking",
+    "Note-taking-Apps"
+  ],
+  "aliases": [
+    "budgetbee",
+    "budget-manager",
+    "personal-finance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4083,
+      "collection": "Dashboard Icons",
+      "file": "budgetbee.svg",
+      "id": 2178,
+      "is_default": true,
+      "label": "budgetbee",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "budgetbee.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48fb268fab716bcc095a85d8ade97f5ae5d702a3888fe874e2f3db9d0c3d3899"
+      },
+      "sha256": "666b96c82c87db55b4d22c1c33a90f0dac48e5ec5f7817343e2f5b0c5c9a9cf2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/budgetbee.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4155,
+      "collection": "Dashboard Icons",
+      "file": "budgetbee-1.svg",
+      "id": 2179,
+      "is_default": false,
+      "label": "budgetbee-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "budgetbee-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2782d59558c20a0b1dd62c7590548cf28826f7f5f8c4e5528eb9b67cfa7947f0"
+      },
+      "sha256": "6bd908b936c55925b013e4de13be43bfea031823f742f09fd8416c83e9955fee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/budgetbee-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2859,
+  "schema_version": 1,
+  "id": 3086,
+  "title": "Tyepcho",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tyepcho"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 460,
+      "collection": "Dashboard Icons",
+      "file": "tyepcho.svg",
+      "id": 4759,
+      "is_default": true,
+      "label": "tyepcho",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tyepcho.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "07d20fb7a9cbe7a747e0a85f3bdcde9308b69f363f22f8acd536e124d3c36a8f"
+      },
+      "sha256": "0cae70d1aa7f71d8943e7df7587b2a4c7fd6096cfb9366a1184f421d241097b2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tyepcho.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

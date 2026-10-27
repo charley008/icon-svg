@@ -1,0 +1,79 @@
+{
+  "collection_id": 1523,
+  "schema_version": 1,
+  "id": 1750,
+  "title": "Icewarp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "icewarp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2820,
+      "collection": "Dashboard Icons",
+      "file": "icewarp.svg",
+      "id": 2991,
+      "is_default": true,
+      "label": "icewarp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icewarp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1982260ba64f9ce6ed4949779558cbf32269b6be0cd4877ccf342ac0aa5b001f"
+      },
+      "sha256": "0d10b65a8b6e30e26f473238502e14614c297d339062b51e411a128b958de58d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icewarp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 1751,
+      "key": "office",
+      "title": "Icewarp Office",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "icewarp-office"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2606,
+          "collection": "Dashboard Icons",
+          "file": "icewarp-office.svg",
+          "id": 2992,
+          "is_default": true,
+          "label": "icewarp-office",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "icewarp-office.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a34656b5c0002c7f4b0a705b604070a9c9f2b18cce660ab19399a4a6680faf80"
+          },
+          "sha256": "81adfd54c8938777abcfe32c516a4f123fcb725cf473fca04c8df6be04ad7040",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icewarp-office.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

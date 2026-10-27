@@ -1,0 +1,42 @@
+{
+  "collection_id": 2093,
+  "schema_version": 1,
+  "id": 2320,
+  "title": "Papra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "网盘存储"
+  ],
+  "aliases": [
+    "papra"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 904,
+      "collection": "Dashboard Icons",
+      "file": "papra.svg",
+      "id": 3756,
+      "is_default": true,
+      "label": "papra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "papra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6119be4fd41339c57161e9fe4f4db1ca457044325a2166b2c16a10050dcb61f1"
+      },
+      "sha256": "703ebd1715af610e0f395e02324907e5924e0c6c9f3f1807ce15db45bcec7162",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/papra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

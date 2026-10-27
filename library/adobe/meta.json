@@ -99,6 +99,94 @@
   "next_version": 4,
   "products": [
     {
+      "id": 3301,
+      "key": "after-effects",
+      "title": "After Effects",
+      "url": "https://www.adobe.com/ca/products/aftereffects.html",
+      "domains": [
+        "adobe.com"
+      ],
+      "description": "动态图形、视觉特效与视频合成软件。",
+      "category": "设计素材",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "After Effects",
+        "aftereffects",
+        "After-Effects"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 532,
+          "collection": "TechIcons / Devicon",
+          "file": "adobe-after-effects-1.svg",
+          "id": 5056,
+          "is_default": true,
+          "label": "TechIcons · After Effects",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "After-Effects.svg",
+            "original_sha256": "09562fca2b8088a281055b45decb3a806a500bf04050bb99a552409462cea81a",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/aftereffects",
+            "reference_website": "https://www.adobe.com/ca/products/aftereffects.html"
+          },
+          "sha256": "ffca5f4970491cc84c4d06b550b657ad8e6b5286baf15c1d0b5f19ca96ba06e9",
+          "source": "https://techicons.dev/icons/aftereffects",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3299,
+      "key": "commerce",
+      "title": "Adobe Commerce / Magento",
+      "url": "https://business.adobe.com/products/magento/magento-commerce.html",
+      "domains": [
+        "business.adobe.com"
+      ],
+      "description": "面向 B2B、B2C 商家的电子商务平台。",
+      "category": "电商购物",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Adobe Commerce / Magento",
+        "magento",
+        "Adobe-Commerce-(Magneto)"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 344,
+          "collection": "TechIcons / Devicon",
+          "file": "adobe-commerce-1.svg",
+          "id": 5054,
+          "is_default": true,
+          "label": "TechIcons · Adobe Commerce / Magento",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Adobe-Commerce-(Magneto).svg",
+            "original_sha256": "7778a0371649abe7fd3c6fe4b785064e2021c812b33db43788e0f17f3792a1b3",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/magento",
+            "reference_website": "https://business.adobe.com/products/magento/magento-commerce.html"
+          },
+          "sha256": "22e24402ab2c78c8b8a5ac17795570ceedd4fa455c5282ce04e547e40b530ef3",
+          "source": "https://techicons.dev/icons/magento",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
       "id": 26,
       "key": "illustrator",
       "title": "Adobe Illustrator",
@@ -140,6 +228,64 @@
           "sha256": "c2d7f92bfd6e6de304f3b59b81af641d64d7d8a9d2ea2d3e7c5378e8d9e01771",
           "source": "https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg",
           "source_page": "https://worldvectorlogo.com/zh/logo/adobe-illustrator-cc-3",
+          "version": 0
+        },
+        {
+          "bytes": 1124,
+          "collection": "TechIcons / Devicon",
+          "file": "adobe-illustrator-1.svg",
+          "id": 5051,
+          "is_default": false,
+          "label": "TechIcons · Adobe Illustrator",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Adobe-Illustrator.svg",
+            "original_sha256": "785c53342e50d5f6fef26bd77e89afd7974a36ad1389e133f22675011780c89b",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/illustrator",
+            "reference_website": "https://www.adobe.com/ca/products/illustrator.html"
+          },
+          "sha256": "083a34abda3fd7ba5ea738418a0798cd962c122b3a1819bf8f02bc194077ab17",
+          "source": "https://techicons.dev/icons/illustrator",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 895,
+      "key": "indesign",
+      "title": "Adobe Indesign",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设计素材",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "adobe-indesign"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1328,
+          "collection": "Dashboard Icons",
+          "file": "adobe-indesign.svg",
+          "id": 1856,
+          "is_default": true,
+          "label": "adobe-indesign",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "adobe-indesign.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e8df8f7442f22beadb01ff5fc6cae4735da60c4c9e3d0eaf75dfc2c6da604ca9"
+          },
+          "sha256": "c764735926833d5a345028c4c9fa1a34423ffcdf090f4bc9fb21cfd9e4a6a192",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adobe-indesign.svg",
           "version": 0
         }
       ],
@@ -188,9 +334,73 @@
           "source": "https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg",
           "source_page": "https://worldvectorlogo.com/zh/logo/adobe-photoshop-2",
           "version": 0
+        },
+        {
+          "bytes": 1533,
+          "collection": "TechIcons / Devicon",
+          "file": "adobe-photoshop-1.svg",
+          "id": 5052,
+          "is_default": false,
+          "label": "TechIcons · Adobe Photoshop",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Adobe-Photoshop.svg",
+            "original_sha256": "5d055a95eb8cf62cd0303dd1dd2a001c65a5a45f80153d196e36cb41f595d4ba",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/photoshop",
+            "reference_website": "https://www.adobe.com/products/photoshop.html"
+          },
+          "sha256": "c274c2a2cb8975645c5b6ef1d4c76ad9709985c250f4c05920b6251587a2902f",
+          "source": "https://techicons.dev/icons/photoshop",
+          "version": 1
         }
       ],
-      "next_version": 1
+      "next_version": 2
+    },
+    {
+      "id": 3300,
+      "key": "premiere-pro",
+      "title": "Adobe Premiere Pro",
+      "url": "https://www.adobe.com/products/premiere.html",
+      "domains": [
+        "adobe.com"
+      ],
+      "description": "用于视频剪辑与后期制作的软件。",
+      "category": "影音娱乐",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Adobe Premiere Pro",
+        "premierepro",
+        "Adobe-Premiere-Pro"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 460,
+          "collection": "TechIcons / Devicon",
+          "file": "adobe-premiere-pro-1.svg",
+          "id": 5055,
+          "is_default": true,
+          "label": "TechIcons · Adobe Premiere Pro",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Adobe-Premiere-Pro.svg",
+            "original_sha256": "53ebac2c132ae702cab230295ecf80f30fa87990cb52a557cbdbdc9c78a9f8ac",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/premierepro",
+            "reference_website": "https://www.adobe.com/products/premiere.html"
+          },
+          "sha256": "7108badf667b3c1b58e682ed05a5fcfd7ab14bc8e362e73242c66b332aa652d3",
+          "source": "https://techicons.dev/icons/premierepro",
+          "version": 1
+        }
+      ],
+      "next_version": 2
     },
     {
       "id": 28,
@@ -230,9 +440,29 @@
           "sha256": "aaadebc3e8b68df24a09a6833db06a883a1754956ae466f048e5048921048fc5",
           "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/xd/default.svg",
           "version": 0
+        },
+        {
+          "bytes": 604,
+          "collection": "TechIcons / Devicon",
+          "file": "adobe-xd-1.svg",
+          "id": 5053,
+          "is_default": false,
+          "label": "TechIcons · Adobe XD",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Adobe-XD.svg",
+            "original_sha256": "5eff1d0c3c48418b503b883128fa8009e579c6d887180a21366b56525d545908",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/xd",
+            "reference_website": "https://helpx.adobe.com/support/xd.html"
+          },
+          "sha256": "b120c09eb51576ffdc8d9e067f24abc49468d7be2a45e11554f866874bfc7aab",
+          "source": "https://techicons.dev/icons/xd",
+          "version": 1
         }
       ],
-      "next_version": 1
+      "next_version": 2
     }
   ]
 }

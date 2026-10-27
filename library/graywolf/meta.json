@@ -1,0 +1,40 @@
+{
+  "collection_id": 1424,
+  "schema_version": 1,
+  "id": 1651,
+  "title": "Graywolf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "graywolf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7512,
+      "collection": "Dashboard Icons",
+      "file": "graywolf.svg",
+      "id": 2852,
+      "is_default": true,
+      "label": "graywolf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "graywolf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae498524a09b7a4f6fc726662316f9ca9c6ef38924c67af9c3eb0bfaa3cec6f3"
+      },
+      "sha256": "d4ac5d697c18c258373486548dd7e9ac0782dbaff4684f268e7da1986fc3c2c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/graywolf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,64 @@
+{
+  "collection_id": 2008,
+  "schema_version": 1,
+  "id": 2235,
+  "title": "Onedev",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "DevOps",
+    "Version-Control-Systems",
+    "开发编程"
+  ],
+  "aliases": [
+    "onedev",
+    "DevOps Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2186,
+      "collection": "Dashboard Icons",
+      "file": "onedev.svg",
+      "id": 3632,
+      "is_default": true,
+      "label": "onedev",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onedev.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a7ff48310a879517789cc9bb68f014580b9865b6e9db5b2d1e1cc021dcc83554"
+      },
+      "sha256": "d907ed9709ab505cb4cd7d8e1d737dcd7b1d1b8e81e0f84041b0c008cc6797a5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onedev.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2222,
+      "collection": "Dashboard Icons",
+      "file": "onedev-1.svg",
+      "id": 3633,
+      "is_default": false,
+      "label": "onedev-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onedev-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fddc52a56289af8299f91de855132dd716e44df5139af6343445da5db8ebe406"
+      },
+      "sha256": "0112ee139cfc6470f4e1ec709c38752e2202bc4f380d8b403a122d7c45cbdb0f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onedev-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

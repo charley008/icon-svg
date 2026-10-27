@@ -1,0 +1,44 @@
+{
+  "collection_id": 1871,
+  "schema_version": 1,
+  "id": 2098,
+  "title": "Multi Scrobbler",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "multi-scrobbler",
+    "lastfm-scrobbler",
+    "music-activity-tracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1271,
+      "collection": "Dashboard Icons",
+      "file": "multi-scrobbler.svg",
+      "id": 3447,
+      "is_default": true,
+      "label": "multi-scrobbler",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "multi-scrobbler.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f6c337f84448c6294f56569a3dfd269b005a31b022c59adc22fae2cc6b7252e7"
+      },
+      "sha256": "12f7be76e06a2a329ff34d064c42f75aa05eec4c8224fc9b1a5ae1fee3dfdde5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/multi-scrobbler.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

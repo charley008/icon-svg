@@ -1,0 +1,59 @@
+{
+  "collection_id": 671,
+  "schema_version": 1,
+  "id": 898,
+  "title": "Affine",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "affine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1349,
+      "collection": "Dashboard Icons",
+      "file": "affine.svg",
+      "id": 1859,
+      "is_default": true,
+      "label": "affine",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "affine.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d6eab5f94280620c257adb4d9031704e0b8879b4aa35d140c630793f4f6aadf0"
+      },
+      "sha256": "99644e2d6b5aa0a1787b2423e0817e357cb047d5b906e113be329d69e0dd985d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/affine.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1361,
+      "collection": "Dashboard Icons",
+      "file": "affine-1.svg",
+      "id": 1860,
+      "is_default": false,
+      "label": "affine-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "affine-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b729daf4d8cd076ec4184f7de42a936abfe66cc89ea157ee87da441b991b3798"
+      },
+      "sha256": "6faa95c1e5cc0b12fa54101ddb23d02fd79a0a5afa40d802b09905597a8b0f09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/affine-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

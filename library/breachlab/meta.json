@@ -1,0 +1,40 @@
+{
+  "collection_id": 900,
+  "schema_version": 1,
+  "id": 1127,
+  "title": "Breachlab",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "breachlab"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1072,
+      "collection": "Dashboard Icons",
+      "file": "breachlab.svg",
+      "id": 2163,
+      "is_default": true,
+      "label": "breachlab",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "breachlab.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7feda6b9707dcafd948511a69de529f899875509263ad42d97de05d754501ac9"
+      },
+      "sha256": "26bc0c30d46ffaf1b25e95ade8bef7e4be1880a6fb3b4474128836ecb59a1dd3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/breachlab.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

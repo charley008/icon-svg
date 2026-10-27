@@ -1,0 +1,40 @@
+{
+  "collection_id": 1680,
+  "schema_version": 1,
+  "id": 1907,
+  "title": "Lastpass",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lastpass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 628,
+      "collection": "Dashboard Icons",
+      "file": "lastpass.svg",
+      "id": 3186,
+      "is_default": true,
+      "label": "lastpass",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lastpass.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ffd04e6a973e54085cd0a8c25a57bbf2d4ef771a87d13b33838ba3877dd7afb6"
+      },
+      "sha256": "afd626a1432d3f4c3c0f21e29d0eac23305fe223980d533fb87168c5049308d7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lastpass.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

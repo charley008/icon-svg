@@ -1,0 +1,43 @@
+{
+  "collection_id": 2723,
+  "schema_version": 1,
+  "id": 2950,
+  "title": "Svelte",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "svelte",
+    "sveltejs",
+    "sveltekit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1699,
+      "collection": "Dashboard Icons",
+      "file": "svelte.svg",
+      "id": 4586,
+      "is_default": true,
+      "label": "svelte",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "svelte.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "08726fa2a3f022317077a8dc6c6946764b7264542555fe71837c9d2362f0b2db"
+      },
+      "sha256": "d537684311195c3ed76dd4727330958a5679bd6dd2ab129d02c123186ce1dcfa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/svelte.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

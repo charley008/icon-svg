@@ -1,0 +1,45 @@
+{
+  "collection_id": 3195,
+  "schema_version": 1,
+  "id": 3457,
+  "title": "OpenCV",
+  "url": "https://opencv.org/",
+  "domains": [
+    "opencv.org"
+  ],
+  "description": "用于图像处理和计算机视觉的开发库。",
+  "category": "AI",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "OpenCV",
+    "opencv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1279,
+      "collection": "TechIcons / Devicon",
+      "file": "opencv-1.svg",
+      "id": 5299,
+      "is_default": true,
+      "label": "TechIcons · OpenCV",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OpenCV.svg",
+        "original_sha256": "a7adfae29bdb714195ea9b31b4f6f3ff7cf21fb448ab244f6110987280bd7b7e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/opencv",
+        "reference_website": "https://opencv.org/"
+      },
+      "sha256": "34abfa283121d0a393cbad79336f677d15940e0e6d99c11e08b7c26f65adcdc6",
+      "source": "https://techicons.dev/icons/opencv",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

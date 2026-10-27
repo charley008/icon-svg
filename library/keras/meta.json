@@ -1,0 +1,45 @@
+{
+  "collection_id": 3157,
+  "schema_version": 1,
+  "id": 3414,
+  "title": "Keras",
+  "url": "https://keras.io",
+  "domains": [
+    "keras.io"
+  ],
+  "description": "用于构建深度学习模型的高级开发接口。",
+  "category": "AI",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Keras",
+    "keras"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 689,
+      "collection": "TechIcons / Devicon",
+      "file": "keras-1.svg",
+      "id": 5239,
+      "is_default": true,
+      "label": "TechIcons · Keras",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Keras.svg",
+        "original_sha256": "ed3a03bc9566c9cb38aed58ab404ad706de31a941a17c32dc71ea70fb32c2945",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/keras",
+        "reference_website": "https://keras.io"
+      },
+      "sha256": "e4739237ec4769366cdbf35cddead1c69ce1c886ede6be61cf073b4cb3176ffb",
+      "source": "https://techicons.dev/icons/keras",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

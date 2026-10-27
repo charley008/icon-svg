@@ -1,0 +1,45 @@
+{
+  "collection_id": 3261,
+  "schema_version": 1,
+  "id": 3526,
+  "title": "Weblate",
+  "url": "https://weblate.org/en-gb",
+  "domains": [
+    "weblate.org"
+  ],
+  "description": "用于软件项目翻译与本地化的协作平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Weblate",
+    "weblate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2338,
+      "collection": "TechIcons / Devicon",
+      "file": "weblate-1.svg",
+      "id": 5403,
+      "is_default": true,
+      "label": "TechIcons · Weblate",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Weblate.svg",
+        "original_sha256": "c6d1984f3ce44a340ccce0e3c4f24c9fe983d1fceca3de77fd0d229042dd8a00",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/weblate",
+        "reference_website": "https://weblate.org/en-gb"
+      },
+      "sha256": "b5ff4450d253f306ba4baadc997c3899d446d412b48d56fec78e8932c9880e60",
+      "source": "https://techicons.dev/icons/weblate",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

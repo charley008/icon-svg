@@ -1,4 +1,7 @@
 {
+  "collection_id": 542,
+  "schema_version": 1,
+  "id": 743,
   "title": "Hikvision",
   "url": "https://www.hikvision.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "hikvision.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "d02d7157da7df6bd24237b6f040371750c4ad0e9a0985b9dff49ba21dbe04cc3",
       "bytes": 591,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hikvision.svg",
+      "collection": "Dashboard Icons",
+      "file": "hikvision.svg",
+      "id": 1702,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "hikvision.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "d02d7157da7df6bd24237b6f040371750c4ad0e9a0985b9dff49ba21dbe04cc3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hikvision.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 781,
+  "schema_version": 1,
+  "id": 1008,
+  "title": "Autobrr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "autobrr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1248,
+      "collection": "Dashboard Icons",
+      "file": "autobrr.svg",
+      "id": 2009,
+      "is_default": true,
+      "label": "autobrr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "autobrr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "99d03561d1610161a29605886725f480e7703e52d5ab208a22f9617b83e92c41"
+      },
+      "sha256": "a9b50d31aaf78af04a430dfd7c9a1a86263a9c0a2b67b3fe0ea315c28be392cd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/autobrr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

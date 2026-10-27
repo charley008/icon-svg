@@ -1,0 +1,102 @@
+{
+  "collection_id": 1565,
+  "schema_version": 1,
+  "id": 1792,
+  "redirect_from": [
+    1793
+  ],
+  "title": "Issabel Pbx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "issabel-pbx",
+    "issabel-pbx-wordmark",
+    "Issabel Pbx Wordmark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2785,
+      "collection": "Dashboard Icons",
+      "file": "issabel-pbx.svg",
+      "id": 3046,
+      "is_default": true,
+      "label": "issabel-pbx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "issabel-pbx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ccb348467dc55ba45d295f0454f8e69a53d2cb27eb74dfedd11b861ef6510a8f"
+      },
+      "sha256": "da3cc3a4caca81c90f5e534f55d88c13ebbc7402b01f7c9dde135b88eeaa8134",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/issabel-pbx.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2788,
+      "collection": "Dashboard Icons",
+      "file": "issabel-pbx-1.svg",
+      "id": 3047,
+      "is_default": false,
+      "label": "issabel-pbx-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "issabel-pbx-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d8f82ad8db006379f0ec1e39b6baa47f26409ff3ba98b7951e8580236d56aa9"
+      },
+      "sha256": "779f6524a1ed8ec96bd93496421887398381e705206d23424c3709c18437910c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/issabel-pbx-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5516,
+      "collection": "Dashboard Icons",
+      "file": "issabel-pbx-2.svg",
+      "id": 3048,
+      "is_default": false,
+      "label": "issabel-pbx-wordmark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "issabel-pbx-wordmark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d7045bfc7dd1f112d4cdaf15857abebf017f22fedeb4955ba622e87b2f96d17"
+      },
+      "sha256": "0f975705c442bb2039315db3bb7e7f1ac61bec4562ca3466808597d7e8f411c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/issabel-pbx-wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 5519,
+      "collection": "Dashboard Icons",
+      "file": "issabel-pbx-3.svg",
+      "id": 3049,
+      "is_default": false,
+      "label": "issabel-pbx-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "issabel-pbx-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "511ee33a4da1b2e3ef73828c0f133847e506daca2ef5e9116c20e989f2fe9cc7"
+      },
+      "sha256": "0fa1b6f55c89c135decf93efa5a613109ae95d4b9f842769ef74e69f789d6af9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/issabel-pbx-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

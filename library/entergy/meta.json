@@ -1,0 +1,41 @@
+{
+  "collection_id": 1208,
+  "schema_version": 1,
+  "id": 1435,
+  "title": "Entergy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons",
+    "Finance"
+  ],
+  "aliases": [
+    "entergy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1504,
+      "collection": "Dashboard Icons",
+      "file": "entergy.svg",
+      "id": 2573,
+      "is_default": true,
+      "label": "entergy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "entergy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e10ca6a7c89437ed0591c3158accde0d536626495619224c5d900cb59da23ab5"
+      },
+      "sha256": "0d6ae6b473102fb7353442ac3c9aaef0518a42e6958f017cf7a0d476109505b4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entergy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1330,
+  "schema_version": 1,
+  "id": 1557,
+  "title": "Freshbooks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freshbooks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 487,
+      "collection": "Dashboard Icons",
+      "file": "freshbooks.svg",
+      "id": 2723,
+      "is_default": true,
+      "label": "freshbooks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freshbooks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d04336c96d912880df146fec7bf012d1d9a90dee28db797d4969c80d9e95eac"
+      },
+      "sha256": "8560b0f27e3354e7f61e0bb21b87dc4fe45c7c0df9a1639a69282eace0d6b23c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freshbooks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

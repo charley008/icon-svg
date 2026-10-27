@@ -1,0 +1,40 @@
+{
+  "collection_id": 1481,
+  "schema_version": 1,
+  "id": 1708,
+  "title": "Hivedav",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hivedav"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12133,
+      "collection": "Dashboard Icons",
+      "file": "hivedav.svg",
+      "id": 2939,
+      "is_default": true,
+      "label": "hivedav",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hivedav.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7feadf08937487c421f7a6ec9afc3d3ea517591e1b2994441ad373cc3978d554"
+      },
+      "sha256": "2c708781242a1936d7b74445cac28915428e56c0cc0b2d1505f841cc246cb351",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hivedav.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

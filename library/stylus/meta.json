@@ -1,0 +1,45 @@
+{
+  "collection_id": 3243,
+  "schema_version": 1,
+  "id": 3506,
+  "title": "Stylus",
+  "url": "https://stylus-lang.com/docs/js.html",
+  "domains": [
+    "stylus-lang.com"
+  ],
+  "description": "用于编写 Web 样式的语言与预处理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Stylus",
+    "stylus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2714,
+      "collection": "TechIcons / Devicon",
+      "file": "stylus-1.svg",
+      "id": 5373,
+      "is_default": true,
+      "label": "TechIcons · Stylus",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Stylus.svg",
+        "original_sha256": "37610b30f480bd568c42a1ab3e30e999a7a691aa5e0cec8c06a377f15cf3898b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/stylus",
+        "reference_website": "https://stylus-lang.com/docs/js.html"
+      },
+      "sha256": "ad139d13ab5ef87aaadcd57fa1f3fc6b93b91c5e5d2c592a37b3612cab044e77",
+      "source": "https://techicons.dev/icons/stylus",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

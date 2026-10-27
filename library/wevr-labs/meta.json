@@ -1,0 +1,42 @@
+{
+  "collection_id": 2968,
+  "schema_version": 1,
+  "id": 3195,
+  "title": "Wevr Labs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "wevr-labs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 657,
+      "collection": "Dashboard Icons",
+      "file": "wevr-labs.svg",
+      "id": 4906,
+      "is_default": true,
+      "label": "wevr-labs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wevr-labs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85c692335938e23a59e573ce2376706d30366a7bf8ccafbfa21a05fc27ab0aa3"
+      },
+      "sha256": "dae2c5cb12746c6da056591448db394455f561d0bf170a6f7d50ee517177cf20",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wevr-labs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

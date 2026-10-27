@@ -1,0 +1,42 @@
+{
+  "collection_id": 2900,
+  "schema_version": 1,
+  "id": 3127,
+  "title": "Verriflo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "verriflo",
+    "verriflo-live"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1359,
+      "collection": "Dashboard Icons",
+      "file": "verriflo.svg",
+      "id": 4817,
+      "is_default": true,
+      "label": "verriflo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "verriflo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c308aded16f5e79e4e0a9a32909773fd226ec4805a1d581e9192be84f95eeb9"
+      },
+      "sha256": "d52a35e892ebfed5245fcef6de321df968505d02e02cc09ca067b7af39d5c5d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/verriflo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,61 @@
+{
+  "collection_id": 2051,
+  "schema_version": 1,
+  "id": 2278,
+  "title": "Openwebrx Plus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "openwebrx-plus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3138,
+      "collection": "Dashboard Icons",
+      "file": "openwebrx-plus.svg",
+      "id": 3698,
+      "is_default": true,
+      "label": "openwebrx-plus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openwebrx-plus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d4ca998773f526d7d8d18a3858091ea5a1eaa574bcbd26c7c7e5deb4132b4d7"
+      },
+      "sha256": "34ce4b7a251dfaaedf6845c0d6d769856d5528b4588e7657753098f885c1805a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openwebrx-plus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3105,
+      "collection": "Dashboard Icons",
+      "file": "openwebrx-plus-1.svg",
+      "id": 3699,
+      "is_default": false,
+      "label": "openwebrx-plus-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openwebrx-plus-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e7b15fb6c45ae30cf2119b54e7525d899d0fcee6ec939f224db1d3cea699028"
+      },
+      "sha256": "6d08149016a56460b3e82719f81e728293785e29983c113e357cd30da5ea6c23",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openwebrx-plus-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

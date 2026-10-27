@@ -1,0 +1,40 @@
+{
+  "collection_id": 678,
+  "schema_version": 1,
+  "id": 905,
+  "title": "Airsonic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "airsonic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3156,
+      "collection": "Dashboard Icons",
+      "file": "airsonic.svg",
+      "id": 1868,
+      "is_default": true,
+      "label": "airsonic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airsonic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e762c4a2a4a2d15b5da224b4bcd3f5ad6f80ce89bf205a6dfa8cf4265e609937"
+      },
+      "sha256": "46b233507f06080e1aeb91c044fc4dd82c5af3a5f487e15ce578040dec91fd87",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/airsonic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

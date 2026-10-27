@@ -1,0 +1,40 @@
+{
+  "collection_id": 1411,
+  "schema_version": 1,
+  "id": 1638,
+  "title": "Gordi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gordi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13016,
+      "collection": "Dashboard Icons",
+      "file": "gordi.svg",
+      "id": 2837,
+      "is_default": true,
+      "label": "gordi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gordi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2f87f3e8abdeb0b057160ecc9982d9cbe52c418572cd029ecfec52bdcdef197"
+      },
+      "sha256": "edc4aa9469e720544b652b3f0f1aee16fa058c7365f2be1f7c5313022a25bdff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gordi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

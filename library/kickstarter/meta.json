@@ -1,0 +1,40 @@
+{
+  "collection_id": 1632,
+  "schema_version": 1,
+  "id": 1859,
+  "title": "Kickstarter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kickstarter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1055,
+      "collection": "Dashboard Icons",
+      "file": "kickstarter.svg",
+      "id": 3130,
+      "is_default": true,
+      "label": "kickstarter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kickstarter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5a23c9928d796a4efea2be21345b14de8c2fd22df5d58c150d5d094a64efed9"
+      },
+      "sha256": "8175de2bab89d5e4ccc93ed7ae971cc33333198b74467d5fa766ab5b75be3093",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kickstarter.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

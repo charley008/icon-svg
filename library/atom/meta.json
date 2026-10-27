@@ -1,0 +1,45 @@
+{
+  "collection_id": 3079,
+  "schema_version": 1,
+  "id": 3318,
+  "title": "Atom",
+  "url": "https://github.com/atom/atom",
+  "domains": [
+    "github.com"
+  ],
+  "description": "可扩展的代码与文本编辑器。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Atom",
+    "atom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3632,
+      "collection": "TechIcons / Devicon",
+      "file": "atom-1.svg",
+      "id": 5082,
+      "is_default": true,
+      "label": "TechIcons · Atom",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Atom.svg",
+        "original_sha256": "f0138503b96059d91faca20830a0e5b091227a45605113eaa87d41b7f6c8e387",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/atom",
+        "reference_website": "https://github.com/atom/atom"
+      },
+      "sha256": "9635f9cee499e82b58f23f3f9f9ee1e14a9d657191b4588802988aa7e096891f",
+      "source": "https://techicons.dev/icons/atom",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

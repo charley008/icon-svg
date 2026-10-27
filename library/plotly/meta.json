@@ -1,0 +1,46 @@
+{
+  "collection_id": 3204,
+  "schema_version": 1,
+  "id": 3467,
+  "title": "Plotly",
+  "url": "https://plotly.com",
+  "domains": [
+    "plotly.com"
+  ],
+  "description": "用于数据可视化和数据应用开发的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Plotly",
+    "plotly",
+    "Ploty"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6281,
+      "collection": "TechIcons / Devicon",
+      "file": "plotly-1.svg",
+      "id": 5315,
+      "is_default": true,
+      "label": "TechIcons · Plotly",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ploty.svg",
+        "original_sha256": "ce447cdbb2c5b978c1622d1700776b28c78550bfb44e471d88b613adee5c573d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/plotly",
+        "reference_website": "https://plotly.com"
+      },
+      "sha256": "0017f0c00d0379d0a8c3f0e115ae52b53f191480725fc459750e3dc4c6925096",
+      "source": "https://techicons.dev/icons/plotly",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

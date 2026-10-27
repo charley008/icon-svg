@@ -1,0 +1,45 @@
+{
+  "collection_id": 3227,
+  "schema_version": 1,
+  "id": 3490,
+  "title": "Sass",
+  "url": "https://sass-lang.com",
+  "domains": [
+    "sass-lang.com"
+  ],
+  "description": "用于扩展 CSS 编写能力的样式语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Sass",
+    "sass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5509,
+      "collection": "TechIcons / Devicon",
+      "file": "sass-1.svg",
+      "id": 5351,
+      "is_default": true,
+      "label": "TechIcons · Sass",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Sass.svg",
+        "original_sha256": "c5cfd1072695faba7d5c23ee4c4e373dad16463cb55980e8118002d445bd764e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sass",
+        "reference_website": "https://sass-lang.com"
+      },
+      "sha256": "59d7be6d15e743a8443eafce011c3ace0479f2c9def3380417bc0986682746fc",
+      "source": "https://techicons.dev/icons/sass",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

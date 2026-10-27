@@ -1,0 +1,40 @@
+{
+  "collection_id": 1890,
+  "schema_version": 1,
+  "id": 2117,
+  "title": "Navidrome",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "navidrome"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 802,
+      "collection": "Dashboard Icons",
+      "file": "navidrome.svg",
+      "id": 3470,
+      "is_default": true,
+      "label": "navidrome-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "navidrome-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d74d9ecb279ba59e58e8c534d724ce66678fc049b2f1f4d62aaf0be2799fde50"
+      },
+      "sha256": "b692a26084e10fb49d68bb52ca3b4f436f8bb74eff32b03970e20c5f19bc30bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/navidrome-light.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

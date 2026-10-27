@@ -1,0 +1,44 @@
+{
+  "collection_id": 2218,
+  "schema_version": 1,
+  "id": 2445,
+  "title": "Projectsend",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "网盘存储"
+  ],
+  "aliases": [
+    "projectsend",
+    "large-file-transfer",
+    "client-portal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 893,
+      "collection": "Dashboard Icons",
+      "file": "projectsend.svg",
+      "id": 3935,
+      "is_default": true,
+      "label": "projectsend",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "projectsend.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2874870b545e23947f9325b5940f5dffee3211521a49d9be8b0ef9397b1b1a29"
+      },
+      "sha256": "f6147869ac299b8bec5374c8281996f9fbb2e47fdf15ad2936ba2b2f819e679e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/projectsend.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

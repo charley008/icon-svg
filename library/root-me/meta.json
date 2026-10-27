@@ -1,0 +1,60 @@
+{
+  "collection_id": 2521,
+  "schema_version": 1,
+  "id": 2748,
+  "title": "Root Me",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "root-me",
+    "rm-icon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6268,
+      "collection": "Dashboard Icons",
+      "file": "root-me.svg",
+      "id": 4328,
+      "is_default": true,
+      "label": "root-me",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "root-me.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c4dc4eaf5203f925b66e73645aa91f67b20a9b93ec850be96fed3cb6a29b70f"
+      },
+      "sha256": "90bcac5900ed0d363dd28af99e2b1c66ea17bf6fa8a7843b1193bf9d364cd354",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/root-me.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6280,
+      "collection": "Dashboard Icons",
+      "file": "root-me-1.svg",
+      "id": 4329,
+      "is_default": false,
+      "label": "root-me-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "root-me-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f6ca2f4558158bb0db5db93c0fbead82e030a4f6f09d62707cf0b19eae3b1459"
+      },
+      "sha256": "350b087bde910224de6d527b36917fa00daaa47961779c90770318d0b84015ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/root-me-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

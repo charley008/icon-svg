@@ -1,0 +1,43 @@
+{
+  "collection_id": 2572,
+  "schema_version": 1,
+  "id": 2799,
+  "title": "Seelf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "seelf",
+    "Social Network"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1288,
+      "collection": "Dashboard Icons",
+      "file": "seelf.svg",
+      "id": 4395,
+      "is_default": true,
+      "label": "seelf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "seelf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4983a00ceda24992e8c106506c5772a7e3c1403b2834d52d01cd7976bff943a"
+      },
+      "sha256": "29df40b64edf150895f917c78bd9d688f0ee43b260be9eed2a2860b920812651",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/seelf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

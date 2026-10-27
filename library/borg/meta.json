@@ -1,0 +1,40 @@
+{
+  "collection_id": 894,
+  "schema_version": 1,
+  "id": 1121,
+  "title": "Borg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "borg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 294,
+      "collection": "Dashboard Icons",
+      "file": "borg.svg",
+      "id": 2155,
+      "is_default": true,
+      "label": "borg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "borg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e827a74891b7b21ca1bc8e7665121c676112cca92d0c72c31257254e6533e400"
+      },
+      "sha256": "b716a1f38108c40033a3daa59d1b6a11b9c0ed21ac4d31eb5c2bdde97668cdf6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/borg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

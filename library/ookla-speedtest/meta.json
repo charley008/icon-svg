@@ -1,0 +1,43 @@
+{
+  "collection_id": 2012,
+  "schema_version": 1,
+  "id": 2239,
+  "title": "Ookla Speedtest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ookla-speedtest",
+    "speedtest",
+    "ookla",
+    "ooklaspeedtest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1192,
+      "collection": "Dashboard Icons",
+      "file": "ookla-speedtest.svg",
+      "id": 3639,
+      "is_default": true,
+      "label": "ookla-speedtest",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ookla-speedtest.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b90ce8a8ee216aae5bc5b6ee32787722f84225539ba7d282c49fa272cc352d67"
+      },
+      "sha256": "f7f6885eebf18309d72d08c3b142a7ac765193e9e18661254fe46d993fc4f790",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ookla-speedtest.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

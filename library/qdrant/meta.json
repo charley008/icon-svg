@@ -1,0 +1,41 @@
+{
+  "collection_id": 2428,
+  "schema_version": 1,
+  "id": 2655,
+  "title": "Qdrant",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Search"
+  ],
+  "aliases": [
+    "qdrant"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2143,
+      "collection": "Dashboard Icons",
+      "file": "qdrant.svg",
+      "id": 4216,
+      "is_default": true,
+      "label": "qdrant",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qdrant.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce6ebde7cf4992052a250d533775433058fff9024623704099a22dfcb44b89a3"
+      },
+      "sha256": "5369df495646d819eeb9bec4a9a710c98d9e93b03dab42026b2088ed6bf68f88",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qdrant.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

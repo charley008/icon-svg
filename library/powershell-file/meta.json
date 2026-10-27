@@ -1,0 +1,40 @@
+{
+  "collection_id": 2202,
+  "schema_version": 1,
+  "id": 2429,
+  "title": "Powershell File",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "powershell-file"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3988,
+      "collection": "Dashboard Icons",
+      "file": "powershell-file.svg",
+      "id": 3918,
+      "is_default": true,
+      "label": "powershell-file",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "powershell-file.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "db82aacb667e5846d93c394b45e68fad6f6372fdc20daa8cf31699712daf08ca"
+      },
+      "sha256": "e77b92b3cd1b77866eeb6524d5cf90e8f28a6d18b09d69a44a40827a7078b831",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powershell-file.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

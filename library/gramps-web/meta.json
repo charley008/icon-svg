@@ -1,0 +1,42 @@
+{
+  "collection_id": 1418,
+  "schema_version": 1,
+  "id": 1645,
+  "title": "Gramps Web",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "gramps-web"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4262,
+      "collection": "Dashboard Icons",
+      "file": "gramps-web.svg",
+      "id": 2844,
+      "is_default": true,
+      "label": "gramps-web",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gramps-web.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd4d1a4c174c1c632105a6939608c50abcd976cb1d6f7fa81521d2dc07aa75ef"
+      },
+      "sha256": "63820b120d94de2b9066c6bab79bb1f39aff1344eac42f7919fb2d7d21d10878",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gramps-web.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

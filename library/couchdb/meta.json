@@ -1,0 +1,60 @@
+{
+  "collection_id": 1032,
+  "schema_version": 1,
+  "id": 1259,
+  "title": "Couchdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "couchdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 713,
+      "collection": "Dashboard Icons",
+      "file": "couchdb.svg",
+      "id": 2337,
+      "is_default": true,
+      "label": "couchdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "couchdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b84d6e8d276730457ca02b8bf7c6545c05a2eacd9be27ea1f3014618a12c038"
+      },
+      "sha256": "2eb52c93fb1af1ee9dc5ed8e75508040121d6e7cc3f1657d9243e7a35b8648f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/couchdb.svg",
+      "version": 0
+    },
+    {
+      "bytes": 739,
+      "collection": "TechIcons / Devicon",
+      "file": "couchdb-1.svg",
+      "id": 5117,
+      "is_default": false,
+      "label": "TechIcons · CouchDB",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CouchDB.svg",
+        "original_sha256": "62c831a339ee6804750c72f740c385d9438d6f9ca154799145fa7f38b3dd6940",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/couchdb",
+        "reference_website": "https://couchdb.apache.org"
+      },
+      "sha256": "372004470677662abce00231f1668dadcfcefed733055bf4eb6dd1925e2598af",
+      "source": "https://techicons.dev/icons/couchdb",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 2903,
+  "schema_version": 1,
+  "id": 3130,
+  "title": "Vi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "vi",
+    "Text Editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 380,
+      "collection": "Dashboard Icons",
+      "file": "vi.svg",
+      "id": 4821,
+      "is_default": true,
+      "label": "vi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ce8d6fdb5af68cf1ab5be4b798d821e915286a3fe8c707e491e1777ff06f40d"
+      },
+      "sha256": "5c25f43b6c410f6ffc2c8f7c0797cfe920c69e5c1b5ad0479571490581191171",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

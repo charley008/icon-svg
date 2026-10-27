@@ -1,0 +1,61 @@
+{
+  "collection_id": 1483,
+  "schema_version": 1,
+  "id": 1710,
+  "title": "Hollo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "hollo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1571,
+      "collection": "Dashboard Icons",
+      "file": "hollo.svg",
+      "id": 2942,
+      "is_default": true,
+      "label": "hollo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hollo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dbe08d9a5c4a192fb7d6ce94d4f9c1c335e2604195c1826374795a6c2e07563f"
+      },
+      "sha256": "863a49452c852761461ad2c3cada0b208a21a655175e98c50a2a2e403e36ba81",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hollo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1583,
+      "collection": "Dashboard Icons",
+      "file": "hollo-1.svg",
+      "id": 2943,
+      "is_default": false,
+      "label": "hollo-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hollo-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0104820686a7eb8eb69002d4e833a869048ed6715e46f345d4ed6da9edcd317c"
+      },
+      "sha256": "d98ff33880990deebbe9d93baa5c3cd15e637b9a84bb8468198fae62e9efbbb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hollo-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

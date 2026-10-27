@@ -1,0 +1,59 @@
+{
+  "collection_id": 1534,
+  "schema_version": 1,
+  "id": 1761,
+  "title": "Immich Frame",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "immich-frame"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1954,
+      "collection": "Dashboard Icons",
+      "file": "immich-frame.svg",
+      "id": 3004,
+      "is_default": true,
+      "label": "immich-frame",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "immich-frame.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c837083bdd772589ab5367e578e174e8f8f8a83a1ed5d69ee497770e9f95007"
+      },
+      "sha256": "ffe3ba5af5ca6861e4e26ac0b36aec088d857370f74022d216a748b37e4a03f6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich-frame.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4542,
+      "collection": "Dashboard Icons",
+      "file": "immich-frame-1.svg",
+      "id": 3005,
+      "is_default": false,
+      "label": "immich-frame-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "immich-frame-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6908f03202136ef9fdc7e5aa8302c3b0de5b093b6907086ce2784f227ca6774f"
+      },
+      "sha256": "fe9faefa5a757fd0f356f4b2283646524a5ca8f6799a7d0561eec532549ffa49",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich-frame-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

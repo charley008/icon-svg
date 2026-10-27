@@ -1,0 +1,78 @@
+{
+  "collection_id": 839,
+  "schema_version": 1,
+  "id": 1066,
+  "title": "Backstage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "backstage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4450,
+      "collection": "Dashboard Icons",
+      "file": "backstage.svg",
+      "id": 2074,
+      "is_default": true,
+      "label": "backstage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "backstage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "04cf977cf3fea6e7228883a3b3c7c9e1079aeb8077ce50f8d54df6b5957f733b"
+      },
+      "sha256": "969c47a447c9dca393ed0d5692c691ab623ac44e7c0cc238249a0c32c4c8c49f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/backstage.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4450,
+      "collection": "Dashboard Icons",
+      "file": "backstage-1.svg",
+      "id": 2075,
+      "is_default": false,
+      "label": "backstage-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "backstage-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c10066c9dca6534e742a771354cd78cde85b16ab31ce74cff2de0da931fd8c5d"
+      },
+      "sha256": "480ef7a58515a60c5ed89eaf72e91120254d0bc6bbce9e016caa3b803f8c1875",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/backstage-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4447,
+      "collection": "Dashboard Icons",
+      "file": "backstage-2.svg",
+      "id": 2076,
+      "is_default": false,
+      "label": "backstage-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "backstage-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8864d7256fc0acc26364201dc7d689895720b0c63606aaa14b771682c90f9e0f"
+      },
+      "sha256": "eb2864bcd2db67c30e69267b4725a40fd258fc4bddb2f61f8f3e8c660e5f0496",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/backstage-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

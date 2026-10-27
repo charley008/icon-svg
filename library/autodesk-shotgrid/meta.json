@@ -1,0 +1,46 @@
+{
+  "collection_id": 3080,
+  "schema_version": 1,
+  "id": 3319,
+  "title": "Autodesk ShotGrid",
+  "url": "https://www.shotgridsoftware.com",
+  "domains": [
+    "shotgridsoftware.com"
+  ],
+  "description": "影视、动画制作的项目和流程管理工具。",
+  "category": "办公效率",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Autodesk ShotGrid",
+    "shotgrid",
+    "Autodesk-ShotGrid"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1065,
+      "collection": "TechIcons / Devicon",
+      "file": "autodesk-shotgrid-1.svg",
+      "id": 5084,
+      "is_default": true,
+      "label": "TechIcons · Autodesk ShotGrid",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Autodesk-ShotGrid.svg",
+        "original_sha256": "3eded69500d673b471b3e7396ae23ac7252a676c8d33675b5273dc71aafb0672",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/shotgrid",
+        "reference_website": "https://www.shotgridsoftware.com"
+      },
+      "sha256": "7f2d108c4c84310657ed7bb5b4e2ca134736244ce62b97c20443ff7808889b25",
+      "source": "https://techicons.dev/icons/shotgrid",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

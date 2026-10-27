@@ -1,0 +1,40 @@
+{
+  "collection_id": 2136,
+  "schema_version": 1,
+  "id": 2363,
+  "title": "Photopea",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "photopea"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 611,
+      "collection": "Dashboard Icons",
+      "file": "photopea.svg",
+      "id": 3819,
+      "is_default": true,
+      "label": "photopea",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "photopea.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de83a68cfad03db8db87b2c473973f4c343a96ded6b23f6992a236637829f23d"
+      },
+      "sha256": "1bc7f00a8ef993027dc5d1bf8290744da288ef4fe7a58c13be4897bf022ef88a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photopea.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

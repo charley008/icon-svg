@@ -160,8 +160,232 @@
       "sha256": "3be11643ca690224d33f250513249dc991ea750955238196a5d074b53d50d964",
       "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/github/wordmark.svg",
       "version": 5
+    },
+    {
+      "bytes": 862,
+      "collection": "Dashboard Icons",
+      "file": "github-6.svg",
+      "id": 2767,
+      "is_default": false,
+      "label": "github",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cdfb82ff14c8c2484eacba9d211d86cd0c993c933855cad2b03633414fa10ddb"
+      },
+      "sha256": "793c2034c949f537f8d8dfd7e87c39b65cbc12c001a2349170263e420b52f016",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github.svg",
+      "version": 6
+    },
+    {
+      "bytes": 114908,
+      "collection": "Dashboard Icons",
+      "file": "github-7.svg",
+      "id": 2768,
+      "is_default": false,
+      "label": "github-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2449e6a336fc02a1467cf49d377b7fbdfd87d0f687a2f27532f100808d9cf72"
+      },
+      "sha256": "65f6473abbf65fbc25de62234911834e15cbff2bebe8e29c6773a804e0190021",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-kawaii.svg",
+      "version": 7
+    },
+    {
+      "bytes": 859,
+      "collection": "Dashboard Icons",
+      "file": "github-8.svg",
+      "id": 2769,
+      "is_default": false,
+      "label": "github-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "github-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ff3d18bf9d06a227ccfd556974b2fcf344f8333fe52863a525cbd5e43fdea004"
+      },
+      "sha256": "81d6866720b736a7b879e75823e4246e40c48bcc30cb83773d35d888abbbb8e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-light.svg",
+      "version": 8
+    },
+    {
+      "bytes": 1907,
+      "collection": "TechIcons / Devicon",
+      "file": "github-9.svg",
+      "id": 5175,
+      "is_default": false,
+      "label": "TechIcons · GitHub",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "GitHub.svg",
+        "original_sha256": "45262793de6292206a895ed63593cdb1eaed82074173f7f4b5bdb3e427ca805a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/github",
+        "reference_website": "https://github.com"
+      },
+      "sha256": "36a40e693e5fbf2241e231cd980844c85a9b5b6db9e7653f0ecc9a22b02162e5",
+      "source": "https://techicons.dev/icons/github",
+      "version": 9
     }
   ],
-  "next_version": 6,
-  "products": []
+  "next_version": 10,
+  "products": [
+    {
+      "id": 3374,
+      "key": "actions",
+      "title": "GitHub Actions",
+      "url": "https://github.com/features/actions",
+      "domains": [
+        "github.com"
+      ],
+      "description": "GitHub 的自动化工作流和持续集成服务。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "GitHub Actions",
+        "githubactions",
+        "GitHub-Actions"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2894,
+          "collection": "TechIcons / Devicon",
+          "file": "github-actions-1.svg",
+          "id": 5176,
+          "is_default": true,
+          "label": "TechIcons · GitHub Actions",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "GitHub-Actions.svg",
+            "original_sha256": "3a2524052ccf301d1a239f20cfef98d655e060c51cc29c5e94c867913899a47e",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/githubactions",
+            "reference_website": "https://github.com/features/actions"
+          },
+          "sha256": "dad2b205d87daf8cb3ec4a546d56b2846317a0aa2e064b352f4bf96f8611713d",
+          "source": "https://techicons.dev/icons/githubactions",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3375,
+      "key": "codespaces",
+      "title": "GitHub Codespaces",
+      "url": "https://github.com/features/codespaces",
+      "domains": [
+        "github.com"
+      ],
+      "description": "GitHub 的云端开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "GitHub Codespaces",
+        "githubcodespaces",
+        "GitHub-Codespaces"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2341,
+          "collection": "TechIcons / Devicon",
+          "file": "github-codespaces-1.svg",
+          "id": 5177,
+          "is_default": true,
+          "label": "TechIcons · GitHub Codespaces",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "GitHub-Codespaces.svg",
+            "original_sha256": "b6f9f3b81a01a7f9e36b46f907cb8b69f486cf496a84dd1485a3e484bae6384d",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/githubcodespaces",
+            "reference_website": "https://github.com/features/codespaces"
+          },
+          "sha256": "b9a17e610e0ed668f19e10ffebff749ad0f2940b758c207bfb4a698c698e77fd",
+          "source": "https://techicons.dev/icons/githubcodespaces",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1595,
+      "key": "copilot",
+      "title": "Github Copilot",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons",
+        "Development"
+      ],
+      "aliases": [
+        "github-copilot"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2002,
+          "collection": "Dashboard Icons",
+          "file": "github-copilot.svg",
+          "id": 2770,
+          "is_default": true,
+          "label": "github-copilot",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "github-copilot.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "29f16e99e13e16c315a0a24c2700efaaa7813f0f888c57bc0f05bd482378d9a8"
+          },
+          "sha256": "f7223e1e3a2ac8896c1b245358f8060b9a5d7533a51042262186dff937416806",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-copilot.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2015,
+          "collection": "Dashboard Icons",
+          "file": "github-copilot-1.svg",
+          "id": 2771,
+          "is_default": false,
+          "label": "github-copilot-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "github-copilot-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4f39c4234c58408d8d9018907e897178069fd2e9da677c4b086a918b9ec8d6f7"
+          },
+          "sha256": "67c3f5be66a95976056f51428e2f6f246a3ea0f787522f39e1dc47871812e139",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-copilot-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
 }

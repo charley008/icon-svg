@@ -1,0 +1,45 @@
+{
+  "collection_id": 3236,
+  "schema_version": 1,
+  "id": 3499,
+  "title": "Solid.js",
+  "url": "https://www.solidjs.com",
+  "domains": [
+    "solidjs.com"
+  ],
+  "description": "用于构建 Web 界面的 JavaScript 开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Solid.js",
+    "solidjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2370,
+      "collection": "TechIcons / Devicon",
+      "file": "solidjs-1.svg",
+      "id": 5362,
+      "is_default": true,
+      "label": "TechIcons · Solid.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Solid.js.svg",
+        "original_sha256": "b055c354114d53c61278b0c2131a9b860b5dcfe65172639e3d2a03b679e6671a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/solidjs",
+        "reference_website": "https://www.solidjs.com"
+      },
+      "sha256": "6665a9b572a10c06a9a4d9fadf9d6a084177c1740e1485c746046ed8375cd9a0",
+      "source": "https://techicons.dev/icons/solidjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

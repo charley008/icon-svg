@@ -1,0 +1,40 @@
+{
+  "collection_id": 2465,
+  "schema_version": 1,
+  "id": 2692,
+  "title": "Rancher",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rancher"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 980,
+      "collection": "Dashboard Icons",
+      "file": "rancher.svg",
+      "id": 4256,
+      "is_default": true,
+      "label": "rancher",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rancher.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6fb0a4f542f7ea22e00c6a4a522a1281f1a11fb2a25f429fbaa0eb83de5b5c7e"
+      },
+      "sha256": "a8e7c40a8283116144e761ac2b2f1fa5a149084b54edcb596f6268eb052a6b3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rancher.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3124,
+  "schema_version": 1,
+  "id": 3366,
+  "title": "Feathers",
+  "url": "https://feathersjs.com",
+  "domains": [
+    "feathersjs.com"
+  ],
+  "description": "用于构建实时应用与 API 的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Feathers",
+    "feathersjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1146,
+      "collection": "TechIcons / Devicon",
+      "file": "feathersjs-1.svg",
+      "id": 5158,
+      "is_default": true,
+      "label": "TechIcons · Feathers",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Feathers.svg",
+        "original_sha256": "87bd4f696968f2199b08d211e080d5f02918956094d86856afed1292c672b660",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/feathersjs",
+        "reference_website": "https://feathersjs.com"
+      },
+      "sha256": "44cf6338a6851629f05772d13113dcff8318d99f75b7eb746d12670018d4aec6",
+      "source": "https://techicons.dev/icons/feathersjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

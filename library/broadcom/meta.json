@@ -1,0 +1,83 @@
+{
+  "collection_id": 904,
+  "schema_version": 1,
+  "id": 1131,
+  "redirect_from": [
+    1132
+  ],
+  "title": "Broadcom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "broadcom",
+    "broadcom-wordmark-light",
+    "Broadcom Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1119,
+      "collection": "Dashboard Icons",
+      "file": "broadcom.svg",
+      "id": 2168,
+      "is_default": true,
+      "label": "broadcom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "broadcom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ac4d084c6b9cefd40d27b74d208899a1cc2952bdc917c19c72a0ce26f047a4d2"
+      },
+      "sha256": "ef68ca0bc1ccf23e2a6e39107940fc2e4d5144132184307b2f4a7035176caa71",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/broadcom.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3057,
+      "collection": "Dashboard Icons",
+      "file": "broadcom-1.svg",
+      "id": 2169,
+      "is_default": false,
+      "label": "broadcom-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "broadcom-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fece1cb917b05ff672f787428f0d11de634f0d683b31fecc2712251e550b302c"
+      },
+      "sha256": "e154a4570078ee450f194554183b2c4e0e3a99e55d92eab34b3c400ae779376a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/broadcom-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3009,
+      "collection": "Dashboard Icons",
+      "file": "broadcom-2.svg",
+      "id": 2170,
+      "is_default": false,
+      "label": "broadcom-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "broadcom-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f24887d49a61b77190926e6d68d807f421e65a05d710d06277b5b16161531144"
+      },
+      "sha256": "22f26941da20474c55fc51076ee8701900854dd398e46036b764a10f701d4f06",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/broadcom-wordmark-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 2084,
+  "schema_version": 1,
+  "id": 2311,
+  "title": "Pangolin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "pangolin",
+    "pangolin-newt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1672,
+      "collection": "Dashboard Icons",
+      "file": "pangolin.svg",
+      "id": 3743,
+      "is_default": true,
+      "label": "pangolin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pangolin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b07b719c2e491ded1fb43d36092d75492555422b145b98aca56125ad8c26a6bd"
+      },
+      "sha256": "543e44afc5b727a2fef5052c12fbaac8f6457287cec517d7e05904805b52673f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pangolin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

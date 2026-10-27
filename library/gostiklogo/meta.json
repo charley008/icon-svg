@@ -1,0 +1,40 @@
+{
+  "collection_id": 1413,
+  "schema_version": 1,
+  "id": 1640,
+  "title": "Gostiklogo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gostiklogo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 59873,
+      "collection": "Dashboard Icons",
+      "file": "gostiklogo.svg",
+      "id": 2839,
+      "is_default": true,
+      "label": "gostiklogo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gostiklogo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "182709498a0c3435f4b674be8badc5f9b0aafb57efaf3b53e9dbcce4932f9b14"
+      },
+      "sha256": "2fba01071cf77818c4622ccd9b3c4fa2819d4b8ac3a39949bcb2f0c7110c21a2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gostiklogo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 921,
+  "schema_version": 1,
+  "id": 1148,
+  "title": "Buzz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "buzz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 840,
+      "collection": "Dashboard Icons",
+      "file": "buzz.svg",
+      "id": 2189,
+      "is_default": true,
+      "label": "buzz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "buzz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e3a342d9c0843e09bc82bd34deff0a9db022d3330d9878eeb4662f7f4fdda970"
+      },
+      "sha256": "83e6e2ec2c66a6259cf9e3e7ea186e180181c917bbe8bdbab66cf6bf09fa0cdb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/buzz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

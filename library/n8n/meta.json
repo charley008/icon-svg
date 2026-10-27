@@ -1,4 +1,7 @@
 {
+  "collection_id": 573,
+  "schema_version": 1,
+  "id": 791,
   "title": "n8n",
   "url": "https://n8n.io/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "n8n.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "45b282108f60b12df6cba68e3fa633d56970eab4d2ac6b1eef43a60b5ea29af5",
       "bytes": 1248,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/n8n.svg",
+      "collection": "Dashboard Icons",
+      "file": "n8n.svg",
+      "id": 1748,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "n8n.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "45b282108f60b12df6cba68e3fa633d56970eab4d2ac6b1eef43a60b5ea29af5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/n8n.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1517,
+  "schema_version": 1,
+  "id": 1744,
+  "title": "I Librarian",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "i-librarian",
+    "ilibrarian",
+    "i-lib"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7717,
+      "collection": "Dashboard Icons",
+      "file": "i-librarian.svg",
+      "id": 2982,
+      "is_default": true,
+      "label": "i-librarian",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "i-librarian.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ff447cef70387602cf94e83bf5b3fb68d8221e481415322c4177be805d919ec3"
+      },
+      "sha256": "acab8fa15a0abf275dd78f919cf6ee0fbe7b0cab1836cbad7f3345205e9fde3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/i-librarian.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

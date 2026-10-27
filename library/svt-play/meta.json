@@ -1,0 +1,40 @@
+{
+  "collection_id": 2727,
+  "schema_version": 1,
+  "id": 2954,
+  "title": "Svt Play",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "svt-play"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1393,
+      "collection": "Dashboard Icons",
+      "file": "svt-play.svg",
+      "id": 4591,
+      "is_default": true,
+      "label": "svt-play",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "svt-play.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2e92c5eec39e4c9d1827b2c22a161c6d74581f16535ed1849dafedb0ce98651d"
+      },
+      "sha256": "8922185cd9f9f19e4e9f8ae2c852038baa69a4188fca36b7f6597035f32ed62c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/svt-play.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

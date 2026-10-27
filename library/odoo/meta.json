@@ -1,0 +1,40 @@
+{
+  "collection_id": 1991,
+  "schema_version": 1,
+  "id": 2218,
+  "title": "Odoo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "odoo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 613,
+      "collection": "Dashboard Icons",
+      "file": "odoo.svg",
+      "id": 3606,
+      "is_default": true,
+      "label": "odoo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "odoo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "956fd9c66c429cbe3988366675be395d18d1f99e053c34517ce5be107a49215e"
+      },
+      "sha256": "8f2ba278396dd0f15392f4b30cff4f0b90546a1420b28fe88135bd926ca1395a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/odoo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

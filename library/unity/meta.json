@@ -1,0 +1,81 @@
+{
+  "collection_id": 2879,
+  "schema_version": 1,
+  "id": 3106,
+  "title": "Unity",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "unity",
+    "unity-3d"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 751,
+      "collection": "Dashboard Icons",
+      "file": "unity.svg",
+      "id": 4787,
+      "is_default": true,
+      "label": "unity",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unity.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5191ad9c017a89be66d38ca84d14a77af3db1ceaac541d077cb9851e6bd54bd6"
+      },
+      "sha256": "f842df30c21ed178290ef6b7f6b897211b88403cd4b830c00961c65ec28b4fb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unity.svg",
+      "version": 0
+    },
+    {
+      "bytes": 751,
+      "collection": "Dashboard Icons",
+      "file": "unity-1.svg",
+      "id": 4788,
+      "is_default": false,
+      "label": "unity-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unity-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5dec6412f093c6e8b61f150dd4059374cfb6513b1d142c15eeef92285afad5e"
+      },
+      "sha256": "baca56fe1f4e9b8f0860b532b2c9c9c3689739b107b9a28b8e722cf49abc5ed7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unity-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 935,
+      "collection": "TechIcons / Devicon",
+      "file": "unity-2.svg",
+      "id": 5389,
+      "is_default": false,
+      "label": "TechIcons · Unity",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Unity.svg",
+        "original_sha256": "4e57bd57a1effd6d44a9b1cc025f57dd0b81e39d3631b8c7f6b7ee1bf28e22c8",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/unity",
+        "reference_website": "https://unity.com"
+      },
+      "sha256": "738d0076515076a4637558a520ef823b67ae083a8a0ddc7043ded944945f04e2",
+      "source": "https://techicons.dev/icons/unity",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

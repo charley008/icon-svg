@@ -1,0 +1,40 @@
+{
+  "collection_id": 1760,
+  "schema_version": 1,
+  "id": 1987,
+  "title": "Mail In A Box",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mail-in-a-box"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1798,
+      "collection": "Dashboard Icons",
+      "file": "mail-in-a-box.svg",
+      "id": 3291,
+      "is_default": true,
+      "label": "mail-in-a-box",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mail-in-a-box.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "206745d4e43e118911628d3afb6051788bee46e1a007d27e47299843da6df24f"
+      },
+      "sha256": "10d7f76c9f85a3752e603939922ab94f229fbee71f27e7b73226f59e60ebc77f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mail-in-a-box.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

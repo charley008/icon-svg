@@ -1,0 +1,40 @@
+{
+  "collection_id": 1217,
+  "schema_version": 1,
+  "id": 1444,
+  "title": "Etesync",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "etesync"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1885,
+      "collection": "Dashboard Icons",
+      "file": "etesync.svg",
+      "id": 2588,
+      "is_default": true,
+      "label": "etesync",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etesync.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dcea1cb597488bdd580ccfb739030674f3bcaa420ba4fdd7228ed1d7e889db10"
+      },
+      "sha256": "7e92bf37056e55a96ef22449063a350f6d9709939f143f2112cc1c997a613c58",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/etesync.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

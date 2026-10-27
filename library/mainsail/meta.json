@@ -1,0 +1,40 @@
+{
+  "collection_id": 1767,
+  "schema_version": 1,
+  "id": 1994,
+  "title": "Mainsail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mainsail"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 370,
+      "collection": "Dashboard Icons",
+      "file": "mainsail.svg",
+      "id": 3299,
+      "is_default": true,
+      "label": "mainsail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mainsail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ebf1c50bc0a2dc5548ff9ecdcb8a6083708b8a8a52193e80f9f15e05d8f7a55d"
+      },
+      "sha256": "5aa4fd8140ad9ba6c32b9e4092e1340c042f892942bf121a6a33da6c500f6422",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mainsail.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

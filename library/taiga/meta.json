@@ -1,0 +1,40 @@
+{
+  "collection_id": 2740,
+  "schema_version": 1,
+  "id": 2967,
+  "title": "Taiga",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "taiga"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 980,
+      "collection": "Dashboard Icons",
+      "file": "taiga.svg",
+      "id": 4610,
+      "is_default": true,
+      "label": "taiga",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "taiga.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09ffd25ab15b39f35cf30eea4530917e8708324aa9d66160a606194d509f3118"
+      },
+      "sha256": "7c506253b08fdbb7489fff4a0454b0f98080119c7cdb78ce46ae0070d21b83d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/taiga.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

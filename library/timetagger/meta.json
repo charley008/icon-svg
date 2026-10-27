@@ -1,0 +1,59 @@
+{
+  "collection_id": 2805,
+  "schema_version": 1,
+  "id": 3032,
+  "title": "Timetagger",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "timetagger"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 504,
+      "collection": "Dashboard Icons",
+      "file": "timetagger.svg",
+      "id": 4690,
+      "is_default": true,
+      "label": "timetagger",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "timetagger.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc4515aee4f5e86d8b483a364b6f346b6f0fdf9d7cfb4862c33b7002f6661773"
+      },
+      "sha256": "237abe7b67f9f0ec5d9dc523f0b509962ddc04efab543b52e9314498d20eb9e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/timetagger.svg",
+      "version": 0
+    },
+    {
+      "bytes": 504,
+      "collection": "Dashboard Icons",
+      "file": "timetagger-1.svg",
+      "id": 4691,
+      "is_default": false,
+      "label": "timetagger-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "timetagger-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c79cc775b9d9f8a3d952d279578e79a25ae90d0a707dcac2c9005bd7c6111758"
+      },
+      "sha256": "2b3eab5ce1079ab5435c52e0a1cbb62e11e1a4452156ee09a72dd0c6ca6c5edc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/timetagger-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

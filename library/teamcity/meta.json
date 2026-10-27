@@ -1,0 +1,59 @@
+{
+  "collection_id": 2754,
+  "schema_version": 1,
+  "id": 2981,
+  "title": "Teamcity",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "teamcity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3019,
+      "collection": "Dashboard Icons",
+      "file": "teamcity.svg",
+      "id": 4628,
+      "is_default": true,
+      "label": "teamcity",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teamcity.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ff7ce62b9d202f69b1c04f25852c59e8b594c3fcabedd07cd87bcf5e57d6b9b"
+      },
+      "sha256": "dbdd50305eca28637e4f3f584d3dc3ca70bdfcbe76dcefc8596ea1b46eab3812",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teamcity.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3097,
+      "collection": "Dashboard Icons",
+      "file": "teamcity-1.svg",
+      "id": 4629,
+      "is_default": false,
+      "label": "teamcity-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teamcity-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b5f0acda1fb9d8036a394700baa1b2cf9393719014e9cc7921220f1643a4a6c"
+      },
+      "sha256": "8bc8a2a67c81c6326d6470c7c4a100ed1b75272adac84d59a090c0e537ddd596",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teamcity-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

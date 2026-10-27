@@ -1,0 +1,40 @@
+{
+  "collection_id": 1586,
+  "schema_version": 1,
+  "id": 1813,
+  "title": "Jellywatch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jellywatch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6649,
+      "collection": "Dashboard Icons",
+      "file": "jellywatch.svg",
+      "id": 3073,
+      "is_default": true,
+      "label": "jellywatch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jellywatch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2911742b82e74a23cdcc5cadc606d71c90dbb032d26ddf3fe06de0eabb0e3c31"
+      },
+      "sha256": "9b9bba7d8fd21922b1e1991f7fa90baffbf0f547fbd7c123f7fffd10c459024d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jellywatch.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

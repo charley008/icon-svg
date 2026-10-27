@@ -1,0 +1,40 @@
+{
+  "collection_id": 1375,
+  "schema_version": 1,
+  "id": 1602,
+  "title": "Gluetun",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gluetun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8163,
+      "collection": "Dashboard Icons",
+      "file": "gluetun.svg",
+      "id": 2781,
+      "is_default": true,
+      "label": "gluetun",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gluetun.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbebd2faa90213bafb61910f1c4323eec2015b12b09741224625d9ed34241c86"
+      },
+      "sha256": "04c077688809753d4c6aab08836a0788b43d38a89d20c8dbc140aa2026bbed28",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gluetun.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

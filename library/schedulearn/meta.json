@@ -1,0 +1,61 @@
+{
+  "collection_id": 2560,
+  "schema_version": 1,
+  "id": 2787,
+  "title": "Schedulearn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "schedulearn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7194,
+      "collection": "Dashboard Icons",
+      "file": "schedulearn.svg",
+      "id": 4379,
+      "is_default": true,
+      "label": "schedulearn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "schedulearn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "395ac7e8510a056652ac051734dfa76cae3e60432417c229945c448b09a78a11"
+      },
+      "sha256": "9dfb64ee42871c897cfe0f26d45daab8bc65612393e19c89d6bbcaf46a7b56aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/schedulearn.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7179,
+      "collection": "Dashboard Icons",
+      "file": "schedulearn-1.svg",
+      "id": 4380,
+      "is_default": false,
+      "label": "schedulearn-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "schedulearn-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2dbd04711d0302b60b5e2bd9be910025d1b4777a9dd20e27ac68de8430d82d5"
+      },
+      "sha256": "28c34683967f5f73fd0c582795061979f63f501f83346338a064f460f0ed973c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/schedulearn-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

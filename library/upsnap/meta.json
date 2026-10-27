@@ -1,0 +1,40 @@
+{
+  "collection_id": 2885,
+  "schema_version": 1,
+  "id": 3112,
+  "title": "Upsnap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "upsnap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15784,
+      "collection": "Dashboard Icons",
+      "file": "upsnap.svg",
+      "id": 4795,
+      "is_default": true,
+      "label": "upsnap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "upsnap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eae655721a8b34f294e06e2428b149e49598c7b1eb37e53644b7be941ccd4ed5"
+      },
+      "sha256": "dea50d77de1bda6693ea528e3c58b89addd01628072e116016d0aba88e67c75d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/upsnap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

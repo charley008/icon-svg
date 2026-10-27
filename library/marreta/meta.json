@@ -1,0 +1,40 @@
+{
+  "collection_id": 1783,
+  "schema_version": 1,
+  "id": 2010,
+  "title": "Marreta",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "marreta"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 929,
+      "collection": "Dashboard Icons",
+      "file": "marreta.svg",
+      "id": 3319,
+      "is_default": true,
+      "label": "marreta",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "marreta.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ab72ddefdc9b16bacdf4b61f57ca165646e8c758dcfb822f4c562164a3c085e"
+      },
+      "sha256": "801834b2d9a505105fdfa9c87b8a61a75204f9970104beb35c8371c24808de8b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/marreta.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 2951,
+  "schema_version": 1,
+  "id": 3178,
+  "title": "Watchtower",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools",
+    "DevOps",
+    "开发编程"
+  ],
+  "aliases": [
+    "watchtower",
+    "Container Updater"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5402,
+      "collection": "Dashboard Icons",
+      "file": "watchtower.svg",
+      "id": 4883,
+      "is_default": true,
+      "label": "watchtower",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "watchtower.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "136058a4ccc79dad3bb319de0b5567d5881805b2dd1935d08c496037c078c308"
+      },
+      "sha256": "7cef3492335d46d6e894f28fb4b435868779f701b3aa32bfc6695c6721ec3a70",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/watchtower.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

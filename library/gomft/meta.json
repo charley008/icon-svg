@@ -1,0 +1,43 @@
+{
+  "collection_id": 1385,
+  "schema_version": 1,
+  "id": 1612,
+  "title": "Gomft",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "Cloud",
+    "网盘存储"
+  ],
+  "aliases": [
+    "gomft"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 64934,
+      "collection": "Dashboard Icons",
+      "file": "gomft.svg",
+      "id": 2799,
+      "is_default": true,
+      "label": "gomft",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gomft.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef99218fa36d25c3f7137f66bf38a48ee6a600b7331104eb2903869e746ec603"
+      },
+      "sha256": "bb7e0c91f46b7a2b6a575f6d53fe520b20d01bcc3b7b7923fb59ac87cdbca74e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gomft.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

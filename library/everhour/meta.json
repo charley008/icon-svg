@@ -1,0 +1,40 @@
+{
+  "collection_id": 1230,
+  "schema_version": 1,
+  "id": 1457,
+  "title": "Everhour",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "everhour"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2260,
+      "collection": "Dashboard Icons",
+      "file": "everhour.svg",
+      "id": 2601,
+      "is_default": true,
+      "label": "everhour",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "everhour.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0063c1c33ba254a560bda57e850b97aef56737b8ec07f27a9e878a1d71426f7e"
+      },
+      "sha256": "72250d24664d30e444db24ac217a4f011c63795c8995fe9ea3438534bd7099e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/everhour.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

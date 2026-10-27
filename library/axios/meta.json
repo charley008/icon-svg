@@ -1,0 +1,46 @@
+{
+  "collection_id": 3082,
+  "schema_version": 1,
+  "id": 3321,
+  "title": "Axios",
+  "url": "https://axios-http.com",
+  "domains": [
+    "axios-http.com"
+  ],
+  "description": "用于浏览器和 Node.js 的 HTTP 请求库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Axios",
+    "axios",
+    "Azios"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 356,
+      "collection": "TechIcons / Devicon",
+      "file": "axios-1.svg",
+      "id": 5086,
+      "is_default": true,
+      "label": "TechIcons · Axios",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Azios.svg",
+        "original_sha256": "73d48d6fb3d1705492de4f338be6164aa97b73b6f07e33c4ac460d25da1b6155",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/axios",
+        "reference_website": "https://axios-http.com"
+      },
+      "sha256": "1fad4b9162a4941af3386982b94cd27a31af0fa0dcead0388ddda66ea25e9798",
+      "source": "https://techicons.dev/icons/axios",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

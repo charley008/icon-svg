@@ -1,0 +1,45 @@
+{
+  "collection_id": 3183,
+  "schema_version": 1,
+  "id": 3445,
+  "title": "NetworkX",
+  "url": "https://networkx.org",
+  "domains": [
+    "networkx.org"
+  ],
+  "description": "用于图结构和网络分析的 Python 开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "NetworkX",
+    "networkx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3991,
+      "collection": "TechIcons / Devicon",
+      "file": "networkx-1.svg",
+      "id": 5281,
+      "is_default": true,
+      "label": "TechIcons · NetworkX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "NetworkX.svg",
+        "original_sha256": "ae60a14efb7a4a6e44deb258f51d63f5c836a410ccd6939ef90138e01d3ac2a9",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/networkx",
+        "reference_website": "https://networkx.org"
+      },
+      "sha256": "837d78f967b0739a4f2e616e06ade3b86900785f322ff53b2779e7bcecf2c6ff",
+      "source": "https://techicons.dev/icons/networkx",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

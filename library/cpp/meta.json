@@ -1,0 +1,40 @@
+{
+  "collection_id": 1036,
+  "schema_version": 1,
+  "id": 1263,
+  "title": "Cpp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cpp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1206,
+      "collection": "Dashboard Icons",
+      "file": "cpp.svg",
+      "id": 2341,
+      "is_default": true,
+      "label": "cpp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cpp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "964c44809cd821350f0728a643e01cb1de6825d742945bd9089460c372b1f7bf"
+      },
+      "sha256": "d6320a1b6d3209f25ea1dfcadd9c1aefddead3b77e97491ae2c470c78eafc850",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cpp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

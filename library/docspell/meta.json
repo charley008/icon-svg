@@ -1,0 +1,44 @@
+{
+  "collection_id": 1132,
+  "schema_version": 1,
+  "id": 1359,
+  "title": "Docspell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "File-Sharing-\u0026-Sync",
+    "办公效率"
+  ],
+  "aliases": [
+    "docspell",
+    "Document Indexer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 992,
+      "collection": "Dashboard Icons",
+      "file": "docspell.svg",
+      "id": 2472,
+      "is_default": true,
+      "label": "docspell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docspell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "00cd8faf6d8dae1e347f621bbcb93b36c5d4adf11bb07c997b48bc30f45e4228"
+      },
+      "sha256": "1ec58bab0affff6f9938c4527af4abda99c422d0b091643321cd81851b8f7329",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docspell.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

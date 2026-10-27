@@ -1,0 +1,59 @@
+{
+  "collection_id": 2734,
+  "schema_version": 1,
+  "id": 2961,
+  "title": "Symmetricom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "symmetricom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 11562,
+      "collection": "Dashboard Icons",
+      "file": "symmetricom.svg",
+      "id": 4598,
+      "is_default": true,
+      "label": "symmetricom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "symmetricom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4511e8abae1b12ea49f164419476db309df4dd2b9f7b70e23238a43e92d703ad"
+      },
+      "sha256": "b40b6a730a9d9b0f017888176b1d2cb9b2129a4fedc635ba39c4e9f70cd5ddf1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/symmetricom.svg",
+      "version": 0
+    },
+    {
+      "bytes": 11592,
+      "collection": "Dashboard Icons",
+      "file": "symmetricom-1.svg",
+      "id": 4599,
+      "is_default": false,
+      "label": "symmetricom-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "symmetricom-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6460f5c99193242df750599f96ce7e624786184c53393b5ad675aebb5e9532db"
+      },
+      "sha256": "0df91cf41bb1bf26bd209309bbcec94627a5b1a37b5e31b11c24ddb30c3d2c7d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/symmetricom-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

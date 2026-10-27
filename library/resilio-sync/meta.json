@@ -1,4 +1,10 @@
 {
+  "collection_id": 607,
+  "schema_version": 1,
+  "id": 832,
+  "redirect_from": [
+    2726
+  ],
   "title": "Resilio Sync",
   "url": "https://www.resilio.com/sync/",
   "domains": [
@@ -15,28 +21,69 @@
     "resilio-sync",
     "resiliosync",
     "文件同步",
-    "点对点"
+    "点对点",
+    "resiliosync-full",
+    "Resiliosync Full",
+    "btsync"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "resilio-sync.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "fc966ae0e9bd12920cdf2f6979a3a1cb9a8329226c3c29589478dd817a1361e9",
       "bytes": 6145,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/resiliosync.svg",
+      "collection": "Dashboard Icons",
+      "file": "resilio-sync.svg",
+      "id": 1789,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "resiliosync.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "fc966ae0e9bd12920cdf2f6979a3a1cb9a8329226c3c29589478dd817a1361e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/resiliosync.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9041,
+      "collection": "Dashboard Icons",
+      "file": "resilio-sync-1.svg",
+      "id": 4299,
+      "is_default": false,
+      "label": "Resiliosync Full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "resiliosync-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f141d677df78ac3aace57109b81910cf2af8a3db0740983d59fc04568241d99c"
+      },
+      "sha256": "52534c9cafd0e2fdc524852454124c837bf88db754c95fb6ae008146bd19742a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/resiliosync-full.svg",
+      "version": 1
+    },
+    {
+      "bytes": 9029,
+      "collection": "Dashboard Icons",
+      "file": "resilio-sync-2.svg",
+      "id": 4300,
+      "is_default": false,
+      "label": "resiliosync-full-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "resiliosync-full-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "67860554a64882352446acb39caa1a352e6132cc0ace9c87bbee4d418fadb890"
+      },
+      "sha256": "13a0e84ef09edebb6cc124e3eedb7aa29b9ce69189e66524e7bbdfb952a36591",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/resiliosync-full-dark.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 3,
   "products": []
 }

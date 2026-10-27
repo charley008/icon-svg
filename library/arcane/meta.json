@@ -1,0 +1,41 @@
+{
+  "collection_id": 744,
+  "schema_version": 1,
+  "id": 971,
+  "title": "Arcane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "arcane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5443,
+      "collection": "Dashboard Icons",
+      "file": "arcane.svg",
+      "id": 1959,
+      "is_default": true,
+      "label": "arcane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "arcane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "81ee200f4695e995079069c9270e03649601e4e0b7ced20054443e58e4555917"
+      },
+      "sha256": "93fcfa3a546ab0982dfb05d59d4ded54d32d750bd47d65e0c553a7751e49b7b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arcane.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

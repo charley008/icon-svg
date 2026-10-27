@@ -1,4 +1,7 @@
 {
+  "collection_id": 524,
+  "schema_version": 1,
+  "id": 697,
   "title": "DokuWiki",
   "url": "https://www.dokuwiki.org/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "dokuwiki.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "edc73fd0decdbf497b0d4d57120c18655e3634761d17e61531bdab33db5d9f89",
       "bytes": 8443,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dokuwiki.svg",
+      "collection": "Dashboard Icons",
+      "file": "dokuwiki.svg",
+      "id": 1658,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "dokuwiki.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "edc73fd0decdbf497b0d4d57120c18655e3634761d17e61531bdab33db5d9f89",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dokuwiki.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

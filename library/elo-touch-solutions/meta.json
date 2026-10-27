@@ -1,0 +1,40 @@
+{
+  "collection_id": 1189,
+  "schema_version": 1,
+  "id": 1416,
+  "title": "Elo Touch Solutions",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "elo-touch-solutions"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 925,
+      "collection": "Dashboard Icons",
+      "file": "elo-touch-solutions.svg",
+      "id": 2547,
+      "is_default": true,
+      "label": "elo-touch-solutions",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elo-touch-solutions.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "51a897e6e38884c3a97db08ff0a974ad11cad7385bb9f8d63a9124b3879e91e5"
+      },
+      "sha256": "036a320c471c118fddeeeef92275c23c96034ca7323a05552214ebd118896a80",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elo-touch-solutions.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

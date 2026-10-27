@@ -1,0 +1,40 @@
+{
+  "collection_id": 1152,
+  "schema_version": 1,
+  "id": 1379,
+  "title": "Doxis",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "doxis"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2233,
+      "collection": "Dashboard Icons",
+      "file": "doxis.svg",
+      "id": 2497,
+      "is_default": true,
+      "label": "doxis",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doxis.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bae923ebee02db1eec05e8a7a506cbef0dd0eb1c27877d22d0951755c09241f8"
+      },
+      "sha256": "36a6a0fb1daf9d30fede34bc75466d920334ee190f15356bf23bd26e36059b35",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/doxis.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1901,
+  "schema_version": 1,
+  "id": 2128,
+  "title": "Netboot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netboot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6894,
+      "collection": "Dashboard Icons",
+      "file": "netboot.svg",
+      "id": 3488,
+      "is_default": true,
+      "label": "netboot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netboot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae602941f458070b696b0f98291aea051cc63b125fe640cc438752811be6f6ca"
+      },
+      "sha256": "1780334170ad10cd50abd434c6b35a9900e0db30f9cf247d626ea58398ad5013",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netboot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

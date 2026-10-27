@@ -1,0 +1,45 @@
+{
+  "collection_id": 3118,
+  "schema_version": 1,
+  "id": 3360,
+  "title": "Ember.js",
+  "url": "https://emberjs.com",
+  "domains": [
+    "emberjs.com"
+  ],
+  "description": "JavaScript Web 应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Ember.js",
+    "ember"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 833,
+      "collection": "TechIcons / Devicon",
+      "file": "ember-1.svg",
+      "id": 5149,
+      "is_default": true,
+      "label": "TechIcons · Ember.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ember.js.svg",
+        "original_sha256": "357893f14b73c5ab4d3e1a796231eb32670d275066f7e366c03f8d3a9dcf1fad",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ember",
+        "reference_website": "https://emberjs.com"
+      },
+      "sha256": "b029b2c4048a5498d7f26b84844dcd4ca5dd8c616401efcb3e3004f127d7e389",
+      "source": "https://techicons.dev/icons/ember",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -53,8 +53,47 @@
       "sha256": "79c215b99ec8e218946cc60c9cbeffa14c0e5b8b8b43b1d66db7e02c47006540",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/python-1.svg",
       "version": 1
+    },
+    {
+      "bytes": 1514,
+      "collection": "Dashboard Icons",
+      "file": "python-2.svg",
+      "id": 4210,
+      "is_default": false,
+      "label": "python",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "python.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "38a2dbbae6c06ef6d2dcf9d02a11338505d0a0c7c3f2c376b8d86908d81cfbc5"
+      },
+      "sha256": "5062bb55b74387f468651c96ebc8322c726066e76445b94e9c061dc5b318a703",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/python.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2347,
+      "collection": "TechIcons / Devicon",
+      "file": "python-3.svg",
+      "id": 5329,
+      "is_default": false,
+      "label": "TechIcons · Python",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Python.svg",
+        "original_sha256": "71493b4a732f0532b3a03a7a95da3ee11a65766367c8303b901ffbe7bf91a3a2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/python",
+        "reference_website": "https://www.python.org"
+      },
+      "sha256": "cdb3d06437bcd9c0fa3379a943becfdd60f3d7cd4d7c64e8ffef5d553d798412",
+      "source": "https://techicons.dev/icons/python",
+      "version": 3
     }
   ],
-  "next_version": 2,
+  "next_version": 4,
   "products": []
 }

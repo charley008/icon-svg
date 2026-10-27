@@ -1,0 +1,63 @@
+{
+  "collection_id": 3021,
+  "schema_version": 1,
+  "id": 3248,
+  "title": "Yarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "新闻资讯"
+  ],
+  "aliases": [
+    "yarr",
+    "rss-feed-reader",
+    "news-aggregator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1021,
+      "collection": "Dashboard Icons",
+      "file": "yarr.svg",
+      "id": 4977,
+      "is_default": true,
+      "label": "yarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4c22db924c46e57746d553317d0ab07299def43b3464c5ddae167ffea49042ac"
+      },
+      "sha256": "496b50735283798f1d836fac7c0f43dbd872c38d305722a2a45ea71d04f783d8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1084,
+      "collection": "Dashboard Icons",
+      "file": "yarr-1.svg",
+      "id": 4978,
+      "is_default": false,
+      "label": "yarr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yarr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe26fb34901aac289df3608272a99fef804f96a9ce7a8b0580a0aa38247cedfd"
+      },
+      "sha256": "ac850c1cae9a45a0809fe0a1004e18971c84fec48b5abb98d90fc13ab033c3ef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yarr-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

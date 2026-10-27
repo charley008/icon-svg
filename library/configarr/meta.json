@@ -1,0 +1,40 @@
+{
+  "collection_id": 1014,
+  "schema_version": 1,
+  "id": 1241,
+  "title": "Configarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "configarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5775,
+      "collection": "Dashboard Icons",
+      "file": "configarr.svg",
+      "id": 2314,
+      "is_default": true,
+      "label": "configarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "configarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ff64b898136d39ac94ab2fd15b7c2b68631a8edf528040dc04dbd2639cfb8301"
+      },
+      "sha256": "c754ecc435549d8482436b3346674e2c070c0663b35ff591e6b9bc16fb570523",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/configarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

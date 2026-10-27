@@ -1,0 +1,40 @@
+{
+  "collection_id": 855,
+  "schema_version": 1,
+  "id": 1082,
+  "title": "Bazecor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bazecor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6725,
+      "collection": "Dashboard Icons",
+      "file": "bazecor.svg",
+      "id": 2100,
+      "is_default": true,
+      "label": "bazecor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bazecor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "34b8c2a9e27a73a2bd0791f1e079bb25cda8e6ac8fefc87e866559f93d3336a5"
+      },
+      "sha256": "1ca73ad6e2cf638b25551950e57396df5e5215e25c290e2de0c8be7028fe072f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bazecor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

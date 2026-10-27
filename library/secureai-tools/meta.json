@@ -1,0 +1,59 @@
+{
+  "collection_id": 2570,
+  "schema_version": 1,
+  "id": 2797,
+  "title": "Secureai Tools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "secureai-tools"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2047,
+      "collection": "Dashboard Icons",
+      "file": "secureai-tools.svg",
+      "id": 4391,
+      "is_default": true,
+      "label": "secureai-tools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "secureai-tools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3e0f821cddda5c082e937bacca385c78936dfe6aa6d2ccf681206b4628103e86"
+      },
+      "sha256": "9002c4c86cd7111c398ce7f9442b2ea0f9b913a488e6dd40e53987df890a72be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/secureai-tools.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2047,
+      "collection": "Dashboard Icons",
+      "file": "secureai-tools-1.svg",
+      "id": 4392,
+      "is_default": false,
+      "label": "secureai-tools-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "secureai-tools-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74d52745424519e40dbdb47741720d9145e2cab34a74f9c181265d097d467eb1"
+      },
+      "sha256": "220fe03a1df267b02a4eca09ea9421c8bd00e6afaaa68aedacf99dfda9fc52e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/secureai-tools-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

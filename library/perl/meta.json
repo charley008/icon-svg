@@ -1,0 +1,60 @@
+{
+  "collection_id": 2124,
+  "schema_version": 1,
+  "id": 2351,
+  "title": "Perl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "perl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2228,
+      "collection": "Dashboard Icons",
+      "file": "perl.svg",
+      "id": 3798,
+      "is_default": true,
+      "label": "perl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd891bf678804ae1fa0ee5d034b4312fddd64356c139d01b24d6de59497218ce"
+      },
+      "sha256": "f8ea1d09ac18c5311239be10e0a4db4d0e323299d5ab9997cbfd0a78032bc0f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perl.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3297,
+      "collection": "TechIcons / Devicon",
+      "file": "perl-1.svg",
+      "id": 5309,
+      "is_default": false,
+      "label": "TechIcons · Perl",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Perl.svg",
+        "original_sha256": "f6cd4249349b4681ba273699aa31cf4df43f8c63dafdc640803b91cf239b8c8b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/perl",
+        "reference_website": "https://www.perl.org"
+      },
+      "sha256": "51d534353e74999d89892178dc14d492b5a233f99e90af46316e099a80e38e84",
+      "source": "https://techicons.dev/icons/perl",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1165,
+  "schema_version": 1,
+  "id": 1392,
+  "title": "Dumbassets",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Logistics"
+  ],
+  "aliases": [
+    "dumbassets"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 704,
+      "collection": "Dashboard Icons",
+      "file": "dumbassets.svg",
+      "id": 2515,
+      "is_default": true,
+      "label": "dumbassets",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dumbassets.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76cf37f56248d32fd8be22d3631c82d4ef1d0b8127602b7f49b3b9222c941350"
+      },
+      "sha256": "38425c6db64b6be99983c9cd09de2072c8d4d88658788ebc6e4278d06e04d57d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dumbassets.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1181,
+  "schema_version": 1,
+  "id": 1408,
+  "title": "Elabftw",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "elabftw"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2315,
+      "collection": "Dashboard Icons",
+      "file": "elabftw.svg",
+      "id": 2536,
+      "is_default": true,
+      "label": "elabftw",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elabftw.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d9b88b29be861ea90d02790f55dd68c6bf06cd445dcade8d311bcd00b4aec593"
+      },
+      "sha256": "69f317b2c1cbba767d22712cb78f93f9bb5d96ee2280e94339ccfeeffe2c5b05",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elabftw.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

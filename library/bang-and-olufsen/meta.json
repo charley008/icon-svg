@@ -1,0 +1,40 @@
+{
+  "collection_id": 846,
+  "schema_version": 1,
+  "id": 1073,
+  "title": "Bang And Olufsen",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bang-and-olufsen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3693,
+      "collection": "Dashboard Icons",
+      "file": "bang-and-olufsen.svg",
+      "id": 2088,
+      "is_default": true,
+      "label": "bang-and-olufsen",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bang-and-olufsen.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "df0edd197c6d3f6a737a5184d87beae64eb7a90cc9c734be2aa84c5fd988dab6"
+      },
+      "sha256": "9da37896ca7a3f730b3cb44545d3f5894a212586dab6042a024d643c1e0f7f62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bang-and-olufsen.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

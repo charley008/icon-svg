@@ -1,0 +1,40 @@
+{
+  "collection_id": 2991,
+  "schema_version": 1,
+  "id": 3218,
+  "title": "Wiz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wiz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4043,
+      "collection": "Dashboard Icons",
+      "file": "wiz.svg",
+      "id": 4932,
+      "is_default": true,
+      "label": "wiz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wiz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "996fc9069f8476cf677d0e7e53723cfdbf8610a12fb5daa0d556ab208dd7ae95"
+      },
+      "sha256": "d987db2f3a751a775de1881ed5f9c31c8c6b9bf8463a0a5a56ed52113f077281",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wiz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

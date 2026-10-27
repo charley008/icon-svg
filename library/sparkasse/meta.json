@@ -1,0 +1,40 @@
+{
+  "collection_id": 2666,
+  "schema_version": 1,
+  "id": 2893,
+  "title": "Sparkasse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sparkasse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1600,
+      "collection": "Dashboard Icons",
+      "file": "sparkasse.svg",
+      "id": 4518,
+      "is_default": true,
+      "label": "sparkasse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sparkasse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eae1e5bc4ebb261d630607437d73ade1c521364a896656d15afe7819afa3f3b7"
+      },
+      "sha256": "3294c527b4102e20a146d91e042e781946973dc107a6965e71435d0c293571c8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sparkasse.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

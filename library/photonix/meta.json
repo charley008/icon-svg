@@ -1,0 +1,59 @@
+{
+  "collection_id": 2135,
+  "schema_version": 1,
+  "id": 2362,
+  "title": "Photonix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "photonix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1457,
+      "collection": "Dashboard Icons",
+      "file": "photonix.svg",
+      "id": 3817,
+      "is_default": true,
+      "label": "photonix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "photonix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2bea13f72a37e1516e4212706a65630bf458b3afc3fd93b5de32689f701a1bfa"
+      },
+      "sha256": "b9f0ccfb7b5fe527c0e1837b5cc42723757e40a256db25d4a8c1039d8a84f1da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photonix.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1472,
+      "collection": "Dashboard Icons",
+      "file": "photonix-1.svg",
+      "id": 3818,
+      "is_default": false,
+      "label": "photonix-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "photonix-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab258578643dc3eafe891158c5c13d7a327847627c3a38ce70ed8a6a456bb21a"
+      },
+      "sha256": "7d5611ceefbb92a56d1d25169f73254bdc8d83c6229176f5cd3a70f933223566",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photonix-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

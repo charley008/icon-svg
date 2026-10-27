@@ -1,0 +1,40 @@
+{
+  "collection_id": 1615,
+  "schema_version": 1,
+  "id": 1842,
+  "title": "Kapowarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kapowarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8787,
+      "collection": "Dashboard Icons",
+      "file": "kapowarr.svg",
+      "id": 3110,
+      "is_default": true,
+      "label": "kapowarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kapowarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8ff723f3a44870b2ff03c12b05acd2ad6a4bcbe395eeeff02fd579b5b5f2b84"
+      },
+      "sha256": "831d9f07043f7283e2579a14c28aec57aefde69d2a18556d96b9f15eb89ef4e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kapowarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

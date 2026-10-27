@@ -1,0 +1,40 @@
+{
+  "collection_id": 1842,
+  "schema_version": 1,
+  "id": 2069,
+  "title": "Mobioffice",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mobioffice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2394,
+      "collection": "Dashboard Icons",
+      "file": "mobioffice.svg",
+      "id": 3410,
+      "is_default": true,
+      "label": "mobioffice",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mobioffice.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee1732415e8a9bcd029c9f3a13aeb2f1b209c6090603b1ccfd0760f992422196"
+      },
+      "sha256": "9314910d8a387358d9e0c216d4d51c9c403c918104369df4c13a30ea04771d4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mobioffice.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

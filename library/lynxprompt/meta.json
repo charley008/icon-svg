@@ -1,0 +1,40 @@
+{
+  "collection_id": 1753,
+  "schema_version": 1,
+  "id": 1980,
+  "title": "Lynxprompt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lynxprompt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 22802,
+      "collection": "Dashboard Icons",
+      "file": "lynxprompt.svg",
+      "id": 3283,
+      "is_default": true,
+      "label": "lynxprompt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lynxprompt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e1a1ceb704f95b227d6ae694a043e763b29b991e0debcc22323e4bd3182d457"
+      },
+      "sha256": "7636e0fc5216ad02d4ee1cb0a94e915ed824f387d58d34078f1b471358d73521",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lynxprompt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

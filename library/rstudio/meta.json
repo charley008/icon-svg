@@ -1,0 +1,60 @@
+{
+  "collection_id": 2528,
+  "schema_version": 1,
+  "id": 2755,
+  "title": "Rstudio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rstudio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 864,
+      "collection": "Dashboard Icons",
+      "file": "rstudio.svg",
+      "id": 4336,
+      "is_default": true,
+      "label": "rstudio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rstudio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5bab6252369081786f0c7a22c15eddcedf02eada94d1cf7a20a2eae9ea26f0e3"
+      },
+      "sha256": "28e6ac3129861f0b9600a6dfdd492deb6fe549557047751bce87233f1f1e7e29",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rstudio.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1369,
+      "collection": "TechIcons / Devicon",
+      "file": "rstudio-1.svg",
+      "id": 5347,
+      "is_default": false,
+      "label": "TechIcons · RStudio",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "RStudio.svg",
+        "original_sha256": "19c6deee22fcce0c2db830757e0e6f210518179e86a4a83993b17146e3da308b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/rstudio",
+        "reference_website": "https://support--rstudio-com.netlify.app"
+      },
+      "sha256": "e0734e741d5c18e1b50ba8d751227c8d0d5c368c4d614c9aed858a901a5a08f4",
+      "source": "https://techicons.dev/icons/rstudio",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 751,
+  "schema_version": 1,
+  "id": 978,
+  "title": "Armbian",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "armbian"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3517,
+      "collection": "Dashboard Icons",
+      "file": "armbian.svg",
+      "id": 1967,
+      "is_default": true,
+      "label": "armbian",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "armbian.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98d899c5b8510e93eb572499db3a2256769a1071bbf6849930310800561b213f"
+      },
+      "sha256": "cc4b64f8509bd961f4c8b21d0f1504a3b48a3d222c2eae8448b67085a2fe812b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/armbian.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

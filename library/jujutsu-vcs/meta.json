@@ -1,0 +1,41 @@
+{
+  "collection_id": 1600,
+  "schema_version": 1,
+  "id": 1827,
+  "title": "Jujutsu Vcs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "jujutsu-vcs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7009,
+      "collection": "Dashboard Icons",
+      "file": "jujutsu-vcs.svg",
+      "id": 3090,
+      "is_default": true,
+      "label": "jujutsu-vcs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jujutsu-vcs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b335c723c498db8612084f3cadbdff238d334a22b2614fe918ce737ed82b224f"
+      },
+      "sha256": "760e488634b94122420e202569a0ebc5a0094f9567f25d044e3b8fc7402c5eaf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jujutsu-vcs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

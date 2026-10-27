@@ -1,0 +1,59 @@
+{
+  "collection_id": 649,
+  "schema_version": 1,
+  "id": 876,
+  "title": "5Etools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "5etools"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4527,
+      "collection": "Dashboard Icons",
+      "file": "5etools.svg",
+      "id": 1836,
+      "is_default": true,
+      "label": "5etools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "5etools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a1d610734e55e82e1737ade4c07ef5ee69ce4e5ec92167d41e45975952b3180a"
+      },
+      "sha256": "77502dded31d6c0ee2add293fdd44a4bbcc3dded92763ccd3f3bf710a1ad8741",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/5etools.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4527,
+      "collection": "Dashboard Icons",
+      "file": "5etools-1.svg",
+      "id": 1837,
+      "is_default": false,
+      "label": "5etools-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "5etools-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0369a4422192f1c103550688f5aeb59acf91227cd9414a1ad00735486f053022"
+      },
+      "sha256": "b5d252c0b0ef13a7ba560ca6fbff9e134d6c0cd490466ae73fcf0313545b821f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/5etools-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

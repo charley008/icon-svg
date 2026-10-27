@@ -1,0 +1,78 @@
+{
+  "collection_id": 1016,
+  "schema_version": 1,
+  "id": 1243,
+  "title": "Confluent",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "confluent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2886,
+      "collection": "Dashboard Icons",
+      "file": "confluent.svg",
+      "id": 2316,
+      "is_default": true,
+      "label": "confluent",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "confluent.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "35b17bd3ccfaff32444ef3ae203e9b6c95e90db86ffd5b4acc732a246c1059d1"
+      },
+      "sha256": "f1c26862fc30bb8f233c484a79cb0c530b99cb2b81939d62084328c17152054f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/confluent.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2864,
+      "collection": "Dashboard Icons",
+      "file": "confluent-1.svg",
+      "id": 2317,
+      "is_default": false,
+      "label": "confluent-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "confluent-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "691439f82589800795dd082920a26b06973b996dde733f4d68ef36b256c0125c"
+      },
+      "sha256": "d2507c6e5c0fd53b0a4dce50a3513a4a5519e18f5e8d53f440e06bcc440163a9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/confluent-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2902,
+      "collection": "Dashboard Icons",
+      "file": "confluent-2.svg",
+      "id": 2318,
+      "is_default": false,
+      "label": "confluent-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "confluent-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89bc67fb217c4c4c305065e65bb746891a187374e799fcd48b2042ad3fb231e0"
+      },
+      "sha256": "0629a30b8959599d57ffc1fe34e9efd5d9a064f39d68f024e09c84d71c3b4655",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/confluent-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

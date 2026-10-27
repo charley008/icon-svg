@@ -1,0 +1,44 @@
+{
+  "collection_id": 1553,
+  "schema_version": 1,
+  "id": 1780,
+  "title": "Inventree",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "E-commerce-Platforms",
+    "办公效率"
+  ],
+  "aliases": [
+    "inventree",
+    "Inventory Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1814,
+      "collection": "Dashboard Icons",
+      "file": "inventree.svg",
+      "id": 3029,
+      "is_default": true,
+      "label": "inventree",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "inventree.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98e6ff72feced958174cc206803c44d904ce343a6add1266639c892241581df7"
+      },
+      "sha256": "f76fabecd6f6757a9a774a34bf6d6989c7a80e8801b59c63693f5095a5d77d5b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/inventree.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

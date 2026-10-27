@@ -133,8 +133,27 @@
       "sha256": "07a13168ec096e225b7a3d5f2847f7922f75f0157a79307f944ba3333c484016",
       "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/aigc/IFlyTekCloud_wordmark.svg",
       "version": 4
+    },
+    {
+      "bytes": 976,
+      "collection": "Dashboard Icons",
+      "file": "spark-5.svg",
+      "id": 4517,
+      "is_default": false,
+      "label": "spark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe26a1ba1d0a861117a7f3b1b47e1a3e56fb393d710e9130dfd8de7bb392f492"
+      },
+      "sha256": "842a811f622b217312d63389aaa7c8da9a8a16846767bdb75bf3a9c7da40c12f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spark.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

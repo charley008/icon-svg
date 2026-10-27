@@ -1,0 +1,40 @@
+{
+  "collection_id": 2055,
+  "schema_version": 1,
+  "id": 2282,
+  "title": "Orange",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "orange"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1617,
+      "collection": "Dashboard Icons",
+      "file": "orange.svg",
+      "id": 3704,
+      "is_default": true,
+      "label": "orange",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "orange.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "31a47e189c5a26c4e1a4a38b17159b0515749ae362aa490c6969c60ebeca3eba"
+      },
+      "sha256": "96b940746587820470f763406dcf72c29e113ba15c3b92da701f848c60bd63d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/orange.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2497,
+  "schema_version": 1,
+  "id": 2724,
+  "title": "Requestly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "requestly"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3037,
+      "collection": "Dashboard Icons",
+      "file": "requestly.svg",
+      "id": 4297,
+      "is_default": true,
+      "label": "requestly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "requestly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8bb5a54ec2440aadfbaa9dbeed3e99912ab2d75351d7fcbbda263496430872cb"
+      },
+      "sha256": "9b31a60fcff041dda644c0864b729eea5d0406a082c064f1db3ee15a3708753f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/requestly.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

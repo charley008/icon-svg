@@ -1,0 +1,44 @@
+{
+  "collection_id": 2958,
+  "schema_version": 1,
+  "id": 3185,
+  "title": "Webdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development",
+    "Databases"
+  ],
+  "aliases": [
+    "webdb",
+    "online-database-editor",
+    "database-gui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2174,
+      "collection": "Dashboard Icons",
+      "file": "webdb.svg",
+      "id": 4891,
+      "is_default": true,
+      "label": "webdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "80471fc5d2c9ad3a26af000379cbf43ba3f307d766ac4fcc56231335a9c5b159"
+      },
+      "sha256": "5316914effe4c1a9bba017a13301712abf45fc08448a4d3ffd8669f571215cfe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

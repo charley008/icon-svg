@@ -1,0 +1,40 @@
+{
+  "collection_id": 1362,
+  "schema_version": 1,
+  "id": 1589,
+  "title": "Get Iplayer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "get-iplayer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 507,
+      "collection": "Dashboard Icons",
+      "file": "get-iplayer.svg",
+      "id": 2760,
+      "is_default": true,
+      "label": "get-iplayer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "get-iplayer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aebdaae89fc2887ff8b0805e0784b88ad368126dbed75be67de96028d0ba27d2"
+      },
+      "sha256": "0a73ba50eae6fbf3e4647f1fe061e508f0345b9815bcd073f8ba0b9113f1a27a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/get-iplayer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

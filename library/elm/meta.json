@@ -1,0 +1,45 @@
+{
+  "collection_id": 3116,
+  "schema_version": 1,
+  "id": 3358,
+  "title": "Elm",
+  "url": "https://elm-lang.org",
+  "domains": [
+    "elm-lang.org"
+  ],
+  "description": "Elm 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Elm",
+    "elm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 564,
+      "collection": "TechIcons / Devicon",
+      "file": "elm-1.svg",
+      "id": 5146,
+      "is_default": true,
+      "label": "TechIcons · Elm",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Elm.svg",
+        "original_sha256": "8ad7eb343a9764e62f073b8f8c8e3d7b003688897ccbd69429bfe67e9efef456",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/elm",
+        "reference_website": "https://elm-lang.org"
+      },
+      "sha256": "785096ddb82295c56c747d7712c0f94c54d3d604a27e1356774d854b6c38cccc",
+      "source": "https://techicons.dev/icons/elm",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

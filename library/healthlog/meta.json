@@ -1,0 +1,40 @@
+{
+  "collection_id": 1459,
+  "schema_version": 1,
+  "id": 1686,
+  "title": "Healthlog",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "healthlog"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1235,
+      "collection": "Dashboard Icons",
+      "file": "healthlog.svg",
+      "id": 2907,
+      "is_default": true,
+      "label": "healthlog",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "healthlog.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c82416ba1836bb0b29a89fbfbf0899748abc99bbc40d2902fe32b62e1b653044"
+      },
+      "sha256": "57f046756c6260cad9d3d7ae3fe4795b28d188ffad172b1eb79de818d835840d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/healthlog.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

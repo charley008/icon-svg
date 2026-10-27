@@ -1,0 +1,40 @@
+{
+  "collection_id": 970,
+  "schema_version": 1,
+  "id": 1197,
+  "title": "Chocolate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chocolate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1341,
+      "collection": "Dashboard Icons",
+      "file": "chocolate.svg",
+      "id": 2250,
+      "is_default": true,
+      "label": "chocolate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chocolate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bc16677d77ecc8852cf2f78713abf4bbc3e74804feffd77e274d3d9def1c3d59"
+      },
+      "sha256": "c0cf91efd4a369241628e7ebdd71249839c41c85bcbfdcf4b0b766443d9016e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chocolate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

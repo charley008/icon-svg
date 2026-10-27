@@ -1,0 +1,40 @@
+{
+  "collection_id": 1109,
+  "schema_version": 1,
+  "id": 1336,
+  "title": "Directadmin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "directadmin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 479,
+      "collection": "Dashboard Icons",
+      "file": "directadmin.svg",
+      "id": 2441,
+      "is_default": true,
+      "label": "directadmin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "directadmin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1fa865edad9b390f5cdb6150d6a84699f3b032f4e8a625e367867eb45f234884"
+      },
+      "sha256": "788aed855c85655b7bf9d467f6fd48147ee1a2d5df88618780394394bc744558",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/directadmin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

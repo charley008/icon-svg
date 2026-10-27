@@ -1,0 +1,41 @@
+{
+  "collection_id": 1146,
+  "schema_version": 1,
+  "id": 1373,
+  "title": "Doplarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "doplarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4180,
+      "collection": "Dashboard Icons",
+      "file": "doplarr.svg",
+      "id": 2488,
+      "is_default": true,
+      "label": "doplarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doplarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3e63ac7879ce5d1f180a8690f518620ce0d92f14f1818ce0d676b187f5a50750"
+      },
+      "sha256": "4adb2483bb56ce098cfd99707c8b9a01209b6d18371cae45e4e24f46409f2050",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/doplarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

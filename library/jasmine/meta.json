@@ -1,0 +1,45 @@
+{
+  "collection_id": 3148,
+  "schema_version": 1,
+  "id": 3396,
+  "title": "Jasmine",
+  "url": "https://jasmine.github.io",
+  "domains": [
+    "jasmine.github.io"
+  ],
+  "description": "JavaScript 自动化测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Jasmine",
+    "jasmine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 906,
+      "collection": "TechIcons / Devicon",
+      "file": "jasmine-1.svg",
+      "id": 5214,
+      "is_default": true,
+      "label": "TechIcons · Jasmine",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Jasmine.svg",
+        "original_sha256": "6ace7b498877355c82a69e0bde11fcfc3cb66c9944d740206d34db259fd0d8e7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jasmine",
+        "reference_website": "https://jasmine.github.io"
+      },
+      "sha256": "d3da784ebd31467f59ca76013609007d530a2eb0eaa64456f477188646eec309",
+      "source": "https://techicons.dev/icons/jasmine",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

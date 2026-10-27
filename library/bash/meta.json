@@ -1,0 +1,45 @@
+{
+  "collection_id": 3085,
+  "schema_version": 1,
+  "id": 3324,
+  "title": "Bash",
+  "url": "https://www.gnu.org/software/bash",
+  "domains": [
+    "gnu.org"
+  ],
+  "description": "GNU 命令行解释器与脚本环境。",
+  "category": "系统工具",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Bash",
+    "bash"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1615,
+      "collection": "TechIcons / Devicon",
+      "file": "bash-1.svg",
+      "id": 5090,
+      "is_default": true,
+      "label": "TechIcons · Bash",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Bash.svg",
+        "original_sha256": "4a83309e6e3b682d1ca481e1a985b0c48ffa9b8e809f201a6b678aa817d8c718",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/bash",
+        "reference_website": "https://www.gnu.org/software/bash"
+      },
+      "sha256": "974bd42e6e87caf1e1294865c03e185b57dd8629dfc183370cc7373b150d6a29",
+      "source": "https://techicons.dev/icons/bash",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

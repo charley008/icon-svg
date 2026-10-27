@@ -1,4 +1,7 @@
 {
+  "collection_id": 629,
+  "schema_version": 1,
+  "id": 854,
   "title": "Twilio",
   "url": "https://www.twilio.com/",
   "domains": [
@@ -17,11 +20,32 @@
     "邮件服务"
   ],
   "notes": [],
-  "icons": [],
-  "next_version": 0,
-  "schema_version": 1,
+  "icons": [
+    {
+      "bytes": 1457,
+      "collection": "Dashboard Icons",
+      "file": "twilio.svg",
+      "id": 4756,
+      "is_default": true,
+      "label": "twilio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "twilio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a5f8492d64f0716a72e35e35ff2c0590aa01fb77080320f5e3bad9fa1f28df01"
+      },
+      "sha256": "02f26d24d6f8233e7e51e91a40d382d5a7db4e742db5347344c94f8802311f2c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twilio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
   "products": [
     {
+      "id": 855,
+      "key": "sendgrid",
       "title": "SendGrid",
       "url": "https://sendgrid.com/",
       "domains": [
@@ -43,24 +67,24 @@
       "notes": [],
       "icons": [
         {
-          "file": "twilio-sendgrid.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "6dd55d2a40f947ce9928f3d483167cf1c39b60e8beb60cba5a7b2ae582b5e966",
           "bytes": 480,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sendgrid.svg",
+          "collection": "Dashboard Icons",
+          "file": "twilio-sendgrid.svg",
+          "id": 1811,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "sendgrid.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "6dd55d2a40f947ce9928f3d483167cf1c39b60e8beb60cba5a7b2ae582b5e966",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sendgrid.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "sendgrid"
+      "next_version": 1
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "collection_id": 2886,
+  "schema_version": 1,
+  "id": 3113,
+  "title": "Uptimerobot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "uptimerobot",
+    "uptime-robot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 257,
+      "collection": "Dashboard Icons",
+      "file": "uptimerobot.svg",
+      "id": 4796,
+      "is_default": true,
+      "label": "uptimerobot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uptimerobot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7658cf8ba7a5dcdfe8dc2d5666584327f64277d3df144e914c5fd7b9333dae2b"
+      },
+      "sha256": "c90b3153eecbfb711c26baf555e59527ae7c923c8462d382262717ac73f70a1f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/uptimerobot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

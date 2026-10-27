@@ -1,0 +1,61 @@
+{
+  "collection_id": 1233,
+  "schema_version": 1,
+  "id": 1460,
+  "title": "Exercism",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "exercism"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1898,
+      "collection": "Dashboard Icons",
+      "file": "exercism.svg",
+      "id": 2606,
+      "is_default": true,
+      "label": "exercism",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "exercism.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2574270cc918a6c6ec425323c2484e5ab0ec2276444e03a8e228e546cdf087b"
+      },
+      "sha256": "1752e491b9e0828459d91efb8720c42706a158a2fe1b887902d84d401ff6c81c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/exercism.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1895,
+      "collection": "Dashboard Icons",
+      "file": "exercism-1.svg",
+      "id": 2607,
+      "is_default": false,
+      "label": "exercism-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "exercism-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b95e4c1c5d2fdd34e1bf5254ab61c79afe88ee2e104af73b5653bfa9026798fa"
+      },
+      "sha256": "333f2dab84692acd1519752448ee3d6d540a262b5ff593a88c0f479f2f51b37a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/exercism-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

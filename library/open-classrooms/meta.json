@@ -1,0 +1,42 @@
+{
+  "collection_id": 2016,
+  "schema_version": 1,
+  "id": 2243,
+  "title": "Open Classrooms",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "open-classrooms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3603,
+      "collection": "Dashboard Icons",
+      "file": "open-classrooms.svg",
+      "id": 3646,
+      "is_default": true,
+      "label": "open-classrooms",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-classrooms.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7f441dc80075458916045881de1e9732f7b80b2b40a57869988e5894c1958aab"
+      },
+      "sha256": "01c135467aaface40982e59401b80b608189b6a5b309317f1fe9ce77e75149b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-classrooms.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

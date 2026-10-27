@@ -1,0 +1,40 @@
+{
+  "collection_id": 2916,
+  "schema_version": 1,
+  "id": 3143,
+  "title": "Virtualmin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "virtualmin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5395,
+      "collection": "Dashboard Icons",
+      "file": "virtualmin.svg",
+      "id": 4838,
+      "is_default": true,
+      "label": "virtualmin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "virtualmin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2136060ee4f426169529beef75d72752176639b412c2b66d8cd1bcf5df8396d"
+      },
+      "sha256": "e02f6b5b2e6d034e6685fd940a78abd63030885985dfe0dfb9c1f85437ed7b78",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/virtualmin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1781,
+  "schema_version": 1,
+  "id": 2008,
+  "title": "Marimo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "marimo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14531,
+      "collection": "Dashboard Icons",
+      "file": "marimo.svg",
+      "id": 3317,
+      "is_default": true,
+      "label": "marimo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "marimo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c99d56d6c5d498974d9bc5ac83bc088e328cb27438676278fc1654ea0d0425db"
+      },
+      "sha256": "7213b79c614fbfa2ee6084a06e50d45a3ffec26ccc4128a87f7f89e3e6f63f12",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/marimo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

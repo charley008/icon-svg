@@ -1,0 +1,41 @@
+{
+  "collection_id": 1531,
+  "schema_version": 1,
+  "id": 1758,
+  "title": "Idrive",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "idrive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8639,
+      "collection": "Dashboard Icons",
+      "file": "idrive.svg",
+      "id": 3001,
+      "is_default": true,
+      "label": "idrive",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "idrive.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f658acb221640182d43a1eaac105e6894c05d3bbc8f5884403a8dfc8f1048f2d"
+      },
+      "sha256": "76c764c347775dd75c16c05c84d9bc7a06ae6ab47107c349c3fe4853d8f83958",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/idrive.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

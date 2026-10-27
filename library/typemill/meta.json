@@ -1,0 +1,59 @@
+{
+  "collection_id": 2860,
+  "schema_version": 1,
+  "id": 3087,
+  "title": "Typemill",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "typemill"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1820,
+      "collection": "Dashboard Icons",
+      "file": "typemill.svg",
+      "id": 4760,
+      "is_default": true,
+      "label": "typemill",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "typemill.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "537e0f2642555d9a1c8b8e2043513f4bb48dc62d3163aa06c726dba0542dfcbc"
+      },
+      "sha256": "ae25c2554adecfd402b8bbe1f418e41729030c89ff05944982a78370d08d7b36",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/typemill.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1823,
+      "collection": "Dashboard Icons",
+      "file": "typemill-1.svg",
+      "id": 4761,
+      "is_default": false,
+      "label": "typemill-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "typemill-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ba680cc7ae5bdfc9011dd529ecd07e0f1ca348498e9c126bb1e87a48a2fbf47"
+      },
+      "sha256": "7347bcf334b2d35f2f0aad3570f5bef7c44c5a162467995148edd85ac73fd294",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/typemill-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3120,
+  "schema_version": 1,
+  "id": 3362,
+  "title": "Erlang",
+  "url": "https://www.erlang.org",
+  "domains": [
+    "erlang.org"
+  ],
+  "description": "Erlang 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Erlang",
+    "erlang"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 441,
+      "collection": "TechIcons / Devicon",
+      "file": "erlang-1.svg",
+      "id": 5151,
+      "is_default": true,
+      "label": "TechIcons · Erlang",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Erlang.svg",
+        "original_sha256": "b605010afdc6ac75a2c53ebbf079bbcc47948133fcb1765f8b5eec8494a6d9c0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/erlang",
+        "reference_website": "https://www.erlang.org"
+      },
+      "sha256": "ad495f0ed85a2330419d2b6c7eb8def7fa0fd4969d4ff1e6756f0633e5a31dc3",
+      "source": "https://techicons.dev/icons/erlang",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

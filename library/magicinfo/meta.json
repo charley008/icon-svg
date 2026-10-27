@@ -1,0 +1,40 @@
+{
+  "collection_id": 1758,
+  "schema_version": 1,
+  "id": 1985,
+  "title": "Magicinfo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "magicinfo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13324,
+      "collection": "Dashboard Icons",
+      "file": "magicinfo.svg",
+      "id": 3289,
+      "is_default": true,
+      "label": "magicinfo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "magicinfo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "624c6ef6ddfa36aa90d8472a80c2540b4660a114bc284308c2bd5ce571f262f9"
+      },
+      "sha256": "10536317dfc1b6b0cd6686f084ac1de65f3f99b5ae3b6ae5483e5fd8c84ffd41",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/magicinfo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

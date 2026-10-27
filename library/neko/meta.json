@@ -1,0 +1,59 @@
+{
+  "collection_id": 1892,
+  "schema_version": 1,
+  "id": 2119,
+  "title": "Neko",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "neko"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3638,
+      "collection": "Dashboard Icons",
+      "file": "neko.svg",
+      "id": 3474,
+      "is_default": true,
+      "label": "neko",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neko.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fcad699878d8ce719a05f45685fdc58c087da5bcc9a0e92e9014f76b89598c56"
+      },
+      "sha256": "4147904ae1c817b64450c99de8a5c72bc6f0f276561c7e0b45b2659675de5912",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neko.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3650,
+      "collection": "Dashboard Icons",
+      "file": "neko-1.svg",
+      "id": 3475,
+      "is_default": false,
+      "label": "neko-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neko-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d726bfed66d3faa5ba45477acbd64eae9966b3da3e1fee642e868c74c771bff"
+      },
+      "sha256": "3d297d810f824626341593bdc365dfab0e7de238f7fa8d2007edb6352c20b137",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neko-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

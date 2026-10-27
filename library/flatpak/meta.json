@@ -1,0 +1,40 @@
+{
+  "collection_id": 1290,
+  "schema_version": 1,
+  "id": 1517,
+  "title": "Flatpak",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flatpak"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 549,
+      "collection": "Dashboard Icons",
+      "file": "flatpak.svg",
+      "id": 2676,
+      "is_default": true,
+      "label": "flatpak",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flatpak.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c69b14f0f976a301cc64d8c587f5a2bdf0b0200fb49451f3e6847c0628a3d210"
+      },
+      "sha256": "a368058d1a8361162a85e066545f1f58b712a0596c60a9d901cd1ca6e0f28493",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flatpak.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

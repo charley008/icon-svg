@@ -1,0 +1,45 @@
+{
+  "collection_id": 3129,
+  "schema_version": 1,
+  "id": 3371,
+  "title": "Gazebo",
+  "url": "https://gazebosim.org",
+  "domains": [
+    "gazebosim.org"
+  ],
+  "description": "面向机器人研发的仿真环境。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Gazebo",
+    "gazebo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1361,
+      "collection": "TechIcons / Devicon",
+      "file": "gazebo-1.svg",
+      "id": 5168,
+      "is_default": true,
+      "label": "TechIcons · Gazebo",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gazebo.svg",
+        "original_sha256": "dbcdeb44045f2fe2235d25b9f8ba37ddcc4d3732d0f885b9d4b00214c9af8656",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gazebo",
+        "reference_website": "https://gazebosim.org"
+      },
+      "sha256": "2bb79028aa9de185a0eecbcfc5b0dfbfe28338e9719ab747b785436b254f1884",
+      "source": "https://techicons.dev/icons/gazebo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

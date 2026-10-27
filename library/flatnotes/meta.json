@@ -1,0 +1,44 @@
+{
+  "collection_id": 1289,
+  "schema_version": 1,
+  "id": 1516,
+  "title": "Flatnotes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "办公效率"
+  ],
+  "aliases": [
+    "flatnotes",
+    "markdown-notes",
+    "plain-text-notes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1501,
+      "collection": "Dashboard Icons",
+      "file": "flatnotes.svg",
+      "id": 2675,
+      "is_default": true,
+      "label": "flatnotes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flatnotes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "375af1ace2d80db5d79de70a273de0a10b78ff49da78e703c4e6eb55c32a3a3e"
+      },
+      "sha256": "df380504e28ad5e6525a38d4870ec4664a3bbaa31bbc102676c171eb5dca4035",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flatnotes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

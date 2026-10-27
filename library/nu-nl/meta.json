@@ -1,0 +1,44 @@
+{
+  "collection_id": 1970,
+  "schema_version": 1,
+  "id": 2197,
+  "title": "Nu Nl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "nu-nl",
+    "News Website"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2061,
+      "collection": "Dashboard Icons",
+      "file": "nu-nl.svg",
+      "id": 3578,
+      "is_default": true,
+      "label": "nu-nl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nu-nl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1c15655af43630d17512fae837c2e5104dcef6cbd61309f02a429431546e227f"
+      },
+      "sha256": "fc81cff815da1cb3fde8b9800aaa6f1f8d7c4e3fefa756b47052f1100fbd2d29",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nu-nl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

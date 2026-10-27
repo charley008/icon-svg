@@ -1,0 +1,46 @@
+{
+  "collection_id": 3198,
+  "schema_version": 1,
+  "id": 3461,
+  "title": "p5 JS",
+  "url": "https://p5js.org",
+  "domains": [
+    "p5js.org"
+  ],
+  "description": "面向创意编程与可视化的 JavaScript 库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "p5 JS",
+    "p5js",
+    "p5-JS"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3549,
+      "collection": "TechIcons / Devicon",
+      "file": "p5js-1.svg",
+      "id": 5307,
+      "is_default": true,
+      "label": "TechIcons · p5 JS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "p5-JS.svg",
+        "original_sha256": "d254b03d59f90ef9931cd5f092d52ac9bdce9e3072a77e8f9fcaa59d47e9c597",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/p5js",
+        "reference_website": "https://p5js.org"
+      },
+      "sha256": "eb2ace567b32717a3f285f274b57ba7501d62e9b84a6362280ba747a100d86e8",
+      "source": "https://techicons.dev/icons/p5js",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

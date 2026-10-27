@@ -1,0 +1,40 @@
+{
+  "collection_id": 2122,
+  "schema_version": 1,
+  "id": 2349,
+  "title": "Pepperminty Wiki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pepperminty-wiki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16604,
+      "collection": "Dashboard Icons",
+      "file": "pepperminty-wiki.svg",
+      "id": 3796,
+      "is_default": true,
+      "label": "pepperminty-wiki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pepperminty-wiki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b7db8491559b85a4cad03fcc832b50124d84eee8e3538399c84b8eb7a073a5de"
+      },
+      "sha256": "1b6ce39ad1d36531896a4a1f6262f2fbfc8ad114da2edb3a8fec026d245d03f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pepperminty-wiki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1691,
+  "schema_version": 1,
+  "id": 1918,
+  "title": "Libreddit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "libreddit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1817,
+      "collection": "Dashboard Icons",
+      "file": "libreddit.svg",
+      "id": 3200,
+      "is_default": true,
+      "label": "libreddit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libreddit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "53139b04c856fdc527d921489cc1a46ba228db89240df1b02542fccdbaf76bda"
+      },
+      "sha256": "2ca99c91e64ca467edf8f15d6eed9f622b5dff3b08c51150914539e6acd4d2f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreddit.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1862,
+      "collection": "Dashboard Icons",
+      "file": "libreddit-1.svg",
+      "id": 3201,
+      "is_default": false,
+      "label": "libreddit-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libreddit-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "69cc1f81f82cc324a4e8f714b47d47582ae39af3dce3d3b0b9a63f4dbf0742d0"
+      },
+      "sha256": "53ad0890ef2a016a56af255508ced5f05f4c548c8b7ea7d4c319f090023039e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreddit-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

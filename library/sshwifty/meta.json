@@ -1,0 +1,40 @@
+{
+  "collection_id": 2685,
+  "schema_version": 1,
+  "id": 2912,
+  "title": "Sshwifty",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sshwifty"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3669,
+      "collection": "Dashboard Icons",
+      "file": "sshwifty.svg",
+      "id": 4539,
+      "is_default": true,
+      "label": "sshwifty",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sshwifty.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95ea1e6c53f735ddf8c790bc932093f1f45438cd9e514d6f80b37665b8751ded"
+      },
+      "sha256": "c3f3828d746f2a4852c4ef27e3f7c9d1e543678df451eb19933f637e5f351eae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sshwifty.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

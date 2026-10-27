@@ -1,0 +1,40 @@
+{
+  "collection_id": 1596,
+  "schema_version": 1,
+  "id": 1823,
+  "title": "Json",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "json"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1590,
+      "collection": "Dashboard Icons",
+      "file": "json.svg",
+      "id": 3084,
+      "is_default": true,
+      "label": "json",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "json.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4580a520bffec7ac19ee8d023257889b3ede0f58e783bc6d7ead641a43213d6f"
+      },
+      "sha256": "39f4a7fa4d0ae9188523649c13d7d40cd9aa384c2b4ca57d10ebaedcaf14d1c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/json.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

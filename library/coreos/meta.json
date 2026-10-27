@@ -1,0 +1,40 @@
+{
+  "collection_id": 1028,
+  "schema_version": 1,
+  "id": 1255,
+  "title": "Coreos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "coreos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1192,
+      "collection": "Dashboard Icons",
+      "file": "coreos.svg",
+      "id": 2333,
+      "is_default": true,
+      "label": "coreos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coreos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "44beba1325ed64d32073ff02ccee1a08519fe42479d8fb2f65aca66c059252dd"
+      },
+      "sha256": "f918c21ff15a1e5d839f15bc9423fd3964a1df3e8b969a15c38269e100cc4cca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/coreos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

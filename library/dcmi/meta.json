@@ -1,0 +1,59 @@
+{
+  "collection_id": 1079,
+  "schema_version": 1,
+  "id": 1306,
+  "title": "Dcmi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dcmi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2400,
+      "collection": "Dashboard Icons",
+      "file": "dcmi.svg",
+      "id": 2396,
+      "is_default": true,
+      "label": "dcmi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dcmi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "50dca6b089aabd62a9d0ca3ab4aeb1ae1a38e9544b9899ff5cbe4c71a1362d5a"
+      },
+      "sha256": "b4261695bb93523d5e3f228657bc1a8a9ccdb7d07fc1d02ede3cbd4fd06f4773",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dcmi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10263,
+      "collection": "Dashboard Icons",
+      "file": "dcmi-1.svg",
+      "id": 2397,
+      "is_default": false,
+      "label": "dcmi-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dcmi-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "83628f3225ad3078fcf24fcc35f462395674b2323dd68068a540cb2d403fcb0f"
+      },
+      "sha256": "137fe183ae837ffe8bb2f957fe81f3edbeb9d06b13cb46e50b12e5d031b02726",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dcmi-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

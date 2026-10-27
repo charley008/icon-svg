@@ -1,0 +1,41 @@
+{
+  "collection_id": 1537,
+  "schema_version": 1,
+  "id": 1764,
+  "title": "Immich Public Proxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "immich-public-proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3313,
+      "collection": "Dashboard Icons",
+      "file": "immich-public-proxy.svg",
+      "id": 3009,
+      "is_default": true,
+      "label": "immich-public-proxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "immich-public-proxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e90e1803f9641088fa0298755244d2c1177803b1979736bab924d7ca4b5e5e5b"
+      },
+      "sha256": "795937aff16a9b2cbb9f67dae277bf6889a3c0566741ebec65d9aff7beaedb6e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich-public-proxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 3048,
+  "schema_version": 1,
+  "id": 3275,
+  "title": "Zenarmor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "zenarmor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1053,
+      "collection": "Dashboard Icons",
+      "file": "zenarmor.svg",
+      "id": 5010,
+      "is_default": true,
+      "label": "zenarmor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zenarmor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77c2baf9c1626c8cccb5064dbde2d13830cd42afdedae68a3b87b53c1d402de9"
+      },
+      "sha256": "132ea77b9e4596ed74dfea752cfa58568ca7cfb8a02b0c637ac3b8b9a87bdb3d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zenarmor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

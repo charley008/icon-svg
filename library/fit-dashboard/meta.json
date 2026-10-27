@@ -1,0 +1,40 @@
+{
+  "collection_id": 1282,
+  "schema_version": 1,
+  "id": 1509,
+  "title": "Fit Dashboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fit-dashboard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3039,
+      "collection": "Dashboard Icons",
+      "file": "fit-dashboard.svg",
+      "id": 2667,
+      "is_default": true,
+      "label": "fit-dashboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fit-dashboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fa9cdef591da6604f43a2a7de5d3a2ced8f4b5eba0e7ed0b92cfe76c76e1a6d4"
+      },
+      "sha256": "36d66a75095354668e827ea4e11e605b9f3dd2a4b9f4074200bf5f89f6773f33",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fit-dashboard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

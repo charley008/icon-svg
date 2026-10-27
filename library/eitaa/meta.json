@@ -1,0 +1,42 @@
+{
+  "collection_id": 1180,
+  "schema_version": 1,
+  "id": 1407,
+  "title": "Eitaa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "eitaa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2514,
+      "collection": "Dashboard Icons",
+      "file": "eitaa.svg",
+      "id": 2535,
+      "is_default": true,
+      "label": "eitaa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "eitaa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9bbf5bb323260eefdd85082ef45a2174252601ae910bd3b26f7f0b3c1bfa6e14"
+      },
+      "sha256": "60db3bc899619085deed17e714162f955a077151d1d46bb576c3b466e808e65f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eitaa.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2725,
+  "schema_version": 1,
+  "id": 2952,
+  "title": "Svgedit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "svgedit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4965,
+      "collection": "Dashboard Icons",
+      "file": "svgedit.svg",
+      "id": 4588,
+      "is_default": true,
+      "label": "svgedit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "svgedit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2e34fb9e7bbe755686f85fc8a37b854e5545c939d5bd8afa333dfc9ec16d537"
+      },
+      "sha256": "ed25be0049df42c9d5b23e2b31d1e34d548c6e5b1dbeaa9de3d48779f03ec1e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/svgedit.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4965,
+      "collection": "Dashboard Icons",
+      "file": "svgedit-1.svg",
+      "id": 4589,
+      "is_default": false,
+      "label": "svgedit-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "svgedit-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97cb919fe626aceed0e0332ef079a62963f027ae2e7e3cf30d7197e6104632dc"
+      },
+      "sha256": "c35712403f87a0998e94ce893e0fda18c54796776c8565ba85f5f56cce5aa0f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/svgedit-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

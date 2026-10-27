@@ -1,0 +1,46 @@
+{
+  "collection_id": 3205,
+  "schema_version": 1,
+  "id": 3468,
+  "title": "Python Poetry",
+  "url": "https://python-poetry.org",
+  "domains": [
+    "python-poetry.org"
+  ],
+  "description": "Python 项目的依赖管理与打包工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Python Poetry",
+    "poetry",
+    "Python-Poetry"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3367,
+      "collection": "TechIcons / Devicon",
+      "file": "poetry-1.svg",
+      "id": 5316,
+      "is_default": true,
+      "label": "TechIcons · Python Poetry",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Python-Poetry.svg",
+        "original_sha256": "014e1db92df39365d0d5fe93b9928d2e82793cbb7f05886c0b7a422dca771456",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/poetry",
+        "reference_website": "https://python-poetry.org"
+      },
+      "sha256": "d4980e5c7a8d3a9a3df67238dc3882b86c32e31a4a346894f7cfd77c958dd35d",
+      "source": "https://techicons.dev/icons/poetry",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

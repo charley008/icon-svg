@@ -130,8 +130,27 @@
       "sha256": "efa1f973bfc28a807394172044407bfe6414fa1164b1719375166839ac4a69de",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ebay",
       "version": 4
+    },
+    {
+      "bytes": 1620,
+      "collection": "Dashboard Icons",
+      "file": "ebay-5.svg",
+      "id": 2529,
+      "is_default": false,
+      "label": "ebay",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ebay.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "93108797535b72bbc34c36bc4526f4b08d9845c0dfaa2cf591e6d2a9473fbbff"
+      },
+      "sha256": "0e72070a80ef4076c2178cd585ffc673287aa845977148b9251e8eb1c3c77f43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ebay.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

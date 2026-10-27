@@ -1,0 +1,44 @@
+{
+  "collection_id": 1955,
+  "schema_version": 1,
+  "id": 2182,
+  "title": "Nomie",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "Monitoring-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "nomie",
+    "Personal Data Journal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3976,
+      "collection": "Dashboard Icons",
+      "file": "nomie.svg",
+      "id": 3558,
+      "is_default": true,
+      "label": "nomie",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nomie.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d18253e17eacc43fe06460f2bcd357bad51d7f2a2589651c8bbb9b6811a0dec"
+      },
+      "sha256": "dff5dae179c18e1086553801d42ff4aabd660d251381fdbb55a361c56e825bd9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nomie.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

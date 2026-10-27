@@ -1,0 +1,86 @@
+{
+  "collection_id": 1875,
+  "schema_version": 1,
+  "id": 2102,
+  "redirect_from": [
+    2103,
+    2104
+  ],
+  "title": "Murena",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "murena",
+    "murena-wordmark-light",
+    "Murena Wordmark Light",
+    "murena-wordmark-dark",
+    "Murena Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4671,
+      "collection": "Dashboard Icons",
+      "file": "murena.svg",
+      "id": 3452,
+      "is_default": true,
+      "label": "murena",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "murena.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca825443da597ec693d5f40bb28fd48b1d3a46a40c510cf0f603d66ac03daa5a"
+      },
+      "sha256": "d9a6ffde806619b46b9c9673c3fe237ec24bb3672cd6e28ab3125375c3ffb3f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/murena.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10538,
+      "collection": "Dashboard Icons",
+      "file": "murena-1.svg",
+      "id": 3454,
+      "is_default": false,
+      "label": "murena-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "murena-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7eb2ee28efa71b720f5c7fd5fc1442d30d44aaee417afcc3d8055dcb899aacbf"
+      },
+      "sha256": "b6e116ad57b5286d8684dea1d4bd8b8fe2578732405f19b20e006ed943448414",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/murena-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 9162,
+      "collection": "Dashboard Icons",
+      "file": "murena-2.svg",
+      "id": 3453,
+      "is_default": false,
+      "label": "murena-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "murena-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "11f765320dd85aebd8bb1a7d63d7b51effc87dcb76c42369945a3dc70b14eb1f"
+      },
+      "sha256": "17e067acf764e025ea0ca55629b517cdaab9a47865421eb23f85db0362148c2a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/murena-wordmark-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

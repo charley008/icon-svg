@@ -1,0 +1,45 @@
+{
+  "collection_id": 2940,
+  "schema_version": 1,
+  "id": 3167,
+  "title": "Vouchervault",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "E-commerce-Platforms",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "vouchervault",
+    "coupon-manager",
+    "discount-tracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 54498,
+      "collection": "Dashboard Icons",
+      "file": "vouchervault.svg",
+      "id": 4867,
+      "is_default": true,
+      "label": "vouchervault",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vouchervault.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "954f75daba24d25ff60fb8d5c577681d82d388ebc106287a6522682c97becd91"
+      },
+      "sha256": "43e61ff32e01df4461b05e25bde75255371b6b9efc59ab16e7dd829431b2ef2f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vouchervault.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

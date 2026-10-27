@@ -1,0 +1,59 @@
+{
+  "collection_id": 973,
+  "schema_version": 1,
+  "id": 1200,
+  "title": "Cilium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cilium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "cilium.svg",
+      "id": 2253,
+      "is_default": true,
+      "label": "cilium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cilium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bbed5b17bf348d31f191b19a0b05aa1c4ff3d97effe08471477490be8eec9c02"
+      },
+      "sha256": "938835060cda5252346ec63f23b6c969d2b5cffe5bc6a643e4e34320a1121306",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cilium.svg",
+      "version": 0
+    },
+    {
+      "bytes": 833,
+      "collection": "Dashboard Icons",
+      "file": "cilium-1.svg",
+      "id": 2254,
+      "is_default": false,
+      "label": "cilium-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cilium-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "793326da216febf22832a39518dcc28067e2c63fbd1ca169f3f4b9ab4145b016"
+      },
+      "sha256": "c55fb84c74d867337616337696b31e3c956a7af341c9c7e879eebeb34a41b96c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cilium-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

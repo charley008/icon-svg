@@ -1,0 +1,45 @@
+{
+  "collection_id": 3113,
+  "schema_version": 1,
+  "id": 3353,
+  "title": "Doctrine",
+  "url": "https://www.doctrine-project.org",
+  "domains": [
+    "doctrine-project.org"
+  ],
+  "description": "PHP 数据持久化与对象关系映射工具集。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Doctrine",
+    "doctrine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1808,
+      "collection": "TechIcons / Devicon",
+      "file": "doctrine-1.svg",
+      "id": 5131,
+      "is_default": true,
+      "label": "TechIcons · Doctrine",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Doctrine.svg",
+        "original_sha256": "5eaae9de00e58489364c1146222a79c0e2ecfd0a3b4861c0f04968a4f3bbdf2e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/doctrine",
+        "reference_website": "https://www.doctrine-project.org"
+      },
+      "sha256": "7e911b4a58cef0b4798b177b99b70ecaaf65c6589bf26bc6e564aa41152bdd28",
+      "source": "https://techicons.dev/icons/doctrine",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

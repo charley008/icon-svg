@@ -1,0 +1,60 @@
+{
+  "collection_id": 1161,
+  "schema_version": 1,
+  "id": 1388,
+  "title": "Drupal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "drupal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1641,
+      "collection": "Dashboard Icons",
+      "file": "drupal.svg",
+      "id": 2509,
+      "is_default": true,
+      "label": "drupal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "drupal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b6b0f595bf655c2fe726c813170667a6c44fc52039426f6dad46ca69cabeeb23"
+      },
+      "sha256": "8f0090a57eba8732fb9841d9a5f1ddfbc1384d9f4c92e79c3c6ddc4683e35d77",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/drupal.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4099,
+      "collection": "TechIcons / Devicon",
+      "file": "drupal-1.svg",
+      "id": 5135,
+      "is_default": false,
+      "label": "TechIcons · Drupal",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Drupal.svg",
+        "original_sha256": "1fdbb906efb26f93bf62c53b1cee93f99fbf8f663a6596b0c52bb7c264b18960",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/drupal",
+        "reference_website": "https://www.drupal.org"
+      },
+      "sha256": "1573ae58982681db28ff7fa8cc726658b03a87a856581d68bbfd4b90779320e3",
+      "source": "https://techicons.dev/icons/drupal",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1201,
+  "schema_version": 1,
+  "id": 1428,
+  "title": "Enclosed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "enclosed"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 550,
+      "collection": "Dashboard Icons",
+      "file": "enclosed.svg",
+      "id": 2563,
+      "is_default": true,
+      "label": "enclosed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "enclosed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c503a30ba151e9ab4354a9c8a018dfbf22f6aa11e9d100ce75d233a5095caca"
+      },
+      "sha256": "3f6638eaeb3f62d6521c532f75f898e19c3a9158c66cc60ea163c9a64bb6dda7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/enclosed.svg",
+      "version": 0
+    },
+    {
+      "bytes": 550,
+      "collection": "Dashboard Icons",
+      "file": "enclosed-1.svg",
+      "id": 2564,
+      "is_default": false,
+      "label": "enclosed-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "enclosed-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0052655b50bf4d9e9c2b997475e6ffa5212d5321fff8fed09eb1913c3fe026c9"
+      },
+      "sha256": "450e98f2d40fe19fc6c9550f6e694b16ed3879c5206ba7e480fb254d3d64e39f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/enclosed-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

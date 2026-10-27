@@ -1,4 +1,7 @@
 {
+  "collection_id": 589,
+  "schema_version": 1,
+  "id": 809,
   "title": "PhotoPrism",
   "url": "https://www.photoprism.app/",
   "domains": [
@@ -22,23 +25,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "photoprism.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "71a0103298dcef3ce8ca27c2d3375bd80804f7962efe74848205944bdcc5f001",
       "bytes": 773,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photoprism.svg",
+      "collection": "Dashboard Icons",
+      "file": "photoprism.svg",
+      "id": 1766,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "photoprism.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "71a0103298dcef3ce8ca27c2d3375bd80804f7962efe74848205944bdcc5f001",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photoprism.svg",
+      "version": 0
+    },
+    {
+      "bytes": 826,
+      "collection": "Dashboard Icons",
+      "file": "photoprism-1.svg",
+      "id": 3820,
+      "is_default": false,
+      "label": "photoprism-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "photoprism-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c841144d4fe52e02788e763fd8582f6ea14d0d3372d114b27dbd810997b6013"
+      },
+      "sha256": "c87add2e29b72524b71914fe2d2e4d06063a2f1898294648916d5019dde8c34d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/photoprism-light.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

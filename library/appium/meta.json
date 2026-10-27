@@ -1,0 +1,40 @@
+{
+  "collection_id": 736,
+  "schema_version": 1,
+  "id": 963,
+  "title": "Appium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "appium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1055,
+      "collection": "Dashboard Icons",
+      "file": "appium.svg",
+      "id": 1946,
+      "is_default": true,
+      "label": "appium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "appium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef24abf6004e473683b9408c3bae2ad729b0367c4e0a7f8e75fde3dfdd22c31a"
+      },
+      "sha256": "ec1a420eee939fbbc7ba51d5af966b25a777250bed8a36b90f26999c24ffc1fa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/appium.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

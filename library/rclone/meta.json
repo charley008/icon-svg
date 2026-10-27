@@ -1,4 +1,7 @@
 {
+  "collection_id": 603,
+  "schema_version": 1,
+  "id": 828,
   "title": "Rclone",
   "url": "https://rclone.org/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "rclone.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8a7b0d1945fe81d23ca012bf23b9421a985ccfbb93404307ef5e944f6f5b1d8c",
       "bytes": 1092,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rclone.svg",
+      "collection": "Dashboard Icons",
+      "file": "rclone.svg",
+      "id": 1785,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "rclone.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8a7b0d1945fe81d23ca012bf23b9421a985ccfbb93404307ef5e944f6f5b1d8c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rclone.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

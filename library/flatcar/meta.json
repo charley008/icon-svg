@@ -1,0 +1,40 @@
+{
+  "collection_id": 1287,
+  "schema_version": 1,
+  "id": 1514,
+  "title": "Flatcar",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flatcar"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1227,
+      "collection": "Dashboard Icons",
+      "file": "flatcar.svg",
+      "id": 2672,
+      "is_default": true,
+      "label": "flatcar",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flatcar.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b00a8cb4cf33c7bd7005e4c044205d35408900669f544440e9eb0a3711973211"
+      },
+      "sha256": "c7c6a5c8889d335d87df3bc0a825889b161e10b55dca6afb3b5024401f3b8209",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flatcar.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

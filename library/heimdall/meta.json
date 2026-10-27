@@ -1,0 +1,59 @@
+{
+  "collection_id": 1461,
+  "schema_version": 1,
+  "id": 1688,
+  "title": "Heimdall",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "heimdall"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1375,
+      "collection": "Dashboard Icons",
+      "file": "heimdall.svg",
+      "id": 2909,
+      "is_default": true,
+      "label": "heimdall",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "heimdall.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "974246312a30a53beb27f207da4b32f0086b75e5011458270857e443de6e3f05"
+      },
+      "sha256": "ff946df04e3ebd5eedd67834728e0c904299385e0e16e6450b4344114298aa24",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/heimdall.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1387,
+      "collection": "Dashboard Icons",
+      "file": "heimdall-1.svg",
+      "id": 2910,
+      "is_default": false,
+      "label": "heimdall-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "heimdall-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2ed2ab96b37ff24243cfec54d2e55b595815f233d87b07e3b2808babdeb51cce"
+      },
+      "sha256": "c9471d6f33bfec7782f36f44ad1ea631c530070a9c334f05094430ae99915e2b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/heimdall-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

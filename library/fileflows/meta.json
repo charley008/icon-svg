@@ -1,0 +1,44 @@
+{
+  "collection_id": 1262,
+  "schema_version": 1,
+  "id": 1489,
+  "title": "Fileflows",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "fileflows",
+    "media-processing",
+    "video-automation"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1013,
+      "collection": "Dashboard Icons",
+      "file": "fileflows.svg",
+      "id": 2645,
+      "is_default": true,
+      "label": "fileflows",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fileflows.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ba3b93cba4c470552e4648eb34101005a88d2305dcd36eccd056784bef1561e"
+      },
+      "sha256": "ee7a002c0a4a7dc16dac93c1b141480e0e9e1861a2747fc70f510749d795e812",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fileflows.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

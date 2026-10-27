@@ -1,0 +1,44 @@
+{
+  "collection_id": 2166,
+  "schema_version": 1,
+  "id": 2393,
+  "title": "Plex Rewind",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "plex-rewind",
+    "plex-year-in-review",
+    "media-stats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1220,
+      "collection": "Dashboard Icons",
+      "file": "plex-rewind.svg",
+      "id": 3863,
+      "is_default": true,
+      "label": "plex-rewind",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plex-rewind.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a05e09ecf0d0113848e58bf9451e2dac873e2d8f4317795f29791568f468e65f"
+      },
+      "sha256": "736fa7051106dc618b714a7a77ca34af0a4d77f2da4bac06f6c9f919d98d1e7c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plex-rewind.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

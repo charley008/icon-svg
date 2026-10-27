@@ -1,0 +1,40 @@
+{
+  "collection_id": 968,
+  "schema_version": 1,
+  "id": 1195,
+  "title": "Chipsound",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chipsound"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2299,
+      "collection": "Dashboard Icons",
+      "file": "chipsound.svg",
+      "id": 2248,
+      "is_default": true,
+      "label": "chipsound",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chipsound.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4e6ff96b3eb63434a992b458ddad56d244b6501559043b689095796fe44ab00"
+      },
+      "sha256": "3a6be85859f8b12e2575407ddadf8a82c8a7626a7637ffb8d65c347722c58027",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chipsound.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

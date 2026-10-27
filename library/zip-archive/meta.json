@@ -1,0 +1,40 @@
+{
+  "collection_id": 3054,
+  "schema_version": 1,
+  "id": 3281,
+  "title": "Zip Archive",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zip-archive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10769,
+      "collection": "Dashboard Icons",
+      "file": "zip-archive.svg",
+      "id": 5018,
+      "is_default": true,
+      "label": "zip-archive",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zip-archive.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb4a6ff91420f67e1cab8bf30efe0b4548fa9683f654b093becb8d37c37a16a3"
+      },
+      "sha256": "126390d6fc4f065ab8042b03ef96e137005f6abce3769495098e796e6de71b9d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zip-archive.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

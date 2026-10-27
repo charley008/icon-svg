@@ -1,0 +1,59 @@
+{
+  "collection_id": 1107,
+  "schema_version": 1,
+  "id": 1334,
+  "title": "Dillinger",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dillinger"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 366,
+      "collection": "Dashboard Icons",
+      "file": "dillinger.svg",
+      "id": 2438,
+      "is_default": true,
+      "label": "dillinger",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dillinger.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb451db044c3f1cf52298d7a12020977dc7d6fb56e0bf7d538e992933fcdba86"
+      },
+      "sha256": "30d96455a75b3a673981ee8cf5ce4796ce5c81bf76e83afcb8ad48d9c1d4c714",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dillinger.svg",
+      "version": 0
+    },
+    {
+      "bytes": 378,
+      "collection": "Dashboard Icons",
+      "file": "dillinger-1.svg",
+      "id": 2439,
+      "is_default": false,
+      "label": "dillinger-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dillinger-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a2f2009f0d0964123b63492b60026f79aea2709f5635926916b740e7ec8a60c"
+      },
+      "sha256": "9b18ec4a8bde9991b570557880d53fd268ee3348a2ca68e3abc058388f3d2bc8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dillinger-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

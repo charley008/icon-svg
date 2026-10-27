@@ -1,0 +1,42 @@
+{
+  "collection_id": 2931,
+  "schema_version": 1,
+  "id": 3158,
+  "title": "Void Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "void-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6902,
+      "collection": "Dashboard Icons",
+      "file": "void-linux.svg",
+      "id": 4856,
+      "is_default": true,
+      "label": "void-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "void-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "228ecd28ca93d0d7662469ef68c1b86f757d1dcea598e292d5decc0ddf1e55aa"
+      },
+      "sha256": "e78bab58c005f8e3dd0b86c9e9fed5b37321eceee8e74ec4ac71fe26b14fbc16",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/void-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1492,
+  "schema_version": 1,
+  "id": 1719,
+  "title": "Honda Jet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Travel",
+    "Organization"
+  ],
+  "aliases": [
+    "honda-jet",
+    "aircraft-manufacturer",
+    "private-jet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4597,
+      "collection": "Dashboard Icons",
+      "file": "honda-jet.svg",
+      "id": 2953,
+      "is_default": true,
+      "label": "honda-jet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "honda-jet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6e7eb1cacbe4710e630b161012c312b0e7c71997885103c9b2994ddfe3b444b8"
+      },
+      "sha256": "545b7ded10b7f8eec6fc93b130fcbcef6bf223a25f3f73dbf2db2ecafe75aa6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/honda-jet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

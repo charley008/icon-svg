@@ -1,0 +1,105 @@
+{
+  "collection_id": 1137,
+  "schema_version": 1,
+  "id": 1364,
+  "redirect_from": [
+    1365,
+    1366
+  ],
+  "title": "Docusign",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docusign",
+    "docusign-wordmark-light",
+    "Docusign Wordmark Light",
+    "docusign-wordmark-dark",
+    "Docusign Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 866,
+      "collection": "Dashboard Icons",
+      "file": "docusign.svg",
+      "id": 2477,
+      "is_default": true,
+      "label": "docusign",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docusign.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1dd463fa52d7dcc1d48005362d9ce35048f2c5b1361c13be62d507fd16831d8"
+      },
+      "sha256": "c318ab8c6d64d9a759c7a21f439b6b263628004f33931fe8345a3808a9ac334d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docusign.svg",
+      "version": 0
+    },
+    {
+      "bytes": 951,
+      "collection": "Dashboard Icons",
+      "file": "docusign-1.svg",
+      "id": 2478,
+      "is_default": false,
+      "label": "docusign-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docusign-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2488a842e97896f5871545a3fb06c23c12b726a01edbbbf6731516c03a75576"
+      },
+      "sha256": "0d077548331236721111c032772808af71005aa12c9bdb3d3339f0945ae56ea3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docusign-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3741,
+      "collection": "Dashboard Icons",
+      "file": "docusign-2.svg",
+      "id": 2480,
+      "is_default": false,
+      "label": "docusign-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docusign-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "270d506120dd541175e7b9e49577b7d6d86b6086959e083dfe6b30080fa1b19e"
+      },
+      "sha256": "a5441f94f3a21c8982d81bcd49747e62a92809e6baf2e555353ce9492af9e0f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docusign-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3852,
+      "collection": "Dashboard Icons",
+      "file": "docusign-3.svg",
+      "id": 2479,
+      "is_default": false,
+      "label": "docusign-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docusign-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c892a489f6639a2d1dbd5d21b68ad258dc543b4793d228ec6587d7ec595bf2e4"
+      },
+      "sha256": "fefbba23fd69c3a305e774c9e7360b0a336a7731e7f97cad8b7e265619120982",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docusign-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

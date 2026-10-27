@@ -1,0 +1,40 @@
+{
+  "collection_id": 920,
+  "schema_version": 1,
+  "id": 1147,
+  "title": "Buypass",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "buypass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 991,
+      "collection": "Dashboard Icons",
+      "file": "buypass.svg",
+      "id": 2188,
+      "is_default": true,
+      "label": "buypass",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "buypass.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1df7b6ee3faeb30eff2c4f9da7f029ed29166a302e3b177c4d380031d8072e56"
+      },
+      "sha256": "bb195ad276b13434c550210a18dc1974d8b87ba296880d3b5afd5ccef04a6991",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/buypass.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

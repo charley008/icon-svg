@@ -1,0 +1,40 @@
+{
+  "collection_id": 2099,
+  "schema_version": 1,
+  "id": 2326,
+  "title": "Passbolt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "passbolt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 748,
+      "collection": "Dashboard Icons",
+      "file": "passbolt.svg",
+      "id": 3765,
+      "is_default": true,
+      "label": "passbolt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "passbolt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5624ceed9e499f7188289e39826859e50ff38f7acebc5ec359e594e9e1ee374"
+      },
+      "sha256": "e86ce8e1e1268eb1ff86e7d9ecd902ea25cd1caca82d2982a43826a1da339d73",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/passbolt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

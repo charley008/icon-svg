@@ -1,0 +1,61 @@
+{
+  "collection_id": 1445,
+  "schema_version": 1,
+  "id": 1672,
+  "title": "Haskell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "haskell-kawaii",
+    "Haskell Kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 75252,
+      "collection": "Dashboard Icons",
+      "file": "haskell-kawaii.svg",
+      "id": 2887,
+      "is_default": true,
+      "label": "haskell-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "haskell-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8ca0b8176d40cd06716cbfa6b0edf8ce9185682046c58f8fd1eed0ea0ce3b56"
+      },
+      "sha256": "cb6b233d2918d3955b7e7fe248d3d3e68d2e0623e8181fa738d23570fed3a10f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/haskell-kawaii.svg",
+      "version": 0
+    },
+    {
+      "bytes": 387,
+      "collection": "TechIcons / Devicon",
+      "file": "haskell-kawaii-1.svg",
+      "id": 5199,
+      "is_default": false,
+      "label": "TechIcons · Haskell",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Haskell.svg",
+        "original_sha256": "70aee9daacf630e53b54c3e3049d636e69c006d6eb5669c535a221d4fc3f9871",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/haskell",
+        "reference_website": "https://www.haskell.org"
+      },
+      "sha256": "73f2d7f236bacc842037c64c1d529e724f841b639abc182ab2dc973f1a1443a9",
+      "source": "https://techicons.dev/icons/haskell",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

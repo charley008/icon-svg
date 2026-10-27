@@ -1,0 +1,40 @@
+{
+  "collection_id": 2052,
+  "schema_version": 1,
+  "id": 2279,
+  "title": "Openziti",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openziti"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1984,
+      "collection": "Dashboard Icons",
+      "file": "openziti.svg",
+      "id": 3700,
+      "is_default": true,
+      "label": "openziti",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openziti.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c4cc270c816b41e4c6f0e2170e87c85dab802d3f26fe9686675fffecd59f83e"
+      },
+      "sha256": "26bcaf9aa021f3c6e6f2d2c0032b0c81f9b266784808d9e9f023f30449c7e7e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openziti.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

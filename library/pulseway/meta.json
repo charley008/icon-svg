@@ -1,0 +1,40 @@
+{
+  "collection_id": 2237,
+  "schema_version": 1,
+  "id": 2464,
+  "title": "Pulseway",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pulseway"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3164,
+      "collection": "Dashboard Icons",
+      "file": "pulseway.svg",
+      "id": 3961,
+      "is_default": true,
+      "label": "pulseway",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pulseway.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "20f16ab578c585113c35cbb35ea1628f0e4636b489d1220a5b470a95e097309b"
+      },
+      "sha256": "3bb237cfce99275f260b19b4883dfa2bf6fe2451b058b4c62ecfe6f073ba75de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pulseway.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

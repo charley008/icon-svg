@@ -1,0 +1,60 @@
+{
+  "collection_id": 1860,
+  "schema_version": 1,
+  "id": 2087,
+  "title": "Mousehole",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "mousehole"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1760,
+      "collection": "Dashboard Icons",
+      "file": "mousehole.svg",
+      "id": 3434,
+      "is_default": true,
+      "label": "mousehole",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mousehole.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0ed72b47f99cbab846ce63ce2ab782f996cc123bbc7052ff47caaa681667ca2f"
+      },
+      "sha256": "58c23bd1e1f2a77450177ae2933087e246c4e4e7813b1248d02527209981e6cb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mousehole.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1773,
+      "collection": "Dashboard Icons",
+      "file": "mousehole-1.svg",
+      "id": 3435,
+      "is_default": false,
+      "label": "mousehole-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mousehole-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "727f7082bc8be58a9aa0e4da1e03ea57fc629a13894a940f3543c6b68de2681e"
+      },
+      "sha256": "52d8cbfb5f32a2b582553df9d2ecd2020423b9f5c3a6d8eb453e420512c46c01",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mousehole-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

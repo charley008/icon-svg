@@ -1,0 +1,40 @@
+{
+  "collection_id": 2981,
+  "schema_version": 1,
+  "id": 3208,
+  "title": "Wind River",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wind-river"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 620,
+      "collection": "Dashboard Icons",
+      "file": "wind-river.svg",
+      "id": 4920,
+      "is_default": true,
+      "label": "wind-river",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wind-river.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc068666e686a6525c6aadc1e2973f75c12c9e8ce34c1a23cc2f4d388ef37afa"
+      },
+      "sha256": "b577da1a0e912f8a1f5bc988d39d565955233aee36c940c6e3c176a0ecb9330f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wind-river.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

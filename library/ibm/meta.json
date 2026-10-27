@@ -39,8 +39,91 @@
       "source": "https://cdn.worldvectorlogo.com/logos/ibm.svg",
       "source_page": "https://worldvectorlogo.com/zh/logo/ibm",
       "version": 0
+    },
+    {
+      "bytes": 1731,
+      "collection": "Dashboard Icons",
+      "file": "ibm-1.svg",
+      "id": 2987,
+      "is_default": false,
+      "label": "ibm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ibm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "057b5cef094ffc7893319c0e3d0b36ca38987da68a719d96619a127500cb04fd"
+      },
+      "sha256": "1068ff0f15cbd54184fe011a300863ddc038597db173de7ceb3feed6c0b17bdd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ibm.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1719,
+      "collection": "Dashboard Icons",
+      "file": "ibm-2.svg",
+      "id": 2988,
+      "is_default": false,
+      "label": "ibm-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ibm-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2678df4f5a8e2a6056a57a3116c73d4081ce80b7cf6f69546e26af61b6551eb4"
+      },
+      "sha256": "7dc9a3b3787e95d817a1ec6290e1c4d2fdad9e9dfa9cac402131428594dbb3b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ibm-light.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
-  "products": []
+  "next_version": 3,
+  "products": [
+    {
+      "id": 3391,
+      "key": "spss",
+      "title": "IBM SPSS Statistics",
+      "url": "https://www.ibm.com/products/spss-statistics",
+      "domains": [
+        "ibm.com"
+      ],
+      "description": "面向数据分析与统计研究的软件。",
+      "category": "教育科研",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "IBM SPSS Statistics",
+        "spss",
+        "IBM-SPSS-Statistics"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2879,
+          "collection": "TechIcons / Devicon",
+          "file": "ibm-spss-1.svg",
+          "id": 5207,
+          "is_default": true,
+          "label": "TechIcons · IBM SPSS Statistics",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "IBM-SPSS-Statistics.svg",
+            "original_sha256": "cc5998d9a66ad1099e653a68e748f762c86e62400c56beb6cb174d4fe49fb153",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/spss",
+            "reference_website": "https://www.ibm.com/products/spss-statistics"
+          },
+          "sha256": "8e0db588f7cc6a358e04c140539b4c83a3ae9dce9d9360deee01c4181fbaf226",
+          "source": "https://techicons.dev/icons/spss",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
 }

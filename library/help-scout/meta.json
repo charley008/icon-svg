@@ -1,0 +1,78 @@
+{
+  "collection_id": 1465,
+  "schema_version": 1,
+  "id": 1692,
+  "title": "Help Scout",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "help-scout"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1132,
+      "collection": "Dashboard Icons",
+      "file": "help-scout.svg",
+      "id": 2916,
+      "is_default": true,
+      "label": "help-scout",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "help-scout.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "760f1d50728fb6b233ac5db8a1bab9164744671324b9abb28a6427b406f07bdc"
+      },
+      "sha256": "96a9d9475d3cc1925bde0235c37bee794777960b263903ca9198d6fd0dfb6b79",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/help-scout.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1160,
+      "collection": "Dashboard Icons",
+      "file": "help-scout-1.svg",
+      "id": 2917,
+      "is_default": false,
+      "label": "help-scout-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "help-scout-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c7e9a74cf00cba5735ea1bd72a9aa09352326700835f0ee44546a8b531bf6392"
+      },
+      "sha256": "b7971149feffb3fe0c77298cd5253fec80176be989b03e34cb803fcfbc2e87af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/help-scout-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1160,
+      "collection": "Dashboard Icons",
+      "file": "help-scout-2.svg",
+      "id": 2918,
+      "is_default": false,
+      "label": "help-scout-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "help-scout-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "26a66aae20ddf7489cd0ed51b0ea6699a6c6be49bf8aafdbbbb76f3484ef4d19"
+      },
+      "sha256": "f2ca1252d217074bdd28423e7ad7293bae556862b08b435ab6099ef5fcb4679e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/help-scout-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

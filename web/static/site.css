@@ -38,3 +38,27 @@
 .library-workspace{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,420px);gap:30px;margin-top:18px;align-items:start}.library-workspace .field-grid{margin-top:0}.library-workspace p{line-height:1.7;font-size:12px}.scan-preview{border-left:1px solid var(--line);padding-left:24px;min-width:0}.scan-preview h3{font-size:16px;margin-bottom:10px}.scan-preview-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;max-height:640px;overflow:auto;margin:16px 0}.scan-preview-card{display:flex;flex-direction:column;align-items:center;gap:10px;padding:12px 8px;border:1px solid var(--line);border-radius:12px;background:var(--bg);min-width:0}.scan-preview-card:hover{border-color:var(--purple)}.scan-preview-card img{width:56px;height:56px;object-fit:contain}.scan-preview-card span{font-size:10px;overflow-wrap:anywhere;text-align:center}.scan-preview-grid>.muted{grid-column:1/-1}.settings-page .editor-nav{flex-wrap:wrap}
 @media(max-width:800px){.library-workspace{grid-template-columns:1fr}.scan-preview{border-left:0;border-top:1px solid var(--line);padding:22px 0 0}.scan-preview-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:480px){.scan-preview-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+.github-link{display:inline-flex;align-items:center;justify-content:center;gap:6px;flex-shrink:0;color:var(--ink);font-size:12px;text-decoration:none;border:1px solid var(--line);border-radius:10px;padding:8px 10px}.github-link:hover{background:var(--surface);color:var(--purple)}.github-link svg{flex-shrink:0}.app-version{font-size:11px;font-weight:500;color:var(--muted);white-space:nowrap}.library-transfer{margin:24px 0;padding-top:20px;border-top:1px solid var(--line)}.library-transfer .field-grid{margin-top:18px}.library-transfer input[type=file]{max-width:100%;font-size:12px}.import-result{padding:12px 16px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink)}@media(max-width:650px){.github-link span{display:none}.github-link{padding:8px}.top-actions{gap:7px}.footer>div{flex-wrap:wrap}}
+
+/* One footer layout: viewport bottom on short pages, after long content. */
+body{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
+body>.topbar{flex:none}
+body>main{width:100%;flex:1 0 auto;margin:0 auto}
+body>.workspace{display:flex;flex-direction:column;min-height:100vh;min-height:100dvh}
+.workspace>.topbar{flex:none}
+.workspace>main{width:100%;flex:1 0 auto;margin:0 auto;padding-bottom:32px}
+.icon-grid>.empty-state,.brand-collections>.empty-state{grid-column:1/-1;padding:56px 16px}
+.site-footer{flex:none;margin-top:auto;border-top:1px solid var(--line);background:var(--surface);padding:22px 42px;color:var(--muted)}
+.site-footer-inner{width:100%;max-width:1506px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:18px}
+.footer-brand{display:inline-flex;align-items:center;gap:10px;flex:none;white-space:nowrap}
+.footer-brand img{display:block;flex:none}
+.footer-name{font-size:13px;font-weight:650;color:var(--ink)}
+.footer-brand .app-version{font-size:12px;line-height:1.5}
+.footer-license{font-size:12px;line-height:1.7;text-align:right;overflow-wrap:anywhere}
+.footer-license:hover{color:var(--ink)}
+.login-body{display:flex;align-items:center;justify-content:flex-start}
+.login-body>main.login-card{width:min(440px,calc(100% - 40px));flex:0 0 auto;margin:auto}
+.login-body>.site-footer{width:100%;align-self:stretch;margin-top:0}
+@media(max-width:1150px){.site-footer{padding-inline:26px}}
+@media(max-width:650px){.site-footer{padding:20px 18px}.site-footer-inner{flex-direction:column;align-items:flex-start;gap:10px}.footer-license{text-align:left;font-size:11px}.footer-brand{gap:9px}.footer-brand .app-version{font-size:11px}}

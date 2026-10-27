@@ -1,0 +1,45 @@
+{
+  "collection_id": 3240,
+  "schema_version": 1,
+  "id": 3503,
+  "title": "Stata",
+  "url": "https://www.stata.com",
+  "domains": [
+    "stata.com"
+  ],
+  "description": "面向统计分析与研究的软件。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Stata",
+    "stata"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3300,
+      "collection": "TechIcons / Devicon",
+      "file": "stata-1.svg",
+      "id": 5370,
+      "is_default": true,
+      "label": "TechIcons · Stata",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Stata.svg",
+        "original_sha256": "66bbc671e19d07f07192f156e59a4dbd696d441c5c3ef18f536ec0739343abda",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/stata",
+        "reference_website": "https://www.stata.com"
+      },
+      "sha256": "8493b967f4061631ceccbf061ea3ec64de99c79573509f25be090f8db0f46c28",
+      "source": "https://techicons.dev/icons/stata",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

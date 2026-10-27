@@ -1,4 +1,7 @@
 {
+  "collection_id": 604,
+  "schema_version": 1,
+  "id": 829,
   "title": "Redis",
   "url": "https://redis.io/",
   "domains": [
@@ -22,23 +25,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "redis.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "9c3d4a6458094687a5b035b1d890b808b3d6d06584625e0cbe38054d24e3b86d",
       "bytes": 2682,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redis.svg",
+      "collection": "Dashboard Icons",
+      "file": "redis.svg",
+      "id": 1786,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "redis.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "9c3d4a6458094687a5b035b1d890b808b3d6d06584625e0cbe38054d24e3b86d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redis.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1777,
+      "collection": "TechIcons / Devicon",
+      "file": "redis-1.svg",
+      "id": 5340,
+      "is_default": false,
+      "label": "TechIcons · Redis",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Redis.svg",
+        "original_sha256": "4707378b190878f36f7e6e1c01fa3ee7e7884c76101809d191dddd943a2e6bdb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/redis",
+        "reference_website": "https://redis.com"
+      },
+      "sha256": "9d66cabdeb079367e09f155a34236226611aa04e006616d8f4c7bc103f1a9b74",
+      "source": "https://techicons.dev/icons/redis",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

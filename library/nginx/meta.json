@@ -54,8 +54,47 @@
       "sha256": "556e3fe2549a4a3b23a3d69fbcae6fe2d08654adb3ae3bc63f80b0fb53adc0a8",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/nginx-1.svg",
       "version": 1
+    },
+    {
+      "bytes": 918,
+      "collection": "Dashboard Icons",
+      "file": "nginx-2.svg",
+      "id": 3536,
+      "is_default": false,
+      "label": "nginx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nginx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3860f0d399e48fcaa30f2b21d3cd5e0d693267140f1e28cb2d341981ab8d2f4c"
+      },
+      "sha256": "c7fedcd4fa112f1cc420da720db9f020260d7e2f975ceacfbcf3d588e1996213",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nginx.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1134,
+      "collection": "TechIcons / Devicon",
+      "file": "nginx-3.svg",
+      "id": 5282,
+      "is_default": false,
+      "label": "TechIcons · NGINX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "NGINX.svg",
+        "original_sha256": "a28c7002fda6748bb018fa5f89ba3d38c622db720d65aa88668208a3cc839900",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nginx",
+        "reference_website": "https://www.nginx.com"
+      },
+      "sha256": "d13bf4890626a5dd374796b2cc7ae38d2c06a9916b4fdb3a72259fdf503febfd",
+      "source": "https://techicons.dev/icons/nginx",
+      "version": 3
     }
   ],
-  "next_version": 2,
+  "next_version": 4,
   "products": []
 }

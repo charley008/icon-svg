@@ -1,0 +1,40 @@
+{
+  "collection_id": 2569,
+  "schema_version": 1,
+  "id": 2796,
+  "title": "Seatable",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "seatable"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 818,
+      "collection": "Dashboard Icons",
+      "file": "seatable.svg",
+      "id": 4390,
+      "is_default": true,
+      "label": "seatable",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "seatable.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02858d4c9a4508e9ef210e41afcf60d20a5f1e4b5551a4353ae27cd91fdce6be"
+      },
+      "sha256": "7f7d187a0ec154e159223e74da1579e36a48f5dee2b4783fbb7797fbbc0a4ad3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/seatable.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 654,
+  "schema_version": 1,
+  "id": 881,
+  "title": "Aac Infotray",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aac-infotray"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2443,
+      "collection": "Dashboard Icons",
+      "file": "aac-infotray.svg",
+      "id": 1842,
+      "is_default": true,
+      "label": "aac-infotray",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aac-infotray.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ae5a7b75d12e67b94f0b50242799e2b78faf95e66f942628be97e3419c043cc"
+      },
+      "sha256": "2cd92710622abb566ed498ca5c7aad123b576e8099d74cd6cfdde0457af41775",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aac-infotray.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

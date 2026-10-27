@@ -1,0 +1,64 @@
+{
+  "collection_id": 1274,
+  "schema_version": 1,
+  "id": 1501,
+  "title": "Firebase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud-Computing",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "firebase",
+    "Backend as a Service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1398,
+      "collection": "Dashboard Icons",
+      "file": "firebase.svg",
+      "id": 2659,
+      "is_default": true,
+      "label": "firebase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firebase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b85e9755d9522a41d9d9ace2f692b9d2d0edf9c8fdb0c51a551e542521b3dd2"
+      },
+      "sha256": "15a32001d7da6b672cb9fde6de8e4090001338edba9505566fec11c41f2c9f83",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firebase.svg",
+      "version": 0
+    },
+    {
+      "bytes": 393,
+      "collection": "TechIcons / Devicon",
+      "file": "firebase-1.svg",
+      "id": 5160,
+      "is_default": false,
+      "label": "TechIcons · Firebase",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Firebase.svg",
+        "original_sha256": "88633887e7ce34dc6b46a0b0f7aa17e48f8951c229df406bce63cbaa7f457e52",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/firebase",
+        "reference_website": "https://firebase.google.com"
+      },
+      "sha256": "007c589517090d6ec55865620e9a1f43772adeee70e7a2d31859f35800463931",
+      "source": "https://techicons.dev/icons/firebase",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

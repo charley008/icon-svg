@@ -1,0 +1,45 @@
+{
+  "collection_id": 3208,
+  "schema_version": 1,
+  "id": 3471,
+  "title": "Processing",
+  "url": "https://processing.org",
+  "domains": [
+    "processing.org"
+  ],
+  "description": "面向图形与创意编程的软件开发环境。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Processing",
+    "processing"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7105,
+      "collection": "TechIcons / Devicon",
+      "file": "processing-1.svg",
+      "id": 5322,
+      "is_default": true,
+      "label": "TechIcons · Processing",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Processing.svg",
+        "original_sha256": "7da2fc046e251362dd1456126f1e0aece56db601d5fe234053f6074f5b389f85",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/processing",
+        "reference_website": "https://processing.org"
+      },
+      "sha256": "4b639da62b72f84da8194b2b88e4956c9bbf57d4bbd9992ee288c9f83d9a329a",
+      "source": "https://techicons.dev/icons/processing",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

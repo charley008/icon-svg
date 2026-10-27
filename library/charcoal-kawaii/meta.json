@@ -1,0 +1,40 @@
+{
+  "collection_id": 953,
+  "schema_version": 1,
+  "id": 1180,
+  "title": "Charcoal Kawaii",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "charcoal-kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 69762,
+      "collection": "Dashboard Icons",
+      "file": "charcoal-kawaii.svg",
+      "id": 2231,
+      "is_default": true,
+      "label": "charcoal-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "charcoal-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b3c5ba353a6017d2a49c86010a7294b26cb6bdc5651e1c7e22dce69087d99f2"
+      },
+      "sha256": "b363d5f81a81cc82f0716161703fb198dccf3448c05cc3e75564933f8dbd6531",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/charcoal-kawaii.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

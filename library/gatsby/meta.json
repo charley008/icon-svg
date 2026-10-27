@@ -1,0 +1,60 @@
+{
+  "collection_id": 1353,
+  "schema_version": 1,
+  "id": 1580,
+  "title": "Gatsby",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gatsby"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 886,
+      "collection": "Dashboard Icons",
+      "file": "gatsby.svg",
+      "id": 2751,
+      "is_default": true,
+      "label": "gatsby",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gatsby.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7efb1457192d4a8a7fd4b17d74dcc62b22a8d7d1d3b2a46d0e0d9c4c21cc7243"
+      },
+      "sha256": "011ca754db6721f611ee2af5bb4f4c3893c0732ff3b53c256848917df81dfe37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gatsby.svg",
+      "version": 0
+    },
+    {
+      "bytes": 482,
+      "collection": "TechIcons / Devicon",
+      "file": "gatsby-1.svg",
+      "id": 5167,
+      "is_default": false,
+      "label": "TechIcons · Gatsby",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gatsby.svg",
+        "original_sha256": "21d7ecf702e7310f13bad21e295b08e6199adf3e3bec0a16783b23d9a83272e1",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gatsby",
+        "reference_website": "https://www.gatsbyjs.com"
+      },
+      "sha256": "829a4e073fb54e15be5abc18492f45dc6b6c415b69ab0d18a7efcb8312f196f9",
+      "source": "https://techicons.dev/icons/gatsby",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1022,
+  "schema_version": 1,
+  "id": 1249,
+  "title": "Convex",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "convex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 968,
+      "collection": "Dashboard Icons",
+      "file": "convex.svg",
+      "id": 2327,
+      "is_default": true,
+      "label": "convex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "convex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a7e159aaa3529af56e1b0c45884dc672c443a03abf940975ba556d8180f5606"
+      },
+      "sha256": "fa83382b9fc678e7bb0267b358c814f4e300ab78ec7e5375dce0ff1d39b39566",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/convex.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

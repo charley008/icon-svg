@@ -1,0 +1,64 @@
+{
+  "collection_id": 1589,
+  "schema_version": 1,
+  "id": 1816,
+  "redirect_from": [
+    1817
+  ],
+  "title": "Jetkvm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jetkvm",
+    "jetkvm-full",
+    "Jetkvm Full"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3161,
+      "collection": "Dashboard Icons",
+      "file": "jetkvm.svg",
+      "id": 3077,
+      "is_default": true,
+      "label": "jetkvm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jetkvm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2b8405f38bf73dcbf45269a4d067de8ff094f5a3fd75fcb57044d44e87302070"
+      },
+      "sha256": "5918e2cf6aa3f2be1159cb3193e30c16a2b4ef157c15c4489ce3f93ff5ba82f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetkvm.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6194,
+      "collection": "Dashboard Icons",
+      "file": "jetkvm-1.svg",
+      "id": 3078,
+      "is_default": false,
+      "label": "jetkvm-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jetkvm-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e3ce0d4f0ca8d875d2838616b9081cb742e4f50af0823883fa6fbce1f5dd9a75"
+      },
+      "sha256": "4f159de1ae572d00779f9e250b3a8aa3220d72f4e6a25ab62e294c9f202d0c76",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jetkvm-full.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

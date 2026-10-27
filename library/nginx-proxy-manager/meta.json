@@ -1,0 +1,44 @@
+{
+  "collection_id": 1939,
+  "schema_version": 1,
+  "id": 2166,
+  "title": "Nginx Proxy Manager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "网络工具"
+  ],
+  "aliases": [
+    "nginx-proxy-manager",
+    "Reverse Proxy UI"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9253,
+      "collection": "Dashboard Icons",
+      "file": "nginx-proxy-manager.svg",
+      "id": 3537,
+      "is_default": true,
+      "label": "nginx-proxy-manager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nginx-proxy-manager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9add6f0b65996f8f1698f926e3df9f7f9ae01bae9a2e9588954366f36ec9f1da"
+      },
+      "sha256": "321a0cc52b069b22d14afd36a47e87be12535a1e446d5adba2b0455abd5ff224",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nginx-proxy-manager.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

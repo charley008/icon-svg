@@ -1,0 +1,59 @@
+{
+  "collection_id": 1699,
+  "schema_version": 1,
+  "id": 1926,
+  "title": "Librespeed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "librespeed"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3907,
+      "collection": "Dashboard Icons",
+      "file": "librespeed.svg",
+      "id": 3215,
+      "is_default": true,
+      "label": "librespeed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "librespeed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e8651f696894c5f10b0cfff0e369faf2d3934a89125a4a32c8b4bc83f01df327"
+      },
+      "sha256": "e9727e2180f42f6c8af477a522d4ad4e398e69768a3fc415eb8ce48f9cc31771",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librespeed.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3985,
+      "collection": "Dashboard Icons",
+      "file": "librespeed-1.svg",
+      "id": 3216,
+      "is_default": false,
+      "label": "librespeed-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "librespeed-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4734dc9972656502dd0cb326d5f35ee01ae6ebf4f42b9ce7d9ce3c29ceb1bae0"
+      },
+      "sha256": "34c9a76cfea909449ea304f7fea4365fd179691f5d56b043c1c8c2210bebfda9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librespeed-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

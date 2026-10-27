@@ -1,0 +1,59 @@
+{
+  "collection_id": 929,
+  "schema_version": 1,
+  "id": 1156,
+  "title": "Cairn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cairn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 384,
+      "collection": "Dashboard Icons",
+      "file": "cairn.svg",
+      "id": 2199,
+      "is_default": true,
+      "label": "cairn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cairn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7a1832169cfce6e275f8bce67c3bca1d630191eb5159dde931be933f42dc5f08"
+      },
+      "sha256": "4a4487a8ae6383eace3656be8f26576bf24a3f5f261c9ef9d5bcc278f82be1b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cairn.svg",
+      "version": 0
+    },
+    {
+      "bytes": 400,
+      "collection": "Dashboard Icons",
+      "file": "cairn-1.svg",
+      "id": 2200,
+      "is_default": false,
+      "label": "cairn-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cairn-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f524d001c46a1249714a04c72ca7ddc2bf221e8d19db877fc40f5d689a36dbdd"
+      },
+      "sha256": "3a58faa668b2a9726ce4a3717e7768a73943e872e45de2d0bab31a59ae60ccb8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cairn-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

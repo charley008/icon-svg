@@ -1,0 +1,40 @@
+{
+  "collection_id": 2158,
+  "schema_version": 1,
+  "id": 2385,
+  "title": "Plane Finder",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "plane-finder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2304,
+      "collection": "Dashboard Icons",
+      "file": "plane-finder.svg",
+      "id": 3850,
+      "is_default": true,
+      "label": "plane-finder",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plane-finder.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "59315d94d093aa8259eb6c4847ee0e883faabdb566b9bc9cbf7630a0358af8e6"
+      },
+      "sha256": "43a93f41792f0b0dda931af6bcf63707c149edafa96a6a61c899c25d5a7b25c3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plane-finder.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

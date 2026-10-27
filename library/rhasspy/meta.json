@@ -1,0 +1,64 @@
+{
+  "collection_id": 2505,
+  "schema_version": 1,
+  "id": 2732,
+  "title": "Rhasspy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "AI-\u0026-LLM-Platforms",
+    "系统工具"
+  ],
+  "aliases": [
+    "rhasspy",
+    "offline-voice-assistant",
+    "privacy-voice-assistant"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1848,
+      "collection": "Dashboard Icons",
+      "file": "rhasspy.svg",
+      "id": 4307,
+      "is_default": true,
+      "label": "rhasspy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rhasspy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b5d0cec43da57e1d5f69082cdb6755dec935e997b04d7452d915e2f5118de13"
+      },
+      "sha256": "f642488a961b3230d3a4cbb54e3ac7a720e56132cfb8e9992fcec6b08b81d9d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rhasspy.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1962,
+      "collection": "Dashboard Icons",
+      "file": "rhasspy-1.svg",
+      "id": 4308,
+      "is_default": false,
+      "label": "rhasspy-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rhasspy-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bbdac5ec5350f18dd2d1f4118e988336543d33f2f9d8a86f5dfb4f92c54cc877"
+      },
+      "sha256": "5b054bef8cd3d9bd0fb443e3c5ce52fd445898e5c79bd6b4fa3b21819b73a506",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rhasspy-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

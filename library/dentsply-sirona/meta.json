@@ -1,0 +1,40 @@
+{
+  "collection_id": 1091,
+  "schema_version": 1,
+  "id": 1318,
+  "title": "Dentsply Sirona",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dentsply-sirona"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "Dashboard Icons",
+      "file": "dentsply-sirona.svg",
+      "id": 2419,
+      "is_default": true,
+      "label": "dentsply-sirona",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dentsply-sirona.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f62a2458543f3a6bc81ae8c44e69cd7704403049b6b16213c91acda2bd2bc322"
+      },
+      "sha256": "1ce503998bf172172ac7d7c3242fbb6273ab1e3fe6b48e63dd66a31dcbe12611",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dentsply-sirona.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

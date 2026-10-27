@@ -1,0 +1,40 @@
+{
+  "collection_id": 2605,
+  "schema_version": 1,
+  "id": 2832,
+  "title": "Shiori",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shiori"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1865,
+      "collection": "Dashboard Icons",
+      "file": "shiori.svg",
+      "id": 4442,
+      "is_default": true,
+      "label": "shiori",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shiori.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1c8aed9c89866a8ebf11c562e8dc70e178c7bb498ad4cc5719bac4bded317c1a"
+      },
+      "sha256": "6916fc4d82e8346f4ca9cc09545feb0979ecaa349e403c6a7bdcf9ffff952b67",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shiori.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,60 @@
+{
+  "collection_id": 1183,
+  "schema_version": 1,
+  "id": 1410,
+  "title": "Electron",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "electron"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2404,
+      "collection": "Dashboard Icons",
+      "file": "electron.svg",
+      "id": 2538,
+      "is_default": true,
+      "label": "electron",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "electron.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6c6d33ce3fa7fd50cc86d00d388dc91f5ff5667e46989c61fdd2e95e860de74b"
+      },
+      "sha256": "542fcaa4b2807dfd86cf43fd929fe678a96f09914bcbd273b480fff9148f4a51",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/electron.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1596,
+      "collection": "TechIcons / Devicon",
+      "file": "electron-1.svg",
+      "id": 5143,
+      "is_default": false,
+      "label": "TechIcons · Electron",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Electron.svg",
+        "original_sha256": "b5cae00151e368734a36f261dc9a497a93bacad07cf609d75321ccd7e186a50a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/electron",
+        "reference_website": "https://www.electronjs.org"
+      },
+      "sha256": "77ad8f7bb96379010592b13305d746f32126c69aa08a4799f5e2cf69dfe8ebf3",
+      "source": "https://techicons.dev/icons/electron",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

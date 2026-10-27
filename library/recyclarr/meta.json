@@ -1,0 +1,40 @@
+{
+  "collection_id": 2478,
+  "schema_version": 1,
+  "id": 2705,
+  "title": "Recyclarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "recyclarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4261,
+      "collection": "Dashboard Icons",
+      "file": "recyclarr.svg",
+      "id": 4275,
+      "is_default": true,
+      "label": "recyclarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "recyclarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d5b27043e961aeea9c56362c775d4222b2ba075db0db597fee3ee98f090eb05c"
+      },
+      "sha256": "bad193a5cd3338043c24f0283f34039e0628490bd0fdd44243efb9f6eae37b9f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/recyclarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

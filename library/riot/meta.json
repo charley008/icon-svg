@@ -1,0 +1,44 @@
+{
+  "collection_id": 2510,
+  "schema_version": 1,
+  "id": 2737,
+  "title": "Riot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Communication"
+  ],
+  "aliases": [
+    "riot",
+    "matrix-chat-client",
+    "element-client"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2082,
+      "collection": "Dashboard Icons",
+      "file": "riot.svg",
+      "id": 4314,
+      "is_default": true,
+      "label": "riot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "riot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2196a44d43c7e5c5707797f073a6be69802e4566242bfbd272f03d694a87e69f"
+      },
+      "sha256": "209f525d9b3a90a7da0138b540c1c8f4f586f0df9587ab5f85a75129106a41be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/riot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

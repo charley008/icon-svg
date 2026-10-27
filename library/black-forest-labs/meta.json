@@ -1,0 +1,105 @@
+{
+  "collection_id": 877,
+  "schema_version": 1,
+  "id": 1104,
+  "redirect_from": [
+    1105,
+    1106
+  ],
+  "title": "Black Forest Labs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "black-forest-labs",
+    "black-forest-labs-wordmark-light",
+    "Black Forest Labs Wordmark Light",
+    "black-forest-labs-wordmark-dark",
+    "Black Forest Labs Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 654,
+      "collection": "Dashboard Icons",
+      "file": "black-forest-labs.svg",
+      "id": 2132,
+      "is_default": true,
+      "label": "black-forest-labs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "black-forest-labs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c9a58fadb6d9ce1ec48fc3e4df08e77ba2d951b5f8445e766ccd2d40c2b43e92"
+      },
+      "sha256": "5ee79f53e670217931a6a8577b151855a2c4c92377cfd8e523053ede8ce2dc75",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/black-forest-labs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 583,
+      "collection": "Dashboard Icons",
+      "file": "black-forest-labs-1.svg",
+      "id": 2133,
+      "is_default": false,
+      "label": "black-forest-labs-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "black-forest-labs-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "441ccf70c7312b62746a0cb4767bd489cb193b90cbded2ec40a57e77e9aa817c"
+      },
+      "sha256": "85d6c6e56730ae3c22e6a66ac14349a39f02ed8702d0580c0db927cfabc71fb3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/black-forest-labs-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 8807,
+      "collection": "Dashboard Icons",
+      "file": "black-forest-labs-2.svg",
+      "id": 2135,
+      "is_default": false,
+      "label": "black-forest-labs-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "black-forest-labs-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "11b5f57572d2730eef9b09804edd79f0494b663d204712c3b9ca844afdbd3282"
+      },
+      "sha256": "88476f42035a66ebe304da8f89d2e13897c4c6d1dc2b6977102f3c9181bbcf09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/black-forest-labs-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 11906,
+      "collection": "Dashboard Icons",
+      "file": "black-forest-labs-3.svg",
+      "id": 2134,
+      "is_default": false,
+      "label": "black-forest-labs-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "black-forest-labs-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "762adc9faa71d7f5170f98a327117ee044a5198ded20bbe9bbcfce6906a77f33"
+      },
+      "sha256": "8b63512460f8043806396ca27bcb55bfec572be3ef1bc0a4af860f583bb96b9a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/black-forest-labs-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

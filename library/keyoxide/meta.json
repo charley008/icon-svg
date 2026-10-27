@@ -1,0 +1,59 @@
+{
+  "collection_id": 1629,
+  "schema_version": 1,
+  "id": 1856,
+  "title": "Keyoxide",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "keyoxide"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15178,
+      "collection": "Dashboard Icons",
+      "file": "keyoxide.svg",
+      "id": 3125,
+      "is_default": true,
+      "label": "keyoxide",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keyoxide.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dba26ddd690fef31a48e13232468f605ab917c99ddea761470c885c4be9ba8fb"
+      },
+      "sha256": "267332a48eedf6b6d6cdbd12d3ede005eaf46bc9438925dcebd78c548f76afdc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keyoxide.svg",
+      "version": 0
+    },
+    {
+      "bytes": 13841,
+      "collection": "Dashboard Icons",
+      "file": "keyoxide-1.svg",
+      "id": 3126,
+      "is_default": false,
+      "label": "keyoxide-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keyoxide-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6216f3f2eddd5d4dda6fbbb68f68f975102523c64e48dd52bbb5e65db7054ff8"
+      },
+      "sha256": "73696a8442f045316266a50adc5465aa579f47a3a13a6f2d603e9d4f01fa63cf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keyoxide-alt.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 776,
+  "schema_version": 1,
+  "id": 1003,
+  "title": "Aurral",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aurral"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6446,
+      "collection": "Dashboard Icons",
+      "file": "aurral.svg",
+      "id": 2003,
+      "is_default": true,
+      "label": "aurral",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aurral.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ac03fec3171199a9868382f279dad27a027c561c4cae03477cf221bc95665350"
+      },
+      "sha256": "b1f58b7674978c313b2e3762b5e9d3f58141a39aa2c0d82712ded1ca3febb82b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aurral.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

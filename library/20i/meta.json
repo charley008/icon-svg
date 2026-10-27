@@ -1,0 +1,62 @@
+{
+  "collection_id": 644,
+  "schema_version": 1,
+  "id": 871,
+  "title": "20I",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "20i",
+    "twenty",
+    "twenty-i"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2250,
+      "collection": "Dashboard Icons",
+      "file": "20i.svg",
+      "id": 1828,
+      "is_default": true,
+      "label": "20i",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "20i.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8a21c08e23331ee14fd7d284ba2a4d1c492119f951c5a9b264cc81d74bbea5f"
+      },
+      "sha256": "778f7fd696018ae746ea09683cf210c805a590ad32b7e184997f3c545272523a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/20i.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2250,
+      "collection": "Dashboard Icons",
+      "file": "20i-1.svg",
+      "id": 1829,
+      "is_default": false,
+      "label": "20i-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "20i-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "613231387663e92f4882bcfac70e5520c1eca34908a392b3e1bcb7190b099f50"
+      },
+      "sha256": "922360c5f43f08e451b6215165196a595ffc709ac53791b2d48817397de83de7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/20i-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

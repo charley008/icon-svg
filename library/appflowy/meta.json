@@ -1,0 +1,40 @@
+{
+  "collection_id": 735,
+  "schema_version": 1,
+  "id": 962,
+  "title": "Appflowy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "appflowy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1964,
+      "collection": "Dashboard Icons",
+      "file": "appflowy.svg",
+      "id": 1945,
+      "is_default": true,
+      "label": "appflowy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "appflowy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d68401f3c3056b841443ca45d5128052d146a953c5cdeacafcbece49379efa8"
+      },
+      "sha256": "0e9cf5a08c555150bc2c28a888c3bbcb769f5100163734fc6c87298cc397bb04",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/appflowy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

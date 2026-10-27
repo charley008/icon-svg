@@ -1,0 +1,59 @@
+{
+  "collection_id": 837,
+  "schema_version": 1,
+  "id": 1064,
+  "title": "Bab Technologie",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bab-technologie"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4665,
+      "collection": "Dashboard Icons",
+      "file": "bab-technologie.svg",
+      "id": 2070,
+      "is_default": true,
+      "label": "bab-technologie",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bab-technologie.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "622dc3b98df42156781db3482caa126f40c64bfe4aab458b0458ecb9aec5636c"
+      },
+      "sha256": "2275fa5443ef33344c2c9c8ad99fa393ae8d0db8cd9341f11b388853868ca3fa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bab-technologie.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4665,
+      "collection": "Dashboard Icons",
+      "file": "bab-technologie-1.svg",
+      "id": 2071,
+      "is_default": false,
+      "label": "bab-technologie-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bab-technologie-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "30756ee4a827f2517eaa66a39e18ba534c5a268259cf1eb2a1e3c8e7ff3465f0"
+      },
+      "sha256": "28d1d7abc76edc22365ecce3fe5e7569003902d44b6c530d3230a9eb79806fb8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bab-technologie-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

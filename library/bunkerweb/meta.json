@@ -1,0 +1,45 @@
+{
+  "collection_id": 917,
+  "schema_version": 1,
+  "id": 1144,
+  "title": "Bunkerweb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "bunkerweb",
+    "Reverse Proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 621,
+      "collection": "Dashboard Icons",
+      "file": "bunkerweb.svg",
+      "id": 2185,
+      "is_default": true,
+      "label": "bunkerweb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bunkerweb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a5b9e8cbb922eaebf2ee6672a505c97a99371930f665fa0046f5813dc6088bc5"
+      },
+      "sha256": "34e18255910297c60ca5be1b4e5e007e7b21ef1586e5d06960e49d0a23afd254",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bunkerweb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1356,
+  "schema_version": 1,
+  "id": 1583,
+  "title": "Geckoview",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "geckoview"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 579,
+      "collection": "Dashboard Icons",
+      "file": "geckoview.svg",
+      "id": 2754,
+      "is_default": true,
+      "label": "geckoview",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "geckoview.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "55f3b0e14c943673197a18dd1a5f414cc881fd6d0e550f06fdeacd05984995b7"
+      },
+      "sha256": "2db8650034aa0903798031e47123ca4dcd4e07b5dd3b79db25fa6215952f00e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/geckoview.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

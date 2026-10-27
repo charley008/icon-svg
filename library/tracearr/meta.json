@@ -1,0 +1,41 @@
+{
+  "collection_id": 2824,
+  "schema_version": 1,
+  "id": 3051,
+  "title": "Tracearr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "tracearr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1098,
+      "collection": "Dashboard Icons",
+      "file": "tracearr.svg",
+      "id": 4716,
+      "is_default": true,
+      "label": "tracearr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tracearr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a211988a76416ceb5ffbd3d0d89b431fcad256397e22a2f85ad2be3d10c55563"
+      },
+      "sha256": "6c69164b57a156c189427b3694650b48946a135f95cdfb605cd429f186cd13de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tracearr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

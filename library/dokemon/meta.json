@@ -1,0 +1,45 @@
+{
+  "collection_id": 1142,
+  "schema_version": 1,
+  "id": 1369,
+  "title": "Dokemon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Containerization-\u0026-Orchestration",
+    "开发编程"
+  ],
+  "aliases": [
+    "dokemon",
+    "container-monitor",
+    "docker-stats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 354,
+      "collection": "Dashboard Icons",
+      "file": "dokemon.svg",
+      "id": 2483,
+      "is_default": true,
+      "label": "dokemon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dokemon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "57dbd066afae18eb1a84d3e0c5e99dc837c42c9e66e0495344e5c7042c6fdcba"
+      },
+      "sha256": "b3ee8a0c7c124c442a15b9cc45b6bebae775cc412e45b27e71803657f03621f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dokemon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

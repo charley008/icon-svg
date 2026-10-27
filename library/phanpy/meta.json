@@ -1,0 +1,44 @@
+{
+  "collection_id": 2130,
+  "schema_version": 1,
+  "id": 2357,
+  "title": "Phanpy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "phanpy",
+    "mastodon-android-client",
+    "federated-social-client"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 873,
+      "collection": "Dashboard Icons",
+      "file": "phanpy.svg",
+      "id": 3808,
+      "is_default": true,
+      "label": "phanpy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phanpy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7c124c699f27d74029bdd5bce7757efeb929afab1068c0e8d767d2b04dc5cbe1"
+      },
+      "sha256": "4491907bbd07dae67b21f64c63c5d7188045fc8ce4ad7df2f2d7d0ecc5da2531",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phanpy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

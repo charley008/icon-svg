@@ -1,0 +1,40 @@
+{
+  "collection_id": 2909,
+  "schema_version": 1,
+  "id": 3136,
+  "title": "Videojet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "videojet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6007,
+      "collection": "Dashboard Icons",
+      "file": "videojet.svg",
+      "id": 4829,
+      "is_default": true,
+      "label": "videojet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "videojet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "593acbb396dea16704a442b5ec82d27ae551b31962716ef1c05e00fd8c5a84bd"
+      },
+      "sha256": "c565f931da2e3409cfc9c82856fd7cc8047989d862a2c0a66d85b7c368baab09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/videojet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

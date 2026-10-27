@@ -1,0 +1,40 @@
+{
+  "collection_id": 1370,
+  "schema_version": 1,
+  "id": 1597,
+  "title": "Glance",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "glance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1897,
+      "collection": "Dashboard Icons",
+      "file": "glance.svg",
+      "id": 2774,
+      "is_default": true,
+      "label": "glance",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glance.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cfffe000f4c3f4fee33897f5f5199c8f4241c6259b232a452f91eabced7a6044"
+      },
+      "sha256": "e0397cb5c10228810e2259083f9cea105362db96e03e5499a34481a30b7e7910",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glance.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

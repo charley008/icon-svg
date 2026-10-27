@@ -1,0 +1,40 @@
+{
+  "collection_id": 2461,
+  "schema_version": 1,
+  "id": 2688,
+  "title": "Railway",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "railway"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1078,
+      "collection": "Dashboard Icons",
+      "file": "railway.svg",
+      "id": 4251,
+      "is_default": true,
+      "label": "railway",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "railway.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4b555ecd61236b762bba66aa4ca6c27ba92651e4c5b944dfd10d0709c699db6"
+      },
+      "sha256": "d64c07aa21ae4821282fc351de1bf825bad5b732feba38e86c05482e85cc6844",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/railway.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

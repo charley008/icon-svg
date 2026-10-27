@@ -151,8 +151,106 @@
       "sha256": "a0ade5b2577f3e3035132950b91d097093302752d110d1678a36331bba5173dd",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notion-light.svg",
       "version": 5
+    },
+    {
+      "bytes": 1182,
+      "collection": "Dashboard Icons",
+      "file": "notion-6.svg",
+      "id": 3567,
+      "is_default": false,
+      "label": "notion",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notion.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b98fea4bc3f3259c6907a40dae994c959c3240d7ee4b4afea144a555c638f6c2"
+      },
+      "sha256": "c5f5d6d52c4c4d2c166d2aeb0b0033c712c86ac2072c804b39758b6ae061235b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notion.svg",
+      "version": 6
     }
   ],
-  "next_version": 6,
-  "products": []
+  "next_version": 7,
+  "products": [
+    {
+      "id": 2189,
+      "key": "calendar",
+      "title": "Notion Calendar",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "notion-calendar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4571,
+          "collection": "Dashboard Icons",
+          "file": "notion-calendar.svg",
+          "id": 3568,
+          "is_default": true,
+          "label": "notion-calendar",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "notion-calendar.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e7615684f84f04b18dfac7f19cd5f21c9e1a74a0f4f46e84cfe69510e8b16f1e"
+          },
+          "sha256": "5458295396e335a054c167603477164c9180142ecded28061d17af00b7864430",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notion-calendar.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2190,
+      "key": "mail",
+      "title": "Notion Mail",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons",
+        "Communication",
+        "社交通讯"
+      ],
+      "aliases": [
+        "notion-mail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1055,
+          "collection": "Dashboard Icons",
+          "file": "notion-mail.svg",
+          "id": 3569,
+          "is_default": true,
+          "label": "notion-mail",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "notion-mail.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "797db18c61358c2bf8e9ba952fb423a1e2658b19df8173d143320a53e85f8f07"
+          },
+          "sha256": "fc547b5f290634e3853b9b16958a2c630fd3c8700e75aacd5ca26243c9925994",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notion-mail.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

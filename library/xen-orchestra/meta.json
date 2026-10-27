@@ -1,0 +1,40 @@
+{
+  "collection_id": 3009,
+  "schema_version": 1,
+  "id": 3236,
+  "title": "Xen Orchestra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xen-orchestra"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 106013,
+      "collection": "Dashboard Icons",
+      "file": "xen-orchestra.svg",
+      "id": 4960,
+      "is_default": true,
+      "label": "xen-orchestra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xen-orchestra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab8ea2fbbbf8eb0509acac3c8813219ef85df6bb55af1ddb8d68b25ca7ce93d0"
+      },
+      "sha256": "861424ac92461bdc4627188a4a41126c7a0f2fe7cb7ddcf893f87f2f105385a9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xen-orchestra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

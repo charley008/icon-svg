@@ -1,0 +1,45 @@
+{
+  "collection_id": 3115,
+  "schema_version": 1,
+  "id": 3357,
+  "title": "Elixir",
+  "url": "https://elixir-lang.org",
+  "domains": [
+    "elixir-lang.org"
+  ],
+  "description": "Elixir 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Elixir",
+    "elixir"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4089,
+      "collection": "TechIcons / Devicon",
+      "file": "elixir-1.svg",
+      "id": 5145,
+      "is_default": true,
+      "label": "TechIcons · Elixir",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Elixir.svg",
+        "original_sha256": "17c37b03035f1704f90631d7c945b45621813f395cef4487b7fe40ad5c47be34",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/elixir",
+        "reference_website": "https://elixir-lang.org"
+      },
+      "sha256": "d8a8e81c48d685b078f1a25a94afaf4f50b538c31e24a6d036de051671c74d48",
+      "source": "https://techicons.dev/icons/elixir",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

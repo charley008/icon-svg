@@ -1,0 +1,60 @@
+{
+  "collection_id": 2656,
+  "schema_version": 1,
+  "id": 2883,
+  "title": "Sonarqube",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sonarqube"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 402,
+      "collection": "Dashboard Icons",
+      "file": "sonarqube.svg",
+      "id": 4501,
+      "is_default": true,
+      "label": "sonarqube",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sonarqube.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d17fceccec9ae5e7219b68162dfd4dd7971f6616f1f41f5e6bf775d4270d7f6"
+      },
+      "sha256": "2e3fb07b726bdd9a4456352721fd6d558bdac8470e7cfc339d4fc6790c7e9a3d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarqube.svg",
+      "version": 0
+    },
+    {
+      "bytes": 438,
+      "collection": "TechIcons / Devicon",
+      "file": "sonarqube-1.svg",
+      "id": 5363,
+      "is_default": false,
+      "label": "TechIcons · SonarQube",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "SonarQube.svg",
+        "original_sha256": "207c0fbc4fdc7aa3180669080ace3fab194fa2e128af2c801da448381c6dd794",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sonarqube",
+        "reference_website": "https://www.sonarsource.com/products/sonarqube"
+      },
+      "sha256": "924fdb53eb7a02df32d2b71708f739c7a464c73eacec412c1d6cfaa341ea7543",
+      "source": "https://techicons.dev/icons/sonarqube",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3267,
+  "schema_version": 1,
+  "id": 3532,
+  "title": "Zend Framework",
+  "url": "https://framework.zend.com",
+  "domains": [
+    "framework.zend.com"
+  ],
+  "description": "PHP 应用开发框架与相关工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Zend Framework",
+    "zend",
+    "Zend-Framework"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1534,
+      "collection": "TechIcons / Devicon",
+      "file": "zend-1.svg",
+      "id": 5411,
+      "is_default": true,
+      "label": "TechIcons · Zend Framework",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Zend-Framework.svg",
+        "original_sha256": "c08dd4d47a16a1e698e721a98c7f8158780820959bc91c778f4027281e46b830",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/zend",
+        "reference_website": "https://framework.zend.com"
+      },
+      "sha256": "2a09eec14839c7b256851d3254e322d26ca26b271582b247b14be460e0eae995",
+      "source": "https://techicons.dev/icons/zend",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

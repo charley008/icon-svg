@@ -1,0 +1,64 @@
+{
+  "collection_id": 2947,
+  "schema_version": 1,
+  "id": 3174,
+  "title": "Wallabag",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "wallabag",
+    "bookmarking-tool",
+    "offline-reader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2475,
+      "collection": "Dashboard Icons",
+      "file": "wallabag.svg",
+      "id": 4876,
+      "is_default": true,
+      "label": "wallabag",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wallabag.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a433d3d12562afacf772b2b9ca1e5a985d5a8c638218a67710cf1ff66fba9231"
+      },
+      "sha256": "4e3c56808b30a8a402eed5ee1aeb8c5345aa57f8ee839b7f4c83b7c8171a34b9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wallabag.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2494,
+      "collection": "Dashboard Icons",
+      "file": "wallabag-1.svg",
+      "id": 4877,
+      "is_default": false,
+      "label": "wallabag-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wallabag-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3c6e7f238704879727214e3147f875dc33d1569ac58e8898def4144cc10a1874"
+      },
+      "sha256": "41a9071bf509ab2f0bcdc3553a3da1d25a3830072689954dfc1b7f046ddd100f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wallabag-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

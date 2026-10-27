@@ -1,0 +1,59 @@
+{
+  "collection_id": 2587,
+  "schema_version": 1,
+  "id": 2814,
+  "title": "Servarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "servarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2022,
+      "collection": "Dashboard Icons",
+      "file": "servarr.svg",
+      "id": 4417,
+      "is_default": true,
+      "label": "servarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "servarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "08a4535f154b694e11b128e4c87c46e91510aaf578aee16eb881ecb455bc1455"
+      },
+      "sha256": "6fe8842aa76ee951e642a0655bbad0be6bc85c1479d84957c48107561a20b4b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/servarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2100,
+      "collection": "Dashboard Icons",
+      "file": "servarr-1.svg",
+      "id": 4418,
+      "is_default": false,
+      "label": "servarr-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "servarr-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "24442097fbe99dfa1eb0d86119bb7a5072ded90a58140b33520e684f07b28664"
+      },
+      "sha256": "71d310e6139a0f71503a4528b4ff4528c5be898dfa040a1a72b88e5a299feb4b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/servarr-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

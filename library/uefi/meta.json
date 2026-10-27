@@ -1,0 +1,40 @@
+{
+  "collection_id": 2869,
+  "schema_version": 1,
+  "id": 3096,
+  "title": "Uefi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "uefi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1730,
+      "collection": "Dashboard Icons",
+      "file": "uefi.svg",
+      "id": 4774,
+      "is_default": true,
+      "label": "uefi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uefi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "28fc52b07e6b3497dd4844d70984ec5740728ecf4b71f5cb2b0cd7ee3421ea6e"
+      },
+      "sha256": "f2c8ee281a079f5c9f86ccb57fa8c60f50f894f950db294ea5416d1dff04ebd9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/uefi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

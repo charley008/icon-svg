@@ -1,0 +1,60 @@
+{
+  "collection_id": 1067,
+  "schema_version": 1,
+  "id": 1294,
+  "title": "Dart",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dart"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1722,
+      "collection": "Dashboard Icons",
+      "file": "dart.svg",
+      "id": 2383,
+      "is_default": true,
+      "label": "dart",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dart.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1835c981c78b04141a36902b0d85607c0f8e9434e4385830b763333288327a90"
+      },
+      "sha256": "54e912605d8c1e61e2287c7be87dafc367c7e5f6590cdc8ec8fbc5329d23c746",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dart.svg",
+      "version": 0
+    },
+    {
+      "bytes": 754,
+      "collection": "TechIcons / Devicon",
+      "file": "dart-1.svg",
+      "id": 5124,
+      "is_default": false,
+      "label": "TechIcons · Dart",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Dart.svg",
+        "original_sha256": "8dec3d6f6d92d5c8db294baf7ea89cbad5c3dd0f7fde5ca972ffc6cebf9b2d40",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/dart",
+        "reference_website": "https://dart.dev"
+      },
+      "sha256": "d57b48faf9a0d3045fe6d69767bcb3b9d8904bbfa372102baa84b240b80b8110",
+      "source": "https://techicons.dev/icons/dart",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2193,
+  "schema_version": 1,
+  "id": 2420,
+  "title": "Postfix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "postfix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9597,
+      "collection": "Dashboard Icons",
+      "file": "postfix.svg",
+      "id": 3903,
+      "is_default": true,
+      "label": "postfix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postfix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0706d703aa20ea69c3b5013b8fa4b6985d044708a8c2863114507a86573906e7"
+      },
+      "sha256": "821cb438550d9d49a8e185a44a6b6e520b9a8593028a28b63d402d79eba2029c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postfix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

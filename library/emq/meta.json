@@ -1,0 +1,64 @@
+{
+  "collection_id": 1196,
+  "schema_version": 1,
+  "id": 1423,
+  "title": "Emq",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Smart-Home",
+    "Developer-Tools",
+    "系统工具"
+  ],
+  "aliases": [
+    "emq",
+    "MQTT Broker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 879,
+      "collection": "Dashboard Icons",
+      "file": "emq.svg",
+      "id": 2557,
+      "is_default": true,
+      "label": "emq",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emq.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b83dafdd27e9d95f3b8d5ba3d9eba09cc859a8ef549be389abd9b367491899fb"
+      },
+      "sha256": "9290adaedc7460bd6e4393ecfaa6e38b645ddbaa1bd4b3504e555fddf4319efa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emq.svg",
+      "version": 0
+    },
+    {
+      "bytes": 903,
+      "collection": "Dashboard Icons",
+      "file": "emq-1.svg",
+      "id": 2558,
+      "is_default": false,
+      "label": "emq-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emq-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "29293142530e810b7e8c4bd5c4ec952b50759c7733537f67e3d5a4357a9a04fc"
+      },
+      "sha256": "5831596012ea375760891683ba9ba1b4ac8be1f7b26fbd191e47d0d59dfc84dc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emq-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2944,
+  "schema_version": 1,
+  "id": 3171,
+  "title": "Waipu Tv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "waipu-tv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2992,
+      "collection": "Dashboard Icons",
+      "file": "waipu-tv.svg",
+      "id": 4872,
+      "is_default": true,
+      "label": "waipu-tv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "waipu-tv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3c04a1e4e0db42177dbda6131f067654634521984003d325cea7ee85b40e663e"
+      },
+      "sha256": "4dd21b655b40cfb960b81dd988c935d731a0f3701eeb544e9c513aeb0215fc8e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/waipu-tv.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

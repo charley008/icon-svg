@@ -1,0 +1,40 @@
+{
+  "collection_id": 2764,
+  "schema_version": 1,
+  "id": 2991,
+  "title": "Teleport",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "teleport"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1606,
+      "collection": "Dashboard Icons",
+      "file": "teleport.svg",
+      "id": 4639,
+      "is_default": true,
+      "label": "teleport",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teleport.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee2f7d8f1180a943f1c10710f5f78cb85b0a633c23d4c67c58358975b772ae7c"
+      },
+      "sha256": "5f16f1393d1c02aa4ad811b2e36f7c9f3090253ba5ad44e451256ee0c889e13f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teleport.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

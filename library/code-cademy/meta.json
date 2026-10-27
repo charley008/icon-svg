@@ -1,0 +1,61 @@
+{
+  "collection_id": 999,
+  "schema_version": 1,
+  "id": 1226,
+  "title": "Code Cademy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "code-cademy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1129,
+      "collection": "Dashboard Icons",
+      "file": "code-cademy.svg",
+      "id": 2292,
+      "is_default": true,
+      "label": "code-cademy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "code-cademy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "69b49b74c045681c77688913bb4fcd449d09456b367c8f50d6585b72a3b29cab"
+      },
+      "sha256": "3c12d806673b366545a335a2c50f5557dd5c2bba734aa364abadfdebd022d967",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/code-cademy.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1126,
+      "collection": "Dashboard Icons",
+      "file": "code-cademy-1.svg",
+      "id": 2293,
+      "is_default": false,
+      "label": "code-cademy-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "code-cademy-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a5e0754af01a7ee1adbe191486d4b4081a24826a33967504d639e0c960a311a0"
+      },
+      "sha256": "0f0ddfcd3e46e3794eaae970bb26c8a782433578b9d14c25d73a99405539f5a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/code-cademy-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

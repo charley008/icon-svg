@@ -1,0 +1,42 @@
+{
+  "collection_id": 1147,
+  "schema_version": 1,
+  "id": 1374,
+  "title": "Doppler",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "doppler",
+    "doppler-secrets"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18465,
+      "collection": "Dashboard Icons",
+      "file": "doppler.svg",
+      "id": 2489,
+      "is_default": true,
+      "label": "doppler",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "doppler.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ad083641ad77ee01b03907638aae395fc5c880fc83bad9918a698a3c9f6e6f7"
+      },
+      "sha256": "9f4dcfd6dd9082429c85cbb0f9344f65fb91f3ae078e886b8cedfb9e0649a02e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/doppler.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

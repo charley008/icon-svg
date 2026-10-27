@@ -1,0 +1,40 @@
+{
+  "collection_id": 2682,
+  "schema_version": 1,
+  "id": 2909,
+  "title": "Sqlitebrowser",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sqlitebrowser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6534,
+      "collection": "Dashboard Icons",
+      "file": "sqlitebrowser.svg",
+      "id": 4536,
+      "is_default": true,
+      "label": "sqlitebrowser",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sqlitebrowser.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4bd55da6b7ffc9a08b1bd551eec0317f35d26efc8f5346ee8d4e072a400511b3"
+      },
+      "sha256": "9c9d080a878bfbf0cfbe08e664cccc06ee026fa9e7d2c8c3c4b77b889ddb9848",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sqlitebrowser.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

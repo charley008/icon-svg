@@ -1,0 +1,42 @@
+{
+  "collection_id": 2161,
+  "schema_version": 1,
+  "id": 2388,
+  "title": "Platzi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "platzi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 599,
+      "collection": "Dashboard Icons",
+      "file": "platzi.svg",
+      "id": 3854,
+      "is_default": true,
+      "label": "platzi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "platzi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbcf2bc0c7aea5711f027eb4b5bec54d26dc6f1aa4260468ee49cde4c6c3cef9"
+      },
+      "sha256": "314480b434b0814c1ca9333e597e8b2993fe486a4cd1ecc018a59d4cd66675bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/platzi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

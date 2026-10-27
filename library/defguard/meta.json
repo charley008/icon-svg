@@ -1,0 +1,40 @@
+{
+  "collection_id": 1085,
+  "schema_version": 1,
+  "id": 1312,
+  "title": "Defguard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "defguard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 633,
+      "collection": "Dashboard Icons",
+      "file": "defguard.svg",
+      "id": 2408,
+      "is_default": true,
+      "label": "defguard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "defguard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f33c2828d8ab80a1f5082854ea642f9499de55bb92782fe8dd7e8d4d9e834fd9"
+      },
+      "sha256": "d208ac1cce42d45cc78c55d0b0e5536c04c6bca61593dd5e212da284981a5cbd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/defguard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

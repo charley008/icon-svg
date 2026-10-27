@@ -1,4 +1,7 @@
 {
+  "collection_id": 619,
+  "schema_version": 1,
+  "id": 844,
   "title": "Stremio",
   "url": "https://www.stremio.com/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "stremio.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8c681936139e1f17532e1a83b44d35480383acf0267b872aa794311637f7a1bd",
       "bytes": 600,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stremio.svg",
+      "collection": "Dashboard Icons",
+      "file": "stremio.svg",
+      "id": 1801,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "stremio.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8c681936139e1f17532e1a83b44d35480383acf0267b872aa794311637f7a1bd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stremio.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

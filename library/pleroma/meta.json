@@ -1,0 +1,40 @@
+{
+  "collection_id": 2164,
+  "schema_version": 1,
+  "id": 2391,
+  "title": "Pleroma",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pleroma"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 552,
+      "collection": "Dashboard Icons",
+      "file": "pleroma.svg",
+      "id": 3857,
+      "is_default": true,
+      "label": "pleroma",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pleroma.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f62b3072cc312c71078b49086370573155572d07cdfb3552630d30606bbc9861"
+      },
+      "sha256": "ee8e944262eb8b63018befef786d53f5f30d49231eda22e9cd6ed6b51483d388",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pleroma.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

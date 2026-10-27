@@ -1,0 +1,45 @@
+{
+  "collection_id": 1257,
+  "schema_version": 1,
+  "id": 1484,
+  "title": "Fider",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Office-Suites",
+    "开发编程"
+  ],
+  "aliases": [
+    "fider",
+    "feature-requests",
+    "idea-voting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4933,
+      "collection": "Dashboard Icons",
+      "file": "fider.svg",
+      "id": 2639,
+      "is_default": true,
+      "label": "fider",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fider.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a145051193cc47700de0e24573eb775b09aa4df265c961f39a60b238acb8fd2"
+      },
+      "sha256": "7276669b2f6daed83ad8c6a612ff47f7a0acd331dbadf78011d997afeb23bd5c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fider.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

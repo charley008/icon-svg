@@ -1,0 +1,40 @@
+{
+  "collection_id": 1964,
+  "schema_version": 1,
+  "id": 2191,
+  "title": "Novapdf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "novapdf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1733,
+      "collection": "Dashboard Icons",
+      "file": "novapdf.svg",
+      "id": 3570,
+      "is_default": true,
+      "label": "novapdf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "novapdf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ebf423b8d857d822c0455a4a073cc06ccd4d7e08906ef3e8ca43e9c6b3b50b4"
+      },
+      "sha256": "0afa2f52df8d85cf0314e7551ae76a1dafb98459783c9d25d7428b66acf27923",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/novapdf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

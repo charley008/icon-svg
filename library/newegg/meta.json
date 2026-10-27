@@ -1,0 +1,40 @@
+{
+  "collection_id": 1912,
+  "schema_version": 1,
+  "id": 2139,
+  "title": "Newegg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "newegg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5998,
+      "collection": "Dashboard Icons",
+      "file": "newegg.svg",
+      "id": 3504,
+      "is_default": true,
+      "label": "newegg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "newegg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b0e167ddf5106b0714045a8f9bd6d620b1128dfd900b8f731ac32fa6b485a558"
+      },
+      "sha256": "08457d88bfcb5e204bc420723f30dd9e91103c3afd595054e1cff820bc3a533f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/newegg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

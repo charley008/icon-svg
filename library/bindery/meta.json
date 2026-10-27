@@ -1,0 +1,40 @@
+{
+  "collection_id": 869,
+  "schema_version": 1,
+  "id": 1096,
+  "title": "Bindery",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bindery"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1045,
+      "collection": "Dashboard Icons",
+      "file": "bindery.svg",
+      "id": 2120,
+      "is_default": true,
+      "label": "bindery",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bindery.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb73ec1551413ac10447be7c96486e6d02f4d1b6ddcc692e7f1095915f852ff7"
+      },
+      "sha256": "24a250d98bbb13369e32ea1e2db7d918902442dc70aecb4075168d40a57f30c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bindery.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

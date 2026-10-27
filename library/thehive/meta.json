@@ -1,0 +1,40 @@
+{
+  "collection_id": 2787,
+  "schema_version": 1,
+  "id": 3014,
+  "title": "Thehive",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thehive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1318,
+      "collection": "Dashboard Icons",
+      "file": "thehive.svg",
+      "id": 4667,
+      "is_default": true,
+      "label": "thehive",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thehive.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d9b7e3474d96de1f353cf88bb6f679c8caab6315341c524ae934eeb37533420"
+      },
+      "sha256": "a28fe92344e72738104d23f66e188219227000230a5c72f07f18bd17c51cd427",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thehive.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

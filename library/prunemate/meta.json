@@ -1,0 +1,40 @@
+{
+  "collection_id": 2230,
+  "schema_version": 1,
+  "id": 2457,
+  "title": "Prunemate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "prunemate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2318,
+      "collection": "Dashboard Icons",
+      "file": "prunemate.svg",
+      "id": 3954,
+      "is_default": true,
+      "label": "prunemate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prunemate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d0689b33581d0f080f3fae3d0ac6052f281f6bf4526f1f8dfc25f332bc36e3df"
+      },
+      "sha256": "bf9e551a596816b9665d7fbd2e1f86c700d30327ab215feaf4f0e404c3a87679",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prunemate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

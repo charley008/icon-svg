@@ -1,0 +1,40 @@
+{
+  "collection_id": 2462,
+  "schema_version": 1,
+  "id": 2689,
+  "title": "Rainloop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rainloop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1592,
+      "collection": "Dashboard Icons",
+      "file": "rainloop.svg",
+      "id": 4252,
+      "is_default": true,
+      "label": "rainloop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rainloop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "773eee2c42678f3b29c22e7d7da69cdc2559e4dd55afa750a815877008b1c581"
+      },
+      "sha256": "453fccd463f5fa307c36991ee6a6ff81e02f8fc63234d8820ba14734700c1b8d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rainloop.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

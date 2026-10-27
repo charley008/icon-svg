@@ -1,0 +1,40 @@
+{
+  "collection_id": 1707,
+  "schema_version": 1,
+  "id": 1934,
+  "title": "Limesurvey",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "limesurvey"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3258,
+      "collection": "Dashboard Icons",
+      "file": "limesurvey.svg",
+      "id": 3226,
+      "is_default": true,
+      "label": "limesurvey",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "limesurvey.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ba5415aaec4593b4afe833943d3bca4e59e3ff67a8ffc0a2517aa51dae980c01"
+      },
+      "sha256": "a4178ca1eca8d3dfcca9dbaf7d2685370605f57ccbde9d95af6efce4b544af13",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/limesurvey.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

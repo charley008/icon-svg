@@ -1,0 +1,40 @@
+{
+  "collection_id": 2706,
+  "schema_version": 1,
+  "id": 2933,
+  "title": "Stormkit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stormkit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 540,
+      "collection": "Dashboard Icons",
+      "file": "stormkit.svg",
+      "id": 4565,
+      "is_default": true,
+      "label": "stormkit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stormkit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c6e813d4bf80167336dc470d1328010eaa3e2964eae1a8bf608467b43bcf532"
+      },
+      "sha256": "0fd28da0528bf97b7bb2d3204540041d243897a516c9359077bf3406c2bd859d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stormkit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

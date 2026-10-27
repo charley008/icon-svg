@@ -1,0 +1,59 @@
+{
+  "collection_id": 2905,
+  "schema_version": 1,
+  "id": 3132,
+  "title": "Victoriametrics",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "victoriametrics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 556,
+      "collection": "Dashboard Icons",
+      "file": "victoriametrics.svg",
+      "id": 4824,
+      "is_default": true,
+      "label": "victoriametrics",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "victoriametrics.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a7afa66f2c1270285e0ef4d7563021de6f5e6de428ca97e80248c18a35f46917"
+      },
+      "sha256": "70464ad3192dfcd6d418317ad760d75d7c19f22fd89c21edba75a5ba6bfbc86e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/victoriametrics.svg",
+      "version": 0
+    },
+    {
+      "bytes": 571,
+      "collection": "Dashboard Icons",
+      "file": "victoriametrics-1.svg",
+      "id": 4825,
+      "is_default": false,
+      "label": "victoriametrics-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "victoriametrics-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ea5750a527988f22a1034c3960646c065d5d7ecf326d9aa15ea678fd23278da"
+      },
+      "sha256": "9489cfa0340eb24cc37f78196e4b69654be35f10ef87bb7bfdcfe07412aa9673",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/victoriametrics-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

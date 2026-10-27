@@ -1,0 +1,60 @@
+{
+  "collection_id": 2011,
+  "schema_version": 1,
+  "id": 2238,
+  "title": "Onshape",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons",
+    "Design"
+  ],
+  "aliases": [
+    "onshape"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1100,
+      "collection": "Dashboard Icons",
+      "file": "onshape.svg",
+      "id": 3637,
+      "is_default": true,
+      "label": "onshape",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onshape.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1012fa45d01c6f4456dcee4fa4f320340e59e63db1ee833da0e923ade33e8828"
+      },
+      "sha256": "7556e8850a8d9fd4a83c548c6ea8a00aa033c8dfce3ab0094e42691f406a98d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onshape.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1077,
+      "collection": "Dashboard Icons",
+      "file": "onshape-1.svg",
+      "id": 3638,
+      "is_default": false,
+      "label": "onshape-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onshape-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8081d5afc66b447b57cf38c32ed4f0012be66bc603919a1423cff289d5149d7a"
+      },
+      "sha256": "bd902338036eb1f4a074347f66761341e8e8e826f41b87b7670118b5aaea5318",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onshape-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

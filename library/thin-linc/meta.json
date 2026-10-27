@@ -1,0 +1,41 @@
+{
+  "collection_id": 2791,
+  "schema_version": 1,
+  "id": 3018,
+  "title": "Thin Linc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware"
+  ],
+  "aliases": [
+    "thin-linc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 887,
+      "collection": "Dashboard Icons",
+      "file": "thin-linc.svg",
+      "id": 4672,
+      "is_default": true,
+      "label": "thin-linc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thin-linc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2430c19e8d5b765ff6525fbbd4a367b544f0cd6e5830dc022dd85fd8864b6d9"
+      },
+      "sha256": "6d03950f6db2455398e083448605fa51f0a69c7642ff84225a89ab1a9e33ef86",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thin-linc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

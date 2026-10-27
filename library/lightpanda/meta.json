@@ -1,0 +1,40 @@
+{
+  "collection_id": 1705,
+  "schema_version": 1,
+  "id": 1932,
+  "title": "Lightpanda",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lightpanda"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6323,
+      "collection": "Dashboard Icons",
+      "file": "lightpanda.svg",
+      "id": 3224,
+      "is_default": true,
+      "label": "lightpanda",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lightpanda.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "738e5dfec3d315a4aca5e0c39d86d38f86c6026218c47cb53bbfbb9c197ebbd2"
+      },
+      "sha256": "9fd56b6d4c3ccbdd55d4a1a441b8d9f7c26b3130fd23b1ef54ce620fdd0f20a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lightpanda.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1331,
+  "schema_version": 1,
+  "id": 1558,
+  "title": "Freshping",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freshping"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 597,
+      "collection": "Dashboard Icons",
+      "file": "freshping.svg",
+      "id": 2724,
+      "is_default": true,
+      "label": "freshping",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freshping.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f4f297e82cf75f1d4ffc3241705031645cd873d8ed6cffc717ebcbea36dc59b"
+      },
+      "sha256": "931ef7b480002c7e457915dcdc3d5cd2cf6f6d23ec001b8db1a4ee8bd0b41ddd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freshping.svg",
+      "version": 0
+    },
+    {
+      "bytes": 609,
+      "collection": "Dashboard Icons",
+      "file": "freshping-1.svg",
+      "id": 2725,
+      "is_default": false,
+      "label": "freshping-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freshping-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb4a5db177bb9b832853a4c288fb003588ee2e6d0bdb26d24e9c7e8b63e9d1b6"
+      },
+      "sha256": "a6382d6547ffdf172da25649accb3f2d3b97a50a358ce74ae4ab5b2aa1e8216b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freshping-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

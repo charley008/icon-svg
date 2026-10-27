@@ -1,0 +1,40 @@
+{
+  "collection_id": 2086,
+  "schema_version": 1,
+  "id": 2313,
+  "title": "Papercut",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "papercut"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1394,
+      "collection": "Dashboard Icons",
+      "file": "papercut.svg",
+      "id": 3745,
+      "is_default": true,
+      "label": "papercut",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "papercut.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a9a7446834564f2179fcf79c9ac1057fd5fca8a617640b8afd728f18a2f178a0"
+      },
+      "sha256": "9f58b23f74c46709897c084f6b2345d36c54f25228ade9d3d029cc805d49396c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/papercut.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

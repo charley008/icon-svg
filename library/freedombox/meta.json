@@ -1,0 +1,40 @@
+{
+  "collection_id": 1325,
+  "schema_version": 1,
+  "id": 1552,
+  "title": "Freedombox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freedombox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1428,
+      "collection": "Dashboard Icons",
+      "file": "freedombox.svg",
+      "id": 2718,
+      "is_default": true,
+      "label": "freedombox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freedombox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2507b00b2fe2dd5d48418eac7d65a842fb27109402470f750147f3ffac13b30"
+      },
+      "sha256": "882dfdeecc6437c0215fd3579e0310dd4265fb9a3bed3bab066156c8e760cf3a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freedombox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1943,
+  "schema_version": 1,
+  "id": 2170,
+  "title": "Nicotine Plus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Download-Managers",
+    "网络工具"
+  ],
+  "aliases": [
+    "nicotine-plus",
+    "Soulseek Client"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 838,
+      "collection": "Dashboard Icons",
+      "file": "nicotine-plus.svg",
+      "id": 3542,
+      "is_default": true,
+      "label": "nicotine-plus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nicotine-plus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "30331bdb6a0e5eb0fa39c20a6048151433a164bca488fc75a1123a13c294fb6c"
+      },
+      "sha256": "0506ffcc34a8e6cad792c0828c99778366371cd8f166b0f2a9544f67725fc9b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nicotine-plus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 2493,
+  "schema_version": 1,
+  "id": 2720,
+  "title": "Renovate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "renovate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4707,
+      "collection": "Dashboard Icons",
+      "file": "renovate.svg",
+      "id": 4292,
+      "is_default": true,
+      "label": "renovate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "renovate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae86ebfea7113fef4086087d7a415891b57a4809007b354cea97997bba316826"
+      },
+      "sha256": "15bac06452754a8bee064e656680703d56e30ffc220192dbbfbfd86bb14ee4f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/renovate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

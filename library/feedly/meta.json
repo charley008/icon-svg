@@ -1,0 +1,40 @@
+{
+  "collection_id": 1249,
+  "schema_version": 1,
+  "id": 1476,
+  "title": "Feedly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "feedly"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 878,
+      "collection": "Dashboard Icons",
+      "file": "feedly.svg",
+      "id": 2629,
+      "is_default": true,
+      "label": "feedly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "feedly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c67597e1eb9199084a1b67965825b7e022d572b2ea5ea9163f49d35029d5b518"
+      },
+      "sha256": "233fdcf15429fdc27ff56956c72b1ad97aba18fbe680983125ed567110517eca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/feedly.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

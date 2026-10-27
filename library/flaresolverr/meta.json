@@ -1,0 +1,40 @@
+{
+  "collection_id": 1285,
+  "schema_version": 1,
+  "id": 1512,
+  "title": "Flaresolverr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flaresolverr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3553,
+      "collection": "Dashboard Icons",
+      "file": "flaresolverr.svg",
+      "id": 2670,
+      "is_default": true,
+      "label": "flaresolverr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flaresolverr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c12ad8598f4faa9268557b51970b2c42c39461b8178ae88faef3a08088e44dbb"
+      },
+      "sha256": "a45ac16220db47a43b1ca3b647136b5524d693dfb750338365601dfa3ea3c00b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flaresolverr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

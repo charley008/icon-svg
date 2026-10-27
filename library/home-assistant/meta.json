@@ -1,4 +1,7 @@
 {
+  "collection_id": 543,
+  "schema_version": 1,
+  "id": 744,
   "title": "Home Assistant",
   "url": "https://www.home-assistant.io/",
   "domains": [
@@ -21,23 +24,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "home-assistant.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "146b366b8c09502742025c4bca4e029e8e4a1b277db837d59a23b93940ebe0e0",
       "bytes": 879,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/home-assistant.svg",
+      "collection": "Dashboard Icons",
+      "file": "home-assistant.svg",
+      "id": 1703,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "home-assistant.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "146b366b8c09502742025c4bca4e029e8e4a1b277db837d59a23b93940ebe0e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/home-assistant.svg",
+      "version": 0
+    },
+    {
+      "bytes": 981,
+      "collection": "Dashboard Icons",
+      "file": "home-assistant-1.svg",
+      "id": 2946,
+      "is_default": false,
+      "label": "home-assistant-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "home-assistant-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "121ca29f85266b6012cac1f4fee84ec229c2afbe11fedee412d545606dfc8f60"
+      },
+      "sha256": "fa0b160a25369753f66cd8edc78cb841c6d028667d967ddfff3ba37e8681808e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/home-assistant-alt.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

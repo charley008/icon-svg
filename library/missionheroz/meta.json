@@ -1,0 +1,40 @@
+{
+  "collection_id": 1830,
+  "schema_version": 1,
+  "id": 2057,
+  "title": "Missionheroz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "missionheroz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 928,
+      "collection": "Dashboard Icons",
+      "file": "missionheroz.svg",
+      "id": 3394,
+      "is_default": true,
+      "label": "missionheroz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "missionheroz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "47485a7037f66a5076153e55fbc7b2a6428ca5611f6301426d6ea2c5d5cf6ca9"
+      },
+      "sha256": "291413870412da3efbf7f5e52ab05331b805100eb1ea042851440e4f7a186fd1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/missionheroz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

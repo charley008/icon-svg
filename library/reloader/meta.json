@@ -1,0 +1,40 @@
+{
+  "collection_id": 2489,
+  "schema_version": 1,
+  "id": 2716,
+  "title": "Reloader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "reloader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16800,
+      "collection": "Dashboard Icons",
+      "file": "reloader.svg",
+      "id": 4288,
+      "is_default": true,
+      "label": "reloader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reloader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "615e3182192d0d9b61b2022c1745006c5d9a1eee428c5bd493f35ffa5889379b"
+      },
+      "sha256": "26c34f0c1326bb8050a16fbfb2e850a473c551ad136467dd1aa773be57db5bf3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/reloader.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

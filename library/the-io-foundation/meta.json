@@ -1,0 +1,105 @@
+{
+  "collection_id": 2781,
+  "schema_version": 1,
+  "id": 3008,
+  "redirect_from": [
+    3009,
+    3010
+  ],
+  "title": "The Io Foundation",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "the-io-foundation",
+    "the-io-foundation-wordmark-light",
+    "The Io Foundation Wordmark Light",
+    "the-io-foundation-wordmark-dark",
+    "The Io Foundation Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 340185,
+      "collection": "Dashboard Icons",
+      "file": "the-io-foundation.svg",
+      "id": 4660,
+      "is_default": true,
+      "label": "the-io-foundation",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-io-foundation.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "316a44acf88c259b9529608037b352ff2350552e8a0084ab5c3eaee62039eb2f"
+      },
+      "sha256": "f20a71bf3fcb8de6035f7c19f526e7d2bc92e9e983d9cd4a77636fc028df8f0f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/the-io-foundation.svg",
+      "version": 0
+    },
+    {
+      "bytes": 340185,
+      "collection": "Dashboard Icons",
+      "file": "the-io-foundation-1.svg",
+      "id": 4661,
+      "is_default": false,
+      "label": "the-io-foundation-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-io-foundation-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ce23a1048baa3e9b08bf6ae8330308af8675cff12f6e664d859a09c8127a7a4"
+      },
+      "sha256": "d1fd6d071337e989bffcca45c187c2d20d0066565467cebaf957f72afabdf7ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/the-io-foundation-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1160,
+      "collection": "Dashboard Icons",
+      "file": "the-io-foundation-2.svg",
+      "id": 4663,
+      "is_default": false,
+      "label": "the-io-foundation-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-io-foundation-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0bde060586525bd9bdd3a001fed638f2e766ae3a514c821465faba0388539017"
+      },
+      "sha256": "57bf593bd0bf44d0471f9b13719cd8cb0aece6862ed3bac73f03606301e9fc4b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/the-io-foundation-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1160,
+      "collection": "Dashboard Icons",
+      "file": "the-io-foundation-3.svg",
+      "id": 4662,
+      "is_default": false,
+      "label": "the-io-foundation-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "the-io-foundation-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b6f494e182b9a68980ef8f2b961f75a526f667ff9258391c5d288c9839264156"
+      },
+      "sha256": "31aecc06e110a25d7288c880f0dbe24086dece2804c08ba942826e1b9a09773f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/the-io-foundation-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

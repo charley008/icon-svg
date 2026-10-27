@@ -1,0 +1,64 @@
+{
+  "collection_id": 1020,
+  "schema_version": 1,
+  "id": 1247,
+  "title": "Converse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Communication",
+    "网络工具"
+  ],
+  "aliases": [
+    "converse",
+    "xmpp-chat-client",
+    "instant-messaging-app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 692,
+      "collection": "Dashboard Icons",
+      "file": "converse.svg",
+      "id": 2323,
+      "is_default": true,
+      "label": "converse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "converse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "149f5622e879b440c3c217ce7358b102df9022f59ca407798a8f727de52fd489"
+      },
+      "sha256": "b04f0b6759c3ee077e46165e4d6953d43d52516073d892163b902fc1881b6f60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/converse.svg",
+      "version": 0
+    },
+    {
+      "bytes": 711,
+      "collection": "Dashboard Icons",
+      "file": "converse-1.svg",
+      "id": 2324,
+      "is_default": false,
+      "label": "converse-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "converse-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a7cc97baa41cb10771fbf16a393f2dc5dff4670662521d8d66ef698b025e3ef"
+      },
+      "sha256": "f66c2c9f817a27d38e640018ce8313fa53bdc3e52ad3341ea0c3be6cc87f6bfa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/converse-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

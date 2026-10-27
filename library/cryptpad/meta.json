@@ -1,0 +1,45 @@
+{
+  "collection_id": 1048,
+  "schema_version": 1,
+  "id": 1275,
+  "title": "Cryptpad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "File-Sharing-\u0026-Sync",
+    "办公效率"
+  ],
+  "aliases": [
+    "cryptpad",
+    "encrypted-office-suite",
+    "private-document-editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1231,
+      "collection": "Dashboard Icons",
+      "file": "cryptpad.svg",
+      "id": 2358,
+      "is_default": true,
+      "label": "cryptpad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cryptpad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16a86b783b3687df8bb8fccc1e52f3f3a307aeb36ddd59ebec8ad1cd8dad622a"
+      },
+      "sha256": "fb2fb5b7fd8dff7c3b0f181e6169499cfb0d7505b1e80c1fc0b8adeb67d8dcd8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cryptpad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

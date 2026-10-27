@@ -1,0 +1,59 @@
+{
+  "collection_id": 1945,
+  "schema_version": 1,
+  "id": 2172,
+  "title": "Nightscout",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nightscout"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3841,
+      "collection": "Dashboard Icons",
+      "file": "nightscout.svg",
+      "id": 3544,
+      "is_default": true,
+      "label": "nightscout",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nightscout.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a4f7de4a39fdaf1243c9221197aef3c2006646f5e9ebbe7664305d93f7fb82b"
+      },
+      "sha256": "b2dcb35fc468c8fc701fd6302670dedb0750040e46afd4b56aeb71d36bf2208e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nightscout.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3860,
+      "collection": "Dashboard Icons",
+      "file": "nightscout-1.svg",
+      "id": 3545,
+      "is_default": false,
+      "label": "nightscout-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nightscout-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5716f8c6d32c399b99c8b48360126fbcda12411330767dde2fb42d769d4bf656"
+      },
+      "sha256": "812f2870c3c3abd82b1fedd5807f5a1f49b29f7bc515ca27468687b7d8faa97d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nightscout-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

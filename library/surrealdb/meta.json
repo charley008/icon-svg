@@ -1,0 +1,40 @@
+{
+  "collection_id": 2720,
+  "schema_version": 1,
+  "id": 2947,
+  "title": "Surrealdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "surrealdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1294,
+      "collection": "Dashboard Icons",
+      "file": "surrealdb.svg",
+      "id": 4582,
+      "is_default": true,
+      "label": "surrealdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "surrealdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9542e6e783d01b7b4d31f84a0579a2f424875b69508e594e279b11d81210d634"
+      },
+      "sha256": "e63a2886be13e2c651ffc7783a524aee4d52e8c46115c8a4b8bb07e555c1b98d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/surrealdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

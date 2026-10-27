@@ -1,0 +1,40 @@
+{
+  "collection_id": 1620,
+  "schema_version": 1,
+  "id": 1847,
+  "title": "Kbin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kbin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1058,
+      "collection": "Dashboard Icons",
+      "file": "kbin.svg",
+      "id": 3115,
+      "is_default": true,
+      "label": "kbin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kbin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ceeb9f873f081dcecf62ec451185990b030a967c6dda6f8a61e11c676187d43b"
+      },
+      "sha256": "79beb2939441b785e3f59e28b18c3cbd7b4b335e31161710d8287155510c20e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kbin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

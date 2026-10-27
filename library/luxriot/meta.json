@@ -1,0 +1,43 @@
+{
+  "collection_id": 1751,
+  "schema_version": 1,
+  "id": 1978,
+  "title": "Luxriot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Video",
+    "网络工具"
+  ],
+  "aliases": [
+    "luxriot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2449,
+      "collection": "Dashboard Icons",
+      "file": "luxriot.svg",
+      "id": 3280,
+      "is_default": true,
+      "label": "luxriot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "luxriot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a4ccfba246a62496c2845657ac4af84f9755b00cc915d6b541dc4495789bcee"
+      },
+      "sha256": "d04860e8699aa4d19c28e84c9526031186440bd909b13c948b3cb71eae11373b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/luxriot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

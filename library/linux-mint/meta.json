@@ -1,4 +1,7 @@
 {
+  "collection_id": 562,
+  "schema_version": 1,
+  "id": 766,
   "title": "Linux Mint",
   "url": "https://linuxmint.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "linux-mint.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "ddd18c64f005f8b7c3feb33f1b00685c2609571667e897679f5677065ae17e6f",
       "bytes": 528,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linux-mint.svg",
+      "collection": "Dashboard Icons",
+      "file": "linux-mint.svg",
+      "id": 1724,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "linux-mint.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "ddd18c64f005f8b7c3feb33f1b00685c2609571667e897679f5677065ae17e6f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linux-mint.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

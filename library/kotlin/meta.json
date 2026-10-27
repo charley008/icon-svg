@@ -1,0 +1,79 @@
+{
+  "collection_id": 1660,
+  "schema_version": 1,
+  "id": 1887,
+  "title": "Kotlin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kotlin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1515,
+      "collection": "Dashboard Icons",
+      "file": "kotlin.svg",
+      "id": 3161,
+      "is_default": true,
+      "label": "kotlin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kotlin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5ec76a8ba01c53062285bc99ccc35e88c38c178cf58e77ea86fff9db0a1fb891"
+      },
+      "sha256": "a041744374641f9000414526688da447ca3f4815559a9c6ac87877f6dd9760ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kotlin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 81367,
+      "collection": "Dashboard Icons",
+      "file": "kotlin-1.svg",
+      "id": 3162,
+      "is_default": false,
+      "label": "kotlin-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kotlin-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "30902db0af154d01248c393c15fbdbb8807bf23f4ad570dd56214b8bc757f01c"
+      },
+      "sha256": "bb7dd13b7594ad7924cf2f76e1c999a0c29ea97b9c6a4ac10e094aa70e236bbe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kotlin-kawaii.svg",
+      "version": 1
+    },
+    {
+      "bytes": 544,
+      "collection": "TechIcons / Devicon",
+      "file": "kotlin-2.svg",
+      "id": 5242,
+      "is_default": false,
+      "label": "TechIcons · Kotlin",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Kotlin.svg",
+        "original_sha256": "5053c2e1288582d1ac2cfc1e807eabb7f6059b1aa2f7d04e5cf00063682a2cbe",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/kotlin",
+        "reference_website": "https://kotlinlang.org"
+      },
+      "sha256": "b73be9e596d5ec529811d0853c120f863a3159be7a6b1e2fe2ec689e032f4211",
+      "source": "https://techicons.dev/icons/kotlin",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

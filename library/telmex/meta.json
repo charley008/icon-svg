@@ -1,0 +1,40 @@
+{
+  "collection_id": 2765,
+  "schema_version": 1,
+  "id": 2992,
+  "title": "Telmex",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "telmex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2301,
+      "collection": "Dashboard Icons",
+      "file": "telmex.svg",
+      "id": 4640,
+      "is_default": true,
+      "label": "telmex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telmex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cbc96bd0a2dd370348cc760df64ca4a6b9b783df543c395c57b44cbd345ca291"
+      },
+      "sha256": "52429b8a34f3b8996fd74e0abc529eb0c2132122294040d06a89b58847181861",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telmex.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

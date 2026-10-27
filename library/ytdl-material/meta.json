@@ -1,0 +1,40 @@
+{
+  "collection_id": 3035,
+  "schema_version": 1,
+  "id": 3262,
+  "title": "Ytdl Material",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ytdl-material"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 905,
+      "collection": "Dashboard Icons",
+      "file": "ytdl-material.svg",
+      "id": 4993,
+      "is_default": true,
+      "label": "ytdl-material",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ytdl-material.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b37da72b2b160809031a873c6fa3c2d9216b2ed9c84618442e524c5498aeeb9e"
+      },
+      "sha256": "026c511e76a91e4a6f93b48584624ef597bfea0e71446f713904baa8c74b4e14",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ytdl-material.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2097,
+  "schema_version": 1,
+  "id": 2324,
+  "title": "Part Db",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "part-db"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2385,
+      "collection": "Dashboard Icons",
+      "file": "part-db.svg",
+      "id": 3762,
+      "is_default": true,
+      "label": "part-db",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "part-db.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02229cd3bf2e7a64e61811f2117725fec5bcf32a5b2f933311a305ce8f5c9a4e"
+      },
+      "sha256": "60b3627c6c3be15b9b0e51a3dcbeb8b01a7bd4965292303824db8a2644678ab8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/part-db.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2397,
+      "collection": "Dashboard Icons",
+      "file": "part-db-1.svg",
+      "id": 3763,
+      "is_default": false,
+      "label": "part-db-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "part-db-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb4cb4c72365113b11712b851a1b20a3e96aa182ff753d0b4125ffbe4009c879"
+      },
+      "sha256": "2a96e81cb5c70be92ba9a39806bbec87377bc5c597f8e7d2ba7dc8ad5f34ec20",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/part-db-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

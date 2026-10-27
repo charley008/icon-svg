@@ -121,8 +121,27 @@
       "sha256": "dd7eb27e29c9986de257074683fd36e12a859e9f6251fa8033330217af47ff15",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/figma.svg",
       "version": 4
+    },
+    {
+      "bytes": 63007,
+      "collection": "Dashboard Icons",
+      "file": "figma-5.svg",
+      "id": 2640,
+      "is_default": false,
+      "label": "figma-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "figma-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed043ab651f7be290b9146d47b318659a41829834afbe695f37ab6a225b9a02a"
+      },
+      "sha256": "d89f4bfb07c1fd7b5476755abe465308ab0f035dfcb0cc1cb4dfa4bcb41be074",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/figma-kawaii.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

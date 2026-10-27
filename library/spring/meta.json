@@ -1,0 +1,45 @@
+{
+  "collection_id": 3237,
+  "schema_version": 1,
+  "id": 3500,
+  "title": "Spring",
+  "url": "https://spring.io",
+  "domains": [
+    "spring.io"
+  ],
+  "description": "Java 生态的应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Spring",
+    "spring"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 982,
+      "collection": "TechIcons / Devicon",
+      "file": "spring-1.svg",
+      "id": 5365,
+      "is_default": true,
+      "label": "TechIcons · Spring",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Spring.svg",
+        "original_sha256": "4f6db3b72ca13107d0ec046e69ebececf9960710550641d3f37969f05c444ef3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/spring",
+        "reference_website": "https://spring.io"
+      },
+      "sha256": "e2680d8118d80be80e3dff597b8a708632cc37876c113510e7c2b1dce5b9ace4",
+      "source": "https://techicons.dev/icons/spring",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

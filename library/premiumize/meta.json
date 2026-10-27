@@ -1,0 +1,40 @@
+{
+  "collection_id": 2203,
+  "schema_version": 1,
+  "id": 2430,
+  "title": "Premiumize",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "premiumize"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 600,
+      "collection": "Dashboard Icons",
+      "file": "premiumize.svg",
+      "id": 3919,
+      "is_default": true,
+      "label": "premiumize",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "premiumize.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c1072bc82733638de0a86c7d55a38cf2a17814111917026ae6c6570a45c668c"
+      },
+      "sha256": "6d7a61067bd153823d54aae473c5b9ad472587c02549ecdf10452019edef791a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/premiumize.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

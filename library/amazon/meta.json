@@ -167,6 +167,45 @@
   "next_version": 6,
   "products": [
     {
+      "id": 917,
+      "key": "alexa",
+      "title": "Alexa",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons",
+        "Media"
+      ],
+      "aliases": [
+        "alexa"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2401,
+          "collection": "Dashboard Icons",
+          "file": "amazon-alexa.svg",
+          "id": 1882,
+          "is_default": true,
+          "label": "alexa",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "alexa.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "35e10f5c12c08ea8411cd58d68b1d87c61c0c1e1f9c1ebbd3e35693d18b4d405"
+          },
+          "sha256": "4cf40ab42e6272e9e5358bf165510829ac257abeaf23f5b307099b1f70b00cfd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alexa.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 59,
       "key": "audible",
       "title": "Audible",
@@ -391,9 +430,147 @@
           "sha256": "63ec6e87d4f0ad13f14d45e641b16e029987a291e6d47457c4b7975fd9cec2ab",
           "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/aws/mono.svg",
           "version": 4
+        },
+        {
+          "bytes": 2994,
+          "collection": "Dashboard Icons",
+          "file": "amazon-aws-5.svg",
+          "id": 1890,
+          "is_default": false,
+          "label": "amazon-web-services",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "amazon-web-services.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3ab3e2114a4e7fca84f2da92f8ab982d9d6d304d049db0dafbd9c3f2b0e44801"
+          },
+          "sha256": "f278ece1016a68876180a427aaa336dce0b70e0ec3a36f04e9c0eb9ee8a692d9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-web-services.svg",
+          "version": 5
+        },
+        {
+          "bytes": 3018,
+          "collection": "Dashboard Icons",
+          "file": "amazon-aws-6.svg",
+          "id": 1891,
+          "is_default": false,
+          "label": "amazon-web-services-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "amazon-web-services-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5e926f4b4e3e5fd2fd3110136244062cfe9d30d7fc27a60b2e2ece308a9b22da"
+          },
+          "sha256": "9c785f554dcdf30fc82ce67249c65682a2e504ba6e77752b15a09ce1521adabc",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-web-services-light.svg",
+          "version": 6
         }
       ],
-      "next_version": 5
+      "next_version": 7
+    },
+    {
+      "id": 1028,
+      "redirect_from": [
+        1029
+      ],
+      "key": "aws-dynamodb",
+      "title": "Aws Dynamodb",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "aws-dynamodb",
+        "aws-dynamodb-logo",
+        "Aws Dynamodb Logo"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 35190,
+          "collection": "Dashboard Icons",
+          "file": "amazon-aws-dynamodb.svg",
+          "id": 2034,
+          "is_default": true,
+          "label": "aws-dynamodb",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-dynamodb.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5468837b9f8c9e9720765a2e503337e66978990d2e0d9e67181f9448a681e743"
+          },
+          "sha256": "c92c9026f7a1b7b0f5860c82f50a67e233ecda55d5f5bab7bea4d80df2680ee0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aws-dynamodb.svg",
+          "version": 0
+        },
+        {
+          "bytes": 12177,
+          "collection": "Dashboard Icons",
+          "file": "amazon-aws-dynamodb-1.svg",
+          "id": 2035,
+          "is_default": false,
+          "label": "aws-dynamodb-logo",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-dynamodb-logo.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e01b30e482fce425653ba93ec0b351ea64653b61fa31df24827ab26ed762b8d0"
+          },
+          "sha256": "109bd32b2da8e2984d64d14285121b892c0f929489698edbdc95598d330bf207",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aws-dynamodb-logo.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1030,
+      "key": "aws-ecs",
+      "title": "Aws Ecs",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "aws-ecs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1846,
+          "collection": "Dashboard Icons",
+          "file": "amazon-aws-ecs.svg",
+          "id": 2036,
+          "is_default": true,
+          "label": "aws-ecs",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "aws-ecs.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0725a894316a9e044c380503d2e1b0ea7287608b5ff902c3110d345cd3a614e0"
+          },
+          "sha256": "a6b41d8fdc097b5cd2bb1ba3036c81401c9db6502f4c0cdc394feb954190ddb7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aws-ecs.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 61,
@@ -484,7 +661,90 @@
       "next_version": 3
     },
     {
+      "id": 924,
+      "key": "luna",
+      "title": "Amazon Luna",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "游戏",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "amazon-luna"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1239,
+          "collection": "Dashboard Icons",
+          "file": "amazon-luna.svg",
+          "id": 1892,
+          "is_default": true,
+          "label": "amazon-luna",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "amazon-luna.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e6dc2c03542f68ac4e13395790b0f18f028e0fec26b45abf7cd0748bde66a83a"
+          },
+          "sha256": "f2c9abb56a85029dcfc508cf5cf8f3f83549e9767f322a3ff5dbeb77029a94de",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-luna.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 925,
+      "key": "prime",
+      "title": "Amazon Prime",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons",
+        "Video-Streaming",
+        "影音娱乐"
+      ],
+      "aliases": [
+        "amazon-prime",
+        "prime-video",
+        "amazon-video"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3098,
+          "collection": "Dashboard Icons",
+          "file": "amazon-prime.svg",
+          "id": 1893,
+          "is_default": true,
+          "label": "amazon-prime",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "amazon-prime.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0dce3142ffc60f58a539ac8fc72e25b66bee57d6238f525d40c41275994cf671"
+          },
+          "sha256": "8fab4c584a271f17f3fcf2e4b501d48f1e68bf8b49c862e7d3a4d1b9fd2ec48a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amazon-prime.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 62,
+      "redirect_from": [
+        2434
+      ],
       "key": "prime-video",
       "title": "Prime video",
       "url": "https://primevideo.com",
@@ -504,7 +764,8 @@
         "primevideo.com"
       ],
       "aliases": [
-        "prime-video"
+        "prime-video",
+        "Prime Video"
       ],
       "notes": [],
       "icons": [
@@ -566,9 +827,47 @@
           "sha256": "a3a310d26ad80bc6daffd9981c7ce5cfae9b720b45da9d565a1c8ad690eb0901",
           "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prime-video-light.svg",
           "version": 2
+        },
+        {
+          "bytes": 6874,
+          "collection": "Dashboard Icons",
+          "file": "amazon-prime-video-3.svg",
+          "id": 3923,
+          "is_default": false,
+          "label": "Prime Video",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "prime-video.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "4bf28047e7e55a3735405b9ae7cdac5870e08978c9afbcb0b9772f1dbea6ee6a"
+          },
+          "sha256": "01c0269dada4e440d4a3919ae70b9b37fc9336acd8b33ea3d879c363d30cf382",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prime-video.svg",
+          "version": 3
+        },
+        {
+          "bytes": 17658,
+          "collection": "Dashboard Icons",
+          "file": "amazon-prime-video-4.svg",
+          "id": 3924,
+          "is_default": false,
+          "label": "prime-video-alt-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "prime-video-alt-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3fe907bb3e10712c14b764e301a0ac965f1656374f9b87d27722def1550a423a"
+          },
+          "sha256": "3bd205ae0860fbdc998f272bbf3d8308a30ad549a25037039e2f4c378d39da3d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prime-video-alt-dark.svg",
+          "version": 4
         }
       ],
-      "next_version": 3
+      "next_version": 5
     },
     {
       "id": 63,

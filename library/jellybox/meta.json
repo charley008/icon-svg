@@ -1,0 +1,40 @@
+{
+  "collection_id": 1583,
+  "schema_version": 1,
+  "id": 1810,
+  "title": "Jellybox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jellybox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4952,
+      "collection": "Dashboard Icons",
+      "file": "jellybox.svg",
+      "id": 3070,
+      "is_default": true,
+      "label": "jellybox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jellybox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77d5fdc7892657d0fde26491749e9d80da1f25d2ab0d4fabd0b427ce620be40f"
+      },
+      "sha256": "b6b0d61f9cdf90390250c155897505f49dec735b69fef7ff8fbe8ec57b543bcc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jellybox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

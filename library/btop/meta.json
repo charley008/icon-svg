@@ -1,0 +1,64 @@
+{
+  "collection_id": 909,
+  "schema_version": 1,
+  "id": 1136,
+  "redirect_from": [
+    1137
+  ],
+  "title": "Btop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "btop",
+    "btop-wordmark",
+    "Btop Wordmark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2016,
+      "collection": "Dashboard Icons",
+      "file": "btop.svg",
+      "id": 2175,
+      "is_default": true,
+      "label": "btop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "btop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "059238edbedba8519ddde4cf36bea6380a80fc181dbc68cf89f85f4d3c324a04"
+      },
+      "sha256": "4a4d1a6eac1c4726af0619959d1c779baeeac7bf6a528a45c0e6bd7cc725a3fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/btop.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3377,
+      "collection": "Dashboard Icons",
+      "file": "btop-1.svg",
+      "id": 2176,
+      "is_default": false,
+      "label": "btop-wordmark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "btop-wordmark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "740d0d2f0381824b3f46af1198472568874734173ed4f5546a478b03f69d9475"
+      },
+      "sha256": "cd9bd72ac755d46a8e945d24b1b708314f606b92c680e27f6c4290fa5e06305e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/btop-wordmark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2190,
+  "schema_version": 1,
+  "id": 2417,
+  "title": "Postal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "postal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 984,
+      "collection": "Dashboard Icons",
+      "file": "postal.svg",
+      "id": 3900,
+      "is_default": true,
+      "label": "postal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f9025e5704601eeee3b3b6d436c196349a06dc59bef37708ef8434c6e48051c3"
+      },
+      "sha256": "d658b62fb6489f44aa3decb9ccc7e421ec1975c998b050fd7293ffb030280eb6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postal.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

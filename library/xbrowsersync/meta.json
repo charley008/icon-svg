@@ -1,0 +1,40 @@
+{
+  "collection_id": 3005,
+  "schema_version": 1,
+  "id": 3232,
+  "title": "Xbrowsersync",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xbrowsersync"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5697,
+      "collection": "Dashboard Icons",
+      "file": "xbrowsersync.svg",
+      "id": 4954,
+      "is_default": true,
+      "label": "xbrowsersync",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xbrowsersync.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d43aea31248d1d3afefc09bc797f279548cf9863214c0b5a60fc2cfda9b21b5b"
+      },
+      "sha256": "b4b9e7779fdda90a0058e8fe554c49d65fb2dce169bc72ec8fd427b5ac1376fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xbrowsersync.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

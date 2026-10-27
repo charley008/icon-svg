@@ -1,0 +1,40 @@
+{
+  "collection_id": 1281,
+  "schema_version": 1,
+  "id": 1508,
+  "title": "Firewalla",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "firewalla"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1325,
+      "collection": "Dashboard Icons",
+      "file": "firewalla.svg",
+      "id": 2666,
+      "is_default": true,
+      "label": "firewalla",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firewalla.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "475078e52188f3b926f76d9d6acc9a8579e131ac329fa30562da3f0a7a3b3b21"
+      },
+      "sha256": "f9e4c03cc9585e36cc46cdf6de48494cfb8388db836d450354f6a465b86a864e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firewalla.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

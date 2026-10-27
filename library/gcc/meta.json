@@ -1,0 +1,45 @@
+{
+  "collection_id": 3130,
+  "schema_version": 1,
+  "id": 3372,
+  "title": "GCC",
+  "url": "https://gcc.gnu.org",
+  "domains": [
+    "gcc.gnu.org"
+  ],
+  "description": "GNU 编译器工具集。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "GCC",
+    "gcc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13543,
+      "collection": "TechIcons / Devicon",
+      "file": "gcc-1.svg",
+      "id": 5169,
+      "is_default": true,
+      "label": "TechIcons · GCC",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "GCC.svg",
+        "original_sha256": "1523bb21deb8bca817f94c595b4f6a273fa82ad8e4497e9c0f71d5ae32dca2ea",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gcc",
+        "reference_website": "https://gcc.gnu.org"
+      },
+      "sha256": "a1d0d6c72b8de6e5f6c2200be318b84041cdff7bc321381e3a33a9276137e6b9",
+      "source": "https://techicons.dev/icons/gcc",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

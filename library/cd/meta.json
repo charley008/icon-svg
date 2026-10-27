@@ -1,0 +1,59 @@
+{
+  "collection_id": 943,
+  "schema_version": 1,
+  "id": 1170,
+  "title": "Cd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6144,
+      "collection": "Dashboard Icons",
+      "file": "cd.svg",
+      "id": 2218,
+      "is_default": true,
+      "label": "cd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a1e2252219252fbe67d375dc88e728399175ed42734ac4278dc18e9c99e8e5cb"
+      },
+      "sha256": "837decda98721336b32539473507c8d858951ecb8397dca8bc333104bf9cb112",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cd.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8271,
+      "collection": "Dashboard Icons",
+      "file": "cd-1.svg",
+      "id": 2219,
+      "is_default": false,
+      "label": "cd-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cd-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d755128d50251172d690dd59465206e218ddd737634d71db6251438bd9858b50"
+      },
+      "sha256": "9d438716651be64d65a9ba9e1edb7890a84b51e60c8f442f7d67ddb56408c446",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cd-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

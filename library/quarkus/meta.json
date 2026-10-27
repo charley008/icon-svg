@@ -1,0 +1,45 @@
+{
+  "collection_id": 3214,
+  "schema_version": 1,
+  "id": 3477,
+  "title": "Quarkus",
+  "url": "https://quarkus.io",
+  "domains": [
+    "quarkus.io"
+  ],
+  "description": "面向云原生 Java 应用的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Quarkus",
+    "quarkus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1205,
+      "collection": "TechIcons / Devicon",
+      "file": "quarkus-1.svg",
+      "id": 5332,
+      "is_default": true,
+      "label": "TechIcons · Quarkus",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Quarkus.svg",
+        "original_sha256": "04743c999c241fc3d4cf71a4025c4d60f5be01c32aec5aa2bdb4ef33c7442791",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/quarkus",
+        "reference_website": "https://quarkus.io"
+      },
+      "sha256": "3372f79311f09790d7a10db4a691d91379d822ef19afc60eea9c80551475fc0f",
+      "source": "https://techicons.dev/icons/quarkus",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

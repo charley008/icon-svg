@@ -1,0 +1,40 @@
+{
+  "collection_id": 1162,
+  "schema_version": 1,
+  "id": 1389,
+  "title": "Dtop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dtop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 991,
+      "collection": "Dashboard Icons",
+      "file": "dtop.svg",
+      "id": 2510,
+      "is_default": true,
+      "label": "dtop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dtop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f0e25e228414a1fcc18523e74b78a72401d9af87ae2d9262d945b027fc4857a"
+      },
+      "sha256": "53e84d80e2f13785c2f9b63ed720c9e609d87af62e8227ebe7d88bf639458113",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dtop.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

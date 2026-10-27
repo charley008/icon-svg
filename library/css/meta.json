@@ -1,0 +1,79 @@
+{
+  "collection_id": 1050,
+  "schema_version": 1,
+  "id": 1277,
+  "title": "Css",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "css"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 975,
+      "collection": "Dashboard Icons",
+      "file": "css.svg",
+      "id": 2360,
+      "is_default": true,
+      "label": "css",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "css.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3769775e44d04b7774465364c75b0036c329dcce2b1c4a450a5edc26eaed700f"
+      },
+      "sha256": "ca20893ac96cd3671f5e1bd72e9cadf56a8cea2188bcfc3ddf85cdc2dab23190",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/css.svg",
+      "version": 0
+    },
+    {
+      "bytes": 987,
+      "collection": "Dashboard Icons",
+      "file": "css-1.svg",
+      "id": 2361,
+      "is_default": false,
+      "label": "css-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "css-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d0672cbbc7e2a34a696e7f928eddb8706ae96d5cc5d8a50b71c8aa86629f4b2"
+      },
+      "sha256": "8aadeea90a275613aad0e727f6d0d79c34c8746854461e150a8d36da8963759e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/css-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 823,
+      "collection": "TechIcons / Devicon",
+      "file": "css-2.svg",
+      "id": 5120,
+      "is_default": false,
+      "label": "TechIcons · CSS3",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CSS3.svg",
+        "original_sha256": "36b7d94b657d571d3f94042acbf6a4c86a5301a222f83f4b4583ad2acf6e297d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/css3",
+        "reference_website": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+      },
+      "sha256": "350f9bf9efa69adea72f4692e657119dd87c391a31467fce79500a1c8630a835",
+      "source": "https://techicons.dev/icons/css3",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

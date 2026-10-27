@@ -1,4 +1,7 @@
 {
+  "collection_id": 510,
+  "schema_version": 1,
+  "id": 682,
   "title": "Bluesky",
   "url": "https://bsky.app/",
   "domains": [
@@ -19,23 +22,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "bluesky.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "0cfadae29283a01d2023f1a13fd9da77935921c6185d4eef0f52aa2d0147a14d",
       "bytes": 525,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bluesky.svg",
+      "collection": "Dashboard Icons",
+      "file": "bluesky.svg",
+      "id": 1643,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "bluesky.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "0cfadae29283a01d2023f1a13fd9da77935921c6185d4eef0f52aa2d0147a14d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bluesky.svg",
+      "version": 0
+    },
+    {
+      "bytes": 65922,
+      "collection": "Dashboard Icons",
+      "file": "bluesky-1.svg",
+      "id": 2143,
+      "is_default": false,
+      "label": "bluesky-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bluesky-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b10be13be6df3b5a63b05e98cd6836fbb6b66c378c83c655d9ced993954f6148"
+      },
+      "sha256": "ebf3922565f1280a77025949883a94205728af514693a964d9483db10774eed3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bluesky-kawaii.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

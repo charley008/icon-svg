@@ -1,0 +1,40 @@
+{
+  "collection_id": 1235,
+  "schema_version": 1,
+  "id": 1462,
+  "title": "Expressvpn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "expressvpn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 724,
+      "collection": "Dashboard Icons",
+      "file": "expressvpn.svg",
+      "id": 2609,
+      "is_default": true,
+      "label": "expressvpn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "expressvpn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fefa636b5db9dd044e314f107a07a8fcb5a0690696cb25206d976df02a89913b"
+      },
+      "sha256": "ac1f6f5fb954f5a29d2f2fed09baffbf543a7205f0e2c27251810e608bf938ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/expressvpn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

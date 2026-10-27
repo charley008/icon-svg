@@ -1,0 +1,42 @@
+{
+  "collection_id": 2904,
+  "schema_version": 1,
+  "id": 3131,
+  "title": "Victorialogs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "victorialogs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1369,
+      "collection": "Dashboard Icons",
+      "file": "victorialogs.svg",
+      "id": 4823,
+      "is_default": true,
+      "label": "victorialogs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "victorialogs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c5b2b2397491ea34c8c3103294154b13ac6b96106497ed6707ba7a5837300bb"
+      },
+      "sha256": "bde4b4395dadce76a1b6fbc609fd91b12192e91387f6bc15f5bda3d7bd0d020a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/victorialogs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

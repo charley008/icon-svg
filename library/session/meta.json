@@ -1,0 +1,44 @@
+{
+  "collection_id": 2590,
+  "schema_version": 1,
+  "id": 2817,
+  "title": "Session",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "session",
+    "Messaging App"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6452,
+      "collection": "Dashboard Icons",
+      "file": "session.svg",
+      "id": 4422,
+      "is_default": true,
+      "label": "session",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "session.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a820dbcfbbe41615592cc9b04b2923cdc4abaecc369aae2deefe8459c5db1f3"
+      },
+      "sha256": "947b3303a4219b450afaae72bcf196edc20784125786483fbedd3b27390cd691",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/session.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2003,
+  "schema_version": 1,
+  "id": 2230,
+  "title": "Omada",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "omada"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3208,
+      "collection": "Dashboard Icons",
+      "file": "omada.svg",
+      "id": 3626,
+      "is_default": true,
+      "label": "omada",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "omada.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "af2a0f1f7614c74be55dde5b683f6b76f33730e977bc0b2421ae9c1f032fc031"
+      },
+      "sha256": "ecb8ec9b0ace2db6962c9b50bfc9eaa355b20e3aa6a27e6131777fbdacf0b6ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/omada.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

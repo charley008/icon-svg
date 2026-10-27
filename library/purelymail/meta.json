@@ -1,0 +1,40 @@
+{
+  "collection_id": 2239,
+  "schema_version": 1,
+  "id": 2466,
+  "title": "Purelymail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "purelymail"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1068,
+      "collection": "Dashboard Icons",
+      "file": "purelymail.svg",
+      "id": 3963,
+      "is_default": true,
+      "label": "purelymail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "purelymail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b2acbd4b3397cd7e55ae865dd48ead82c8677503e64d5ae518a63a7a7314b5e"
+      },
+      "sha256": "feaa648e4663891b70ed600b0a7b3b75d1752b95aba5fc90b65e6c6cbe34d8a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/purelymail.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

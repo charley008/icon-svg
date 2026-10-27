@@ -1,0 +1,40 @@
+{
+  "collection_id": 991,
+  "schema_version": 1,
+  "id": 1218,
+  "title": "Cloudpanel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cloudpanel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1075,
+      "collection": "Dashboard Icons",
+      "file": "cloudpanel.svg",
+      "id": 2281,
+      "is_default": true,
+      "label": "cloudpanel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudpanel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "110a86853267c3d2c7d112cd0e2c48925afa17859e78e20af6b26f532083cb95"
+      },
+      "sha256": "ad12611b84182899ec22a590d7044ae12f6eb1feb10296cc5a4a7dcab728aaea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudpanel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

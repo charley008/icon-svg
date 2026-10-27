@@ -1,0 +1,42 @@
+{
+  "collection_id": 1726,
+  "schema_version": 1,
+  "id": 1953,
+  "title": "Lms Mixtape",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "lms-mixtape"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3724,
+      "collection": "Dashboard Icons",
+      "file": "lms-mixtape.svg",
+      "id": 3251,
+      "is_default": true,
+      "label": "lms-mixtape",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lms-mixtape.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a9d3d5e5ef4f38b5afd484bd6ccbca9509f32b67dd825acdc830827b1bfafc24"
+      },
+      "sha256": "0c0653969bb41c2303564ee95886bab4b41f6d1bd4a351ccbd2e59c711ed72b3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lms-mixtape.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

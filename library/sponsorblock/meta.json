@@ -1,0 +1,40 @@
+{
+  "collection_id": 2676,
+  "schema_version": 1,
+  "id": 2903,
+  "title": "Sponsorblock",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sponsorblock"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13136,
+      "collection": "Dashboard Icons",
+      "file": "sponsorblock.svg",
+      "id": 4528,
+      "is_default": true,
+      "label": "sponsorblock",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sponsorblock.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "50aa5cdaada377db08f431f9592b256f1004d362f7d1d94ec0d0f3ea9e43d1e1"
+      },
+      "sha256": "f25141321452395408ee10e57cff8978bc820ca9dbf199f05fb668b2232641db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sponsorblock.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

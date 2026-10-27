@@ -1,0 +1,45 @@
+{
+  "collection_id": 3259,
+  "schema_version": 1,
+  "id": 3524,
+  "title": "Vyper",
+  "url": "https://docs.vyperlang.org/en/stable",
+  "domains": [
+    "docs.vyperlang.org"
+  ],
+  "description": "Vyper 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Vyper",
+    "vyper"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1114,
+      "collection": "TechIcons / Devicon",
+      "file": "vyper-1.svg",
+      "id": 5400,
+      "is_default": true,
+      "label": "TechIcons · Vyper",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Vyper.svg",
+        "original_sha256": "e3efcb07a571c56c1b11ec3b2120f09528e73d35878a0d77164a300bc10ca059",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/vyper",
+        "reference_website": "https://docs.vyperlang.org/en/stable"
+      },
+      "sha256": "68088328393dc1a231b63b6cd20275efe92908dbb14863567631ed6d384a9f2c",
+      "source": "https://techicons.dev/icons/vyper",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

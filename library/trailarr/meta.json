@@ -1,0 +1,40 @@
+{
+  "collection_id": 2831,
+  "schema_version": 1,
+  "id": 3058,
+  "title": "Trailarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "trailarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1226,
+      "collection": "Dashboard Icons",
+      "file": "trailarr.svg",
+      "id": 4724,
+      "is_default": true,
+      "label": "trailarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trailarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "47a7ba814508665147eaaf6b1288495392b4ebb412f01c597603bb9ba0bbe88c"
+      },
+      "sha256": "532a31e6af6135a1058b7b2bafb489d352655c35d4a09f3c6c1c8cfefd68caea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trailarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

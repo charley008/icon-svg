@@ -1,0 +1,40 @@
+{
+  "collection_id": 1801,
+  "schema_version": 1,
+  "id": 2028,
+  "title": "Mediux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mediux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1220,
+      "collection": "Dashboard Icons",
+      "file": "mediux.svg",
+      "id": 3341,
+      "is_default": true,
+      "label": "mediux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mediux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c144f17438ec0c6d95cd8f698bbb01ce839b72f12f5445538b669c3fa00af7ac"
+      },
+      "sha256": "78a365a8c955b1e50dfa00fe23d4c15e6ca3607a657b0e74e1d7d23532474623",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mediux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

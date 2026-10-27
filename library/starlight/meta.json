@@ -1,0 +1,40 @@
+{
+  "collection_id": 2693,
+  "schema_version": 1,
+  "id": 2920,
+  "title": "Starlight",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "starlight"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3829,
+      "collection": "Dashboard Icons",
+      "file": "starlight.svg",
+      "id": 4549,
+      "is_default": true,
+      "label": "starlight",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "starlight.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ee459258fbf5fe9ff34e91ca22907ee0df4107c1a2026b28fae73db88db73ab"
+      },
+      "sha256": "eb7b2062864da74a95e3c1ca9b3a80d2b3a50d224645e3ace3061cff660d63d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/starlight.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

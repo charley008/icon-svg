@@ -1,0 +1,40 @@
+{
+  "collection_id": 1315,
+  "schema_version": 1,
+  "id": 1542,
+  "title": "Fortinet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fortinet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 522,
+      "collection": "Dashboard Icons",
+      "file": "fortinet.svg",
+      "id": 2707,
+      "is_default": true,
+      "label": "fortinet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fortinet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f41eeeedee671efba77e06063cb562955d6c2fd0afa33cbc8f0cfec4f54a6dff"
+      },
+      "sha256": "4a6f128358aca1f53fa62803f15e4dfedf760f530ed118c553f231fa581566c3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fortinet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

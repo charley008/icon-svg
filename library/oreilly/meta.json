@@ -1,0 +1,61 @@
+{
+  "collection_id": 2058,
+  "schema_version": 1,
+  "id": 2285,
+  "title": "Oreilly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "oreilly"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1772,
+      "collection": "Dashboard Icons",
+      "file": "oreilly.svg",
+      "id": 3707,
+      "is_default": true,
+      "label": "oreilly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oreilly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "73211753086664671fb5b04c981989644afde96bef7bc5e7280f35c7dba8adeb"
+      },
+      "sha256": "b9fbeaadc6f943ffb22185a2102852f6d5027b44448a74922c7ffa25bfd753cd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oreilly.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1769,
+      "collection": "Dashboard Icons",
+      "file": "oreilly-1.svg",
+      "id": 3708,
+      "is_default": false,
+      "label": "oreilly-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oreilly-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e102d3e3f896533c2166492aac1483d0b9d6c71077f1c9441e2d9cd6f00f0bd"
+      },
+      "sha256": "5ee116e6df12b398b82e83a55e2d6505016d9e8689f78ce4abf063a2bb954976",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oreilly-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

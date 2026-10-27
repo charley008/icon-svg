@@ -1,0 +1,40 @@
+{
+  "collection_id": 2431,
+  "schema_version": 1,
+  "id": 2658,
+  "title": "Qlik",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "qlik"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4478,
+      "collection": "Dashboard Icons",
+      "file": "qlik.svg",
+      "id": 4221,
+      "is_default": true,
+      "label": "qlik",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qlik.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "64c8fb4beed3817ba3c702b7d2583f32365d92ee3067a3770828c29fded98003"
+      },
+      "sha256": "1b2c7d83f47e15d6b541b01510f80f10dd01cd486c32555a05f46acb309cda20",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qlik.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

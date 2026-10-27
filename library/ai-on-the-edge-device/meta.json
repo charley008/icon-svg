@@ -1,0 +1,40 @@
+{
+  "collection_id": 675,
+  "schema_version": 1,
+  "id": 902,
+  "title": "Ai On The Edge Device",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ai-on-the-edge-device"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 24903,
+      "collection": "Dashboard Icons",
+      "file": "ai-on-the-edge-device.svg",
+      "id": 1865,
+      "is_default": true,
+      "label": "ai-on-the-edge-device",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ai-on-the-edge-device.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f9b331574e3962bc2191c50586da60f5bf7b06dde39805c666dc5c25230c7775"
+      },
+      "sha256": "688e5cd03f3b90eac4a1ce0cefc36e64447b3e5961122bd7be75cb4e66867470",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ai-on-the-edge-device.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

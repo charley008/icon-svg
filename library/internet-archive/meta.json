@@ -2,6 +2,9 @@
   "collection_id": 215,
   "schema_version": 1,
   "id": 312,
+  "redirect_from": [
+    974
+  ],
   "title": "Internet Archive",
   "url": "https://archive.org",
   "domains": [
@@ -22,7 +25,9 @@
   "aliases": [
     "internet-archive",
     "internetarchive",
-    "archive-org"
+    "archive-org",
+    "archivedotorg",
+    "Archivedotorg"
   ],
   "notes": [],
   "icons": [
@@ -71,8 +76,27 @@
       "sha256": "e24932f4e62b96997e8247d4e4487730d24ca4c4319a90b255ba93a86ba9df6a",
       "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/internet-archive/mono.svg",
       "version": 1
+    },
+    {
+      "bytes": 1421,
+      "collection": "Dashboard Icons",
+      "file": "internet-archive-2.svg",
+      "id": 1963,
+      "is_default": false,
+      "label": "Archivedotorg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "archivedotorg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c061cf1172fb54062c3532f7800b9588be5ab68bafc1e0a7ca3390d62439f706"
+      },
+      "sha256": "ef94645d68e27c813657a5c0f944d865ae3eedd165bf5c5e14b30e2d7feb58e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/archivedotorg.svg",
+      "version": 2
     }
   ],
-  "next_version": 2,
+  "next_version": 3,
   "products": []
 }

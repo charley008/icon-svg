@@ -1,0 +1,63 @@
+{
+  "collection_id": 3058,
+  "schema_version": 1,
+  "id": 3285,
+  "title": "Zitadel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "zitadel",
+    "Identity Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6242,
+      "collection": "Dashboard Icons",
+      "file": "zitadel.svg",
+      "id": 5023,
+      "is_default": true,
+      "label": "zitadel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zitadel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fdbb8bff422655ef5c69d32b59f2072c581faa8ed568eef1eafc6f5d971aa00a"
+      },
+      "sha256": "55af792c1a00973c07e1376abd31d863702f056e617631334aa79683bfffc418",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zitadel.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6524,
+      "collection": "Dashboard Icons",
+      "file": "zitadel-1.svg",
+      "id": 5024,
+      "is_default": false,
+      "label": "zitadel-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zitadel-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "42265df38d56a6e09e282abce011e34702107632b244a7063b528d9228d9dc52"
+      },
+      "sha256": "41882c78e4cef838db70ab00f5dfa37e90648d5ef743782cd4b320498475c0c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zitadel-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

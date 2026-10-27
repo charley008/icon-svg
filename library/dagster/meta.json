@@ -1,0 +1,59 @@
+{
+  "collection_id": 1064,
+  "schema_version": 1,
+  "id": 1291,
+  "title": "Dagster",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dagster"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5465,
+      "collection": "Dashboard Icons",
+      "file": "dagster.svg",
+      "id": 2378,
+      "is_default": true,
+      "label": "dagster",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dagster.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7d4dcc0f90347b2f67bcd9eefb0d78a4365611ba8868d741fea5e0ef01d4f58e"
+      },
+      "sha256": "139a7f9c2cba29e42d40a2a327513560fb0fe1e12c51a98cb0dcf942ae6be481",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dagster.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5478,
+      "collection": "Dashboard Icons",
+      "file": "dagster-1.svg",
+      "id": 2379,
+      "is_default": false,
+      "label": "dagster-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dagster-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da58fa543ef532aeb94a1aa7231e7a7a7278fd8e23e8ca86000f79ffcc9ca09d"
+      },
+      "sha256": "5b988e57114ef05e9c78517620a3eba7c1886fe08c4dbafa6e067b9f1c5c4c0b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dagster-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 2454,
+  "schema_version": 1,
+  "id": 2681,
+  "title": "R",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "r"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1331,
+      "collection": "Dashboard Icons",
+      "file": "r.svg",
+      "id": 4244,
+      "is_default": true,
+      "label": "r",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "r.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b8b5c752d6e29bd51be6fbbee9ae89d8b95436686501013fa3cb573d62fd8cbd"
+      },
+      "sha256": "c2a57d728ac2d9e2777a9cdd88641f3e7d0d3e66b518f793b5a5865219bc41ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/r.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

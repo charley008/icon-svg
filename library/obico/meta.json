@@ -1,0 +1,44 @@
+{
+  "collection_id": 1983,
+  "schema_version": 1,
+  "id": 2210,
+  "title": "Obico",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "obico",
+    "3D Printing Monitor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1168,
+      "collection": "Dashboard Icons",
+      "file": "obico.svg",
+      "id": 3595,
+      "is_default": true,
+      "label": "obico",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "obico.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c68a8c0c2d7e39eab895cea0f6136935de919c589d01b45658f088a134525213"
+      },
+      "sha256": "1ee6962e84a755766019ac025b51e53c396e26c2ceb3212fb85dc3e0ede56c5c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/obico.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

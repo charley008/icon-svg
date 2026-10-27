@@ -1,0 +1,40 @@
+{
+  "collection_id": 2446,
+  "schema_version": 1,
+  "id": 2673,
+  "title": "Questdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "questdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2732,
+      "collection": "Dashboard Icons",
+      "file": "questdb.svg",
+      "id": 4236,
+      "is_default": true,
+      "label": "questdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "questdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "93285c919b9c3feab3f055cfbf39065869b48bda8f36242b932ff9caa00fd06f"
+      },
+      "sha256": "17356a7c88e21afcf35edeb95ca7915a5009c65ee74942435f5b89df0d3c9164",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/questdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

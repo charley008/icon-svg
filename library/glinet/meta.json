@@ -1,0 +1,61 @@
+{
+  "collection_id": 1372,
+  "schema_version": 1,
+  "id": 1599,
+  "title": "Glinet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "glinet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3157,
+      "collection": "Dashboard Icons",
+      "file": "glinet.svg",
+      "id": 2777,
+      "is_default": true,
+      "label": "glinet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glinet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a3f1ae49e91f3ebdf512eea72ad957cbe4c191a42231a15c3f1b32a35d430a45"
+      },
+      "sha256": "435ad5cc0c925066ceff786b40a83c41dd3b57f287465ad184103222597f2d07",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glinet.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3154,
+      "collection": "Dashboard Icons",
+      "file": "glinet-1.svg",
+      "id": 2778,
+      "is_default": false,
+      "label": "glinet-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glinet-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee010abaf12445295757e8a26752f3e773f4309b2395d706ec0d980a1015c7ed"
+      },
+      "sha256": "873a18b6801b8ca0f041b168e7fe07c9cae222814eb3f42e60297ef567074c83",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glinet-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

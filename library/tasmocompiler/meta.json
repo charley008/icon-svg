@@ -1,0 +1,40 @@
+{
+  "collection_id": 2748,
+  "schema_version": 1,
+  "id": 2975,
+  "title": "Tasmocompiler",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tasmocompiler"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7222,
+      "collection": "Dashboard Icons",
+      "file": "tasmocompiler.svg",
+      "id": 4620,
+      "is_default": true,
+      "label": "tasmocompiler",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tasmocompiler.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1abe8313e1c602d920e51afd80956e31b5a8f94cdad8afcf2d3c71963feebf2a"
+      },
+      "sha256": "147965db6fd40ddab7493503153de673100543ea2c705019eb35af7f41dc7352",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tasmocompiler.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

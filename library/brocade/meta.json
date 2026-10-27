@@ -1,0 +1,40 @@
+{
+  "collection_id": 906,
+  "schema_version": 1,
+  "id": 1133,
+  "title": "Brocade",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "brocade"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 681,
+      "collection": "Dashboard Icons",
+      "file": "brocade.svg",
+      "id": 2171,
+      "is_default": true,
+      "label": "brocade",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brocade.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54ce530da8b7f8204c2158482417fbbd7d1acc7e76219593ad6912e0b0a77977"
+      },
+      "sha256": "b06118a777f9a0c2eaab288040d3ccb2a9164c51debf6f2c2275981a99130246",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/brocade.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

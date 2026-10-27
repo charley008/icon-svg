@@ -1,0 +1,40 @@
+{
+  "collection_id": 2520,
+  "schema_version": 1,
+  "id": 2747,
+  "title": "Root App",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "root-app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2767,
+      "collection": "Dashboard Icons",
+      "file": "root-app.svg",
+      "id": 4327,
+      "is_default": true,
+      "label": "root-app",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "root-app.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae6b12cfcc1284eddce26d2c58d2b707526c8042624ae3de8b7ab0fc605ddca1"
+      },
+      "sha256": "9f7e191fece26934c1c068afd1f495cb5e9ce92266df33bc0fbfe107533e6e46",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/root-app.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

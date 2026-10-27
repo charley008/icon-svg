@@ -1,0 +1,40 @@
+{
+  "collection_id": 2083,
+  "schema_version": 1,
+  "id": 2310,
+  "title": "Panelarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "panelarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 490,
+      "collection": "Dashboard Icons",
+      "file": "panelarr.svg",
+      "id": 3742,
+      "is_default": true,
+      "label": "panelarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "panelarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ccd0bf4b0ee1071e6e8344c695708ae0afd9c763ecfa0ae4e529db58b0ae6316"
+      },
+      "sha256": "7da00566877f78df5ee0505464f2f3f16da1711cd93f0dff8b929a76e542d00b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/panelarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

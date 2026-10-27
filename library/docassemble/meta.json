@@ -1,0 +1,59 @@
+{
+  "collection_id": 1120,
+  "schema_version": 1,
+  "id": 1347,
+  "title": "Docassemble",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docassemble"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 914,
+      "collection": "Dashboard Icons",
+      "file": "docassemble.svg",
+      "id": 2457,
+      "is_default": true,
+      "label": "docassemble",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docassemble.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c46880b10b7c8b425548bbcf764bc7e780b8ba6d9a89231993000bb452c5551f"
+      },
+      "sha256": "13e7c70228ca00ff97ff742411eb3f669d86e27e980636763a0d8b99e3b571d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docassemble.svg",
+      "version": 0
+    },
+    {
+      "bytes": 926,
+      "collection": "Dashboard Icons",
+      "file": "docassemble-1.svg",
+      "id": 2458,
+      "is_default": false,
+      "label": "docassemble-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docassemble-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "30d43dfec2b866cc3efdba38f166beba012391adce9964dd17b5884fc39b1bcf"
+      },
+      "sha256": "15d6279a5f16e042d2fda8593279685a1803162027ca62b8e1f58c9f33645101",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docassemble-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

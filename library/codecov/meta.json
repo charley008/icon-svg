@@ -1,0 +1,45 @@
+{
+  "collection_id": 3099,
+  "schema_version": 1,
+  "id": 3339,
+  "title": "Codecov",
+  "url": "https://about.codecov.io",
+  "domains": [
+    "about.codecov.io"
+  ],
+  "description": "代码测试覆盖率分析平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Codecov",
+    "codecov"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1607,
+      "collection": "TechIcons / Devicon",
+      "file": "codecov-1.svg",
+      "id": 5110,
+      "is_default": true,
+      "label": "TechIcons · Codecov",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Codecov.svg",
+        "original_sha256": "883d8df6597db337ab5f778e57a0c66a4587357b0b611c547b5df9aa8aac6100",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/codecov",
+        "reference_website": "https://about.codecov.io"
+      },
+      "sha256": "72c04f03ef5893a0abf9c5b3cec67625ec38b10adffb9aed956b388811905358",
+      "source": "https://techicons.dev/icons/codecov",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

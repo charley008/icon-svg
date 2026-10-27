@@ -1,0 +1,40 @@
+{
+  "collection_id": 2071,
+  "schema_version": 1,
+  "id": 2298,
+  "title": "Owncast",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "owncast"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5350,
+      "collection": "Dashboard Icons",
+      "file": "owncast.svg",
+      "id": 3726,
+      "is_default": true,
+      "label": "owncast",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "owncast.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4efe920039541ad2fa19c74083f0de996d2b3647c13b8fea1617ebd3a88d3dad"
+      },
+      "sha256": "ead6ceeaad8c840e68d97329e42f918ad029b5dcca6c7f042f8b09b01318e8bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/owncast.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

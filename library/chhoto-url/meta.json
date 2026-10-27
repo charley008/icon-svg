@@ -1,0 +1,42 @@
+{
+  "collection_id": 965,
+  "schema_version": 1,
+  "id": 1192,
+  "title": "Chhoto Url",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "chhoto-url"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2787,
+      "collection": "Dashboard Icons",
+      "file": "chhoto-url.svg",
+      "id": 2245,
+      "is_default": true,
+      "label": "chhoto-url",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chhoto-url.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c1768753ba20a03724594495ffa8ed02aba62257c5fc3adfd2de1989b8fdc2b2"
+      },
+      "sha256": "a0c5b075f11206c92e70faaffee613cef01019734a518dd45fde29d258668c82",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chhoto-url.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

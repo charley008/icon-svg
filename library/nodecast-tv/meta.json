@@ -1,0 +1,40 @@
+{
+  "collection_id": 1953,
+  "schema_version": 1,
+  "id": 2180,
+  "title": "Nodecast Tv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nodecast-tv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 803,
+      "collection": "Dashboard Icons",
+      "file": "nodecast-tv.svg",
+      "id": 3553,
+      "is_default": true,
+      "label": "nodecast-tv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nodecast-tv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d0054501090a24e4dbfb0f48d4ddd9e92e542b448f37aa91ac087e95f4a98b4f"
+      },
+      "sha256": "799a0ec5f6fcb396bb8f304d446aad9c508a408577b8e0d1fe86cc72f089155c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nodecast-tv.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

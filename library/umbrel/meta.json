@@ -1,0 +1,40 @@
+{
+  "collection_id": 2873,
+  "schema_version": 1,
+  "id": 3100,
+  "title": "Umbrel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "umbrel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5095,
+      "collection": "Dashboard Icons",
+      "file": "umbrel.svg",
+      "id": 4780,
+      "is_default": true,
+      "label": "umbrel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "umbrel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5f3e1a54ae47a9d318b1f321ac7d5ade86a5a8e7fb9d57743ae41548af74de7"
+      },
+      "sha256": "a3728cd364ccd3816effcb27ca233d18c816a54bd3cfb0ec6f270b8e2e7734da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/umbrel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 1865,
+  "schema_version": 1,
+  "id": 2092,
+  "title": "Mstream",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Music-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "mstream",
+    "personal-music-server",
+    "audio-streaming"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 532,
+      "collection": "Dashboard Icons",
+      "file": "mstream.svg",
+      "id": 3440,
+      "is_default": true,
+      "label": "mstream",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mstream.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "26dc8b2b31e0651513c0fd4463af7f6aac84e4f4a55086c36dec44c4f01dfd19"
+      },
+      "sha256": "3f1df8e690cffb1ceacca607daab0e1951ed105d38641cfe71e9a5bee8875513",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mstream.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

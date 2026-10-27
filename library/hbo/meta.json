@@ -1,0 +1,203 @@
+{
+  "collection_id": 1450,
+  "schema_version": 1,
+  "id": 1677,
+  "title": "Hbo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hbo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1046,
+      "collection": "Dashboard Icons",
+      "file": "hbo.svg",
+      "id": 2893,
+      "is_default": true,
+      "label": "hbo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hbo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2570e27a7858b934ec1aa356fb79b1d8051f11a1ea0f936eae4fe93b021cdedb"
+      },
+      "sha256": "838d7a4c3af8b6f3ab6b3a693d994c6b972b185baf89885ade22a7fcd4e7429c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hbo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1070,
+      "collection": "Dashboard Icons",
+      "file": "hbo-1.svg",
+      "id": 2894,
+      "is_default": false,
+      "label": "hbo-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hbo-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e158e7cb5fe7f1d5b75d3a937ac5ad07cddd55dda2e41ba4b612f9df90d3c74b"
+      },
+      "sha256": "294fc19baf3e036f4d1b0fb098f698b299b15413c239ebb8671534d97cc039d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hbo-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 281,
+      "key": "max",
+      "title": "HBO Max",
+      "url": "https://hbomax.com",
+      "domains": [
+        "hbomax.com"
+      ],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "全球Top100",
+        "影音",
+        "视频",
+        "在线视频",
+        "HBO Max",
+        "hbo-max",
+        "hbomax",
+        "max",
+        "hbomax.com"
+      ],
+      "aliases": [
+        "hbo-max",
+        "hbomax",
+        "max"
+      ],
+      "notes": [
+        "默认展示已核对的彩色版本；黑白及其他版本保留为备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 1071,
+          "collection": "Dashboard Icons",
+          "file": "hbo-max-3.svg",
+          "id": 704,
+          "is_default": true,
+          "label": "max",
+          "license": "see-source",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hbo-max-3.svg",
+            "original_is_default": false,
+            "original_slug": "hbo-max"
+          },
+          "sha256": "8f54558166330c817c90ab0dae8a075e529a557acdca00fc1be6e02cefd7acae",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/max.svg",
+          "version": 3
+        },
+        {
+          "bytes": 1398,
+          "collection": "theSVG",
+          "file": "hbo-max.svg",
+          "id": 705,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hbo-max.svg",
+            "original_is_default": true,
+            "original_slug": "hbo-max"
+          },
+          "rounded_corners": {
+            "previous_bytes": 1165,
+            "previous_sha256": "b2e2eeb868df6084205e202ca3c9d7f37cdde1fe432ada64ebeb6ae228d78d5f",
+            "ratio": 0.2
+          },
+          "sha256": "26c1b1ecd7457961dd2c4b6fe3fd690d8cf8c5abdf9c073ff8ce2836a90c6416",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/hbo-max/default.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1133,
+          "collection": "theSVG",
+          "file": "hbo-max-1.svg",
+          "id": 706,
+          "is_default": false,
+          "label": "default",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hbo-max-1.svg",
+            "original_is_default": false,
+            "original_slug": "hbo-max"
+          },
+          "rounded_corners": {
+            "previous_bytes": 900,
+            "previous_sha256": "dbf5aea82678e4848767a9ea211d13b0d7e20ac8cd18bbce3c7d4224122516e0",
+            "ratio": 0.2
+          },
+          "sha256": "4ed835a334971ba2dce99a9147ac39db1c71c7bc4164fb8256da39aa5a116944",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/max/default.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1133,
+          "collection": "theSVG",
+          "file": "hbo-max-2.svg",
+          "id": 707,
+          "is_default": false,
+          "label": "mono",
+          "license": "CC0-1.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hbo-max-2.svg",
+            "original_is_default": false,
+            "original_slug": "hbo-max"
+          },
+          "rounded_corners": {
+            "previous_bytes": 900,
+            "previous_sha256": "fc0b7dd152462534d6471ae62ad75d353cc91d00f2b46ba1eab997091e6500e5",
+            "ratio": 0.2
+          },
+          "sha256": "969d81b9b9e662983af09f186d3996b7d69f71ef3b51cbf50d8926004f429a54",
+          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/max/mono.svg",
+          "version": 2
+        },
+        {
+          "bytes": 1167,
+          "collection": "Iconify / arcticons",
+          "file": "hbo-max-4.svg",
+          "id": 708,
+          "is_default": false,
+          "label": "hbo-max",
+          "license": "CC BY-SA 4.0",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "hbo-max-4.svg",
+            "original_is_default": false,
+            "original_slug": "hbo-max"
+          },
+          "rounded_corners": {
+            "previous_bytes": 934,
+            "previous_sha256": "57d131f1e332a80c03e6f552d1dea7b53b8a6d4b6cf167c02af6baeffe91120a",
+            "ratio": 0.2
+          },
+          "sha256": "469e8335f3031a8770238e491f0aef5f11ea69ddc4e16a2a653c449f5e297a12",
+          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#hbo-max",
+          "version": 4
+        }
+      ],
+      "next_version": 5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 2205,
+  "schema_version": 1,
+  "id": 2432,
+  "title": "Price Buddy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "price-buddy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2777,
+      "collection": "Dashboard Icons",
+      "file": "price-buddy.svg",
+      "id": 3921,
+      "is_default": true,
+      "label": "price-buddy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "price-buddy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "92caf7a0f8d5a8368ce7d1d0a71445ca1ad20bdabaad4581806f875547086058"
+      },
+      "sha256": "60ee49b89ce029c3a5c3b07f8ee183bdaa2657b16e307a40a7bc68bbeaa3c81a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/price-buddy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

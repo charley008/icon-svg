@@ -1,0 +1,40 @@
+{
+  "collection_id": 974,
+  "schema_version": 1,
+  "id": 1201,
+  "title": "Cinc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cinc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 689,
+      "collection": "Dashboard Icons",
+      "file": "cinc.svg",
+      "id": 2255,
+      "is_default": true,
+      "label": "cinc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cinc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9af09490b0bf3e9c078718ede682f197a08a11dbdb4da6d7f9f4ca77c392c415"
+      },
+      "sha256": "2dfbf5ea20209f27a4901f4a2a747ec8442b7a1adfcb7a8be12c654092dc1171",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cinc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

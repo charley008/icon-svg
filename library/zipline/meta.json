@@ -1,0 +1,64 @@
+{
+  "collection_id": 3056,
+  "schema_version": 1,
+  "id": 3283,
+  "title": "Zipline",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "Web-Browsers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "zipline",
+    "youtube-privacy-frontend",
+    "ad-free-youtube-player"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2909,
+      "collection": "Dashboard Icons",
+      "file": "zipline.svg",
+      "id": 5020,
+      "is_default": true,
+      "label": "zipline",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zipline.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ae60eea77a09f2fb0254d0cd9875794b4e9fd20e1d4a2a7be3cb1f5646d2b0a"
+      },
+      "sha256": "855f404ac24df42d0823f87dd082aa36e89c34fbfbddcd35733a1e1ae2088a11",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zipline.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2921,
+      "collection": "Dashboard Icons",
+      "file": "zipline-1.svg",
+      "id": 5021,
+      "is_default": false,
+      "label": "zipline-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zipline-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d63c9c06f9ffd8cc6dd452b53d4f94337bd1827ab9ffe52e26f2570607dd803"
+      },
+      "sha256": "23124f017dd08651ec331f3bdfd9a01e30b89bfeef0e72705303770ebb8c527a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zipline-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

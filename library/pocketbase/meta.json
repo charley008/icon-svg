@@ -1,0 +1,59 @@
+{
+  "collection_id": 2173,
+  "schema_version": 1,
+  "id": 2400,
+  "title": "Pocketbase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pocketbase"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1759,
+      "collection": "Dashboard Icons",
+      "file": "pocketbase.svg",
+      "id": 3873,
+      "is_default": true,
+      "label": "pocketbase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pocketbase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "12d811cec0fdfcc4bd5104b670407b00dc5b631637dfa71862e82db59f9af47a"
+      },
+      "sha256": "87b7e19f517f26f20aed691a3f3c740661c68247c0d0d8adbbf61b6cfa4f7e9f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pocketbase.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1792,
+      "collection": "Dashboard Icons",
+      "file": "pocketbase-1.svg",
+      "id": 3874,
+      "is_default": false,
+      "label": "pocketbase-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pocketbase-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4ebda4bd8c62d409b182704295f96dff52716ea9da6c50dddff0a1e57d1db96"
+      },
+      "sha256": "13eda75a8bddceaff3d0d81d37eabca6479664ad05bbf355344dc58b57c8503d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pocketbase-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3181,
+  "schema_version": 1,
+  "id": 3443,
+  "title": "Neorg",
+  "url": "https://github.com/nvim-neorg/neorg",
+  "domains": [
+    "github.com"
+  ],
+  "description": "面向 Neovim 的笔记组织与文档工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Neorg",
+    "norg",
+    "Nerog"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2997,
+      "collection": "TechIcons / Devicon",
+      "file": "neorg-1.svg",
+      "id": 5279,
+      "is_default": true,
+      "label": "TechIcons · Neorg",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nerog.svg",
+        "original_sha256": "74dfb24897b30b2b7a66f9349ccfe4e56614f583a4b8048485a00b88680e32ff",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/norg",
+        "reference_website": "https://github.com/nvim-neorg/neorg"
+      },
+      "sha256": "bf21e7043dea4d209867546a24352d590ca698fda2d8dc3989160bb00f8c829e",
+      "source": "https://techicons.dev/icons/norg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

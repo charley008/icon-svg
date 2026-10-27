@@ -1,0 +1,44 @@
+{
+  "collection_id": 2214,
+  "schema_version": 1,
+  "id": 2441,
+  "title": "Private Internet Access",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "VPN",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "private-internet-access",
+    "PIA"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3532,
+      "collection": "Dashboard Icons",
+      "file": "private-internet-access.svg",
+      "id": 3931,
+      "is_default": true,
+      "label": "private-internet-access",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "private-internet-access.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ec34356dd412ba5d81d90e301ccbf11fbd761d7d08c99be9f3344c6578cc880"
+      },
+      "sha256": "5801db9fb75c9075d9f237553eb3529f6ffabc65636c9ba02b57778fa2e83b4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/private-internet-access.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1292,
+  "schema_version": 1,
+  "id": 1519,
+  "title": "Flexera",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flexera"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 487,
+      "collection": "Dashboard Icons",
+      "file": "flexera.svg",
+      "id": 2678,
+      "is_default": true,
+      "label": "flexera",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flexera.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a7a8990de5f12fbea228318d05a3248ad5bfba13716d0ecdbafb743f5fc49d05"
+      },
+      "sha256": "45d9a3de0b235d3ba54a8f23dc8fada711ab0f628df1eb322f6d30319698a5b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flexera.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

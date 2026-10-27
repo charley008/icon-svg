@@ -1,0 +1,59 @@
+{
+  "collection_id": 2159,
+  "schema_version": 1,
+  "id": 2386,
+  "title": "Planka",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "planka"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2203,
+      "collection": "Dashboard Icons",
+      "file": "planka.svg",
+      "id": 3851,
+      "is_default": true,
+      "label": "planka",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "planka.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "32c64d077bf89224111196f7d55c07be0723c9420ef4ccaece9ebd9fff159834"
+      },
+      "sha256": "a171ab39c3d772ba5c408cbf1a829c21cae29fa10a1f47c2bdd04d2cc7fae8d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/planka.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2203,
+      "collection": "Dashboard Icons",
+      "file": "planka-1.svg",
+      "id": 3852,
+      "is_default": false,
+      "label": "planka-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "planka-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "538d8cd706c405937716b1757fd4dc17fbfa119c102ba58ee495e5815e55e692"
+      },
+      "sha256": "33e7252b73efc4d73bcf5b7c288752596bff61fe0d575511dffdea63d0bf2e7f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/planka-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

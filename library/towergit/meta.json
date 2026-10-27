@@ -1,0 +1,45 @@
+{
+  "collection_id": 3250,
+  "schema_version": 1,
+  "id": 3513,
+  "title": "Tower",
+  "url": "https://www.git-tower.com",
+  "domains": [
+    "git-tower.com"
+  ],
+  "description": "用于 Git 仓库管理的桌面客户端。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Tower",
+    "towergit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14034,
+      "collection": "TechIcons / Devicon",
+      "file": "towergit-1.svg",
+      "id": 5382,
+      "is_default": true,
+      "label": "TechIcons · Tower",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Tower.svg",
+        "original_sha256": "6b41d7769e14cc6f56e10de91c4a62382da8f7d7d74dd539ba2d9d32b4750358",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/towergit",
+        "reference_website": "https://www.git-tower.com"
+      },
+      "sha256": "e5dab62d35a0ba187be51da0ff0feaaaa077fb6ee44fa799811f65818b14d68b",
+      "source": "https://techicons.dev/icons/towergit",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

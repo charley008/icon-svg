@@ -1,0 +1,42 @@
+{
+  "collection_id": 2799,
+  "schema_version": 1,
+  "id": 3026,
+  "title": "Threadfin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "threadfin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 678,
+      "collection": "Dashboard Icons",
+      "file": "threadfin.svg",
+      "id": 4681,
+      "is_default": true,
+      "label": "threadfin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "threadfin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "becb6beea8d3e9593a45109486ef07699fbbf1a18dfe2c74748d5497c84a6f35"
+      },
+      "sha256": "26aa0b234b45b91d0f478ac28657170af0c90d182f588597d84b873f592818aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/threadfin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

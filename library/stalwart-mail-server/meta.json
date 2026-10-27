@@ -1,0 +1,40 @@
+{
+  "collection_id": 2692,
+  "schema_version": 1,
+  "id": 2919,
+  "title": "Stalwart Mail Server",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stalwart-mail-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 502,
+      "collection": "Dashboard Icons",
+      "file": "stalwart-mail-server.svg",
+      "id": 4548,
+      "is_default": true,
+      "label": "stalwart-mail-server",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stalwart-mail-server.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "52ae1d8f50f3e9c59265dbc076c7cd3b9dd35b9f7901716874c33a822493b1a9"
+      },
+      "sha256": "a577acb289204e5a60c5978ce65c792bb37b5ef167ec55c3a5c4931aa516001a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stalwart-mail-server.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

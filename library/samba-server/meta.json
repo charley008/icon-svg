@@ -1,0 +1,44 @@
+{
+  "collection_id": 2548,
+  "schema_version": 1,
+  "id": 2775,
+  "title": "Samba Server",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Communication"
+  ],
+  "aliases": [
+    "samba-server",
+    "samba",
+    "smb",
+    "smb-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1256,
+      "collection": "Dashboard Icons",
+      "file": "samba-server.svg",
+      "id": 4364,
+      "is_default": true,
+      "label": "samba-server",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samba-server.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "060cb111cdecd4b079ad6b7fdee06f197d928f4b93bd5de6232a72dcf7ca070d"
+      },
+      "sha256": "d3b7f7b69ba8837c3d6a21382f5c8557805343bd1a6f1ed7dda812055dee4640",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/samba-server.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

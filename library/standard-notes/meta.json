@@ -1,4 +1,7 @@
 {
+  "collection_id": 618,
+  "schema_version": 1,
+  "id": 843,
   "title": "Standard Notes",
   "url": "https://standardnotes.com/",
   "domains": [
@@ -23,23 +26,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "standard-notes.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "f70c09887f67f45319a00b4c19a21f1c9d862217dac52236789197dd2abbf0ea",
       "bytes": 573,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/standard-notes.svg",
+      "collection": "Dashboard Icons",
+      "file": "standard-notes.svg",
+      "id": 1800,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "standard-notes.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "f70c09887f67f45319a00b4c19a21f1c9d862217dac52236789197dd2abbf0ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/standard-notes.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

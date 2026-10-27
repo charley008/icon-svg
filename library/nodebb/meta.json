@@ -1,0 +1,44 @@
+{
+  "collection_id": 1952,
+  "schema_version": 1,
+  "id": 2179,
+  "title": "Nodebb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "Social-Media",
+    "浏览器"
+  ],
+  "aliases": [
+    "nodebb",
+    "Forum Software"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1344,
+      "collection": "Dashboard Icons",
+      "file": "nodebb.svg",
+      "id": 3552,
+      "is_default": true,
+      "label": "nodebb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nodebb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cbfec08c3d436bfd49b19ce0fd763c98106a3b853655da5167e7cd8fe22a2c04"
+      },
+      "sha256": "9750832ec69f94187d6b925d15e9245654f35a419d90be3fe08e6f2d86d86fa3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nodebb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

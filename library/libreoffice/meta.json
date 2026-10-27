@@ -1,0 +1,345 @@
+{
+  "collection_id": 1693,
+  "schema_version": 1,
+  "id": 1920,
+  "title": "Libreoffice",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "libreoffice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "Dashboard Icons",
+      "file": "libreoffice.svg",
+      "id": 3203,
+      "is_default": true,
+      "label": "libreoffice",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libreoffice.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "59053150fcdb4161cdb087194e538304711b9da6908975300e7683ffb530c13d"
+      },
+      "sha256": "71de1d03bcb93ca86da9f33fdfabecd85f08f7d175444e2ab4192615b536554a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice.svg",
+      "version": 0
+    },
+    {
+      "bytes": 738,
+      "collection": "Dashboard Icons",
+      "file": "libreoffice-1.svg",
+      "id": 3204,
+      "is_default": false,
+      "label": "libreoffice-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libreoffice-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89a396b743dd2c7d4bb31482f9150651693f19169ad7b4b9b73d6888624eb81b"
+      },
+      "sha256": "db4d915970481923320940a290c765db02435b3351e76ead78b663402175dbdd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": [
+    {
+      "id": 1921,
+      "key": "colibre-database",
+      "title": "Libreoffice Colibre Database",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "libreoffice-colibre-database"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 938,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-database.svg",
+          "id": 3205,
+          "is_default": true,
+          "label": "libreoffice-colibre-database",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-database.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e6c705d2f4755b0388bdfb10edad322d82548f961936c02c7916a66d5ef1b50a"
+          },
+          "sha256": "b8b0bb96aa8bfe033af9c67b4ecfb2f3ed677559d9a38c5a9a343620e4551ae9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-database.svg",
+          "version": 0
+        },
+        {
+          "bytes": 890,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-database-1.svg",
+          "id": 3206,
+          "is_default": false,
+          "label": "libreoffice-colibre-database-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-database-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "60bf4400302d5df044a5521cdb404e44e10540999880edc1b2279b50c3ec6027"
+          },
+          "sha256": "9edcaf40ca7655492841f516693a2571fefaaf67278ff3e108a0b29f0cebc6b5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-database-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1922,
+      "key": "colibre-graphic",
+      "title": "Libreoffice Colibre Graphic",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "libreoffice-colibre-graphic"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 915,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-graphic.svg",
+          "id": 3207,
+          "is_default": true,
+          "label": "libreoffice-colibre-graphic",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-graphic.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "599bf7aae58c0456000006c4ccc60b733508e41487cffd1fcc90aeaad1398ceb"
+          },
+          "sha256": "d42d965c1ff844b79a8267b94356fb4a21b70d7255aa220849547f4ba74be096",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-graphic.svg",
+          "version": 0
+        },
+        {
+          "bytes": 867,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-graphic-1.svg",
+          "id": 3208,
+          "is_default": false,
+          "label": "libreoffice-colibre-graphic-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-graphic-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5f6fb07cf951ff7e63740705db31d54056b9d19d26776cd203b08e1b812ef384"
+          },
+          "sha256": "4c4fdf8dd4eea3bc01c5d3d07e7670ad243b4bb63eab3e55fe9e8dcbe1f61250",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-graphic-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1923,
+      "key": "colibre-presentation",
+      "title": "Libreoffice Colibre Presentation",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "libreoffice-colibre-presentation"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1121,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-presentation.svg",
+          "id": 3209,
+          "is_default": true,
+          "label": "libreoffice-colibre-presentation",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-presentation.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "308af7654ecff099ffe2ea7f10998bfdd66aea29dc678684e58a41aacf7362f8"
+          },
+          "sha256": "249ec098d69163733756d95464371b5328df9833f9dbdb09e4819f973f6a75cb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-presentation.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1073,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-presentation-1.svg",
+          "id": 3210,
+          "is_default": false,
+          "label": "libreoffice-colibre-presentation-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-presentation-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "336c51af0b3ab762fa862bd5afd4174b43b4bff6732e9d53023265c29eb3ebc2"
+          },
+          "sha256": "cb576df80c72f655d0bd4d16a33bb1677db9bbf6b02e211dbd31bb812c2bd2ad",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-presentation-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1924,
+      "key": "colibre-spreadsheet",
+      "title": "Libreoffice Colibre Spreadsheet",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "libreoffice-colibre-spreadsheet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 826,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-spreadsheet.svg",
+          "id": 3211,
+          "is_default": true,
+          "label": "libreoffice-colibre-spreadsheet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-spreadsheet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0e3221c310378b6afc317f8e5a4ba397f88b5a60440d4966a78c40348f4e8efc"
+          },
+          "sha256": "7a48ea3d9b2098fb6a012b115a4e044ec2bceed080fb920789b86569b80b7c9c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-spreadsheet.svg",
+          "version": 0
+        },
+        {
+          "bytes": 778,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-spreadsheet-1.svg",
+          "id": 3212,
+          "is_default": false,
+          "label": "libreoffice-colibre-spreadsheet-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-spreadsheet-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e0b7e1db248b6c0a9c22d2c6fe6236872179845d4908f498970530c618e523ee"
+          },
+          "sha256": "dca5fa4015bcda238b2bad2b8d9b3e4e1e0f5bd5add252f344dfe751e8bccc75",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-spreadsheet-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 1925,
+      "key": "colibre-text",
+      "title": "Libreoffice Colibre Text",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "libreoffice-colibre-text"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1145,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-text.svg",
+          "id": 3213,
+          "is_default": true,
+          "label": "libreoffice-colibre-text",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-text.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "2487a21e1fc90f3f78aaea63bd0c5e373314895e74c0d052240eab4a9e8a8177"
+          },
+          "sha256": "7d672ff562b6298ec02392424baf66db1bbf1b5f60668b3b6c266a5854b5b6f8",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-text.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1097,
+          "collection": "Dashboard Icons",
+          "file": "libreoffice-colibre-text-1.svg",
+          "id": 3214,
+          "is_default": false,
+          "label": "libreoffice-colibre-text-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "libreoffice-colibre-text-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1ca94e406098107c1e7af97589106e58b822f544522383548787587a3e69d99e"
+          },
+          "sha256": "5787a4aeaec43e870802c9edd8eb4e208876278cd802420bea70901014167ba8",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libreoffice-colibre-text-dark.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
+}

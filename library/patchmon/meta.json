@@ -1,0 +1,40 @@
+{
+  "collection_id": 2103,
+  "schema_version": 1,
+  "id": 2330,
+  "title": "Patchmon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "patchmon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3883,
+      "collection": "Dashboard Icons",
+      "file": "patchmon.svg",
+      "id": 3770,
+      "is_default": true,
+      "label": "patchmon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "patchmon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a9925ee31debea9243c93f36bdae2f5ae3b49f08338c5571b1c91292edbb8ce"
+      },
+      "sha256": "53778a691b634ddbbb17e530278c23fa19aec3218dfbd195d33ccdec3df6b905",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/patchmon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 2427,
+  "schema_version": 1,
+  "id": 2654,
+  "title": "Qdirstat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Monitoring-Tools"
+  ],
+  "aliases": [
+    "qdirstat",
+    "Disk Usage Analyzer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2285,
+      "collection": "Dashboard Icons",
+      "file": "qdirstat.svg",
+      "id": 4215,
+      "is_default": true,
+      "label": "qdirstat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qdirstat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8d0534d17893a00588e6914e1b4e3e20e06b00865d6cbc04f9b87c986cd5b53e"
+      },
+      "sha256": "b2db27b4485a0e8d6ad99295084cad3a4a9b11cc3a6f9820cd1b175c109586fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qdirstat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

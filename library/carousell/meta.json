@@ -1,0 +1,40 @@
+{
+  "collection_id": 936,
+  "schema_version": 1,
+  "id": 1163,
+  "title": "Carousell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "carousell"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1186,
+      "collection": "Dashboard Icons",
+      "file": "carousell.svg",
+      "id": 2210,
+      "is_default": true,
+      "label": "carousell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "carousell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b99565e502167149d09a6457078e0d0ae7da79558cbdee072b57dcf252f0f9b"
+      },
+      "sha256": "b84f491db8acd5948edb421cb1d71f8e5de0acc70712a58bf967b5d805db41d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/carousell.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

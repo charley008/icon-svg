@@ -1,0 +1,59 @@
+{
+  "collection_id": 1843,
+  "schema_version": 1,
+  "id": 2070,
+  "title": "Mobotix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mobotix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3169,
+      "collection": "Dashboard Icons",
+      "file": "mobotix.svg",
+      "id": 3411,
+      "is_default": true,
+      "label": "mobotix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mobotix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "25a72a7657708eb4b6e9201695f3e15de1beff0ca8bedebce7e990464c63a007"
+      },
+      "sha256": "41e142c4d53a2828f67ec24105fc845889e260426570673e94e4d839c21aa773",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mobotix.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3181,
+      "collection": "Dashboard Icons",
+      "file": "mobotix-1.svg",
+      "id": 3412,
+      "is_default": false,
+      "label": "mobotix-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mobotix-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "473b68ece47fff6326d5b3b85d5f754db5321a4c214670888fc69522016f4ddc"
+      },
+      "sha256": "6a27fde69b5d837e8fbd468374ad68e887c6b83c35792fb2a677d182f3e3ed8a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mobotix-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

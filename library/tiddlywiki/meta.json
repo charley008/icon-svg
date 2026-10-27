@@ -1,0 +1,59 @@
+{
+  "collection_id": 2803,
+  "schema_version": 1,
+  "id": 3030,
+  "title": "Tiddlywiki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tiddlywiki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1416,
+      "collection": "Dashboard Icons",
+      "file": "tiddlywiki.svg",
+      "id": 4687,
+      "is_default": true,
+      "label": "tiddlywiki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tiddlywiki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74b306a40119968376f9d0a9d3cd36d0570db64b6eca8312e5fab92a01b761c1"
+      },
+      "sha256": "9c0fa3830e6501b86fc7d95ca47045d5b67a6a58c9981dfca2f0eccc564fd2ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiddlywiki.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1428,
+      "collection": "Dashboard Icons",
+      "file": "tiddlywiki-1.svg",
+      "id": 4688,
+      "is_default": false,
+      "label": "tiddlywiki-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tiddlywiki-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "46a069d6f6ab7434064e4be1fe77f1671cf9b1a4373ba37ec0c2521d3b23b1d8"
+      },
+      "sha256": "5d91abfc91d6821952c5c53b39831c6569e1bb521b2fd43532227d98179d4ea9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiddlywiki-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

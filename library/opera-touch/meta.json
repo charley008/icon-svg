@@ -1,0 +1,40 @@
+{
+  "collection_id": 2053,
+  "schema_version": 1,
+  "id": 2280,
+  "title": "Opera Touch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "opera-touch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1563,
+      "collection": "Dashboard Icons",
+      "file": "opera-touch.svg",
+      "id": 3701,
+      "is_default": true,
+      "label": "opera-touch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opera-touch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce1761420e67747e4f9dda4eb64c8362ed2d881aaf2995e33a419add295bcdbc"
+      },
+      "sha256": "da76a92554c7524ac4c06e44cc007e1b0edec888788c07d64243bdfd1d028d8d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opera-touch.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

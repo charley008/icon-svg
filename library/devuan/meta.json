@@ -1,0 +1,59 @@
+{
+  "collection_id": 1097,
+  "schema_version": 1,
+  "id": 1324,
+  "title": "Devuan",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "devuan"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 522,
+      "collection": "Dashboard Icons",
+      "file": "devuan.svg",
+      "id": 2425,
+      "is_default": true,
+      "label": "devuan",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "devuan.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3bdd7366f1c37a5889c48eabde9ce34a071d9a905f4f6429344666bed443c21e"
+      },
+      "sha256": "2724505a147323826ecbe5722da166049c0e94562ac1efd19a10393686eb7be1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/devuan.svg",
+      "version": 0
+    },
+    {
+      "bytes": 522,
+      "collection": "Dashboard Icons",
+      "file": "devuan-1.svg",
+      "id": 2426,
+      "is_default": false,
+      "label": "devuan-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "devuan-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4797ebb9ce964d01f736d99c9960333c7bcf60b3772d12f6707754b3d1015070"
+      },
+      "sha256": "33555cb4140e5f721f91d4c63908fc3295c32ad2307734c292545ebd678c699e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/devuan-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

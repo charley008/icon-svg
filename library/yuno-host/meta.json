@@ -1,0 +1,64 @@
+{
+  "collection_id": 3038,
+  "schema_version": 1,
+  "id": 3265,
+  "title": "Yuno Host",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "Server-Panels",
+    "Linux-Distributions",
+    "系统工具"
+  ],
+  "aliases": [
+    "yuno-host",
+    "Server OS"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4652,
+      "collection": "Dashboard Icons",
+      "file": "yuno-host.svg",
+      "id": 4996,
+      "is_default": true,
+      "label": "yuno-host",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yuno-host.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "097fffd17b89a2ec818f7cdfe97f715b5c9908350c4c1ef24f2664b2d26a1364"
+      },
+      "sha256": "523b3021949381321b6d3ba9808f6adb88b1ca4afededec9f9c3b333776fb0ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yuno-host.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4649,
+      "collection": "Dashboard Icons",
+      "file": "yuno-host-1.svg",
+      "id": 4997,
+      "is_default": false,
+      "label": "yunohost",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yunohost.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1fa49abc533878fca385f4b45ac9cb80d0766f2e769574d26306baf101f4e346"
+      },
+      "sha256": "06933362e8e32980f1d777ff783d5b82a2883fb1a20c0958d59205144b98d283",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yunohost.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 677,
+  "schema_version": 1,
+  "id": 904,
+  "title": "Airdc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "airdc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 815,
+      "collection": "Dashboard Icons",
+      "file": "airdc.svg",
+      "id": 1867,
+      "is_default": true,
+      "label": "airdc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "airdc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54d3bab43f1934b39627cb8fb930f23f343f3db0a4fab9a534fb3ae31dc83dde"
+      },
+      "sha256": "7c06cc6e89a4b6add64adb8b5eb370d2e62061c49e9cb1be8a0326b11b5bf662",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/airdc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

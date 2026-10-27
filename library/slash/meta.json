@@ -1,0 +1,63 @@
+{
+  "collection_id": 2632,
+  "schema_version": 1,
+  "id": 2859,
+  "title": "Slash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "slash",
+    "Link Shortener"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 352,
+      "collection": "Dashboard Icons",
+      "file": "slash.svg",
+      "id": 4473,
+      "is_default": true,
+      "label": "slash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a1add0b8cf69a706411caf186c8b052dcc5876902105b183b37684558e27d68"
+      },
+      "sha256": "047eee4051eb708803b47967b79ff985b6f0517b4371439ad308c76874b8d035",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/slash.svg",
+      "version": 0
+    },
+    {
+      "bytes": 385,
+      "collection": "Dashboard Icons",
+      "file": "slash-1.svg",
+      "id": 4474,
+      "is_default": false,
+      "label": "slash-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slash-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b15ca5c0852731aa71691d0866014f1b3cd26be584b4143a7c7ba535aa4e4870"
+      },
+      "sha256": "405f9b68da8bcfc9e401043462df63450d773545f69f77b362de804f762173de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/slash-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

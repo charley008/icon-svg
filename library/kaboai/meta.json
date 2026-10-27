@@ -1,0 +1,40 @@
+{
+  "collection_id": 1606,
+  "schema_version": 1,
+  "id": 1833,
+  "title": "Kaboai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kaboai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4667,
+      "collection": "Dashboard Icons",
+      "file": "kaboai.svg",
+      "id": 3099,
+      "is_default": true,
+      "label": "kaboai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kaboai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e669449348ab81b02a7be11483e9ec7afc27347183b219228159a8baf702d5d6"
+      },
+      "sha256": "b032c726731d5b4d7409e99cb2bc3454ae0eb5f9a97c7d6b19aae39921dcd0b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kaboai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

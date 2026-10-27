@@ -1,0 +1,40 @@
+{
+  "collection_id": 2600,
+  "schema_version": 1,
+  "id": 2827,
+  "title": "Shellhub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shellhub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1142,
+      "collection": "Dashboard Icons",
+      "file": "shellhub.svg",
+      "id": 4435,
+      "is_default": true,
+      "label": "shellhub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shellhub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "59f505e705e90b8e815f3ca08482ac9743fa62b7a5437f8369e6d2b61fa1a46a"
+      },
+      "sha256": "a6a823fc9a46150c493e38edb9d60a3b01072203c5f3d39d42f0d28f9c05646e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shellhub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

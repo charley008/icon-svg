@@ -1,0 +1,40 @@
+{
+  "collection_id": 883,
+  "schema_version": 1,
+  "id": 1110,
+  "title": "Blu Ray 3D",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "blu-ray-3d"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6213,
+      "collection": "Dashboard Icons",
+      "file": "blu-ray-3d.svg",
+      "id": 2141,
+      "is_default": true,
+      "label": "blu-ray-3d",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "blu-ray-3d.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b8a516c92f5717efce89ea3c2fd0d0d0e72f5885ff2ab5a52c8958f16c7853c"
+      },
+      "sha256": "8b1bd0d7a7d914c20ee7cfd2976282889518e520edf982a6f1ef849dc0f9d056",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blu-ray-3d.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

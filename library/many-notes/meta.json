@@ -1,0 +1,40 @@
+{
+  "collection_id": 1775,
+  "schema_version": 1,
+  "id": 2002,
+  "title": "Many Notes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "many-notes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2677,
+      "collection": "Dashboard Icons",
+      "file": "many-notes.svg",
+      "id": 3311,
+      "is_default": true,
+      "label": "many-notes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "many-notes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e86d4ee55299e92e87f4399d4890fb68e4560c92f517f400ab9b06106a05a01"
+      },
+      "sha256": "a5551136618afa14921a865ec97dd3b3e43ba381604f71dedec26c98fecdd36a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/many-notes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

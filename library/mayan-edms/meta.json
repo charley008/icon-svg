@@ -1,0 +1,63 @@
+{
+  "collection_id": 1790,
+  "schema_version": 1,
+  "id": 2017,
+  "title": "Mayan Edms",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "File-Sharing-\u0026-Sync",
+    "办公效率"
+  ],
+  "aliases": [
+    "mayan-edms",
+    "EDMS"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5630,
+      "collection": "Dashboard Icons",
+      "file": "mayan-edms.svg",
+      "id": 3328,
+      "is_default": true,
+      "label": "mayan-edms",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mayan-edms.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f67432ab09ccc921f3190df0a33a730c5a7216d79c7ac71fcaf51a7f53301912"
+      },
+      "sha256": "3733454c85c8c2bd2b1f6ad63d6d8764d0058a0164bc9973193f9e5aa026b75a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mayan-edms.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5649,
+      "collection": "Dashboard Icons",
+      "file": "mayan-edms-1.svg",
+      "id": 3329,
+      "is_default": false,
+      "label": "mayan-edms-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mayan-edms-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d786602d6acf03e14e48f8a25d2b7894964c68db3f0dd089a88da139f749694"
+      },
+      "sha256": "2c17268fd4bf1b302628f14766c7168bd0b3fa43627f40424b3f6652e865ef5c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mayan-edms-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 967,
+  "schema_version": 1,
+  "id": 1194,
+  "title": "Chimera Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "chimera-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1935,
+      "collection": "Dashboard Icons",
+      "file": "chimera-linux.svg",
+      "id": 2247,
+      "is_default": true,
+      "label": "chimera-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chimera-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6a2fd91ba40a39655d075a63f6513568fb564a4b28e6d81d481279cbaeba8fad"
+      },
+      "sha256": "ae0791f74f141481b7ee0e9b57c9c1a5249f4f6e0df7dd4d74ebbaf318083ad4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chimera-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

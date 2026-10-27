@@ -1,0 +1,78 @@
+{
+  "collection_id": 1891,
+  "schema_version": 1,
+  "id": 2118,
+  "title": "Nebula",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nebula"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 293,
+      "collection": "Dashboard Icons",
+      "file": "nebula.svg",
+      "id": 3471,
+      "is_default": true,
+      "label": "nebula",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nebula.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a813ae3b5c4c7de53ed774af46bf52fa697e1b84a2c60051b8d93bcc5c424145"
+      },
+      "sha256": "63ba6468dc94282de057520d1340ea4f7787a35d541e1f4f20b9fb3f87ab19c8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nebula.svg",
+      "version": 0
+    },
+    {
+      "bytes": 293,
+      "collection": "Dashboard Icons",
+      "file": "nebula-1.svg",
+      "id": 3472,
+      "is_default": false,
+      "label": "nebula-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nebula-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c46b5a75832b0ef690fa569c76d226bde60cb3c7572829414b13e9d2604c1be0"
+      },
+      "sha256": "7535a54af20806806bbc617755d69815d5416c8ba7bacc16a49f4207534e3c33",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nebula-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 293,
+      "collection": "Dashboard Icons",
+      "file": "nebula-2.svg",
+      "id": 3473,
+      "is_default": false,
+      "label": "nebula-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nebula-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f533b05982e129057d4c5eff233b89b5a6c0d14082f2a0f3fd94b4dd93c18442"
+      },
+      "sha256": "28a4c957bc0234d5fe491abcd0312d715dc1fe98fb63e01b21b6be4a9084f6b4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nebula-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

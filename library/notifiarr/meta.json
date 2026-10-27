@@ -1,0 +1,40 @@
+{
+  "collection_id": 1961,
+  "schema_version": 1,
+  "id": 2188,
+  "title": "Notifiarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "notifiarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 30095,
+      "collection": "Dashboard Icons",
+      "file": "notifiarr.svg",
+      "id": 3566,
+      "is_default": true,
+      "label": "notifiarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notifiarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aacc0e20cb663d5373b58dcecfed67fe050eb9b252beb374e2b12f463353f4ec"
+      },
+      "sha256": "453d9983351efea0a9edffa791f81d351782f74b96248f671f18d51bc3d0f629",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notifiarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

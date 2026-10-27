@@ -420,7 +420,7 @@
         "open.163.com"
       ],
       "description": "",
-      "category": "影音娱乐",
+      "category": "教育科研",
       "tags": [
         "影音",
         "网易",
@@ -557,11 +557,28 @@
       "notes": [],
       "icons": [
         {
+          "bytes": 619,
+          "collection": "用户提供 SVG",
+          "file": "netease-youdao-note-1.svg",
+          "id": 5414,
+          "is_default": true,
+          "label": "用户提供彩色版本",
+          "license": "用户提供；图案与商标归原权利人所有",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "youdao-note.svg",
+            "original_sha256": "c06261202a1b115d3c2876d21103303d4e6d11080729bc942a5a636a22f7b32f"
+          },
+          "sha256": "c06261202a1b115d3c2876d21103303d4e6d11080729bc942a5a636a22f7b32f",
+          "source": "用户提供：youdao-note.svg",
+          "version": 1
+        },
+        {
           "bytes": 550,
           "collection": "Iconify / arcticons",
           "file": "netease-youdao-note.svg",
           "id": 1006,
-          "is_default": true,
+          "is_default": false,
           "label": "youdao-note",
           "license": "CC BY-SA 4.0",
           "method": "downloaded-svg",
@@ -580,7 +597,7 @@
           "version": 0
         }
       ],
-      "next_version": 1
+      "next_version": 2
     }
   ]
 }

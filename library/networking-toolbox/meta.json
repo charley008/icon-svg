@@ -1,0 +1,59 @@
+{
+  "collection_id": 1910,
+  "schema_version": 1,
+  "id": 2137,
+  "title": "Networking Toolbox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "networking-toolbox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1670,
+      "collection": "Dashboard Icons",
+      "file": "networking-toolbox.svg",
+      "id": 3501,
+      "is_default": true,
+      "label": "networking-toolbox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "networking-toolbox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a12230645f2ec2166d6ce2068eeacf7514a221e0c3b70f27de0363d634dc6e0a"
+      },
+      "sha256": "3c8cae1e425f57299ecc0fb004214b283dcbafb235edc77cc77f56b80cc2456d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/networking-toolbox.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1670,
+      "collection": "Dashboard Icons",
+      "file": "networking-toolbox-1.svg",
+      "id": 3502,
+      "is_default": false,
+      "label": "networking-toolbox-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "networking-toolbox-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1048c0e65a3449e1de6484da45822063f92471dd41093555ed7fc98025e49279"
+      },
+      "sha256": "5677e0a0171429402422d735cc532aa9531825f3b6d88726741bc7bc5612421f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/networking-toolbox-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

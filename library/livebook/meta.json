@@ -1,0 +1,41 @@
+{
+  "collection_id": 1724,
+  "schema_version": 1,
+  "id": 1951,
+  "title": "Livebook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "livebook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6220,
+      "collection": "Dashboard Icons",
+      "file": "livebook.svg",
+      "id": 3248,
+      "is_default": true,
+      "label": "livebook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "livebook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0f1ce6005df7158405920b179ffeb7cfd7d4d2ee3103e0707f8982e3afe59135"
+      },
+      "sha256": "5a6f8289ba86b588d9918378a6fe0553349de5bda40ebce64bc5ba7d63fe839a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/livebook.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

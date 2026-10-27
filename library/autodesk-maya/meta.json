@@ -1,0 +1,60 @@
+{
+  "collection_id": 782,
+  "schema_version": 1,
+  "id": 1009,
+  "title": "Autodesk Maya",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "autodesk-maya"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2787,
+      "collection": "Dashboard Icons",
+      "file": "autodesk-maya.svg",
+      "id": 2010,
+      "is_default": true,
+      "label": "autodesk-maya",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "autodesk-maya.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fedb1572e8a4cdbefcd6d2d893703d4255b80048b72ba0834907bb8fe5364ca6"
+      },
+      "sha256": "07de36f33c917c3681683292012990b252e53da94f5f6c96aeffa818a7626418",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/autodesk-maya.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2743,
+      "collection": "TechIcons / Devicon",
+      "file": "autodesk-maya-1.svg",
+      "id": 5083,
+      "is_default": false,
+      "label": "TechIcons · Autodesk Maya",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Autodesk-Maya.svg",
+        "original_sha256": "2f1215474c1f6a9f793a808fe5d2cd40a386a5fd2bdb24b885415959f62d6629",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/maya",
+        "reference_website": "https://www.autodesk.com/products/maya"
+      },
+      "sha256": "78a557a6a71d1c097045f2de3abd76baf1f77cf3f78ebd23777898c4332d24a9",
+      "source": "https://techicons.dev/icons/maya",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

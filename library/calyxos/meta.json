@@ -1,0 +1,59 @@
+{
+  "collection_id": 931,
+  "schema_version": 1,
+  "id": 1158,
+  "title": "Calyxos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "calyxos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2105,
+      "collection": "Dashboard Icons",
+      "file": "calyxos.svg",
+      "id": 2203,
+      "is_default": true,
+      "label": "calyxos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "calyxos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "83a9448e076fc38236cf097bbf8c48d6e75da9ae6c7a1e255d1c8b27e5c08305"
+      },
+      "sha256": "085b972bc02cfde16dab0af07431f821f72c662744d0e6f370ec86a565afccef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/calyxos.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2105,
+      "collection": "Dashboard Icons",
+      "file": "calyxos-1.svg",
+      "id": 2204,
+      "is_default": false,
+      "label": "calyxos-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "calyxos-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "763e1b291678ed8ede0b9c0e28e704277c0b84b99347430e5775f1856cbc874c"
+      },
+      "sha256": "b47f8d93b58f919662bcf03e8e914b170c9d37d1f41f1b8375780aafba18799e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/calyxos-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

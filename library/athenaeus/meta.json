@@ -1,0 +1,59 @@
+{
+  "collection_id": 768,
+  "schema_version": 1,
+  "id": 995,
+  "title": "Athenaeus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "athenaeus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 656,
+      "collection": "Dashboard Icons",
+      "file": "athenaeus.svg",
+      "id": 1989,
+      "is_default": true,
+      "label": "athenaeus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "athenaeus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e80b26cb61385074badc201b43fc21252ac56ee4a72d839b9d03911456846065"
+      },
+      "sha256": "deafcfce264220aefc6b3a37d00c441c9a8a217bafbdfb3db405f03e9d7fe065",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/athenaeus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 656,
+      "collection": "Dashboard Icons",
+      "file": "athenaeus-1.svg",
+      "id": 1990,
+      "is_default": false,
+      "label": "athenaeus-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "athenaeus-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77089eb75696c04faf3b05346272778ea6265f61b0b2fc4752a1896fc5fc75d0"
+      },
+      "sha256": "e80d1287da9f0d4a4d66afb5708931c03012bcafaf0c2da7467fb468659652e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/athenaeus-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

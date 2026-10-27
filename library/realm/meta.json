@@ -1,0 +1,45 @@
+{
+  "collection_id": 3218,
+  "schema_version": 1,
+  "id": 3481,
+  "title": "Realm",
+  "url": "https://realm.io",
+  "domains": [
+    "realm.io"
+  ],
+  "description": "用于应用数据存储与管理的数据库工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Realm",
+    "realm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2670,
+      "collection": "TechIcons / Devicon",
+      "file": "realm-1.svg",
+      "id": 5337,
+      "is_default": true,
+      "label": "TechIcons · Realm",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Realm.svg",
+        "original_sha256": "45604375a3e92724199556e953b196f80cd1be03d322dfbbdf54a99822cad92e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/realm",
+        "reference_website": "https://realm.io"
+      },
+      "sha256": "ffae60fdc046e6a7553a54e43063e2ecbc01ef463dfa3cd934e02f65ced8102e",
+      "source": "https://techicons.dev/icons/realm",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

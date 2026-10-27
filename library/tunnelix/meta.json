@@ -1,0 +1,44 @@
+{
+  "collection_id": 2847,
+  "schema_version": 1,
+  "id": 3074,
+  "title": "Tunnelix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "tunnelix",
+    "ssh",
+    "tunnels",
+    "port-forwarding"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9680,
+      "collection": "Dashboard Icons",
+      "file": "tunnelix.svg",
+      "id": 4743,
+      "is_default": true,
+      "label": "tunnelix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tunnelix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2b1d3a1739e60adbf2f8b3a1795e4046585c59faedc99ab967450ebbafd87c4b"
+      },
+      "sha256": "a5f5c63005f6f3f0c6b8d6fa91a751acbfb72495223b9b9da4f555fb26613942",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tunnelix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

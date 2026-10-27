@@ -1,0 +1,40 @@
+{
+  "collection_id": 2980,
+  "schema_version": 1,
+  "id": 3207,
+  "title": "Willow",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "willow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 783,
+      "collection": "Dashboard Icons",
+      "file": "willow.svg",
+      "id": 4919,
+      "is_default": true,
+      "label": "willow",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "willow.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c7e1f5d1829860c84e39d6dc36dad821c7a35f317121a7b1a6fa193bdfc3a627"
+      },
+      "sha256": "d3ac54075ea2bceee3fd83ef4aa3cad57263fe9b06947429fa352a4ff0418754",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/willow.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

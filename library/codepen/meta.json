@@ -1,0 +1,45 @@
+{
+  "collection_id": 3101,
+  "schema_version": 1,
+  "id": 3341,
+  "title": "CodePen",
+  "url": "https://codepen.io",
+  "domains": [
+    "codepen.io"
+  ],
+  "description": "在线前端代码编辑与演示平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "CodePen",
+    "codepen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 763,
+      "collection": "TechIcons / Devicon",
+      "file": "codepen-1.svg",
+      "id": 5112,
+      "is_default": true,
+      "label": "TechIcons · CodePen",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CodePen.svg",
+        "original_sha256": "45f87ad71eba5fa53b6b02e6429ba3b27ae125e688ee13afe1edff4348ee6a63",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/codepen",
+        "reference_website": "https://codepen.io"
+      },
+      "sha256": "c756b0637136b2e352b62b94384be43e88669962fdd59fc31fe8dfc50377210c",
+      "source": "https://techicons.dev/icons/codepen",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

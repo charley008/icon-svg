@@ -1,4 +1,7 @@
 {
+  "collection_id": 583,
+  "schema_version": 1,
+  "id": 802,
   "title": "openSUSE",
   "url": "https://www.opensuse.org/",
   "domains": [
@@ -21,23 +24,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "opensuse.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "3970168e30f7e1ee2c1089df7dba34d3beefb0cc772d7ab73799d6f775187540",
       "bytes": 1709,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opensuse.svg",
+      "collection": "Dashboard Icons",
+      "file": "opensuse.svg",
+      "id": 1759,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "opensuse.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "3970168e30f7e1ee2c1089df7dba34d3beefb0cc772d7ab73799d6f775187540",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opensuse.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4174,
+      "collection": "TechIcons / Devicon",
+      "file": "opensuse-1.svg",
+      "id": 5301,
+      "is_default": false,
+      "label": "TechIcons · openSUSE",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "openSUSE.svg",
+        "original_sha256": "b7afe11fc13b35add7dc3cf380afabdce1cd912eaeb57fe75c2066e01238ead1",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/opensuse",
+        "reference_website": "https://www.opensuse.org"
+      },
+      "sha256": "74bc0ccae7b54ec7c716acf754fb30820b6d7f2d44a6cd65cb6bda3912530029",
+      "source": "https://techicons.dev/icons/opensuse",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

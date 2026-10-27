@@ -1,0 +1,40 @@
+{
+  "collection_id": 2540,
+  "schema_version": 1,
+  "id": 2767,
+  "title": "Rygel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rygel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9925,
+      "collection": "Dashboard Icons",
+      "file": "rygel.svg",
+      "id": 4353,
+      "is_default": true,
+      "label": "rygel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rygel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "91ea87cb54624688e11a503fb0b6ffe3e2cd78438acbccb7f3d000905be6360b"
+      },
+      "sha256": "478df29daa737b5edc1dd49a2d5b387492d854b88796cb09e766738d161761d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rygel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

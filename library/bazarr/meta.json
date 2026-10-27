@@ -1,0 +1,59 @@
+{
+  "collection_id": 854,
+  "schema_version": 1,
+  "id": 1081,
+  "title": "Bazarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bazarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1165,
+      "collection": "Dashboard Icons",
+      "file": "bazarr.svg",
+      "id": 2098,
+      "is_default": true,
+      "label": "bazarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bazarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b42777ee622ddf85ace15dbe9a70d471a2ca364e745c73ea467da3a0a7586162"
+      },
+      "sha256": "6a690e78c16e0e8dacceb9aa0764dc33d6925b6ce4b8a56ae630f4f8bc3fbac5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bazarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1222,
+      "collection": "Dashboard Icons",
+      "file": "bazarr-1.svg",
+      "id": 2099,
+      "is_default": false,
+      "label": "bazarr-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bazarr-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eb1c116488daf4daa1548111c6c7f56f0f299a780a5c7346a4d8d019d33c50a6"
+      },
+      "sha256": "0f012ddf95b2a5d7c4594cbcf10b359800e4bad9da1704f034a8453498077781",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bazarr-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

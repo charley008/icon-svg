@@ -1,0 +1,43 @@
+{
+  "collection_id": 1149,
+  "schema_version": 1,
+  "id": 1376,
+  "title": "Double Commander",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Office-Suites"
+  ],
+  "aliases": [
+    "double-commander",
+    "File Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8463,
+      "collection": "Dashboard Icons",
+      "file": "double-commander.svg",
+      "id": 2493,
+      "is_default": true,
+      "label": "double-commander",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "double-commander.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "040bed90cdcd3dab796fca641d7c7188c01145fdb7b52986b29fc0dceac9ba64"
+      },
+      "sha256": "0f5ed46387f72c2b9e74bf24496984a98607ed4dc87408730be2d3e770a6488c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/double-commander.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

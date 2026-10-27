@@ -1,0 +1,40 @@
+{
+  "collection_id": 2583,
+  "schema_version": 1,
+  "id": 2810,
+  "title": "Senstar",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "senstar"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 729,
+      "collection": "Dashboard Icons",
+      "file": "senstar.svg",
+      "id": 4412,
+      "is_default": true,
+      "label": "senstar",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "senstar.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "764d865881f7ea5b31ea4ae3ff30356c465876b6b64d3b22405972e6ec508217"
+      },
+      "sha256": "b12e6afe74f8d457f28098f92a14d11d8080492949f48002e2ac1bf1247c2161",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/senstar.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

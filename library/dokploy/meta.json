@@ -1,0 +1,60 @@
+{
+  "collection_id": 1143,
+  "schema_version": 1,
+  "id": 1370,
+  "title": "Dokploy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "dokploy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6675,
+      "collection": "Dashboard Icons",
+      "file": "dokploy.svg",
+      "id": 2484,
+      "is_default": true,
+      "label": "dokploy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dokploy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "362a02db395230f647899ed719fef6c5fbf47f2372ab7c7a256c1603f94e3607"
+      },
+      "sha256": "0169bff3454fe2a6ab342b652834edc58be7243898e85dc10ee2fcc9e0b1cd6a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dokploy.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6675,
+      "collection": "Dashboard Icons",
+      "file": "dokploy-1.svg",
+      "id": 2485,
+      "is_default": false,
+      "label": "dokploy-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dokploy-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0690e1f43da64eb285e4c7090b5c5003e9acbe9d00d195728c6873106fe4752d"
+      },
+      "sha256": "be5c58e58a27846560edafa728ad1e3f7819b523f7a9ffe284f6bb5ef1a1e1ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dokploy-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

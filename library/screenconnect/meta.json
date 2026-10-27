@@ -1,0 +1,43 @@
+{
+  "collection_id": 2562,
+  "schema_version": 1,
+  "id": 2789,
+  "title": "Screenconnect",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "screenconnect",
+    "Remote Support"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 328,
+      "collection": "Dashboard Icons",
+      "file": "screenconnect.svg",
+      "id": 4382,
+      "is_default": true,
+      "label": "screenconnect",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "screenconnect.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2423923731a76fb4999cdf38d5082a9f5ec4055f318c84c36c7f1f3b837d6cac"
+      },
+      "sha256": "b878503b6541694c79fac96db1501ce3c6a7d12dd8b366e7b5ac2dbe7af3b70b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/screenconnect.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

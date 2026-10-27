@@ -1,0 +1,40 @@
+{
+  "collection_id": 1862,
+  "schema_version": 1,
+  "id": 2089,
+  "title": "Mousetrap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mousetrap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 941,
+      "collection": "Dashboard Icons",
+      "file": "mousetrap.svg",
+      "id": 3437,
+      "is_default": true,
+      "label": "mousetrap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mousetrap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "59da6d975400f3809475a296b8452076baef5b6f3fabe7275cefb4d66e6522e4"
+      },
+      "sha256": "c570831bc19e2e094b287ebdea7cc3c829f882a55c2e3d557bfab5144deeeb30",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mousetrap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

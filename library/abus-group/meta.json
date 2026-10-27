@@ -1,0 +1,40 @@
+{
+  "collection_id": 658,
+  "schema_version": 1,
+  "id": 885,
+  "title": "Abus Group",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "abus-group"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14991,
+      "collection": "Dashboard Icons",
+      "file": "abus-group.svg",
+      "id": 1846,
+      "is_default": true,
+      "label": "abus-group",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "abus-group.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "05f12f0cef1037a08105a2a20139f43e9cd8ac82547f252cf1c0ca9a821ff540"
+      },
+      "sha256": "49d20c6900abc64c1b411aa77411e195aa8c897df136461a1a6cbc767fd0ca78",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/abus-group.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -71,8 +71,84 @@
       "sha256": "66928250c74dca4a76b7b9c8de2a58af02acd9e8e733d96b57414e994c2001d1",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/plex-2.svg",
       "version": 2
+    },
+    {
+      "bytes": 232,
+      "collection": "Dashboard Icons",
+      "file": "plex-3.svg",
+      "id": 3859,
+      "is_default": false,
+      "label": "plex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae6e754dc2644c7ad6b41853cdac75812ccaeed4c2f08fcd88d81e2f3ec01dba"
+      },
+      "sha256": "998cdff5561fd5683e2ca5010b76c25260de16039564a90ddf10a6b8e764ab92",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plex.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2038,
+      "collection": "Dashboard Icons",
+      "file": "plex-4.svg",
+      "id": 3860,
+      "is_default": false,
+      "label": "plex-alt-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plex-alt-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "655bd390803514b124082e42da813fe4a9c61157827fcb1d55b8eab901ac1a55"
+      },
+      "sha256": "b1faf06eb54fc61fedbdbf15097469b89d6f1dbdd16786648659bc85b12a6aed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plex-alt-light.svg",
+      "version": 4
+    },
+    {
+      "bytes": 2020,
+      "collection": "Dashboard Icons",
+      "file": "plex-5.svg",
+      "id": 3861,
+      "is_default": false,
+      "label": "plex-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plex-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5930879f60371be976b2c06d6ccb9699b98b333b0ab864f4fcef300e6e3a273c"
+      },
+      "sha256": "6c5e7ed1721f6aaed634400c270c940c155888ad517f067ad3c67166a2f0413d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plex-alt.svg",
+      "version": 5
+    },
+    {
+      "bytes": 229,
+      "collection": "Dashboard Icons",
+      "file": "plex-6.svg",
+      "id": 3862,
+      "is_default": false,
+      "label": "plex-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plex-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "65108e09609b3788fa56e7d289652517b666029d64a9511ebd9285f9737ccc8d"
+      },
+      "sha256": "d2d84afac9ec6cc9f0ddcffbccdfb65b66e7c539f5e3097bb51f3d2c70a38ddb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plex-light.svg",
+      "version": 6
     }
   ],
-  "next_version": 3,
+  "next_version": 7,
   "products": []
 }

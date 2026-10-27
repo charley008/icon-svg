@@ -1,0 +1,40 @@
+{
+  "collection_id": 1778,
+  "schema_version": 1,
+  "id": 2005,
+  "title": "Mapillary",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mapillary"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 788,
+      "collection": "Dashboard Icons",
+      "file": "mapillary.svg",
+      "id": 3314,
+      "is_default": true,
+      "label": "mapillary",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mapillary.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa0eb62d0c4fe66045f16f423cab16de00b54ea5b9025d275441c12f390268b1"
+      },
+      "sha256": "5570b42e25b31168122020d8866d2c1a5c4f61f28d89772da666142d0993db87",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mapillary.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

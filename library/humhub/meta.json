@@ -1,0 +1,40 @@
+{
+  "collection_id": 1508,
+  "schema_version": 1,
+  "id": 1735,
+  "title": "Humhub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "humhub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 758,
+      "collection": "Dashboard Icons",
+      "file": "humhub.svg",
+      "id": 2972,
+      "is_default": true,
+      "label": "humhub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "humhub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b91a8bab09eaa55fbd806c7a2a54b9a70744c1a32ae2601583f8aba8d955146c"
+      },
+      "sha256": "9c1b1c987d548f4fc6791bbf676068fe199c730a346e5ac248719ddb74bbb3dd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/humhub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3201,
+  "schema_version": 1,
+  "id": 3464,
+  "title": "Phoenix Framework",
+  "url": "https://www.phoenixframework.org",
+  "domains": [
+    "phoenixframework.org"
+  ],
+  "description": "基于 Elixir 的 Web 应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Phoenix Framework",
+    "phoenix",
+    "Phoenix-Framework"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3399,
+      "collection": "TechIcons / Devicon",
+      "file": "phoenix-framework-1.svg",
+      "id": 5312,
+      "is_default": true,
+      "label": "TechIcons · Phoenix Framework",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Phoenix-Framework.svg",
+        "original_sha256": "4b4b6d7c7a3ec87781a25f8f059f66f35baa15641dd6fd80e42b6ccb78f14c89",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/phoenix",
+        "reference_website": "https://www.phoenixframework.org"
+      },
+      "sha256": "29ec331c160453c5d70d7eece145155b890e07323ce8e67627532809bfae6369",
+      "source": "https://techicons.dev/icons/phoenix",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

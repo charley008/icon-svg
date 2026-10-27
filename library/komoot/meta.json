@@ -1,0 +1,40 @@
+{
+  "collection_id": 1650,
+  "schema_version": 1,
+  "id": 1877,
+  "title": "Komoot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "komoot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 997,
+      "collection": "Dashboard Icons",
+      "file": "komoot.svg",
+      "id": 3150,
+      "is_default": true,
+      "label": "komoot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "komoot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4737bad9ade4b8f3a56d6e9371598cde7c411994b52a996ba3c0ede3a1fe1860"
+      },
+      "sha256": "a708dc5296c45f693dcaae7ec74e75e27ba98845c95c776ca6c453f733f0ad42",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/komoot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

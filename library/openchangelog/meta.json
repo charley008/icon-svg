@@ -1,0 +1,59 @@
+{
+  "collection_id": 2026,
+  "schema_version": 1,
+  "id": 2253,
+  "title": "Openchangelog",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openchangelog"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1174,
+      "collection": "Dashboard Icons",
+      "file": "openchangelog.svg",
+      "id": 3661,
+      "is_default": true,
+      "label": "openchangelog",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openchangelog.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f9492e82c41646bac1a8372d3b01a893fc795a2d3f5b3e151c39a90e482388a"
+      },
+      "sha256": "8bf34150664e3f123c0069b104963362da3e406a3e9658d764bb3231abbbcfb3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openchangelog.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1186,
+      "collection": "Dashboard Icons",
+      "file": "openchangelog-1.svg",
+      "id": 3662,
+      "is_default": false,
+      "label": "openchangelog-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openchangelog-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "255e53d343e4d0136ae67ec063f81416ec7362d601e1c7aa1cef8ad9db812c61"
+      },
+      "sha256": "bf288dc16a09d50365256772cb1387f50ddbcbcb28cf2843a24fba8497992850",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openchangelog-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

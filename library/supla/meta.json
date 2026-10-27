@@ -1,0 +1,40 @@
+{
+  "collection_id": 2717,
+  "schema_version": 1,
+  "id": 2944,
+  "title": "Supla",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "supla"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2725,
+      "collection": "Dashboard Icons",
+      "file": "supla.svg",
+      "id": 4579,
+      "is_default": true,
+      "label": "supla",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "supla.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5ff8ee4df03d906e6324bb1b1d8581e83dc31f9bc6d28892d7e5b08e7de6b329"
+      },
+      "sha256": "1d2a92417ea2649a4f1a578addc026e025d2b639c266c9dc7e8f26bb8658f563",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/supla.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

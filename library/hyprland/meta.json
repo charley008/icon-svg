@@ -1,0 +1,42 @@
+{
+  "collection_id": 1512,
+  "schema_version": 1,
+  "id": 1739,
+  "title": "Hyprland",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "hyprland",
+    "hyprwm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 897,
+      "collection": "Dashboard Icons",
+      "file": "hyprland.svg",
+      "id": 2977,
+      "is_default": true,
+      "label": "hyprland",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hyprland.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c6081300c7e0a4ac46c439776a874138d19192e29a374306b64f5d4593747d59"
+      },
+      "sha256": "0f06ea3e2ab35cb30a02d65cca5de3eeba2ea4b40a00997c2aab116276e61f19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hyprland.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

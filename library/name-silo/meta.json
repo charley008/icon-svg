@@ -1,0 +1,40 @@
+{
+  "collection_id": 1888,
+  "schema_version": 1,
+  "id": 2115,
+  "title": "Name Silo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "name-silo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 941,
+      "collection": "Dashboard Icons",
+      "file": "name-silo.svg",
+      "id": 3467,
+      "is_default": true,
+      "label": "name-silo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "name-silo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "164dc6031e95be4899aa4ed7b8b17857aba483bba9e3d56163a5a39290c9b193"
+      },
+      "sha256": "a7c57146fe7417a5054996033cb411ab769716c7c896bb63d489435281f02d54",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/name-silo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

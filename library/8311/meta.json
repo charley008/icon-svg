@@ -1,0 +1,40 @@
+{
+  "collection_id": 651,
+  "schema_version": 1,
+  "id": 878,
+  "title": "8311",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "8311"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6113,
+      "collection": "Dashboard Icons",
+      "file": "8311.svg",
+      "id": 1839,
+      "is_default": true,
+      "label": "8311",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "8311.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a4a793b5dc536877b8d6dbfb14020b08e658e097582ecd2d0be97e52bd5cbcf"
+      },
+      "sha256": "1235e503328c58a68daccf8fc89d697bbab9a2c2bc934c92cde2b9d3b3119fc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/8311.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2211,
+  "schema_version": 1,
+  "id": 2438,
+  "title": "Printventory",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "printventory"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1571,
+      "collection": "Dashboard Icons",
+      "file": "printventory.svg",
+      "id": 3928,
+      "is_default": true,
+      "label": "printventory",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "printventory.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62d495a364101bae4a450a0793abc8703010dca2fec0f58fea6b3c0e1494d24b"
+      },
+      "sha256": "2dc9468a2584ef2f781f568c6b54c64dc5e8bd5801cef74953973828054c4b0a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/printventory.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

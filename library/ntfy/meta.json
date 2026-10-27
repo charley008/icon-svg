@@ -1,0 +1,40 @@
+{
+  "collection_id": 1969,
+  "schema_version": 1,
+  "id": 2196,
+  "title": "Ntfy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ntfy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1551,
+      "collection": "Dashboard Icons",
+      "file": "ntfy.svg",
+      "id": 3577,
+      "is_default": true,
+      "label": "ntfy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ntfy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e1155b02e8d819eb9024b1244dd636a773930918d88ac917602275fb9c42991"
+      },
+      "sha256": "b70ff2305be9edfa6f4f49d75c8e45962d78a0a8b8063e3b689f9f77b7ae472f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ntfy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

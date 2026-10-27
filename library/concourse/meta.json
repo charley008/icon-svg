@@ -1,0 +1,40 @@
+{
+  "collection_id": 1011,
+  "schema_version": 1,
+  "id": 1238,
+  "title": "Concourse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "concourse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2526,
+      "collection": "Dashboard Icons",
+      "file": "concourse.svg",
+      "id": 2311,
+      "is_default": true,
+      "label": "concourse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "concourse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "12cf75610ca50063180f768f8890803e8796bce2b2fa2e0c6690f3be01da4979"
+      },
+      "sha256": "491713be899818ea96dfaab3c1abc0503ec07d4db03af94dd5f7e9eee44e54bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/concourse.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

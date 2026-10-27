@@ -1,0 +1,44 @@
+{
+  "collection_id": 643,
+  "schema_version": 1,
+  "id": 870,
+  "title": "13Ft",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "13ft",
+    "paywall-remover",
+    "article-unblocker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6274,
+      "collection": "Dashboard Icons",
+      "file": "13ft.svg",
+      "id": 1826,
+      "is_default": true,
+      "label": "13ft",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "13ft.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a0cbff962175f3306075e52d8bfe5f47434b16ed95f78f92d6a45f30c65a8a33"
+      },
+      "sha256": "e187335c2373ea9818c96097e65d1faad008951854830fd1a1ac865c4d48a380",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/13ft.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

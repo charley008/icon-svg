@@ -1,0 +1,45 @@
+{
+  "collection_id": 3245,
+  "schema_version": 1,
+  "id": 3508,
+  "title": "Tauri",
+  "url": "https://tauri.app",
+  "domains": [
+    "tauri.app"
+  ],
+  "description": "使用 Web 界面技术构建桌面应用的开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Tauri",
+    "tauri"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1637,
+      "collection": "TechIcons / Devicon",
+      "file": "tauri-1.svg",
+      "id": 5376,
+      "is_default": true,
+      "label": "TechIcons · Tauri",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Tauri.svg",
+        "original_sha256": "ead32ee5a82726948b9038ccae84f8c071681db1df988460ecd1c8ac3b132744",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/tauri",
+        "reference_website": "https://tauri.app"
+      },
+      "sha256": "fdcf48f8d401d47d1c9667105f2623614c7d51b4d63bf3cc2977afa569ba2815",
+      "source": "https://techicons.dev/icons/tauri",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

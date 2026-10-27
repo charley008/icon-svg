@@ -131,8 +131,28 @@
       "sha256": "d018886846ec16279dce73c12674251283c5b4eea88a5b4eacbe4d36f07eccdf",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook.svg",
       "version": 4
+    },
+    {
+      "bytes": 384,
+      "collection": "TechIcons / Devicon",
+      "file": "facebook-5.svg",
+      "id": 5154,
+      "is_default": false,
+      "label": "TechIcons · Facebook",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Facebook.svg",
+        "original_sha256": "3f40fb3902e04e327e5a2c793c5d9ef1f0c47794cf2350a11d419be7a9c27bd5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/facebook",
+        "reference_website": "https://www.facebook.com"
+      },
+      "sha256": "3aa40e6107d1a07e5c374bb0dabc9a178fed6f4dae750929a787b98a97998184",
+      "source": "https://techicons.dev/icons/facebook",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

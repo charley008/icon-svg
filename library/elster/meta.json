@@ -1,0 +1,40 @@
+{
+  "collection_id": 1190,
+  "schema_version": 1,
+  "id": 1417,
+  "title": "Elster",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "elster"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 301,
+      "collection": "Dashboard Icons",
+      "file": "elster.svg",
+      "id": 2548,
+      "is_default": true,
+      "label": "elster",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elster.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e7031c7614267fdeabef058e7b1728f5156770a2b64a25f4f6c4e59178014a0d"
+      },
+      "sha256": "e2dcac321ccdb75aa4c4f1d6eca1cc6dd02c33e6466e2ef6ede735c9a3c6d5c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elster.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,63 @@
+{
+  "collection_id": 699,
+  "schema_version": 1,
+  "id": 926,
+  "title": "Amd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "Organization"
+  ],
+  "aliases": [
+    "amd",
+    "processor-company",
+    "computer-chips"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 229,
+      "collection": "Dashboard Icons",
+      "file": "amd.svg",
+      "id": 1894,
+      "is_default": true,
+      "label": "amd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "260033e5c6339e98c0a14235c3d5389d1dfbd54e75ed6323f589df5b0a507bd7"
+      },
+      "sha256": "b13109f0ab0ad87d916f921c58e03730685a0526e369adfe917af0bd69d9166d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amd.svg",
+      "version": 0
+    },
+    {
+      "bytes": 241,
+      "collection": "Dashboard Icons",
+      "file": "amd-1.svg",
+      "id": 1895,
+      "is_default": false,
+      "label": "amd-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "amd-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "79f69cb3fe9d86ae8c2a9c7e7cd8ec966552a9c6fc00b2ae31dcca7183eeabd4"
+      },
+      "sha256": "90bda8267550b1a215b1edf83bebccd9f10db64b8d6b0f113a7c66adcfd8f0f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/amd-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3229,
+  "schema_version": 1,
+  "id": 3492,
+  "title": "Simple DirectMedia Layer (SDL)",
+  "url": "https://wiki.libsdl.org/SDL2/FrontPage",
+  "domains": [
+    "wiki.libsdl.org"
+  ],
+  "description": "跨平台多媒体与游戏程序开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Simple DirectMedia Layer (SDL)",
+    "sdl",
+    "Simple-DirectMedia-Layer-(SDL)"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12147,
+      "collection": "TechIcons / Devicon",
+      "file": "sdl-1.svg",
+      "id": 5354,
+      "is_default": true,
+      "label": "TechIcons · Simple DirectMedia Layer (SDL)",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Simple-DirectMedia-Layer-(SDL).svg",
+        "original_sha256": "f75d2c4b22e19bc389b95d499b71e2dd0726553886fb92357d7a6b4b898c2ad0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sdl",
+        "reference_website": "https://wiki.libsdl.org/SDL2/FrontPage"
+      },
+      "sha256": "5b8df7ae225f484420ec0321a9b0e94a04bcff5247843919ae97d1e54df8c7bd",
+      "source": "https://techicons.dev/icons/sdl",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

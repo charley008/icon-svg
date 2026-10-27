@@ -1,0 +1,102 @@
+{
+  "collection_id": 700,
+  "schema_version": 1,
+  "id": 927,
+  "redirect_from": [
+    928
+  ],
+  "title": "Ammds",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ammds",
+    "ammds-wordmark",
+    "Ammds Wordmark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 164655,
+      "collection": "Dashboard Icons",
+      "file": "ammds.svg",
+      "id": 1896,
+      "is_default": true,
+      "label": "ammds",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ammds.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "958828bcf26355e12af9b48281e8f93b2db60436bdf493b613e6cdc1fc516caf"
+      },
+      "sha256": "94bbfc57af043f221692aa2efba84ced7e87442a17e066d49916618b286bf6d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ammds.svg",
+      "version": 0
+    },
+    {
+      "bytes": 164651,
+      "collection": "Dashboard Icons",
+      "file": "ammds-1.svg",
+      "id": 1897,
+      "is_default": false,
+      "label": "ammds-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ammds-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6e678a8d4f4a95097a3abacb2688419bc25e22cc8aa3d5eea89363b6ff7fe1e1"
+      },
+      "sha256": "9fa4302e84704bd5b744078cf4a6681e78c0145f84535259a351253dd8fe0eee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ammds-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 45786,
+      "collection": "Dashboard Icons",
+      "file": "ammds-2.svg",
+      "id": 1898,
+      "is_default": false,
+      "label": "ammds-wordmark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ammds-wordmark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c0b588c03c19eb48428779ef71b22a333bdff174c57aba99cfef2568034e877"
+      },
+      "sha256": "e3261077013c1bd47a94bd24e8ac1e413bb6a4c0c0ef55bc4a8b582b2cecb2cf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ammds-wordmark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 45786,
+      "collection": "Dashboard Icons",
+      "file": "ammds-3.svg",
+      "id": 1899,
+      "is_default": false,
+      "label": "ammds-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ammds-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b7a7ba42d4433ece3850bbbf9df568bdcc542a7878ac42f8e3020a9065860a99"
+      },
+      "sha256": "076c022b8d6545ec6e95d8a82a4f0b19181ffd200a276446e19daa87afa55e6f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ammds-wordmark-light.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3213,
+  "schema_version": 1,
+  "id": 3476,
+  "title": "Qt Framework",
+  "url": "https://www.qt.io",
+  "domains": [
+    "qt.io"
+  ],
+  "description": "跨平台应用与图形界面开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Qt Framework",
+    "qt",
+    "Qt-Framework"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1087,
+      "collection": "TechIcons / Devicon",
+      "file": "qt-1.svg",
+      "id": 5331,
+      "is_default": true,
+      "label": "TechIcons · Qt Framework",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Qt-Framework.svg",
+        "original_sha256": "03b72b7d8c57fcedfaaac7052e8b2b0abfb65fe11910a8a14b1d7fbbd69e1332",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/qt",
+        "reference_website": "https://www.qt.io"
+      },
+      "sha256": "21f7dce30f19b06898f77ab979fe56a6a236cb5bfb0c2996a1f412aed086de9b",
+      "source": "https://techicons.dev/icons/qt",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

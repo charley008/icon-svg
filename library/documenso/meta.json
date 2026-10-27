@@ -1,0 +1,40 @@
+{
+  "collection_id": 1134,
+  "schema_version": 1,
+  "id": 1361,
+  "title": "Documenso",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "documenso"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10388,
+      "collection": "Dashboard Icons",
+      "file": "documenso.svg",
+      "id": 2474,
+      "is_default": true,
+      "label": "documenso",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "documenso.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c85dc01e113b0b6a0e857f5c3f23b0f0106faf2890b3b512155949edd204c41b"
+      },
+      "sha256": "e4c4def5f5da48fd646f6b9485ebe514d996a99af589e4a33a93a3fdea22378a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/documenso.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,63 @@
+{
+  "collection_id": 1425,
+  "schema_version": 1,
+  "id": 1652,
+  "title": "Greenbone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Monitoring-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "greenbone",
+    "Vulnerability Scanner"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 17801,
+      "collection": "Dashboard Icons",
+      "file": "greenbone.svg",
+      "id": 2853,
+      "is_default": true,
+      "label": "greenbone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "greenbone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d2edaddb0dc89fdb516925ad64193e39cd4ff6031fc9ff675145fbdf3dd83357"
+      },
+      "sha256": "185f4b0af2666f23a277801045e347a10d9667ad8d577dcffc156b0103cbe72f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/greenbone.svg",
+      "version": 0
+    },
+    {
+      "bytes": 17906,
+      "collection": "Dashboard Icons",
+      "file": "greenbone-1.svg",
+      "id": 2854,
+      "is_default": false,
+      "label": "greenbone-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "greenbone-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "34ccb79b34281798d97724962fd062087cdf77ddfd9dd7e94a6cbbd3f554ec92"
+      },
+      "sha256": "d1f6cfa7211235321ae5a9b402400ddc352c14a03494db4d2582d7298a8b5843",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/greenbone-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

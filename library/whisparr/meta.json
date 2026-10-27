@@ -1,0 +1,40 @@
+{
+  "collection_id": 2973,
+  "schema_version": 1,
+  "id": 3200,
+  "title": "Whisparr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "whisparr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2379,
+      "collection": "Dashboard Icons",
+      "file": "whisparr.svg",
+      "id": 4911,
+      "is_default": true,
+      "label": "whisparr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whisparr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bade8700a5fbed646994197cf4a93533f4ca7113a971ce51bb81f9cf076dc5f8"
+      },
+      "sha256": "ccce3fa475aad07b9e2897b3b7a45c945b4f8d10a60e2461fc9d51c4300ed340",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whisparr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

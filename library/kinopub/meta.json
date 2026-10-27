@@ -1,0 +1,40 @@
+{
+  "collection_id": 1635,
+  "schema_version": 1,
+  "id": 1862,
+  "title": "Kinopub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kinopub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 551,
+      "collection": "Dashboard Icons",
+      "file": "kinopub.svg",
+      "id": 3133,
+      "is_default": true,
+      "label": "kinopub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kinopub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "db51276710572e11d5ee17f9eb5b98b8c4b52f6169bbd98748aea10a70fffa02"
+      },
+      "sha256": "a7ac8fa7a08ee42dfcf8b8ef1dc8473c4338615b6a1a41f4787529ac92e3bd71",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kinopub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

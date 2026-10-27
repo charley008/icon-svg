@@ -1,0 +1,59 @@
+{
+  "collection_id": 865,
+  "schema_version": 1,
+  "id": 1092,
+  "title": "Biblioreads",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "biblioreads"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1216,
+      "collection": "Dashboard Icons",
+      "file": "biblioreads.svg",
+      "id": 2114,
+      "is_default": true,
+      "label": "biblioreads",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "biblioreads.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f273e7f49f17396aa951ca671730cd187ba4aa11e39700e774dd0e704b334738"
+      },
+      "sha256": "9d47a6d8ac9fb834a71a18145c88a132c363d6110667f460c673dba47b6ff7b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/biblioreads.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1235,
+      "collection": "Dashboard Icons",
+      "file": "biblioreads-1.svg",
+      "id": 2115,
+      "is_default": false,
+      "label": "biblioreads-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "biblioreads-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "29d9361d5bacd582a1f5abfa59241b1559024dec11b33d7aac995a5b556ac81f"
+      },
+      "sha256": "c161eb0119a382f555e76f6c43003ed465cc518b813e47b3c589b8d61673281b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/biblioreads-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

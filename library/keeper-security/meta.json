@@ -1,0 +1,43 @@
+{
+  "collection_id": 1624,
+  "schema_version": 1,
+  "id": 1851,
+  "title": "Keeper Security",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "keeper-security",
+    "keeper"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 829,
+      "collection": "Dashboard Icons",
+      "file": "keeper-security.svg",
+      "id": 3120,
+      "is_default": true,
+      "label": "keeper-security",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keeper-security.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1bd421506144384134a8570a7d49743b50a54ad4a229f85070756361e272f90c"
+      },
+      "sha256": "aadde653f11ea54db431cf46baaf38656c624a576b3b4d88782c805c3a68c603",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keeper-security.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

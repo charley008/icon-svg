@@ -1,0 +1,40 @@
+{
+  "collection_id": 805,
+  "schema_version": 1,
+  "id": 1032,
+  "title": "Awx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "awx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5483,
+      "collection": "Dashboard Icons",
+      "file": "awx.svg",
+      "id": 2038,
+      "is_default": true,
+      "label": "awx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "awx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de9a68cc623f0eae46c5492f828354e2af15b969770b9eff3f9cba15cff5a746"
+      },
+      "sha256": "f36fda08b19d57514b1fb8bd1bebbbf5a8893a150414a4234afbc86dc58de0e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/awx.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

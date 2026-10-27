@@ -1,0 +1,40 @@
+{
+  "collection_id": 2588,
+  "schema_version": 1,
+  "id": 2815,
+  "title": "Serverspec",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "serverspec"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 983,
+      "collection": "Dashboard Icons",
+      "file": "serverspec.svg",
+      "id": 4419,
+      "is_default": true,
+      "label": "serverspec",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "serverspec.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7817855b0b82098a1b1b37483a9a8f049bc7c638b11657c5c757558f123e87f6"
+      },
+      "sha256": "4b9ae43ba97c61e36af30e1bb425bdd5a8ea61417decf16bf1235243c8b2134f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/serverspec.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

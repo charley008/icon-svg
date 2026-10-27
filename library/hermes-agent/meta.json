@@ -2,6 +2,9 @@
   "collection_id": 188,
   "schema_version": 1,
   "id": 284,
+  "redirect_from": [
+    1696
+  ],
   "title": "Hermes Agent",
   "url": "https://hermes-agent.nousresearch.com",
   "domains": [
@@ -16,7 +19,9 @@
     "hermes-agent.nousresearch.com"
   ],
   "aliases": [
-    "hermes-agent"
+    "hermes-agent",
+    "hermes-agent-alt",
+    "Hermes Agent Alt"
   ],
   "notes": [],
   "icons": [
@@ -43,8 +48,46 @@
       "sha256": "b5c655c733e8b4301add5d8526e22bdcf2fe5ea91cfa9571cbef52a96d84d427",
       "source": "https://web.gotab.cn/sourceStore/website/01KZ7Y6MN34V9Q0EG6DEK7BFER.svg",
       "version": 0
+    },
+    {
+      "bytes": 29610,
+      "collection": "Dashboard Icons",
+      "file": "hermes-agent-1.svg",
+      "id": 2923,
+      "is_default": false,
+      "label": "hermes-agent-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hermes-agent-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fea68cfa710dc6189b95d14118981e00a1ba7ddfe987c1bc5f1bd0279afa5624"
+      },
+      "sha256": "b12f09bbd10483da1aad664e74489b14f5d9805169f2f8b68ff6160b834d70c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hermes-agent-alt.svg",
+      "version": 1
+    },
+    {
+      "bytes": 29771,
+      "collection": "Dashboard Icons",
+      "file": "hermes-agent-2.svg",
+      "id": 2924,
+      "is_default": false,
+      "label": "hermes-agent-alt-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hermes-agent-alt-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "73dc271f53ccf0fb6a7168bacee90d2bbc205f2744f49e04f53bd6b12e2521d2"
+      },
+      "sha256": "2db13d3d9eecae80c0f2d66c8cbf848d611e33d11e2b5e4ad7697cc739731fb0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hermes-agent-alt-light.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

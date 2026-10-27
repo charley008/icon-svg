@@ -1,0 +1,40 @@
+{
+  "collection_id": 1232,
+  "schema_version": 1,
+  "id": 1459,
+  "title": "Exe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "exe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2584,
+      "collection": "Dashboard Icons",
+      "file": "exe.svg",
+      "id": 2605,
+      "is_default": true,
+      "label": "exe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "exe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e257007c710899aa67e01e9691346d25f4a9185a5342b287c96c16c0d9b47119"
+      },
+      "sha256": "4c17140ef4131de58447c5fadd964c5ff8e4053e658a1a07365005e0f0a2a96b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/exe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

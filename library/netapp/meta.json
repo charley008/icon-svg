@@ -1,0 +1,59 @@
+{
+  "collection_id": 1899,
+  "schema_version": 1,
+  "id": 2126,
+  "title": "Netapp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netapp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 212,
+      "collection": "Dashboard Icons",
+      "file": "netapp.svg",
+      "id": 3485,
+      "is_default": true,
+      "label": "netapp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netapp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e72894442c1d68e5803c2d2e7fb3bd4e7b8435018e464273b32156d7257875d"
+      },
+      "sha256": "57921b796012963fcebbc368d09a78afefb25b188a13e3821cfaa170bf02794e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netapp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 224,
+      "collection": "Dashboard Icons",
+      "file": "netapp-1.svg",
+      "id": 3486,
+      "is_default": false,
+      "label": "netapp-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netapp-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bbb128aebe56d799455b0273ced6891596e888471b55d2b17772d1966cd4323d"
+      },
+      "sha256": "c4c6fc369a4331bdd84bfd5d72cfefef82b65c2ef86f87a65caf4a6444b6e348",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netapp-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

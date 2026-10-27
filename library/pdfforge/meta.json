@@ -1,0 +1,40 @@
+{
+  "collection_id": 2112,
+  "schema_version": 1,
+  "id": 2339,
+  "title": "Pdfforge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pdfforge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1463,
+      "collection": "Dashboard Icons",
+      "file": "pdfforge.svg",
+      "id": 3782,
+      "is_default": true,
+      "label": "pdfforge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pdfforge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f81725e0b585df81b13b68d9357f6aa0d14478599aff2c277232ecc70d07bd9b"
+      },
+      "sha256": "acda45f5b55daf771eb1650e464fbbd1d636a7e7f9400fd486089a44bea4618a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pdfforge.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

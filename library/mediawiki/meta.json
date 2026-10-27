@@ -1,0 +1,40 @@
+{
+  "collection_id": 1800,
+  "schema_version": 1,
+  "id": 2027,
+  "title": "Mediawiki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mediawiki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10560,
+      "collection": "Dashboard Icons",
+      "file": "mediawiki.svg",
+      "id": 3339,
+      "is_default": true,
+      "label": "mediawiki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mediawiki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f3d37f56fc61e1105f7adc912b74c182a97c0d955436db9b207513225a679386"
+      },
+      "sha256": "4abbf7a76bd4b4caeffd7f795425921c85249ff6cd70d8e296bd8971d7b11a64",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mediawiki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

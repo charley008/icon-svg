@@ -1,0 +1,45 @@
+{
+  "collection_id": 3173,
+  "schema_version": 1,
+  "id": 3430,
+  "title": "Meteor.js",
+  "url": "https://www.meteor.com",
+  "domains": [
+    "meteor.com"
+  ],
+  "description": "用于 JavaScript 全栈应用开发的平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Meteor.js",
+    "meteor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 815,
+      "collection": "TechIcons / Devicon",
+      "file": "meteor-1.svg",
+      "id": 5261,
+      "is_default": true,
+      "label": "TechIcons · Meteor.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Meteor.js.svg",
+        "original_sha256": "f027b703facd04df9b1fff1b4a647085e0c89e9dd522b6baac5d92312d74b7ed",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/meteor",
+        "reference_website": "https://www.meteor.com"
+      },
+      "sha256": "f42d58299b825ef1b3b42f52dccfa5d2de09c060728bf0b9f2c91f70b8a07965",
+      "source": "https://techicons.dev/icons/meteor",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

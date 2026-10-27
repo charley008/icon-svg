@@ -1,0 +1,67 @@
+{
+  "collection_id": 2767,
+  "schema_version": 1,
+  "id": 2994,
+  "title": "Tenable",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "tenable",
+    "nessus",
+    "tenable-nessus",
+    "tenable-one",
+    "tenable-io",
+    "tenable-was",
+    "tenable-vm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1884,
+      "collection": "Dashboard Icons",
+      "file": "tenable.svg",
+      "id": 4642,
+      "is_default": true,
+      "label": "tenable",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tenable.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c3722e94d0646e90bb27ea049403aec2b44cb50ee77872c483007f177b3a95a"
+      },
+      "sha256": "dc87d84aeba965fe8396bc3af002fce1e0d8acc085867dde975908ff5fb0d21b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenable.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1875,
+      "collection": "Dashboard Icons",
+      "file": "tenable-1.svg",
+      "id": 4643,
+      "is_default": false,
+      "label": "tenable-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tenable-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "99d501b176ec94f73ea68bbd7eed294e561850bfad0499b2531a77c7b02694d7"
+      },
+      "sha256": "82f1649b6ef21b65e1096e50f8f2599c0f19884b5a050967635792f0edd915bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenable-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

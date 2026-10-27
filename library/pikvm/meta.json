@@ -1,0 +1,59 @@
+{
+  "collection_id": 2146,
+  "schema_version": 1,
+  "id": 2373,
+  "title": "Pikvm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pikvm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5315,
+      "collection": "Dashboard Icons",
+      "file": "pikvm.svg",
+      "id": 3834,
+      "is_default": true,
+      "label": "pikvm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pikvm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78555b59289e47c23f97337d7ca26b25a28720d2b04c812e33c64d671f852a88"
+      },
+      "sha256": "36ccef63f4c2628abf75e39998ad6ac6faa281c401828864fcf0e19cfafbee2a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pikvm.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5315,
+      "collection": "Dashboard Icons",
+      "file": "pikvm-1.svg",
+      "id": 3835,
+      "is_default": false,
+      "label": "pikvm-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pikvm-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e31a633e63596c9da123bbe5a718f39ef5540d9606f84b04ed60ed4fa2d5ea7b"
+      },
+      "sha256": "646ded40b6e56380692044f9f0b91cfa706fe38d9cafb1ca4dcc3e4f983b3d42",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pikvm-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

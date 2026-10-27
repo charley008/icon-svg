@@ -1,0 +1,40 @@
+{
+  "collection_id": 2524,
+  "schema_version": 1,
+  "id": 2751,
+  "title": "Rport",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rport"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 519,
+      "collection": "Dashboard Icons",
+      "file": "rport.svg",
+      "id": 4332,
+      "is_default": true,
+      "label": "rport",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rport.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c762e998906b6cfaff6814a7e1c9373b9e1054b40c2d33e778cc83712780c1ce"
+      },
+      "sha256": "8676ab1588f03b88e4d54560a7bf14e33922e291b028529a018a737855d66c6d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rport.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

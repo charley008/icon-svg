@@ -1,0 +1,40 @@
+{
+  "collection_id": 2157,
+  "schema_version": 1,
+  "id": 2384,
+  "title": "Plane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "plane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 372,
+      "collection": "Dashboard Icons",
+      "file": "plane.svg",
+      "id": 3849,
+      "is_default": true,
+      "label": "plane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "985e5ecddc3d0506f1d9c6ed71299420ce29d77e5afcfa112c6f06e3e6080248"
+      },
+      "sha256": "80bc3ca8550a6d376463458f72289036009dd481106c26a2f39b46fb0cc52889",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plane.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

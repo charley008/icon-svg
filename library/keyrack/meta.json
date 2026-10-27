@@ -1,0 +1,40 @@
+{
+  "collection_id": 1630,
+  "schema_version": 1,
+  "id": 1857,
+  "title": "Keyrack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "keyrack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 564,
+      "collection": "Dashboard Icons",
+      "file": "keyrack.svg",
+      "id": 3127,
+      "is_default": true,
+      "label": "keyrack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keyrack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "375c7910d462cc4451da47ab8a21cebcd9f8af454efa8d62c3e460586bdc3091"
+      },
+      "sha256": "9f82dfabefcdf89f0a3a01d12f68574540161785db764e7e01fde4068e7f4687",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keyrack.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

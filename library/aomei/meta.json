@@ -1,0 +1,40 @@
+{
+  "collection_id": 717,
+  "schema_version": 1,
+  "id": 944,
+  "title": "Aomei",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aomei"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 413,
+      "collection": "Dashboard Icons",
+      "file": "aomei.svg",
+      "id": 1922,
+      "is_default": true,
+      "label": "aomei",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aomei.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1927176bff16a581df029335f23cd2b29153d83066640aaad9d5003f6ed0b432"
+      },
+      "sha256": "10e26fcff95e3c4f4f2688df453716b753c831991a13d566d3ad6f391a729eb2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aomei.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

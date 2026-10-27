@@ -1,0 +1,65 @@
+{
+  "collection_id": 1310,
+  "schema_version": 1,
+  "id": 1537,
+  "redirect_from": [
+    1536
+  ],
+  "title": "Fontawesome",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fontawesome",
+    "font-awesome-icons",
+    "Font Awesome Icons"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4397,
+      "collection": "Dashboard Icons",
+      "file": "fontawesome.svg",
+      "id": 2700,
+      "is_default": true,
+      "label": "fontawesome",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fontawesome.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1c4d17df9b97deef5794cc30293bcfa61fb3a5e39b1e57b5bec8bd0a2a2ebc7e"
+      },
+      "sha256": "bf373eeb806679fb4c94a8cb7360b82693208ac08e3f866e33148405617a4fd6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fontawesome.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1694,
+      "collection": "Dashboard Icons",
+      "deleted": true,
+      "file": "fontawesome-1.svg",
+      "id": 2699,
+      "is_default": false,
+      "label": "font-awesome-icons",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "font-awesome-icons.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3adc5827a3e20cce643baf422927db2522d324dce1c10782dd00556e0bfb2704"
+      },
+      "sha256": "901f2b08411027f2f75ac819479af4f807bfe8fc6f838e62785aa728efc838bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/font-awesome-icons.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

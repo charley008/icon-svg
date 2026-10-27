@@ -1,0 +1,42 @@
+{
+  "collection_id": 3053,
+  "schema_version": 1,
+  "id": 3280,
+  "title": "Zimbra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "zimbra"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5706,
+      "collection": "Dashboard Icons",
+      "file": "zimbra.svg",
+      "id": 5017,
+      "is_default": true,
+      "label": "zimbra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zimbra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd0022bd4f81ba180456bca97e5468a542d1624499abfab7651f71097f809bc3"
+      },
+      "sha256": "e78409bdb49ae2ef762cf458b6a9d26c6a571e702fb5c36ff1679398c3e84c88",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zimbra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

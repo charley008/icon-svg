@@ -1,0 +1,40 @@
+{
+  "collection_id": 1070,
+  "schema_version": 1,
+  "id": 1297,
+  "title": "Data Studio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "data-studio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 763,
+      "collection": "Dashboard Icons",
+      "file": "data-studio.svg",
+      "id": 2387,
+      "is_default": true,
+      "label": "data-studio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "data-studio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4fde274c43f6588f64f9acdd93a187f34cc89ef2ce6aa8a5df1e4097e12e5d17"
+      },
+      "sha256": "08f7558d3513490b6ab74360a465cb5f503ca20ffd38a62ca521ae32739ba3d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/data-studio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

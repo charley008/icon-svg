@@ -1,4 +1,7 @@
 {
+  "collection_id": 546,
+  "schema_version": 1,
+  "id": 747,
   "title": "Hostinger",
   "url": "https://www.hostinger.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "hostinger.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "2864a3444f595094caaed78f9a152e8866d5d85216ae048e116cb7b16b9e8d74",
       "bytes": 433,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hostinger.svg",
+      "collection": "Dashboard Icons",
+      "file": "hostinger.svg",
+      "id": 1706,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "hostinger.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "2864a3444f595094caaed78f9a152e8866d5d85216ae048e116cb7b16b9e8d74",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hostinger.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,41 @@
+{
+  "collection_id": 901,
+  "schema_version": 1,
+  "id": 1128,
+  "title": "Brick Tracker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Logistics"
+  ],
+  "aliases": [
+    "brick-tracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1386,
+      "collection": "Dashboard Icons",
+      "file": "brick-tracker.svg",
+      "id": 2164,
+      "is_default": true,
+      "label": "brick-tracker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "brick-tracker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c65a2c3d30b2ec9924be4098e2dc0079591ed0b8677667a382657abe4c26bb83"
+      },
+      "sha256": "88c237c48adf3b2bf1ab5de6c2cc9193ec54e025a6f04635ec3fc5f803137a37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/brick-tracker.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

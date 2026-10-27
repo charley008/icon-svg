@@ -1,0 +1,59 @@
+{
+  "collection_id": 1859,
+  "schema_version": 1,
+  "id": 2086,
+  "title": "Motioneye",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "motioneye"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3416,
+      "collection": "Dashboard Icons",
+      "file": "motioneye.svg",
+      "id": 3432,
+      "is_default": true,
+      "label": "motioneye",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "motioneye.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c6e13de141a3b071e7c541ac5b5c0bf4bb9c5b1fe86fef21e4f8b1c33c3c545"
+      },
+      "sha256": "9e0727707bc39770df58124939f5b21697fa33c9fe2b9bd4505f42167e4bf9f8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/motioneye.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2387,
+      "collection": "Dashboard Icons",
+      "file": "motioneye-1.svg",
+      "id": 3433,
+      "is_default": false,
+      "label": "motioneye-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "motioneye-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cebd42ec83cc92ddaa69fd84a00c6430ba1fb2acc7504f9274a4a5cb6a7b6dac"
+      },
+      "sha256": "125e97fceaa6461de9803aaa3afb67fe23135d3b3e29b1e5c9144a7636939e2b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/motioneye-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

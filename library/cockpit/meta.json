@@ -1,0 +1,59 @@
+{
+  "collection_id": 996,
+  "schema_version": 1,
+  "id": 1223,
+  "title": "Cockpit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cockpit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 650,
+      "collection": "Dashboard Icons",
+      "file": "cockpit.svg",
+      "id": 2287,
+      "is_default": true,
+      "label": "cockpit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cockpit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7207dadb280ca13a37e16e8d15e0628327b1bc61673830f641ac7641bc2708ca"
+      },
+      "sha256": "2df936375a14ee523c6d7455f43f41b3eabd790f422a35662e6550fa566d073a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cockpit.svg",
+      "version": 0
+    },
+    {
+      "bytes": 662,
+      "collection": "Dashboard Icons",
+      "file": "cockpit-1.svg",
+      "id": 2288,
+      "is_default": false,
+      "label": "cockpit-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cockpit-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec7e6abed2e661049f386f98556e7c8d41c81fd3d7ee828867edbfc32e99e92e"
+      },
+      "sha256": "ba0448514fbca99e1f5fd2e33bc59b691e82da942f839cefde3fcdc47f651b37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cockpit-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

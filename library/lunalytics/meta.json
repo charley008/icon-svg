@@ -1,0 +1,43 @@
+{
+  "collection_id": 1749,
+  "schema_version": 1,
+  "id": 1976,
+  "title": "Lunalytics",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "lunalytics",
+    "status-page",
+    "website-monitor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4476,
+      "collection": "Dashboard Icons",
+      "file": "lunalytics.svg",
+      "id": 3278,
+      "is_default": true,
+      "label": "lunalytics",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lunalytics.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "19035f73da8024f44ff144ebda4713d8ddb7a26fd9c7bda2cf6d6645e28d2896"
+      },
+      "sha256": "51dfba22637867eb788a02ee3fa7fea3e23a2163d05ec37c5e585f24d0609d49",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lunalytics.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -46,5 +46,44 @@
     }
   ],
   "next_version": 1,
-  "products": []
+  "products": [
+    {
+      "id": 1603,
+      "key": "guix",
+      "title": "Gnu Guix",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "gnu-guix"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 12915,
+          "collection": "Dashboard Icons",
+          "file": "gnu-guix.svg",
+          "id": 2782,
+          "is_default": true,
+          "label": "gnu-guix",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "gnu-guix.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "fd92ab720dc7abff128b656f73bca17b2a68d4041120beb83d3bfc828dbd8943"
+          },
+          "sha256": "620ec24ac2137a260dcca33a507c6ab07d8b0b0e41872aa75ef1586514c2c3a0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gnu-guix.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

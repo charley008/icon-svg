@@ -1,0 +1,59 @@
+{
+  "collection_id": 1631,
+  "schema_version": 1,
+  "id": 1858,
+  "title": "Kick",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kick"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 380,
+      "collection": "Dashboard Icons",
+      "file": "kick.svg",
+      "id": 3128,
+      "is_default": true,
+      "label": "kick",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kick.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4cb7b56d98e3a9466d8755ebd02b186544cfaed5bfbea0acf7e7d82764675764"
+      },
+      "sha256": "c11d0f087ebc5101299d6c7750a4dd50d1cb7aeb927d31a987e603ffffeaab3e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kick.svg",
+      "version": 0
+    },
+    {
+      "bytes": 392,
+      "collection": "Dashboard Icons",
+      "file": "kick-1.svg",
+      "id": 3129,
+      "is_default": false,
+      "label": "kick-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kick-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c8b2fd5bc334c3d2a42b69a25015bfee9e9a2c083b811981a6ef499c86cb9c17"
+      },
+      "sha256": "1277299d0ea3b6a5bc01c8d63b77bb0b238adb8d82ddde30b22e4d00cb45235c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kick-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1646,
+  "schema_version": 1,
+  "id": 1873,
+  "title": "Ko Fi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ko-fi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1673,
+      "collection": "Dashboard Icons",
+      "file": "ko-fi.svg",
+      "id": 3145,
+      "is_default": true,
+      "label": "ko-fi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ko-fi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "01738b529198efab77440bfe0a41b1d70080be800a449673a37ad1718a2153a6"
+      },
+      "sha256": "6268a936c8c196f5dd0e9422f269c120dd075358635c7e1938d27cf84f2e6b4d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ko-fi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

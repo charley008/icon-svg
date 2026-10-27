@@ -1,0 +1,40 @@
+{
+  "collection_id": 2241,
+  "schema_version": 1,
+  "id": 2468,
+  "title": "Pushover",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pushover"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 996,
+      "collection": "Dashboard Icons",
+      "file": "pushover.svg",
+      "id": 3965,
+      "is_default": true,
+      "label": "pushover",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pushover.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6004230c7c29b6a6238b0ddca0322c3a7fbd8751dc7b819928fa5232ac328def"
+      },
+      "sha256": "ef989676a315db8b50455f13e5021df6b9cf6fe0e27dba0bac4b1d8449a7dcfe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pushover.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 2584,
+  "schema_version": 1,
+  "id": 2811,
+  "title": "Sensu",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "sensu",
+    "infrastructure-monitoring",
+    "server-monitoring"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 567,
+      "collection": "Dashboard Icons",
+      "file": "sensu.svg",
+      "id": 4413,
+      "is_default": true,
+      "label": "sensu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sensu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a909b42133b1906e7842aa83da1aafe6fdf7c17738d833bf7e021aa01a93682"
+      },
+      "sha256": "c41281244fa29c05fdb5ae49f24bfa2035c2c663b727170f5b9a3d8669ab67a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sensu.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

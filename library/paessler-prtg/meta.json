@@ -1,0 +1,59 @@
+{
+  "collection_id": 2079,
+  "schema_version": 1,
+  "id": 2306,
+  "title": "Paessler Prtg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "paessler-prtg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1264,
+      "collection": "Dashboard Icons",
+      "file": "paessler-prtg.svg",
+      "id": 3737,
+      "is_default": true,
+      "label": "paessler-prtg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paessler-prtg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ead28e3711e8da7652316b92e5929a1f2d454c775aa1d8d8836d03dd5c388a73"
+      },
+      "sha256": "4a6218f8d8f90f856ce811d57a8391574629a092900c2f9afaa3bf3e2ec2e356",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paessler-prtg.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1264,
+      "collection": "Dashboard Icons",
+      "file": "paessler-prtg-1.svg",
+      "id": 3738,
+      "is_default": false,
+      "label": "paessler-prtg-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paessler-prtg-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "91b89fa0fa257d412c7f8e038b60e16f06701f9d3081b834774a03fd446eaaa7"
+      },
+      "sha256": "66bc107cb61bfbbc3c65fd10dd7c79559a7b76959072498129294204d017871f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paessler-prtg-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

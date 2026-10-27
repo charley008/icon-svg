@@ -1,0 +1,40 @@
+{
+  "collection_id": 987,
+  "schema_version": 1,
+  "id": 1214,
+  "title": "Cloudbeaver",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cloudbeaver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2793,
+      "collection": "Dashboard Icons",
+      "file": "cloudbeaver.svg",
+      "id": 2273,
+      "is_default": true,
+      "label": "cloudbeaver",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudbeaver.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74555492f46f3758f172136270496fae151cf1cf3fcdf1729e7282bf3344810c"
+      },
+      "sha256": "fcb75d5e14773af3b7015d656561137db7c9226b0aae23d6fbd3b9c7f3a3bc05",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudbeaver.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

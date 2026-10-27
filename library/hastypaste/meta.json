@@ -1,0 +1,44 @@
+{
+  "collection_id": 1446,
+  "schema_version": 1,
+  "id": 1673,
+  "title": "Hastypaste",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "hastypaste",
+    "code-sharing",
+    "text-paste-service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1079,
+      "collection": "Dashboard Icons",
+      "file": "hastypaste.svg",
+      "id": 2888,
+      "is_default": true,
+      "label": "hastypaste",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hastypaste.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4bcfee7e239ae7c79e5989d44735177a7dbc35e97ad6d786cf7569f7bcec7728"
+      },
+      "sha256": "cf0512ff9260c4a1a27f17b8134f213a02f898ce2290254b3978f4c9e36f54f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hastypaste.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

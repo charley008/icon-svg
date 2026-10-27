@@ -1,0 +1,40 @@
+{
+  "collection_id": 806,
+  "schema_version": 1,
+  "id": 1033,
+  "title": "Azuracast",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "azuracast"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3083,
+      "collection": "Dashboard Icons",
+      "file": "azuracast.svg",
+      "id": 2039,
+      "is_default": true,
+      "label": "azuracast",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "azuracast.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb0aae4278231356cdad01ad3e11ccbbf0f28a3193456435d0eaa5305fb8542c"
+      },
+      "sha256": "eb05fffa062350fb69635c627de613aeb1ddb2b2ec2fcda297c658acaf4400e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/azuracast.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

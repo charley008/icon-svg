@@ -1,0 +1,40 @@
+{
+  "collection_id": 1581,
+  "schema_version": 1,
+  "id": 1808,
+  "title": "Jeedom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jeedom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3243,
+      "collection": "Dashboard Icons",
+      "file": "jeedom.svg",
+      "id": 3068,
+      "is_default": true,
+      "label": "jeedom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jeedom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d183c67ba00306f1d6d5c4f4c20b6d4d65b7f21c9f8c272e932dbd431ab8d767"
+      },
+      "sha256": "1179697d068085dec140bcf56ba924ca526ed9528ca3012043fa10f2ae1a7615",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jeedom.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

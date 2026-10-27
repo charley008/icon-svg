@@ -1,0 +1,64 @@
+{
+  "collection_id": 1318,
+  "schema_version": 1,
+  "id": 1545,
+  "redirect_from": [
+    1546
+  ],
+  "title": "Foxit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "foxit",
+    "foxit-icon",
+    "Foxit Icon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2027,
+      "collection": "Dashboard Icons",
+      "file": "foxit.svg",
+      "id": 2710,
+      "is_default": true,
+      "label": "foxit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "foxit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a2f356324be3bf6ccf2b0b0cec7b91ad6b3c68d1aef5edbf5a2637fa13ef8745"
+      },
+      "sha256": "f08d756c5d25c054a189286f0f98485d2ad663241af038a17346addbcf010c21",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/foxit.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1844,
+      "collection": "Dashboard Icons",
+      "file": "foxit-1.svg",
+      "id": 2711,
+      "is_default": false,
+      "label": "foxit-icon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "foxit-icon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b067daa38a0ed80456d870fb749c9f6ecf2a69d3f2fc08d77da56e1ebb750b5c"
+      },
+      "sha256": "f2e6b4b279eec9d557b93aafc1f3f4de86a58de2c77e2f52d93942f152b55eda",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/foxit-icon.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

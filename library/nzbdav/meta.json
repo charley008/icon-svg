@@ -1,0 +1,40 @@
+{
+  "collection_id": 1978,
+  "schema_version": 1,
+  "id": 2205,
+  "title": "Nzbdav",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nzbdav"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5331,
+      "collection": "Dashboard Icons",
+      "file": "nzbdav.svg",
+      "id": 3589,
+      "is_default": true,
+      "label": "nzbdav",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nzbdav.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3487430d855755f1fb892add55c428671af2d721f8ec8dfdb1db4e4be9ded167"
+      },
+      "sha256": "73e3c5e8a845e11b95ab7b95df477900649ed9c9948c904312e158cbc3cad745",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nzbdav.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

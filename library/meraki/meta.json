@@ -1,0 +1,40 @@
+{
+  "collection_id": 1806,
+  "schema_version": 1,
+  "id": 2033,
+  "title": "Meraki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "meraki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2858,
+      "collection": "Dashboard Icons",
+      "file": "meraki.svg",
+      "id": 3349,
+      "is_default": true,
+      "label": "meraki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meraki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f5b7a3ad09c9c2f24d533b7a51800835258c846f8ec50150c500de60ce5b397e"
+      },
+      "sha256": "fb5f9a588ff0efe69f50124da91ac4d6f8f8fa9d88c61240c7fd08885f5b07e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/meraki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

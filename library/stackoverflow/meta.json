@@ -123,8 +123,28 @@
       "sha256": "756f0cdc65687bc848270f6799da09e1b5c054c2922a5094d4feb1471bfec70e",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#stackoverflow",
       "version": 4
+    },
+    {
+      "bytes": 468,
+      "collection": "TechIcons / Devicon",
+      "file": "stackoverflow-5.svg",
+      "id": 5369,
+      "is_default": false,
+      "label": "TechIcons · Stack Overflow",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Stack-Overflow.svg",
+        "original_sha256": "f4d9e262c44f41c9f912692d64a3bb88502e5d9d481fcea70d305eb8b5a65753",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/stackoverflow",
+        "reference_website": "https://stackoverflow.com"
+      },
+      "sha256": "91a014410a23571e175951129e07c456f907dfb9562911dc9e877d5bdfad39a7",
+      "source": "https://techicons.dev/icons/stackoverflow",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

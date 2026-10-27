@@ -1,0 +1,44 @@
+{
+  "collection_id": 1728,
+  "schema_version": 1,
+  "id": 1955,
+  "title": "Lobe Chat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "AI-\u0026-LLM-Platforms",
+    "AI"
+  ],
+  "aliases": [
+    "lobe-chat",
+    "lobe-ai",
+    "chatgpt-ui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3199,
+      "collection": "Dashboard Icons",
+      "file": "lobe-chat.svg",
+      "id": 3253,
+      "is_default": true,
+      "label": "lobe-chat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lobe-chat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "03ccb259c25727b558653028e9d41db2c6dbdceaead8d5ed9151b49b5d8273e9"
+      },
+      "sha256": "7d6a3a077105cd7c60920399b64c17d9d3efc49491e2908002498c40b7144b66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lobe-chat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1854,
+  "schema_version": 1,
+  "id": 2081,
+  "title": "Monkeytype",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "monkeytype",
+    "monkey type"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3769,
+      "collection": "Dashboard Icons",
+      "file": "monkeytype.svg",
+      "id": 3425,
+      "is_default": true,
+      "label": "monkeytype",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "monkeytype.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e95182de49e4eafb8d3e7754d3225428b49c98e6fa831c45624a4e8517430d3f"
+      },
+      "sha256": "596003f878829d61ffa6f2b70c1836aad4e766cf3f845a566bcfeb28451d49a0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/monkeytype.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

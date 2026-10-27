@@ -1,4 +1,7 @@
 {
+  "collection_id": 571,
+  "schema_version": 1,
+  "id": 789,
   "title": "Miro",
   "url": "https://miro.com/",
   "domains": [
@@ -23,23 +26,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "miro.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "ffec48c6da3ba8c51f2828a84e699b4bf1f98ec63e80e5962e27fdc94659f0df",
       "bytes": 614,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/miro.svg",
+      "collection": "Dashboard Icons",
+      "file": "miro.svg",
+      "id": 1746,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "miro.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "ffec48c6da3ba8c51f2828a84e699b4bf1f98ec63e80e5962e27fdc94659f0df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/miro.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

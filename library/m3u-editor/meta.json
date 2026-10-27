@@ -1,0 +1,40 @@
+{
+  "collection_id": 1755,
+  "schema_version": 1,
+  "id": 1982,
+  "title": "M3U Editor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "m3u-editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1581,
+      "collection": "Dashboard Icons",
+      "file": "m3u-editor.svg",
+      "id": 3286,
+      "is_default": true,
+      "label": "m3u-editor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "m3u-editor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4860df39f7510da4a3aaebc814fef8ec2eed033a4b43c94abf1f41e5ddfb49f3"
+      },
+      "sha256": "a8d9fd8bd2e7bab07f07e7136a1e3793aacefa4b6d651ead15482f7993e9b2af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/m3u-editor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1872,
+  "schema_version": 1,
+  "id": 2099,
+  "title": "Multifactor Authenticator",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "multifactor-authenticator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2393,
+      "collection": "Dashboard Icons",
+      "file": "multifactor-authenticator.svg",
+      "id": 3448,
+      "is_default": true,
+      "label": "multifactor-authenticator",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "multifactor-authenticator.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "906fc16ec81de828972995e7f45acd4b100686d2fc1888b808900562da5b6b3b"
+      },
+      "sha256": "dd9428e6220041102eb5d02386247d22492f12eae1c867cec2c74a128407ed32",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/multifactor-authenticator.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1766,
+  "schema_version": 1,
+  "id": 1993,
+  "title": "Mailpit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "mailpit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 776,
+      "collection": "Dashboard Icons",
+      "file": "mailpit.svg",
+      "id": 3298,
+      "is_default": true,
+      "label": "mailpit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailpit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "81ca3b9b7a26d419a17f8401b5f11234b5219b4e68203ece575d7bac5a2b44e7"
+      },
+      "sha256": "5a216629a93908fac15bc7525d298503c2859b3e4215e99303c34933033c9549",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailpit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1057,
+  "schema_version": 1,
+  "id": 1284,
+  "title": "Cups",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cups"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5149,
+      "collection": "Dashboard Icons",
+      "file": "cups.svg",
+      "id": 2370,
+      "is_default": true,
+      "label": "cups",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cups.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b600badd4ebb155a3cb47bbc68822a7e65930076bcdc57a1d800fee2f07fa06"
+      },
+      "sha256": "694e6efaa90db1b9bef66d82bcef525b9ea55b7f197bbd813e4fbc76ad5fd337",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cups.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5168,
+      "collection": "Dashboard Icons",
+      "file": "cups-1.svg",
+      "id": 2371,
+      "is_default": false,
+      "label": "cups-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cups-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f08f6fac561ab0a4e95edc344862c6f91e20f20e270f509fde4d0d9c847459ce"
+      },
+      "sha256": "1d417ea25d9638e9037e684107d325dab46502371af2a74cddfcf6a2945a3de8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cups-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2825,
+  "schema_version": 1,
+  "id": 3052,
+  "title": "Trackeep",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "trackeep"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2062,
+      "collection": "Dashboard Icons",
+      "file": "trackeep.svg",
+      "id": 4717,
+      "is_default": true,
+      "label": "trackeep",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trackeep.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "13443c8753575fbb1ca4b9276b4c42e0b338b3cb43c24723d4157dedf4f67efe"
+      },
+      "sha256": "0089fd1b1e59d20d3020ca3eb75702da6ce0c184e9d42935a6752dcef6d6ef29",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trackeep.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

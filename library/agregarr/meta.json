@@ -1,0 +1,41 @@
+{
+  "collection_id": 674,
+  "schema_version": 1,
+  "id": 901,
+  "title": "Agregarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "agregarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1771,
+      "collection": "Dashboard Icons",
+      "file": "agregarr.svg",
+      "id": 1864,
+      "is_default": true,
+      "label": "agregarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "agregarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8bc3b217da7bca8a359280d7e7b84f6a5163cdd8963fff604c0b08efe829039"
+      },
+      "sha256": "e8510ade0373bac5791d827c224d6fa0aa16c70511b7edfab9062afce87ff6b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/agregarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1294,
+  "schema_version": 1,
+  "id": 1521,
+  "title": "Floatplane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video"
+  ],
+  "aliases": [
+    "floatplane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1366,
+      "collection": "Dashboard Icons",
+      "file": "floatplane.svg",
+      "id": 2681,
+      "is_default": true,
+      "label": "floatplane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "floatplane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36aee8ae8cb4a37b8989fbf2d2657647aae47f5939fb2b9709e22c040a323a30"
+      },
+      "sha256": "4bc21bb3afe441707b09c88bf94d71a81fde63dec41ddc1caa4d7d69b5c7026b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/floatplane.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

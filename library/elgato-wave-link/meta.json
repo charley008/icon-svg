@@ -1,0 +1,45 @@
+{
+  "collection_id": 1187,
+  "schema_version": 1,
+  "id": 1414,
+  "title": "Elgato Wave Link",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Communication"
+  ],
+  "aliases": [
+    "elgato-wave-link",
+    "wavelink",
+    "elgato wavelink",
+    "wave link",
+    "elgato Wave link"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2249,
+      "collection": "Dashboard Icons",
+      "file": "elgato-wave-link.svg",
+      "id": 2545,
+      "is_default": true,
+      "label": "elgato-wave-link",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "elgato-wave-link.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ac2d2bf608a51a741c9b6ab972ea3e4a8621a1e178ce12685434f192a24acd54"
+      },
+      "sha256": "57c3bff408060cfdb75e4376de30829220caeade1ac3f4d7fb12917b4923ef3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elgato-wave-link.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

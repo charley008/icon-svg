@@ -1,0 +1,40 @@
+{
+  "collection_id": 1172,
+  "schema_version": 1,
+  "id": 1399,
+  "title": "Dynacat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dynacat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5130,
+      "collection": "Dashboard Icons",
+      "file": "dynacat.svg",
+      "id": 2523,
+      "is_default": true,
+      "label": "dynacat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dynacat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a66a1cd3cae94756fe2413b563ea3524ddf2ed9db7c6511f5342979192aea0e3"
+      },
+      "sha256": "ad9f76521b717b623abfa9769958c439eeef259ddb3119372788520679462f3a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dynacat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

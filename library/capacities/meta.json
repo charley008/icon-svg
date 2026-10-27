@@ -1,0 +1,60 @@
+{
+  "collection_id": 933,
+  "schema_version": 1,
+  "id": 1160,
+  "title": "Capacities",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "capacities"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1267,
+      "collection": "Dashboard Icons",
+      "file": "capacities.svg",
+      "id": 2206,
+      "is_default": true,
+      "label": "capacities",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "capacities.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "045e3ffd7c040c91db1c99ef5f8431f3c59ea82cbd2868abb6b6bff31cd2f9ad"
+      },
+      "sha256": "0a6d16b263801ff6fd3d88d23ccc50a658e2f948eee711d1cd1224589190b23d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/capacities.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1267,
+      "collection": "Dashboard Icons",
+      "file": "capacities-1.svg",
+      "id": 2207,
+      "is_default": false,
+      "label": "capacities-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "capacities-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5d19598b16235b8ba3803b59adc0347350b47d6602586e6341b6f18fa908480"
+      },
+      "sha256": "22f37405d52fc1fdf86bed380b37066a3beaafba84929ea408545ce91d74c90b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/capacities-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

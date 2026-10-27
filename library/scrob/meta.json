@@ -1,0 +1,40 @@
+{
+  "collection_id": 2565,
+  "schema_version": 1,
+  "id": 2792,
+  "title": "Scrob",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "scrob"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 813,
+      "collection": "Dashboard Icons",
+      "file": "scrob.svg",
+      "id": 4385,
+      "is_default": true,
+      "label": "scrob",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scrob.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39bae19020c7095b595c0ee2b9d04c0aa0bebc1160cac6c6a4c7b3401b9ae6ab"
+      },
+      "sha256": "89d5a319ded449242e82b6e7d6ca87f53b3463289f82485ee6f64980f156b26e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scrob.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,81 @@
+{
+  "collection_id": 1714,
+  "schema_version": 1,
+  "id": 1941,
+  "title": "Linksys",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Smart-Home"
+  ],
+  "aliases": [
+    "linksys",
+    "Router"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 480,
+      "collection": "Dashboard Icons",
+      "file": "linksys.svg",
+      "id": 3235,
+      "is_default": true,
+      "label": "linksys",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linksys.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f90dcd53fc2a56a972c65bd13f20abc6b913ce0f9c6d0f0c565a348bd15f3581"
+      },
+      "sha256": "d94895f795205c3f692bcd672bf5f81fd7232ccb2fc0c3ad32cff3f6050aecdb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linksys.svg",
+      "version": 0
+    },
+    {
+      "bytes": 480,
+      "collection": "Dashboard Icons",
+      "file": "linksys-1.svg",
+      "id": 3236,
+      "is_default": false,
+      "label": "linksys-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linksys-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09f345c065ff3c8a4960a4776d1e67c31faf36834ab7f82e7e0b7ee80c0d8ade"
+      },
+      "sha256": "cc8f4463c8923f5f15fe9ebb863d1c2ebf4a8930099b3364bc9a52dadb59fa65",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linksys-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 480,
+      "collection": "Dashboard Icons",
+      "file": "linksys-2.svg",
+      "id": 3237,
+      "is_default": false,
+      "label": "linksys-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linksys-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "628307c509e2bb883a0e5bf7dffc17bcea9a1ff034fe759ed5e448cf69edc7d0"
+      },
+      "sha256": "b861842191a0f826a902ab14787707d141ac09d49b9af78c3ec8486557f675c8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linksys-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 733,
+  "schema_version": 1,
+  "id": 960,
+  "title": "Apollo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "apollo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1468,
+      "collection": "Dashboard Icons",
+      "file": "apollo.svg",
+      "id": 1943,
+      "is_default": true,
+      "label": "apollo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apollo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b2961ed99e866ea899a90f4b4bd6210a4de7161fdc803835ea97fba05f8ffa7"
+      },
+      "sha256": "007b8ad25ab2aa437c8c0f770230e695a199b5fdb1ac4c38654c314605825e27",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apollo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

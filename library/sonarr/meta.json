@@ -1,4 +1,11 @@
 {
+  "collection_id": 617,
+  "schema_version": 1,
+  "id": 842,
+  "redirect_from": [
+    2884,
+    2885
+  ],
   "title": "Sonarr",
   "url": "https://sonarr.tv/",
   "domains": [
@@ -16,28 +23,90 @@
     "sonarr",
     "电视剧",
     "媒体管理",
-    "自托管"
+    "自托管",
+    "sonarr-4k",
+    "Sonarr 4K",
+    "sonarr4k",
+    "sonarr-dv",
+    "Sonarr Dv"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "sonarr.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "a5debe565281eb16b746d75b9ce72e22f2fb15c19b4f55428fdf62b84be79306",
       "bytes": 1978,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarr.svg",
+      "collection": "Dashboard Icons",
+      "file": "sonarr.svg",
+      "id": 1799,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "sonarr.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "a5debe565281eb16b746d75b9ce72e22f2fb15c19b4f55428fdf62b84be79306",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarr.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2025,
+      "collection": "Dashboard Icons",
+      "file": "sonarr-1.svg",
+      "id": 4502,
+      "is_default": false,
+      "label": "sonarr-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sonarr-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc211ffaf110528174b18458ad69d94d2ed028fb285d6ca5ac2b2bc749e8bec1"
+      },
+      "sha256": "24f7cb1972cfe2b7945e3d25c6d2190cc0db3e4559436840f0cbf420f9ed7c24",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarr-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3728,
+      "collection": "Dashboard Icons",
+      "file": "sonarr-2.svg",
+      "id": 4503,
+      "is_default": false,
+      "label": "Sonarr 4K",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sonarr-4k.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c3965c05757e777c217c70de770617a0e0ab4753c7f2ac8777da4cfb5868963b"
+      },
+      "sha256": "4fd2b2041bf857fb69407cb9bdf3653bab2b4ea46f689b77bfcaf6822f590684",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarr-4k.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2599,
+      "collection": "Dashboard Icons",
+      "file": "sonarr-3.svg",
+      "id": 4504,
+      "is_default": false,
+      "label": "Sonarr Dv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sonarr-dv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7a6ca60b32444e04f83f8d2211dac61b830c60edde8ef09bef196a0b163083c9"
+      },
+      "sha256": "6caef2aeba343e93f87cfc14b0cb806bece78ecd03e4637ef9858e2c23d90600",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonarr-dv.svg",
+      "version": 3
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 4,
   "products": []
 }

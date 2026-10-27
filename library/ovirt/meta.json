@@ -1,0 +1,59 @@
+{
+  "collection_id": 2070,
+  "schema_version": 1,
+  "id": 2297,
+  "title": "Ovirt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ovirt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2004,
+      "collection": "Dashboard Icons",
+      "file": "ovirt.svg",
+      "id": 3724,
+      "is_default": true,
+      "label": "ovirt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ovirt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a0f61b5e7a8d0bfa0786308c5d16c3a7eec257516347f6748cf08801ed5eda71"
+      },
+      "sha256": "3358f29788d7d89eabbfd8ffefec84d9082a3189620815facd218c7f5c1e2c46",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ovirt.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2112,
+      "collection": "Dashboard Icons",
+      "file": "ovirt-1.svg",
+      "id": 3725,
+      "is_default": false,
+      "label": "ovirt-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ovirt-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b25bf5028128bd38d8c21f054bfc752295efe6262cb23a90713d7076cd38ff95"
+      },
+      "sha256": "0707796df754006201186376ba51b599d1995094b29ab5273b439b0a4918287b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ovirt-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,4 +1,7 @@
 {
+  "collection_id": 523,
+  "schema_version": 1,
+  "id": 696,
   "title": "Deluge",
   "url": "https://deluge-torrent.org/",
   "domains": [
@@ -23,23 +26,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "deluge.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "085a9f9b428c05b723e4efe8f5e17ca427ba8f9e51d6805c604c03fa5bce418a",
       "bytes": 795,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deluge.svg",
+      "collection": "Dashboard Icons",
+      "file": "deluge.svg",
+      "id": 1657,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "deluge.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "085a9f9b428c05b723e4efe8f5e17ca427ba8f9e51d6805c604c03fa5bce418a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deluge.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

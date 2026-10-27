@@ -1,0 +1,42 @@
+{
+  "collection_id": 2970,
+  "schema_version": 1,
+  "id": 3197,
+  "title": "Whatnot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "whatnot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1025,
+      "collection": "Dashboard Icons",
+      "file": "whatnot.svg",
+      "id": 4908,
+      "is_default": true,
+      "label": "whatnot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whatnot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5689ab8613845d26cd07efb0a15e6f8ebd37deea53b95faa6e30be948c9e1470"
+      },
+      "sha256": "6cc4af3db0911fae59cbeb8cf93f6cf40c0dfbe45b15ef1c7bb1203d45f518ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whatnot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

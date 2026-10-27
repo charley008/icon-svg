@@ -1,0 +1,40 @@
+{
+  "collection_id": 2908,
+  "schema_version": 1,
+  "id": 3135,
+  "title": "Videogametrackarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "videogametrackarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 42410,
+      "collection": "Dashboard Icons",
+      "file": "videogametrackarr.svg",
+      "id": 4828,
+      "is_default": true,
+      "label": "videogametrackarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "videogametrackarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "827db9e1454bb693c00a6ac69ab13161d1fdbe287ad5a4a459359d36c5a19645"
+      },
+      "sha256": "662af46a897cfad6bf1d8072f4579d36340bad451b3b87ca1f651896c6ab6d46",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/videogametrackarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

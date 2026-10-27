@@ -1,0 +1,61 @@
+{
+  "collection_id": 2131,
+  "schema_version": 1,
+  "id": 2358,
+  "title": "Phase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development",
+    "Security"
+  ],
+  "aliases": [
+    "phase"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 908,
+      "collection": "Dashboard Icons",
+      "file": "phase.svg",
+      "id": 3809,
+      "is_default": true,
+      "label": "phase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2adbabacc7f6a8e810a3bd35b3351cd41a9cc268ef336ba142852fec86110149"
+      },
+      "sha256": "8b0d0f92fc7339cfe2b0625a9d08860aced35e65b1a0ad61c972216b2e16e308",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phase.svg",
+      "version": 0
+    },
+    {
+      "bytes": 908,
+      "collection": "Dashboard Icons",
+      "file": "phase-1.svg",
+      "id": 3810,
+      "is_default": false,
+      "label": "phase-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phase-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3bf47775871448f19ac38867429fb74033a1d1bb15a083a63546396f67d504d6"
+      },
+      "sha256": "8625457118e7c3b77a31e083c59cf11c5887adf8099c6fb4848de7ea744b36a3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phase-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

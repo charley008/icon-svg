@@ -1,0 +1,40 @@
+{
+  "collection_id": 3030,
+  "schema_version": 1,
+  "id": 3257,
+  "title": "Youtube Dl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "youtube-dl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1087,
+      "collection": "Dashboard Icons",
+      "file": "youtube-dl.svg",
+      "id": 4988,
+      "is_default": true,
+      "label": "youtube-dl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "youtube-dl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b0d847f5954afb20557f9eb77f2b705c08a8925e3885766c34dbecfd25123b22"
+      },
+      "sha256": "f48211f162f91a8703367b46536e1c08d76cf0d1e453e59cc64b44c65fe63b84",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/youtube-dl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

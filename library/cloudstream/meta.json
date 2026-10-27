@@ -1,0 +1,42 @@
+{
+  "collection_id": 993,
+  "schema_version": 1,
+  "id": 1220,
+  "title": "Cloudstream",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "cloudstream"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3606,
+      "collection": "Dashboard Icons",
+      "file": "cloudstream.svg",
+      "id": 2283,
+      "is_default": true,
+      "label": "cloudstream",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloudstream.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "86db153afc5d2abef3c2377fbad13ab56647ca4bf1874fd3d7297099cf7a4e62"
+      },
+      "sha256": "e4ca598222f01b31e6636a2119693cae14de89347e0bbf6a807ed23a569e715c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloudstream.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

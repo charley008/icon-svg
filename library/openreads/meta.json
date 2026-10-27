@@ -1,0 +1,40 @@
+{
+  "collection_id": 2041,
+  "schema_version": 1,
+  "id": 2268,
+  "title": "Openreads",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openreads"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3465,
+      "collection": "Dashboard Icons",
+      "file": "openreads.svg",
+      "id": 3685,
+      "is_default": true,
+      "label": "openreads",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openreads.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8eb7d4ed7710ddc90912188259e6b8c4a71d3a8e77f377d3c69f709fe70c8d59"
+      },
+      "sha256": "a0c0642ae649e20737dd2e8504226e75fa34464cfa2747377dd1db92498b7209",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openreads.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

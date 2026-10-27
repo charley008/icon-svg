@@ -1,0 +1,59 @@
+{
+  "collection_id": 2659,
+  "schema_version": 1,
+  "id": 2886,
+  "title": "Sonos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sonos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1536,
+      "collection": "Dashboard Icons",
+      "file": "sonos.svg",
+      "id": 4505,
+      "is_default": true,
+      "label": "sonos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sonos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0612aa195c7f88cbef1b98e344328a04d66159afb1d32d0c8b1bc95f6823c4aa"
+      },
+      "sha256": "1486df265a26ca060545f2dbcb129fc9f6a543ba69ecc6cbf2a0a44abb1460d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonos.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1536,
+      "collection": "Dashboard Icons",
+      "file": "sonos-1.svg",
+      "id": 4506,
+      "is_default": false,
+      "label": "sonos-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sonos-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "596caf588b1eec8447d1dbc24599fcf4e7baa73f18c9bef6504df33ad901c465"
+      },
+      "sha256": "77c4bc0ecee1a7ede47fcbaaa328c5d3aaa3b6f4421b86e6cc2ec0f8d71d8f0f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sonos-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

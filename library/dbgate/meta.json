@@ -1,0 +1,40 @@
+{
+  "collection_id": 1077,
+  "schema_version": 1,
+  "id": 1304,
+  "title": "Dbgate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dbgate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1717,
+      "collection": "Dashboard Icons",
+      "file": "dbgate.svg",
+      "id": 2394,
+      "is_default": true,
+      "label": "dbgate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dbgate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f36421133c7bbafbf4aa8c38e40efc8c96483af00fb9991f0f23291cc292c78c"
+      },
+      "sha256": "cb6825ea26b20920a1bd6759fbff9bc1f725f82b5f5cc64e8be6bb1acca5c391",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dbgate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2732,
+  "schema_version": 1,
+  "id": 2959,
+  "title": "Sylve",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sylve"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4927,
+      "collection": "Dashboard Icons",
+      "file": "sylve.svg",
+      "id": 4596,
+      "is_default": true,
+      "label": "sylve",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sylve.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a81639c6d17a32e23d982f1471cc98becad68c99dcb3c79a7bb40cf22bfdfb1"
+      },
+      "sha256": "fe5a802d0a2d8cfb83b1c601c969181123c13c73e61f471db3afcc2bda0b91e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sylve.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

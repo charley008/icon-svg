@@ -1,0 +1,42 @@
+{
+  "collection_id": 2709,
+  "schema_version": 1,
+  "id": 2936,
+  "title": "Strava",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Health",
+    "Location"
+  ],
+  "aliases": [
+    "strava"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 531,
+      "collection": "Dashboard Icons",
+      "file": "strava.svg",
+      "id": 4568,
+      "is_default": true,
+      "label": "strava",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "strava.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95b71387813efb284c39da71247f32f207ff3c99d52093b75f60011d3baf2243"
+      },
+      "sha256": "783344e0e10c19283e39a0a57b2a48809ba54b916eaa101e591909da758ffef7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/strava.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

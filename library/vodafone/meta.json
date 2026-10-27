@@ -1,0 +1,40 @@
+{
+  "collection_id": 2930,
+  "schema_version": 1,
+  "id": 3157,
+  "title": "Vodafone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vodafone"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1532,
+      "collection": "Dashboard Icons",
+      "file": "vodafone.svg",
+      "id": 4855,
+      "is_default": true,
+      "label": "vodafone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vodafone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9502cae72d605ac4593bd0dcd56a388bcb4a3a800a612bcb411003fe118f7daf"
+      },
+      "sha256": "3a76a0e2efe07d517f246cda276d9f238a962025e6edee420e31d3f9f7450bfd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vodafone.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

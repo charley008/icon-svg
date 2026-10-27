@@ -1,0 +1,59 @@
+{
+  "collection_id": 1090,
+  "schema_version": 1,
+  "id": 1317,
+  "title": "Denon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "denon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 907,
+      "collection": "Dashboard Icons",
+      "file": "denon.svg",
+      "id": 2417,
+      "is_default": true,
+      "label": "denon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "denon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc48dfedb651a34f3950f8f09fc39e610655b85cb36e2c1454b485c77be9a5e5"
+      },
+      "sha256": "2fc3624508fd7152ece2ad9ca71de78c40934296066a159a89f1217beaba4282",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/denon.svg",
+      "version": 0
+    },
+    {
+      "bytes": 877,
+      "collection": "Dashboard Icons",
+      "file": "denon-1.svg",
+      "id": 2418,
+      "is_default": false,
+      "label": "denon-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "denon-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f261b129a34126b49c29b8685332ace121ef80ef717a06e8530e652f419099a1"
+      },
+      "sha256": "0467fda78f4b49064e7e75e0f459b706b50f07271dba9de121dd23afddb717d8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/denon-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

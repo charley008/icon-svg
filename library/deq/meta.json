@@ -1,0 +1,40 @@
+{
+  "collection_id": 1096,
+  "schema_version": 1,
+  "id": 1323,
+  "title": "Deq",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "deq"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 889,
+      "collection": "Dashboard Icons",
+      "file": "deq.svg",
+      "id": 2424,
+      "is_default": true,
+      "label": "deq",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deq.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0689ae137606edcb7db767f00c91706bb4b51f61618b5d3cb08f1af4b9caae62"
+      },
+      "sha256": "7f5a724e6174cd5f43abee44648915c6e1352fd3323fb1c9cd87ea84f73356c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deq.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

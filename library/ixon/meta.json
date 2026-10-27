@@ -1,0 +1,40 @@
+{
+  "collection_id": 1573,
+  "schema_version": 1,
+  "id": 1800,
+  "title": "Ixon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ixon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3190,
+      "collection": "Dashboard Icons",
+      "file": "ixon.svg",
+      "id": 3058,
+      "is_default": true,
+      "label": "ixon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ixon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16773eee9d3408d885a99577fe2c5bb90b4e9b6451059dc978086caa89fb7908"
+      },
+      "sha256": "3f09df858a9612be84b961dc7c933a06b274c5ffd0a76d47b34c36e9bd85777d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ixon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

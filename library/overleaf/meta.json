@@ -1,0 +1,44 @@
+{
+  "collection_id": 2069,
+  "schema_version": 1,
+  "id": 2296,
+  "title": "Overleaf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Office-Suites"
+  ],
+  "aliases": [
+    "overleaf",
+    "online-latex",
+    "collaborative-latex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 648,
+      "collection": "Dashboard Icons",
+      "file": "overleaf.svg",
+      "id": 3723,
+      "is_default": true,
+      "label": "overleaf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "overleaf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d650e5c58c1a08a3c72ece100ed097e92b0c80d2dca6dd61bc29658cdc9fb11"
+      },
+      "sha256": "d3e418dc8d33631a645799e4add87fb82ac50a212893c6273d3eaf639dd6189f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/overleaf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

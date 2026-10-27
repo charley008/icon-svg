@@ -1,0 +1,41 @@
+{
+  "collection_id": 2922,
+  "schema_version": 1,
+  "id": 3149,
+  "title": "Vitest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "vitest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2409,
+      "collection": "Dashboard Icons",
+      "file": "vitest.svg",
+      "id": 4847,
+      "is_default": true,
+      "label": "vitest",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vitest.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3da7c4518c8bf635d6ecd0364a9331c9b3f68912edee0d1d299234fb7aaa89fb"
+      },
+      "sha256": "d5a5923d80e4d570ed7977626d5c1ce8244af7e8be9db16375f815809134e7e6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vitest.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

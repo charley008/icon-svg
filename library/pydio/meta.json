@@ -1,0 +1,40 @@
+{
+  "collection_id": 2420,
+  "schema_version": 1,
+  "id": 2647,
+  "title": "Pydio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pydio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 687,
+      "collection": "Dashboard Icons",
+      "file": "pydio.svg",
+      "id": 4206,
+      "is_default": true,
+      "label": "pydio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pydio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e5d1a042560b9254eeee24d40988ad54b37dcfb1dc63e1296cf77d3663cae2c3"
+      },
+      "sha256": "0db2739d9b429fcd5f616e58395803fe0fa8f686c369f7d965c9148d0a8d9adf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pydio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1116,
+  "schema_version": 1,
+  "id": 1343,
+  "title": "Dlna",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dlna"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1020,
+      "collection": "Dashboard Icons",
+      "file": "dlna.svg",
+      "id": 2453,
+      "is_default": true,
+      "label": "dlna",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dlna.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b5de304d839556c366d4bf5a060120a8271009036c3be4e954fb6e8e91d4cec"
+      },
+      "sha256": "ebcaaa31287db1ac949a3a892f03318bd88e1b649537017bb4c4078d079fe7f6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dlna.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

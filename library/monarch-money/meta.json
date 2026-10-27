@@ -1,0 +1,59 @@
+{
+  "collection_id": 1848,
+  "schema_version": 1,
+  "id": 2075,
+  "title": "Monarch Money",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "monarch-money"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2454,
+      "collection": "Dashboard Icons",
+      "file": "monarch-money.svg",
+      "id": 3417,
+      "is_default": true,
+      "label": "monarch-money",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "monarch-money.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "80012046c5769280a88085cad8b96b99fd087d51277568195dee9a64dbba7f12"
+      },
+      "sha256": "dc7cb8f39a016dbabe798b1a7f1c8bfa8fee0d21d1d3d329ed618466c7710b7f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/monarch-money.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2451,
+      "collection": "Dashboard Icons",
+      "file": "monarch-money-1.svg",
+      "id": 3418,
+      "is_default": false,
+      "label": "monarch-money-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "monarch-money-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a33dbc91078bccb9cdee14fdbc610655615e213827625fad6fc07829d150478a"
+      },
+      "sha256": "1af843222448773b916d06d97d332e39f7922584e729ec0f4ef7ef608950af83",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/monarch-money-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

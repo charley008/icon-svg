@@ -37,8 +37,47 @@
       "sha256": "fbadd127e5583559938b21ed61c0a74a8306e515428f198af5df96d515b7667d",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/centos-1.svg",
       "version": 0
+    },
+    {
+      "bytes": 1524,
+      "collection": "Dashboard Icons",
+      "file": "centos-1.svg",
+      "id": 2220,
+      "is_default": false,
+      "label": "centos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "centos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca0f8d285da7d668e81b9bf81a5e638d70d156273e15cca8a011e7e1e5981474"
+      },
+      "sha256": "6f39d901b743815989a520ad03d31dfa85da104f641320b81a66d22b681cd4bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/centos.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2042,
+      "collection": "TechIcons / Devicon",
+      "file": "centos-2.svg",
+      "id": 5102,
+      "is_default": false,
+      "label": "TechIcons · CentOS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CentOS.svg",
+        "original_sha256": "b54c6ad8e100208fd0ade26633abd996c9d979b19c13c1b91caf48b49ed8c8d2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/centos",
+        "reference_website": "https://www.centos.org"
+      },
+      "sha256": "c33d2f72fff67367a91be9b78236ac71884e8ce87506ef7a6f7e2c2ed5791963",
+      "source": "https://techicons.dev/icons/centos",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

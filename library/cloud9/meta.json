@@ -1,0 +1,64 @@
+{
+  "collection_id": 986,
+  "schema_version": 1,
+  "id": 1213,
+  "title": "Cloud9",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Cloud-Computing",
+    "开发编程"
+  ],
+  "aliases": [
+    "cloud9",
+    "aws-cloud9",
+    "online-ide"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4146,
+      "collection": "Dashboard Icons",
+      "file": "cloud9.svg",
+      "id": 2271,
+      "is_default": true,
+      "label": "cloud9",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloud9.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4197a0917fac773e46118670dee9e38b80a2765150fb79d73d9ee1ea18deed68"
+      },
+      "sha256": "55f39ca91fe80b9832fbb7ff701997e623455834249481cca84c8ab59822e325",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloud9.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4206,
+      "collection": "Dashboard Icons",
+      "file": "cloud9-1.svg",
+      "id": 2272,
+      "is_default": false,
+      "label": "cloud9-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cloud9-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1bfe28361168b6bd99eb1d69dfdcdc58ff5cb16f9f686bc513f6aacbf02ad016"
+      },
+      "sha256": "ad69c6c2a8edaf4ac88f50e9e5eaac312ad50114a19f2654acbf44048026aae1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cloud9-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

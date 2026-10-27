@@ -1,0 +1,45 @@
+{
+  "collection_id": 2518,
+  "schema_version": 1,
+  "id": 2745,
+  "title": "Rook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Cloud-Computing",
+    "开发编程"
+  ],
+  "aliases": [
+    "rook",
+    "kubernetes-storage",
+    "cloud-native-storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 660,
+      "collection": "Dashboard Icons",
+      "file": "rook.svg",
+      "id": 4325,
+      "is_default": true,
+      "label": "rook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2ca6d71d0c6284b02ea2c6357c45b71f6d7b6dc5a813f6372287fb04a7f4bb6e"
+      },
+      "sha256": "d3dd06030e386a9c74cc169b2f5cf335f9bd4f8d16bb96e9ba60641d05d4c1ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rook.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

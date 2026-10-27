@@ -1,0 +1,40 @@
+{
+  "collection_id": 1949,
+  "schema_version": 1,
+  "id": 2176,
+  "title": "Nitter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nitter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 753,
+      "collection": "Dashboard Icons",
+      "file": "nitter.svg",
+      "id": 3549,
+      "is_default": true,
+      "label": "nitter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nitter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "88c8ea0234e99b7a67c321befa4a36bd7327fe0583fc2614b04b7d4a57456d09"
+      },
+      "sha256": "e9ab168b318cecd9ebe62ba860051e69614a141ebd5aabc099932e2bf442ac84",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nitter.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

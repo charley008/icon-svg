@@ -1,0 +1,40 @@
+{
+  "collection_id": 1300,
+  "schema_version": 1,
+  "id": 1527,
+  "title": "Fluidd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fluidd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 783,
+      "collection": "Dashboard Icons",
+      "file": "fluidd.svg",
+      "id": 2688,
+      "is_default": true,
+      "label": "fluidd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fluidd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "61ccc8ffcb299a23e099e9ad5b1500b95374c05b3e1dda6ceb72f3f3008103f3"
+      },
+      "sha256": "3c440a11212f4d1dc744b76ec1206d474362c791a3be2b05e7c0cf270e0c22c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fluidd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 1795,
+  "schema_version": 1,
+  "id": 2022,
+  "title": "Mealie",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "mealie",
+    "Recipe Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1279,
+      "collection": "Dashboard Icons",
+      "file": "mealie.svg",
+      "id": 3334,
+      "is_default": true,
+      "label": "mealie",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mealie.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1c151eab85047a0d71f128606614419126af5c10e5ac09112cdc1033b61a833f"
+      },
+      "sha256": "1d3d877c1fa7b8ea200830d5ab750715b1048236f8bb239ba9f10d4fd8cfd934",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mealie.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

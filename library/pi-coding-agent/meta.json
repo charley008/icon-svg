@@ -1,0 +1,40 @@
+{
+  "collection_id": 2139,
+  "schema_version": 1,
+  "id": 2366,
+  "title": "Pi Coding Agent",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pi-coding-agent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 388,
+      "collection": "Dashboard Icons",
+      "file": "pi-coding-agent.svg",
+      "id": 3825,
+      "is_default": true,
+      "label": "pi-coding-agent",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pi-coding-agent.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "19ce2904fa2d8ac412eef0eccc4197941f66d5bda9b1d7b748ef50e7120f2cdd"
+      },
+      "sha256": "6cd6a5e8052bbe525cca6d09a264954b9de5d694aeb1bc284157dc39df5519df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pi-coding-agent.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

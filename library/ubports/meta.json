@@ -1,0 +1,40 @@
+{
+  "collection_id": 2866,
+  "schema_version": 1,
+  "id": 3093,
+  "title": "Ubports",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ubports"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2891,
+      "collection": "Dashboard Icons",
+      "file": "ubports.svg",
+      "id": 4768,
+      "is_default": true,
+      "label": "ubports",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ubports.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e099a34f5d99e57499c2b985e966c33e2d5da2654af73163a0c08f9a8b8c280"
+      },
+      "sha256": "e03081e9a37e347cdc1acba326d7e410ee1885f5d809c6fd5bb027163ed01dd4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ubports.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

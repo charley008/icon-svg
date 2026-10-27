@@ -1,0 +1,42 @@
+{
+  "collection_id": 669,
+  "schema_version": 1,
+  "id": 896,
+  "title": "Advanzia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "advanzia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1347,
+      "collection": "Dashboard Icons",
+      "file": "advanzia.svg",
+      "id": 1857,
+      "is_default": true,
+      "label": "advanzia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "advanzia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8460abde028d7ff69c7ebc32b089e20f23f909a1b6731fb254458811a54cc221"
+      },
+      "sha256": "8483371dc4874e4a8d5c864844e045262099840d8b1ea5ef3ae25865da224e08",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/advanzia.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

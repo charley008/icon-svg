@@ -1,0 +1,124 @@
+{
+  "collection_id": 1597,
+  "schema_version": 1,
+  "id": 1824,
+  "redirect_from": [
+    1825,
+    1826
+  ],
+  "title": "Jtu Me",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jtu-me",
+    "jtu-me-wordmark-light",
+    "Jtu Me Wordmark Light",
+    "jtu-me-wordmark-dark",
+    "Jtu Me Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1767,
+      "collection": "Dashboard Icons",
+      "file": "jtu-me.svg",
+      "id": 3085,
+      "is_default": true,
+      "label": "jtu-me",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jtu-me.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c842943969eca2ed93887ed23687a77f04a3bfe19a0a59dca0e4794620ec712"
+      },
+      "sha256": "ae2e218ac71f51c442cec8df8490826aec131a0ac3e2460f5c5dcfc8934da96b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jtu-me.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1314,
+      "collection": "Dashboard Icons",
+      "file": "jtu-me-1.svg",
+      "id": 3086,
+      "is_default": false,
+      "label": "jtu-me-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jtu-me-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf5dc679adb845c1f77500d758700d70457c5934f61068aa37d391b3abd246ff"
+      },
+      "sha256": "bb7b11a01ae5b5b10b6021bd532fdfe0a47bd5a503625ab4a792447147b501e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jtu-me-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1314,
+      "collection": "Dashboard Icons",
+      "file": "jtu-me-2.svg",
+      "id": 3087,
+      "is_default": false,
+      "label": "jtu-me-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jtu-me-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "233b68649b4eb94dd841deda9746fe0597b11322d45028a8f5d0e8144a48fc22"
+      },
+      "sha256": "f9b1dd67c087c214fe01008f02f5c8d5ea00dec83a1522cbf17cda3939c5469d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jtu-me-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3490,
+      "collection": "Dashboard Icons",
+      "file": "jtu-me-3.svg",
+      "id": 3089,
+      "is_default": false,
+      "label": "jtu-me-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jtu-me-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd815014fe077a5a149cd168ba1a185333dacc1f6f53c9f450332c65155b60c7"
+      },
+      "sha256": "fce05025c18228e1e7ab0aab09745eab6d6c4b19c3b62daeeedc0198fc97f960",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jtu-me-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 3490,
+      "collection": "Dashboard Icons",
+      "file": "jtu-me-4.svg",
+      "id": 3088,
+      "is_default": false,
+      "label": "jtu-me-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jtu-me-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ba206a6196bcb3d740880db45eb207bf6ead8593de232603e93d566ddcc6d2a5"
+      },
+      "sha256": "d02decca7b6544c7f2bd4004a77402ba0b54513b34abb2bb9cb7623d5905f058",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jtu-me-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

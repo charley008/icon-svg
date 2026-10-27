@@ -1,0 +1,40 @@
+{
+  "collection_id": 2611,
+  "schema_version": 1,
+  "id": 2838,
+  "title": "Shortlistapp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shortlistapp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 839,
+      "collection": "Dashboard Icons",
+      "file": "shortlistapp.svg",
+      "id": 4448,
+      "is_default": true,
+      "label": "shortlistapp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shortlistapp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f59aa76d113d82b07affec1de8a8c6b725e286524a8e4ec04c50fa569f783278"
+      },
+      "sha256": "2fcb4e2c2b9b4cd05191b7971343915a50343f934d2027ba2afc66f5de884630",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shortlistapp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

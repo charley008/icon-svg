@@ -1,0 +1,40 @@
+{
+  "collection_id": 1210,
+  "schema_version": 1,
+  "id": 1437,
+  "title": "Entra Id",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "entra-id"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1309,
+      "collection": "Dashboard Icons",
+      "file": "entra-id.svg",
+      "id": 2575,
+      "is_default": true,
+      "label": "entra-id",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "entra-id.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be489af7c1834c3d93fecd9c512aaabcca5f4ae001da7cf3a6445cbb4a8d1677"
+      },
+      "sha256": "39a748b46dfcfee3c47e205d37ccec95d3fe0223a0a1bd41493d3957ef01fb2a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entra-id.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

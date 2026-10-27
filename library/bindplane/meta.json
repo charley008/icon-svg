@@ -1,0 +1,40 @@
+{
+  "collection_id": 870,
+  "schema_version": 1,
+  "id": 1097,
+  "title": "Bindplane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bindplane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 430,
+      "collection": "Dashboard Icons",
+      "file": "bindplane.svg",
+      "id": 2121,
+      "is_default": true,
+      "label": "bindplane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bindplane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bbc3efb389d8e4db1462995fa7bff719f51f8e7967e94c407dca42d16624abd6"
+      },
+      "sha256": "e78a5e7e862e94934124cd9d05b14f79f2d32f95776d36539a6d449f335ce92f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bindplane.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

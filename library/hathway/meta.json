@@ -1,0 +1,42 @@
+{
+  "collection_id": 1448,
+  "schema_version": 1,
+  "id": 1675,
+  "title": "Hathway",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "hathway"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6334,
+      "collection": "Dashboard Icons",
+      "file": "hathway.svg",
+      "id": 2890,
+      "is_default": true,
+      "label": "hathway",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hathway.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5808e89cca951abf4e0a773eaf7f08a4811643565997a912e9c0af4f1bc5f236"
+      },
+      "sha256": "761343fbfc4411b6d9fdfa81571cdf441270d7691aae6b96fbd3ee4d10b3bce0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hathway.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

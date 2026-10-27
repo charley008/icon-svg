@@ -1,4 +1,7 @@
 {
+  "collection_id": 639,
+  "schema_version": 1,
+  "id": 866,
   "title": "ZeroTier",
   "url": "https://www.zerotier.com/",
   "domains": [
@@ -21,23 +24,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "zerotier.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "0c013ef08df0f91bb5bd4f0237518f0c12c1387eda23bc6c82c59a8a2780f940",
       "bytes": 471,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zerotier.svg",
+      "collection": "Dashboard Icons",
+      "file": "zerotier.svg",
+      "id": 1822,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "zerotier.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "0c013ef08df0f91bb5bd4f0237518f0c12c1387eda23bc6c82c59a8a2780f940",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zerotier.svg",
+      "version": 0
+    },
+    {
+      "bytes": 512,
+      "collection": "Dashboard Icons",
+      "file": "zerotier-1.svg",
+      "id": 5013,
+      "is_default": false,
+      "label": "zerotier-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zerotier-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1449d4319c88d57dfe9b8a1237e8573f7c10beeb7baf9752b69f3cdf1fd6d72c"
+      },
+      "sha256": "00a9daa0556fe45e43cf1566088df8f9e2c42d59ee9f89e42b99419bc4aa998e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zerotier-light.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

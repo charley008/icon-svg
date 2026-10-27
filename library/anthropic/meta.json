@@ -13,11 +13,72 @@
   ],
   "aliases": [],
   "notes": [],
-  "icons": [],
-  "next_version": 0,
+  "icons": [
+    {
+      "bytes": 2597,
+      "collection": "Dashboard Icons",
+      "file": "anthropic.svg",
+      "id": 1914,
+      "is_default": true,
+      "label": "anthropic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anthropic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5c84fe695590d218622bcc5fb3ea9356af0e383d9a64019b7906c61b303571a"
+      },
+      "sha256": "ef2723e24f7d9c0151ba9a5aa3c29b7bcbf2d1fa07fc753fa8b6973beeb2b1b8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anthropic.svg",
+      "version": 0
+    },
+    {
+      "bytes": 336,
+      "collection": "Dashboard Icons",
+      "file": "anthropic-1.svg",
+      "id": 1915,
+      "is_default": false,
+      "label": "anthropic-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anthropic-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de1877872ea8fd56c9196befff35cf1ef541b7726c35fef73c3c2e29c5ec74c9"
+      },
+      "sha256": "c72b15a537cfccce5985e8eeebe1ea811b8a310a4c197d00d8a075bef431c2c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anthropic-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 336,
+      "collection": "Dashboard Icons",
+      "file": "anthropic-2.svg",
+      "id": 1916,
+      "is_default": false,
+      "label": "anthropic-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anthropic-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a7cb43e550290adc21c231972004c99456d86d9239ff170e6903250586417b9"
+      },
+      "sha256": "b8972eaf3bf981eecf0fc44f4b32044135b47d6940b8d5129abca3e6932ea404",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anthropic-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
   "products": [
     {
       "id": 69,
+      "redirect_from": [
+        1207
+      ],
       "key": "claude",
       "title": "Claude",
       "url": "https://claude.ai",
@@ -38,7 +99,9 @@
         "claude.ai"
       ],
       "aliases": [
-        "claude"
+        "claude",
+        "claude-ai",
+        "Claude Ai"
       ],
       "notes": [
         "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
@@ -172,9 +235,28 @@
           "sha256": "ef3ff7889c2ece975ad6638b7bd688deaffe07bda55eea355030fe7db8eec8f2",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#claude-line",
           "version": 5
+        },
+        {
+          "bytes": 4051,
+          "collection": "Dashboard Icons",
+          "file": "anthropic-claude-6.svg",
+          "id": 2262,
+          "is_default": false,
+          "label": "Claude Ai",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "claude-ai.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "531706e30bc32255fc1bf2b22611986fedc21342c1c7670c529ddc91460e46b1"
+          },
+          "sha256": "c2b8f7374329a8f10cea7a04fe33b3ed4b331b47edfe16129ed7cc4b28b57147",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/claude-ai.svg",
+          "version": 6
         }
       ],
-      "next_version": 6
+      "next_version": 7
     },
     {
       "id": 70,

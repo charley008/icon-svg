@@ -1,0 +1,42 @@
+{
+  "collection_id": 2206,
+  "schema_version": 1,
+  "id": 2433,
+  "title": "Primal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "primal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2776,
+      "collection": "Dashboard Icons",
+      "file": "primal.svg",
+      "id": 3922,
+      "is_default": true,
+      "label": "primal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "primal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ee3bb0c185ef2b3716c198be50fa0b39f93decbfcb04f287650ea6e2c81cf31"
+      },
+      "sha256": "6f0b4f8722a12d3268b4d2293dedb19234e1c54a076d1219a2c6e4fc2baa3ccd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/primal.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,4 +1,7 @@
 {
+  "collection_id": 501,
+  "schema_version": 1,
+  "id": 669,
   "title": "ASRock Rack",
   "url": "https://www.asrockrack.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "asrock-rack.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "dd3dacee46fab96cde6aac2b596ba667088614c30d8a7bd90cc1fecb9c901cf2",
       "bytes": 4415,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asrock-rack.svg",
+      "collection": "Dashboard Icons",
+      "file": "asrock-rack.svg",
+      "id": 1630,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "asrock-rack.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "dd3dacee46fab96cde6aac2b596ba667088614c30d8a7bd90cc1fecb9c901cf2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asrock-rack.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

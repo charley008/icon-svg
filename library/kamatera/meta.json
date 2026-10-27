@@ -1,0 +1,44 @@
+{
+  "collection_id": 1612,
+  "schema_version": 1,
+  "id": 1839,
+  "title": "Kamatera",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud-Computing",
+    "云服务"
+  ],
+  "aliases": [
+    "kamatera",
+    "vps-provider",
+    "cloud-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 980,
+      "collection": "Dashboard Icons",
+      "file": "kamatera.svg",
+      "id": 3106,
+      "is_default": true,
+      "label": "kamatera",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kamatera.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "18095677edcff711bee1b1ba13fbfda240fea6761033468955617032a9fc3bff"
+      },
+      "sha256": "8b95e859f22896507b08f99c6ad7f1a57d951effafa6ae18d286826707eea83f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kamatera.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

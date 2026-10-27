@@ -1,0 +1,40 @@
+{
+  "collection_id": 652,
+  "schema_version": 1,
+  "id": 879,
+  "title": "9Router",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "9router"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 327,
+      "collection": "Dashboard Icons",
+      "file": "9router.svg",
+      "id": 1840,
+      "is_default": true,
+      "label": "9router",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "9router.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "92cf81878a3eb9e2f5b649764143b7ab18b49c95dabedab92eb79e250eea7d69"
+      },
+      "sha256": "cdeab4b07418f8949bdd25f36aada2a5d699ce4e3d7282467236d966a7cd6893",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/9router.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

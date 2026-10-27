@@ -1,0 +1,45 @@
+{
+  "collection_id": 3137,
+  "schema_version": 1,
+  "id": 3384,
+  "title": "Grunt.js",
+  "url": "https://gruntjs.com",
+  "domains": [
+    "gruntjs.com"
+  ],
+  "description": "JavaScript 项目的自动化任务工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Grunt.js",
+    "grunt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18003,
+      "collection": "TechIcons / Devicon",
+      "file": "grunt-1.svg",
+      "id": 5191,
+      "is_default": true,
+      "label": "TechIcons · Grunt.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Grunt.js.svg",
+        "original_sha256": "38feb66ec89e440518897a6cff57e5d20a05f53a0dabfd169e33e46f26675c49",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/grunt",
+        "reference_website": "https://gruntjs.com"
+      },
+      "sha256": "fe7edbe1213f75aadcd18431786edd7313e92311f3c7205b99a6686a34f6d446",
+      "source": "https://techicons.dev/icons/grunt",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

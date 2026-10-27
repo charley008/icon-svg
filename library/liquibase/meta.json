@@ -1,0 +1,45 @@
+{
+  "collection_id": 3165,
+  "schema_version": 1,
+  "id": 3422,
+  "title": "Liquibase",
+  "url": "https://www.liquibase.org",
+  "domains": [
+    "liquibase.org"
+  ],
+  "description": "用于管理数据库结构变更的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Liquibase",
+    "liquibase"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2487,
+      "collection": "TechIcons / Devicon",
+      "file": "liquibase-1.svg",
+      "id": 5251,
+      "is_default": true,
+      "label": "TechIcons · Liquibase",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Liquibase.svg",
+        "original_sha256": "14f7b8bdb6cc3b17119b25a3263f7a6a99b3a43916ad2558d5d1cca9e58207c2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/liquibase",
+        "reference_website": "https://www.liquibase.org"
+      },
+      "sha256": "81e73936a8bef7a5bd1ddacf1de1bf36b73f85a0b2b3eaf9686b5d89b8732694",
+      "source": "https://techicons.dev/icons/liquibase",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

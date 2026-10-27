@@ -1,0 +1,64 @@
+{
+  "collection_id": 1577,
+  "schema_version": 1,
+  "id": 1804,
+  "title": "Jamstack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "jamstack",
+    "static-site-generator",
+    "modern-web-dev"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 400,
+      "collection": "Dashboard Icons",
+      "file": "jamstack.svg",
+      "id": 3063,
+      "is_default": true,
+      "label": "jamstack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jamstack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "980053c48e64b8090894effade55d93f773404f697e4358d06e42c81da38def7"
+      },
+      "sha256": "51f0c515b3f7a3dabdbb7d457dfeb57105a0051a31c12f486688f719d563ca13",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jamstack.svg",
+      "version": 0
+    },
+    {
+      "bytes": 422,
+      "collection": "TechIcons / Devicon",
+      "file": "jamstack-1.svg",
+      "id": 5213,
+      "is_default": false,
+      "label": "TechIcons · Jamstack",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Jamstack.svg",
+        "original_sha256": "089ef17b1d038068342d36c87816592061c34e3ae655dcc5b85a3c94a69b8804",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jamstack",
+        "reference_website": "https://jamstack.org"
+      },
+      "sha256": "9288aaa1c2edea3366b4c1febbd70f5fa39b268778ba8ff62782946254957d0c",
+      "source": "https://techicons.dev/icons/jamstack",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

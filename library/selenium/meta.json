@@ -1,0 +1,60 @@
+{
+  "collection_id": 2574,
+  "schema_version": 1,
+  "id": 2801,
+  "title": "Selenium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "selenium"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2000,
+      "collection": "Dashboard Icons",
+      "file": "selenium.svg",
+      "id": 4397,
+      "is_default": true,
+      "label": "selenium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "selenium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7474f3783ea4dc8b564c255732b2ee824de05fd6205c0766c283a751bea6ac4a"
+      },
+      "sha256": "949d316acf723d8028e05a16688390dc471f5e644238201e67a80fec491f2c79",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/selenium.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1136,
+      "collection": "TechIcons / Devicon",
+      "file": "selenium-1.svg",
+      "id": 5355,
+      "is_default": false,
+      "label": "TechIcons · Selenium",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Selenium.svg",
+        "original_sha256": "aa2338673c2880af0489b216512dc14a63a2b1dff4f65ebde0f4c3f61beda693",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/selenium",
+        "reference_website": "https://www.selenium.dev"
+      },
+      "sha256": "b9843c824ee6a937c4c50d37950de633f7250100ddfcd37b78181c34f97b02b7",
+      "source": "https://techicons.dev/icons/selenium",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

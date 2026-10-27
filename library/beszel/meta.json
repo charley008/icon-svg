@@ -1,0 +1,40 @@
+{
+  "collection_id": 863,
+  "schema_version": 1,
+  "id": 1090,
+  "title": "Beszel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "beszel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1180,
+      "collection": "Dashboard Icons",
+      "file": "beszel.svg",
+      "id": 2112,
+      "is_default": true,
+      "label": "beszel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beszel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4f3d13ccad6fc0653f5a373e4a4d2326b7bb1f0de9eec50278b3bb38d6447596"
+      },
+      "sha256": "695e5aa5b4702551983d4af931aa29fa00f674b88bbc643578cd855490c27570",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beszel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

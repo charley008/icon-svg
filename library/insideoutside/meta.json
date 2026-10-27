@@ -1,0 +1,40 @@
+{
+  "collection_id": 1551,
+  "schema_version": 1,
+  "id": 1778,
+  "title": "Insideoutside",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "insideoutside"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4694,
+      "collection": "Dashboard Icons",
+      "file": "insideoutside.svg",
+      "id": 3026,
+      "is_default": true,
+      "label": "insideoutside",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "insideoutside.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63e5f4e552aa5a16e8345ece646979c62a97f151a60754b9a8f5e3bf696ba4d0"
+      },
+      "sha256": "baa6cd9b41d1dd2aaf819c2dc7304899bc1a2316e491da40c2f3439b1af2484e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/insideoutside.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

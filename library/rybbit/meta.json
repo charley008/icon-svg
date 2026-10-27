@@ -1,0 +1,59 @@
+{
+  "collection_id": 2539,
+  "schema_version": 1,
+  "id": 2766,
+  "title": "Rybbit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rybbit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1122,
+      "collection": "Dashboard Icons",
+      "file": "rybbit.svg",
+      "id": 4351,
+      "is_default": true,
+      "label": "rybbit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rybbit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f52180dcaec81bb5187aa439c23d3d47ceaac1a164c744e8349bb7a43f463066"
+      },
+      "sha256": "61838be2d402756a5a5b392437c9fd8a45bfeee8aff21af61940c25bdceccd02",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rybbit.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1122,
+      "collection": "Dashboard Icons",
+      "file": "rybbit-1.svg",
+      "id": 4352,
+      "is_default": false,
+      "label": "rybbit-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rybbit-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "edb34e34790c9817f361f9b0bc5d825110735e241b5bfe4ac845aab6ec1105cd"
+      },
+      "sha256": "8aaa1661d3665a612c818fdb36a7332d9c005bb8f283800b8cc2c0cafaebf63c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rybbit-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

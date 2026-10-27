@@ -1,0 +1,43 @@
+{
+  "collection_id": 2914,
+  "schema_version": 1,
+  "id": 3141,
+  "title": "Vinchin Backup",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "vinchin-backup",
+    "vinchin",
+    "vinchin-logo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2517,
+      "collection": "Dashboard Icons",
+      "file": "vinchin-backup.svg",
+      "id": 4836,
+      "is_default": true,
+      "label": "vinchin-backup",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vinchin-backup.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "559edf7150af241a10b69b1474b8f3d79bb001317b85efd713e58212469a7d66"
+      },
+      "sha256": "542e46706869a5f05af5e2d613d61a2017cf7329e8f6f163f5ea1549f5bc04aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vinchin-backup.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

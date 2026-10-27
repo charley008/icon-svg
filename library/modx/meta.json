@@ -1,0 +1,45 @@
+{
+  "collection_id": 3177,
+  "schema_version": 1,
+  "id": 3439,
+  "title": "MODX",
+  "url": "https://modx.com",
+  "domains": [
+    "modx.com"
+  ],
+  "description": "用于网站建设与内容管理的平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "MODX",
+    "modx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 502,
+      "collection": "TechIcons / Devicon",
+      "file": "modx-1.svg",
+      "id": 5272,
+      "is_default": true,
+      "label": "TechIcons · MODX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "MODX.svg",
+        "original_sha256": "9efdc3fa9bf8e70a4c4de01a317f6511ed164a5459acc94fdec430345b482b8a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/modx",
+        "reference_website": "https://modx.com"
+      },
+      "sha256": "806e3d966fafcf9be4f1ffa2d79f6f8e1f2ecb2e1acec7e28c30d01b51c3d19a",
+      "source": "https://techicons.dev/icons/modx",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

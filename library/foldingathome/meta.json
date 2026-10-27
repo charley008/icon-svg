@@ -1,0 +1,40 @@
+{
+  "collection_id": 1308,
+  "schema_version": 1,
+  "id": 1535,
+  "title": "Foldingathome",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "foldingathome"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7559,
+      "collection": "Dashboard Icons",
+      "file": "foldingathome.svg",
+      "id": 2698,
+      "is_default": true,
+      "label": "foldingathome",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "foldingathome.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a3c260f731554e3999eea020e43ea00d67e8813e5942f75361f0b57b2eaf7cbf"
+      },
+      "sha256": "53554898945b6c7342d2259a27d7ce7adc222207d1ee1caecf7c0dea26880aaf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/foldingathome.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

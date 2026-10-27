@@ -1,0 +1,59 @@
+{
+  "collection_id": 1546,
+  "schema_version": 1,
+  "id": 1773,
+  "title": "Infomaniak Kmeet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "infomaniak-kmeet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18136,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-kmeet.svg",
+      "id": 3019,
+      "is_default": true,
+      "label": "infomaniak-kmeet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-kmeet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39061b912c8151e172a2d06a8a3acebaa7723f166ad3c413e229e745b9b8ccbf"
+      },
+      "sha256": "1f215b534784f9dc6d892aa675b2babeff4d6ac61e3207e2d324e053a5e3998f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-kmeet.svg",
+      "version": 0
+    },
+    {
+      "bytes": 18091,
+      "collection": "Dashboard Icons",
+      "file": "infomaniak-kmeet-1.svg",
+      "id": 3020,
+      "is_default": false,
+      "label": "infomaniak-kmeet-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "infomaniak-kmeet-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7457f96f107b289b793c82227c480b31ab9f5c96bf92ecce1da1fd4fa1f5bf63"
+      },
+      "sha256": "1e71db0934a08ee45f1742a43ccdb60dc445a7e5f825c6458a1e8619e463ea46",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/infomaniak-kmeet-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

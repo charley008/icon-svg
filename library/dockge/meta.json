@@ -1,0 +1,40 @@
+{
+  "collection_id": 1125,
+  "schema_version": 1,
+  "id": 1352,
+  "title": "Dockge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dockge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 960,
+      "collection": "Dashboard Icons",
+      "file": "dockge.svg",
+      "id": 2464,
+      "is_default": true,
+      "label": "dockge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dockge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4dcfbb809d53312b298f81b6aca730ebc196c45b5e198be55931255d3a95dba8"
+      },
+      "sha256": "db09764c8e1a1871cabae71e876c2f58455117482ac33cb03c0ddea585d2e256",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dockge.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

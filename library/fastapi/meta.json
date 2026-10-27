@@ -1,0 +1,84 @@
+{
+  "collection_id": 1244,
+  "schema_version": 1,
+  "id": 1471,
+  "redirect_from": [
+    1472
+  ],
+  "title": "Fastapi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fastapi",
+    "fastapi-wordmark-light",
+    "Fastapi Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 527,
+      "collection": "Dashboard Icons",
+      "file": "fastapi.svg",
+      "id": 2621,
+      "is_default": true,
+      "label": "fastapi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fastapi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f25448c2b80120fe3f374f913ac3306b9133299e933b3eced2316234234a2206"
+      },
+      "sha256": "7f488fa21f0b731c285aa7453b854b97169658a71b3711e62479bcd4b146e5e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fastapi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5849,
+      "collection": "Dashboard Icons",
+      "file": "fastapi-1.svg",
+      "id": 2622,
+      "is_default": false,
+      "label": "fastapi-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fastapi-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ba7dbf5c63ce9b90fd46db529f82002e6d077ac9ff3ac7533fdc35d6f177431f"
+      },
+      "sha256": "80996281e2608b201163e5eeb2cc63738338f27a95a24f67c5d75f8f99e9763d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fastapi-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3104,
+      "collection": "TechIcons / Devicon",
+      "file": "fastapi-2.svg",
+      "id": 5155,
+      "is_default": false,
+      "label": "TechIcons · FastAPI",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "FastAPI.svg",
+        "original_sha256": "7ef41f6a363b00ff595e6d0b933c025c92cbfae29dc1df24b2f6eb8b476ee486",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/fastapi",
+        "reference_website": "https://fastapi.tiangolo.com"
+      },
+      "sha256": "99574a739a0acd02df1f749a9e11a2f0e6d8741819f284054709d386fc98f32c",
+      "source": "https://techicons.dev/icons/fastapi",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

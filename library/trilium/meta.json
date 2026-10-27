@@ -1,4 +1,7 @@
 {
+  "collection_id": 626,
+  "schema_version": 1,
+  "id": 851,
   "title": "Trilium Notes",
   "url": "https://triliumnotes.org/",
   "domains": [
@@ -21,23 +24,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "trilium.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "2eaa4ff3b1caf4829a3ec65e25a00d128f5d163fd6bfb5fa0df94f325487920b",
       "bytes": 2311,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trilium.svg",
+      "collection": "Dashboard Icons",
+      "file": "trilium.svg",
+      "id": 1808,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "trilium.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "2eaa4ff3b1caf4829a3ec65e25a00d128f5d163fd6bfb5fa0df94f325487920b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trilium.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2392,
+      "collection": "Dashboard Icons",
+      "file": "trilium-1.svg",
+      "id": 4732,
+      "is_default": false,
+      "label": "triliumnext",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "triliumnext.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9192cae27dbe5417e1014bb93ceb9e1bbafb6a8d9b3b81b8ee9eb6921d0abc68"
+      },
+      "sha256": "bc1b437b0262c3e49d151777d15ddd4175c538980eaa3532e2959f55096651aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/triliumnext.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

@@ -1,0 +1,61 @@
+{
+  "collection_id": 2679,
+  "schema_version": 1,
+  "id": 2906,
+  "title": "Spree",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "spree"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2234,
+      "collection": "Dashboard Icons",
+      "file": "spree.svg",
+      "id": 4532,
+      "is_default": true,
+      "label": "spree",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spree.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c8c5b6fc73138054e04b58c05ee03538fc9638bb22c847b91def964eb75fe6f8"
+      },
+      "sha256": "41d8c668525011e367811bdf906424879c15c50e3c0242a305deb5f87ec52c78",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spree.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2235,
+      "collection": "Dashboard Icons",
+      "file": "spree-1.svg",
+      "id": 4533,
+      "is_default": false,
+      "label": "spree-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spree-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b02169be253281a1f5072edd7c515c2d5d9318e8f8000d3b2d152734ee79efa0"
+      },
+      "sha256": "1ca30bec882a8f879883f58856c8d115a42f88f9ff879378a914cb431841059b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spree-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

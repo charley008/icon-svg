@@ -1,0 +1,44 @@
+{
+  "collection_id": 2983,
+  "schema_version": 1,
+  "id": 3210,
+  "title": "Windmill",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "windmill",
+    "automation-platform",
+    "workflow-engine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 695,
+      "collection": "Dashboard Icons",
+      "file": "windmill.svg",
+      "id": 4922,
+      "is_default": true,
+      "label": "windmill",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "windmill.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b04110d05a29d2c075a2d257c9083437d8cb7da2c0240d1fe7351de19b6cb03"
+      },
+      "sha256": "0b48b1662586b076b44f428357ed0d6e3946996fc51f64231997465242319d03",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windmill.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

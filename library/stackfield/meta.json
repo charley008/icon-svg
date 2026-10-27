@@ -1,0 +1,40 @@
+{
+  "collection_id": 2687,
+  "schema_version": 1,
+  "id": 2914,
+  "title": "Stackfield",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stackfield"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 709,
+      "collection": "Dashboard Icons",
+      "file": "stackfield.svg",
+      "id": 4542,
+      "is_default": true,
+      "label": "stackfield",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stackfield.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb2fce29a9cebb21ea14d8736396de9444941a1cc051245a9ba30fdb06c99db2"
+      },
+      "sha256": "717f7f1423b15da48dc35801ef96f672d1fb28407776d4479f9ff720798507ab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stackfield.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

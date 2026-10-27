@@ -1,0 +1,43 @@
+{
+  "collection_id": 2067,
+  "schema_version": 1,
+  "id": 2294,
+  "title": "Our Shopping List",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "our-shopping-list",
+    "osl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2668,
+      "collection": "Dashboard Icons",
+      "file": "our-shopping-list.svg",
+      "id": 3720,
+      "is_default": true,
+      "label": "our-shopping-list",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "our-shopping-list.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "83ad7a47a762c4a4c883d69bde52f643ad9d973242ee9acbc8e0ad6c388d1657"
+      },
+      "sha256": "b54b1724ea22d61d41ef6dd58f0753f4cbae71a60c6b0cd28fd2158fc1cc7ed0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/our-shopping-list.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

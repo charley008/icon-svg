@@ -1,0 +1,43 @@
+{
+  "collection_id": 2529,
+  "schema_version": 1,
+  "id": 2756,
+  "title": "Ruby",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "ruby"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8480,
+      "collection": "Dashboard Icons",
+      "file": "ruby.svg",
+      "id": 4337,
+      "is_default": true,
+      "label": "ruby",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ruby.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a41949ad38ec719d42c3a61c3da000d044fb0d52a1871509dfac8c5aa7556a1"
+      },
+      "sha256": "555afa5bbd1707d70706253ac104039cd3fcef40bfb5c0e007f480c8cead3910",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ruby.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

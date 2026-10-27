@@ -1,0 +1,40 @@
+{
+  "collection_id": 2618,
+  "schema_version": 1,
+  "id": 2845,
+  "title": "Silae",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "silae"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2446,
+      "collection": "Dashboard Icons",
+      "file": "silae.svg",
+      "id": 4455,
+      "is_default": true,
+      "label": "silae",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silae.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "428ab15f2bf29f0f121ca488b5445dc0c2743339462d0435d1bfe0345a3e2956"
+      },
+      "sha256": "cf420efa0d2f245443bdb1394588141f9fe202a3fd5258fd638cfcb1b6768a0e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silae.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

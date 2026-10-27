@@ -1,0 +1,117 @@
+{
+  "collection_id": 1868,
+  "schema_version": 1,
+  "id": 2095,
+  "title": "Mullvad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mullvad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2085,
+      "collection": "Dashboard Icons",
+      "file": "mullvad.svg",
+      "id": 3444,
+      "is_default": true,
+      "label": "mullvad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mullvad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dff18d10f95bbae43d251bf84e467e6d045b3c7fb66fdd9151fe72801ab76f62"
+      },
+      "sha256": "a2a0a102f52d664002df34c422f87e9cbb01d50d3051646f36085d974fa67807",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mullvad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 2096,
+      "key": "browser",
+      "title": "Mullvad Browser",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "浏览器",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "mullvad-browser"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1570,
+          "collection": "Dashboard Icons",
+          "file": "mullvad-browser.svg",
+          "id": 3445,
+          "is_default": true,
+          "label": "mullvad-browser",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "mullvad-browser.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "01c49519875db4156fb7af5e907f377a6f23758c4e9a6f6d8f659addda983086"
+          },
+          "sha256": "57db6fc145de28ad21ed5b9cca5d51a633c4f25866eb78271f1cc674ed312a4e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mullvad-browser.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2097,
+      "key": "vpn",
+      "title": "Mullvad Vpn",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "mullvad-vpn"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2449,
+          "collection": "Dashboard Icons",
+          "file": "mullvad-vpn.svg",
+          "id": 3446,
+          "is_default": true,
+          "label": "mullvad-vpn",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "mullvad-vpn.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e3e4c1f4a3be54cd9b3418cf7bf0567309e584e3da2f8188fecff11a6a54d973"
+          },
+          "sha256": "74f45ebad5540fd78b1eda83899c396c6e0c5fbdf8b8db9ae097cf986e501911",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mullvad-vpn.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

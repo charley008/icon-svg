@@ -1,0 +1,40 @@
+{
+  "collection_id": 2755,
+  "schema_version": 1,
+  "id": 2982,
+  "title": "Teamspeak",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "teamspeak"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6704,
+      "collection": "Dashboard Icons",
+      "file": "teamspeak.svg",
+      "id": 4630,
+      "is_default": true,
+      "label": "teamspeak",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teamspeak.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa8df765272cb155c77334780fbd89319bbbeac287ffcf952e5a0a21adfdecbe"
+      },
+      "sha256": "d7f77a36dfa44c0baaa782d58a5b85670c65320ccdb08f617f48a0d402c4a344",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teamspeak.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

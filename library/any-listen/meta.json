@@ -1,0 +1,42 @@
+{
+  "collection_id": 713,
+  "schema_version": 1,
+  "id": 940,
+  "title": "Any Listen",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "any-listen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1793,
+      "collection": "Dashboard Icons",
+      "file": "any-listen.svg",
+      "id": 1917,
+      "is_default": true,
+      "label": "any-listen",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "any-listen.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e453b157331e7ebc36de197bfd24e10229904e041493d5ae4367dacda8aa0dfa"
+      },
+      "sha256": "00d6ec38f6a7dffd5e99db83ae71f473b12cb5fb2c7887dd21aedc72d234908a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/any-listen.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 3065,
+  "schema_version": 1,
+  "id": 3292,
+  "title": "Zot Registry",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "zot-registry"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1438,
+      "collection": "Dashboard Icons",
+      "file": "zot-registry.svg",
+      "id": 5031,
+      "is_default": true,
+      "label": "zot-registry",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zot-registry.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe531350ae33f53a7e78714055cde0c0388025f4a2dedd11a9f1bbe3a426f363"
+      },
+      "sha256": "923cb4113cd0837bb915cd8bb7dffdd2a645deca30f5fbff7b584965cf0c5123",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zot-registry.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

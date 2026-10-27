@@ -64,8 +64,46 @@
       "sha256": "aa36e2ba1974193d39edbf5a762cadc175a03db91c3c762d1d91598cd966effe",
       "source": "https://web.gotab.cn/sourceStore/website/01KYNY2S2NB4N841ZEPBKRJDC0.svg",
       "version": 1
+    },
+    {
+      "bytes": 8856,
+      "collection": "Dashboard Icons",
+      "file": "ollama-2.svg",
+      "id": 3624,
+      "is_default": false,
+      "label": "ollama",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ollama.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fae0cb4563381dede4db3f194cc9736c36eff2966156abe6a5d58cb3c2b084a6"
+      },
+      "sha256": "577d13b4f06973e1552d630d3cd103116eb462c34f73a165c0b1468f63f17935",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ollama.svg",
+      "version": 2
+    },
+    {
+      "bytes": 8856,
+      "collection": "Dashboard Icons",
+      "file": "ollama-3.svg",
+      "id": 3625,
+      "is_default": false,
+      "label": "ollama-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ollama-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0126ff618d9186446b7bf69544cbe2e042f8d1e7a495a1a5d0ecf1d6a8660c08"
+      },
+      "sha256": "410b22fe3ab4784d9b94e4f1bf770ba7563a7f82e58964a32b6290d429e56963",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ollama-dark.svg",
+      "version": 3
     }
   ],
-  "next_version": 2,
+  "next_version": 4,
   "products": []
 }

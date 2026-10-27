@@ -1,4 +1,7 @@
 {
+  "collection_id": 597,
+  "schema_version": 1,
+  "id": 822,
   "title": "Proxmox",
   "url": "https://www.proxmox.com/",
   "domains": [
@@ -22,23 +25,119 @@
   "notes": [],
   "icons": [
     {
-      "file": "proxmox.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "466d1a13608536479c8bda1168dffeccb5f6d485011e8e0819e7b36e0d83ced9",
       "bytes": 1196,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox.svg",
+      "collection": "Dashboard Icons",
+      "file": "proxmox.svg",
+      "id": 1779,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "proxmox.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "466d1a13608536479c8bda1168dffeccb5f6d485011e8e0819e7b36e0d83ced9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1249,
+      "collection": "Dashboard Icons",
+      "file": "proxmox-1.svg",
+      "id": 3946,
+      "is_default": false,
+      "label": "proxmox-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "proxmox-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d36f8e632e6a6fb6f3305e435f530627a79310aea439e870b68cc04ff9b31c2d"
+      },
+      "sha256": "16f18901d1837322490cb06cec3bdca5453a91d3b019a7a40731b2df033611f8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox-light.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "next_version": 2,
+  "products": [
+    {
+      "id": 2454,
+      "key": "backup-server",
+      "title": "Proxmox Backup Server",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网盘存储",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "proxmox-backup-server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1543,
+          "collection": "Dashboard Icons",
+          "file": "proxmox-backup-server.svg",
+          "id": 3947,
+          "is_default": true,
+          "label": "proxmox-backup-server",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proxmox-backup-server.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6cac1715d1b2509dfd1506a9e63254d67792f0c1fd944cb0914396c64b9846c7"
+          },
+          "sha256": "3094811449782112babbc933d0d1a88dc69d71688596531d80e2408179520d92",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox-backup-server.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1543,
+          "collection": "Dashboard Icons",
+          "file": "proxmox-backup-server-1.svg",
+          "id": 3948,
+          "is_default": false,
+          "label": "proxmox-backup-server-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proxmox-backup-server-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "73f5af17a7cadee26f6e029032476bd947f1215e31d90f2a6359b6907a2a2870"
+          },
+          "sha256": "7410fe0667d656c0cea26662afa04d87fb24f86672bedcc039b3adbc157c51e0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox-backup-server-dark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1543,
+          "collection": "Dashboard Icons",
+          "file": "proxmox-backup-server-2.svg",
+          "id": 3949,
+          "is_default": false,
+          "label": "proxmox-backup-server-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proxmox-backup-server-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c40614e4da3d4cb269cc4af5c28732785490c492ba2afb18fde926e66f3f6769"
+          },
+          "sha256": "b9aae4f3d1e7e07a6a2c2367b7acfb7e2ea4f5d8cf03e8161f417c90d6956af5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxmox-backup-server-light.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    }
+  ]
 }

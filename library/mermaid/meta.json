@@ -1,0 +1,78 @@
+{
+  "collection_id": 1809,
+  "schema_version": 1,
+  "id": 2036,
+  "title": "Mermaid",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mermaid"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 379,
+      "collection": "Dashboard Icons",
+      "file": "mermaid.svg",
+      "id": 3353,
+      "is_default": true,
+      "label": "mermaid",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mermaid.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97a9fc2b84a9afa4f9ffd94eac48513b8d655d9b767caa532e2a46a2b552b2dd"
+      },
+      "sha256": "64c9cc23b8738f5ba4809b6557514ae798e8842983fca147b9cc97b17e465ca4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mermaid.svg",
+      "version": 0
+    },
+    {
+      "bytes": 379,
+      "collection": "Dashboard Icons",
+      "file": "mermaid-1.svg",
+      "id": 3354,
+      "is_default": false,
+      "label": "mermaid-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mermaid-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b1bdd4d4d4b5b90ca6c6ee3081a082097b2818e47e92fe876a186fbe6e42cff3"
+      },
+      "sha256": "14f341fc0869b5be9c30ecd0c9a171dd43adfdbfda33097274d7fda474f8935f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mermaid-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 379,
+      "collection": "Dashboard Icons",
+      "file": "mermaid-2.svg",
+      "id": 3355,
+      "is_default": false,
+      "label": "mermaid-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mermaid-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4bb8384433426e0c00825ea29c70f707398035ecdc4789a6b2809be7685d31d"
+      },
+      "sha256": "f911d32e3a117c63fe73292123382fd158cd7c95bea790052c390d004ac470a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mermaid-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

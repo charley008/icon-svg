@@ -1,0 +1,42 @@
+{
+  "collection_id": 976,
+  "schema_version": 1,
+  "id": 1203,
+  "title": "Ciphermail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "ciphermail"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1267,
+      "collection": "Dashboard Icons",
+      "file": "ciphermail.svg",
+      "id": 2258,
+      "is_default": true,
+      "label": "ciphermail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ciphermail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4129f28c8a278b7ca8e53b222d60133ce4502c8e404f7db87e92f588f8435b0e"
+      },
+      "sha256": "e963db0f1cb98754aa1832bd2d5aad0c5df22694c77473b111212db5b141bd72",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ciphermail.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

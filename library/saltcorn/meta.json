@@ -1,0 +1,40 @@
+{
+  "collection_id": 2547,
+  "schema_version": 1,
+  "id": 2774,
+  "title": "Saltcorn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "saltcorn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 937,
+      "collection": "Dashboard Icons",
+      "file": "saltcorn.svg",
+      "id": 4363,
+      "is_default": true,
+      "label": "saltcorn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "saltcorn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7d0abd19f30c94760f76fb5db2cabc92d128ec6e496edb7fb2fdddc747a63c68"
+      },
+      "sha256": "a722dddbb850f9217441cba836e872d495c62ccdfe0c397ac6acf4fd4a451863",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/saltcorn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

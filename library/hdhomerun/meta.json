@@ -1,0 +1,59 @@
+{
+  "collection_id": 1453,
+  "schema_version": 1,
+  "id": 1680,
+  "title": "Hdhomerun",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hdhomerun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 965,
+      "collection": "Dashboard Icons",
+      "file": "hdhomerun.svg",
+      "id": 2897,
+      "is_default": true,
+      "label": "hdhomerun",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hdhomerun.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54c97923adce33f762389f848baa6ca043df911a57494366dfad722170fe2352"
+      },
+      "sha256": "b7a96ccb021540a9570d5b0ae728be7e267ac1626e698000812fbb29d4835dc7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hdhomerun.svg",
+      "version": 0
+    },
+    {
+      "bytes": 996,
+      "collection": "Dashboard Icons",
+      "file": "hdhomerun-1.svg",
+      "id": 2898,
+      "is_default": false,
+      "label": "hdhomerun-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hdhomerun-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb3f8856486ec7316ff329f756523c03f3a0eb157e2ab2893a281a3549dae324"
+      },
+      "sha256": "7b372067f25999756eb6884a5016533101b0dd33600c14585b6033ba5f68130a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hdhomerun-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,4 +1,7 @@
 {
+  "collection_id": 555,
+  "schema_version": 1,
+  "id": 759,
   "title": "Kodi",
   "url": "https://kodi.tv/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "kodi.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "146a379662dcf735008810e84b21356d617e3e7c154f68b64fdaef55a16be350",
       "bytes": 1376,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kodi.svg",
+      "collection": "Dashboard Icons",
+      "file": "kodi.svg",
+      "id": 1717,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "kodi.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "146a379662dcf735008810e84b21356d617e3e7c154f68b64fdaef55a16be350",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kodi.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2972,
+  "schema_version": 1,
+  "id": 3199,
+  "title": "Whishper",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "whishper"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3179,
+      "collection": "Dashboard Icons",
+      "file": "whishper.svg",
+      "id": 4910,
+      "is_default": true,
+      "label": "whishper",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whishper.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6962d4fc44a2b226b94b816136e110451e9fc7f9739f1cd692b1aba6d07b30f5"
+      },
+      "sha256": "1bea7f481fd80d2508c4dd7036295f12679a5cf95633edb02ca882efd148a1b3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whishper.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

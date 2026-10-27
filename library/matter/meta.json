@@ -1,0 +1,59 @@
+{
+  "collection_id": 1787,
+  "schema_version": 1,
+  "id": 2014,
+  "title": "Matter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "matter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 577,
+      "collection": "Dashboard Icons",
+      "file": "matter.svg",
+      "id": 3324,
+      "is_default": true,
+      "label": "matter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "768e7c5e25f0e42313e5207123b31cc9e29f36b2f4cf6df387077b098f19babb"
+      },
+      "sha256": "f55bbfa222d42369f247273f9ec24f363df740f7a23e0516fd6ef3ad9dd1a4e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matter.svg",
+      "version": 0
+    },
+    {
+      "bytes": 574,
+      "collection": "Dashboard Icons",
+      "file": "matter-1.svg",
+      "id": 3325,
+      "is_default": false,
+      "label": "matter-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matter-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bbb23cf417ac1ccb8d2a95fe67f122769cb97adbcde141bcdeedd6cb5bbbf378"
+      },
+      "sha256": "879cbe198acc3a08ceb9e6bccd6d5adf6e3c642ba26bbee0f8461f897a18d726",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matter-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

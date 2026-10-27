@@ -1,0 +1,40 @@
+{
+  "collection_id": 2688,
+  "schema_version": 1,
+  "id": 2915,
+  "title": "Stacks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stacks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2242,
+      "collection": "Dashboard Icons",
+      "file": "stacks.svg",
+      "id": 4543,
+      "is_default": true,
+      "label": "stacks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stacks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09606ed96ef61c062da5fdfac7e24785d4bde61001fce9c07f702495ac3cc7bf"
+      },
+      "sha256": "4ca038dfa0a1c2fa3f47dabb748984979041773117b5638ee04b121c2c381162",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stacks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

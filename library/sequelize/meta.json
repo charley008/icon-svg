@@ -1,0 +1,45 @@
+{
+  "collection_id": 3231,
+  "schema_version": 1,
+  "id": 3494,
+  "title": "Sequelize",
+  "url": "https://sequelize.org",
+  "domains": [
+    "sequelize.org"
+  ],
+  "description": "Node.js 数据库操作和对象关系映射工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Sequelize",
+    "sequelize"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2536,
+      "collection": "TechIcons / Devicon",
+      "file": "sequelize-1.svg",
+      "id": 5357,
+      "is_default": true,
+      "label": "TechIcons · Sequelize",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Sequelize.svg",
+        "original_sha256": "3c9e2b579c12fb936774722b4e6f3f66bbbad4bd22955de0b63c12078c0352cb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sequelize",
+        "reference_website": "https://sequelize.org"
+      },
+      "sha256": "e09ccf724bc73aafda4404ffd9203080c6c92a0db2d223dc43a3a9bbd5cedb59",
+      "source": "https://techicons.dev/icons/sequelize",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

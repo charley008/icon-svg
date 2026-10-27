@@ -1,0 +1,46 @@
+{
+  "collection_id": 3155,
+  "schema_version": 1,
+  "id": 3412,
+  "title": "Karate Labs",
+  "url": "https://www.karatelabs.io",
+  "domains": [
+    "karatelabs.io"
+  ],
+  "description": "用于 API 与应用自动化测试的工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Karate Labs",
+    "karatelabs",
+    "Karate-Labs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3800,
+      "collection": "TechIcons / Devicon",
+      "file": "karatelabs-1.svg",
+      "id": 5237,
+      "is_default": true,
+      "label": "TechIcons · Karate Labs",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Karate-Labs.svg",
+        "original_sha256": "180cf7a080dbce10bad5a0805c3bacc5601a30edc11a0c234f200a933e8c005e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/karatelabs",
+        "reference_website": "https://www.karatelabs.io"
+      },
+      "sha256": "c91fb0e9251978f896cf0665e253830dbc6170318490d94df590a6779e503bf2",
+      "source": "https://techicons.dev/icons/karatelabs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

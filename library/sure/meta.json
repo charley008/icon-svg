@@ -1,0 +1,40 @@
+{
+  "collection_id": 2718,
+  "schema_version": 1,
+  "id": 2945,
+  "title": "Sure",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sure"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6250,
+      "collection": "Dashboard Icons",
+      "file": "sure.svg",
+      "id": 4580,
+      "is_default": true,
+      "label": "sure",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sure.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec433143cb5f48f3574b343da8060a340f616e2bb9957778b969f161bcc040c2"
+      },
+      "sha256": "6a397fa164359af3d853a05ed1711aed52508dfafbae1a783302718407e7a1b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sure.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

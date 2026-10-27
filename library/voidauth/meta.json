@@ -1,0 +1,40 @@
+{
+  "collection_id": 2932,
+  "schema_version": 1,
+  "id": 3159,
+  "title": "Voidauth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "voidauth"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6236,
+      "collection": "Dashboard Icons",
+      "file": "voidauth.svg",
+      "id": 4857,
+      "is_default": true,
+      "label": "voidauth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "voidauth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0149b295578449e086f38772e27e3002469b735f39c5286cb2d6b73bc8797881"
+      },
+      "sha256": "4125f91a12453c14a0817558ad5a3c2e2e457b5a414f7c74fd05e5f6179318fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/voidauth.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,62 @@
+{
+  "collection_id": 838,
+  "schema_version": 1,
+  "id": 1065,
+  "title": "Backrest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "backrest",
+    "Backup Tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8137,
+      "collection": "Dashboard Icons",
+      "file": "backrest.svg",
+      "id": 2072,
+      "is_default": true,
+      "label": "backrest-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "backrest-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc602fbd5ab8d7c3c89763cff5c1a0d0fbf9b0c9c748a71f0602de29e54557fb"
+      },
+      "sha256": "e7ca4bd02fd28a6880ed23f566d4b52aa9e76751a762b6bf380f3daf1dce155f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/backrest-dark.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8137,
+      "collection": "Dashboard Icons",
+      "file": "backrest-1.svg",
+      "id": 2073,
+      "is_default": false,
+      "label": "backrest-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "backrest-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a0a081796bef5cc3ea89c16141514188872c61f9345aaed85122f14e7580078"
+      },
+      "sha256": "a234cc48c16645722d22bc72ad509c9ed317245631e662c928c74e1c9c17d165",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/backrest-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

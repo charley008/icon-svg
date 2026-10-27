@@ -1,0 +1,40 @@
+{
+  "collection_id": 1003,
+  "schema_version": 1,
+  "id": 1230,
+  "title": "Coffer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "coffer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 673,
+      "collection": "Dashboard Icons",
+      "file": "coffer.svg",
+      "id": 2299,
+      "is_default": true,
+      "label": "coffer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coffer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cdef4b75fd6ad73f68f665430e94c8864d338e22e929415c5e31c1e1f6a8d7c1"
+      },
+      "sha256": "9f23f5863d897193fe82956bde871f9b3814f7bd181513919b51d7b72f324332",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/coffer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 749,
+  "schema_version": 1,
+  "id": 976,
+  "title": "Argo Cd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "DevOps",
+    "Containerization-\u0026-Orchestration",
+    "开发编程"
+  ],
+  "aliases": [
+    "argo-cd",
+    "GitOps Tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4130,
+      "collection": "Dashboard Icons",
+      "file": "argo-cd.svg",
+      "id": 1965,
+      "is_default": true,
+      "label": "argo-cd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "argo-cd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dfd0a40f38081d499182b3ecb7cb6bf9445652a8365914b9e38fffc3d2e7f8fa"
+      },
+      "sha256": "40c50d5fc9147f3efe1cd600d7823b0ee6885ce98b8006d6c838005e330eb19e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/argo-cd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

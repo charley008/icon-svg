@@ -1,0 +1,40 @@
+{
+  "collection_id": 659,
+  "schema_version": 1,
+  "id": 886,
+  "title": "Acars Hub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "acars-hub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6341,
+      "collection": "Dashboard Icons",
+      "file": "acars-hub.svg",
+      "id": 1847,
+      "is_default": true,
+      "label": "acars-hub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "acars-hub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bbec8b495b3774edd60d5e062be2149ad9e7e6b48aafd7a11adc622a237f30d9"
+      },
+      "sha256": "62438235907ec5ad0956132cb83bd446c2eaf8f27f320308e600e6e9b0d16c62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/acars-hub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

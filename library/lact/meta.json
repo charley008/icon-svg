@@ -1,0 +1,40 @@
+{
+  "collection_id": 1671,
+  "schema_version": 1,
+  "id": 1898,
+  "title": "Lact",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lact"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 44099,
+      "collection": "Dashboard Icons",
+      "file": "lact.svg",
+      "id": 3173,
+      "is_default": true,
+      "label": "lact",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lact.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "01db71bf6a5ec00700ce0890b723ea48daaa3921200979710a5f9fea39548467"
+      },
+      "sha256": "bf339553958309fa8568f7e122e33ce569b9d77e755ec38a39f70f4fbd1f4e1e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lact.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

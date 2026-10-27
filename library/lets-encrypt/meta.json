@@ -1,0 +1,40 @@
+{
+  "collection_id": 1685,
+  "schema_version": 1,
+  "id": 1912,
+  "title": "Lets Encrypt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lets-encrypt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1368,
+      "collection": "Dashboard Icons",
+      "file": "lets-encrypt.svg",
+      "id": 3194,
+      "is_default": true,
+      "label": "lets-encrypt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lets-encrypt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ac4ed8011a5f7e48d7641ee25a4dcc84583a4a7da40e73cf8c173698e2d8eb3"
+      },
+      "sha256": "3f8ebbbfd1da90998be8e68a74307d30731a9de8331b850f496064a93857e7fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lets-encrypt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

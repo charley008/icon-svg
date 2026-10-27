@@ -1,0 +1,40 @@
+{
+  "collection_id": 1720,
+  "schema_version": 1,
+  "id": 1947,
+  "title": "Listmonk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "listmonk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 244,
+      "collection": "Dashboard Icons",
+      "file": "listmonk.svg",
+      "id": 3244,
+      "is_default": true,
+      "label": "listmonk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "listmonk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "99d1d27cc4ce6728e24257a0450594b575e859e4582a1d0399923c4a8aae66ab"
+      },
+      "sha256": "5cc1a96ef0073ebfc0e81638e142742a60dc4a3aae4c04be4d5cd5e2c579a3c9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/listmonk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3077,
+  "schema_version": 1,
+  "id": 3311,
+  "title": "APL",
+  "url": "https://aplwiki.com",
+  "domains": [
+    "aplwiki.com"
+  ],
+  "description": "APL 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "APL",
+    "apl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7363,
+      "collection": "TechIcons / Devicon",
+      "file": "apl-1.svg",
+      "id": 5070,
+      "is_default": true,
+      "label": "TechIcons · APL",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "APL.svg",
+        "original_sha256": "dcd550e769e253ead811839f38022ab31527ea638932653b8ecfa8705d76b31e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/apl",
+        "reference_website": "https://aplwiki.com"
+      },
+      "sha256": "e4f4d10e2188085033a5b48825ce022cf3baafdc783ab696b981685bc64c59b8",
+      "source": "https://techicons.dev/icons/apl",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

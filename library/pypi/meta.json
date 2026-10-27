@@ -1,0 +1,64 @@
+{
+  "collection_id": 2422,
+  "schema_version": 1,
+  "id": 2649,
+  "redirect_from": [
+    2650
+  ],
+  "title": "Pypi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pypi",
+    "pypi-wordmark-light",
+    "Pypi Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 53170,
+      "collection": "Dashboard Icons",
+      "file": "pypi.svg",
+      "id": 4208,
+      "is_default": true,
+      "label": "pypi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pypi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c474fdf313ddd66e8eefb86fe99d26336aa083dbee15ec07047e67b66d05f09"
+      },
+      "sha256": "b0b191062a30dd19c8478c87b73cf7e9fc444661e0020c3c06d8fb52c4f11cc4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pypi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 14865,
+      "collection": "Dashboard Icons",
+      "file": "pypi-1.svg",
+      "id": 4209,
+      "is_default": false,
+      "label": "pypi-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pypi-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bdeaf436bf80d73c70a11daef68ba1d4ba86ff6d9d4385e0ffa3c51300174dc9"
+      },
+      "sha256": "836842ff6653d93aea5807c0edca07f712393cabcb62c7e16b9116b5a43597c6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pypi-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

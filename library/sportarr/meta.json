@@ -1,0 +1,40 @@
+{
+  "collection_id": 2678,
+  "schema_version": 1,
+  "id": 2905,
+  "title": "Sportarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sportarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 202455,
+      "collection": "Dashboard Icons",
+      "file": "sportarr.svg",
+      "id": 4530,
+      "is_default": true,
+      "label": "sportarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sportarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea294845a3a92ca8e99588e441f2aa6d0f4fe1ede693596f3ec0d9144be33de9"
+      },
+      "sha256": "4c5812a719994b6d0d1a532752d59f21b42750cde6fd77b402f896b757f784bc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sportarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

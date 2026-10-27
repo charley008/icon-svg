@@ -1,0 +1,59 @@
+{
+  "collection_id": 691,
+  "schema_version": 1,
+  "id": 918,
+  "title": "Alexandrie",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "alexandrie"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 652,
+      "collection": "Dashboard Icons",
+      "file": "alexandrie.svg",
+      "id": 1883,
+      "is_default": true,
+      "label": "alexandrie",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alexandrie.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a9d9f34ff62095bf0093821ab1355506107215eb399d89e86916b69d523451e"
+      },
+      "sha256": "2861fee51e4b794ebf2d4bdc60f47d04c0a60f6206ccc59fffbb5bb4303fe2b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alexandrie.svg",
+      "version": 0
+    },
+    {
+      "bytes": 652,
+      "collection": "Dashboard Icons",
+      "file": "alexandrie-1.svg",
+      "id": 1884,
+      "is_default": false,
+      "label": "alexandrie-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alexandrie-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d42d19c281435012720e29cfd7a850ee85bbff90a1267744582e15b32984ddd"
+      },
+      "sha256": "1d68d29ba81801db85668f5b4e58b1a59bc298865129233ceab5b7670566a5d8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alexandrie-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2668,
+  "schema_version": 1,
+  "id": 2895,
+  "title": "Specifically Clementines",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "specifically-clementines"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 71959,
+      "collection": "Dashboard Icons",
+      "file": "specifically-clementines.svg",
+      "id": 4520,
+      "is_default": true,
+      "label": "specifically-clementines",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "specifically-clementines.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "890f2ffbd850be3a47dc7ba5ab5dcafe4689a662e006d372a49d6363b46e7cf4"
+      },
+      "sha256": "a2494a8400d3a9cab1404e919a2f3e00e32e702bd8bed678e44b13d4c78f3ecf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/specifically-clementines.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

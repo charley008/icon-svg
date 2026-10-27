@@ -1,0 +1,40 @@
+{
+  "collection_id": 656,
+  "schema_version": 1,
+  "id": 883,
+  "title": "Ableton",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ableton"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 440,
+      "collection": "Dashboard Icons",
+      "file": "ableton.svg",
+      "id": 1844,
+      "is_default": true,
+      "label": "ableton",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ableton.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f58a15562c2a372a50b82b60d0f3170568ee8d0484df4c2798f66e8bb16a6de"
+      },
+      "sha256": "04bbc839112d8172a27a3e92e754fa9fdcf8a4ff07884823997975dccc92e7dc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ableton.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

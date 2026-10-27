@@ -1,0 +1,40 @@
+{
+  "collection_id": 2779,
+  "schema_version": 1,
+  "id": 3006,
+  "title": "Text Document",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "text-document"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2502,
+      "collection": "Dashboard Icons",
+      "file": "text-document.svg",
+      "id": 4658,
+      "is_default": true,
+      "label": "text-document",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "text-document.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c9bb109b8a7dac6dab404d224c8c66bcdbf5ced84792214705b713181ae5905e"
+      },
+      "sha256": "a6896c66b9bcca8b6b303277cf857ff74aa0712d7b743cc322958cea59e883c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/text-document.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

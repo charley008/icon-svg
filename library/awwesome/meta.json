@@ -1,0 +1,40 @@
+{
+  "collection_id": 804,
+  "schema_version": 1,
+  "id": 1031,
+  "title": "Awwesome",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "awwesome"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1459,
+      "collection": "Dashboard Icons",
+      "file": "awwesome.svg",
+      "id": 2037,
+      "is_default": true,
+      "label": "awwesome",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "awwesome.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37876905fefdb6015523be74adfcbe2255b87e220115f2d8167def2f5e0dc1f1"
+      },
+      "sha256": "13e94a1fd713343af8c6b1bba3a4a06cbcc86f37f3a362339f43319db8008cde",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/awwesome.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

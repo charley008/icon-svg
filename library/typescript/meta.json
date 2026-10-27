@@ -1,0 +1,79 @@
+{
+  "collection_id": 2861,
+  "schema_version": 1,
+  "id": 3088,
+  "title": "Typescript",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "typescript"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1460,
+      "collection": "Dashboard Icons",
+      "file": "typescript.svg",
+      "id": 4762,
+      "is_default": true,
+      "label": "typescript",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "typescript.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "421952e083c20d0d9b237a42da3429f7a276515f8b06a01eda657e7cb4c384ce"
+      },
+      "sha256": "d93abcbe779fd890619a8cf61aa67394e7f826ee6b25e76f895ed5632d1ff94d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/typescript.svg",
+      "version": 0
+    },
+    {
+      "bytes": 125132,
+      "collection": "Dashboard Icons",
+      "file": "typescript-1.svg",
+      "id": 4763,
+      "is_default": false,
+      "label": "typescript-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "typescript-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c09ca8e4b6b4ba9522836011a5a0a8db6803bc00c1fb2834f5260b3325571ff"
+      },
+      "sha256": "6f67082fc4786072e0f101aedd3476d46cb727e54a04318cad9552a12a690433",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/typescript-kawaii.svg",
+      "version": 1
+    },
+    {
+      "bytes": 984,
+      "collection": "TechIcons / Devicon",
+      "file": "typescript-2.svg",
+      "id": 5386,
+      "is_default": false,
+      "label": "TechIcons · TypeScript",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "TypeScript.svg",
+        "original_sha256": "c9191199f4049920c2fc19035b8a6664f37f4689fcd9e8434e786097e78863f0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/typescript",
+        "reference_website": "https://www.typescriptlang.org"
+      },
+      "sha256": "5d844cc00c3a561c477aa4e9c6c14ce154548044ee1f94aa8113dfa791f7c8f8",
+      "source": "https://techicons.dev/icons/typescript",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

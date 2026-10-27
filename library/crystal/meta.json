@@ -1,0 +1,45 @@
+{
+  "collection_id": 3106,
+  "schema_version": 1,
+  "id": 3346,
+  "title": "Crystal",
+  "url": "https://crystal-lang.org",
+  "domains": [
+    "crystal-lang.org"
+  ],
+  "description": "Crystal 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Crystal",
+    "crystal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 529,
+      "collection": "TechIcons / Devicon",
+      "file": "crystal-1.svg",
+      "id": 5118,
+      "is_default": true,
+      "label": "TechIcons · Crystal",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Crystal.svg",
+        "original_sha256": "1baf75083fe93859d839695cc436356af0c12574c0070d4f688f99f965ca2728",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/crystal",
+        "reference_website": "https://crystal-lang.org"
+      },
+      "sha256": "c98589cd58e5ce33ed40e8a4ce20f47c21b18da9139208596f0235381cfd578f",
+      "source": "https://techicons.dev/icons/crystal",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

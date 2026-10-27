@@ -1,0 +1,40 @@
+{
+  "collection_id": 684,
+  "schema_version": 1,
+  "id": 911,
+  "title": "Aks Automatic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aks-automatic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4566,
+      "collection": "Dashboard Icons",
+      "file": "aks-automatic.svg",
+      "id": 1875,
+      "is_default": true,
+      "label": "aks-automatic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aks-automatic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c42ebdd48e100f4ca7e61896724d087be2235080508703b4b86dfe7b86eeaca4"
+      },
+      "sha256": "172317ce9341d519ffb354d5b382a94459c87d02ec6647f4527fd14172881c52",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aks-automatic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

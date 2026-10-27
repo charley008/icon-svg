@@ -1,0 +1,98 @@
+{
+  "collection_id": 2960,
+  "schema_version": 1,
+  "id": 3187,
+  "title": "Webflow",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "webflow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 557,
+      "collection": "Dashboard Icons",
+      "file": "webflow.svg",
+      "id": 4893,
+      "is_default": true,
+      "label": "webflow",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webflow.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d70005950102bc91d1064289a95de59fcf88db799db042d5d00ee230d286f173"
+      },
+      "sha256": "fc6ee0c1f53145c5286e02c86814f443181b0f64c2c6a43bdaba7e9679d11bde",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webflow.svg",
+      "version": 0
+    },
+    {
+      "bytes": 557,
+      "collection": "Dashboard Icons",
+      "file": "webflow-1.svg",
+      "id": 4894,
+      "is_default": false,
+      "label": "webflow-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webflow-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a53cc13d46ded7bcbd38960c1a4e3c18dfad86e6061e5203078b26465822d5cd"
+      },
+      "sha256": "d81a18f7772baa73b8d42607ce2317a0dfe5721b29709b265727e76a4219f8ac",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webflow-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 557,
+      "collection": "Dashboard Icons",
+      "file": "webflow-2.svg",
+      "id": 4895,
+      "is_default": false,
+      "label": "webflow-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webflow-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a3b15a47c0ca5f140f74493428d4e790b48ae369d7b07b897b7db5d7ff0540ea"
+      },
+      "sha256": "c1e18be77171ba44a1331dd658b62fef750c86fbeecd0bcf3c2859fa61420240",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webflow-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 505,
+      "collection": "TechIcons / Devicon",
+      "file": "webflow-3.svg",
+      "id": 5402,
+      "is_default": false,
+      "label": "TechIcons · Webflow",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Webflow.svg",
+        "original_sha256": "dd116e43f402adcacf217cfd0ffd9abb2a159f136dc68e8608483e53394f5865",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/webflow",
+        "reference_website": "https://webflow.com"
+      },
+      "sha256": "88aaf65bd8a349ec639e849c840f50de0b0fff3c1f00c8690d8a0d2fd15d2b6a",
+      "source": "https://techicons.dev/icons/webflow",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

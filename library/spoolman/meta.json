@@ -1,0 +1,44 @@
+{
+  "collection_id": 2677,
+  "schema_version": 1,
+  "id": 2904,
+  "title": "Spoolman",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "spoolman",
+    "printer-server",
+    "cups-alternative"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2070,
+      "collection": "Dashboard Icons",
+      "file": "spoolman.svg",
+      "id": 4529,
+      "is_default": true,
+      "label": "spoolman",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spoolman.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab6ed4ac4c939b092e2b7172e32dfd14594e0377f406f62b614779d344fa01da"
+      },
+      "sha256": "81af82c2dfc368941a3e0e8424877b5cdfdfd1b3d3072ba749089fa2e7deac31",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spoolman.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

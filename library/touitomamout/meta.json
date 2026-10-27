@@ -1,0 +1,40 @@
+{
+  "collection_id": 2821,
+  "schema_version": 1,
+  "id": 3048,
+  "title": "Touitomamout",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "touitomamout"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3959,
+      "collection": "Dashboard Icons",
+      "file": "touitomamout.svg",
+      "id": 4712,
+      "is_default": true,
+      "label": "touitomamout",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "touitomamout.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca2ec18536fe9ad33ac363f384c07068c55533cd06e986f79825a373cf4e0773"
+      },
+      "sha256": "90260a930227f27239430de50026d4555bf53959ba6f4b613ffb37f30c586fa7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/touitomamout.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

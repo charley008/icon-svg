@@ -1,0 +1,40 @@
+{
+  "collection_id": 2671,
+  "schema_version": 1,
+  "id": 2898,
+  "title": "Spiceworks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "spiceworks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6805,
+      "collection": "Dashboard Icons",
+      "file": "spiceworks.svg",
+      "id": 4523,
+      "is_default": true,
+      "label": "spiceworks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spiceworks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "70a22a09f687dc2172244c7f2c9faf9f6969197c2e9d522c9d87b005e35f7335"
+      },
+      "sha256": "c263a1c42cbe5cdc9b945a69af80568c2f76a30bd48547ba85b163c0d60653c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spiceworks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

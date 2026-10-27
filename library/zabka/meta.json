@@ -1,0 +1,40 @@
+{
+  "collection_id": 3041,
+  "schema_version": 1,
+  "id": 3268,
+  "title": "Zabka",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zabka"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1702,
+      "collection": "Dashboard Icons",
+      "file": "zabka.svg",
+      "id": 5000,
+      "is_default": true,
+      "label": "zabka",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zabka.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b87c8a798095905ee208dba785f695cf2f1cac7d52d40a357f87488183273919"
+      },
+      "sha256": "2b5560b3681f8c26002647b421eea94d709a0db616fcae084c9d7b936cb206f8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zabka.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

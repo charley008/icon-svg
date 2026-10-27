@@ -1,0 +1,45 @@
+{
+  "collection_id": 3254,
+  "schema_version": 1,
+  "id": 3518,
+  "title": "uWSGI",
+  "url": "https://uwsgi-docs.readthedocs.io/en/latest",
+  "domains": [
+    "uwsgi-docs.readthedocs.io"
+  ],
+  "description": "用于部署和运行 Web 应用的服务软件。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "uWSGI",
+    "uwsgi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2053,
+      "collection": "TechIcons / Devicon",
+      "file": "uwsgi-1.svg",
+      "id": 5392,
+      "is_default": true,
+      "label": "TechIcons · uWSGI",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "uWSGI.svg",
+        "original_sha256": "8540efd66cc50d06753ebf54cd040386ecf17ceefc02c5d414e0cfc6471a5cfd",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/uwsgi",
+        "reference_website": "https://uwsgi-docs.readthedocs.io/en/latest"
+      },
+      "sha256": "0b594c0a6c3486b50a720746788ff7e699162b60911a67c92c4b7a4946059b75",
+      "source": "https://techicons.dev/icons/uwsgi",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

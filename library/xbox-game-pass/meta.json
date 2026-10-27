@@ -1,0 +1,40 @@
+{
+  "collection_id": 3004,
+  "schema_version": 1,
+  "id": 3231,
+  "title": "Xbox Game Pass",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xbox-game-pass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2851,
+      "collection": "Dashboard Icons",
+      "file": "xbox-game-pass.svg",
+      "id": 4953,
+      "is_default": true,
+      "label": "xbox-game-pass",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xbox-game-pass.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b62020cab3d5b49edb892cc9ad4dc47a0983e5d533dac29b6805c87b98642088"
+      },
+      "sha256": "03b1414cda5b31d9d177ea48dc2a449042519ddae98d412149f8bc9cc7c784e8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xbox-game-pass.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

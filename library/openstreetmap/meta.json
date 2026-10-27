@@ -1,0 +1,43 @@
+{
+  "collection_id": 2047,
+  "schema_version": 1,
+  "id": 2274,
+  "title": "Openstreetmap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "Networking-Tools"
+  ],
+  "aliases": [
+    "openstreetmap",
+    "OSM"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 47137,
+      "collection": "Dashboard Icons",
+      "file": "openstreetmap.svg",
+      "id": 3694,
+      "is_default": true,
+      "label": "openstreetmap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openstreetmap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63d60e37d36f53206a4421eccd320fed6eb3496a1310b7f1c835a00bef2458b1"
+      },
+      "sha256": "f607b15668f3c101a5cd9561742e357ba2bcc5cff44c5b8b159207659e7e64f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openstreetmap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

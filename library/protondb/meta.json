@@ -42,8 +42,27 @@
       "sha256": "f7fdde3bac5cef6a9f922f471662fc8066e965ce02c20f87c2211223d4a08918",
       "source": "https://web.gotab.cn/sourceStore/website/01KZ9C6HC5THZ82SMA6V4GTBBG.svg",
       "version": 0
+    },
+    {
+      "bytes": 3211,
+      "collection": "Dashboard Icons",
+      "file": "protondb-1.svg",
+      "id": 3943,
+      "is_default": false,
+      "label": "protondb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "protondb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed52bd292dea5ee1c719a5f59c453fc7009d07bfd2ad640afe9c39ec6e3dfdd9"
+      },
+      "sha256": "0f3186a8ebf0a599a493a872a4b1175c07f6c8b015572694ad3d1d26bf3af66d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/protondb.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

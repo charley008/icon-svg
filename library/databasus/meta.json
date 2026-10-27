@@ -1,0 +1,40 @@
+{
+  "collection_id": 1071,
+  "schema_version": 1,
+  "id": 1298,
+  "title": "Databasus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "databasus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3126,
+      "collection": "Dashboard Icons",
+      "file": "databasus.svg",
+      "id": 2388,
+      "is_default": true,
+      "label": "databasus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "databasus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c939286b463befd8efd4d565de92b587b744bc05884db37ba812fb8463e69d8b"
+      },
+      "sha256": "bd5fef4f8e9e6e78135299abb914ab13d9597a4a66afc34d592d4d4bc9995b23",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/databasus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2445,
+  "schema_version": 1,
+  "id": 2672,
+  "title": "Quest",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "quest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 386,
+      "collection": "Dashboard Icons",
+      "file": "quest.svg",
+      "id": 4235,
+      "is_default": true,
+      "label": "quest",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quest.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "81fb657735c2c7e00d359ecf3b557dc3dc6d908763b744d9fc8c5a7a7fe8a115"
+      },
+      "sha256": "ae3ac40c908c3cdb6a33d643066e9f5c3de59356d78d901c43fe44f5f31d43e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/quest.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

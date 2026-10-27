@@ -1,0 +1,41 @@
+{
+  "collection_id": 1772,
+  "schema_version": 1,
+  "id": 1999,
+  "title": "Manga Dex",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "manga-dex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5187,
+      "collection": "Dashboard Icons",
+      "file": "manga-dex.svg",
+      "id": 3306,
+      "is_default": true,
+      "label": "manga-dex",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "manga-dex.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ebaa23c95dc4c796ab390c24836e614554aeaac117459f5fb302ebd05349d43"
+      },
+      "sha256": "ca4f432ff267e3fc236c5e3c21210a4bcc0cc50d2254e5e08495633c3d9c850d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/manga-dex.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

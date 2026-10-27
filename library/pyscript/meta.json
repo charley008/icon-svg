@@ -1,0 +1,45 @@
+{
+  "collection_id": 3211,
+  "schema_version": 1,
+  "id": 3474,
+  "title": "PyScript",
+  "url": "https://pyscript.net",
+  "domains": [
+    "pyscript.net"
+  ],
+  "description": "在 Web 页面中使用 Python 的开发工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "PyScript",
+    "pyscript"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 929,
+      "collection": "TechIcons / Devicon",
+      "file": "pyscript-1.svg",
+      "id": 5327,
+      "is_default": true,
+      "label": "TechIcons · PyScript",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "PyScript.svg",
+        "original_sha256": "c1ae132c7a6bca70c9be6dafd28c56fa4145c16f954ac0d13169aa79007b24b7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/pyscript",
+        "reference_website": "https://pyscript.net"
+      },
+      "sha256": "e2e0971c84c8880b1e5fec9ba872d059b5560f6305ee98535851512cdfedccf8",
+      "source": "https://techicons.dev/icons/pyscript",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

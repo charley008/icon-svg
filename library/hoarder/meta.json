@@ -1,0 +1,59 @@
+{
+  "collection_id": 1482,
+  "schema_version": 1,
+  "id": 1709,
+  "title": "Hoarder",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hoarder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 600,
+      "collection": "Dashboard Icons",
+      "file": "hoarder.svg",
+      "id": 2940,
+      "is_default": true,
+      "label": "hoarder",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hoarder.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f28df924376cd9fa63eb4b98b92351af25a739d75f0245d0d07885387f83fd92"
+      },
+      "sha256": "0286abcd6c1f4c23a1268f7e2c2835368628bb95f6a4d74faa13df78cfbc5b8f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hoarder.svg",
+      "version": 0
+    },
+    {
+      "bytes": 612,
+      "collection": "Dashboard Icons",
+      "file": "hoarder-1.svg",
+      "id": 2941,
+      "is_default": false,
+      "label": "hoarder-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hoarder-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "29e12621ae32987825c4b84c74afb672766c5d53275c1bc6afd341eecbe0fab4"
+      },
+      "sha256": "6aefdf268558d6e5cd974f39a5873932e592c10d290e334cb4cba369c74155e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hoarder-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

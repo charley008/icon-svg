@@ -1,0 +1,40 @@
+{
+  "collection_id": 1640,
+  "schema_version": 1,
+  "id": 1867,
+  "title": "Kitchenowl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kitchenowl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6056,
+      "collection": "Dashboard Icons",
+      "file": "kitchenowl.svg",
+      "id": 3138,
+      "is_default": true,
+      "label": "kitchenowl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kitchenowl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2053da09b6a944a2a88a75bb03c44dc7186e37b98a734bcba5789080f70aa496"
+      },
+      "sha256": "297f7e94ddb18c0a8e9691d6c1ec7a2d320ab8cdebdf4f944f69f85879c4f126",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kitchenowl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,60 @@
+{
+  "collection_id": 1316,
+  "schema_version": 1,
+  "id": 1543,
+  "title": "Fortran",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fortran"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1138,
+      "collection": "Dashboard Icons",
+      "file": "fortran.svg",
+      "id": 2708,
+      "is_default": true,
+      "label": "fortran",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fortran.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb26c130b8da9a60805e46d3a19d1a2bdd7668e56908157a7a0751075b2d34d3"
+      },
+      "sha256": "a67be1145d1134a23a12c7bcbd91b1ef65616c68081dc4bdfda1457632848bd5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fortran.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1012,
+      "collection": "TechIcons / Devicon",
+      "file": "fortran-1.svg",
+      "id": 5163,
+      "is_default": false,
+      "label": "TechIcons · Fortran",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Fortran.svg",
+        "original_sha256": "48789b357793d82f8dbde719c07d911fa92dede9806f5ed8e6dc100844fbec6d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/fortran",
+        "reference_website": "https://fortran-lang.org"
+      },
+      "sha256": "15bafb9e21e52268875dfb3f7dd1a639d218e7a18ce591ea5336c010e0d533cf",
+      "source": "https://techicons.dev/icons/fortran",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1739,
+  "schema_version": 1,
+  "id": 1966,
+  "title": "Looker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "looker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2769,
+      "collection": "Dashboard Icons",
+      "file": "looker.svg",
+      "id": 3267,
+      "is_default": true,
+      "label": "looker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "looker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbe2796129db2891eec9984cb040102b3ad09f44bec27d14bccb3a54256a5dd7"
+      },
+      "sha256": "8af7522bfb3e013be0368fe91530dc1cb75c78c858b1adddab2a5c49c481a39d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/looker.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

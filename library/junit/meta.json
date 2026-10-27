@@ -1,0 +1,45 @@
+{
+  "collection_id": 3152,
+  "schema_version": 1,
+  "id": 3409,
+  "title": "JUnit",
+  "url": "https://junit.org/junit5",
+  "domains": [
+    "junit.org"
+  ],
+  "description": "Java 项目的自动化测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "JUnit",
+    "junit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1303,
+      "collection": "TechIcons / Devicon",
+      "file": "junit-1.svg",
+      "id": 5232,
+      "is_default": true,
+      "label": "TechIcons · JUnit",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "JUnit.svg",
+        "original_sha256": "444128be6ead7925bea46595d24d60bd11c2de6e88ca15531ad855d84d929acb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/junit",
+        "reference_website": "https://junit.org/junit5"
+      },
+      "sha256": "b13b2b0053a61180e6927278af2aaf71836b65584dc4de0d1423139c2d368e52",
+      "source": "https://techicons.dev/icons/junit",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

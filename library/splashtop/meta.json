@@ -1,0 +1,40 @@
+{
+  "collection_id": 2673,
+  "schema_version": 1,
+  "id": 2900,
+  "title": "Splashtop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "splashtop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 684,
+      "collection": "Dashboard Icons",
+      "file": "splashtop.svg",
+      "id": 4525,
+      "is_default": true,
+      "label": "splashtop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "splashtop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf77ca7ff29955b7e137f1c2d4ab5594f81a6484fb1072d8a6a549664ee51aba"
+      },
+      "sha256": "68d064a722b5eb9a07062fc204ae4efc99ce5152816702987ddb3eb89a197f14",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/splashtop.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

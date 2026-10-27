@@ -1,0 +1,45 @@
+{
+  "collection_id": 3174,
+  "schema_version": 1,
+  "id": 3436,
+  "title": "Minitab",
+  "url": "https://www.minitab.com",
+  "domains": [
+    "minitab.com"
+  ],
+  "description": "用于统计分析与研究的软件。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Minitab",
+    "minitab"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 825,
+      "collection": "TechIcons / Devicon",
+      "file": "minitab-1.svg",
+      "id": 5269,
+      "is_default": true,
+      "label": "TechIcons · Minitab",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Minitab.svg",
+        "original_sha256": "92e1e508e99e007e49e22838b8cb52bd6798465ee2d46e47a9a276bba7489f87",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/minitab",
+        "reference_website": "https://www.minitab.com"
+      },
+      "sha256": "7bc84903e8631629a6b39022fa707a88d5db02332f92471cac749e66b9e76ecb",
+      "source": "https://techicons.dev/icons/minitab",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

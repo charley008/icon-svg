@@ -1,0 +1,45 @@
+{
+  "collection_id": 1503,
+  "schema_version": 1,
+  "id": 1730,
+  "title": "Hubitat",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Smart-Home",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "hubitat",
+    "home-automation-controller",
+    "smart-device-hub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3980,
+      "collection": "Dashboard Icons",
+      "file": "hubitat.svg",
+      "id": 2967,
+      "is_default": true,
+      "label": "hubitat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hubitat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "29632329142d4b28772ceabdc3ac40d0af758b6ee4847dbf17fb5576d154b539"
+      },
+      "sha256": "868a91aafcfd673d7dfe6f511688a5848035ea4bdba2f00bddd9406f6c21bb78",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hubitat.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

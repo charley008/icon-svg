@@ -1,0 +1,40 @@
+{
+  "collection_id": 1639,
+  "schema_version": 1,
+  "id": 1866,
+  "title": "Kitana",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kitana"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 583,
+      "collection": "Dashboard Icons",
+      "file": "kitana.svg",
+      "id": 3137,
+      "is_default": true,
+      "label": "kitana",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kitana.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bca3f3f1e68924f414de0a446163ff6b55c7f4001b3a798f7960d9d8e50dd5dc"
+      },
+      "sha256": "bf198559185deb19ab1372ff02bb6b1ebb6a78126b23eb3755c41f2f1a4e5911",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kitana.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

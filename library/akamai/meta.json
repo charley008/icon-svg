@@ -1,0 +1,42 @@
+{
+  "collection_id": 681,
+  "schema_version": 1,
+  "id": 908,
+  "title": "Akamai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "akamai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3380,
+      "collection": "Dashboard Icons",
+      "file": "akamai.svg",
+      "id": 1871,
+      "is_default": true,
+      "label": "akamai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "akamai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab0af884fa86454d3d7f3323853504477104499eee635b9e2c12a87a8803e7c9"
+      },
+      "sha256": "42399cbf7b317b679e164df470416d4aa7c90c36501f44fb7bc3b3dae3a546b4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/akamai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

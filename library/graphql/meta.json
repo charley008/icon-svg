@@ -1,0 +1,45 @@
+{
+  "collection_id": 3136,
+  "schema_version": 1,
+  "id": 3383,
+  "title": "GraphQL",
+  "url": "https://graphql.org",
+  "domains": [
+    "graphql.org"
+  ],
+  "description": "用于 API 数据查询的语言和运行机制。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "GraphQL",
+    "graphql"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1597,
+      "collection": "TechIcons / Devicon",
+      "file": "graphql-1.svg",
+      "id": 5190,
+      "is_default": true,
+      "label": "TechIcons · GraphQL",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "GraphQL.svg",
+        "original_sha256": "1fafe03a1f77be5a1c25c20db6e52f292ed8ae5a9b2536f807ee2a3d2e78d3d3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/graphql",
+        "reference_website": "https://graphql.org"
+      },
+      "sha256": "49122a015e24fd9d15bf564794528e7bbccc700a1bd7d1b37074b476eaf633dd",
+      "source": "https://techicons.dev/icons/graphql",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

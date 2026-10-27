@@ -1,0 +1,44 @@
+{
+  "collection_id": 1024,
+  "schema_version": 1,
+  "id": 1251,
+  "title": "Coolify",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Server-Panels",
+    "开发编程"
+  ],
+  "aliases": [
+    "coolify",
+    "App Deployment"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 616,
+      "collection": "Dashboard Icons",
+      "file": "coolify.svg",
+      "id": 2329,
+      "is_default": true,
+      "label": "coolify",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coolify.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e19a67cfb6d6287a2528ae300202d5ee23f304a864b640d1dff924ad79ae79d8"
+      },
+      "sha256": "00ee87bbe220e3ddc03126dc6f08045355a7fcc6a67f2990cd345f1223b2f70f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/coolify.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

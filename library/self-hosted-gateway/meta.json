@@ -1,0 +1,43 @@
+{
+  "collection_id": 2578,
+  "schema_version": 1,
+  "id": 2805,
+  "title": "Self Hosted Gateway",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Networking-Tools"
+  ],
+  "aliases": [
+    "self-hosted-gateway",
+    "API Gateway"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 628,
+      "collection": "Dashboard Icons",
+      "file": "self-hosted-gateway.svg",
+      "id": 4405,
+      "is_default": true,
+      "label": "self-hosted-gateway",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-hosted-gateway.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c48edd17c8088376f591803d77ef36013bd8bf34393d0a9c4cbc3d19556d823d"
+      },
+      "sha256": "1f67863828a43788514bf7552375c2fcb91101762f93f7934d8fc2c3f4255726",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-hosted-gateway.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

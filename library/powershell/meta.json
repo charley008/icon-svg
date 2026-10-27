@@ -1,0 +1,79 @@
+{
+  "collection_id": 2201,
+  "schema_version": 1,
+  "id": 2428,
+  "title": "Powershell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "powershell"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 675,
+      "collection": "Dashboard Icons",
+      "file": "powershell.svg",
+      "id": 3916,
+      "is_default": true,
+      "label": "powershell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "powershell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "69c8b1ed034f472b180d7d625eeacf5b14aa11d902ff11d80f92449971c2370d"
+      },
+      "sha256": "f7f74d6136f24d41532061444bbc36b0cc8772b81408cfea67a52e4ff86f75c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powershell.svg",
+      "version": 0
+    },
+    {
+      "bytes": 881,
+      "collection": "Dashboard Icons",
+      "file": "powershell-1.svg",
+      "id": 3917,
+      "is_default": false,
+      "label": "powershell-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "powershell-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16cc9b2370f598e7e4cc2dd023e9615877cfda2e7ffa916826f7e156cd4736f7"
+      },
+      "sha256": "fb03f601fa4a80902ef7e5d0fbed1356b00d93b20bccc4c1b9331c67759f52bd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powershell-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1858,
+      "collection": "TechIcons / Devicon",
+      "file": "powershell-2.svg",
+      "id": 5321,
+      "is_default": false,
+      "label": "TechIcons · Powershell",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Powershell.svg",
+        "original_sha256": "f72bc9843ff04005045b659f1ce960d03ddf7707fe02cb5d3dee373914a6d750",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/powershell",
+        "reference_website": "https://learn.microsoft.com/en-us/powershell"
+      },
+      "sha256": "63b8250a5e2567a4a2d9423594fd44f67287d37754ba873d70a1227f1a5c4de2",
+      "source": "https://techicons.dev/icons/powershell",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

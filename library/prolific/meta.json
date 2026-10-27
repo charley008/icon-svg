@@ -1,0 +1,40 @@
+{
+  "collection_id": 2219,
+  "schema_version": 1,
+  "id": 2446,
+  "title": "Prolific",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "prolific"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1900,
+      "collection": "Dashboard Icons",
+      "file": "prolific.svg",
+      "id": 3936,
+      "is_default": true,
+      "label": "prolific",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prolific.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f0a2af41c527da69b86ec45ff92ae65f338fa9377a99d84d4557e11ca94cdd0"
+      },
+      "sha256": "f58e3b94ad1581d4744bbd3e0fda7d9588fe4671d5c1af8636258c9622c16589",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prolific.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

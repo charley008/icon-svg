@@ -1,0 +1,40 @@
+{
+  "collection_id": 1664,
+  "schema_version": 1,
+  "id": 1891,
+  "title": "Krusader",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "krusader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4048,
+      "collection": "Dashboard Icons",
+      "file": "krusader.svg",
+      "id": 3166,
+      "is_default": true,
+      "label": "krusader",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "krusader.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95d526f838edc1987d4ef079a41638eae0f85c2a5a078ca8f030dc14198a1616"
+      },
+      "sha256": "c1e7f8a52f826162df04b48d665098cc259a9bc9c6a0618bfffa5457db083727",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/krusader.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

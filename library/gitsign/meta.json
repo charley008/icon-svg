@@ -1,0 +1,45 @@
+{
+  "collection_id": 1369,
+  "schema_version": 1,
+  "id": 1596,
+  "title": "Gitsign",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Developer-Tools",
+    "Version-Control-Systems",
+    "开发编程"
+  ],
+  "aliases": [
+    "gitsign",
+    "Code Signing"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4666,
+      "collection": "Dashboard Icons",
+      "file": "gitsign.svg",
+      "id": 2773,
+      "is_default": true,
+      "label": "gitsign",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitsign.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c82881d9ff4813a5b25054019c8190bd150755260c8b6bcc13f27232363603fd"
+      },
+      "sha256": "adfe6fd4ddf6f68051a310507366ed5b830d04b842f0fc37b171e0bae034afc7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gitsign.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

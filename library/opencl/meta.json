@@ -1,0 +1,45 @@
+{
+  "collection_id": 3194,
+  "schema_version": 1,
+  "id": 3456,
+  "title": "OpenCL",
+  "url": "https://www.khronos.org/opencl",
+  "domains": [
+    "khronos.org"
+  ],
+  "description": "面向异构计算设备的并行编程接口。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "OpenCL",
+    "opencl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5253,
+      "collection": "TechIcons / Devicon",
+      "file": "opencl-1.svg",
+      "id": 5298,
+      "is_default": true,
+      "label": "TechIcons · OpenCL",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OpenCL.svg",
+        "original_sha256": "65859618062a5297a8a603bcf8a7efcd92dad82fa214ceec745440229889bcc0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/opencl",
+        "reference_website": "https://www.khronos.org/opencl"
+      },
+      "sha256": "a0ad80fb2108da8958b40d48827ce5dddf3278eea7c2a3b27172a6de0d184b67",
+      "source": "https://techicons.dev/icons/opencl",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

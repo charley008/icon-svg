@@ -1,0 +1,41 @@
+{
+  "collection_id": 1797,
+  "schema_version": 1,
+  "id": 2024,
+  "title": "Media Manager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "media-manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3560,
+      "collection": "Dashboard Icons",
+      "file": "media-manager.svg",
+      "id": 3336,
+      "is_default": true,
+      "label": "media-manager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "media-manager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f2c29a37dc3752fcb69e6485ef682c3b194ecab424e525b2d64ca8316f63531"
+      },
+      "sha256": "5ff8408a75dcb4877b42ac5a399a86704198cf0c45e245d7d74387f7fdfcbf65",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/media-manager.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

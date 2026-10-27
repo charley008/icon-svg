@@ -1,0 +1,60 @@
+{
+  "collection_id": 1454,
+  "schema_version": 1,
+  "id": 1681,
+  "title": "Headlamp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "headlamp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1228,
+      "collection": "Dashboard Icons",
+      "file": "headlamp.svg",
+      "id": 2899,
+      "is_default": true,
+      "label": "headlamp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "headlamp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9572ba2ae108f6727318bac7ac2fc7f0efe69cc1f6a75da920a43bf03f53fa61"
+      },
+      "sha256": "204a70cbf64d00f5b0136aca09b1ee9c0262324bdabb1adab0f1c53a66feadff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/headlamp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1227,
+      "collection": "Dashboard Icons",
+      "file": "headlamp-1.svg",
+      "id": 2900,
+      "is_default": false,
+      "label": "headlamp-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "headlamp-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c78f45af7f1bebe049e4316ae91972a0e6146c7c9fcb7550b8d2e93a4a859747"
+      },
+      "sha256": "5e2ba319aa5bcd98d52479ad99d9e6ec922a025c9a31ecc3c3a6cc9b80dabccf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/headlamp-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

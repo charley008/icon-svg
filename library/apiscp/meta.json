@@ -1,0 +1,40 @@
+{
+  "collection_id": 732,
+  "schema_version": 1,
+  "id": 959,
+  "title": "Apiscp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "apiscp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3433,
+      "collection": "Dashboard Icons",
+      "file": "apiscp.svg",
+      "id": 1942,
+      "is_default": true,
+      "label": "apiscp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apiscp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a96bf6caccc90f988d81a128b62fde5caf33770829f5d4d229985d94825409cc"
+      },
+      "sha256": "304321075d023ad6e311fc1227aef230269d134ab49a0850df3f56815c5cd67c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apiscp.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

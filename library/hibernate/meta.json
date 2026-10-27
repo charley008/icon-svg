@@ -1,0 +1,45 @@
+{
+  "collection_id": 3143,
+  "schema_version": 1,
+  "id": 3390,
+  "title": "Hibernate",
+  "url": "https://hibernate.org",
+  "domains": [
+    "hibernate.org"
+  ],
+  "description": "Java 数据持久化和对象关系映射框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Hibernate",
+    "hibernate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 368,
+      "collection": "TechIcons / Devicon",
+      "file": "hibernate-1.svg",
+      "id": 5203,
+      "is_default": true,
+      "label": "TechIcons · Hibernate",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Hibernate.svg",
+        "original_sha256": "4948181bdbeead662ae7f5a76c252285176f896bf55e56b973176b12513d7515",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/hibernate",
+        "reference_website": "https://hibernate.org"
+      },
+      "sha256": "e8472dac9b7d6040f8a506ecd5f89b8c74e57e7cad95802c3610f4963fde995f",
+      "source": "https://techicons.dev/icons/hibernate",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

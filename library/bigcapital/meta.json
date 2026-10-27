@@ -1,0 +1,43 @@
+{
+  "collection_id": 866,
+  "schema_version": 1,
+  "id": 1093,
+  "title": "Bigcapital",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "bigcapital",
+    "Finance Tracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 297,
+      "collection": "Dashboard Icons",
+      "file": "bigcapital.svg",
+      "id": 2116,
+      "is_default": true,
+      "label": "bigcapital",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bigcapital.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "66ed1d618b5e36078f6f783dfaf594b29f7b0cf0c0942544e00dd2746e0e09d0"
+      },
+      "sha256": "2028f75c703814a9fbe6d7a7570bc01ccf373f802d2845bca82ce340bd7d6444",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bigcapital.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

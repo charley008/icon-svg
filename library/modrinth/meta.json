@@ -1,0 +1,40 @@
+{
+  "collection_id": 1846,
+  "schema_version": 1,
+  "id": 2073,
+  "title": "Modrinth",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "modrinth"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1428,
+      "collection": "Dashboard Icons",
+      "file": "modrinth.svg",
+      "id": 3415,
+      "is_default": true,
+      "label": "modrinth",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "modrinth.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "884e249f17be1159f22c524b5dbdf0e54f9e71289f8e8112d5ab80d0bce0c3b6"
+      },
+      "sha256": "55db376bfb4f31b12d0cd80014c75eb5448b7d28d166a922a7dcec7fde62cf62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/modrinth.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

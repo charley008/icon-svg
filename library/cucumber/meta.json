@@ -1,0 +1,45 @@
+{
+  "collection_id": 3107,
+  "schema_version": 1,
+  "id": 3347,
+  "title": "Cucumber",
+  "url": "https://cucumber.io",
+  "domains": [
+    "cucumber.io"
+  ],
+  "description": "支持行为驱动开发的自动化测试工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Cucumber",
+    "cucumber"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1253,
+      "collection": "TechIcons / Devicon",
+      "file": "cucumber-1.svg",
+      "id": 5121,
+      "is_default": true,
+      "label": "TechIcons · Cucumber",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Cucumber.svg",
+        "original_sha256": "e4a0fc368e5296a47288f42f5afe6541b1e62d5e6c4ad04cc027bf6d4b5680c9",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/cucumber",
+        "reference_website": "https://cucumber.io"
+      },
+      "sha256": "1aa0f17eb5a5e9e01f4c40b603c801700400f66fdf2faa6c20962c07dd950409",
+      "source": "https://techicons.dev/icons/cucumber",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

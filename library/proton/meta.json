@@ -140,46 +140,89 @@
   "next_version": 5,
   "products": [
     {
-      "title": "Proton Mail",
-      "url": "https://proton.me/mail",
+      "id": 819,
+      "key": "calendar",
+      "title": "Proton Calendar",
+      "url": "https://proton.me/calendar",
       "domains": [
         "proton.me"
       ],
-      "description": "Proton 加密电子邮件服务。",
+      "description": "Proton 日历应用。",
       "category": "办公效率",
       "tags": [
-        "ProtonMail",
-        "加密邮箱",
-        "Proton Mail"
+        "加密日历",
+        "日程管理",
+        "Proton Calendar"
       ],
       "aliases": [
-        "proton-mail",
-        "ProtonMail",
-        "加密邮箱"
+        "proton-calendar",
+        "加密日历",
+        "日程管理"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "proton-mail.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 1713,
+          "collection": "Dashboard Icons",
+          "file": "proton-calendar.svg",
+          "id": 1776,
           "is_default": true,
-          "sha256": "2cf6f56e7ac141fcc13e7b3bc3dbf19542910acee86bdc52f5ba3ee92e195997",
-          "bytes": 1174,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-mail.svg",
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
-            "original_file": "proton-mail.svg",
+            "original_file": "proton-calendar.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "9ee0376f8baedf5b85c542bada22d79fdba01106d20a187fd53a3f9c82c87915",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-calendar.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "mail"
+      "next_version": 1
     },
     {
+      "id": 2448,
+      "key": "docs",
+      "title": "Proton Docs",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons",
+        "Cloud"
+      ],
+      "aliases": [
+        "proton-docs"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1375,
+          "collection": "Dashboard Icons",
+          "file": "proton-docs.svg",
+          "id": 3938,
+          "is_default": true,
+          "label": "proton-docs",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proton-docs.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c013e9c1d8e4eba90438674bcca3082650bb94714099bd9e7828778f0e9a0c1d"
+          },
+          "sha256": "9abb8afd7b8abeefe347e88ad9cc431b474f2f9077c77e65466d1f88100e9d2e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-docs.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 817,
+      "key": "drive",
       "title": "Proton Drive",
       "url": "https://proton.me/drive",
       "domains": [
@@ -201,26 +244,148 @@
       "notes": [],
       "icons": [
         {
-          "file": "proton-drive.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "41e54bcece802d099563caad1918b5f8d37af68d4fa51c95017eb58af807de1d",
           "bytes": 1181,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-drive.svg",
+          "collection": "Dashboard Icons",
+          "file": "proton-drive.svg",
+          "id": 1774,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "proton-drive.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "41e54bcece802d099563caad1918b5f8d37af68d4fa51c95017eb58af807de1d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-drive.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "drive"
+      "next_version": 1
     },
     {
+      "id": 2449,
+      "key": "lumo",
+      "title": "Lumo",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "AI",
+      "tags": [
+        "Dashboard Icons",
+        "Cloud"
+      ],
+      "aliases": [
+        "proton-lumo",
+        "Proton Lumo"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 9842,
+          "collection": "Dashboard Icons",
+          "file": "proton-lumo.svg",
+          "id": 3939,
+          "is_default": true,
+          "label": "proton-lumo",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proton-lumo.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1dcc3a2ce25c8fb04597dfbc81bdb1892c55999cefddbbd3c19afff243261058"
+          },
+          "sha256": "65d39910df60f60f302aa2cbcbdd75a051ffca8b21c6244ac778c0e4b62b51c4",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-lumo.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 816,
+      "key": "mail",
+      "title": "Proton Mail",
+      "url": "https://proton.me/mail",
+      "domains": [
+        "proton.me"
+      ],
+      "description": "Proton 加密电子邮件服务。",
+      "category": "社交通讯",
+      "tags": [
+        "ProtonMail",
+        "加密邮箱",
+        "Proton Mail"
+      ],
+      "aliases": [
+        "proton-mail",
+        "ProtonMail",
+        "加密邮箱"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1174,
+          "collection": "Dashboard Icons",
+          "file": "proton-mail.svg",
+          "id": 1773,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proton-mail.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "2cf6f56e7ac141fcc13e7b3bc3dbf19542910acee86bdc52f5ba3ee92e195997",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-mail.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2450,
+      "key": "meet",
+      "title": "Proton Meet",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "proton-meet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 6554,
+          "collection": "Dashboard Icons",
+          "file": "proton-meet.svg",
+          "id": 3940,
+          "is_default": true,
+          "label": "proton-meet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proton-meet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "070471068fa8dc29abc410742dbc35896d0fd1f4f053be27a0d25e0ab20cf05c"
+          },
+          "sha256": "82d62d0accaea43d52dcde8ad7453293431f49e43beacfe5124bde558c30c8fe",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-meet.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 818,
+      "key": "pass",
       "title": "Proton Pass",
       "url": "https://proton.me/pass",
       "domains": [
@@ -241,66 +406,66 @@
       "notes": [],
       "icons": [
         {
-          "file": "proton-pass.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "b84237cf6fb3128afb235c44ac841732c01fbfb30ba9ebedbdb2a93afe55c2fb",
           "bytes": 3325,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-pass.svg",
+          "collection": "Dashboard Icons",
+          "file": "proton-pass.svg",
+          "id": 1775,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "proton-pass.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "b84237cf6fb3128afb235c44ac841732c01fbfb30ba9ebedbdb2a93afe55c2fb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-pass.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "pass"
+      "next_version": 1
     },
     {
-      "title": "Proton Calendar",
-      "url": "https://proton.me/calendar",
-      "domains": [
-        "proton.me"
-      ],
-      "description": "Proton 日历应用。",
+      "id": 2451,
+      "key": "sheets",
+      "title": "Proton Sheets",
+      "url": "",
+      "domains": [],
+      "description": "",
       "category": "办公效率",
       "tags": [
-        "加密日历",
-        "日程管理",
-        "Proton Calendar"
+        "Dashboard Icons"
       ],
       "aliases": [
-        "proton-calendar",
-        "加密日历",
-        "日程管理"
+        "proton-sheets"
       ],
       "notes": [],
       "icons": [
         {
-          "file": "proton-calendar.svg",
-          "version": 0,
-          "label": "彩色版本",
+          "bytes": 1918,
+          "collection": "Dashboard Icons",
+          "file": "proton-sheets.svg",
+          "id": 3941,
           "is_default": true,
-          "sha256": "9ee0376f8baedf5b85c542bada22d79fdba01106d20a187fd53a3f9c82c87915",
-          "bytes": 1713,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-calendar.svg",
+          "label": "proton-sheets",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
-            "original_file": "proton-calendar.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+            "original_file": "proton-sheets.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ebef33ca2532861d45af4c9878313f6ee1f31e6d3ca2dd111819a2a4a2d975b0"
+          },
+          "sha256": "ffaa77b738d6bc96a2496af752f9870910a7773ffec812589c243ba21b9ec680",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-sheets.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "calendar"
+      "next_version": 1
     },
     {
+      "id": 820,
+      "key": "vpn",
       "title": "Proton VPN",
       "url": "https://protonvpn.com/",
       "domains": [
@@ -323,24 +488,62 @@
       "notes": [],
       "icons": [
         {
-          "file": "proton-vpn.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "70155118c7b1e0fbcd26723dd15e118d2e79bffd447a3fafa63631ccf7b3e997",
           "bytes": 1033,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-vpn.svg",
+          "collection": "Dashboard Icons",
+          "file": "proton-vpn.svg",
+          "id": 1777,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "proton-vpn.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "70155118c7b1e0fbcd26723dd15e118d2e79bffd447a3fafa63631ccf7b3e997",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-vpn.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "vpn"
+      "next_version": 1
+    },
+    {
+      "id": 2452,
+      "key": "wallet",
+      "title": "Proton Wallet",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "金融支付",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "proton-wallet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1874,
+          "collection": "Dashboard Icons",
+          "file": "proton-wallet.svg",
+          "id": 3942,
+          "is_default": true,
+          "label": "proton-wallet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "proton-wallet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a1c1885046de0f468b01fb522fdc17fe12e8e86027e357fff702278b9aad95c6"
+          },
+          "sha256": "36fb80547193ae6074773972f8e8a48018fd29d0826bb1935f5a158886e541d4",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proton-wallet.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     }
   ]
 }

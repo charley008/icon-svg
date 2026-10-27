@@ -1,0 +1,40 @@
+{
+  "collection_id": 1672,
+  "schema_version": 1,
+  "id": 1899,
+  "title": "Lakefs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lakefs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3126,
+      "collection": "Dashboard Icons",
+      "file": "lakefs.svg",
+      "id": 3174,
+      "is_default": true,
+      "label": "lakefs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lakefs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ceed482374b4d7b3b9c02e13c8c17d016f2e18f4e1e6395129e02caf7739550"
+      },
+      "sha256": "c237b311836a13b49cb89355239229c55d57f169dedf54c028de98719ebed5ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lakefs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

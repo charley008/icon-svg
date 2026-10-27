@@ -1,0 +1,42 @@
+{
+  "collection_id": 842,
+  "schema_version": 1,
+  "id": 1069,
+  "title": "Bale",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "bale"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2657,
+      "collection": "Dashboard Icons",
+      "file": "bale.svg",
+      "id": 2081,
+      "is_default": true,
+      "label": "bale",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bale.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0995197078d25f1d0b05ddb3aa083d0f27638a8551c67d2d1ac01f8dc674b45f"
+      },
+      "sha256": "e9f0ded300e5cff412334a4076458cef056e40ae4a607a1f9bda1b778109b4bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bale.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

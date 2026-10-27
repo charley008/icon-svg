@@ -1,0 +1,124 @@
+{
+  "collection_id": 2619,
+  "schema_version": 1,
+  "id": 2846,
+  "redirect_from": [
+    2847,
+    2848
+  ],
+  "title": "Silo Server",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "silo-server",
+    "silo-server-wordmark-light",
+    "Silo Server Wordmark Light",
+    "silo-server-wordmark-dark",
+    "Silo Server Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 19899,
+      "collection": "Dashboard Icons",
+      "file": "silo-server.svg",
+      "id": 4456,
+      "is_default": true,
+      "label": "silo-server",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silo-server.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a25b63ed0258fb9522b45da8a5365fcd6b8b9fd9759a946001d677dd45a2a157"
+      },
+      "sha256": "781c267e62b0570457e1d62d9f6bef4cdacaa7631e902c6381b881d78f739a5a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silo-server.svg",
+      "version": 0
+    },
+    {
+      "bytes": 18304,
+      "collection": "Dashboard Icons",
+      "file": "silo-server-1.svg",
+      "id": 4457,
+      "is_default": false,
+      "label": "silo-server-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silo-server-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "072a2038eb0ed3cf23966b0f1693c5f3dade06b095b7c7cc2455540a560f3ca7"
+      },
+      "sha256": "4cc635bc46c511a8b7ef0ca0f1d8e3b8809f3ee62ac2976de662d4e3a4af60b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silo-server-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1821,
+      "collection": "Dashboard Icons",
+      "file": "silo-server-2.svg",
+      "id": 4458,
+      "is_default": false,
+      "label": "silo-server-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silo-server-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4ffdd7bd9c8f09e10bd5b982d239b499787fdabaebd6fad70062859a90827e4"
+      },
+      "sha256": "5c5c3d9a59f4ba7a0edffe4c2b4cab87c63cbe48571e1cbadaabaa171adc3378",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silo-server-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 19871,
+      "collection": "Dashboard Icons",
+      "file": "silo-server-3.svg",
+      "id": 4460,
+      "is_default": false,
+      "label": "silo-server-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silo-server-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ded63986075c435e4545f0c35a609e00f3aa412fc9d3c1e48b44c3b7662c422"
+      },
+      "sha256": "9c1d112508fbe5227881e874b58b658b1dba14ed61374bb50ad404839b73bd01",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silo-server-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1841,
+      "collection": "Dashboard Icons",
+      "file": "silo-server-4.svg",
+      "id": 4459,
+      "is_default": false,
+      "label": "silo-server-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "silo-server-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d2f3dda0702f66324adf8b40c6a5091d9e2a6fa7f298dd1b7800d4c1b2fedd8d"
+      },
+      "sha256": "4b8ca620634d8d78084079ff6e5207ace8a5d7647fdcf51c6fa849bd2a924ac0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/silo-server-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

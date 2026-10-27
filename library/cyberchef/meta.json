@@ -1,0 +1,44 @@
+{
+  "collection_id": 1060,
+  "schema_version": 1,
+  "id": 1287,
+  "title": "Cyberchef",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "cyberchef",
+    "magic-recipe",
+    "the-cyber-chef"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2304,
+      "collection": "Dashboard Icons",
+      "file": "cyberchef.svg",
+      "id": 2374,
+      "is_default": true,
+      "label": "cyberchef",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cyberchef.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da06efa560ad89168d676df525f63d66ceee64dfbdfacbd59ee1d8c55026896e"
+      },
+      "sha256": "1c9d4ad1a23b96b740c3770bcdd5e0cecb3faa37256e577529306422e9a57343",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cyberchef.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

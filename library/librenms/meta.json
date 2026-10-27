@@ -1,0 +1,40 @@
+{
+  "collection_id": 1692,
+  "schema_version": 1,
+  "id": 1919,
+  "title": "Librenms",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "librenms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1278,
+      "collection": "Dashboard Icons",
+      "file": "librenms.svg",
+      "id": 3202,
+      "is_default": true,
+      "label": "librenms",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "librenms.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62e0d26d138c41fb897f234798e98e3c72826cce20a684955893c227a470619f"
+      },
+      "sha256": "ab2547fdcd1afcbe4c56a388c11731eb20d15524397f5f545fb4aa6b815b335a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librenms.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

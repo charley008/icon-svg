@@ -1,0 +1,45 @@
+{
+  "collection_id": 2121,
+  "schema_version": 1,
+  "id": 2348,
+  "title": "Peppermint",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Linux-Distributions",
+    "Operating-Systems",
+    "系统工具"
+  ],
+  "aliases": [
+    "peppermint",
+    "peppermint-os",
+    "lightweight-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5900,
+      "collection": "Dashboard Icons",
+      "file": "peppermint.svg",
+      "id": 3795,
+      "is_default": true,
+      "label": "peppermint",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peppermint.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "748644d75791ec294e928a002882c640400f9859dd520c02611c0a6b339b66eb"
+      },
+      "sha256": "cf2fff195b9d9f33b71e548a5fa71b7ccd06790baf451931ebaa805f25b3f016",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peppermint.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3140,
+  "schema_version": 1,
+  "id": 3387,
+  "title": "Hardhat",
+  "url": "https://hardhat.org",
+  "domains": [
+    "hardhat.org"
+  ],
+  "description": "以太坊及智能合约项目的开发工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Hardhat",
+    "hardhat"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2891,
+      "collection": "TechIcons / Devicon",
+      "file": "hardhat-1.svg",
+      "id": 5194,
+      "is_default": true,
+      "label": "TechIcons · Hardhat",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Hardhat.svg",
+        "original_sha256": "0492c75668d7faa84d743858270f23b72666214980a9f2be8aa053200b1b0bf3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/hardhat",
+        "reference_website": "https://hardhat.org"
+      },
+      "sha256": "a00b4153f5da35a7fbce7351c700152730a90cee185ac510b4c8495167049ab3",
+      "source": "https://techicons.dev/icons/hardhat",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

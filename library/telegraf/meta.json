@@ -1,0 +1,40 @@
+{
+  "collection_id": 2760,
+  "schema_version": 1,
+  "id": 2987,
+  "title": "Telegraf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "telegraf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1823,
+      "collection": "Dashboard Icons",
+      "file": "telegraf.svg",
+      "id": 4635,
+      "is_default": true,
+      "label": "telegraf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "telegraf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "60de132286112d91df64ef8de17a1f51457b252c710da40db5ee61a1ca08826f"
+      },
+      "sha256": "dc15385c0e68e140556b4a3f34bf688c1beb60c4ca0d05ad1555aa34bb72770a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegraf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

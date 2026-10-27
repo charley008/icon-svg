@@ -1,0 +1,45 @@
+{
+  "collection_id": 3193,
+  "schema_version": 1,
+  "id": 3455,
+  "title": "OpenAPI",
+  "url": "https://www.openapis.org",
+  "domains": [
+    "openapis.org"
+  ],
+  "description": "用于描述和组织 HTTP API 的规范。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "OpenAPI",
+    "openapi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8160,
+      "collection": "TechIcons / Devicon",
+      "file": "openapi-1.svg",
+      "id": 5297,
+      "is_default": true,
+      "label": "TechIcons · OpenAPI",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OpenAPI.svg",
+        "original_sha256": "854e86fe09734addd251f150a7e9c835bb22cfd207f3bcbade5f5bb0eea4c5cb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/openapi",
+        "reference_website": "https://www.openapis.org"
+      },
+      "sha256": "41284fe6a10dbf2f370ca56123a562776b5e65e9303fbe1c2cf89c308b177118",
+      "source": "https://techicons.dev/icons/openapi",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

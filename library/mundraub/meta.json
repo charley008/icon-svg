@@ -1,0 +1,40 @@
+{
+  "collection_id": 1874,
+  "schema_version": 1,
+  "id": 2101,
+  "title": "Mundraub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mundraub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3177,
+      "collection": "Dashboard Icons",
+      "file": "mundraub.svg",
+      "id": 3451,
+      "is_default": true,
+      "label": "mundraub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mundraub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f5764d5d24c5c9108c88c9f57f4ebf3fc979b2e4d02c2c768fb9a48554b1cc1e"
+      },
+      "sha256": "4aa23affd3f7b6d2ea6edb8ef274a5eeb57c243ee223d243038c3fc366b5888a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mundraub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

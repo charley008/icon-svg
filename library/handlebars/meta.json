@@ -1,0 +1,45 @@
+{
+  "collection_id": 3139,
+  "schema_version": 1,
+  "id": 3386,
+  "title": "Handlebars",
+  "url": "https://handlebarsjs.com",
+  "domains": [
+    "handlebarsjs.com"
+  ],
+  "description": "用于生成页面与文本的模板引擎。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Handlebars",
+    "handlebars"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 823,
+      "collection": "TechIcons / Devicon",
+      "file": "handlebars-1.svg",
+      "id": 5193,
+      "is_default": true,
+      "label": "TechIcons · Handlebars",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Handlebars.svg",
+        "original_sha256": "4485682349db110eb7010a5ec47830a3d5c90e45ae16b208e6e6a1da8e40205c",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/handlebars",
+        "reference_website": "https://handlebarsjs.com"
+      },
+      "sha256": "48e5032012f378242be00fa7b79697ce6b1a182f4267f5c0cf818c70ba0b4eb7",
+      "source": "https://techicons.dev/icons/handlebars",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1954,
+  "schema_version": 1,
+  "id": 2181,
+  "title": "Noisedash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "noisedash"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 581,
+      "collection": "Dashboard Icons",
+      "file": "noisedash.svg",
+      "id": 3557,
+      "is_default": true,
+      "label": "noisedash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "noisedash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0861f0a67f58716df1d05763407e8ecde4b7a716bd4772532b8e0157b99d0a9e"
+      },
+      "sha256": "32701994d206c274313dd24d9199bfd1ae15d3e8dbec575c912b21b78cee5fb3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/noisedash.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

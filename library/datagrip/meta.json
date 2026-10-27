@@ -1,0 +1,40 @@
+{
+  "collection_id": 1074,
+  "schema_version": 1,
+  "id": 1301,
+  "title": "Datagrip",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "datagrip"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2856,
+      "collection": "Dashboard Icons",
+      "file": "datagrip.svg",
+      "id": 2391,
+      "is_default": true,
+      "label": "datagrip",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "datagrip.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7484c45ed68710c76e7974577ade7abef7c3ad03d1bad69e683101aa12743769"
+      },
+      "sha256": "95068ecdda744e9656e3a09ad07fd2ce4fb50afbb2c36fc286edbb5061cb41c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/datagrip.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

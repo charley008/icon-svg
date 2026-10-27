@@ -1,0 +1,40 @@
+{
+  "collection_id": 2459,
+  "schema_version": 1,
+  "id": 2686,
+  "title": "Radicale",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "radicale"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 594,
+      "collection": "Dashboard Icons",
+      "file": "radicale.svg",
+      "id": 4249,
+      "is_default": true,
+      "label": "radicale",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "radicale.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8050be45eeb1a3fce8095d80c740d6055c26e3cb59d10588ba6fd3392cf8d4d7"
+      },
+      "sha256": "9f3e8019b90a8281c6fd37d9b8d92d3ee750acd1514744fc185e447ecbbd6760",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/radicale.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

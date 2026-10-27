@@ -1,0 +1,40 @@
+{
+  "collection_id": 2817,
+  "schema_version": 1,
+  "id": 3044,
+  "title": "Toolz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "toolz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 605,
+      "collection": "Dashboard Icons",
+      "file": "toolz.svg",
+      "id": 4708,
+      "is_default": true,
+      "label": "toolz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toolz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f488c580ebc7128eca9b7a75d6724e5b4ac0b7fd31403e7015df7d84272a0416"
+      },
+      "sha256": "f6a71c0e331a2cecb6773254f4018bb8024dffff7ba318f79ce95d79c40edee0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toolz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

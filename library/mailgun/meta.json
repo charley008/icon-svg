@@ -1,0 +1,40 @@
+{
+  "collection_id": 1764,
+  "schema_version": 1,
+  "id": 1991,
+  "title": "Mailgun",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mailgun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 791,
+      "collection": "Dashboard Icons",
+      "file": "mailgun.svg",
+      "id": 3296,
+      "is_default": true,
+      "label": "mailgun",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailgun.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "34a554faedcd8f18362a177c9d9d480e91e5462a346bfaeddd8c6ecf126f08e5"
+      },
+      "sha256": "320f57ef05a18546faccac3439ad889cd46fbd2364be72792a0750f541f18181",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailgun.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

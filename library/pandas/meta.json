@@ -1,0 +1,45 @@
+{
+  "collection_id": 3199,
+  "schema_version": 1,
+  "id": 3462,
+  "title": "Pandas",
+  "url": "https://pandas.pydata.org",
+  "domains": [
+    "pandas.pydata.org"
+  ],
+  "description": "用于 Python 数据整理和分析的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Pandas",
+    "pandas"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 725,
+      "collection": "TechIcons / Devicon",
+      "file": "pandas-1.svg",
+      "id": 5308,
+      "is_default": true,
+      "label": "TechIcons · Pandas",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Pandas.svg",
+        "original_sha256": "5b74e3a618127a8abb1c747cbabd2140a26a3336ddbdfe0214ac16d548ef3501",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/pandas",
+        "reference_website": "https://pandas.pydata.org"
+      },
+      "sha256": "e948383d467dffd4a45b395a510f9bb12498dcfd50b95c7f535045efed57d9f5",
+      "source": "https://techicons.dev/icons/pandas",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

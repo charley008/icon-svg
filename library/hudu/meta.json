@@ -1,0 +1,40 @@
+{
+  "collection_id": 1505,
+  "schema_version": 1,
+  "id": 1732,
+  "title": "Hudu",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hudu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1560,
+      "collection": "Dashboard Icons",
+      "file": "hudu.svg",
+      "id": 2969,
+      "is_default": true,
+      "label": "hudu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hudu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "04d9452239b658ee887efbabc5f141c227ab06fc2ce75c5de0a1529e2bdbe819"
+      },
+      "sha256": "bb765d57c58d885aa5773a0c4f00f1dc7bcee77077f02266cca8dae2ac5a6e80",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hudu.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

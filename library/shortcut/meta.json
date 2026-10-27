@@ -1,0 +1,42 @@
+{
+  "collection_id": 2610,
+  "schema_version": 1,
+  "id": 2837,
+  "title": "Shortcut",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "shortcut"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1052,
+      "collection": "Dashboard Icons",
+      "file": "shortcut.svg",
+      "id": 4447,
+      "is_default": true,
+      "label": "shortcut",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shortcut.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "51dab341328a797b66dcae3143b71db4840bdefbf0ceeccddda2882a6651b03e"
+      },
+      "sha256": "a55983def5bfde5c1f4aea4da9185ef4d7eefc14bb89f9a36235d667d1ace7ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shortcut.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

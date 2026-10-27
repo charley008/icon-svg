@@ -1,0 +1,40 @@
+{
+  "collection_id": 2726,
+  "schema_version": 1,
+  "id": 2953,
+  "title": "Svgomg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "svgomg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1234,
+      "collection": "Dashboard Icons",
+      "file": "svgomg.svg",
+      "id": 4590,
+      "is_default": true,
+      "label": "svgomg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "svgomg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4cd0118580b8012a84bbbfd2fad230ecfec5cc786303d767c03be351ea76676a"
+      },
+      "sha256": "160fb73eb4517fe17f794ce67669aefbdef22c7f1e0b9ac353fd77b078decb3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/svgomg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

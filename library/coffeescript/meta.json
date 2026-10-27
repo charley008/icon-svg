@@ -1,0 +1,45 @@
+{
+  "collection_id": 3102,
+  "schema_version": 1,
+  "id": 3342,
+  "title": "CoffeeScript",
+  "url": "https://coffeescript.org",
+  "domains": [
+    "coffeescript.org"
+  ],
+  "description": "CoffeeScript 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "CoffeeScript",
+    "coffeescript"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1357,
+      "collection": "TechIcons / Devicon",
+      "file": "coffeescript-1.svg",
+      "id": 5113,
+      "is_default": true,
+      "label": "TechIcons · CoffeeScript",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "CoffeeScript.svg",
+        "original_sha256": "e9fd935e5dacfaeea2cd84194816041ea97178c12427a4b81063e1c0ee86f1b3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/coffeescript",
+        "reference_website": "https://coffeescript.org"
+      },
+      "sha256": "b9d7b0264204b9812fc3ee0768f974c7494e7e3699568865c60df0e86665f738",
+      "source": "https://techicons.dev/icons/coffeescript",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 3037,
+  "schema_version": 1,
+  "id": 3264,
+  "title": "Yukkuri Movie Maker 4 Kawaii",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yukkuri-movie-maker-4-kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 140771,
+      "collection": "Dashboard Icons",
+      "file": "yukkuri-movie-maker-4-kawaii.svg",
+      "id": 4995,
+      "is_default": true,
+      "label": "yukkuri-movie-maker-4-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yukkuri-movie-maker-4-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "27372d54cbad71213e0bebd9bb91356d106e4894fb2c678a358f5e411a53611f"
+      },
+      "sha256": "d70005686db8cf18e5ecd31d619bafd2af5248e05af64f83a16ade761c9984f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yukkuri-movie-maker-4-kawaii.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

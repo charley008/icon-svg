@@ -1,0 +1,42 @@
+{
+  "collection_id": 2023,
+  "schema_version": 1,
+  "id": 2250,
+  "title": "Open Wb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "open-wb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 27038,
+      "collection": "Dashboard Icons",
+      "file": "open-wb.svg",
+      "id": 3654,
+      "is_default": true,
+      "label": "open-wb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-wb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6c9358091a2d8c004bd79a37ce705120d30072f9f0c339c325144f9c846efe41"
+      },
+      "sha256": "68faad7fe524d015728d803bb97964cfd7e43a1292fd89328160ec807b22a1aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-wb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

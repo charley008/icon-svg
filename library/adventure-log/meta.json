@@ -1,0 +1,40 @@
+{
+  "collection_id": 670,
+  "schema_version": 1,
+  "id": 897,
+  "title": "Adventure Log",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "adventure-log"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13284,
+      "collection": "Dashboard Icons",
+      "file": "adventure-log.svg",
+      "id": 1858,
+      "is_default": true,
+      "label": "adventure-log",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "adventure-log.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b26ac3c342ce059ebb87f57ef53cfaac8f910c88b69503dc6ebe7e78123eaf5"
+      },
+      "sha256": "9c4f2f2be80103869cb8ef9d7bd2cf2eb44348fc63c069c05cd25537c96a61c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/adventure-log.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

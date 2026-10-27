@@ -1,0 +1,40 @@
+{
+  "collection_id": 2100,
+  "schema_version": 1,
+  "id": 2327,
+  "title": "Password Depot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "password-depot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 836,
+      "collection": "Dashboard Icons",
+      "file": "password-depot.svg",
+      "id": 3766,
+      "is_default": true,
+      "label": "password-depot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "password-depot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "efae3070d7e9c2595e514fa1bf3ade43eb7511712e82110eed723ae80d7fcfef"
+      },
+      "sha256": "51d113c0c21ef0b82a85a875ca76b837d34078ead124cac325269c4ee8a4e3de",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/password-depot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

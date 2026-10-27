@@ -1,0 +1,43 @@
+{
+  "collection_id": 1063,
+  "schema_version": 1,
+  "id": 1290,
+  "title": "Czkawka",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Office-Suites"
+  ],
+  "aliases": [
+    "czkawka",
+    "Duplicate File Finder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9058,
+      "collection": "Dashboard Icons",
+      "file": "czkawka.svg",
+      "id": 2377,
+      "is_default": true,
+      "label": "czkawka",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "czkawka.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7de6c5aa4d5c846aeabd61c400393ee6897b64685b581377f7265205ca42e4f8"
+      },
+      "sha256": "7ba3ae5eb9bb343d57492f7f04cf39c4348c7b4f2a68eef1549a1cb830f70185",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/czkawka.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

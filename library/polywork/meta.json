@@ -1,0 +1,44 @@
+{
+  "collection_id": 2182,
+  "schema_version": 1,
+  "id": 2409,
+  "title": "Polywork",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "polywork",
+    "Professional Network"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1437,
+      "collection": "Dashboard Icons",
+      "file": "polywork.svg",
+      "id": 3884,
+      "is_default": true,
+      "label": "polywork",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "polywork.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5069f9a1d21697588b7c640ab2e4bc12febdbfc7a102535309249e6c4334d818"
+      },
+      "sha256": "969ef1883d11cc83668427eb00bca61ce4a62272cec68400a5b10af7e9d63b09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/polywork.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

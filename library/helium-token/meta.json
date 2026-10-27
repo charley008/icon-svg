@@ -1,0 +1,40 @@
+{
+  "collection_id": 1462,
+  "schema_version": 1,
+  "id": 1689,
+  "title": "Helium Token",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "helium-token"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1234,
+      "collection": "Dashboard Icons",
+      "file": "helium-token.svg",
+      "id": 2911,
+      "is_default": true,
+      "label": "helium-token",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "helium-token.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "870eab7e877c83b59cf9cb87845691d4b964bef6306d72068679a3071d491859"
+      },
+      "sha256": "385725ad32031e32c72067a855d19483c8f8b98298d89e77d4a9539e5c1e4193",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/helium-token.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

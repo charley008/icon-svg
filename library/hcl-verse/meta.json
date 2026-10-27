@@ -1,0 +1,40 @@
+{
+  "collection_id": 1452,
+  "schema_version": 1,
+  "id": 1679,
+  "title": "Hcl Verse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hcl-verse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 667,
+      "collection": "Dashboard Icons",
+      "file": "hcl-verse.svg",
+      "id": 2896,
+      "is_default": true,
+      "label": "hcl-verse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hcl-verse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c33565f8ff531a47d3cfb29b5c06413e946cd8231f242d3d6fdf5efc11699eb"
+      },
+      "sha256": "9a7e08a95d4bedcb062eb879b16cf6bcff1182ce1ff6a92865911548890a3780",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hcl-verse.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

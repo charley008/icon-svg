@@ -1,0 +1,105 @@
+{
+  "collection_id": 1769,
+  "schema_version": 1,
+  "id": 1996,
+  "redirect_from": [
+    1997,
+    1998
+  ],
+  "title": "Maltego",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "maltego",
+    "maltego-wordmark-light",
+    "Maltego Wordmark Light",
+    "maltego-wordmark-dark",
+    "Maltego Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5567,
+      "collection": "Dashboard Icons",
+      "file": "maltego.svg",
+      "id": 3302,
+      "is_default": true,
+      "label": "maltego",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "maltego.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "25eabdaf48e96298b8eb7be547721b8ed952b88927bc4013476c0515890e6606"
+      },
+      "sha256": "3034a77a0c1671db3f31d596ced524e0a95859627d1214e0a0615003b6f534b8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/maltego.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5561,
+      "collection": "Dashboard Icons",
+      "file": "maltego-1.svg",
+      "id": 3303,
+      "is_default": false,
+      "label": "maltego-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "maltego-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc151a8fe346d2b2385d36eddd959e289652cdec86759206fc9b566ec95e6f40"
+      },
+      "sha256": "bda2b53c5ab68252ee1e1c542c9feebe88ccf81a331234572a3a11bfdf93f3bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/maltego-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5285,
+      "collection": "Dashboard Icons",
+      "file": "maltego-2.svg",
+      "id": 3305,
+      "is_default": false,
+      "label": "maltego-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "maltego-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "328e2554da25cfc9c71fffa4dc94dab0468e02699065d56a63fbc9ebfccb143f"
+      },
+      "sha256": "69be53561683d9e2a5beb6eda2049c85450e7198e88718b61fd731a9d6d24b03",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/maltego-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 5263,
+      "collection": "Dashboard Icons",
+      "file": "maltego-3.svg",
+      "id": 3304,
+      "is_default": false,
+      "label": "maltego-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "maltego-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca4663a0a5845285ff27b34e200418682671a58195cac4d738cd525b502949b5"
+      },
+      "sha256": "1364501240ca833bd445580fd45b1df4a1d4e0342bd46d0a11c6c2212988778d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/maltego-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

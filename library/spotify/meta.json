@@ -157,8 +157,27 @@
       "sha256": "d3849bab48896b61520e291c58c3be7ad6ff0f37da70d2593898fdcd6fcdb518",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spotify-light.svg",
       "version": 5
+    },
+    {
+      "bytes": 1270,
+      "collection": "Dashboard Icons",
+      "file": "spotify-6.svg",
+      "id": 4531,
+      "is_default": false,
+      "label": "spotify",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spotify.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4e5ad2cb0b25553445452df72e360cc500835bfab1f1ea5e3695bbca7199971"
+      },
+      "sha256": "6c7056c6d410961a9784ac9af937f4b2eeabb2381c674f9d71b0400d3924ed09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spotify.svg",
+      "version": 6
     }
   ],
-  "next_version": 6,
+  "next_version": 7,
   "products": []
 }

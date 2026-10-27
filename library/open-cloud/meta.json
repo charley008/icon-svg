@@ -1,0 +1,61 @@
+{
+  "collection_id": 2017,
+  "schema_version": 1,
+  "id": 2244,
+  "title": "Open Cloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "网盘存储"
+  ],
+  "aliases": [
+    "open-cloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 794,
+      "collection": "Dashboard Icons",
+      "file": "open-cloud.svg",
+      "id": 3647,
+      "is_default": true,
+      "label": "open-cloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-cloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "de6ec57b52c7b56627c034eee8b382a364f65c4c7aecebbc961e3efc7639bb67"
+      },
+      "sha256": "f68c60fcb28bf6088c859cae31cfbb8f35d26e1b0e7112ef57cc2b476598f29e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-cloud.svg",
+      "version": 0
+    },
+    {
+      "bytes": 794,
+      "collection": "Dashboard Icons",
+      "file": "open-cloud-1.svg",
+      "id": 3648,
+      "is_default": false,
+      "label": "open-cloud-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-cloud-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "10bb714c206451609ae7847a65a2dec8dd83849cadf258a499b7f47b993b7969"
+      },
+      "sha256": "ca128c345528725f4e5844d1a0a720794b3dc7d6612360658c4f49d0b95c711e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-cloud-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

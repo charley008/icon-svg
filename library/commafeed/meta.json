@@ -1,0 +1,59 @@
+{
+  "collection_id": 1008,
+  "schema_version": 1,
+  "id": 1235,
+  "title": "Commafeed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "commafeed"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 742,
+      "collection": "Dashboard Icons",
+      "file": "commafeed.svg",
+      "id": 2306,
+      "is_default": true,
+      "label": "commafeed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "commafeed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a5a001b1ebff2ba907d3ade6d0d5221ebb16f05d0b900f13ba7d12b977cc792c"
+      },
+      "sha256": "2eae8f0c72066c17688d4e2e6ca61077ccbdcd3bf002d58035e650e968699cf8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/commafeed.svg",
+      "version": 0
+    },
+    {
+      "bytes": 539,
+      "collection": "Dashboard Icons",
+      "file": "commafeed-1.svg",
+      "id": 2307,
+      "is_default": false,
+      "label": "commafeed-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "commafeed-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "223a8ef2e3c31860a7fd86d6d92cb8f178f03e34287de72a10da2f3550921d26"
+      },
+      "sha256": "c60c06a6bf45b9c88eadad7cd455073f0644cf5dfe98f1275fef36e391f6746f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/commafeed-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

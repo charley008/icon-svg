@@ -37,8 +37,65 @@
       "sha256": "e68afc7e88ac347d40d7cbd4b1f8b0e0423799c3d2b46abb01fbe953e649db37",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/django-1.svg",
       "version": 0
+    },
+    {
+      "bytes": 636,
+      "collection": "Dashboard Icons",
+      "file": "django-1.svg",
+      "id": 2449,
+      "is_default": false,
+      "label": "django",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "django.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c7dd873e6c0abd1ea6e2c7ec44bafd43d2c0164f8c7f1633a5b56ac103edb7e"
+      },
+      "sha256": "f67b51ba35e40113f8adcfb542314c239afec788363716ef632dc86e47ef1d87",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/django.svg",
+      "version": 1
+    },
+    {
+      "bytes": 636,
+      "collection": "Dashboard Icons",
+      "file": "django-2.svg",
+      "id": 2450,
+      "is_default": false,
+      "label": "django-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "django-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a07ad5c82c87940b44f83579fffd5a933f35883173f89cb25dc36e3ee9446d77"
+      },
+      "sha256": "500d4b1fd019743e50db6a56b63bb1133322d2bd00b652fe1fe36d0702d48c3c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/django-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 636,
+      "collection": "Dashboard Icons",
+      "file": "django-3.svg",
+      "id": 2451,
+      "is_default": false,
+      "label": "django-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "django-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "714dfcdce1377db93cebdf46eb26ce12e0f57fe289fb8c41e5a036ea48d19bee"
+      },
+      "sha256": "46a1e47948a88581fa726eb57f91503072a9e06148f2fc7e4146fd081a0f42d1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/django-light.svg",
+      "version": 3
     }
   ],
-  "next_version": 1,
+  "next_version": 4,
   "products": []
 }

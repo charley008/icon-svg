@@ -1,0 +1,42 @@
+{
+  "collection_id": 2923,
+  "schema_version": 1,
+  "id": 3150,
+  "title": "Vito Deploy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "vito-deploy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2134,
+      "collection": "Dashboard Icons",
+      "file": "vito-deploy.svg",
+      "id": 4848,
+      "is_default": true,
+      "label": "vito-deploy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vito-deploy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e73e490550aa9643581881899140d880348533ff7ed2b11a46e16317dbb7959f"
+      },
+      "sha256": "88959bf6823ed653c18b9d64ea06e2f7730f64b36989ca6f8cd31a8c960a1af7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vito-deploy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2594,
+  "schema_version": 1,
+  "id": 2821,
+  "title": "Shadowbroker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shadowbroker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 323,
+      "collection": "Dashboard Icons",
+      "file": "shadowbroker.svg",
+      "id": 4426,
+      "is_default": true,
+      "label": "shadowbroker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shadowbroker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0c44261561b0afc2522463ade86edb4e9b576ecf56e1b92c06c53ef8a111bd2a"
+      },
+      "sha256": "f36e72811433ce07f6a5ede7a171da75b21d8cf98d96f9b735da6903c3cf5082",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shadowbroker.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

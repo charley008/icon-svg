@@ -1,0 +1,40 @@
+{
+  "collection_id": 1129,
+  "schema_version": 1,
+  "id": 1356,
+  "title": "Docling",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docling"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 47863,
+      "collection": "Dashboard Icons",
+      "file": "docling.svg",
+      "id": 2469,
+      "is_default": true,
+      "label": "docling",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docling.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe1b47c182884a9727cfc31c5d2602c410719504b09136e76cc9d2dec11ba157"
+      },
+      "sha256": "f55f88f9caf7fff0d9f881db619c1a48142851a4c8674487e803e5e3ecf2ac4a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docling.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

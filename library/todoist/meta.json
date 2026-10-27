@@ -135,8 +135,27 @@
       "sha256": "39b2a7e24eb1caae1df19369f12d1f464a34b517987780f23a6e6219a4fdc6bc",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/todoist.svg",
       "version": 4
+    },
+    {
+      "bytes": 1348,
+      "collection": "Dashboard Icons",
+      "file": "todoist-5.svg",
+      "id": 4698,
+      "is_default": false,
+      "label": "todoist-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "todoist-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5535092edc23f5bb386940b63647e037d27da55548811bbf55bcaaa52eb77b9"
+      },
+      "sha256": "2b4c07271fb63f2cdf8005de83c7ca44f0155c5076ecaeead380ca913e9aa5b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/todoist-dark.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

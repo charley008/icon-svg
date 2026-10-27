@@ -1,4 +1,7 @@
 {
+  "collection_id": 602,
+  "schema_version": 1,
+  "id": 827,
   "title": "Raspberry Pi",
   "url": "https://www.raspberrypi.com/",
   "domains": [
@@ -21,23 +24,62 @@
   "notes": [],
   "icons": [
     {
-      "file": "raspberry-pi.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "eeb51968665e51a4bb91e052a1593bdd1665909f7afe8f6c5999bd50452460b1",
       "bytes": 4552,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/raspberry-pi.svg",
+      "collection": "Dashboard Icons",
+      "file": "raspberry-pi.svg",
+      "id": 1784,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "raspberry-pi.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "eeb51968665e51a4bb91e052a1593bdd1665909f7afe8f6c5999bd50452460b1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/raspberry-pi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4609,
+      "collection": "Dashboard Icons",
+      "file": "raspberry-pi-1.svg",
+      "id": 4259,
+      "is_default": false,
+      "label": "raspberry-pi-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "raspberry-pi-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7421f643c87869f7451c6d879bbe0f92fb54f9817df1bd95d948f5e9158e5068"
+      },
+      "sha256": "6c0b1c66cbba0b7c612cd797da4885a0ed7484df4b17e44f5bf8ce073fa4e873",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/raspberry-pi-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5126,
+      "collection": "TechIcons / Devicon",
+      "file": "raspberry-pi-2.svg",
+      "id": 5334,
+      "is_default": false,
+      "label": "TechIcons · Raspberry Pi",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Raspberry-Pi.svg",
+        "original_sha256": "69e05eae49b4fe851bb97bcb330487a4a13e75fafc098f11b61f404ba117fe76",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/raspberrypi",
+        "reference_website": "https://www.raspberrypi.org"
+      },
+      "sha256": "8d2cc4f0ebbabdd09b846512392acf1dfeac4bf25eb56b25c89d59d5a88d1ec3",
+      "source": "https://techicons.dev/icons/raspberrypi",
+      "version": 2
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 3,
   "products": []
 }

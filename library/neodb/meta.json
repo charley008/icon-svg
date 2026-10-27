@@ -1,0 +1,40 @@
+{
+  "collection_id": 1894,
+  "schema_version": 1,
+  "id": 2121,
+  "title": "Neodb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "neodb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1535,
+      "collection": "Dashboard Icons",
+      "file": "neodb.svg",
+      "id": 3477,
+      "is_default": true,
+      "label": "neodb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neodb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62daf1be7a440b90990b4469bb4d66d37105f65db9ad238fd6afc6d0258cf18d"
+      },
+      "sha256": "4f061b794fb376188a10304d0c8c715bab4e59e4cf53ad0e16fb803d804ba486",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neodb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

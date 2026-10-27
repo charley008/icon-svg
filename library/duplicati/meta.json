@@ -1,4 +1,7 @@
 {
+  "collection_id": 525,
+  "schema_version": 1,
+  "id": 698,
   "title": "Duplicati",
   "url": "https://duplicati.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "duplicati.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "27c3aeec6cbdbd755ea6c854bfb3a3aa9d9a490df5fcd84365fc134e63cd23d2",
       "bytes": 1273,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duplicati.svg",
+      "collection": "Dashboard Icons",
+      "file": "duplicati.svg",
+      "id": 1659,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "duplicati.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "27c3aeec6cbdbd755ea6c854bfb3a3aa9d9a490df5fcd84365fc134e63cd23d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duplicati.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

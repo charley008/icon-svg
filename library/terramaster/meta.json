@@ -1,0 +1,40 @@
+{
+  "collection_id": 2774,
+  "schema_version": 1,
+  "id": 3001,
+  "title": "Terramaster",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "terramaster"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5201,
+      "collection": "Dashboard Icons",
+      "file": "terramaster.svg",
+      "id": 4651,
+      "is_default": true,
+      "label": "terramaster",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "terramaster.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "79ab505e4221e2dfc5e3d117ca706c329c9db3d4c3f3d5a866d61e7c55c9aa8d"
+      },
+      "sha256": "8fb141d5f1c99ed9dc217f987c00fcf98f9b1ad521964eb46d84421b8f8a7cbb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terramaster.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

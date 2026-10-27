@@ -1,0 +1,45 @@
+{
+  "collection_id": 3238,
+  "schema_version": 1,
+  "id": 3501,
+  "title": "SQLAlchemy",
+  "url": "https://www.sqlalchemy.org",
+  "domains": [
+    "sqlalchemy.org"
+  ],
+  "description": "Python 数据库操作和对象关系映射工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "SQLAlchemy",
+    "sqlalchemy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2774,
+      "collection": "TechIcons / Devicon",
+      "file": "sqlalchemy-1.svg",
+      "id": 5366,
+      "is_default": true,
+      "label": "TechIcons · SQLAlchemy",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "SQLAlchemy.svg",
+        "original_sha256": "6a207cc7deaf875ad472c288c34db5018aae5d4ae68ba433463b721c5ca6cd32",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/sqlalchemy",
+        "reference_website": "https://www.sqlalchemy.org"
+      },
+      "sha256": "8c5b60466cf1d3b3a8ea480b3ec6d1c73c02c8c36f4db998960f2b1ae37e783e",
+      "source": "https://techicons.dev/icons/sqlalchemy",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

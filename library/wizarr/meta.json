@@ -1,0 +1,43 @@
+{
+  "collection_id": 2992,
+  "schema_version": 1,
+  "id": 3219,
+  "title": "Wizarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "wizarr",
+    "Setup Wizard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2956,
+      "collection": "Dashboard Icons",
+      "file": "wizarr.svg",
+      "id": 4933,
+      "is_default": true,
+      "label": "wizarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wizarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d33a9f40cc3eaa2d54e1015a329e8cf14385767f8133d8099bc34fe6fe6879f"
+      },
+      "sha256": "0019c3d05518e29534ae92ff1d47330ab3d9288b5742b45fd7acb7c943c2f9a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wizarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

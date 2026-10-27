@@ -1,0 +1,40 @@
+{
+  "collection_id": 2545,
+  "schema_version": 1,
+  "id": 2772,
+  "title": "Salesforce",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "salesforce"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7412,
+      "collection": "Dashboard Icons",
+      "file": "salesforce.svg",
+      "id": 4361,
+      "is_default": true,
+      "label": "salesforce",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "salesforce.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6356430254ecece9e747a5505176caeb212e991240b1dd905486455b66db86b5"
+      },
+      "sha256": "cdd6f143edb249fcc1f855ec88e85cff3963793d30ef2ce0740b91792c671977",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/salesforce.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

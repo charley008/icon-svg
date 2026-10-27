@@ -1,0 +1,40 @@
+{
+  "collection_id": 2448,
+  "schema_version": 1,
+  "id": 2675,
+  "title": "Qui",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "qui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1381,
+      "collection": "Dashboard Icons",
+      "file": "qui.svg",
+      "id": 4238,
+      "is_default": true,
+      "label": "qui",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qui.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e95b638e77e886295ebf698092ab945c5e1beef4e98db08dcfe117a0c853f32c"
+      },
+      "sha256": "869a72e74d5c1ca3f9c0a01a9a85b967b606fe1028c117e4570624f36bfefb26",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qui.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

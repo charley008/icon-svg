@@ -1,0 +1,44 @@
+{
+  "collection_id": 998,
+  "schema_version": 1,
+  "id": 1225,
+  "title": "Code",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "code",
+    "text-editor",
+    "ide"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3335,
+      "collection": "Dashboard Icons",
+      "file": "code.svg",
+      "id": 2291,
+      "is_default": true,
+      "label": "code",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "code.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98d2dc1ad1d82b3684880e174a09a5c35737977dfdbe97dbe040ef2d55e10e75"
+      },
+      "sha256": "4f19751d318ac05b6c52e19a54a06f2c942ea538f52cadd0379b0eecc53e565d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/code.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

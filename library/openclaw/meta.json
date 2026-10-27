@@ -2,6 +2,10 @@
   "collection_id": 296,
   "schema_version": 1,
   "id": 422,
+  "redirect_from": [
+    2254,
+    2255
+  ],
   "title": "OpenClaw",
   "url": "https://openclaw.ai",
   "domains": [
@@ -15,7 +19,11 @@
     "openclaw.ai"
   ],
   "aliases": [
-    "openclaw"
+    "openclaw",
+    "openclaw-wordmark-light",
+    "Openclaw Wordmark Light",
+    "openclaw-wordmark-dark",
+    "Openclaw Wordmark Dark"
   ],
   "notes": [],
   "icons": [
@@ -42,8 +50,84 @@
       "sha256": "65942f7a2ecfdab928e8f258a57ef2a2fb01d825d485ebdbad395e4197e27987",
       "source": "https://web.gotab.cn/sourceStore/website/01KZ7Z9ASJV6VF6D262DV288VC.svg",
       "version": 0
+    },
+    {
+      "bytes": 13039,
+      "collection": "Dashboard Icons",
+      "file": "openclaw-1.svg",
+      "id": 3663,
+      "is_default": false,
+      "label": "openclaw",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openclaw.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2773fba6a7efe1b6472b9cec7c2505ff72b592631fd672eada6fc9678a7e8911"
+      },
+      "sha256": "ef3552834cf66ae31fa4bdd75ad28a8136915f3480819377159f9c2fbaf3e8cb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openclaw.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1164,
+      "collection": "Dashboard Icons",
+      "file": "openclaw-2.svg",
+      "id": 3664,
+      "is_default": false,
+      "label": "openclaw-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openclaw-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed8fe3b64f93b1935cf9abc90d859c9dc96aac0f4ef07f29f5fe4513ca64ac5a"
+      },
+      "sha256": "96a022761e15a56450dbccb9b0853d562b7effea1090952ec11d0eb1f0d6efd9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openclaw-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 30801,
+      "collection": "Dashboard Icons",
+      "file": "openclaw-3.svg",
+      "id": 3666,
+      "is_default": false,
+      "label": "openclaw-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openclaw-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b12178a0fad6f5c7a7dc287d1ed03b042090929d52e677bb76059bbb68ba2fa"
+      },
+      "sha256": "3ab2f28c20808f597b52a58f38e9742c5c4844a6e506915531a891641312b959",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openclaw-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 29612,
+      "collection": "Dashboard Icons",
+      "file": "openclaw-4.svg",
+      "id": 3665,
+      "is_default": false,
+      "label": "openclaw-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openclaw-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "115065411353908a557a458489481e9fa772f65af83081f11125e472b1360fe2"
+      },
+      "sha256": "0e109374683c50e526b8daf8909aed666db6d6652f5fbe3b95b86671a8fd5dea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openclaw-wordmark-dark.svg",
+      "version": 4
     }
   ],
-  "next_version": 1,
+  "next_version": 5,
   "products": []
 }

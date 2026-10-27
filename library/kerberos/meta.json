@@ -1,0 +1,45 @@
+{
+  "collection_id": 1626,
+  "schema_version": 1,
+  "id": 1853,
+  "title": "Kerberos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "kerberos",
+    "authentication-protocol",
+    "network-security"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5922,
+      "collection": "Dashboard Icons",
+      "file": "kerberos.svg",
+      "id": 3122,
+      "is_default": true,
+      "label": "kerberos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kerberos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ea61264f004f3b57e126e858730e29dba714a0ec9c5ba89d09e5761c22f2b49"
+      },
+      "sha256": "535f742d02c0e9ddd5d0fe584611fdb0e9e3ce5b7c8eeb4892fb53d8aa36ef63",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kerberos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2538,
+  "schema_version": 1,
+  "id": 2765,
+  "title": "Rustfs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rustfs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2441,
+      "collection": "Dashboard Icons",
+      "file": "rustfs.svg",
+      "id": 4350,
+      "is_default": true,
+      "label": "rustfs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rustfs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0c92b71da7326e741c638dc2fc5fc3b2b4aca477566d9f13726933cbc0848bfb"
+      },
+      "sha256": "74538f35e65ea26423957eb2e5f37c7dc14cde229649cee1d6c0315287b0d855",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rustfs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

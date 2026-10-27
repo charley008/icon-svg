@@ -1,0 +1,40 @@
+{
+  "collection_id": 1710,
+  "schema_version": 1,
+  "id": 1937,
+  "title": "Linguacafe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "linguacafe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1622,
+      "collection": "Dashboard Icons",
+      "file": "linguacafe.svg",
+      "id": 3231,
+      "is_default": true,
+      "label": "linguacafe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linguacafe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e77a144280129c0a44ac54c469b53b6707a97cc1031aba794e5f7b1a5fb1bd6b"
+      },
+      "sha256": "bc113c04befdfb0ffe21a698268893cec32fb93d6795334de451accad8d8d7c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linguacafe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

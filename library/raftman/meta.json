@@ -1,0 +1,40 @@
+{
+  "collection_id": 2460,
+  "schema_version": 1,
+  "id": 2687,
+  "title": "Raftman",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "raftman"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1020,
+      "collection": "Dashboard Icons",
+      "file": "raftman.svg",
+      "id": 4250,
+      "is_default": true,
+      "label": "raftman",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "raftman.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b1610997f3429a13b515952df6ac97c108853fed3fef86b3092bc949829d146"
+      },
+      "sha256": "cdb1ced222109d49f6ca42f258dc0065011c910d13625eb4ab97f4baa9927441",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/raftman.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

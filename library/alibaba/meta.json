@@ -550,6 +550,9 @@
     },
     {
       "id": 37,
+      "redirect_from": [
+        921
+      ],
       "key": "aliyun",
       "title": "阿里云",
       "url": "https://aliyun.com",
@@ -577,7 +580,11 @@
       "aliases": [
         "aliyun",
         "alibaba-cloud",
-        "alibabacloud"
+        "alibabacloud",
+        "Aliyun",
+        "ali-yun",
+        "alibaba",
+        "cloud"
       ],
       "notes": [
         "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
@@ -745,61 +752,28 @@
           "sha256": "7ed6980fa591b36cbea0685aa8468ed29206db662817b2e8d8edfbeb5b00f83f",
           "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba-cloud-badge/default.svg",
           "version": 6
-        }
-      ],
-      "next_version": 7
-    },
-    {
-      "id": 38,
-      "key": "aliyun-enterprise-mail",
-      "title": "阿里邮箱企业版",
-      "url": "https://qiye.aliyun.com",
-      "domains": [
-        "qiye.aliyun.com"
-      ],
-      "description": "",
-      "category": "办公效率",
-      "tags": [
-        "办公",
-        "效率工具",
-        "阿里巴巴",
-        "电子邮件",
-        "邮箱",
-        "阿里邮箱企业版",
-        "aliyun-enterprise-mail",
-        "qiye.aliyun.com"
-      ],
-      "aliases": [
-        "aliyun-enterprise-mail"
-      ],
-      "notes": [],
-      "icons": [
+        },
         {
-          "bytes": 1375,
-          "collection": "GoTab 公开资源库",
-          "file": "alibaba-aliyun-enterprise-mail.svg",
-          "gotab_id": 153,
-          "id": 80,
-          "is_default": true,
-          "label": "GoTab 配色版",
-          "license": "原始图案与商标归权利人所有；未推定额外商业许可",
-          "method": "gotab-svg",
+          "bytes": 672,
+          "collection": "Dashboard Icons",
+          "file": "alibaba-aliyun-7.svg",
+          "id": 1887,
+          "is_default": false,
+          "label": "Aliyun",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
           "provenance": {
-            "original_file": "aliyun-enterprise-mail.svg",
-            "original_is_default": true,
-            "original_slug": "aliyun-enterprise-mail"
+            "original_file": "aliyun.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "06baeeb3744a759247a177a8f3b3d20b5ac0275d5aea1eecd2b2a27aa362407b"
           },
-          "rounded_corners": {
-            "previous_bytes": 1153,
-            "previous_sha256": "777773051f61b19bdf359c9d0d1715f44d5a440f6bd1103f561566a04338e9ae",
-            "ratio": 0.2
-          },
-          "sha256": "92c120ce0c99fac1bb14d250de66aeade1c69ac3cf69f2baead5eb3f0a2eb5b3",
-          "source": "https://web.gotab.cn/sourceStore/website/01JB3XFW5RN068AB3V9NYJ077C.svg",
-          "version": 0
+          "sha256": "036bf760d9facdc569600f8dfffa3212016109fde5f4c874ec115554bc9f7724",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aliyun.svg",
+          "version": 7
         }
       ],
-      "next_version": 1
+      "next_version": 8
     },
     {
       "id": 39,
@@ -1543,103 +1517,6 @@
         }
       ],
       "next_version": 1
-    },
-    {
-      "id": 48,
-      "key": "international",
-      "title": "阿里巴巴国际站",
-      "url": "https://alibaba.com",
-      "domains": [
-        "alibaba.com"
-      ],
-      "description": "",
-      "category": "电商购物",
-      "tags": [
-        "国内补充",
-        "中国地区Top100",
-        "电商",
-        "购物",
-        "阿里巴巴",
-        "阿里巴巴国际站",
-        "alibaba",
-        "alibaba.com"
-      ],
-      "aliases": [
-        "alibaba"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "bytes": 1677,
-          "collection": "theSVG",
-          "file": "alibaba-international.svg",
-          "id": 101,
-          "is_default": true,
-          "label": "color",
-          "license": "MIT",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "alibaba.svg",
-            "original_is_default": true,
-            "original_slug": "alibaba"
-          },
-          "rounded_corners": {
-            "previous_bytes": 1444,
-            "previous_sha256": "0832198624dd92f812ca2ea512927964081efb1bd9fba86afdad4865d97a0c12",
-            "ratio": 0.2
-          },
-          "sha256": "9b31bec57bf33dbe3db87ecae3a1f7aedc19e9520223ae2b071e618bdafd3ba9",
-          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba/color.svg",
-          "version": 0
-        },
-        {
-          "bytes": 1667,
-          "collection": "theSVG",
-          "file": "alibaba-international-1.svg",
-          "id": 102,
-          "is_default": false,
-          "label": "mono",
-          "license": "MIT",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "alibaba-1.svg",
-            "original_is_default": false,
-            "original_slug": "alibaba"
-          },
-          "rounded_corners": {
-            "previous_bytes": 1434,
-            "previous_sha256": "545e82bbe495e0b53e07e9afb1e9b8c5182818454834c029615f7f7c9357b09c",
-            "ratio": 0.2
-          },
-          "sha256": "ab81b10f503a8d301946143ef3228d53ed44f0b5c8025f04fac2f1097dc46912",
-          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/alibaba/mono.svg",
-          "version": 1
-        },
-        {
-          "bytes": 1069,
-          "collection": "Iconify / arcticons",
-          "file": "alibaba-international-2.svg",
-          "id": 103,
-          "is_default": false,
-          "label": "alibaba",
-          "license": "CC BY-SA 4.0",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "alibaba-2.svg",
-            "original_is_default": false,
-            "original_slug": "alibaba"
-          },
-          "rounded_corners": {
-            "previous_bytes": 836,
-            "previous_sha256": "203ca77c30e60dfd8b27de376a7dbf5e56fb7d1012e06d358a564dc2157d66c4",
-            "ratio": 0.2
-          },
-          "sha256": "c2d52e4fbd43f13fe6c4e965ff07c4a8d980db3acf3ba3515da6e2e9f5bed72c",
-          "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#alibaba",
-          "version": 2
-        }
-      ],
-      "next_version": 3
     },
     {
       "id": 49,

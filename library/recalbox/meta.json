@@ -1,0 +1,40 @@
+{
+  "collection_id": 2474,
+  "schema_version": 1,
+  "id": 2701,
+  "title": "Recalbox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "recalbox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3817,
+      "collection": "Dashboard Icons",
+      "file": "recalbox.svg",
+      "id": 4271,
+      "is_default": true,
+      "label": "recalbox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "recalbox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9e89e1aff6086313d888757ad9625d6d2fbce2d894cbb9081fbb3a763d855aa9"
+      },
+      "sha256": "d5b77f9f0365335e159f0e9a3fa35bbb49d85e7a3c441e894500c0ba983bbd7e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/recalbox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

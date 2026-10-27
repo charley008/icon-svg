@@ -1,0 +1,40 @@
+{
+  "collection_id": 1670,
+  "schema_version": 1,
+  "id": 1897,
+  "title": "Lab Dash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lab-dash"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1125,
+      "collection": "Dashboard Icons",
+      "file": "lab-dash.svg",
+      "id": 3172,
+      "is_default": true,
+      "label": "lab-dash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lab-dash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f3091755d5273d737acaa61d30501828a10973a639fbb8823099a95751e236bb"
+      },
+      "sha256": "cd0d32e75790039994dab737e99b2f3af4bd19043d863833965d11f75d304625",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lab-dash.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

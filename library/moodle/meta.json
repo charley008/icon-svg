@@ -1,0 +1,79 @@
+{
+  "collection_id": 1856,
+  "schema_version": 1,
+  "id": 2083,
+  "title": "Moodle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "moodle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 996,
+      "collection": "Dashboard Icons",
+      "file": "moodle.svg",
+      "id": 3428,
+      "is_default": true,
+      "label": "moodle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "moodle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d8502c882d30238fc650fc556b0e0e5f555002744d42bf818ded70f1872a7b1"
+      },
+      "sha256": "db2cd23eeaf085c0becbd78c11a99d15c06374ed372f9a04a3aff86cd31e2e39",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/moodle.svg",
+      "version": 0
+    },
+    {
+      "bytes": 996,
+      "collection": "Dashboard Icons",
+      "file": "moodle-1.svg",
+      "id": 3429,
+      "is_default": false,
+      "label": "moodle-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "moodle-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f680630805bb2d855dd9a5d0df3dd9f46af9c30646d67a96f842e729ed11e86"
+      },
+      "sha256": "3cb6ca0466562f0e663cfad92a7b2c7da383d64967e503dc0067068f23d5f3a4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/moodle-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3584,
+      "collection": "TechIcons / Devicon",
+      "file": "moodle-2.svg",
+      "id": 5276,
+      "is_default": false,
+      "label": "TechIcons · Moodle",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Moodle.svg",
+        "original_sha256": "b00498c0faff39f8fca4ad08792afce8f83cc56f3ac7303576f3d5469db409e3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/moodle",
+        "reference_website": "https://moodle.org"
+      },
+      "sha256": "8b58c7ce4061969c25c41a8aa12428427975787ab1b3e5b66fb650104c6333ca",
+      "source": "https://techicons.dev/icons/moodle",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

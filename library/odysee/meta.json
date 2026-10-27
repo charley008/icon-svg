@@ -1,0 +1,87 @@
+{
+  "collection_id": 1992,
+  "schema_version": 1,
+  "id": 2219,
+  "redirect_from": [
+    2220
+  ],
+  "title": "Odysee",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "odysee",
+    "lbry-platform",
+    "decentralized-video",
+    "odysee-full",
+    "Odysee Full"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3073,
+      "collection": "Dashboard Icons",
+      "file": "odysee.svg",
+      "id": 3607,
+      "is_default": true,
+      "label": "odysee",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "odysee.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d6c48917fb7ba828da9c8da0100525911a988620f6a92cd23beaba4c697e2b7"
+      },
+      "sha256": "9db0aa62b768edcd28e3aef85c101afc8dd66009bd2a6efc5fe011c0c3dd989a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/odysee.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6023,
+      "collection": "Dashboard Icons",
+      "file": "odysee-1.svg",
+      "id": 3608,
+      "is_default": false,
+      "label": "odysee-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "odysee-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a768e233796da53e644acbf238fdb054de7621257bd3d4b1ce1b1bfec0278417"
+      },
+      "sha256": "980f2ba880e4de42df013688eaa600c858928ce751e56bef2b664abd52bd09ef",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/odysee-full.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6041,
+      "collection": "Dashboard Icons",
+      "file": "odysee-2.svg",
+      "id": 3609,
+      "is_default": false,
+      "label": "odysee-full-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "odysee-full-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f4b03375c09eec5acf12cd4092fb5d4984b9d05bd9ccabfda452cafe86d8d3e5"
+      },
+      "sha256": "bf341722b5fb3b6dc5e5f21464e0defe78f1c1a6fd16b3947a2c5a2e41a7fb7b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/odysee-full-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

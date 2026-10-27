@@ -1,0 +1,40 @@
+{
+  "collection_id": 2004,
+  "schema_version": 1,
+  "id": 2231,
+  "title": "Ombi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ombi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6104,
+      "collection": "Dashboard Icons",
+      "file": "ombi.svg",
+      "id": 3627,
+      "is_default": true,
+      "label": "ombi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ombi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0a4b7c4a3b08a01d2a5f9896bd9c8a8f8df6b8e395bf638f9727c2c3b9756331"
+      },
+      "sha256": "0a83c8ed8b89276b0d8e1012e738aee4e61027eb136d6d512aa3a02da0176712",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ombi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

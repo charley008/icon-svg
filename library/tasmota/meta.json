@@ -1,0 +1,59 @@
+{
+  "collection_id": 2749,
+  "schema_version": 1,
+  "id": 2976,
+  "title": "Tasmota",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tasmota"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 514,
+      "collection": "Dashboard Icons",
+      "file": "tasmota.svg",
+      "id": 4621,
+      "is_default": true,
+      "label": "tasmota",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tasmota.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0ddfc3922a3b4aa47afaca5220a2a0dcbd161fd22af83e6dbb11a90ee709fd39"
+      },
+      "sha256": "bc2b145cc732e2109a6addf8d4da1946357a11364da93f7572dd4ab1f1a4f008",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tasmota.svg",
+      "version": 0
+    },
+    {
+      "bytes": 511,
+      "collection": "Dashboard Icons",
+      "file": "tasmota-1.svg",
+      "id": 4622,
+      "is_default": false,
+      "label": "tasmota-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tasmota-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "004b072dd1bfe88cddf97e62ead29b7c890dc79ebce3e810d35bb8ca38c4c901"
+      },
+      "sha256": "c4bc6f392c4c88543ceb01d5da58ece5593f1a23285d38d04bd56d81ed40ed08",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tasmota-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

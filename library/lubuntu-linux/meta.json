@@ -1,0 +1,42 @@
+{
+  "collection_id": 1747,
+  "schema_version": 1,
+  "id": 1974,
+  "title": "Lubuntu Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "lubuntu-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1218,
+      "collection": "Dashboard Icons",
+      "file": "lubuntu-linux.svg",
+      "id": 3275,
+      "is_default": true,
+      "label": "lubuntu-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lubuntu-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0878fe56050199da9133c6608205be193f113eb8e0a36623694ca56ac040738b"
+      },
+      "sha256": "c7696927c70b5be087c9e884a67d4b7638faa30856b5411f5cfabbc7a6c49a00",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lubuntu-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

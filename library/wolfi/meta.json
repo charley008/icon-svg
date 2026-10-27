@@ -1,0 +1,59 @@
+{
+  "collection_id": 2993,
+  "schema_version": 1,
+  "id": 3220,
+  "title": "Wolfi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wolfi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2145,
+      "collection": "Dashboard Icons",
+      "file": "wolfi.svg",
+      "id": 4934,
+      "is_default": true,
+      "label": "wolfi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wolfi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "44500ad7b9f57a82b4220ba179ea9a06fed8af5f71432e7c9ff489a4c72351fb"
+      },
+      "sha256": "ef045118dcee71b2423436834c4c45cf2fbf0ba02d2d02b1e997b5693d657044",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wolfi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2145,
+      "collection": "Dashboard Icons",
+      "file": "wolfi-1.svg",
+      "id": 4935,
+      "is_default": false,
+      "label": "wolfi-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wolfi-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e997784130b3bbed70a3c6ca96555abad5eba4508f44714dd466a4481ef33950"
+      },
+      "sha256": "c1e117313061b44407ebf3173eef81f04efc6c2f9123427a188f732cd034bc43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wolfi-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

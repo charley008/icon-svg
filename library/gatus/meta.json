@@ -1,0 +1,44 @@
+{
+  "collection_id": 1354,
+  "schema_version": 1,
+  "id": 1581,
+  "title": "Gatus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "gatus",
+    "Uptime Monitor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1644,
+      "collection": "Dashboard Icons",
+      "file": "gatus.svg",
+      "id": 2752,
+      "is_default": true,
+      "label": "gatus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gatus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "901e072cafd30c2d59a1710774a973e9837069d52e37fe969574fdbb342b4501"
+      },
+      "sha256": "55c6b9e2ff6b178d2e7f80d89a45ca55b4a251688ec8803e52d615d820fabc3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gatus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

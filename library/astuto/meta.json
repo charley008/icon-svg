@@ -1,0 +1,63 @@
+{
+  "collection_id": 761,
+  "schema_version": 1,
+  "id": 988,
+  "title": "Astuto",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "astuto",
+    "Help Desk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2858,
+      "collection": "Dashboard Icons",
+      "file": "astuto.svg",
+      "id": 1981,
+      "is_default": true,
+      "label": "astuto",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "astuto.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a9c3e1ada7e17b7e11c8d4f6c21c67f76f94802e9e3290ceb8717563172935b1"
+      },
+      "sha256": "247c34917eb9b1f2342aeb7dbc7d66c4f16924fef826a8099600ba7efde18548",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/astuto.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2877,
+      "collection": "Dashboard Icons",
+      "file": "astuto-1.svg",
+      "id": 1982,
+      "is_default": false,
+      "label": "astuto-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "astuto-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e486f82caf64b836313223b1faa73d1a82864afbe911af1743ea02d12c9d6e2d"
+      },
+      "sha256": "72c3a7a9abd1e3ef2a94d8716ec24ab870107a3543c7a08f8575cb2574ce5203",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/astuto-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

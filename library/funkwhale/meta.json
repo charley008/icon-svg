@@ -1,0 +1,64 @@
+{
+  "collection_id": 1348,
+  "schema_version": 1,
+  "id": 1575,
+  "title": "Funkwhale",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Music-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "funkwhale",
+    "podcasting-platform",
+    "audio-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1545,
+      "collection": "Dashboard Icons",
+      "file": "funkwhale.svg",
+      "id": 2744,
+      "is_default": true,
+      "label": "funkwhale",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "funkwhale.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9dea3b6f9f90a5dba8a2c58051ef6d3209d75497063bb26703d6289571c71ccf"
+      },
+      "sha256": "b08e3d04a51e6abbd5450bacb25a53b9ebdaa27937ee2e1e07901c168c8c1a03",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/funkwhale.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1578,
+      "collection": "Dashboard Icons",
+      "file": "funkwhale-1.svg",
+      "id": 2745,
+      "is_default": false,
+      "label": "funkwhale-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "funkwhale-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f130074867777bdecce5a985c2d78cdb529a56bf5b0c8b142c6719bd75820f26"
+      },
+      "sha256": "c126d19af6315e98e603e5db9cb989baf2fb44356ff4a37d4aa90d639b82a8ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/funkwhale-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

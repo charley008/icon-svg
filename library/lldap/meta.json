@@ -1,0 +1,62 @@
+{
+  "collection_id": 1725,
+  "schema_version": 1,
+  "id": 1952,
+  "title": "Lldap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "lldap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1706,
+      "collection": "Dashboard Icons",
+      "file": "lldap.svg",
+      "id": 3249,
+      "is_default": true,
+      "label": "lldap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lldap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed47d31e778ccde9e99a98bc63942be82734b986a6df7de3bf68512af55f5f8d"
+      },
+      "sha256": "7673a9a7f49ac50752418f1750b20a77b031a8fdc77492dcfbd7712adeaf599c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lldap.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1706,
+      "collection": "Dashboard Icons",
+      "file": "lldap-1.svg",
+      "id": 3250,
+      "is_default": false,
+      "label": "lldap-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lldap-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "715fbe54c360a5faae41fffa62a8d14ab88ffe9df63edca6d222d07f93437957"
+      },
+      "sha256": "1b8a7c1eaa3c5d171b5709f19c4521b8af2c8e445f8abf9af40867a1117d094f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lldap-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

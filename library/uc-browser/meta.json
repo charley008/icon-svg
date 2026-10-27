@@ -1,0 +1,44 @@
+{
+  "collection_id": 2867,
+  "schema_version": 1,
+  "id": 3094,
+  "title": "Uc Browser",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "uc-browser",
+    "mobile-browser",
+    "china-browser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3811,
+      "collection": "Dashboard Icons",
+      "file": "uc-browser.svg",
+      "id": 4771,
+      "is_default": true,
+      "label": "uc-browser",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "uc-browser.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45d9f7b8b7d51386ae6622061001c907524a20b969aaee2a0036a73904c444b1"
+      },
+      "sha256": "853027c76cffea9869e30e2fb924448f072ae99f9bdc28fef624840f6208de1d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/uc-browser.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

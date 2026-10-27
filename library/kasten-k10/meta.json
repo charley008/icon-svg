@@ -1,0 +1,43 @@
+{
+  "collection_id": 1618,
+  "schema_version": 1,
+  "id": 1845,
+  "title": "Kasten K10",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "kasten-k10",
+    "Kubernetes Backup"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 864,
+      "collection": "Dashboard Icons",
+      "file": "kasten-k10.svg",
+      "id": 3113,
+      "is_default": true,
+      "label": "kasten-k10",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kasten-k10.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "43915b676536b8d55d734282853d70d80ad4d00ac3240a5ea10b077a17110a2a"
+      },
+      "sha256": "5b8982db078190ee1bba258531677c5ea8930731297d17f9d1291d0d6ca6fa9d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kasten-k10.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

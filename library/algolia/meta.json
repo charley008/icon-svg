@@ -1,0 +1,45 @@
+{
+  "collection_id": 3074,
+  "schema_version": 1,
+  "id": 3304,
+  "title": "Algolia",
+  "url": "https://www.algolia.com",
+  "domains": [
+    "algolia.com"
+  ],
+  "description": "托管式搜索和内容发现服务。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Algolia",
+    "algolia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 990,
+      "collection": "TechIcons / Devicon",
+      "file": "algolia-1.svg",
+      "id": 5059,
+      "is_default": true,
+      "label": "TechIcons · Algolia",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Algolia.svg",
+        "original_sha256": "e1847da6f2c3066b31c25fc9dfa16257b571943c5f6714444ea0dfe48179673c",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/algolia",
+        "reference_website": "https://www.algolia.com"
+      },
+      "sha256": "4962a62a236c3e0b383ef1ee3da379fba3b0dfd3e27fbe1853bf69176d4d73a6",
+      "source": "https://techicons.dev/icons/algolia",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 850,
+  "schema_version": 1,
+  "id": 1077,
+  "title": "Barrage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "barrage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12203,
+      "collection": "Dashboard Icons",
+      "file": "barrage.svg",
+      "id": 2092,
+      "is_default": true,
+      "label": "barrage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "barrage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "268f188ddf4900693e9768e24338a7deb5eb907f9b0d709d7eebf00215a3d028"
+      },
+      "sha256": "9a940e02c0bdeb56305f2a943ace065b79b73fa90b1cd2bca80e46c3181ba355",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/barrage.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

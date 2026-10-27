@@ -1,0 +1,45 @@
+{
+  "collection_id": 3192,
+  "schema_version": 1,
+  "id": 3454,
+  "title": "OpenAL",
+  "url": "https://www.openal.org",
+  "domains": [
+    "openal.org"
+  ],
+  "description": "跨平台音频应用开发接口。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "OpenAL",
+    "openal"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3415,
+      "collection": "TechIcons / Devicon",
+      "file": "openal-1.svg",
+      "id": 5296,
+      "is_default": true,
+      "label": "TechIcons · OpenAL",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OpenAL.svg",
+        "original_sha256": "ba393286538b7e69070d01386a5d603fe1ccbdb18e9e29b478b00696ab6087d6",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/openal",
+        "reference_website": "https://www.openal.org"
+      },
+      "sha256": "b5c2edb196affe2fcd3cc21d69668216e834b70d4ed77d8d49e0e7a6671961df",
+      "source": "https://techicons.dev/icons/openal",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

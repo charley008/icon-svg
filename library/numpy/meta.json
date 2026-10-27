@@ -1,0 +1,45 @@
+{
+  "collection_id": 3189,
+  "schema_version": 1,
+  "id": 3451,
+  "title": "NumPy",
+  "url": "https://numpy.org",
+  "domains": [
+    "numpy.org"
+  ],
+  "description": "用于 Python 数组计算与数值处理的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "NumPy",
+    "numpy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 919,
+      "collection": "TechIcons / Devicon",
+      "file": "numpy-1.svg",
+      "id": 5290,
+      "is_default": true,
+      "label": "TechIcons · NumPy",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "NumPy.svg",
+        "original_sha256": "80c227184c4f318d9a4a0f65236a0e58bca7a8a28380a383685740c9c938a7d6",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/numpy",
+        "reference_website": "https://numpy.org"
+      },
+      "sha256": "d8191dde23f6dc7ea9f157ba775275f2cd7eecdecc76686ab8095c388b64c958",
+      "source": "https://techicons.dev/icons/numpy",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

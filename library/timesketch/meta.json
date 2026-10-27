@@ -1,0 +1,40 @@
+{
+  "collection_id": 2804,
+  "schema_version": 1,
+  "id": 3031,
+  "title": "Timesketch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "timesketch"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 567,
+      "collection": "Dashboard Icons",
+      "file": "timesketch.svg",
+      "id": 4689,
+      "is_default": true,
+      "label": "timesketch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "timesketch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d7e734699bacaab4db3c947cc6e09b3ddd003981aa7ce6990502a096cfa61c6"
+      },
+      "sha256": "8942b5b553f9884d22bac0b75dbddf18b7214a5f326c305c9c7eeb6c4ec61e19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/timesketch.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

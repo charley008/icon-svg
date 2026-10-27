@@ -1,0 +1,40 @@
+{
+  "collection_id": 1355,
+  "schema_version": 1,
+  "id": 1582,
+  "title": "Gboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gboard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5215,
+      "collection": "Dashboard Icons",
+      "file": "gboard.svg",
+      "id": 2753,
+      "is_default": true,
+      "label": "gboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4b2f7d311026d54fe5d242741022d39113f257281690a6bf3885b87431c5b2a"
+      },
+      "sha256": "06cc81da977f155fd3d027a0eb5b86fe8b0ac4ef9c365f51c659b5e65733f1c6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gboard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

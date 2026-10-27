@@ -1,0 +1,81 @@
+{
+  "collection_id": 2881,
+  "schema_version": 1,
+  "id": 3108,
+  "title": "Unreal Engine",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "unreal-engine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1386,
+      "collection": "Dashboard Icons",
+      "file": "unreal-engine.svg",
+      "id": 4790,
+      "is_default": true,
+      "label": "unreal-engine",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unreal-engine.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "324c0366857285172499aec4d5f893bb70825d74b06cc35003e7910aa06956e2"
+      },
+      "sha256": "ccb1650f4290df089b38bb0b629dee3ae8a30c6242dced43a36133368b2f7791",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unreal-engine.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1435,
+      "collection": "Dashboard Icons",
+      "file": "unreal-engine-1.svg",
+      "id": 4791,
+      "is_default": false,
+      "label": "unreal-engine-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unreal-engine-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54bef46087e7fc3681a00c4373cb3b0e1dd8e3491ee43f951742504e06b5670d"
+      },
+      "sha256": "c54a351dbc88f22b2af6ad7735d3b9e47b8014bf7eb9d73a3f53d12bf8e64ba7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unreal-engine-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1119,
+      "collection": "TechIcons / Devicon",
+      "file": "unreal-engine-2.svg",
+      "id": 5391,
+      "is_default": false,
+      "label": "TechIcons · Unreal Engine",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Unreal-Engine.svg",
+        "original_sha256": "dcbe912c9f76a86ef0185021f6a6387df855cb64716c08015e713798d34942d5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/unrealengine",
+        "reference_website": "https://www.unrealengine.com"
+      },
+      "sha256": "c6d652a29b32f732f0a1685d6315f57774984a9061792d7b69c2b39524bc2515",
+      "source": "https://techicons.dev/icons/unrealengine",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

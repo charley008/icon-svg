@@ -1,0 +1,41 @@
+{
+  "collection_id": 1740,
+  "schema_version": 1,
+  "id": 1967,
+  "title": "Lostack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "lostack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2490,
+      "collection": "Dashboard Icons",
+      "file": "lostack.svg",
+      "id": 3268,
+      "is_default": true,
+      "label": "lostack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lostack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "df79aa214111d08a0c44283740a7b13df8e347f62bb8710234a0a6c8fb32f452"
+      },
+      "sha256": "3bd663ae8b0b1d35ad7c62917237f15e5978633dd9c5a0d6767c9154096140a0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lostack.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

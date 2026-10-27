@@ -1,0 +1,41 @@
+{
+  "collection_id": 657,
+  "schema_version": 1,
+  "id": 884,
+  "title": "Aboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aboard",
+    "aboardhr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14327,
+      "collection": "Dashboard Icons",
+      "file": "aboard.svg",
+      "id": 1845,
+      "is_default": true,
+      "label": "aboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b6907072de3db73a320dc240e68ebcb3a4b12e6ff8d8954d3f2a1c7cbce3ef3"
+      },
+      "sha256": "89d71fdbe7bf1f40530aa72273e3b19a30b0b5c095fd687718a3c41ba0ef8e65",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aboard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

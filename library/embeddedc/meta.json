@@ -1,0 +1,46 @@
+{
+  "collection_id": 3117,
+  "schema_version": 1,
+  "id": 3359,
+  "title": "Embedded C",
+  "url": "https://en.wikipedia.org/wiki/Embedded_C",
+  "domains": [
+    "en.wikipedia.org"
+  ],
+  "description": "面向嵌入式开发的 C 语言扩展。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Embedded C",
+    "embeddedc",
+    "Embedded-C"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1591,
+      "collection": "TechIcons / Devicon",
+      "file": "embeddedc-1.svg",
+      "id": 5148,
+      "is_default": true,
+      "label": "TechIcons · Embedded C",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Embedded-C.svg",
+        "original_sha256": "b185047175b57d37c7d829323966e632f2f2e1e9682bacc3d456077dcaf5d1de",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/embeddedc",
+        "reference_website": "https://en.wikipedia.org/wiki/Embedded_C"
+      },
+      "sha256": "a2dd211ea9356c44d84df97f3e8ac7b514715d74da2b07e56c4648372b29edd0",
+      "source": "https://techicons.dev/icons/embeddedc",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

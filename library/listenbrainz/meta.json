@@ -1,0 +1,42 @@
+{
+  "collection_id": 1719,
+  "schema_version": 1,
+  "id": 1946,
+  "title": "Listenbrainz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "listenbrainz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16362,
+      "collection": "Dashboard Icons",
+      "file": "listenbrainz.svg",
+      "id": 3243,
+      "is_default": true,
+      "label": "listenbrainz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "listenbrainz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1bb20ad55497dad835b6872c0fe5942659ac6f317f98e3be7d5759d2635252d4"
+      },
+      "sha256": "a250befde554beff193c2339147c1e29943309e372d1c999414c8d02b0df1b92",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/listenbrainz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

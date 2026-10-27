@@ -1,0 +1,41 @@
+{
+  "collection_id": 1100,
+  "schema_version": 1,
+  "id": 1327,
+  "title": "Diamond Aircraft",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Travel"
+  ],
+  "aliases": [
+    "diamond-aircraft"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6660,
+      "collection": "Dashboard Icons",
+      "file": "diamond-aircraft.svg",
+      "id": 2429,
+      "is_default": true,
+      "label": "diamond-aircraft",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "diamond-aircraft.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "72a5fb2d805913b9f72c0fc89887788149551d333a5c760f87e04513e28ac3eb"
+      },
+      "sha256": "67725a353359b48eee102e91448721f7c80d1688b824a3d2682285d47cf50bcc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/diamond-aircraft.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

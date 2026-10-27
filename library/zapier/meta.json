@@ -1,0 +1,60 @@
+{
+  "collection_id": 3044,
+  "schema_version": 1,
+  "id": 3271,
+  "title": "Zapier",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zapier",
+    "zap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4991,
+      "collection": "Dashboard Icons",
+      "file": "zapier.svg",
+      "id": 5003,
+      "is_default": true,
+      "label": "zapier",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zapier.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3b055e9f2943a40545fd3936ba7c872d119a7c75d1b3fefc2bb6a15f7e4dc657"
+      },
+      "sha256": "02b94dbad37f401e285ab2958314b418e4486e4e5b3b7442ad160f772b7bb0c2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zapier.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4991,
+      "collection": "Dashboard Icons",
+      "file": "zapier-1.svg",
+      "id": 5004,
+      "is_default": false,
+      "label": "zapier-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zapier-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a57d7d4dc61fdb3496408eaaf06da015b81feaf8ef84ad3268a702afd5a6d2a2"
+      },
+      "sha256": "2c9a913d00e656ab4689cee6a894597282f2efabc2d1fc351f26888e14c92b34",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zapier-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

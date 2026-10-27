@@ -1,0 +1,42 @@
+{
+  "collection_id": 925,
+  "schema_version": 1,
+  "id": 1152,
+  "title": "Cabernet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "cabernet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7085,
+      "collection": "Dashboard Icons",
+      "file": "cabernet.svg",
+      "id": 2195,
+      "is_default": true,
+      "label": "cabernet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cabernet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a99ede11a355e560a2f46f12e469ff0acbb78b5cdafd7c6f9cb1b4a6eb317ad5"
+      },
+      "sha256": "4d6bc7cb2bd4da996548d9e69f9d826a4948966c67121df916736b7b7854b102",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cabernet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

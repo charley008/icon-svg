@@ -1,0 +1,44 @@
+{
+  "collection_id": 746,
+  "schema_version": 1,
+  "id": 973,
+  "title": "Archivebox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "archivebox",
+    "web-archiver",
+    "site-scraper"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4424,
+      "collection": "Dashboard Icons",
+      "file": "archivebox.svg",
+      "id": 1962,
+      "is_default": true,
+      "label": "archivebox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "archivebox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "64cb25777b78de02b125add60a95fb70d460960b79a005d12890e7a95e539924"
+      },
+      "sha256": "951b3ee6df2ddc3da0b590b0ead21e4ec4d98cdb8d2302590de9eb4ec2efdbe2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/archivebox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

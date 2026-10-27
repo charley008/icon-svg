@@ -1,0 +1,40 @@
+{
+  "collection_id": 1103,
+  "schema_version": 1,
+  "id": 1330,
+  "title": "Diffusionbee",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "diffusionbee"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10793,
+      "collection": "Dashboard Icons",
+      "file": "diffusionbee.svg",
+      "id": 2432,
+      "is_default": true,
+      "label": "diffusionbee",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "diffusionbee.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f74c4f24d9b34130dd7681a984f93d95b998a0f07ae6705297d9735f28e5a75a"
+      },
+      "sha256": "ccca7248dec43c9281c27187832a4d2b2f567a68919abf747a19ad8e79a01600",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/diffusionbee.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,63 @@
+{
+  "collection_id": 1334,
+  "schema_version": 1,
+  "id": 1561,
+  "title": "Frigate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Monitoring-Tools",
+    "系统工具"
+  ],
+  "aliases": [
+    "frigate",
+    "NVR"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 798,
+      "collection": "Dashboard Icons",
+      "file": "frigate.svg",
+      "id": 2728,
+      "is_default": true,
+      "label": "frigate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "frigate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c1176a6af586e7bd149fb318c226dc863033bf188d079f6aa823cbffcd74c93"
+      },
+      "sha256": "543c37c04125838ca95dfe696cefe51e625bd8915c8990f111dd3313d91227e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/frigate.svg",
+      "version": 0
+    },
+    {
+      "bytes": 810,
+      "collection": "Dashboard Icons",
+      "file": "frigate-1.svg",
+      "id": 2729,
+      "is_default": false,
+      "label": "frigate-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "frigate-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "edb24fc5319c0566c2860e023707fb356a67e1833a47a9638b72766862e20578"
+      },
+      "sha256": "5dd110d7d02f5a65d6206d652aa010ab7f965a98ff039ff1496b196b7b0947fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/frigate-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

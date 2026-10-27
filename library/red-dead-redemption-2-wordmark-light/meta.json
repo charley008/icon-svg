@@ -1,0 +1,40 @@
+{
+  "collection_id": 2479,
+  "schema_version": 1,
+  "id": 2706,
+  "title": "Red Dead Redemption 2 Wordmark Light",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "red-dead-redemption-2-wordmark-light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 207542,
+      "collection": "Dashboard Icons",
+      "file": "red-dead-redemption-2-wordmark-light.svg",
+      "id": 4276,
+      "is_default": true,
+      "label": "red-dead-redemption-2-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "red-dead-redemption-2-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "71b862012c407f7bc9d8b9e4aac3a657cf5cc669f12d2ea307966e1eab1a1808"
+      },
+      "sha256": "4b3a7f0ac999d67aa2951db17c19c35cd27dcbda3932de54d70c0142869ccbec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/red-dead-redemption-2-wordmark-light.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

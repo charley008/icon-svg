@@ -1,0 +1,40 @@
+{
+  "collection_id": 1633,
+  "schema_version": 1,
+  "id": 1860,
+  "title": "Kimai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kimai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2993,
+      "collection": "Dashboard Icons",
+      "file": "kimai.svg",
+      "id": 3131,
+      "is_default": true,
+      "label": "kimai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kimai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "938e27e2aef4696f70ac5d602ffc72ee18e08b1d35fefbb961eb1fdb15e102a2"
+      },
+      "sha256": "a4580b192ca9e58ef2adc91c9591804dafa3df0697f7581d79ef293d341151f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kimai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

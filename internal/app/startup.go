@@ -148,6 +148,7 @@ func Run(version string) error {
 	if err := app.configureScanInterval(*scanInterval); err != nil {
 		return err
 	}
+	app.version = strings.TrimSpace(version)
 	scanDone := make(chan struct{})
 	var scanWG sync.WaitGroup
 	scanWG.Add(1)

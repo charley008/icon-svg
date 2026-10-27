@@ -1,0 +1,40 @@
+{
+  "collection_id": 2961,
+  "schema_version": 1,
+  "id": 3188,
+  "title": "Webhook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "webhook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1879,
+      "collection": "Dashboard Icons",
+      "file": "webhook.svg",
+      "id": 4896,
+      "is_default": true,
+      "label": "webhook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "webhook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e16ee3742b76cda493477954d3b40f1c1101d10fe15e6232eb1a00bc1481c11"
+      },
+      "sha256": "ab985667fe6eb50bef3933046cc1f7d0121e6d80d12bd0290a3800d66e6f580a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/webhook.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

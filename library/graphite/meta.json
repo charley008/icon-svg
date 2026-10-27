@@ -1,0 +1,59 @@
+{
+  "collection_id": 1420,
+  "schema_version": 1,
+  "id": 1647,
+  "title": "Graphite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "graphite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2233,
+      "collection": "Dashboard Icons",
+      "file": "graphite.svg",
+      "id": 2846,
+      "is_default": true,
+      "label": "graphite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "graphite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ccce8548307d0f2f446e69095cccdcb4bd96826fbfa6d621a1fed9ad34f5af8"
+      },
+      "sha256": "67dd9f9c71419c8f155285a2019ff621c2c079f0f551eadb31eb6502032f69b8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/graphite.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1562,
+      "collection": "Dashboard Icons",
+      "file": "graphite-1.svg",
+      "id": 2847,
+      "is_default": false,
+      "label": "graphite-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "graphite-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "10a833fa15d5c99905553868609073575c8f05c1f28c16405843df9f72f55256"
+      },
+      "sha256": "281f630d82a312e733a64a3680c57039220c7f14f4e08aed394881efb214c77e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/graphite-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

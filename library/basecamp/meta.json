@@ -1,0 +1,78 @@
+{
+  "collection_id": 851,
+  "schema_version": 1,
+  "id": 1078,
+  "title": "Basecamp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "basecamp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 999,
+      "collection": "Dashboard Icons",
+      "file": "basecamp.svg",
+      "id": 2093,
+      "is_default": true,
+      "label": "basecamp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "basecamp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02de59d007afc28e04b7d198ff321807fd1ef9f3b314fe3677f959b4f543f10d"
+      },
+      "sha256": "e0b00bc64c2743ca0901d099883d8575ffaf5f18557dc7e3eefd2807e80c9a38",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/basecamp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 999,
+      "collection": "Dashboard Icons",
+      "file": "basecamp-1.svg",
+      "id": 2094,
+      "is_default": false,
+      "label": "basecamp-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "basecamp-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3d609bfdfc67ad456096f39d5aa13ec05f09c1c8f7f98d2452fd992a962d16de"
+      },
+      "sha256": "be9b7fba40deff0752f7c7e3b585e4e21cd2eef8ec0cac3059667c743a076fbc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/basecamp-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 999,
+      "collection": "Dashboard Icons",
+      "file": "basecamp-2.svg",
+      "id": 2095,
+      "is_default": false,
+      "label": "basecamp-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "basecamp-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b71992beb0c2932ed4349a2b0412dcdca1a4d283362398f0ea8307a6a25c2fc7"
+      },
+      "sha256": "c3338de90141e209398b4f270b7758bd74857ca76e9cffb0f375851c99420e9e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/basecamp-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

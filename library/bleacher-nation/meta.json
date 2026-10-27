@@ -1,0 +1,59 @@
+{
+  "collection_id": 880,
+  "schema_version": 1,
+  "id": 1107,
+  "title": "Bleacher Nation",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bleacher-nation"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5771,
+      "collection": "Dashboard Icons",
+      "file": "bleacher-nation.svg",
+      "id": 2136,
+      "is_default": true,
+      "label": "bleacher-nation",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bleacher-nation.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "12ff423b1dfd0ef00e33c9ad77a83a99673d049486d89453dcbf9fcc350a4e1a"
+      },
+      "sha256": "f501dab0a86b44313cc7e6a0635e0588a2287f33de711ccbc3fd085b82b0288d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bleacher-nation.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6150,
+      "collection": "Dashboard Icons",
+      "file": "bleacher-nation-1.svg",
+      "id": 2137,
+      "is_default": false,
+      "label": "bleacher-nation-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bleacher-nation-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a992300d71bd754a47479cbc55bbaa21fb8842b799ee64f98b031fc83529f468"
+      },
+      "sha256": "35c75209ac4be0f5cd3f62be8d4e193024ace965dd17b0f9fe394bceeaa4d76b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bleacher-nation-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1105,
+  "schema_version": 1,
+  "id": 1332,
+  "title": "Digitelstudios",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "digitelstudios"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 522,
+      "collection": "Dashboard Icons",
+      "file": "digitelstudios.svg",
+      "id": 2435,
+      "is_default": true,
+      "label": "digitelstudios",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitelstudios.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a907b4059d5286b94ebe7f6a2579d44b890084523de0e615c9d27c605a4153b1"
+      },
+      "sha256": "94d1f993117c9d678c01ed22f560ab6acd27353ba918961349856df141b4c8c8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/digitelstudios.svg",
+      "version": 0
+    },
+    {
+      "bytes": 504,
+      "collection": "Dashboard Icons",
+      "file": "digitelstudios-1.svg",
+      "id": 2436,
+      "is_default": false,
+      "label": "digitelstudios-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digitelstudios-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd1bef5e939d4bd138a0dbce40205b99eabe082d196d2da65ecf059f639e4d07"
+      },
+      "sha256": "b0b014e3440c136e7ca9acf3d2a8374ac6b57b7754190b71d6d0cfe8b659b845",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/digitelstudios-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

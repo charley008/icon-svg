@@ -2,6 +2,10 @@
   "collection_id": 341,
   "schema_version": 1,
   "id": 471,
+  "redirect_from": [
+    2776,
+    2777
+  ],
   "title": "Samsung",
   "url": "https://samsung.com",
   "domains": [
@@ -22,7 +26,11 @@
   ],
   "aliases": [
     "samsung",
-    "三星"
+    "三星",
+    "Samsung Internet",
+    "samsung-internet",
+    "Samsung Tv Plus",
+    "samsung-tv-plus"
   ],
   "notes": [],
   "icons": [
@@ -147,8 +155,46 @@
       "sha256": "1b3c4eb23c2b3d440a99ecf1c378962c1ccb077ef10ba3774594ce852f625e1c",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/samsung-2.svg",
       "version": 5
+    },
+    {
+      "bytes": 675,
+      "collection": "Dashboard Icons",
+      "file": "samsung-6.svg",
+      "id": 4365,
+      "is_default": false,
+      "label": "Samsung Internet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samsung-internet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d78bd281e70019744641ab2d86c793209e54f35de33abedbc004501732050fa"
+      },
+      "sha256": "fe8f99ed85c8ab025ddd85c22f908b79b376f14409335bb4380ff3e77462d37b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/samsung-internet.svg",
+      "version": 6
+    },
+    {
+      "bytes": 876,
+      "collection": "Dashboard Icons",
+      "file": "samsung-7.svg",
+      "id": 4366,
+      "is_default": false,
+      "label": "Samsung TV Plus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "samsung-tv-plus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dad06d75850a4dd6334125c6e3b4140670a0a67509d13a964e1c9071616a3cd9"
+      },
+      "sha256": "cdff2a5caba125fc926a6d0e0cfe10b68f314355dc7baaa87d28234ac685bdbb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/samsung-tv-plus.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": []
 }

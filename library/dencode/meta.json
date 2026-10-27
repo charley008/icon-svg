@@ -1,0 +1,59 @@
+{
+  "collection_id": 1087,
+  "schema_version": 1,
+  "id": 1314,
+  "title": "Dencode",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dencode"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 187,
+      "collection": "Dashboard Icons",
+      "file": "dencode.svg",
+      "id": 2412,
+      "is_default": true,
+      "label": "dencode",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dencode.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "58e7bf59bedd29afd2d61b7f683ec809d5abe6750d54de90927eef75040c7b97"
+      },
+      "sha256": "3fe578273879f8defd169f7bc2c5ffe1c56d23f0b594feb9f0cbe47d3fc6e54b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dencode.svg",
+      "version": 0
+    },
+    {
+      "bytes": 187,
+      "collection": "Dashboard Icons",
+      "file": "dencode-1.svg",
+      "id": 2413,
+      "is_default": false,
+      "label": "dencode-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dencode-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40df603e3b82b9cb21f01ae40ba0d03c31661ea06f6fb5b1a1f52ab964cb0784"
+      },
+      "sha256": "ba29c84c3b17da526b4d28843a75b65b176e6b14b026f1225894e6a1ff163846",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dencode-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

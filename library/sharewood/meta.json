@@ -1,0 +1,40 @@
+{
+  "collection_id": 2595,
+  "schema_version": 1,
+  "id": 2822,
+  "title": "Sharewood",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sharewood"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6792,
+      "collection": "Dashboard Icons",
+      "file": "sharewood.svg",
+      "id": 4427,
+      "is_default": true,
+      "label": "sharewood",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sharewood.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d2951ae57e86d4b82ad136070e37ef8ee288a4e066883e95ed3dd84e2e2af1d9"
+      },
+      "sha256": "a3da636c65ad6313e50fb2bcefde95a571d214d5c4345ad2b3f4b2b5a76487e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sharewood.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

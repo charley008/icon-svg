@@ -1,0 +1,59 @@
+{
+  "collection_id": 647,
+  "schema_version": 1,
+  "id": 874,
+  "title": "3Cx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "3cx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1618,
+      "collection": "Dashboard Icons",
+      "file": "3cx.svg",
+      "id": 1833,
+      "is_default": true,
+      "label": "3cx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "3cx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3a60b2e42b9979b0459ff58cf60f96c50bd371c95a7ae31f69b5e85178bceec7"
+      },
+      "sha256": "67c0aa051ffdeefb5501c025dd9b5884f1a09449855d3e71609c6457d17e2005",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/3cx.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1666,
+      "collection": "Dashboard Icons",
+      "file": "3cx-1.svg",
+      "id": 1834,
+      "is_default": false,
+      "label": "3cx-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "3cx-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "51dc910c8f72b489fefa829448b256eb9db2a39d2bbc57c1dec9a5922e1ba23e"
+      },
+      "sha256": "ae31f5cf82671f4faae03b215f3dc183a1515aabeeb4eded249ff7ace39d84e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/3cx-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

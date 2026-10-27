@@ -1,0 +1,40 @@
+{
+  "collection_id": 892,
+  "schema_version": 1,
+  "id": 1119,
+  "title": "Booko",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "booko"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2159,
+      "collection": "Dashboard Icons",
+      "file": "booko.svg",
+      "id": 2153,
+      "is_default": true,
+      "label": "booko",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "booko.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f5464c7e271257cfb41772a0e8b7250bd1a6a1205733382a173f8ce1a9a1c2a"
+      },
+      "sha256": "f9376777092705ecac699596a018db2001b9d6450854b216e8322f5dcca0af25",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/booko.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

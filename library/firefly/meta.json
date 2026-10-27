@@ -1,0 +1,43 @@
+{
+  "collection_id": 1275,
+  "schema_version": 1,
+  "id": 1502,
+  "title": "Firefly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "firefly",
+    "Finance Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1905,
+      "collection": "Dashboard Icons",
+      "file": "firefly.svg",
+      "id": 2660,
+      "is_default": true,
+      "label": "firefly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "firefly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a33e8d30d625552152a529aeeb8a772ba2aa8b56d0116139ec5d32c5f3e40b57"
+      },
+      "sha256": "042a1d06292d3197fe3b0efd5eb26e175d045f2e0767ed788af29872981c1f0d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/firefly.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

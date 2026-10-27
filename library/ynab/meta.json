@@ -1,0 +1,40 @@
+{
+  "collection_id": 3024,
+  "schema_version": 1,
+  "id": 3251,
+  "title": "Ynab",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ynab"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2279,
+      "collection": "Dashboard Icons",
+      "file": "ynab.svg",
+      "id": 4982,
+      "is_default": true,
+      "label": "ynab",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ynab.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37f3e13f2c35931facee495fdc5954f9e521409df35aae74f0da38bbb4e513f3"
+      },
+      "sha256": "5d85f75a1ea27d987dc359f0bd776454b5fc13734128e1e41b71a98dad135d8c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ynab.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

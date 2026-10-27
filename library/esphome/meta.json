@@ -1,4 +1,7 @@
 {
+  "collection_id": 529,
+  "schema_version": 1,
+  "id": 705,
   "title": "ESPHome",
   "url": "https://esphome.io/",
   "domains": [
@@ -21,24 +24,81 @@
   "notes": [],
   "icons": [
     {
-      "file": "esphome.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8e5e7f0b827805975d4bbcbbc80feafe86bf9575feaee8ece89d3cb6ed04b59e",
       "bytes": 1192,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/esphome.svg",
+      "collection": "Dashboard Icons",
+      "file": "esphome.svg",
+      "id": 1665,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg-cleaned",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "esphome.svg",
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved.",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      },
+      "sha256": "8e5e7f0b827805975d4bbcbbc80feafe86bf9575feaee8ece89d3cb6ed04b59e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/esphome.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1716,
+      "collection": "Dashboard Icons",
+      "file": "esphome-1.svg",
+      "id": 2583,
+      "is_default": false,
+      "label": "esphome-alt-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "esphome-alt-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
         "repository": "https://github.com/homarr-labs/dashboard-icons",
-        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
-      }
+        "upstream_sha256": "55d57b8619d25e4fd24006b92e45f29c7c9b9e1f8a70e26a9f40a5b226beca21"
+      },
+      "sha256": "2f40677f6a8f3206d67d0d77d1dae87a26cee56da3fed138bf5d4fd98a399c42",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/esphome-alt-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1674,
+      "collection": "Dashboard Icons",
+      "file": "esphome-2.svg",
+      "id": 2584,
+      "is_default": false,
+      "label": "esphome-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "esphome-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48ea89d9a42a647bd94343cd05d754c98a3ee429146a3a7ea371954cd46bf201"
+      },
+      "sha256": "54d0ceb714944df31a599b76aa5232a1a7eea790db7d1f3a45c6b75fb92da9ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/esphome-alt.svg",
+      "version": 2
+    },
+    {
+      "bytes": 793,
+      "collection": "Dashboard Icons",
+      "file": "esphome-3.svg",
+      "id": 2585,
+      "is_default": false,
+      "label": "esphome-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "esphome-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "21a2b82d73e15e512c14dc490e79cf5a7f2382d5d7f27709a2a25cc0a7135b17"
+      },
+      "sha256": "7317f4ab0e5d3ca71cbbe4a63f5f66da62d59b02b8bc118dc2d25244cacb1259",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/esphome-light.svg",
+      "version": 3
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 4,
   "products": []
 }

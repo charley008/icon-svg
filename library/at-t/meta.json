@@ -1,0 +1,40 @@
+{
+  "collection_id": 767,
+  "schema_version": 1,
+  "id": 994,
+  "title": "At T",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "at-t"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2716,
+      "collection": "Dashboard Icons",
+      "file": "at-t.svg",
+      "id": 1988,
+      "is_default": true,
+      "label": "at-t",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "at-t.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef54013e6fe04aa08f9c8ea277540c2b164eda94f5bb4835d96f4f52fc752eb3"
+      },
+      "sha256": "aac5e87cfed82cbad51a5f07b6ccb409c9aca9264a610af0411c177480765652",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/at-t.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

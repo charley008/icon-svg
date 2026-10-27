@@ -1,0 +1,59 @@
+{
+  "collection_id": 1156,
+  "schema_version": 1,
+  "id": 1383,
+  "title": "Dream Host",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dream-host"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 600,
+      "collection": "Dashboard Icons",
+      "file": "dream-host.svg",
+      "id": 2501,
+      "is_default": true,
+      "label": "dream-host",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dream-host.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b0ceab470f67b36b6b608118cf69bc8e2e31463034b3b61ccba4885afd24f68a"
+      },
+      "sha256": "a25427d0fa5bcc4198fe8830ed900aaac9aa58b4892ddfc480bf9cec3be2aa3a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dream-host.svg",
+      "version": 0
+    },
+    {
+      "bytes": 597,
+      "collection": "Dashboard Icons",
+      "file": "dream-host-1.svg",
+      "id": 2502,
+      "is_default": false,
+      "label": "dream-host-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dream-host-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2347309dc62eabe08e20330c701356dd10fbe14daa9e1dfe7f122f0d3fb13ba1"
+      },
+      "sha256": "8e7109c6b30e635ba85b30629ad115f765c7e00d9171b1782465e3052b1a050e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dream-host-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

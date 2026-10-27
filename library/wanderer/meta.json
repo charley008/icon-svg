@@ -1,0 +1,59 @@
+{
+  "collection_id": 2948,
+  "schema_version": 1,
+  "id": 3175,
+  "title": "Wanderer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wanderer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2449,
+      "collection": "Dashboard Icons",
+      "file": "wanderer.svg",
+      "id": 4878,
+      "is_default": true,
+      "label": "wanderer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wanderer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3acb10a2906384f8ecd8a4b2f6e75ff41d89cf662b62eafacfa9a191c110acf4"
+      },
+      "sha256": "277ce86698298d530eabd919c4179a9536d9b0e780241d4a510f81f6c98f85ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wanderer.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2452,
+      "collection": "Dashboard Icons",
+      "file": "wanderer-1.svg",
+      "id": 4879,
+      "is_default": false,
+      "label": "wanderer-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wanderer-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ded12199f8a0a7e5bc0a1e7cb0e1c0d6b34547658ab36032bd392dc2d7354ef0"
+      },
+      "sha256": "d217bb51f5bcde9296a09fa0aa339fed1bfe7aa8ac447fcf74d279c1731ff702",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wanderer-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

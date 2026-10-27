@@ -2,6 +2,10 @@
   "collection_id": 306,
   "schema_version": 1,
   "id": 433,
+  "redirect_from": [
+    2353,
+    2354
+  ],
   "title": "Perplexity",
   "url": "https://perplexity.ai",
   "domains": [
@@ -16,7 +20,11 @@
     "perplexity.ai"
   ],
   "aliases": [
-    "perplexity"
+    "perplexity",
+    "perplexity-wordmark-light",
+    "Perplexity Wordmark Light",
+    "perplexity-wordmark-dark",
+    "Perplexity Wordmark Dark"
   ],
   "notes": [],
   "icons": [
@@ -129,8 +137,65 @@
       "sha256": "584e0fc13565c5031b7639d6b2b6095441e2bd6fef9f65e74a39a6e2c81f571f",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perplexity-dark.svg",
       "version": 4
+    },
+    {
+      "bytes": 642,
+      "collection": "Dashboard Icons",
+      "file": "perplexity-5.svg",
+      "id": 3800,
+      "is_default": false,
+      "label": "perplexity-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c66c64e9e3c273ef6c235f743808d67ffa7d482e8cbe4a79496a42b60333e1fe"
+      },
+      "sha256": "5ff097dc1431e16b67ee02f14c39458cd43a766c41f02ceabfbec09c32ee307a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perplexity-light.svg",
+      "version": 5
+    },
+    {
+      "bytes": 7622,
+      "collection": "Dashboard Icons",
+      "file": "perplexity-6.svg",
+      "id": 3802,
+      "is_default": false,
+      "label": "perplexity-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8c2d2f2d88b82f3b5e52e4559a9df2611fbc4ccb6356e462baa67917713600b9"
+      },
+      "sha256": "db00852b83e2b50a0225fba2a3b574e9bf2f9b6020952321da2ace3431992ace",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perplexity-wordmark-light.svg",
+      "version": 6
+    },
+    {
+      "bytes": 7625,
+      "collection": "Dashboard Icons",
+      "file": "perplexity-7.svg",
+      "id": 3801,
+      "is_default": false,
+      "label": "perplexity-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perplexity-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f58eb1a2266621a420ecd3bf52eee157fce16b9b64d8a1233b189f06d743d46f"
+      },
+      "sha256": "5109610243e38dc08f712dbc71381ab1f0379f541a22f15a589f7368f77ef9f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perplexity-wordmark-dark.svg",
+      "version": 7
     }
   ],
-  "next_version": 5,
+  "next_version": 8,
   "products": []
 }

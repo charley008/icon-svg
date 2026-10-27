@@ -1,4 +1,7 @@
 {
+  "collection_id": 624,
+  "schema_version": 1,
+  "id": 849,
   "title": "TP-Link",
   "url": "https://www.tp-link.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "tp-link.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8509501b77f506b22720dcb6998ac710b55dbc53ef121e00a95c3887d6c699ec",
       "bytes": 420,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tp-link.svg",
+      "collection": "Dashboard Icons",
+      "file": "tp-link.svg",
+      "id": 1806,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "tp-link.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8509501b77f506b22720dcb6998ac710b55dbc53ef121e00a95c3887d6c699ec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tp-link.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

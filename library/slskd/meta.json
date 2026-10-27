@@ -1,0 +1,40 @@
+{
+  "collection_id": 2635,
+  "schema_version": 1,
+  "id": 2862,
+  "title": "Slskd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "slskd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1126,
+      "collection": "Dashboard Icons",
+      "file": "slskd.svg",
+      "id": 4477,
+      "is_default": true,
+      "label": "slskd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "slskd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "163133ab1baef9d6088d8a451bc7fd95ac03bdbb1d0ec2c3b089420cf3cd029a"
+      },
+      "sha256": "979f4f2aa249d6a4c3708e4a43d15b0bbf3f8f5422b694bb733983dfa027f919",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/slskd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

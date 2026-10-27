@@ -1,0 +1,46 @@
+{
+  "collection_id": 3203,
+  "schema_version": 1,
+  "id": 3466,
+  "title": "Playwright",
+  "url": "https://playwright.dev",
+  "domains": [
+    "playwright.dev"
+  ],
+  "description": "用于浏览器自动化与端到端测试的开发工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Playwright",
+    "playwright",
+    "Playwrite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3806,
+      "collection": "TechIcons / Devicon",
+      "file": "playwright-1.svg",
+      "id": 5314,
+      "is_default": true,
+      "label": "TechIcons · Playwright",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Playwrite.svg",
+        "original_sha256": "c829ee41780a2c9748b9aeeeec530dc9ceeade68687e252ff7f044c16a8c384b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/playwright",
+        "reference_website": "https://playwright.dev"
+      },
+      "sha256": "3d923ad7df4851caa446698ad410f82ebd3d8c5e29f2038871dc2dc744f8e65a",
+      "source": "https://techicons.dev/icons/playwright",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2509,
+  "schema_version": 1,
+  "id": 2736,
+  "title": "Rimgo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rimgo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 517,
+      "collection": "Dashboard Icons",
+      "file": "rimgo.svg",
+      "id": 4312,
+      "is_default": true,
+      "label": "rimgo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rimgo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9909aefd9c60ad1917210bd9a49b2577b341abb5ac2ea72b9a5dba019fc0d549"
+      },
+      "sha256": "97f8b92c812589409f104382fe43f0bf5ad47087c9a2c331e6aef4819c2a1a6d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rimgo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 520,
+      "collection": "Dashboard Icons",
+      "file": "rimgo-1.svg",
+      "id": 4313,
+      "is_default": false,
+      "label": "rimgo-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rimgo-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5c88063a5db7ca621220131be5fff42ef6f02a1237330f4b3918883dc3cd47d"
+      },
+      "sha256": "e8d2e1a592dec4dce091c24482bc6e44f8dd6269e507bce107052bb76551bef0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rimgo-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

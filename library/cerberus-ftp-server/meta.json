@@ -1,0 +1,40 @@
+{
+  "collection_id": 944,
+  "schema_version": 1,
+  "id": 1171,
+  "title": "Cerberus Ftp Server",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cerberus-ftp-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2766,
+      "collection": "Dashboard Icons",
+      "file": "cerberus-ftp-server.svg",
+      "id": 2221,
+      "is_default": true,
+      "label": "cerberus-ftp-server",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cerberus-ftp-server.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "361ca7c88613e373f2797a0ffbc2dfef8f29da01accce599d934c1695fb8d865"
+      },
+      "sha256": "878ad15c479754bc8520a9b5887fc7c4794556d49a9982dd8af623effd5b7d43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cerberus-ftp-server.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

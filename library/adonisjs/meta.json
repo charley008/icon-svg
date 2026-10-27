@@ -1,0 +1,45 @@
+{
+  "collection_id": 3072,
+  "schema_version": 1,
+  "id": 3302,
+  "title": "AdonisJS",
+  "url": "https://adonisjs.com",
+  "domains": [
+    "adonisjs.com"
+  ],
+  "description": "面向 Node.js 的服务端 Web 应用框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "AdonisJS",
+    "adonisjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 777,
+      "collection": "TechIcons / Devicon",
+      "file": "adonisjs-1.svg",
+      "id": 5057,
+      "is_default": true,
+      "label": "TechIcons · AdonisJS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "AdonisJS.svg",
+        "original_sha256": "99d342fa077dfcc0e355ac076d02df00bfb7b9868fa66a0006853059129060b8",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/adonisjs",
+        "reference_website": "https://adonisjs.com"
+      },
+      "sha256": "e6214dd6e3bb8a91897aa98cd30c6672c64e0f1bfb0a4fdc513d06e613a86ed4",
+      "source": "https://techicons.dev/icons/adonisjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

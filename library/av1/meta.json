@@ -1,0 +1,59 @@
+{
+  "collection_id": 784,
+  "schema_version": 1,
+  "id": 1011,
+  "title": "Av1",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "av1"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 693,
+      "collection": "Dashboard Icons",
+      "file": "av1.svg",
+      "id": 2013,
+      "is_default": true,
+      "label": "av1",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "av1.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48dd5d1dad3478534741602864e5c121df662ff0cfc65851fc4fb7ae412ef96e"
+      },
+      "sha256": "234b3cd9db7748fe92e2c3d69988d2b6af9eda2029cdd2695f8bfb49ebf681e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/av1.svg",
+      "version": 0
+    },
+    {
+      "bytes": 724,
+      "collection": "Dashboard Icons",
+      "file": "av1-1.svg",
+      "id": 2014,
+      "is_default": false,
+      "label": "av1-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "av1-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45a96a5599d8969248d2a24ba5f1d3dbe8e9dc0dc9a1c7cb7aea9a12559f8fcf"
+      },
+      "sha256": "58e201ba41f986d1847a1f218edfbfdae54fe0bcb82565f715425de7efd23198",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/av1-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

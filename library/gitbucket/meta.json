@@ -1,0 +1,40 @@
+{
+  "collection_id": 1367,
+  "schema_version": 1,
+  "id": 1594,
+  "title": "Gitbucket",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gitbucket"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2069,
+      "collection": "Dashboard Icons",
+      "file": "gitbucket.svg",
+      "id": 2766,
+      "is_default": true,
+      "label": "gitbucket",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitbucket.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8203712d1f12bd39a83735e3b77d7fd66e1da42960465b8e656a7d35851c08e"
+      },
+      "sha256": "d6c916ffcb95b7430b4f5454a513d680e57fab27fa18b989d42a548aa5ecf6d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gitbucket.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

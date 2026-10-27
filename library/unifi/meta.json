@@ -2,6 +2,9 @@
   "collection_id": 397,
   "schema_version": 1,
   "id": 547,
+  "redirect_from": [
+    3092
+  ],
   "title": "UniFi",
   "url": "",
   "domains": [],
@@ -18,7 +21,9 @@
     "网络设备"
   ],
   "aliases": [
-    "unifi"
+    "unifi",
+    "ubiquiti-unifi",
+    "Ubiquiti Unifi"
   ],
   "notes": [
     "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
@@ -46,9 +51,47 @@
       "sha256": "3445c644796309e1ef50215a76e47e70d851ec8729736a27b1bde7b2d1eb2a10",
       "source": "用户优选",
       "version": 0
+    },
+    {
+      "bytes": 1111,
+      "collection": "Dashboard Icons",
+      "file": "unifi-1.svg",
+      "id": 4784,
+      "is_default": false,
+      "label": "unifi-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unifi-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4485d02cda1e0ff2d6fed4c4b1a9aef968bfd6e0c14b8450395094a28d9b605f"
+      },
+      "sha256": "403d878b4072b2a7072e09d7dd18bb27155825b57800cecb65a1d057debe66e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unifi-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 480,
+      "collection": "Dashboard Icons",
+      "file": "unifi-2.svg",
+      "id": 4767,
+      "is_default": false,
+      "label": "Ubiquiti Unifi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ubiquiti-unifi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da65d5cabba2496928e384235b596d485afaac8c227dfea0a1d158eb4499c2cb"
+      },
+      "sha256": "1d97ff70158de454731f5f9448ca3e2d708c4d502935bec430865c3b5b0f32a2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ubiquiti-unifi.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": [
     {
       "id": 548,

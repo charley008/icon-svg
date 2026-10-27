@@ -1,0 +1,40 @@
+{
+  "collection_id": 1419,
+  "schema_version": 1,
+  "id": 1646,
+  "title": "Grandstream",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "grandstream"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7795,
+      "collection": "Dashboard Icons",
+      "file": "grandstream.svg",
+      "id": 2845,
+      "is_default": true,
+      "label": "grandstream",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grandstream.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee3704f5ce485c0a4bb9e7b8b9c5f0a1b7faa4322f7d7d4a6298c5fe0765297e"
+      },
+      "sha256": "d5602bb6c77b01fbc6e81aab40f1d961bde990cc9210b9a3bb2b0614db83d431",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grandstream.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

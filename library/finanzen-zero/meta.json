@@ -1,0 +1,40 @@
+{
+  "collection_id": 1271,
+  "schema_version": 1,
+  "id": 1498,
+  "title": "Finanzen Zero",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "finanzen-zero"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1094,
+      "collection": "Dashboard Icons",
+      "file": "finanzen-zero.svg",
+      "id": 2655,
+      "is_default": true,
+      "label": "finanzen-zero",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "finanzen-zero.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3d640c1315687448674ba518698703cf1458c95c7c7a4aaf963f2a75c9aef66f"
+      },
+      "sha256": "1986e2b4963b95de1d595c5f33be7edaa31e13f3b1ae1471181f531259aa8faf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/finanzen-zero.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

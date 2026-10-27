@@ -1,0 +1,59 @@
+{
+  "collection_id": 715,
+  "schema_version": 1,
+  "id": 942,
+  "title": "Anything Llm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "anything-llm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3248,
+      "collection": "Dashboard Icons",
+      "file": "anything-llm.svg",
+      "id": 1919,
+      "is_default": true,
+      "label": "anything-llm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anything-llm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "84d62991d909d81bbe233f8978746efa620fe96bedeaebafd7574b1a1c7b7d03"
+      },
+      "sha256": "357a3a8b7895a22888a3fd3155bb4937cccc210b5603d41568a47f9cdce13212",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anything-llm.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3251,
+      "collection": "Dashboard Icons",
+      "file": "anything-llm-1.svg",
+      "id": 1920,
+      "is_default": false,
+      "label": "anything-llm-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anything-llm-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2bd4ab4301e40abe1d2558519c96188e641acd4de75fdf774e2a7855e42298b"
+      },
+      "sha256": "daaeb083ddd2ebed801ae6f6aa88387388b9a3f8db42cd1f7dd06cee69a12f40",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anything-llm-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

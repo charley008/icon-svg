@@ -1,0 +1,40 @@
+{
+  "collection_id": 2743,
+  "schema_version": 1,
+  "id": 2970,
+  "title": "Talos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "talos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2279,
+      "collection": "Dashboard Icons",
+      "file": "talos.svg",
+      "id": 4615,
+      "is_default": true,
+      "label": "talos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "talos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9fe70f551c7d2e0d3d734fe5164c5c849753e4a45651e6d96e9b479e8ee8192e"
+      },
+      "sha256": "351bde10397cb130fca3c9e7e0468fdff1e88c18457ed3586ddad243f3fc73f4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/talos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

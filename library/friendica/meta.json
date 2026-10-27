@@ -1,0 +1,40 @@
+{
+  "collection_id": 1333,
+  "schema_version": 1,
+  "id": 1560,
+  "title": "Friendica",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "friendica"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 880,
+      "collection": "Dashboard Icons",
+      "file": "friendica.svg",
+      "id": 2727,
+      "is_default": true,
+      "label": "friendica",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "friendica.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c292048811bb226d41e12fd00fe65ef4d5c3cea45d0be372e2c6fbe8326a0085"
+      },
+      "sha256": "9c2b0c69fa6a180d43de3f5501093a9b7648d40162902ae5fe916f38ff6190ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/friendica.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

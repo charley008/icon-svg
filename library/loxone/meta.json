@@ -1,0 +1,66 @@
+{
+  "collection_id": 1744,
+  "schema_version": 1,
+  "id": 1971,
+  "redirect_from": [
+    1972
+  ],
+  "title": "Loxone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "loxone",
+    "loxone-full",
+    "Loxone Full"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2288,
+      "collection": "Dashboard Icons",
+      "file": "loxone.svg",
+      "id": 3272,
+      "is_default": true,
+      "label": "loxone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "loxone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0faa41fa173cb5135d40fd6ef64389038e9c18f59c6e96ff70f11d3f89a49c53"
+      },
+      "sha256": "18cc2688cd7d84f8e2889d144551d3d656656a2eb16d8a7fcf51ab3123151b84",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/loxone.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2200,
+      "collection": "Dashboard Icons",
+      "file": "loxone-1.svg",
+      "id": 3273,
+      "is_default": false,
+      "label": "loxone-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "loxone-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe5ed2554f0ade109cfa87b2cc8cc5a5f3e3087f9d16b1c5565aa02d9ed3e391"
+      },
+      "sha256": "fd1735f6d886776ba97b8a3263db5619387442d7de3bbd25ff8f559df290f92d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/loxone-full.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

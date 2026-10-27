@@ -1,0 +1,44 @@
+{
+  "collection_id": 1588,
+  "schema_version": 1,
+  "id": 1815,
+  "title": "Jenkins",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "DevOps",
+    "开发编程"
+  ],
+  "aliases": [
+    "jenkins",
+    "CI/CD"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13673,
+      "collection": "Dashboard Icons",
+      "file": "jenkins.svg",
+      "id": 3075,
+      "is_default": true,
+      "label": "jenkins",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jenkins.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2353e89d742e759fb2ad8459195d2ca12633241802e452637366ba6aa68fb651"
+      },
+      "sha256": "ce2d3dd5acc7dfcd73ba154c91803c1d5979169d0a2e4a648e0ce2422c719b08",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jenkins.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

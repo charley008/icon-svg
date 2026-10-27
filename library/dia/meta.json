@@ -1,0 +1,40 @@
+{
+  "collection_id": 1098,
+  "schema_version": 1,
+  "id": 1325,
+  "title": "Dia",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dia"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15231,
+      "collection": "Dashboard Icons",
+      "file": "dia.svg",
+      "id": 2427,
+      "is_default": true,
+      "label": "dia",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dia.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0136ced090e9a3a7d719e4026d49f07e793bf24e257788f854331a8d9933c2b7"
+      },
+      "sha256": "0004b3cf3cc8199d46d0a6f806264fe08bf078dbc95493aac414bfd009ff52bf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dia.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

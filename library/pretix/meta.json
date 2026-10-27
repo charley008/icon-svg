@@ -1,0 +1,42 @@
+{
+  "collection_id": 2204,
+  "schema_version": 1,
+  "id": 2431,
+  "title": "Pretix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "pretix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1420,
+      "collection": "Dashboard Icons",
+      "file": "pretix.svg",
+      "id": 3920,
+      "is_default": true,
+      "label": "pretix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pretix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "35946760f3f10fef5e04b023eaad79d8cd57f4090f79b9ac81bd0f8e52ed4011"
+      },
+      "sha256": "949de74f40cb6c661c3e0d665b19fb9133967f78dbecb1296d40a9076761479e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pretix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

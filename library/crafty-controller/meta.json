@@ -1,0 +1,40 @@
+{
+  "collection_id": 1037,
+  "schema_version": 1,
+  "id": 1264,
+  "title": "Crafty Controller",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "crafty-controller"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 560,
+      "collection": "Dashboard Icons",
+      "file": "crafty-controller.svg",
+      "id": 2342,
+      "is_default": true,
+      "label": "crafty-controller",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crafty-controller.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c809985ef794384ab5decde99076da6e957ff1aa8743f86e110ba57060d96d50"
+      },
+      "sha256": "15e09db3d1bee9ae97371913fff7b5b36b3d2c94733e5a2a6c2939405f59f6a1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crafty-controller.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2119,
+  "schema_version": 1,
+  "id": 2346,
+  "title": "Peoplefluent",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "peoplefluent"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 566,
+      "collection": "Dashboard Icons",
+      "file": "peoplefluent.svg",
+      "id": 3792,
+      "is_default": true,
+      "label": "peoplefluent",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peoplefluent.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f9c5a2e2f510f45853ceab8a2016271e12a74708f86c5d195b6dcf6fea33c33"
+      },
+      "sha256": "ea996293ab6a79e7309741913e324132124f8b15ea94388368390b255d0417e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peoplefluent.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

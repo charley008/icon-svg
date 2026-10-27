@@ -1,0 +1,63 @@
+{
+  "collection_id": 1211,
+  "schema_version": 1,
+  "id": 1438,
+  "title": "Ersatztv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Video-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "ersatztv",
+    "TV Stream Generator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 578,
+      "collection": "Dashboard Icons",
+      "file": "ersatztv.svg",
+      "id": 2578,
+      "is_default": true,
+      "label": "ersatztv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ersatztv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb006633f68061d47bf163b78c440ea83a3f8f0091e263a52380fca37fa29e7e"
+      },
+      "sha256": "01ed0878be1be632936d5e62a5ca915becd3a0287904051619aa94c0b7f77f38",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ersatztv.svg",
+      "version": 0
+    },
+    {
+      "bytes": 605,
+      "collection": "Dashboard Icons",
+      "file": "ersatztv-1.svg",
+      "id": 2579,
+      "is_default": false,
+      "label": "ersatztv-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ersatztv-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "172ac5e58b81da9999497cf8377c93eb50f329951f3e7a6648012d523fe61496"
+      },
+      "sha256": "0fe787601b4ce5672a7bb5e9f321946566fdc46010b034bbf0efefc8c782774c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ersatztv-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

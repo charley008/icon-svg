@@ -1,0 +1,42 @@
+{
+  "collection_id": 1489,
+  "schema_version": 1,
+  "id": 1716,
+  "title": "Homelabids",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "homelabids"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4953,
+      "collection": "Dashboard Icons",
+      "file": "homelabids.svg",
+      "id": 2950,
+      "is_default": true,
+      "label": "homelabids",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homelabids.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cf7f80594cc46a846cefbb23c4241985a54d97985b2dffa92fd7acf4c6ae62b"
+      },
+      "sha256": "8f7aff7d665ba6c1c49c02126ad5cf11c8aed2cd200a438e27c38643526510f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homelabids.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

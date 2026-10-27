@@ -1,0 +1,59 @@
+{
+  "collection_id": 2118,
+  "schema_version": 1,
+  "id": 2345,
+  "title": "Penpot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "penpot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 716,
+      "collection": "Dashboard Icons",
+      "file": "penpot.svg",
+      "id": 3790,
+      "is_default": true,
+      "label": "penpot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "penpot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b7416e08bb04042cb73dbe98ddfba6790e7f03d1ee85879d24e6d60725593044"
+      },
+      "sha256": "ed3947e26bbc013b3cc1787a989ef492dee974eed53fa28a786df1d8ab73cb60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/penpot.svg",
+      "version": 0
+    },
+    {
+      "bytes": 728,
+      "collection": "Dashboard Icons",
+      "file": "penpot-1.svg",
+      "id": 3791,
+      "is_default": false,
+      "label": "penpot-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "penpot-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c0c81de59957229e96edbfab5ee82cfab1506ff45fc9eeae0bd6565ce2ad6cff"
+      },
+      "sha256": "59a947d1774978083cfd59842d4cf544a9a66ae64d625a298b48d4046f6b6780",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/penpot-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

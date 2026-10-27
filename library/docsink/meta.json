@@ -1,0 +1,40 @@
+{
+  "collection_id": 1131,
+  "schema_version": 1,
+  "id": 1358,
+  "title": "Docsink",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docsink"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 42203,
+      "collection": "Dashboard Icons",
+      "file": "docsink.svg",
+      "id": 2471,
+      "is_default": true,
+      "label": "docsink",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docsink.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7bee337fb4e1cb2295a3aee19da1ee022a999169dd0cbe17c240bb615ff1f6b1"
+      },
+      "sha256": "ba08c8c94c7e19d671d980b365d0e3bb68c1105ed4ebf0184f980fed800e48ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docsink.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

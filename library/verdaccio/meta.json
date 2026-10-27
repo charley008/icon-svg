@@ -1,0 +1,60 @@
+{
+  "collection_id": 2898,
+  "schema_version": 1,
+  "id": 3125,
+  "title": "Verdaccio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "verdaccio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2632,
+      "collection": "Dashboard Icons",
+      "file": "verdaccio.svg",
+      "id": 4814,
+      "is_default": true,
+      "label": "verdaccio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "verdaccio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "10a7402c8dc1d208be79eb137610ecdf25bf8d1b6e7fddbd41eed6d423168da2"
+      },
+      "sha256": "3bfa64503d433aa015ee002f6ae3eecc2381a668bc0336b3fa0c9fc4e3735a60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/verdaccio.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3254,
+      "collection": "Dashboard Icons",
+      "file": "verdaccio-1.svg",
+      "id": 4815,
+      "is_default": false,
+      "label": "verdaccio-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "verdaccio-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68ca008516a4b1803d3b58c3fc1e8302a8712cfca54de6181a1803ca9b2f6b7e"
+      },
+      "sha256": "feae35d3019f8cbd2046b8538f8271d160cf555b8fd33340f6b7c63f10c58800",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/verdaccio-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

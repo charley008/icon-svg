@@ -1,0 +1,44 @@
+{
+  "collection_id": 2561,
+  "schema_version": 1,
+  "id": 2788,
+  "title": "Scrcpy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Hardware"
+  ],
+  "aliases": [
+    "scrcpy",
+    "android-screen-mirroring",
+    "phone-screen-on-pc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10381,
+      "collection": "Dashboard Icons",
+      "file": "scrcpy.svg",
+      "id": 4381,
+      "is_default": true,
+      "label": "scrcpy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scrcpy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "34f4cfdde3316cb2db47fd850af9b54b189475450c62beac3d367b3a24872fd9"
+      },
+      "sha256": "058f27a01d9701b3d1106b399363e740312ca0a51a51d3c911a28cb0e15176ab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scrcpy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

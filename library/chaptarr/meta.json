@@ -1,0 +1,41 @@
+{
+  "collection_id": 952,
+  "schema_version": 1,
+  "id": 1179,
+  "title": "Chaptarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "chaptarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 155537,
+      "collection": "Dashboard Icons",
+      "file": "chaptarr.svg",
+      "id": 2230,
+      "is_default": true,
+      "label": "chaptarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chaptarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "44ce48d63fa110d9ee3d356e72f2d3014f96c25eba950bf41f164ee088454fb8"
+      },
+      "sha256": "14d793ba2af57e1967c5dc9016f3b96b34c3420457284945a02bca8df1bfd64b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chaptarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

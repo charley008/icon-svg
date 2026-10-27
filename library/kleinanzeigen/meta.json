@@ -1,0 +1,42 @@
+{
+  "collection_id": 1642,
+  "schema_version": 1,
+  "id": 1869,
+  "title": "Kleinanzeigen",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "kleinanzeigen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1396,
+      "collection": "Dashboard Icons",
+      "file": "kleinanzeigen.svg",
+      "id": 3141,
+      "is_default": true,
+      "label": "kleinanzeigen",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kleinanzeigen.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "58ea40621d08cad2c1a0839dce5b8035f0f750e2d319ab41d19470092ef2f2c0"
+      },
+      "sha256": "9b9ae862b7d4b89358deea355b48c71e5be97d86f5e8e3917f2225b315275f50",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kleinanzeigen.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

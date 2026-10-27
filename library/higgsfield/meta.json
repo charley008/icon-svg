@@ -1,0 +1,78 @@
+{
+  "collection_id": 1479,
+  "schema_version": 1,
+  "id": 1706,
+  "title": "Higgsfield",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "higgsfield"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1880,
+      "collection": "Dashboard Icons",
+      "file": "higgsfield.svg",
+      "id": 2935,
+      "is_default": true,
+      "label": "higgsfield",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "higgsfield.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bf517e23e7e51343f3df3428ea01826b38698a860f3527206b5db0afdc7d8c5e"
+      },
+      "sha256": "9df85e33ea588fcdb0603da71b45b5df5a550abd849b6c5c7dae6256a924ddd5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/higgsfield.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1678,
+      "collection": "Dashboard Icons",
+      "file": "higgsfield-1.svg",
+      "id": 2936,
+      "is_default": false,
+      "label": "higgsfield-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "higgsfield-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "389adcd31574387282f705f79ba5e774353ec30ff437e7fb61b01201db724324"
+      },
+      "sha256": "f3fe9427028ddc3ecd029f047c4d6c07e6a438616be828522f5267b24f2832a3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/higgsfield-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1678,
+      "collection": "Dashboard Icons",
+      "file": "higgsfield-2.svg",
+      "id": 2937,
+      "is_default": false,
+      "label": "higgsfield-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "higgsfield-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a33c568df4e114fc280b7ba152b4cf193bfa2277f47010e2c70ba7fac3666974"
+      },
+      "sha256": "316cf837438180dfd940b41bbdff6f38fb4aa25f94ccd3685821ce1ba02f9443",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/higgsfield-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

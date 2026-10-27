@@ -1,0 +1,59 @@
+{
+  "collection_id": 1905,
+  "schema_version": 1,
+  "id": 2132,
+  "title": "Netgear",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netgear"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1706,
+      "collection": "Dashboard Icons",
+      "file": "netgear.svg",
+      "id": 3494,
+      "is_default": true,
+      "label": "netgear",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netgear.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "96006af8c79cc0f49eb50f354a119d890838b7370e431482fa9eb2c981647228"
+      },
+      "sha256": "716e9ef7353bd20d074f6a90311e1ac41e23f687848bef3d3aa73c1318a11537",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netgear.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1790,
+      "collection": "Dashboard Icons",
+      "file": "netgear-1.svg",
+      "id": 3495,
+      "is_default": false,
+      "label": "netgear-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netgear-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9e5881be64afe524f9b7eba48712ea200fe8a067dbe9057709a8675ee04cef7c"
+      },
+      "sha256": "ae9dca51eac1757791f27042ec95c8cb7012bff9b10cdac5d7b90e5d283f6871",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netgear-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

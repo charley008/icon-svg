@@ -1,0 +1,40 @@
+{
+  "collection_id": 1585,
+  "schema_version": 1,
+  "id": 1812,
+  "title": "Jellyseerr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jellyseerr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5919,
+      "collection": "Dashboard Icons",
+      "file": "jellyseerr.svg",
+      "id": 3072,
+      "is_default": true,
+      "label": "jellyseerr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jellyseerr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "536b303e73d5e67d52af58583357acd80cc65050d5114ad2fbf5f38414ee1c3a"
+      },
+      "sha256": "0abe57b2a98b29436d2c18027e6b7397ffc257462a82a3b8c6a0c8c9bd12d5db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jellyseerr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2811,
+  "schema_version": 1,
+  "id": 3038,
+  "title": "Toggl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "toggl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1597,
+      "collection": "Dashboard Icons",
+      "file": "toggl.svg",
+      "id": 4699,
+      "is_default": true,
+      "label": "toggl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toggl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c9ba3ce526472e590927f38a3e005637026e5bdfe40c955558813cf000be299a"
+      },
+      "sha256": "d59c2b3966192d594c3509a3334a81ad18eac6f2217f7252c32b49a4304b73d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toggl.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1597,
+      "collection": "Dashboard Icons",
+      "file": "toggl-1.svg",
+      "id": 4700,
+      "is_default": false,
+      "label": "toggl-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toggl-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8174388d5d12c9ee57ca09cd15288acac33993b44877d3111b6dc571f9746c63"
+      },
+      "sha256": "5788e4794bacb60c0df1ae822c9a37cef91d07d7b1d2ef119bb0c6174088515b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toggl-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

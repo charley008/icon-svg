@@ -1,0 +1,64 @@
+{
+  "collection_id": 2195,
+  "schema_version": 1,
+  "id": 2422,
+  "title": "Posthog",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Monitoring-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "posthog",
+    "product-analytics-tool",
+    "user-analytics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1985,
+      "collection": "Dashboard Icons",
+      "file": "posthog.svg",
+      "id": 3906,
+      "is_default": true,
+      "label": "posthog",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "posthog.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4ebb5e6b53b37491a7898177d6f520223c4cc893a8ff0625c70394bccc6cdf6"
+      },
+      "sha256": "9f0fc62bf9dcab21b6b8e0369ffd2c77b49c3009e8d28a603af95e3cae1eff3b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/posthog.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2021,
+      "collection": "Dashboard Icons",
+      "file": "posthog-1.svg",
+      "id": 3907,
+      "is_default": false,
+      "label": "posthog-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "posthog-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1b554c57342ff187c96b832eb1b5d6406140193de21e139177aeb3a073066752"
+      },
+      "sha256": "e68940d2da454fbdf2fefb908136a6dbe9792a35f269b4395a2d789f93a76a99",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/posthog-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

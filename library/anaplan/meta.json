@@ -1,0 +1,40 @@
+{
+  "collection_id": 705,
+  "schema_version": 1,
+  "id": 932,
+  "title": "Anaplan",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "anaplan"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 272,
+      "collection": "Dashboard Icons",
+      "file": "anaplan.svg",
+      "id": 1903,
+      "is_default": true,
+      "label": "anaplan",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anaplan.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e53bbff548f5aa6ea27bf14c5ce96034240451ad9af957ff0a6c738b60f4fffc"
+      },
+      "sha256": "ce9cff0bb2da519d0f761d912329f195e9d93e2b2d5c3e880e7c821605b3f312",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anaplan.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

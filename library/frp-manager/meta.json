@@ -1,0 +1,40 @@
+{
+  "collection_id": 1345,
+  "schema_version": 1,
+  "id": 1572,
+  "title": "Frp Manager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "frp-manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 592,
+      "collection": "Dashboard Icons",
+      "file": "frp-manager.svg",
+      "id": 2741,
+      "is_default": true,
+      "label": "frp-manager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "frp-manager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d57731831a71fac4ff5eb2be5c11126beb21db967b13120909d3a7aef3e7ae4e"
+      },
+      "sha256": "fe0146e97b18ad2a34d6d3a4db2e987bf3eccc8daa9cde8dd1c56d03a7c6f6d1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/frp-manager.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

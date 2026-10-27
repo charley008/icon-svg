@@ -1,0 +1,40 @@
+{
+  "collection_id": 1272,
+  "schema_version": 1,
+  "id": 1499,
+  "title": "Findroid",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "findroid"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 40313,
+      "collection": "Dashboard Icons",
+      "file": "findroid.svg",
+      "id": 2656,
+      "is_default": true,
+      "label": "findroid",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "findroid.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7af4486825a1d85a892c442b00b1399c47d2a72ed5c89dd8d98bd0f2f434dc39"
+      },
+      "sha256": "732bc0be286fa7d7730f73cb9b4920903fa19cb4853df7c5f32f4e6fc3abef6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/findroid.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

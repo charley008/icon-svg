@@ -1,0 +1,40 @@
+{
+  "collection_id": 1570,
+  "schema_version": 1,
+  "id": 1797,
+  "title": "Itop",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "itop"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2404,
+      "collection": "Dashboard Icons",
+      "file": "itop.svg",
+      "id": 3055,
+      "is_default": true,
+      "label": "itop",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "itop.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a7a9e082599079040681122d25abe7a9d0c39fc0c8b738eb05bd9bee0622d00"
+      },
+      "sha256": "2f7159f0473e97115e7d173683f9acb9558e7ebc75d63ba8e95bdc55cdafd364",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/itop.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

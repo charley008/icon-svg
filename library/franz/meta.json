@@ -1,0 +1,40 @@
+{
+  "collection_id": 1321,
+  "schema_version": 1,
+  "id": 1548,
+  "title": "Franz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "franz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2987,
+      "collection": "Dashboard Icons",
+      "file": "franz.svg",
+      "id": 2713,
+      "is_default": true,
+      "label": "franz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "franz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e5375005468e1c98758666febba29c4070278fd9f03c2f95a78f3d5bb0da0918"
+      },
+      "sha256": "304d722f86cb5cdab724f605d2210628b9bbe119762a18f7d9d283e44f855b4d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/franz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

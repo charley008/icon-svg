@@ -1,0 +1,40 @@
+{
+  "collection_id": 1792,
+  "schema_version": 1,
+  "id": 2019,
+  "title": "Mbin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mbin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1383,
+      "collection": "Dashboard Icons",
+      "file": "mbin.svg",
+      "id": 3331,
+      "is_default": true,
+      "label": "mbin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mbin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d0e7781b804b373ea602554345c7e1fb4ab23d7ab724b67e7b865bed1c85626"
+      },
+      "sha256": "bdbe9105ae264d5f92bfc37d42567883e8fe1f91e7687e231c0da9b5ef05931b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mbin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

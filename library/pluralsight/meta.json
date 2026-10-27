@@ -1,0 +1,43 @@
+{
+  "collection_id": 2170,
+  "schema_version": 1,
+  "id": 2397,
+  "title": "Pluralsight",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "pluralsight",
+    "Learning Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1343,
+      "collection": "Dashboard Icons",
+      "file": "pluralsight.svg",
+      "id": 3868,
+      "is_default": true,
+      "label": "pluralsight",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pluralsight.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7751cd3fb1e344c9ef8b4022ad271219d25150a0be22a3a1d5334881a8b512af"
+      },
+      "sha256": "4635deef3c22b41922d3b6b27873a797e536e099219b9ea6e431b2c1a96b33e8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pluralsight.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 743,
+  "schema_version": 1,
+  "id": 970,
+  "title": "Ara Records Ansible",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ara-records-ansible"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2501,
+      "collection": "Dashboard Icons",
+      "file": "ara-records-ansible.svg",
+      "id": 1958,
+      "is_default": true,
+      "label": "ara-records-ansible",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ara-records-ansible.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e13d4e5f36562089be27f96e3b026936b52fe6148a61e0a171df5a919b798f9"
+      },
+      "sha256": "679c1197c9f3be987fe584b75407f2a30ffacbba182c30be0db9ded98eb8d674",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ara-records-ansible.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 3052,
+  "schema_version": 1,
+  "id": 3279,
+  "title": "Zigbee2Mqtt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zigbee2mqtt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9884,
+      "collection": "Dashboard Icons",
+      "file": "zigbee2mqtt.svg",
+      "id": 5015,
+      "is_default": true,
+      "label": "zigbee2mqtt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zigbee2mqtt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "568295262e4c1abaaf0a2d29f6b0ccc5228ec62a07e8ee6aca88799048a0b45b"
+      },
+      "sha256": "50925f7b769b22f7788b84d21a173de2a9097db6f21b75e505a159d642c5e0a1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zigbee2mqtt.svg",
+      "version": 0
+    },
+    {
+      "bytes": 10145,
+      "collection": "Dashboard Icons",
+      "file": "zigbee2mqtt-1.svg",
+      "id": 5016,
+      "is_default": false,
+      "label": "zigbee2mqtt-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zigbee2mqtt-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45b9581ed991b5959b849bb5240b1e46c084fbfca390805b8ffef04375d3f99a"
+      },
+      "sha256": "ed7798173738000ca2b33bba33b9f67336c35ab65a2dea4d446ea27c9abe9e95",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zigbee2mqtt-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

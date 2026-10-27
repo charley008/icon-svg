@@ -1,0 +1,59 @@
+{
+  "collection_id": 2566,
+  "schema_version": 1,
+  "id": 2793,
+  "title": "Scrutiny",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "scrutiny"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2680,
+      "collection": "Dashboard Icons",
+      "file": "scrutiny.svg",
+      "id": 4386,
+      "is_default": true,
+      "label": "scrutiny",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scrutiny.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e3900633b3599fbed056ace4ad4208014ba8b5981756ac688b13ef93368c8d3"
+      },
+      "sha256": "eacb9817559889c30dc9b989f0de54748930080e8b6e2182b8332d556a42c31c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scrutiny.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2692,
+      "collection": "Dashboard Icons",
+      "file": "scrutiny-1.svg",
+      "id": 4387,
+      "is_default": false,
+      "label": "scrutiny-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scrutiny-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd30df17e42e7a0ad280eb213c24f8da7e0df63ebd545974f32c790ac96cb46f"
+      },
+      "sha256": "1cc45d9b6d7919c6e194de40b83e105200c5816e59ccfb2c0d3012c5e1e3a222",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scrutiny-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

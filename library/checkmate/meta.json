@@ -1,0 +1,40 @@
+{
+  "collection_id": 960,
+  "schema_version": 1,
+  "id": 1187,
+  "title": "Checkmate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "checkmate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 29993,
+      "collection": "Dashboard Icons",
+      "file": "checkmate.svg",
+      "id": 2240,
+      "is_default": true,
+      "label": "checkmate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "checkmate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da49714a0b292f23554fc15e263b83124ebb03620182d4e8778ce02c54fefb32"
+      },
+      "sha256": "3d8db3461824b3938787e123cd15dc7be29945813437ca7f1f2c6f69b707bbbb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/checkmate.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

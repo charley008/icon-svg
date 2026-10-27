@@ -1,0 +1,43 @@
+{
+  "collection_id": 918,
+  "schema_version": 1,
+  "id": 1145,
+  "title": "Bunny",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Animal"
+  ],
+  "aliases": [
+    "bunny",
+    "bunny-net",
+    "bunny-cdn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6124,
+      "collection": "Dashboard Icons",
+      "file": "bunny.svg",
+      "id": 2186,
+      "is_default": true,
+      "label": "bunny",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bunny.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd045d15162d3f6469fcc72aebfd53ffabb85d48e36e0ba54bafb16ab2da8c33"
+      },
+      "sha256": "05a7ef25df055489419e667295e02d5a913d48b14d82d6d3d4dd4210c6298504",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bunny.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

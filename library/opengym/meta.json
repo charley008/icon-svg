@@ -1,0 +1,40 @@
+{
+  "collection_id": 2035,
+  "schema_version": 1,
+  "id": 2262,
+  "title": "Opengym",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "opengym"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 535,
+      "collection": "Dashboard Icons",
+      "file": "opengym.svg",
+      "id": 3678,
+      "is_default": true,
+      "label": "opengym",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opengym.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d8b0ac94dfa16cb3041dfe433e5bc1219db39a689b83d2b90ad028471eb048b"
+      },
+      "sha256": "ef9dae6d1c417ceeb5845e8ebf73d629943beb6b94a9bbb097fcd9a91ea5e7e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opengym.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

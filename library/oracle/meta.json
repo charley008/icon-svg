@@ -54,12 +54,54 @@
       "sha256": "42224f21dbd78532b5c0987cf05ec6b1d854ebf6328b0beca549a185e6c0b9fd",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/oracle-2.svg",
       "version": 1
+    },
+    {
+      "bytes": 206,
+      "collection": "Dashboard Icons",
+      "file": "oracle-2.svg",
+      "id": 3703,
+      "is_default": false,
+      "label": "oracle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oracle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5643dc19834575e072fee8d691d240adc667b1fd1509be86d6712373155fb3c0"
+      },
+      "sha256": "a9884fb627c1455a5d5348253e896cc55ffd9b455e512128698844c2ada812da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oracle.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1284,
+      "collection": "TechIcons / Devicon",
+      "file": "oracle-3.svg",
+      "id": 5303,
+      "is_default": false,
+      "label": "TechIcons · Oracle",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Oracle.svg",
+        "original_sha256": "6afd3872d2ecb9a619fc10048b6a18bc3b948dfd7c97d1a694af26c6a7153cbf",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/oracle",
+        "reference_website": "https://www.oracle.com"
+      },
+      "sha256": "f768586ac63767cc5c5a07e511f352c6de63ecd11f6f89981ed08b1c9d8b0e08",
+      "source": "https://techicons.dev/icons/oracle",
+      "version": 3
     }
   ],
-  "next_version": 2,
+  "next_version": 4,
   "products": [
     {
       "id": 650,
+      "redirect_from": [
+        1806
+      ],
       "key": "java",
       "title": "Java",
       "url": "https://www.oracle.com/java/",
@@ -78,7 +120,8 @@
       ],
       "aliases": [
         "java",
-        "Java SE"
+        "Java SE",
+        "Java"
       ],
       "notes": [],
       "icons": [
@@ -98,11 +141,52 @@
           "sha256": "bdec643f1d525a6e60536784bb13d7b659d398a56dd9fcf94db9a289f5b08346",
           "source": "https://icon.4738.org/icons/HD-Icons/svg/java-3.svg",
           "version": 0
+        },
+        {
+          "bytes": 3208,
+          "collection": "Dashboard Icons",
+          "file": "oracle-java-1.svg",
+          "id": 3065,
+          "is_default": false,
+          "label": "Java",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "java.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "de7fcfb88f7deb2761f6dd8f8625f8ff2aafdb637cfb48707b029e62a22dcbad"
+          },
+          "sha256": "4634487febd5897840e9e711cb7536f3253a81295dcde51679ef6e473382058c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/java.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1584,
+          "collection": "TechIcons / Devicon",
+          "file": "oracle-java-2.svg",
+          "id": 5304,
+          "is_default": false,
+          "label": "TechIcons · Java",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Java.svg",
+            "original_sha256": "7582e518a9c02425f97155e5a3bd39d1a3a7d421b78caf9c8df7443dad3edc5d",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/java",
+            "reference_website": "https://www.java.com"
+          },
+          "sha256": "954c8ad46a1806231091b0d049d0f3d892b8af24d073018a9cb6cb1d9609a68f",
+          "source": "https://techicons.dev/icons/java",
+          "version": 2
         }
       ],
-      "next_version": 1
+      "next_version": 3
     },
     {
+      "id": 805,
+      "key": "mysql",
       "title": "MySQL",
       "url": "https://www.mysql.com/",
       "domains": [
@@ -125,24 +209,88 @@
       "notes": [],
       "icons": [
         {
-          "file": "oracle-mysql.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "0ea79a37711ab5450b20e99800366cd224f6abd5715af07e1bf97914d45a85d5",
           "bytes": 5566,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mysql.svg",
+          "collection": "Dashboard Icons",
+          "file": "oracle-mysql.svg",
+          "id": 1762,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "mysql.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "0ea79a37711ab5450b20e99800366cd224f6abd5715af07e1bf97914d45a85d5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mysql.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2853,
+          "collection": "TechIcons / Devicon",
+          "file": "oracle-mysql-1.svg",
+          "id": 5305,
+          "is_default": false,
+          "label": "TechIcons · MySQL",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "MySQL.svg",
+            "original_sha256": "cdb91ed6eee37f512b9ad45a37f5cb007974fe96d411424eb5b327238a543376",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/mysql",
+            "reference_website": "https://www.mysql.com"
+          },
+          "sha256": "6b2a8ee53567847f361f5ea8905174d204720f4e1586fb861e83a94fc99daedf",
+          "source": "https://techicons.dev/icons/mysql",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "mysql"
+      "next_version": 2
+    },
+    {
+      "id": 3460,
+      "key": "sql-developer",
+      "title": "SQL Developer",
+      "url": "https://www.oracle.com/ca-en/database/sqldeveloper",
+      "domains": [
+        "oracle.com"
+      ],
+      "description": "Oracle 的数据库开发与查询工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "SQL Developer",
+        "sqldeveloper",
+        "SQL-Developer"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1464,
+          "collection": "TechIcons / Devicon",
+          "file": "oracle-sql-developer-1.svg",
+          "id": 5306,
+          "is_default": true,
+          "label": "TechIcons · SQL Developer",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "SQL-Developer.svg",
+            "original_sha256": "4fbbe2f938336b3eae0cee7a7b97e7aae731d4e9f08faca27d94b06df3d85db5",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/sqldeveloper",
+            "reference_website": "https://www.oracle.com/ca-en/database/sqldeveloper"
+          },
+          "sha256": "ec0cfd6789aaa55c08831ead1c1489f75aeab608546f34b280c04c279826de2a",
+          "source": "https://techicons.dev/icons/sqldeveloper",
+          "version": 1
+        }
+      ],
+      "next_version": 2
     }
   ]
 }

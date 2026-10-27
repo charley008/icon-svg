@@ -2,6 +2,9 @@
   "collection_id": 228,
   "schema_version": 1,
   "id": 327,
+  "redirect_from": [
+    1861
+  ],
   "title": "Kimi",
   "url": "https://kimi.com",
   "domains": [
@@ -22,7 +25,9 @@
   ],
   "aliases": [
     "kimi",
-    "moonshot"
+    "moonshot",
+    "kimi-ai",
+    "Kimi Ai"
   ],
   "notes": [
     "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
@@ -131,8 +136,27 @@
       "sha256": "e4d9956fa01f4e1079021e0c6a26b23f271160fb63b86bdae486b2838c3c43dc",
       "source": "https://moonshotai.github.io/Branding-Guide/scenarios/04-k-only/k-only-dark.svg",
       "version": 4
+    },
+    {
+      "bytes": 1846,
+      "collection": "Dashboard Icons",
+      "file": "kimi-5.svg",
+      "id": 3132,
+      "is_default": false,
+      "label": "Kimi Ai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kimi-ai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a26f8d749af72e0b6fc04ecaa186978e7349c6867e2d0b94222eee2caf95b710"
+      },
+      "sha256": "4351011a8ca172bb21bacc813ab062ac4b360bacd00ae0e1fc564313a478823a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kimi-ai.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

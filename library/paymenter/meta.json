@@ -1,0 +1,42 @@
+{
+  "collection_id": 2107,
+  "schema_version": 1,
+  "id": 2334,
+  "title": "Paymenter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "paymenter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1459,
+      "collection": "Dashboard Icons",
+      "file": "paymenter.svg",
+      "id": 3776,
+      "is_default": true,
+      "label": "paymenter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paymenter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9a35f06d47db4e4f7ec5151e153054a6c15969f6dcdcc2b1f5bb8c48ae5a193e"
+      },
+      "sha256": "81844f9cadb5ca4c221da32c1140a042c9286213f4470065e2450b955cf80531",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paymenter.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

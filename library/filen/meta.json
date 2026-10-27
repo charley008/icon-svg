@@ -1,0 +1,59 @@
+{
+  "collection_id": 1264,
+  "schema_version": 1,
+  "id": 1491,
+  "title": "Filen",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "filen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1728,
+      "collection": "Dashboard Icons",
+      "file": "filen.svg",
+      "id": 2647,
+      "is_default": true,
+      "label": "filen",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filen.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "01546b8fa5061810d1e686d6fcb4d1dd6933fdf26fe93f5d06c525ed33d7fd59"
+      },
+      "sha256": "e8f2283af84859935a6a494124433e9b219b862f698894ab0461ba7b67b4dff4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filen.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1743,
+      "collection": "Dashboard Icons",
+      "file": "filen-1.svg",
+      "id": 2648,
+      "is_default": false,
+      "label": "filen-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filen-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3640efe0963de56472f09fd2ba03c809b10ec482310a3e79ceeceb9c8296e9d1"
+      },
+      "sha256": "20dafca7bc6e2e099e1931df83030927ceabd267e6e0679969bcfffde71cc0cc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filen-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

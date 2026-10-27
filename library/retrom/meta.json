@@ -1,0 +1,43 @@
+{
+  "collection_id": 2502,
+  "schema_version": 1,
+  "id": 2729,
+  "title": "Retrom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming-Platforms",
+    "游戏"
+  ],
+  "aliases": [
+    "retrom",
+    "Game Launcher"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3174,
+      "collection": "Dashboard Icons",
+      "file": "retrom.svg",
+      "id": 4303,
+      "is_default": true,
+      "label": "retrom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "retrom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "620952e8bcfa8b05b06721da4aee2b738514a50098e7b7ae99755820ba17f782"
+      },
+      "sha256": "aa347a528c4b8275942f24bd45a71ff567a77fd27c57facf4c552958b970142c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/retrom.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

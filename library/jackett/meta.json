@@ -1,0 +1,59 @@
+{
+  "collection_id": 1574,
+  "schema_version": 1,
+  "id": 1801,
+  "title": "Jackett",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jackett"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 768,
+      "collection": "Dashboard Icons",
+      "file": "jackett.svg",
+      "id": 3059,
+      "is_default": true,
+      "label": "jackett",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jackett.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b4309c99a98151458d3a83af89770904bac693e1950ba5c4bff438e557c08eb8"
+      },
+      "sha256": "1cf177fdf10051e2555cd1e60f75ebc882dc2fcc3b44b4bee5668dfaf21f4df9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jackett.svg",
+      "version": 0
+    },
+    {
+      "bytes": 787,
+      "collection": "Dashboard Icons",
+      "file": "jackett-1.svg",
+      "id": 3060,
+      "is_default": false,
+      "label": "jackett-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jackett-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d97c61828c015f86e79c8eac1fcc5a514193349a3b73bb35d931c2edbc49825"
+      },
+      "sha256": "c420643a0be10c3222af74431405dbe473e38e54045441a68255705fe4d64914",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jackett-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

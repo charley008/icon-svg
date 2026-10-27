@@ -1,0 +1,40 @@
+{
+  "collection_id": 2488,
+  "schema_version": 1,
+  "id": 2715,
+  "title": "Release Argus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "release-argus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1316,
+      "collection": "Dashboard Icons",
+      "file": "release-argus.svg",
+      "id": 4287,
+      "is_default": true,
+      "label": "release-argus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "release-argus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b0044bcd922737ccae7e3366837206b4b341b996f73758bd531b7af1437cdd3b"
+      },
+      "sha256": "55865817a46fb7755c176625ee05d2c7a5e60a17165472f1fcb54d30c4ef82e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/release-argus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

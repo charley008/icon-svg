@@ -1,0 +1,45 @@
+{
+  "collection_id": 3160,
+  "schema_version": 1,
+  "id": 3417,
+  "title": "Krakenjs",
+  "url": "https://krakenjs.com",
+  "domains": [
+    "krakenjs.com"
+  ],
+  "description": "用于组织 Node.js Web 应用的开发工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Krakenjs",
+    "krakenjs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5638,
+      "collection": "TechIcons / Devicon",
+      "file": "krakenjs-1.svg",
+      "id": 5243,
+      "is_default": true,
+      "label": "TechIcons · Krakenjs",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Krakenjs.svg",
+        "original_sha256": "d417654a0f702fec83d91382cce643b4b8a44dcc5f7a387f56a00e44d446c460",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/krakenjs",
+        "reference_website": "https://krakenjs.com"
+      },
+      "sha256": "efba3f2656c46a56d52cbb5989ffa9860b00b590ff24b26799a1897c57657d56",
+      "source": "https://techicons.dev/icons/krakenjs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

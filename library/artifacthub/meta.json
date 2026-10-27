@@ -1,0 +1,40 @@
+{
+  "collection_id": 755,
+  "schema_version": 1,
+  "id": 982,
+  "title": "Artifacthub",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "artifacthub"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1705,
+      "collection": "Dashboard Icons",
+      "file": "artifacthub.svg",
+      "id": 1973,
+      "is_default": true,
+      "label": "artifacthub",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "artifacthub.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8724f2e43f38e8d00df0b664bfbd10c3109f629217037a34d0eeccd3430301b2"
+      },
+      "sha256": "d2a4a67e8f222da318ca68fe0333dacfdeeaf76696cea1f5aa6af4227aedad18",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/artifacthub.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

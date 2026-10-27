@@ -1,0 +1,98 @@
+{
+  "collection_id": 2197,
+  "schema_version": 1,
+  "id": 2424,
+  "title": "Postman",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "postman"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1423,
+      "collection": "Dashboard Icons",
+      "file": "postman.svg",
+      "id": 3910,
+      "is_default": true,
+      "label": "postman",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postman.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8bed37bf5736bff8d359e56af6db5940e50acc218129378b6d372717dd56e805"
+      },
+      "sha256": "4a106900a940ee2a8fb2ff287482fa25c625e693ec8a76ac223c6d40785cbeab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postman.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1423,
+      "collection": "Dashboard Icons",
+      "file": "postman-1.svg",
+      "id": 3911,
+      "is_default": false,
+      "label": "postman-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postman-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be20234e39037f2502f177296e398613d2a6ef032943d7309823ed548c2bbfa5"
+      },
+      "sha256": "6d6cc64e8971e43420f43ad627e4615bdaf4732e245a246bdedac59bdeca1dee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postman-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1423,
+      "collection": "Dashboard Icons",
+      "file": "postman-2.svg",
+      "id": 3912,
+      "is_default": false,
+      "label": "postman-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postman-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "21268b5d8a35a2435468861c44db79a1ec7dff047efe6bad5092a6247bdbb2a3"
+      },
+      "sha256": "2e8bedfab05d24559a6fc6d8c0ec7e91457115b6f03cbe49f1ed89a99f82b0c4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postman-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 3770,
+      "collection": "TechIcons / Devicon",
+      "file": "postman-3.svg",
+      "id": 5320,
+      "is_default": false,
+      "label": "TechIcons · Postman",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Postman.svg",
+        "original_sha256": "0b366c7a023328b0d95e8c90d9050519b8c31d206f8b34db17742488f72efccb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/postman",
+        "reference_website": "https://www.postman.com"
+      },
+      "sha256": "79472ca67fe0b11cd27453bd5475611dbfbdbdc96f57728e4c734038b2367646",
+      "source": "https://techicons.dev/icons/postman",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

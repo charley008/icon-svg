@@ -1,0 +1,40 @@
+{
+  "collection_id": 686,
+  "schema_version": 1,
+  "id": 913,
+  "title": "Alacritty",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "alacritty"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 295,
+      "collection": "Dashboard Icons",
+      "file": "alacritty.svg",
+      "id": 1877,
+      "is_default": true,
+      "label": "alacritty",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alacritty.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bf2d1527c3d90483cbf65bb6fe3174244648b2423d165b154fa882a0bf4422ee"
+      },
+      "sha256": "86929b3f2558fd4ee5d481926ae20e3e64175fdcc5e195b0305cd59a14904366",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alacritty.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

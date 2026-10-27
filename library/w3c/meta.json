@@ -1,0 +1,40 @@
+{
+  "collection_id": 2943,
+  "schema_version": 1,
+  "id": 3170,
+  "title": "W3C",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "w3c"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 41595,
+      "collection": "Dashboard Icons",
+      "file": "w3c.svg",
+      "id": 4871,
+      "is_default": true,
+      "label": "w3c",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "w3c.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bc2da28d08f527271382031e29eb810d8207bb1b1fdc214ace0d8d42602c5158"
+      },
+      "sha256": "4b36005847375076a0337c02a232924d894ed992f66133e192308d617e5c27ec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/w3c.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -153,8 +153,27 @@
       "sha256": "f321245665e3874d0e397258682f5b0f1a83f14285086a9d75222ba641f185aa",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#steam-fill",
       "version": 5
+    },
+    {
+      "bytes": 1586,
+      "collection": "Dashboard Icons",
+      "file": "steam-6.svg",
+      "id": 4558,
+      "is_default": false,
+      "label": "steam",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "steam.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a700d94f7bc87df540938c9f0d8733ec27e9b76610b34073e5c7f43fd61ca402"
+      },
+      "sha256": "193f1cfe26c1c804c87503de0cb46fffe10ee9bfec3763a19bd2b4efa623486f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/steam.svg",
+      "version": 6
     }
   ],
-  "next_version": 6,
+  "next_version": 7,
   "products": []
 }

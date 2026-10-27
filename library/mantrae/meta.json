@@ -1,0 +1,80 @@
+{
+  "collection_id": 1774,
+  "schema_version": 1,
+  "id": 2001,
+  "title": "Mantrae",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "mantrae"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4519,
+      "collection": "Dashboard Icons",
+      "file": "mantrae.svg",
+      "id": 3308,
+      "is_default": true,
+      "label": "mantrae",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mantrae.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fea4d09dd48fd6407681495117216cd25b4e705dafab224d65a64ce9308e2607"
+      },
+      "sha256": "dce4ff85c48503d7520470b38e37e31dd526934839179fb1bb6ae32641ed33cc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mantrae.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4283,
+      "collection": "Dashboard Icons",
+      "file": "mantrae-1.svg",
+      "id": 3309,
+      "is_default": false,
+      "label": "mantrae-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mantrae-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c129207216c828c96c8e083549164e53ba0df44d8d0cc95be4e462acd5f2f9c3"
+      },
+      "sha256": "17c380888a1be955a1e1e393f6f67b43fa8acdab18b742023cfbe80d191c0872",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mantrae-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4306,
+      "collection": "Dashboard Icons",
+      "file": "mantrae-2.svg",
+      "id": 3310,
+      "is_default": false,
+      "label": "mantrae-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mantrae-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bafc02364248969bbb8bfe03d948b72b4b927fbba06ce9234cb8d80e3831295b"
+      },
+      "sha256": "9d2ad80c3114127465b236da79cf9f1519ff299bc1ef71669222bf3260f52215",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mantrae-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

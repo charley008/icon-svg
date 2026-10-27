@@ -1,0 +1,40 @@
+{
+  "collection_id": 2833,
+  "schema_version": 1,
+  "id": 3060,
+  "title": "Trala",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "trala"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 28224,
+      "collection": "Dashboard Icons",
+      "file": "trala.svg",
+      "id": 4726,
+      "is_default": true,
+      "label": "trala",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trala.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fd52081b91f95600e619008beaf7f11b3611c5179bff4fe6ee1ff0132ed414da"
+      },
+      "sha256": "0adbae1512455b44473a57548354029b5047e0f4034ad3939ae23ddc3b659eff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trala.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

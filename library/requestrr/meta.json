@@ -1,0 +1,44 @@
+{
+  "collection_id": 2498,
+  "schema_version": 1,
+  "id": 2725,
+  "title": "Requestrr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "requestrr",
+    "plex-requests",
+    "jellyfin-requests"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1862,
+      "collection": "Dashboard Icons",
+      "file": "requestrr.svg",
+      "id": 4298,
+      "is_default": true,
+      "label": "requestrr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "requestrr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ff4e965c47e5ace63ea25b5881e5fec7fa308e7a7846442104ebe9eff4bfcc24"
+      },
+      "sha256": "8ae5db95c868af1ae200004b6a4f0af66997733c4d876d71b079fe7c0bb03293",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/requestrr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

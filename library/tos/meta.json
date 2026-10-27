@@ -1,0 +1,40 @@
+{
+  "collection_id": 2819,
+  "schema_version": 1,
+  "id": 3046,
+  "title": "Tos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 610,
+      "collection": "Dashboard Icons",
+      "file": "tos.svg",
+      "id": 4710,
+      "is_default": true,
+      "label": "tos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "22a552d4737fbe668ad7552582ca2bbb38587d4d18d630cd0000ecfacb8d0e90"
+      },
+      "sha256": "8067382938f2348f41632d83c65cfe0177306f56de4e948659dd6f8baabfdee2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

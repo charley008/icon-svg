@@ -1,0 +1,40 @@
+{
+  "collection_id": 2863,
+  "schema_version": 1,
+  "id": 3090,
+  "title": "Typo3",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "typo3"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 636,
+      "collection": "Dashboard Icons",
+      "file": "typo3.svg",
+      "id": 4765,
+      "is_default": true,
+      "label": "typo3",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "typo3.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "176af0c3bdd276cc8f764fb7cca2c9ef8987311fbef68cc460d917f6700b0cfc"
+      },
+      "sha256": "adfaf41a05b0aa3ba2306a4fd2fa6705792dcce25de41f3616ccc49ce0481b7b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/typo3.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

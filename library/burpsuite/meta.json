@@ -1,0 +1,40 @@
+{
+  "collection_id": 919,
+  "schema_version": 1,
+  "id": 1146,
+  "title": "Burpsuite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "burpsuite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 483,
+      "collection": "Dashboard Icons",
+      "file": "burpsuite.svg",
+      "id": 2187,
+      "is_default": true,
+      "label": "burpsuite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "burpsuite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb0b7187d530c91d304b81649ef2049d5d930038c503ce3ae9de2b1503406737"
+      },
+      "sha256": "57954a8795de175c5836bfe029d3bd5ae8c7fda3951ea6971809ff74a6ab2ff9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/burpsuite.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

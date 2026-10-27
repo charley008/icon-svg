@@ -159,8 +159,46 @@
       "sha256": "2a63cf88d3c205d497e16893274c015c15c28384b9fa98d095a91cd53bb373da",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/x.svg",
       "version": 5
+    },
+    {
+      "bytes": 650,
+      "collection": "Dashboard Icons",
+      "file": "x-6.svg",
+      "id": 4950,
+      "is_default": false,
+      "label": "twitter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "twitter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dc89ec954c80ae26fe52b07b194113bd9caecfbd67dc120bd1ae6a29f3386243"
+      },
+      "sha256": "99cacefe712c496098ac910a7e3512e537809f6581f6fbc0996a127926e2f129",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twitter.svg",
+      "version": 6
+    },
+    {
+      "bytes": 286,
+      "collection": "Dashboard Icons",
+      "file": "x-7.svg",
+      "id": 4951,
+      "is_default": false,
+      "label": "x-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "x-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "380c48a830f28c36efd4bfc1af7e2c01a85d12b9d948c667e31cb414bdbb33e4"
+      },
+      "sha256": "2d96ca8c585cf4a041422ec900c0782957140e3933113ed23137841e01fe6933",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/x-light.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": []
 }

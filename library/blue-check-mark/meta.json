@@ -1,0 +1,40 @@
+{
+  "collection_id": 884,
+  "schema_version": 1,
+  "id": 1111,
+  "title": "Blue Check Mark",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "blue-check-mark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1119,
+      "collection": "Dashboard Icons",
+      "file": "blue-check-mark.svg",
+      "id": 2142,
+      "is_default": true,
+      "label": "blue-check-mark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "blue-check-mark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7668ef3a77b2a44e79c387b4525c8c8602341cd7ff7b504b3a4759067a8b1c66"
+      },
+      "sha256": "ed0675329a90d15733de559a76d61bcb51b5d6d664638b5f18f67f9cadf76bfd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blue-check-mark.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

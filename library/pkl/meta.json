@@ -1,0 +1,40 @@
+{
+  "collection_id": 2156,
+  "schema_version": 1,
+  "id": 2383,
+  "title": "Pkl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pkl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2473,
+      "collection": "Dashboard Icons",
+      "file": "pkl.svg",
+      "id": 3848,
+      "is_default": true,
+      "label": "pkl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pkl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7781352512881355631ed27bf6196cae6022a5eb2413fd9b4c0e10ce10a7d8ab"
+      },
+      "sha256": "08cf7d0b5a68768e9b66d57f0fa1bce011b1d2b800e5312cd2cefc6a3deebd52",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pkl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

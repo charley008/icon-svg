@@ -1,0 +1,60 @@
+{
+  "collection_id": 2675,
+  "schema_version": 1,
+  "id": 2902,
+  "title": "Splunk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "splunk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1253,
+      "collection": "Dashboard Icons",
+      "file": "splunk.svg",
+      "id": 4527,
+      "is_default": true,
+      "label": "splunk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "splunk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea876db06ca6a18e0d9cb2252c3c567af75217f64bbeeb1d197fe81ca966bf2a"
+      },
+      "sha256": "f4caf3e5e437df516d39bd9cc3290c4dee3ca2e3205cb7dd351094d84ba20745",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/splunk.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3446,
+      "collection": "TechIcons / Devicon",
+      "file": "splunk-1.svg",
+      "id": 5364,
+      "is_default": false,
+      "label": "TechIcons · Splunk",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Splunk.svg",
+        "original_sha256": "cbdfff2a34884de76fd5fa2d1cb341e6fa28160bf29b8c58af6c636cd2b3083a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/splunk",
+        "reference_website": "https://www.splunk.com"
+      },
+      "sha256": "7796ab384eb83ed82d22a39e23677cb31a82a50e0e9c1a184a17bb14ca765404",
+      "source": "https://techicons.dev/icons/splunk",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

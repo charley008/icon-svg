@@ -1,0 +1,40 @@
+{
+  "collection_id": 2665,
+  "schema_version": 1,
+  "id": 2892,
+  "title": "Spamassassin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "spamassassin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 128910,
+      "collection": "Dashboard Icons",
+      "file": "spamassassin.svg",
+      "id": 4516,
+      "is_default": true,
+      "label": "spamassassin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "spamassassin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c645fadb4635ea303cd889046dec836bf28faad278f7d804edcbdef36aff09b8"
+      },
+      "sha256": "f9a1c5fa41342b87fb5f2230b4c510a9df84d00342a6c6b0eec7823bb642c379",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/spamassassin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

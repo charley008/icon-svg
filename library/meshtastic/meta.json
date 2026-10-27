@@ -1,0 +1,40 @@
+{
+  "collection_id": 1811,
+  "schema_version": 1,
+  "id": 2038,
+  "title": "Meshtastic",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "meshtastic"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1160,
+      "collection": "Dashboard Icons",
+      "file": "meshtastic.svg",
+      "id": 3358,
+      "is_default": true,
+      "label": "meshtastic",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meshtastic.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "816907ce3d956b4c79d9fc1a3dc349f0e7e56a674a6616f96711fcab0c97b9ac"
+      },
+      "sha256": "fdd72cdaf581efb9e319b5aaf0ae0441d1a32187d6a7e541ddaa8606aae094b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/meshtastic.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

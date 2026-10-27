@@ -1,0 +1,45 @@
+{
+  "collection_id": 3123,
+  "schema_version": 1,
+  "id": 3365,
+  "title": "Fauna",
+  "url": "https://fauna.com",
+  "domains": [
+    "fauna.com"
+  ],
+  "description": "用于应用开发的数据存储与数据库服务。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Fauna",
+    "faunadb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 667,
+      "collection": "TechIcons / Devicon",
+      "file": "faunadb-1.svg",
+      "id": 5157,
+      "is_default": true,
+      "label": "TechIcons · Fauna",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Fauna.svg",
+        "original_sha256": "e68a83bb1f2592ec636ffa6c0f0bec49d40aa2e82345e64d688dd80d558c4f83",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/faunadb",
+        "reference_website": "https://fauna.com"
+      },
+      "sha256": "6f1182b3b56cc2eea24a8dc93e03e8d8897cbf52be22948c1edca2387af29342",
+      "source": "https://techicons.dev/icons/faunadb",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

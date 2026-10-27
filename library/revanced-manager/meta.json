@@ -1,0 +1,40 @@
+{
+  "collection_id": 2503,
+  "schema_version": 1,
+  "id": 2730,
+  "title": "Revanced Manager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "revanced-manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2572,
+      "collection": "Dashboard Icons",
+      "file": "revanced-manager.svg",
+      "id": 4304,
+      "is_default": true,
+      "label": "revanced-manager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "revanced-manager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95988eb6da25a0b9c9e65712e3acb6a2cfa6ca794de8850b9c8cfa99338cc192"
+      },
+      "sha256": "e02f0bc117bd86370184c18929593b51d64e5fd7fb9194254a41df1469f109e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/revanced-manager.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -44,8 +44,28 @@
       "sha256": "17b18eb1452a4225956beb14a9ca2e8e081f41015e1da5c3c02351e94e28261e",
       "source": "https://web.gotab.cn/sourceStore/website/01JB3XZZYA8M1HM8VPT2BD2YEM.svg",
       "version": 0
+    },
+    {
+      "bytes": 3079,
+      "collection": "TechIcons / Devicon",
+      "file": "ant-design-1.svg",
+      "id": 5064,
+      "is_default": false,
+      "label": "TechIcons · Ant Design",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ant-Design.svg",
+        "original_sha256": "020d58af31ae1fcee133903bb3bcedf107d458ebef603d1f780fc5a1493d0ac8",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/antdesign",
+        "reference_website": "https://ant.design"
+      },
+      "sha256": "3fa7aaa571725c6ff12afcd9e76fd93721cfa7894349573af5dee8296454f6b3",
+      "source": "https://techicons.dev/icons/antdesign",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

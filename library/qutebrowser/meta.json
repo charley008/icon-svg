@@ -1,0 +1,40 @@
+{
+  "collection_id": 2452,
+  "schema_version": 1,
+  "id": 2679,
+  "title": "Qutebrowser",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "qutebrowser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4969,
+      "collection": "Dashboard Icons",
+      "file": "qutebrowser.svg",
+      "id": 4242,
+      "is_default": true,
+      "label": "qutebrowser",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qutebrowser.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c6d124aa12c53b6f81681e0f8f710233044c1f5adff8f105441df11cb9c97d9e"
+      },
+      "sha256": "ddcaa89f2f5b419adfcf9c366b5fdebbf5424a7db25d5855e8ec689a5122ef2c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qutebrowser.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

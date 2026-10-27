@@ -1,0 +1,40 @@
+{
+  "collection_id": 1761,
+  "schema_version": 1,
+  "id": 1988,
+  "title": "Mailbox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mailbox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1411,
+      "collection": "Dashboard Icons",
+      "file": "mailbox.svg",
+      "id": 3292,
+      "is_default": true,
+      "label": "mailbox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailbox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e1cef2772f334b1d0fb693e19e147d841681a9c14b017a468bca457906fe4b19"
+      },
+      "sha256": "1ecd6674c87c5b05f1d7d235e4dd2c20d30227b00ce795c25daf193417148189",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailbox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

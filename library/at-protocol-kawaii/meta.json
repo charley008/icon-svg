@@ -1,0 +1,41 @@
+{
+  "collection_id": 766,
+  "schema_version": 1,
+  "id": 993,
+  "title": "AT Protocol",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "at-protocol-kawaii",
+    "At Protocol Kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 222646,
+      "collection": "Dashboard Icons",
+      "file": "at-protocol-kawaii.svg",
+      "id": 1987,
+      "is_default": true,
+      "label": "at-protocol-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "at-protocol-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ed63c23d0e87d65c98385799af1caad6f303ebe73ab43255b2e7847c69c624f1"
+      },
+      "sha256": "89000f2620452a72c657a1e471aa7ebbaf90e77e000e743c5207850a67ac37fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/at-protocol-kawaii.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

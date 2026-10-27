@@ -1,0 +1,40 @@
+{
+  "collection_id": 1494,
+  "schema_version": 1,
+  "id": 1721,
+  "title": "Hoobs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hoobs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1526,
+      "collection": "Dashboard Icons",
+      "file": "hoobs.svg",
+      "id": 2955,
+      "is_default": true,
+      "label": "hoobs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hoobs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2a73797da3aed040e149d8d243248e8fbad6cacd7c9f8feb3fad8d69974b903"
+      },
+      "sha256": "5d7a266113bf5535530a47aaf34d3423e27d44f4abcf07608345d1e9e52362d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hoobs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

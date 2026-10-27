@@ -1,0 +1,68 @@
+{
+  "collection_id": 2724,
+  "schema_version": 1,
+  "id": 2951,
+  "redirect_from": [
+    508
+  ],
+  "title": "Svg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "svg",
+    "svg-logo",
+    "SVG Logo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2814,
+      "collection": "Dashboard Icons",
+      "file": "svg.svg",
+      "id": 4587,
+      "is_default": true,
+      "label": "svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "svg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4e2f3e7cde5b517b8f13894ea8522ab26fac4a8db2003c4c978de70b15ed15a7"
+      },
+      "sha256": "d3d17ad1ca806a26c3f9cbdf32d5511f51ed201bb005101a709c9e50a1821715",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/svg.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1246,
+      "collection": "用户优选",
+      "file": "svg-1.svg",
+      "id": 1282,
+      "is_default": false,
+      "label": "svg-logo",
+      "license": "原图版权及商标归权利人",
+      "method": "existing-svg",
+      "provenance": {
+        "original_file": "svg-logo.svg",
+        "original_is_default": true,
+        "original_slug": "svg-logo"
+      },
+      "rounded_corners": {
+        "previous_bytes": 1023,
+        "previous_sha256": "9f47e68015e29b6cd2a37e46e4d00d4b4b5d1ea3fcaca9c08257ade8ed4b8a34",
+        "ratio": 0.2
+      },
+      "sha256": "6b66ed73063afcc699dcc339e0749627f7caf70e34294a0f57fcf73988dbcd44",
+      "source": "用户优选",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

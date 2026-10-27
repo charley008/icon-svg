@@ -1,0 +1,1 @@
+Local SVGs supplied by the library owner. Reference: https://techicons.dev/ . TechIcons identifies Devicon as its icon source: https://github.com/devicons/devicon . Editor-only metadata removed where necessary; artwork geometry/colors/dimensions preserved. See devicon-MIT.txt. Brand and trademark rights remain with their respective holders.

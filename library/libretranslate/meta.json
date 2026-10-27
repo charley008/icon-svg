@@ -1,0 +1,59 @@
+{
+  "collection_id": 1700,
+  "schema_version": 1,
+  "id": 1927,
+  "title": "Libretranslate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "libretranslate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2699,
+      "collection": "Dashboard Icons",
+      "file": "libretranslate.svg",
+      "id": 3217,
+      "is_default": true,
+      "label": "libretranslate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libretranslate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4e720f6e99433f1c7f765b3ea6c0f527fe8c4bfcd5e14a7589094a1f72093374"
+      },
+      "sha256": "c9ae8136f31c837f385b9f608d6935b90fa3de22f001b26bdf5596d89f1f2ffb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libretranslate.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2707,
+      "collection": "Dashboard Icons",
+      "file": "libretranslate-1.svg",
+      "id": 3218,
+      "is_default": false,
+      "label": "libretranslate-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libretranslate-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b72994a6eb39886f31dc994eaf170413489b751369e501d46ee096067942ace9"
+      },
+      "sha256": "9119cf812aed6776f41967d8348e0f84ec7ff383a2618e73d9410e36767ae258",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libretranslate-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

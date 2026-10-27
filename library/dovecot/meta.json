@@ -1,0 +1,40 @@
+{
+  "collection_id": 1151,
+  "schema_version": 1,
+  "id": 1378,
+  "title": "Dovecot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dovecot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 617,
+      "collection": "Dashboard Icons",
+      "file": "dovecot.svg",
+      "id": 2496,
+      "is_default": true,
+      "label": "dovecot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dovecot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cafa02b65dd7a483a93dbadb8f8800e110d53d4f179e135f1b9122e4318ebcb1"
+      },
+      "sha256": "8ea47df1fb464b4d2ddb8e93463fd1ad53031e3c7aa35120216d5d46efe228ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dovecot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

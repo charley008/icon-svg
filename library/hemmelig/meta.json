@@ -1,0 +1,64 @@
+{
+  "collection_id": 1466,
+  "schema_version": 1,
+  "id": 1693,
+  "title": "Hemmelig",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Password-Managers",
+    "Security",
+    "Developer-Tools",
+    "系统工具"
+  ],
+  "aliases": [
+    "hemmelig",
+    "Secrets Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8865,
+      "collection": "Dashboard Icons",
+      "file": "hemmelig.svg",
+      "id": 2919,
+      "is_default": true,
+      "label": "hemmelig",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hemmelig.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "30a69e0795ab2931f43711ada5ca0cdfc8a849be09b6e98bf77c874926f11dc7"
+      },
+      "sha256": "4a7254dd27819ed432d839d73224aa33eb1e5e0f49b49dd8aba3d7e6e665c08a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hemmelig.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8862,
+      "collection": "Dashboard Icons",
+      "file": "hemmelig-1.svg",
+      "id": 2920,
+      "is_default": false,
+      "label": "hemmelig-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hemmelig-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85f6e50053e1f83ad258e57a1d3495dabb91f749d4d15fd7edaad03d1abd1a4b"
+      },
+      "sha256": "9d694f3219bd268d61756d537a1faeb9986dde372255224610933799177ee878",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hemmelig-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

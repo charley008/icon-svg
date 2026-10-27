@@ -1,0 +1,84 @@
+{
+  "collection_id": 2557,
+  "schema_version": 1,
+  "id": 2784,
+  "redirect_from": [
+    2785
+  ],
+  "title": "Scala",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "scala",
+    "scala-wordmark-light",
+    "Scala Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1589,
+      "collection": "Dashboard Icons",
+      "file": "scala.svg",
+      "id": 4376,
+      "is_default": true,
+      "label": "scala",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scala.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d0148e7a9bdf4cf48ff846c7610c9d4db990a57f1350a24f12a1f45d2270d560"
+      },
+      "sha256": "1acd00971ec2c3b1079edb77c6d83023cfc9177b38c2df3ac06b7263be9e2be8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scala.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3858,
+      "collection": "Dashboard Icons",
+      "file": "scala-1.svg",
+      "id": 4377,
+      "is_default": false,
+      "label": "scala-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scala-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e25edb19334ab026febfb638a616b26d78e48019911ff07744dc15d7636f1993"
+      },
+      "sha256": "8a858708def62703b1f41267019afc4dddf46852c86c3747c86790831fe3cb90",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scala-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1514,
+      "collection": "TechIcons / Devicon",
+      "file": "scala-2.svg",
+      "id": 5352,
+      "is_default": false,
+      "label": "TechIcons · Scala",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Scala.svg",
+        "original_sha256": "2565b6286bf30ab28c7d6a988ab7a76c5ce28182b80634e2a2ae21e29b4ad7b9",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/scala",
+        "reference_website": "http://scala-lang.org"
+      },
+      "sha256": "e6db22ed9891d132e2a87a5ec6562544e621d3063e957cdafca38501ff9daf3e",
+      "source": "https://techicons.dev/icons/scala",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

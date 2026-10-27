@@ -1,0 +1,44 @@
+{
+  "collection_id": 1849,
+  "schema_version": 1,
+  "id": 2076,
+  "title": "Monero",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "monero",
+    "privacy-coin",
+    "digital-currency"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 907,
+      "collection": "Dashboard Icons",
+      "file": "monero.svg",
+      "id": 3419,
+      "is_default": true,
+      "label": "monero",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "monero.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "966cc9fce4e5dea407e97cac3fb428727b501ed461591ac00bfacde1b88cb8e7"
+      },
+      "sha256": "9a29aca8dadf1a17ede03403dc3c5bce39bf03c6319b7806ddfbd9b2328a1dd1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/monero.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

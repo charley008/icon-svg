@@ -1,0 +1,59 @@
+{
+  "collection_id": 2171,
+  "schema_version": 1,
+  "id": 2398,
+  "title": "Pocket Casts",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pocket-casts"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 638,
+      "collection": "Dashboard Icons",
+      "file": "pocket-casts.svg",
+      "id": 3869,
+      "is_default": true,
+      "label": "pocket-casts",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pocket-casts.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea6df97d1b181475694cc8b36ad6babca7f0a010ef16446e143d264b403d0ec1"
+      },
+      "sha256": "22ced3c66056ad20d2d283e4cedb0cc9760e4135d2fb2cbfc6bb35da0d2ba2c7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pocket-casts.svg",
+      "version": 0
+    },
+    {
+      "bytes": 638,
+      "collection": "Dashboard Icons",
+      "file": "pocket-casts-1.svg",
+      "id": 3870,
+      "is_default": false,
+      "label": "pocket-casts-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pocket-casts-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f25c54c4670b38a2dd346c302c62c896a7380372ac028911fb5fd9cfa99f44a5"
+      },
+      "sha256": "528e00fb6544178d325877bb4fc8e63d9023034eb24d78b536ee833a4a29f71b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pocket-casts-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

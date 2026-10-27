@@ -1,0 +1,40 @@
+{
+  "collection_id": 2598,
+  "schema_version": 1,
+  "id": 2825,
+  "title": "Shell File",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "shell-file"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3136,
+      "collection": "Dashboard Icons",
+      "file": "shell-file.svg",
+      "id": 4432,
+      "is_default": true,
+      "label": "shell-file",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shell-file.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0fdf7348a315a5014a2b1d3142ca7e273e13f059938d033a19cf331407ba3206"
+      },
+      "sha256": "c138f4a41b68d57a1c99b1c3957bce3436a9f8076462e713a180b133aea7e5ab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shell-file.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

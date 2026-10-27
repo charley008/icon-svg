@@ -1,0 +1,45 @@
+{
+  "collection_id": 3210,
+  "schema_version": 1,
+  "id": 3473,
+  "title": "PureScript",
+  "url": "https://www.purescript.org",
+  "domains": [
+    "purescript.org"
+  ],
+  "description": "PureScript 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "PureScript",
+    "purescript"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 647,
+      "collection": "TechIcons / Devicon",
+      "file": "purescript-1.svg",
+      "id": 5325,
+      "is_default": true,
+      "label": "TechIcons · PureScript",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "PureScript.svg",
+        "original_sha256": "97a1b918b552ba8dacce7e31d6eccdf1969ef4fc21b835f40caf3c60b1459b93",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/purescript",
+        "reference_website": "https://www.purescript.org"
+      },
+      "sha256": "4beb5e2e7592672cfc30e8e91f4e1a4adc6e1832a0b264b9e2cc2c77dadd4e39",
+      "source": "https://techicons.dev/icons/purescript",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2843,
+  "schema_version": 1,
+  "id": 3070,
+  "title": "Tsd Proxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tsd-proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 681,
+      "collection": "Dashboard Icons",
+      "file": "tsd-proxy.svg",
+      "id": 4738,
+      "is_default": true,
+      "label": "tsd-proxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tsd-proxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "201f774f52089e1c1c3beb804aa8a4b4fa51b5ab137a98b4305c18c5d3a6264d"
+      },
+      "sha256": "07c014edab1f421c5590d6ece9b96629fb8195664a0365d02d42e2509459d583",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tsd-proxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

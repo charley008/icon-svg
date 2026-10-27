@@ -1,0 +1,78 @@
+{
+  "collection_id": 2516,
+  "schema_version": 1,
+  "id": 2743,
+  "title": "Rockstor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rockstor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2423,
+      "collection": "Dashboard Icons",
+      "file": "rockstor.svg",
+      "id": 4321,
+      "is_default": true,
+      "label": "rockstor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rockstor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a2560696682b57c5c3e21259a6289fea7672c1095901f6453d7b236fcde285b"
+      },
+      "sha256": "5448ed59fa5c8d24014a7e417533823419d3f59206337080c3d51b969b782be5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rockstor.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2681,
+      "collection": "Dashboard Icons",
+      "file": "rockstor-1.svg",
+      "id": 4322,
+      "is_default": false,
+      "label": "rockstor-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rockstor-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "821dcfe617e6a3168e84c8a9e401ebc4b7e53d58447764002c262256cf38707d"
+      },
+      "sha256": "1a70bd2bc3aced3bfcfe2053a3dfc1c0c9ee5e99b68bb1ec1712e10183c031a9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rockstor-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1818,
+      "collection": "Dashboard Icons",
+      "file": "rockstor-2.svg",
+      "id": 4323,
+      "is_default": false,
+      "label": "rockstor-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rockstor-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8611b643622ba565241f97473f79ef648a673acd9a67cb50e2ef7dbb7761c805"
+      },
+      "sha256": "b72b08d81150bceb2f71f6619798f34d347822c574396bc4dd959241a5084393",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rockstor-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

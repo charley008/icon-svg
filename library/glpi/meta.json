@@ -1,0 +1,44 @@
+{
+  "collection_id": 1374,
+  "schema_version": 1,
+  "id": 1601,
+  "title": "Glpi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "glpi",
+    "IT Asset Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1945,
+      "collection": "Dashboard Icons",
+      "file": "glpi.svg",
+      "id": 2780,
+      "is_default": true,
+      "label": "glpi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "glpi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d92bb891522dcd0ab74787991645d536c30cf374a5c627e442b6acbcb20c14d"
+      },
+      "sha256": "ef7c0b3d9b349cb9f280f453e57e818a390f97ca04f0330a7a7f61406b7dbb2d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/glpi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

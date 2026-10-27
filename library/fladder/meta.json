@@ -1,0 +1,40 @@
+{
+  "collection_id": 1284,
+  "schema_version": 1,
+  "id": 1511,
+  "title": "Fladder",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fladder"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1184,
+      "collection": "Dashboard Icons",
+      "file": "fladder.svg",
+      "id": 2669,
+      "is_default": true,
+      "label": "fladder",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fladder.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0af391f5ba7993cb8d41dc667b7c8983aeb177d318be576322415fa8109818d0"
+      },
+      "sha256": "9fa6a7a950d7581cfa78d2c5d8b4fd68e3e7b450c467383a43744527babdf895",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fladder.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

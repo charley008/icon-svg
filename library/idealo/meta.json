@@ -1,0 +1,40 @@
+{
+  "collection_id": 1528,
+  "schema_version": 1,
+  "id": 1755,
+  "title": "Idealo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "idealo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 703,
+      "collection": "Dashboard Icons",
+      "file": "idealo.svg",
+      "id": 2998,
+      "is_default": true,
+      "label": "idealo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "idealo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc1df114a7e03f6a2eb3394f10f2e0bf3f8c5799dfbe7ee3e6211e41107c9e63"
+      },
+      "sha256": "26995f29dc3bccba7125647ee09e390d66747511758991360542869ec4a0f4f3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/idealo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

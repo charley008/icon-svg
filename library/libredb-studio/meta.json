@@ -1,0 +1,40 @@
+{
+  "collection_id": 1690,
+  "schema_version": 1,
+  "id": 1917,
+  "title": "Libredb Studio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "libredb-studio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1498,
+      "collection": "Dashboard Icons",
+      "file": "libredb-studio.svg",
+      "id": 3199,
+      "is_default": true,
+      "label": "libredb-studio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libredb-studio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca5c06c7cd40fa0e9b6a2550fb0fd59eb2fc200b789fa4c31677f2c193ef37fa"
+      },
+      "sha256": "437720223ce2e8e41154200f111ec4f4ea34d65d950087518b807097ed7d1548",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libredb-studio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

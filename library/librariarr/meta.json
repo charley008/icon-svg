@@ -1,0 +1,40 @@
+{
+  "collection_id": 1688,
+  "schema_version": 1,
+  "id": 1915,
+  "title": "Librariarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "librariarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8261,
+      "collection": "Dashboard Icons",
+      "file": "librariarr.svg",
+      "id": 3197,
+      "is_default": true,
+      "label": "librariarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "librariarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e4d046b13c879ad0868f4ab149c85a4bd4c5d403d3837ff79dab4661d7949dd"
+      },
+      "sha256": "f08e15e501a4aae37bd1da4632cfaa06a54576461ac1dbe6ea7abe62571a4658",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/librariarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

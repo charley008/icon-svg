@@ -1,0 +1,78 @@
+{
+  "collection_id": 955,
+  "schema_version": 1,
+  "id": 1182,
+  "title": "Chatplaygroundai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chatplaygroundai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1962,
+      "collection": "Dashboard Icons",
+      "file": "chatplaygroundai.svg",
+      "id": 2233,
+      "is_default": true,
+      "label": "chatplaygroundai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chatplaygroundai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d45ea864d09ecea498c5b6bd22e193e8a7f1f74f6b2fc9f208b351f3ad7774d9"
+      },
+      "sha256": "3dc49e2dbb73133946a2c8413c53acdf31448f104255879bee700fc2679e97ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chatplaygroundai.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2300,
+      "collection": "Dashboard Icons",
+      "file": "chatplaygroundai-1.svg",
+      "id": 2234,
+      "is_default": false,
+      "label": "chatplaygroundai-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chatplaygroundai-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bfa8f9df0dfbc4ad093f9573e14ed79fcd5c7128c0ab592d8d8488abab4b757a"
+      },
+      "sha256": "474782b445565abc383cd6100f816e9b11d52ee93b7162b8c038d56ea4f08fd5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chatplaygroundai-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2300,
+      "collection": "Dashboard Icons",
+      "file": "chatplaygroundai-2.svg",
+      "id": 2235,
+      "is_default": false,
+      "label": "chatplaygroundai-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chatplaygroundai-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "418469c5c9706e34c1473815d50669d936a2243b7ecfe0b12088fa9815eb6c75"
+      },
+      "sha256": "edc7f18e4ae574017c4a2c6c13efc1fbac002dcb9dfc3091cd5f71abb6ccd77c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chatplaygroundai-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2853,
+  "schema_version": 1,
+  "id": 3080,
+  "title": "Tvdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tvdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1133,
+      "collection": "Dashboard Icons",
+      "file": "tvdb.svg",
+      "id": 4751,
+      "is_default": true,
+      "label": "tvdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tvdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7021f7cc38fb79128c51d1099414bf877fba77951036b021e05f59415ef7f8ff"
+      },
+      "sha256": "5908dfd82a4bfe5be639320b8411f030fb7b6672f657da4430e0d40b6b33e484",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tvdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

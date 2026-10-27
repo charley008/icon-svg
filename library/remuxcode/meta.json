@@ -1,0 +1,40 @@
+{
+  "collection_id": 2492,
+  "schema_version": 1,
+  "id": 2719,
+  "title": "Remuxcode",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "remuxcode"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 321,
+      "collection": "Dashboard Icons",
+      "file": "remuxcode.svg",
+      "id": 4291,
+      "is_default": true,
+      "label": "remuxcode",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "remuxcode.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b2f95eccac2c0509ef3aefeab9014cd4e035bfb70bdaf15dc4290e6f0431552"
+      },
+      "sha256": "bf2d690178f9b47cdf0859cd62aac37d278e94578aebc76af70fafbf1959f88c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/remuxcode.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

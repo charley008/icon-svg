@@ -1,0 +1,40 @@
+{
+  "collection_id": 1387,
+  "schema_version": 1,
+  "id": 1614,
+  "title": "Goodnotes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "goodnotes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5506,
+      "collection": "Dashboard Icons",
+      "file": "goodnotes.svg",
+      "id": 2801,
+      "is_default": true,
+      "label": "goodnotes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goodnotes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d5cc3090968ce2a00506e3eeccfefc515b820873920a28555f9e13b1d507ab29"
+      },
+      "sha256": "d75f18cd2626372aa15ac072d15cd04323276ed3c0fe8236e4dc46b9c3a564c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/goodnotes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

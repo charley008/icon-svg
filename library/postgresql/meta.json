@@ -1,4 +1,7 @@
 {
+  "collection_id": 594,
+  "schema_version": 1,
+  "id": 814,
   "title": "PostgreSQL",
   "url": "https://www.postgresql.org/",
   "domains": [
@@ -22,23 +25,42 @@
   "notes": [],
   "icons": [
     {
-      "file": "postgresql.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8721988212afc5134af28c50601d87e6f3ca648e8e04f66b0453dc1f9126e359",
       "bytes": 3944,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postgres.svg",
+      "collection": "Dashboard Icons",
+      "file": "postgresql.svg",
+      "id": 1771,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "postgres.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8721988212afc5134af28c50601d87e6f3ca648e8e04f66b0453dc1f9126e359",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postgres.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2936,
+      "collection": "Dashboard Icons",
+      "file": "postgresql-1.svg",
+      "id": 3904,
+      "is_default": false,
+      "label": "postgresql",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postgresql.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "15392b515335ffd08a5a58cb9ed697772b4cf17f4a6af216900f2c774a951da2"
+      },
+      "sha256": "a58922372356936bf07d83fc8669ddef8635f7185f622c506ee699c248eaa481",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postgresql.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

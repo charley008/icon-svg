@@ -1,0 +1,40 @@
+{
+  "collection_id": 1623,
+  "schema_version": 1,
+  "id": 1850,
+  "title": "Keepass",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "keepass"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1077,
+      "collection": "Dashboard Icons",
+      "file": "keepass.svg",
+      "id": 3119,
+      "is_default": true,
+      "label": "keepass",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keepass.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d0da84d7f75293a93ba99407b068f5ed42bedbb54751297350156402118537b"
+      },
+      "sha256": "8c6bd5cde878d0322c881fd3538e74bc5dc757ef4e5a4a5557daa76cf99db66d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keepass.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

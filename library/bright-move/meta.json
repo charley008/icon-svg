@@ -1,0 +1,45 @@
+{
+  "collection_id": 902,
+  "schema_version": 1,
+  "id": 1129,
+  "title": "Bright Move",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "bright-move",
+    "brightmove",
+    "bright-move-ats",
+    "brightmove-ats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4780,
+      "collection": "Dashboard Icons",
+      "file": "bright-move.svg",
+      "id": 2165,
+      "is_default": true,
+      "label": "bright-move",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bright-move.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d95e79498c18ec40b41635818e7c49238a7d68feef3a4d21dcfbc8ae3853272"
+      },
+      "sha256": "6fb085471c760779c1b87caca6ee1e0393076bee8c910328e33ac2a4d033cfd4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bright-move.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3150,
+  "schema_version": 1,
+  "id": 3398,
+  "title": "Jest",
+  "url": "https://jestjs.io",
+  "domains": [
+    "jestjs.io"
+  ],
+  "description": "JavaScript 项目的自动化测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Jest",
+    "jest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3158,
+      "collection": "TechIcons / Devicon",
+      "file": "jest-1.svg",
+      "id": 5217,
+      "is_default": true,
+      "label": "TechIcons · Jest",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Jest.svg",
+        "original_sha256": "56aa3bd209339d2253cdce508143109d20f6d7342db07db7a2d1e8a59ba202f3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jest",
+        "reference_website": "https://jestjs.io"
+      },
+      "sha256": "e2ec07c93c07534527a01c2ac32522b96cac61080ebde13d86a5bae5d7d40855",
+      "source": "https://techicons.dev/icons/jest",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

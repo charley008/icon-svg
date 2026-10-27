@@ -1,0 +1,60 @@
+{
+  "collection_id": 1867,
+  "schema_version": 1,
+  "id": 2094,
+  "title": "Mubi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "mubi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4387,
+      "collection": "Dashboard Icons",
+      "file": "mubi.svg",
+      "id": 3442,
+      "is_default": true,
+      "label": "mubi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mubi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97b32d3ed9486196fe76b12ca946cafc6c653c81b70f4471edf3570823389fd6"
+      },
+      "sha256": "60b893a313d427af746fb645f88673483b7ebb2296e6e85fa2d95cfc21f28f37",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mubi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4379,
+      "collection": "Dashboard Icons",
+      "file": "mubi-1.svg",
+      "id": 3443,
+      "is_default": false,
+      "label": "mubi-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mubi-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "12c39428649fc7f366f84313a375d94c6bdcb46c9ad3c3e6007be744bdf58658"
+      },
+      "sha256": "e173d5eb242285bf9ab2723c4e24a87de92512aa8a4f113b26c42d6b58989e97",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mubi-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

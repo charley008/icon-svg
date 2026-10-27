@@ -1,0 +1,40 @@
+{
+  "collection_id": 1509,
+  "schema_version": 1,
+  "id": 1736,
+  "title": "Hydra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hydra"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 14166,
+      "collection": "Dashboard Icons",
+      "file": "hydra.svg",
+      "id": 2973,
+      "is_default": true,
+      "label": "hydra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hydra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae03493201fcd7d10e8a4bf9b4b7f60c48e24fb0c0d18a417f887f2bd7f73076"
+      },
+      "sha256": "a286dd2b6dc067150f474cc3508e2d9666821d3f5c8575d5f71931cd76b3def9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hydra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

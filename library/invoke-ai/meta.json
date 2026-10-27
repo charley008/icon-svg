@@ -1,0 +1,40 @@
+{
+  "collection_id": 1558,
+  "schema_version": 1,
+  "id": 1785,
+  "title": "Invoke Ai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "invoke-ai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 238,
+      "collection": "Dashboard Icons",
+      "file": "invoke-ai.svg",
+      "id": 3035,
+      "is_default": true,
+      "label": "invoke-ai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "invoke-ai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f75c07d3c37bbcc7038edd96b48b7ce661d29dc44cb5caaa4032abf883fe3d1f"
+      },
+      "sha256": "b3cac59b4a41f1dcc8737d64d166507252dcc83061ca945930a4f2031e83d535",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/invoke-ai.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

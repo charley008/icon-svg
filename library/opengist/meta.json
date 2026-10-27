@@ -1,0 +1,63 @@
+{
+  "collection_id": 2034,
+  "schema_version": 1,
+  "id": 2261,
+  "title": "Opengist",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "opengist",
+    "code-sharing",
+    "snippet-hosting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2253,
+      "collection": "Dashboard Icons",
+      "file": "opengist.svg",
+      "id": 3676,
+      "is_default": true,
+      "label": "opengist",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opengist.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5ac2b16fb591ba16c27fb4fc4d82f47d4db7d7c16d763464b52b4ba452b1186e"
+      },
+      "sha256": "fcb58d2437b25adae68ccdcdbab489b747d9e2959452d72a3e6844cbb4fa7365",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opengist.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2133,
+      "collection": "Dashboard Icons",
+      "file": "opengist-1.svg",
+      "id": 3677,
+      "is_default": false,
+      "label": "opengist-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "opengist-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "57d550d709d9d4633e722443dcb4085c16c17ffb1d298fd247ae6ff84cc4e1ee"
+      },
+      "sha256": "1dcc66e9e9fbaf03a8e1ce581caf55b8856a3e26baa74f945b53cfb27ca8f939",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/opengist-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

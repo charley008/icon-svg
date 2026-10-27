@@ -1,0 +1,40 @@
+{
+  "collection_id": 1967,
+  "schema_version": 1,
+  "id": 2194,
+  "title": "Nsclient",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nsclient"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 337,
+      "collection": "Dashboard Icons",
+      "file": "nsclient.svg",
+      "id": 3575,
+      "is_default": true,
+      "label": "nsclient",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nsclient.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2bf2d3c28845b6264d0eddf4bc940448a9243db40a5ceef28bb294c2c85dd963"
+      },
+      "sha256": "98ecc5d3a6cc003b186f6fb5faece34518c837e27a17c2cff33eab6db8e621db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nsclient.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

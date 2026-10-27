@@ -1,0 +1,40 @@
+{
+  "collection_id": 1358,
+  "schema_version": 1,
+  "id": 1585,
+  "title": "Genua",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "genua"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3242,
+      "collection": "Dashboard Icons",
+      "file": "genua.svg",
+      "id": 2756,
+      "is_default": true,
+      "label": "genua",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "genua.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0b731be07f0277497d3e38ff2538a1c16528dbb3280514303bc76c930f0f637e"
+      },
+      "sha256": "de5bdac9b7f8023e1e34b7b34787fa0b6c1594d0b847c9bb1225f773c177c73e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/genua.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

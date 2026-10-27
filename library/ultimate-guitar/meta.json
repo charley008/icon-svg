@@ -1,0 +1,63 @@
+{
+  "collection_id": 2871,
+  "schema_version": 1,
+  "id": 3098,
+  "title": "Ultimate Guitar",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music-Streaming",
+    "Web-Browsers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "ultimate-guitar",
+    "Tabs Website"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 467,
+      "collection": "Dashboard Icons",
+      "file": "ultimate-guitar.svg",
+      "id": 4776,
+      "is_default": true,
+      "label": "ultimate-guitar",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ultimate-guitar.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8e4e5fe9ea769bae8786876efe51709210470cf5d2e8679d0ea9da015038297"
+      },
+      "sha256": "5e8df48aa22f6372cb812a363a48032158fc90c75a1ac837384677620adbd812",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ultimate-guitar.svg",
+      "version": 0
+    },
+    {
+      "bytes": 467,
+      "collection": "Dashboard Icons",
+      "file": "ultimate-guitar-1.svg",
+      "id": 4777,
+      "is_default": false,
+      "label": "ultimate-guitar-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ultimate-guitar-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "94792be1c03bd5a9af17482f79b2fab6f72e3d0119314375af1c38209fd17376"
+      },
+      "sha256": "a99617ff0a8f31fdf5a86eb25b6cefb404b5353d89db60f054e1177582f4178a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ultimate-guitar-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

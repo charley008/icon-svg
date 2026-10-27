@@ -1,4 +1,7 @@
 {
+  "collection_id": 517,
+  "schema_version": 1,
+  "id": 690,
   "title": "Cisco",
   "url": "https://www.cisco.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "cisco.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "0d3ea0eca935464e033b2d9196957eb91b081c4055557407d36da80fca488507",
       "bytes": 2223,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cisco.svg",
+      "collection": "Dashboard Icons",
+      "file": "cisco.svg",
+      "id": 1651,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "cisco.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "0d3ea0eca935464e033b2d9196957eb91b081c4055557407d36da80fca488507",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cisco.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

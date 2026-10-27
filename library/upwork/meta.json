@@ -1,0 +1,42 @@
+{
+  "collection_id": 2888,
+  "schema_version": 1,
+  "id": 3115,
+  "title": "Upwork",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "upwork"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 964,
+      "collection": "Dashboard Icons",
+      "file": "upwork.svg",
+      "id": 4798,
+      "is_default": true,
+      "label": "upwork",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "upwork.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f269930d7ed8a88568fe53ce5ad0134227a5fb529b03b734b387da5f1d59015e"
+      },
+      "sha256": "578ecd3e2ff4d28e9f49bd99118dd2301803731494af6ea8a5d941f819b2178b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/upwork.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

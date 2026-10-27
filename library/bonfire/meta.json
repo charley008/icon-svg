@@ -1,0 +1,40 @@
+{
+  "collection_id": 888,
+  "schema_version": 1,
+  "id": 1115,
+  "title": "Bonfire",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bonfire"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 74268,
+      "collection": "Dashboard Icons",
+      "file": "bonfire.svg",
+      "id": 2147,
+      "is_default": true,
+      "label": "bonfire",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bonfire.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89d3406b2576fe0dc09e28cfa3e8372f2b3a7a95a6f1c618cf0e0589340b8c33"
+      },
+      "sha256": "7ad92147e5e9a639456ffd3b2673ae92935d30c91134d3e4d0b4e011457e37dc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bonfire.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

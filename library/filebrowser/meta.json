@@ -1,0 +1,40 @@
+{
+  "collection_id": 1259,
+  "schema_version": 1,
+  "id": 1486,
+  "title": "Filebrowser",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "filebrowser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2468,
+      "collection": "Dashboard Icons",
+      "file": "filebrowser.svg",
+      "id": 2642,
+      "is_default": true,
+      "label": "filebrowser",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filebrowser.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d945ef0e894fe8e907c23ade4d2912ec3c8b738fc4c0f53c3f6a9126715493e"
+      },
+      "sha256": "4377d7c789330578327a141629a9017038324d1e58fadb679518aebbeda8de52",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filebrowser.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

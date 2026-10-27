@@ -1,0 +1,41 @@
+{
+  "collection_id": 1722,
+  "schema_version": 1,
+  "id": 1949,
+  "title": "LiteLLM",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "litlellm",
+    "Litlellm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 640,
+      "collection": "Dashboard Icons",
+      "file": "litlellm.svg",
+      "id": 3246,
+      "is_default": true,
+      "label": "litlellm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "litlellm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d863afe37aab92e9773c607351d5ce278e687cc367307bca5ca5109ef72a4445"
+      },
+      "sha256": "44c675d90d658183cbb4b54a6b54ae6d5e2bda6fb45ee8ab9427edff673d5671",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/litlellm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

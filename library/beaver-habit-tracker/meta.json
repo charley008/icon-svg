@@ -1,0 +1,63 @@
+{
+  "collection_id": 857,
+  "schema_version": 1,
+  "id": 1084,
+  "title": "Beaver Habit Tracker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "Office-Suites",
+    "办公效率"
+  ],
+  "aliases": [
+    "beaver-habit-tracker",
+    "Habit Tracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 799,
+      "collection": "Dashboard Icons",
+      "file": "beaver-habit-tracker.svg",
+      "id": 2102,
+      "is_default": true,
+      "label": "beaver-habit-tracker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beaver-habit-tracker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "050525c351c83358e41c06de07cd76e7f540e2bfa554d721d174e06cc6c056c3"
+      },
+      "sha256": "4439aba79c2ce191fbd391462e71e56952210e82fa66140d03b87f7f5613a17a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beaver-habit-tracker.svg",
+      "version": 0
+    },
+    {
+      "bytes": 847,
+      "collection": "Dashboard Icons",
+      "file": "beaver-habit-tracker-1.svg",
+      "id": 2103,
+      "is_default": false,
+      "label": "beaver-habit-tracker-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "beaver-habit-tracker-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "adc4d8a5ab90c08252090661b35ef5109dfc86b70b9a93c2506c9511df9d5ce3"
+      },
+      "sha256": "972a9ad8c361f051e0ac38585850eec3bfd7bb86ee2dbfc3fbd98e47e3be0808",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/beaver-habit-tracker-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

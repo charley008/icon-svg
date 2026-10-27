@@ -1,0 +1,63 @@
+{
+  "collection_id": 1421,
+  "schema_version": 1,
+  "id": 1648,
+  "title": "Grav",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "grav",
+    "flat-file-cms",
+    "content-management-system"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2097,
+      "collection": "Dashboard Icons",
+      "file": "grav.svg",
+      "id": 2848,
+      "is_default": true,
+      "label": "grav",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grav.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "994def1a0c820c5ddcc57288d0b9d1960b57c95954ffecf713f853a8cda469e3"
+      },
+      "sha256": "dc41dbcb3d40d6f450b642cb409dc4c833a3fe4bfe143773800769bc86e03a49",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grav.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2094,
+      "collection": "Dashboard Icons",
+      "file": "grav-1.svg",
+      "id": 2849,
+      "is_default": false,
+      "label": "grav-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grav-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e1104b3c724a2b28a6bfbd16b77c48d735c864339f363583af4a58b0c26a4fb3"
+      },
+      "sha256": "5f7e109a8066ed8ec9f3ea115c5cd80fe3878de9e7f3feb220c646260faa70b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grav-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

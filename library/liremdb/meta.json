@@ -1,0 +1,40 @@
+{
+  "collection_id": 1718,
+  "schema_version": 1,
+  "id": 1945,
+  "title": "Liremdb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "liremdb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1610,
+      "collection": "Dashboard Icons",
+      "file": "liremdb.svg",
+      "id": 3242,
+      "is_default": true,
+      "label": "liremdb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "liremdb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1c5481d0b991e6d693a9de4181c476ffa759e4cbe2b822fc637b25f9521c400a"
+      },
+      "sha256": "fe9b8ffb59d4f87904b4baa43aaef49146d531825cf04e542167e009ee9e8007",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/liremdb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

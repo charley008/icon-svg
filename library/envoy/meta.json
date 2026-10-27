@@ -1,0 +1,45 @@
+{
+  "collection_id": 3119,
+  "schema_version": 1,
+  "id": 3361,
+  "title": "Envoy",
+  "url": "https://www.envoyproxy.io",
+  "domains": [
+    "envoyproxy.io"
+  ],
+  "description": "面向服务通信的应用代理软件。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Envoy",
+    "envoy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1381,
+      "collection": "TechIcons / Devicon",
+      "file": "envoy-1.svg",
+      "id": 5150,
+      "is_default": true,
+      "label": "TechIcons · Envoy",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Envoy.svg",
+        "original_sha256": "e499e22cdf5040db98e73def727c567745782190c3bf2583e5cd3120382f5d2b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/envoy",
+        "reference_website": "https://www.envoyproxy.io"
+      },
+      "sha256": "f4939895d55710532ba42a9c76827d9ab289cf6e988a114abdde1845dddb8e6e",
+      "source": "https://techicons.dev/icons/envoy",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

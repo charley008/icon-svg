@@ -1,0 +1,47 @@
+{
+  "collection_id": 1816,
+  "schema_version": 1,
+  "id": 2043,
+  "title": "Metallb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "Hardware",
+    "Development",
+    "Containerization-\u0026-Orchestration",
+    "Networking-Tools"
+  ],
+  "aliases": [
+    "metallb",
+    "kubernetes-load-balancer",
+    "service-lb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 999,
+      "collection": "Dashboard Icons",
+      "file": "metallb.svg",
+      "id": 3364,
+      "is_default": true,
+      "label": "metallb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "metallb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98cc54b60bb256a0428f0f4942a2cd2be64d04ac91ffea84dbfb8c769dec8cbb"
+      },
+      "sha256": "2ed7bb36e2ca847941640009768399f0604e99d7f3d6fed0d2a69e1fda7cedbe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/metallb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

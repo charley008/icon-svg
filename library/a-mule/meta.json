@@ -1,0 +1,40 @@
+{
+  "collection_id": 653,
+  "schema_version": 1,
+  "id": 880,
+  "title": "A Mule",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "a-mule"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 34606,
+      "collection": "Dashboard Icons",
+      "file": "a-mule.svg",
+      "id": 1841,
+      "is_default": true,
+      "label": "a-mule",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "a-mule.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e3f24935d0eb240b38ae1aa6c9f897809c611544e707beb357af53f717266849"
+      },
+      "sha256": "70825fe00ceac3def6f106b97541a76b4c7d4f8dfeb934a1952e7201db324b61",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/a-mule.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

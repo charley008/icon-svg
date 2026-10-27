@@ -1,0 +1,40 @@
+{
+  "collection_id": 2010,
+  "schema_version": 1,
+  "id": 2237,
+  "title": "Onlyoffice",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "onlyoffice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1524,
+      "collection": "Dashboard Icons",
+      "file": "onlyoffice.svg",
+      "id": 3636,
+      "is_default": true,
+      "label": "onlyoffice",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "onlyoffice.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3c7e93dea26a992e3946424eb3ba0d7bc2acadf992141f37d0956c2e0877eb02"
+      },
+      "sha256": "6734b2cd6bd2e100d0dec46c8a63a4497be0463c03f8aeb984cd6dbce4d4aea1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/onlyoffice.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

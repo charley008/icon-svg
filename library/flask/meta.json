@@ -1,0 +1,45 @@
+{
+  "collection_id": 3125,
+  "schema_version": 1,
+  "id": 3367,
+  "title": "Flask",
+  "url": "https://flask.palletsprojects.com",
+  "domains": [
+    "flask.palletsprojects.com"
+  ],
+  "description": "轻量级 Python Web 应用框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Flask",
+    "flask"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9201,
+      "collection": "TechIcons / Devicon",
+      "file": "flask-1.svg",
+      "id": 5162,
+      "is_default": true,
+      "label": "TechIcons · Flask",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Flask.svg",
+        "original_sha256": "7a27bb8cb739a080c285066c16c75828bc2eca4d76fa06eff76d556e0274a9d7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/flask",
+        "reference_website": "https://flask.palletsprojects.com"
+      },
+      "sha256": "18f6f59fc74e3b5b34139d93b4eb31acd38eacfafb178f24b1b3cedc85111488",
+      "source": "https://techicons.dev/icons/flask",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

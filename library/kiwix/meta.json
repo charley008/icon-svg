@@ -1,0 +1,59 @@
+{
+  "collection_id": 1641,
+  "schema_version": 1,
+  "id": 1868,
+  "title": "Kiwix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kiwix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1213,
+      "collection": "Dashboard Icons",
+      "file": "kiwix.svg",
+      "id": 3139,
+      "is_default": true,
+      "label": "kiwix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kiwix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "14f720e43f8c85d80ead067fbeae54b707edc613d69fb79f7f945cea4fd9358a"
+      },
+      "sha256": "390771d18420a3e3fafc59e35ca262195a98318ad2a5625c50e084cf32030d4b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kiwix.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1210,
+      "collection": "Dashboard Icons",
+      "file": "kiwix-1.svg",
+      "id": 3140,
+      "is_default": false,
+      "label": "kiwix-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kiwix-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0bd1670ad7de4a2caeaa2e47be1a31d45712a11f408cda9cfe13552ab7e65cc1"
+      },
+      "sha256": "dfa561330d5e5443923e4007da3b2557c63f7c79f08b8a362217dc91d1789143",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kiwix-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

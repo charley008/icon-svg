@@ -1,0 +1,40 @@
+{
+  "collection_id": 757,
+  "schema_version": 1,
+  "id": 984,
+  "title": "Asciinema",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "asciinema"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 681,
+      "collection": "Dashboard Icons",
+      "file": "asciinema.svg",
+      "id": 1975,
+      "is_default": true,
+      "label": "asciinema",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "asciinema.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3c8cc734909178fc6fabd920e72805559f6b0086ab55f7a3597c7af34b604860"
+      },
+      "sha256": "8f453e0a388997f5abe4e14fa44fcbe353b3dbb7a65700b59b1e6b96e53041b2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asciinema.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

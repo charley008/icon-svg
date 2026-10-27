@@ -1,0 +1,59 @@
+{
+  "collection_id": 930,
+  "schema_version": 1,
+  "id": 1157,
+  "title": "Cal Com",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cal-com"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 815,
+      "collection": "Dashboard Icons",
+      "file": "cal-com.svg",
+      "id": 2201,
+      "is_default": true,
+      "label": "cal-com",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cal-com.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7419f0ca71747bff1509d26628098ba4ecdb2d4bacf435765629870a20985eb1"
+      },
+      "sha256": "e0891f51e50b9446e7b921ffd6a0d81137b59168bcebe673b99d90e1cc79b804",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cal-com.svg",
+      "version": 0
+    },
+    {
+      "bytes": 815,
+      "collection": "Dashboard Icons",
+      "file": "cal-com-1.svg",
+      "id": 2202,
+      "is_default": false,
+      "label": "cal-com-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cal-com-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "71c2d6935b247b6451ab88a11912440d0cc84fbb32aa4012987e0aae4976829c"
+      },
+      "sha256": "44168f44831ea011f98853a7050e4fb5e2a0cd5ae09f2a20f3176bd8e9a33e19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cal-com-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,78 @@
+{
+  "collection_id": 1430,
+  "schema_version": 1,
+  "id": 1657,
+  "title": "Gsap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gsap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2921,
+      "collection": "Dashboard Icons",
+      "file": "gsap.svg",
+      "id": 2861,
+      "is_default": true,
+      "label": "gsap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gsap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "542598ae87af57c2be27bc40bb1b1ee9e099c6d91edbaa77975d9bb789ecba00"
+      },
+      "sha256": "f687d1338a76d3700914cc9ffd8531e2589e1f74dc1a3832e219793e6bedcc89",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gsap.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5565,
+      "collection": "Dashboard Icons",
+      "file": "gsap-1.svg",
+      "id": 2862,
+      "is_default": false,
+      "label": "gsap-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gsap-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d28cf408fa1d2ee749a19a1beb9c0d0146c2a0072ab01393c255f9309459c14"
+      },
+      "sha256": "a8bd84d268f31156de9fa3135a324e29c920a9babb3312d224b8636e6b876791",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gsap-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 5569,
+      "collection": "Dashboard Icons",
+      "file": "gsap-2.svg",
+      "id": 2863,
+      "is_default": false,
+      "label": "gsap-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gsap-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cbb10e3e25c9791f92d6c64b6fc6e7251deba97efef07ce5f7b5064de782eeff"
+      },
+      "sha256": "729860f16b3186ee6565e9b08733dca0f0a8a621b988ad6af130be23dcb9db28",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gsap-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

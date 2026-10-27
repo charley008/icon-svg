@@ -1,0 +1,44 @@
+{
+  "collection_id": 1269,
+  "schema_version": 1,
+  "id": 1496,
+  "title": "Filestash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "filestash",
+    "Web File Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 614,
+      "collection": "Dashboard Icons",
+      "file": "filestash.svg",
+      "id": 2653,
+      "is_default": true,
+      "label": "filestash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filestash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0f56d5ab4ac93ce52cd410dfa3951d98f07a2ac46bd676ce37b64d73f985d85c"
+      },
+      "sha256": "80ebbd84c423706d969694d70998ff9530a0d20eebeed7ba1ec1d2ec0a485161",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filestash.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

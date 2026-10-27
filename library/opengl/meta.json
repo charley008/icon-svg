@@ -1,0 +1,45 @@
+{
+  "collection_id": 3196,
+  "schema_version": 1,
+  "id": 3458,
+  "title": "OpenGL",
+  "url": "https://www.opengl.org",
+  "domains": [
+    "opengl.org"
+  ],
+  "description": "跨平台图形程序开发接口。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "OpenGL",
+    "opengl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5698,
+      "collection": "TechIcons / Devicon",
+      "file": "opengl-1.svg",
+      "id": 5300,
+      "is_default": true,
+      "label": "TechIcons · OpenGL",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OpenGL.svg",
+        "original_sha256": "4371417042cc4b098b5f3ef24a70f12ac87dda23a9fab9d87278f6464b772c07",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/opengl",
+        "reference_website": "https://www.opengl.org"
+      },
+      "sha256": "46f15beb1a19fca9e38fe783de2a36dd45677b7d21139d3ec28f4bc50f6cb37c",
+      "source": "https://techicons.dev/icons/opengl",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

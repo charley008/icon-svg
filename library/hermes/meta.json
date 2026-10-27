@@ -1,0 +1,42 @@
+{
+  "collection_id": 1468,
+  "schema_version": 1,
+  "id": 1695,
+  "title": "Hermes",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hermes",
+    "hermes-agent",
+    "hermes-icon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 19804,
+      "collection": "Dashboard Icons",
+      "file": "hermes.svg",
+      "id": 2922,
+      "is_default": true,
+      "label": "hermes",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hermes.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "34aab14607ade98c571bca2d5f3447234acf61359338eb776f07e4b2f1e6ac52"
+      },
+      "sha256": "3bca87ee668ad3a74dd32de3c53a1283079234c0fec18ab0dbd0408433148583",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hermes.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

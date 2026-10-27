@@ -39,8 +39,27 @@
       "source": "https://cdn.worldvectorlogo.com/logos/nasa-6.svg",
       "source_page": "https://worldvectorlogo.com/zh/logo/nasa-6",
       "version": 0
+    },
+    {
+      "bytes": 5642,
+      "collection": "Dashboard Icons",
+      "file": "nasa-1.svg",
+      "id": 3468,
+      "is_default": false,
+      "label": "nasa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nasa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f3e3451a5c8e2245c2dcd222e464168e3c9c0ed47b9e23c0ab19ac05df86a93"
+      },
+      "sha256": "16c098ab5fd8be76e54ba876e572d468dd56aade7a2a2aa05fa00567db7e088c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nasa.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

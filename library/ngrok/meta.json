@@ -1,0 +1,105 @@
+{
+  "collection_id": 1940,
+  "schema_version": 1,
+  "id": 2167,
+  "redirect_from": [
+    2168,
+    2169
+  ],
+  "title": "Ngrok",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ngrok",
+    "ngrok-wordmark-light",
+    "Ngrok Wordmark Light",
+    "ngrok-wordmark-dark",
+    "Ngrok Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 454,
+      "collection": "Dashboard Icons",
+      "file": "ngrok.svg",
+      "id": 3538,
+      "is_default": true,
+      "label": "ngrok",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ngrok.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b11345f84c0c3d00275895e956f2014300700f88e36d366ce50f14e0319e44f4"
+      },
+      "sha256": "bdc786746793db7ba778d3f0de0bf93984a0f6f93cdfd7013164af145c45f130",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ngrok.svg",
+      "version": 0
+    },
+    {
+      "bytes": 457,
+      "collection": "Dashboard Icons",
+      "file": "ngrok-1.svg",
+      "id": 3539,
+      "is_default": false,
+      "label": "ngrok-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ngrok-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "962cf550396cc7b06ecf1c4b871f163d35bb8ed689900d64c47fac2f260884a5"
+      },
+      "sha256": "31937d474ee8daff25e34eda4f68ddd829ab2821edbfb6dd27a7df40e998700d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ngrok-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2806,
+      "collection": "Dashboard Icons",
+      "file": "ngrok-2.svg",
+      "id": 3541,
+      "is_default": false,
+      "label": "ngrok-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ngrok-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "55ff86701e4ab91ae8586312b9ccdb6b9da7e4805cdfc8ada58ad5347a02a8c9"
+      },
+      "sha256": "363e82d3be164ef04c32a8205b53d080ec13b696c8603b4fe2bb4942b6393922",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ngrok-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2799,
+      "collection": "Dashboard Icons",
+      "file": "ngrok-3.svg",
+      "id": 3540,
+      "is_default": false,
+      "label": "ngrok-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ngrok-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b52e3deba3ffc5946270e7d6b29a2c925cad55d427046068476ac8e2a9197f87"
+      },
+      "sha256": "ac9009b1e03de9629e99b3a4159e8a65ba97ea29fb9f79449f61d73ca89d7e04",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ngrok-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

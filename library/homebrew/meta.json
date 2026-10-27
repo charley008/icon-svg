@@ -1,0 +1,60 @@
+{
+  "collection_id": 1487,
+  "schema_version": 1,
+  "id": 1714,
+  "title": "Homebrew",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "homebrew"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2339,
+      "collection": "Dashboard Icons",
+      "file": "homebrew.svg",
+      "id": 2948,
+      "is_default": true,
+      "label": "homebrew",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homebrew.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3a7b1a46a597962ae72ca65ac5e6b4c3fe61067fedf7b14ebba3a73272e120f4"
+      },
+      "sha256": "b4478398cb94a18c905bd5108c08df370697ef2c2f2fdc63dd416810c65adfd6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homebrew.svg",
+      "version": 0
+    },
+    {
+      "bytes": 11854,
+      "collection": "TechIcons / Devicon",
+      "file": "homebrew-1.svg",
+      "id": 5204,
+      "is_default": false,
+      "label": "TechIcons · Homebrew",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Homebrew.svg",
+        "original_sha256": "2556bea69116c0692a4c0a5f4e9471d4bb15bd3c76348943503743bab4698aa4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/homebrew",
+        "reference_website": "https://brew.sh"
+      },
+      "sha256": "2af0a4b0021560a9a0fe823802f6b6e8a2d05cd416103b3adeb8c1bee65dac53",
+      "source": "https://techicons.dev/icons/homebrew",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

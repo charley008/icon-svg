@@ -1,4 +1,7 @@
 {
+  "collection_id": 509,
+  "schema_version": 1,
+  "id": 681,
   "title": "Bandcamp",
   "url": "https://bandcamp.com/",
   "domains": [
@@ -19,23 +22,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "bandcamp.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "e82ce69b9926035f718d2e6dc98870539ebf5afce5e4d66171dbf5a402d84705",
       "bytes": 243,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bandcamp.svg",
+      "collection": "Dashboard Icons",
+      "file": "bandcamp.svg",
+      "id": 1642,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "bandcamp.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "e82ce69b9926035f718d2e6dc98870539ebf5afce5e4d66171dbf5a402d84705",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bandcamp.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

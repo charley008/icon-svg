@@ -1,0 +1,44 @@
+{
+  "collection_id": 648,
+  "schema_version": 1,
+  "id": 875,
+  "title": "4Chan",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "4chan",
+    "chan",
+    "luck"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 23710,
+      "collection": "Dashboard Icons",
+      "file": "4chan.svg",
+      "id": 1835,
+      "is_default": true,
+      "label": "4chan",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "4chan.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2305095016cac0dc254610bea2c72bea5258426ee4c114f3c9649054facc7257"
+      },
+      "sha256": "3b3e4fcd1d7b9785389195238fec95c91cca9e3fa6e1d1bd362b09420c274523",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/4chan.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

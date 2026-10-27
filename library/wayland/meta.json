@@ -1,0 +1,40 @@
+{
+  "collection_id": 2953,
+  "schema_version": 1,
+  "id": 3180,
+  "title": "Wayland",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wayland"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7338,
+      "collection": "Dashboard Icons",
+      "file": "wayland.svg",
+      "id": 4885,
+      "is_default": true,
+      "label": "wayland",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wayland.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "47fdd0a500dcf1e0fa8beefe8c22093e9f28efa5dbd56b50741bfa6fa2ae2a66"
+      },
+      "sha256": "dc9577074e8ff597327747aaa964cff627666f6b23fff8c599996891a4e55c90",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wayland.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

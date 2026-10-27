@@ -1,0 +1,44 @@
+{
+  "collection_id": 2455,
+  "schema_version": 1,
+  "id": 2682,
+  "title": "Rabbitmq",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Networking-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "rabbitmq",
+    "Message Broker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 776,
+      "collection": "Dashboard Icons",
+      "file": "rabbitmq.svg",
+      "id": 4245,
+      "is_default": true,
+      "label": "rabbitmq",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rabbitmq.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74fdd0176ad71014e63aa25969831cca00f8407b79820cd197169a0504860c6d"
+      },
+      "sha256": "9d7d647b0f0b6e7f66f25c513843aa381a510fb60009f3db5dcd17c9d42bc246",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rabbitmq.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2818,
+  "schema_version": 1,
+  "id": 3045,
+  "title": "Topdesk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "topdesk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 359,
+      "collection": "Dashboard Icons",
+      "file": "topdesk.svg",
+      "id": 4709,
+      "is_default": true,
+      "label": "topdesk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "topdesk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6c61592e7b6f3bff8ea5990d2b05dd2c66c31aa806a9e8b9875259c967c4a4d1"
+      },
+      "sha256": "397356da3b2199df20ffb2ce3657e095b961ceb763b0111753fc4c8f9bc34b68",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/topdesk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

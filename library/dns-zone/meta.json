@@ -1,0 +1,40 @@
+{
+  "collection_id": 1118,
+  "schema_version": 1,
+  "id": 1345,
+  "title": "Dns Zone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dns-zone"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2534,
+      "collection": "Dashboard Icons",
+      "file": "dns-zone.svg",
+      "id": 2455,
+      "is_default": true,
+      "label": "dns-zone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dns-zone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e6aaa1380e974af7d0aba1bb8380ecfab3f95182a595a28692aa3f963bcf9fac"
+      },
+      "sha256": "b15a759b6a51a28d04bf5d17e5748fb365f7135dbff3fe094d63f55dcf9a674a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dns-zone.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

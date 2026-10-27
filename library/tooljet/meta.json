@@ -1,0 +1,59 @@
+{
+  "collection_id": 2816,
+  "schema_version": 1,
+  "id": 3043,
+  "title": "Tooljet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tooljet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1034,
+      "collection": "Dashboard Icons",
+      "file": "tooljet.svg",
+      "id": 4706,
+      "is_default": true,
+      "label": "tooljet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tooljet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "86d1e3e225d7eeb9510aa4f26cbdd458a7b8584825fc7bfe37dd52d679582770"
+      },
+      "sha256": "deec9c1ca35dd68ef4bc8f9bffe7a2929406fd4ce3d5aa7c7422f20104c6fcc0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tooljet.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1058,
+      "collection": "Dashboard Icons",
+      "file": "tooljet-1.svg",
+      "id": 4707,
+      "is_default": false,
+      "label": "tooljet-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tooljet-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e42484ab110e1b0600204218fbf9179645f641819514a5366d87f69e76b1a23a"
+      },
+      "sha256": "cf675ab35a950f3ea4452965e28bb63af8e880ff2e5e993c12d810d92c4279a4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tooljet-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

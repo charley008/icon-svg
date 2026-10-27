@@ -1,0 +1,45 @@
+{
+  "collection_id": 2857,
+  "schema_version": 1,
+  "id": 3084,
+  "title": "Tweakers",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons",
+    "News",
+    "Technology-News",
+    "新闻资讯"
+  ],
+  "aliases": [
+    "tweakers",
+    "dutch-tech-news",
+    "hardware-reviews"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 868,
+      "collection": "Dashboard Icons",
+      "file": "tweakers.svg",
+      "id": 4755,
+      "is_default": true,
+      "label": "tweakers",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tweakers.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2bfe55bfa76c62420edccbfa2a06dbcbd2dccc216032a807a39e8d4508cfef71"
+      },
+      "sha256": "a7780e43324cb826fcb74288526e292f0607fdd3ce2b91f85a81e72f0ee2c8be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tweakers.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

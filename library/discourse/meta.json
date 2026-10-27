@@ -1,0 +1,59 @@
+{
+  "collection_id": 1111,
+  "schema_version": 1,
+  "id": 1338,
+  "title": "Discourse",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "discourse"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1134,
+      "collection": "Dashboard Icons",
+      "file": "discourse.svg",
+      "id": 2444,
+      "is_default": true,
+      "label": "discourse",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "discourse.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e19fb46c48e868a2cf25c9e200cb14d5c09a299e39509e82691b3f62d67244c2"
+      },
+      "sha256": "60c273c65ea134273c27d7f274bf59a5d9b452bbc8a5e39d22d16d64197f3f4c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/discourse.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1146,
+      "collection": "Dashboard Icons",
+      "file": "discourse-1.svg",
+      "id": 2445,
+      "is_default": false,
+      "label": "discourse-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "discourse-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "13c390894797120bcadc6e67d613a23bcbff6bc38bf6d55dbd25cf8027de54d4"
+      },
+      "sha256": "1d05eb8d9dd1b4c7cd45c141fb9a3b9e7dbeb4952b7de89f125944a07b229fee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/discourse-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

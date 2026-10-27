@@ -1,0 +1,63 @@
+{
+  "collection_id": 2775,
+  "schema_version": 1,
+  "id": 3002,
+  "title": "Teslamate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Smart-Home",
+    "系统工具"
+  ],
+  "aliases": [
+    "teslamate",
+    "Tesla Data Logger"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 523,
+      "collection": "Dashboard Icons",
+      "file": "teslamate.svg",
+      "id": 4652,
+      "is_default": true,
+      "label": "teslamate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teslamate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b47c8b37daa7cb8e757ee11f4d8555b27634f52067f5581d9107dcf01341b787"
+      },
+      "sha256": "38a03bc665f102d16e92e3169189d131cae7ef30422a46bddaefdc04074b11f6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teslamate.svg",
+      "version": 0
+    },
+    {
+      "bytes": 523,
+      "collection": "Dashboard Icons",
+      "file": "teslamate-1.svg",
+      "id": 4653,
+      "is_default": false,
+      "label": "teslamate-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teslamate-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7b52337c42a524d8d82255a1a3dba57233b8d37983168da7f31e11ba8e8a1c27"
+      },
+      "sha256": "06db2a98b04c4100730a972a4e044bc8dabb7a220193229d32f8a04ede190a62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teslamate-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

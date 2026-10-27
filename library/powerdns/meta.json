@@ -1,0 +1,44 @@
+{
+  "collection_id": 2200,
+  "schema_version": 1,
+  "id": 2427,
+  "title": "Powerdns",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "网络工具"
+  ],
+  "aliases": [
+    "powerdns",
+    "DNS Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 872,
+      "collection": "Dashboard Icons",
+      "file": "powerdns.svg",
+      "id": 3915,
+      "is_default": true,
+      "label": "powerdns",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "powerdns.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc3ec1b2a9145d884ce3f5ffa00e92eb392d0fff5f1ee57c30ebc374481e3af1"
+      },
+      "sha256": "a128a959c15e7853d3a260e87f0a720c36f0a1b970f7fb00abddd533431355e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerdns.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

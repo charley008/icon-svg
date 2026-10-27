@@ -1,0 +1,59 @@
+{
+  "collection_id": 2114,
+  "schema_version": 1,
+  "id": 2341,
+  "title": "Peacock",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "peacock"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1185,
+      "collection": "Dashboard Icons",
+      "file": "peacock.svg",
+      "id": 3784,
+      "is_default": true,
+      "label": "peacock",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peacock.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3e25492d3da3a2753c3eef6f0525d13a89de7e3ba42aecaf83c00f73c1919b89"
+      },
+      "sha256": "66ece66298df8c29000bbb764507a140d9b6dca71aafe9a3a5a58ef82f31d159",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peacock.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1197,
+      "collection": "Dashboard Icons",
+      "file": "peacock-1.svg",
+      "id": 3785,
+      "is_default": false,
+      "label": "peacock-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "peacock-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d182d04bf2f327edaa7d38c157a4689558cd8e56d846800dad1c23d1b97fe9e"
+      },
+      "sha256": "fd7d8f72a3513ee72f52e26091e72d8e24706220064df8a7d62447cd61678a5e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/peacock-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

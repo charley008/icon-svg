@@ -1,0 +1,40 @@
+{
+  "collection_id": 2613,
+  "schema_version": 1,
+  "id": 2840,
+  "title": "Sickbeard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sickbeard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16072,
+      "collection": "Dashboard Icons",
+      "file": "sickbeard.svg",
+      "id": 4450,
+      "is_default": true,
+      "label": "sickbeard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sickbeard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d2a952a8a9d0e3b606f0ad3fd1ea71672371d4938a63b5ae06b6783d3d5e20e9"
+      },
+      "sha256": "dd9240c11c7110beab26820ba9168df28c0ff173812df6c8919ebcb094ace770",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sickbeard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

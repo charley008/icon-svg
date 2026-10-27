@@ -1,0 +1,40 @@
+{
+  "collection_id": 1303,
+  "schema_version": 1,
+  "id": 1530,
+  "title": "Fluxer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fluxer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2382,
+      "collection": "Dashboard Icons",
+      "file": "fluxer.svg",
+      "id": 2692,
+      "is_default": true,
+      "label": "fluxer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fluxer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f226f82b6d215a8921635d6cd66274502685c04776cd8be502c89238c302a74"
+      },
+      "sha256": "2fe367aa670acfe382b62fde88cf425c18912db8531ba50b8b73ffe4fbcecefb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fluxer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

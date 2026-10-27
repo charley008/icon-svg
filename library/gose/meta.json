@@ -1,0 +1,40 @@
+{
+  "collection_id": 1412,
+  "schema_version": 1,
+  "id": 1639,
+  "title": "Gose",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gose"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1485,
+      "collection": "Dashboard Icons",
+      "file": "gose.svg",
+      "id": 2838,
+      "is_default": true,
+      "label": "gose",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gose.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9f2f328e5515a131308fa8cf744ed13c2482a349571729a07a2baab33f5a239e"
+      },
+      "sha256": "70917b8b5fa095ba5c31032c523e4f1b2301f9533f2b323fb57496317322c8ed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gose.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

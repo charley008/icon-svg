@@ -1,0 +1,41 @@
+{
+  "collection_id": 642,
+  "schema_version": 1,
+  "id": 869,
+  "title": "1337X",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "1337x"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 636,
+      "collection": "Dashboard Icons",
+      "file": "1337x.svg",
+      "id": 1825,
+      "is_default": true,
+      "label": "1337x",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "1337x.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d3ca823e90486303e21dedee6b93a382785cb5ec7245b9c0ece6110b3d66fe19"
+      },
+      "sha256": "4366aca0b10727c4c90c34e778c3f4cd197475bcca778d922f3bd1186c8dfd87",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/1337x.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

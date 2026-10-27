@@ -1,4 +1,11 @@
 {
+  "collection_id": 614,
+  "schema_version": 1,
+  "id": 839,
+  "redirect_from": [
+    2829,
+    2830
+  ],
   "title": "Shelly",
   "url": "https://www.shelly.com/",
   "domains": [
@@ -17,28 +24,108 @@
     "智能开关",
     "智能家居",
     "家居设备",
-    "shelly-smart-home"
+    "shelly-smart-home",
+    "shelly-wordmark-light",
+    "Shelly Wordmark Light",
+    "shelly-wordmark-dark",
+    "Shelly Wordmark Dark"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "shelly.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "f80743136533002cc615262feaafb5aad0e549a978b812e894f452d258c3b16a",
       "bytes": 1236,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly.svg",
+      "collection": "Dashboard Icons",
+      "file": "shelly.svg",
+      "id": 1796,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "shelly.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "f80743136533002cc615262feaafb5aad0e549a978b812e894f452d258c3b16a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1094,
+      "collection": "Dashboard Icons",
+      "file": "shelly-1.svg",
+      "id": 4437,
+      "is_default": false,
+      "label": "shelly-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shelly-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1eed19e3dcb0001a58c4c97bc85636f505405629d3a0d6cd3eedee8a593e3365"
+      },
+      "sha256": "268e7bf5bfafa3049956caaa56ae521290b06a7e96a706c14c4706b2c3f27446",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1094,
+      "collection": "Dashboard Icons",
+      "file": "shelly-2.svg",
+      "id": 4438,
+      "is_default": false,
+      "label": "shelly-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shelly-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "232357468d150ddc6a0409fe6c6f068d4f34cd9f6ea9de200cfb142d5e4421c8"
+      },
+      "sha256": "5fe86772968e6414fcc3323283f04f28513ef2f8e4655e11119d9ad51f5f0b5f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2847,
+      "collection": "Dashboard Icons",
+      "file": "shelly-3.svg",
+      "id": 4440,
+      "is_default": false,
+      "label": "shelly-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shelly-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "770a34fed27cea4e37543898e12dcb1878a19aa08c7dbd4599843dc8b8108efa"
+      },
+      "sha256": "f79a3cc73bb5a10e1c3b6e6e86bc222b23595823c5c484f4c01ce6c2097835df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 2847,
+      "collection": "Dashboard Icons",
+      "file": "shelly-4.svg",
+      "id": 4439,
+      "is_default": false,
+      "label": "shelly-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "shelly-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "58b9c52db7dc902510f86da776ee3a98cfd5d2e86af2e13db974840975db0f74"
+      },
+      "sha256": "e85a9c66665e0ecf43c7edf690fb49ae030add59342f960a2955923ab792b2a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/shelly-wordmark-dark.svg",
+      "version": 4
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 5,
   "products": []
 }

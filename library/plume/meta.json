@@ -1,0 +1,40 @@
+{
+  "collection_id": 2169,
+  "schema_version": 1,
+  "id": 2396,
+  "title": "Plume",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "plume"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 685,
+      "collection": "Dashboard Icons",
+      "file": "plume.svg",
+      "id": 3867,
+      "is_default": true,
+      "label": "plume",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "plume.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c2df6e7a70e0d11cdc1714cd2d4f8f8fbdf568eb6085b083eec276bf9b0e8af"
+      },
+      "sha256": "e301e3d15e94d8d6b56a95e512775e2af7a0b62cae5493d3eee178a9bff728af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/plume.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

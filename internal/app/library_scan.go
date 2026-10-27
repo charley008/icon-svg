@@ -36,6 +36,12 @@ func normalizeLibraryFiles(files map[string][]byte) (map[string][]byte, error) {
 				return nil, errors.New("产品 ID 无效")
 			}
 			gid = max(gid, g.ID)
+			for _, alias := range g.RedirectFrom {
+				if alias <= 0 || alias > 1<<52 {
+					return nil, errors.New("旧详情地址 ID 无效")
+				}
+				gid = max(gid, alias)
+			}
 			for _, i := range g.Icons {
 				if i.ID < 0 || i.ID > 1<<52 {
 					return nil, errors.New("图标 ID 无效")

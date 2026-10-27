@@ -1,0 +1,40 @@
+{
+  "collection_id": 1102,
+  "schema_version": 1,
+  "id": 1329,
+  "title": "Dictcc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dictcc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1276,
+      "collection": "Dashboard Icons",
+      "file": "dictcc.svg",
+      "id": 2431,
+      "is_default": true,
+      "label": "dictcc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dictcc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3cbd5c3741b29b7cb7df8f2aa195f0aef3c59754b5d0dadb56abbcf6b36e01c7"
+      },
+      "sha256": "87f5c8e05817560fdf348dfbcd7fde9cfd52122561a9b2b6f85e2c1e8fb4d17d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dictcc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

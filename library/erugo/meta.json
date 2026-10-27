@@ -1,0 +1,40 @@
+{
+  "collection_id": 1214,
+  "schema_version": 1,
+  "id": 1441,
+  "title": "Erugo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "erugo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5085,
+      "collection": "Dashboard Icons",
+      "file": "erugo.svg",
+      "id": 2582,
+      "is_default": true,
+      "label": "erugo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "erugo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "840c25d2304340698d8ff33650505a105e6a70bb8fc83b335adc900e654e42bf"
+      },
+      "sha256": "55a23aafc10da17b4b00adb644bd679a120f0f6d97d747b6b2185709bbe5c291",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/erugo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

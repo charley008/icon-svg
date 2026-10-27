@@ -1,0 +1,40 @@
+{
+  "collection_id": 1864,
+  "schema_version": 1,
+  "id": 2091,
+  "title": "Msi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "msi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4151,
+      "collection": "Dashboard Icons",
+      "file": "msi.svg",
+      "id": 3439,
+      "is_default": true,
+      "label": "msi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "msi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b6631b633025cff33304f7f2fbb57d6fd7a31f5865075688e1fec24294c3e02f"
+      },
+      "sha256": "e409e1d55a48d424d27f7a14f45eaf8f9c746050c8a9a95426200af4c8fc89c1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/msi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

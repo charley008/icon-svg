@@ -1,0 +1,40 @@
+{
+  "collection_id": 1687,
+  "schema_version": 1,
+  "id": 1914,
+  "title": "Libation",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "libation"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3337,
+      "collection": "Dashboard Icons",
+      "file": "libation.svg",
+      "id": 3196,
+      "is_default": true,
+      "label": "libation",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "libation.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e8b70fc4c9495547a25bfc2b9ed0289caee1e4c880461ea5544a0fe04612dc4c"
+      },
+      "sha256": "dc26185e2bd6a5138dfa51d2d6b79d6fd0eca4f0eb4453c1223803fd46aed60d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/libation.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

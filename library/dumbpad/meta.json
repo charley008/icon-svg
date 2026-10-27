@@ -1,0 +1,40 @@
+{
+  "collection_id": 1166,
+  "schema_version": 1,
+  "id": 1393,
+  "title": "Dumbpad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dumbpad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1505,
+      "collection": "Dashboard Icons",
+      "file": "dumbpad.svg",
+      "id": 2516,
+      "is_default": true,
+      "label": "dumbpad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dumbpad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e6f662a1ca5b768fb563b5723e000b0ff5d2686b95dacb9248933203d29b97f6"
+      },
+      "sha256": "14f282552e8803baeb5ac61b55c601e85eff623ba6000b495cb5fa87c37d4b66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dumbpad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

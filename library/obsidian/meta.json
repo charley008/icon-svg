@@ -1,4 +1,7 @@
 {
+  "collection_id": 580,
+  "schema_version": 1,
+  "id": 799,
   "title": "Obsidian",
   "url": "https://obsidian.md/",
   "domains": [
@@ -23,23 +26,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "obsidian.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8dd1855430357c5ce6f76e7722b5f6b68a712ad98d2be5be6ba77616bfc69754",
       "bytes": 4806,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/obsidian.svg",
+      "collection": "Dashboard Icons",
+      "file": "obsidian.svg",
+      "id": 1756,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "obsidian.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8dd1855430357c5ce6f76e7722b5f6b68a712ad98d2be5be6ba77616bfc69754",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/obsidian.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

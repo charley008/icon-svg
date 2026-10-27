@@ -1,0 +1,40 @@
+{
+  "collection_id": 1666,
+  "schema_version": 1,
+  "id": 1893,
+  "title": "Kubeflow",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kubeflow"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10327,
+      "collection": "Dashboard Icons",
+      "file": "kubeflow.svg",
+      "id": 3168,
+      "is_default": true,
+      "label": "kubeflow",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kubeflow.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "024da165175df90baa0d2d407ca40f584dbe5132e5650ec30fec6adf9792a8d7"
+      },
+      "sha256": "0b74012ee4a926bb843c745fb2076318ca9f699add6a2442ed4eff85bfd59f3a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kubeflow.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

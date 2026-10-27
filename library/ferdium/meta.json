@@ -1,0 +1,44 @@
+{
+  "collection_id": 1253,
+  "schema_version": 1,
+  "id": 1480,
+  "title": "Ferdium",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "Office-Suites",
+    "办公效率"
+  ],
+  "aliases": [
+    "ferdium",
+    "Messaging App"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 776,
+      "collection": "Dashboard Icons",
+      "file": "ferdium.svg",
+      "id": 2635,
+      "is_default": true,
+      "label": "ferdium",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ferdium.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "132fae74c76baefff7025a22143049dfa80cae7b716396d91fc81059da11234c"
+      },
+      "sha256": "b94f05ab9eba6d2e4671f80b1ba150ceabcf1667a130ed7145914373a0129cd7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ferdium.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

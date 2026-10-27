@@ -1,0 +1,40 @@
+{
+  "collection_id": 948,
+  "schema_version": 1,
+  "id": 1175,
+  "title": "Cessna",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cessna"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6672,
+      "collection": "Dashboard Icons",
+      "file": "cessna.svg",
+      "id": 2226,
+      "is_default": true,
+      "label": "cessna",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cessna.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "10fcc3fb55cc18f32e620b5b89ed14c5b433c65b02627a4468d443e2992ff33c"
+      },
+      "sha256": "adeaab7031fa1825e35de33c288ac7a66273b3d23b00ae10a0bd662e9eb625d1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cessna.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

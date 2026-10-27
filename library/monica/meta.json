@@ -1,0 +1,59 @@
+{
+  "collection_id": 1853,
+  "schema_version": 1,
+  "id": 2080,
+  "title": "Monica",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "monica"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1564,
+      "collection": "Dashboard Icons",
+      "file": "monica.svg",
+      "id": 3423,
+      "is_default": true,
+      "label": "monica",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "monica.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2c3ad3c583a1aeabf7d20bca311d2ad4be72aa9a26ee4681cec2ef0773e63559"
+      },
+      "sha256": "7a90c2fff33f63a9a684c24fdd61a1136651ae641c8c5ca1c0f7fd261c969934",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/monica.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1558,
+      "collection": "Dashboard Icons",
+      "file": "monica-1.svg",
+      "id": 3424,
+      "is_default": false,
+      "label": "monica-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "monica-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d43c7bf2f3a3ecabb4af7aac75a58838e8a504c8ef416397c7121e637c31103b"
+      },
+      "sha256": "cd23bd6d20ee9fa2012208f4471d924a44f0144e4247c8a24f9fc286060a15e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/monica-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

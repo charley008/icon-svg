@@ -1,0 +1,45 @@
+{
+  "collection_id": 3264,
+  "schema_version": 1,
+  "id": 3529,
+  "title": "YAML",
+  "url": "https://yaml.org",
+  "domains": [
+    "yaml.org"
+  ],
+  "description": "用于结构化数据和配置文件的表示格式。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "YAML",
+    "yaml"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 853,
+      "collection": "TechIcons / Devicon",
+      "file": "yaml-1.svg",
+      "id": 5408,
+      "is_default": true,
+      "label": "TechIcons · YAML",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "YAML.svg",
+        "original_sha256": "7fecdaa89f0c22424ea16b655c739ab147dc31d4b72a128ea4de2f28ed1d75d3",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/yaml",
+        "reference_website": "https://yaml.org"
+      },
+      "sha256": "6bf40387a129e0d062f1141f5471827899a3ea0144d502295c9dd1db86ad82f4",
+      "source": "https://techicons.dev/icons/yaml",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

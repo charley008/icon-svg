@@ -1,4 +1,7 @@
 {
+  "collection_id": 526,
+  "schema_version": 1,
+  "id": 699,
   "title": "Eclipse Foundation",
   "url": "https://www.eclipse.org/",
   "domains": [
@@ -17,11 +20,77 @@
     "物联网"
   ],
   "notes": [],
-  "icons": [],
-  "next_version": 0,
-  "schema_version": 1,
+  "icons": [
+    {
+      "bytes": 2647,
+      "collection": "TechIcons / Devicon",
+      "file": "eclipse.svg",
+      "id": 5136,
+      "is_default": true,
+      "label": "TechIcons · Eclipse IDE",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Eclipse-IDE.svg",
+        "original_sha256": "21380f01bc3ad1e2582b017b02ae593b31601fee50f645cbcdad6e9459f237c7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/eclipse",
+        "reference_website": "https://eclipseide.org"
+      },
+      "sha256": "6433fc32c19e406a4bcfb1fc06054064387722134f2da054e275fd9168c0835f",
+      "source": "https://techicons.dev/icons/eclipse",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
   "products": [
     {
+      "id": 3355,
+      "key": "ceylon",
+      "title": "Eclipse Ceylon",
+      "url": "https://ceylon-lang.org",
+      "domains": [
+        "ceylon-lang.org"
+      ],
+      "description": "运行于 JVM 等环境的编程语言。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Eclipse Ceylon",
+        "ceylon",
+        "Eclipse-Ceylon"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4137,
+          "collection": "TechIcons / Devicon",
+          "file": "eclipse-ceylon-1.svg",
+          "id": 5137,
+          "is_default": true,
+          "label": "TechIcons · Eclipse Ceylon",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Eclipse-Ceylon.svg",
+            "original_sha256": "1fcbc79018a419e01c821efe136d1363ff08e019b32923abee4b5261f5b7b4f1",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/ceylon",
+            "reference_website": "https://ceylon-lang.org"
+          },
+          "sha256": "eabc2a6be77a40121570c810e952d0252a4df845867cd63a4a1be982fc4c9078",
+          "source": "https://techicons.dev/icons/ceylon",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 700,
+      "key": "mosquitto",
       "title": "Eclipse Mosquitto",
       "url": "https://mosquitto.org/",
       "domains": [
@@ -47,24 +116,87 @@
       "notes": [],
       "icons": [
         {
-          "file": "eclipse-mosquitto.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "f339cedd619dc2a39a8153cc687fd0272e219108a3b86456543553f6531ea0d5",
           "bytes": 1510,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mosquitto.svg",
+          "collection": "Dashboard Icons",
+          "file": "eclipse-mosquitto.svg",
+          "id": 1660,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "mosquitto.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "f339cedd619dc2a39a8153cc687fd0272e219108a3b86456543553f6531ea0d5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mosquitto.svg",
+          "version": 0
+        },
+        {
+          "bytes": 571,
+          "collection": "Dashboard Icons",
+          "file": "eclipse-mosquitto-1.svg",
+          "id": 2531,
+          "is_default": false,
+          "label": "mqtt",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "mqtt.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cfaf66cea4d453e0aed5fc3fa552616838e87adece62d233603d183d245a13db"
+          },
+          "sha256": "f5f2b3d4ddb6372df2f843c835020e263c26257ffe76dcfb88340308e51e8f7e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mqtt.svg",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "mosquitto"
+      "next_version": 2
+    },
+    {
+      "id": 3356,
+      "key": "vertx",
+      "title": "Eclipse Vert.x",
+      "url": "https://vertx.io",
+      "domains": [
+        "vertx.io"
+      ],
+      "description": "面向 JVM 的异步与响应式应用开发工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Eclipse Vert.x",
+        "vertx",
+        "Eclipse-Vert.x"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1918,
+          "collection": "TechIcons / Devicon",
+          "file": "eclipse-vertx-1.svg",
+          "id": 5138,
+          "is_default": true,
+          "label": "TechIcons · Eclipse Vert.x",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Eclipse-Vert.x.svg",
+            "original_sha256": "70335881aa1ae7cec8c4a5682b2defcde97ebe38867a6846d026f0902d07bedd",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/vertx",
+            "reference_website": "https://vertx.io"
+          },
+          "sha256": "6da742d2de5e56342292c829e0c967f47c8f4b2e3e8ec96e015c2c7cef381f61",
+          "source": "https://techicons.dev/icons/vertx",
+          "version": 1
+        }
+      ],
+      "next_version": 2
     }
   ]
 }

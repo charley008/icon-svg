@@ -127,8 +127,27 @@
       "sha256": "64a3a2693d4f3e4727cb5a4aefa845be54108e8afc53ce31d76d079b24c5dcdc",
       "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/discord/mono.svg",
       "version": 4
+    },
+    {
+      "bytes": 819,
+      "collection": "Dashboard Icons",
+      "file": "discord-5.svg",
+      "id": 2443,
+      "is_default": false,
+      "label": "discord",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "discord.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c04059c1d13d99239ebd0b7df807e8c3d2f46439bd18a70c5fd3a0631bd7b310"
+      },
+      "sha256": "3b45eed3013f5259479d9b05352789e5e82ce8a059f77088eec5572bb8da34d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/discord.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

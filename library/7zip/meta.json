@@ -1,0 +1,42 @@
+{
+  "collection_id": 650,
+  "schema_version": 1,
+  "id": 877,
+  "title": "7Zip",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools"
+  ],
+  "aliases": [
+    "7zip",
+    "7-zip"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3123,
+      "collection": "Dashboard Icons",
+      "file": "7zip.svg",
+      "id": 1838,
+      "is_default": true,
+      "label": "7zip",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "7zip.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a49e0cef8359be9140d8f2e26ca281d5d5ac55ee4c020c1e50c4478837c5e2c"
+      },
+      "sha256": "01268b8cc35cb4715a3a587a3c4b1beebb94e0bd17adb25c2898f58dc620c90b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/7zip.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

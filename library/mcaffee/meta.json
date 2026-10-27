@@ -1,0 +1,40 @@
+{
+  "collection_id": 1793,
+  "schema_version": 1,
+  "id": 2020,
+  "title": "Mcaffee",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mcaffee"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 334,
+      "collection": "Dashboard Icons",
+      "file": "mcaffee.svg",
+      "id": 3332,
+      "is_default": true,
+      "label": "mcaffee",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mcaffee.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be4b6e07176973dc9b4ca3abf3e186583af1ca1f780deec1d9ebd0842d08bb98"
+      },
+      "sha256": "20192ddd305134a9e1f0922d4204343176fc210c50d9ead903cfaaf63a039551",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mcaffee.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

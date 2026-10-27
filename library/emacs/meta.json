@@ -1,0 +1,63 @@
+{
+  "collection_id": 1192,
+  "schema_version": 1,
+  "id": 1419,
+  "title": "Emacs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "emacs",
+    "Text Editor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1972,
+      "collection": "Dashboard Icons",
+      "file": "emacs.svg",
+      "id": 2550,
+      "is_default": true,
+      "label": "emacs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emacs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76d23310178c224fd89d2b4c75bb4a69f2eb6c04764fadae16573c32033d052d"
+      },
+      "sha256": "1187a578ee7582c073c06ec7d1da27b685a541a3215352f4ffcaeca076618f62",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emacs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3427,
+      "collection": "TechIcons / Devicon",
+      "file": "emacs-1.svg",
+      "id": 5147,
+      "is_default": false,
+      "label": "TechIcons · GNU Emacs",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "GNU-Emacs.svg",
+        "original_sha256": "521301da4c1f301dfc4626ce82994b981d96d631b49d3508dee6340389bde39a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/emacs",
+        "reference_website": "https://www.gnu.org/software/emacs"
+      },
+      "sha256": "9c4f1ea0feee1df5433ae4aaf16cb57f2dea789a24561d37cd587f2a520dcbba",
+      "source": "https://techicons.dev/icons/emacs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

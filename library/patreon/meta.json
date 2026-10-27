@@ -1,0 +1,63 @@
+{
+  "collection_id": 2104,
+  "schema_version": 1,
+  "id": 2331,
+  "title": "Patreon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Social-Media",
+    "E-commerce-Platforms",
+    "社交通讯"
+  ],
+  "aliases": [
+    "patreon",
+    "Content Creator Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 500,
+      "collection": "Dashboard Icons",
+      "file": "patreon.svg",
+      "id": 3771,
+      "is_default": true,
+      "label": "patreon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "patreon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6c568bd8b229ab155957b117f6c690d4249c9267ef8c790b5b53f6c1b55f67dd"
+      },
+      "sha256": "fd3f55dc3a63e11eea3bc84d34140167bbc945f55a33eac37086c2b073f3f925",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/patreon.svg",
+      "version": 0
+    },
+    {
+      "bytes": 500,
+      "collection": "Dashboard Icons",
+      "file": "patreon-1.svg",
+      "id": 3772,
+      "is_default": false,
+      "label": "patreon-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "patreon-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74b5cb1664915e6ae08b3afcbfb7179de5220f55bb2441253cfc0212a3ce9b41"
+      },
+      "sha256": "9bdc61ddff4e2e0d3254e3aeb7144b9143bdd313c1f6fcef90ef16a4b203b590",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/patreon-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2046,
+  "schema_version": 1,
+  "id": 2273,
+  "title": "Openstack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "openstack"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1009,
+      "collection": "Dashboard Icons",
+      "file": "openstack.svg",
+      "id": 3693,
+      "is_default": true,
+      "label": "openstack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openstack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7976d8e628528f20354c709c4ba46278547bdc69a29e38bb40e2365a5a86d234"
+      },
+      "sha256": "e93525318526ae02ef1cefc4299f6eea68bb5db0c0c797d4b425482b2abed801",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openstack.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

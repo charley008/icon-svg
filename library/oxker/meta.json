@@ -1,0 +1,63 @@
+{
+  "collection_id": 2074,
+  "schema_version": 1,
+  "id": 2301,
+  "title": "Oxker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "oxker",
+    "Container Management"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8637,
+      "collection": "Dashboard Icons",
+      "file": "oxker.svg",
+      "id": 3729,
+      "is_default": true,
+      "label": "oxker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oxker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5003bcc2586f3c2a5f5bde3642bf69f98aaedc32d6d175df979270f135ef4768"
+      },
+      "sha256": "195d18ab5d925eea3f8df39f92f8e4e93c6110749ea5e429dbaaa7d10d8a7595",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oxker.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8685,
+      "collection": "Dashboard Icons",
+      "file": "oxker-1.svg",
+      "id": 3730,
+      "is_default": false,
+      "label": "oxker-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oxker-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9091a230922af47b55636a3ce3a7b058a3a017546065579b54e821b20f731c04"
+      },
+      "sha256": "a51dbc3f2db3e77fec86f1dfae09dc87ba6297dd517b81e3b89337e6e5ca19d7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oxker-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

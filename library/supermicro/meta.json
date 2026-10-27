@@ -1,4 +1,7 @@
 {
+  "collection_id": 621,
+  "schema_version": 1,
+  "id": 846,
   "title": "Supermicro",
   "url": "https://www.supermicro.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "supermicro.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "2629ba672cb555c68a5111f15a61696495eb0394bfff7711fcbc12a1db6dbaf6",
       "bytes": 4786,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/supermicro.svg",
+      "collection": "Dashboard Icons",
+      "file": "supermicro.svg",
+      "id": 1803,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "supermicro.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "2629ba672cb555c68a5111f15a61696495eb0394bfff7711fcbc12a1db6dbaf6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/supermicro.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

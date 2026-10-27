@@ -1,0 +1,42 @@
+{
+  "collection_id": 1322,
+  "schema_version": 1,
+  "id": 1549,
+  "title": "Free Sas",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "free-sas"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7948,
+      "collection": "Dashboard Icons",
+      "file": "free-sas.svg",
+      "id": 2714,
+      "is_default": true,
+      "label": "free-sas",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "free-sas.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f5916cd66674658ccfbb5d70142718c8d2822c2a4ec3c77656155b74408db8ea"
+      },
+      "sha256": "253e446fe5bb7a9983118bdf8309fcb6589de878d800a7781354bb99d7e50fce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/free-sas.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

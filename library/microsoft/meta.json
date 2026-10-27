@@ -137,142 +137,84 @@
   "next_version": 5,
   "products": [
     {
-      "id": 359,
-      "key": "azure",
-      "title": "Microsoft Azure",
-      "url": "https://azure.microsoft.com",
-      "domains": [
-        "azure.microsoft.com"
-      ],
+      "id": 2047,
+      "key": "365-admin-center",
+      "title": "Microsoft 365 Admin Center",
+      "url": "",
+      "domains": [],
       "description": "",
-      "category": "云服务",
+      "category": "办公效率",
       "tags": [
-        "全球App补充",
-        "用户优选",
-        "云计算",
-        "微软",
-        "Microsoft Azure",
-        "azure",
-        "microsoftazure",
-        "microsoft-azure",
-        "azure.microsoft.com"
+        "Dashboard Icons"
       ],
       "aliases": [
-        "azure",
-        "microsoftazure",
-        "microsoft-azure"
+        "microsoft-365-admin-center"
       ],
-      "notes": [
-        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
-      ],
+      "notes": [],
       "icons": [
         {
-          "bytes": 2209,
-          "collection": "用户优选",
-          "file": "microsoft-azure.svg",
-          "id": 884,
+          "bytes": 10977,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-365-admin-center.svg",
+          "id": 3378,
           "is_default": true,
-          "label": "azure",
-          "license": "原图版权及商标归权利人",
-          "method": "existing-svg",
+          "label": "microsoft-365-admin-center",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
           "provenance": {
-            "original_file": "azure.svg",
-            "original_is_default": true,
-            "original_slug": "azure"
+            "original_file": "microsoft-365-admin-center.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "68134698f125736a255b7d98343802ad09518e61d4b6a0eeabc7fd6491a8d7cc"
           },
-          "rounded_corners": {
-            "previous_bytes": 1987,
-            "previous_sha256": "eded90d4bf1b0f5a7733a5583378d6c9f8143bb8fd137e8ace23301601a4f1ce",
-            "ratio": 0.2
-          },
-          "sha256": "3e841eedbb0264b9460e967f126b728aaadc7bc1e36601dc5cbb8d33a07492f6",
-          "source": "用户优选",
+          "sha256": "2d1750e621ebda0fb69a4da647939d1d3c9e6c5215566f26aa9078be022aed3e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg",
           "version": 0
-        },
-        {
-          "bytes": 719,
-          "collection": "theSVG",
-          "file": "microsoft-azure-1.svg",
-          "id": 885,
-          "is_default": false,
-          "label": "default",
-          "license": "brand-use",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "azure-1.svg",
-            "original_is_default": false,
-            "original_slug": "azure"
-          },
-          "sha256": "6dc1fd39a7056e171dd2eeadeff5f90d0df381a477e1195ad345021776397aec",
-          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure/default.svg",
-          "version": 1
-        },
-        {
-          "bytes": 2020,
-          "collection": "theSVG",
-          "file": "microsoft-azure-2.svg",
-          "id": 886,
-          "is_default": false,
-          "label": "default",
-          "license": "MIT",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "azure-2.svg",
-            "original_is_default": false,
-            "original_slug": "azure"
-          },
-          "rounded_corners": {
-            "previous_bytes": 1786,
-            "previous_sha256": "1f70cd07822c543c4168a6c99dad01ce4ce7f63c4f136c54b0fcdd6828904a8e",
-            "ratio": 0.2
-          },
-          "sha256": "43196a6cdad4c71b9832e463b30ac5240c6c9c34d5fdca1a18e9ed0427c1953f",
-          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/microsoft-azure/default.svg",
-          "version": 2
-        },
-        {
-          "bytes": 984,
-          "collection": "theSVG",
-          "file": "microsoft-azure-3.svg",
-          "id": 887,
-          "is_default": false,
-          "label": "default",
-          "license": "CC0-1.0",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "azure-3.svg",
-            "original_is_default": false,
-            "original_slug": "azure"
-          },
-          "rounded_corners": {
-            "previous_bytes": 759,
-            "previous_sha256": "62fb8b580421615fed957b9bae8551337133dd8e58d4e2f15baa9715ee20bc24",
-            "ratio": 0.2
-          },
-          "sha256": "0075d2888ed934f460a0beeb70153625d72a96aa4328e4948e0b212c965059f5",
-          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure-badge/default.svg",
-          "version": 3
-        },
-        {
-          "bytes": 3450,
-          "collection": "theSVG",
-          "file": "microsoft-azure-4.svg",
-          "id": 888,
-          "is_default": false,
-          "label": "wordmark",
-          "license": "brand-use",
-          "method": "downloaded-svg",
-          "provenance": {
-            "original_file": "azure-4.svg",
-            "original_is_default": false,
-            "original_slug": "azure"
-          },
-          "sha256": "65b8b52f1eed0dc1a15dd0195ced89f60e2473cffcec79cfb6668faae8caba1c",
-          "source": "https://raw.githubusercontent.com/glincker/thesvg/main/public/icons/azure/wordmark.svg",
-          "version": 4
         }
       ],
-      "next_version": 5
+      "next_version": 1
+    },
+    {
+      "id": 780,
+      "key": "access",
+      "title": "Access",
+      "url": "https://www.microsoft.com/microsoft-365/access",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 桌面数据库应用。",
+      "category": "办公效率",
+      "tags": [
+        "数据库",
+        "桌面数据库",
+        "Access"
+      ],
+      "aliases": [
+        "microsoft-access",
+        "数据库",
+        "桌面数据库"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1643,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-access.svg",
+          "id": 1737,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-access.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "86cadc868dc42a2c0f2cc36f467493df7d2e62acf4759590855922ed97eb40ee",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-access.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 360,
@@ -424,12 +366,53 @@
           "sha256": "4b5f35bf7b5feb40ab6f6744f7e0b0a3688e85887fe2643ef667ba8b07059b49",
           "source": "https://raw.githubusercontent.com/jaywcjlove/logo/master/img/bing.svg",
           "version": 5
+        },
+        {
+          "bytes": 5448,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-bing-6.svg",
+          "id": 3371,
+          "is_default": false,
+          "label": "bing",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "bing.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "9de969b5d0800b2a057dfe0570877719ea2ff102013c17867df2936980de9965"
+          },
+          "sha256": "67c3d7b89f361b7d9255f9cb6bb7e88ed3383a21fcae22d014347e5b8e732f55",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bing.svg",
+          "version": 6
+        },
+        {
+          "bytes": 3033,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-bing-7.svg",
+          "id": 3372,
+          "is_default": false,
+          "label": "microsoft-bing",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-bing.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3b39271f9549508dd7e6e9170acbb7c74aa07415c1b142e58f87db8af6e99f5f"
+          },
+          "sha256": "ae09fd3d41e0e2ce76d4d50abe8c379fcdb2a6172b166c544ab8b633df8b814c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-bing.svg",
+          "version": 7
         }
       ],
-      "next_version": 6
+      "next_version": 8
     },
     {
       "id": 361,
+      "redirect_from": [
+        2048
+      ],
       "key": "copilot",
       "title": "Microsoft Copilot",
       "url": "https://copilot.microsoft.com",
@@ -452,7 +435,9 @@
       "aliases": [
         "copilot",
         "microsoftcopilot",
-        "microsoft-copilot"
+        "microsoft-copilot",
+        "ai-chatbot",
+        "productivity-assistant"
       ],
       "notes": [],
       "icons": [
@@ -556,9 +541,112 @@
           "source": "https://cdn.worldvectorlogo.com/logos/microsoft-copilot-logo.svg",
           "source_page": "https://worldvectorlogo.com/zh/logo/microsoft-copilot-logo",
           "version": 4
+        },
+        {
+          "bytes": 3358,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-copilot-5.svg",
+          "id": 3379,
+          "is_default": false,
+          "label": "microsoft-copilot",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "merged_from_collection": "microsoft-copilot",
+            "merged_from_group_id": 2048,
+            "original_file": "microsoft-copilot.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1cd727683b26887ec0247f171f53e73c66e9eb7814c9a4a059aae8d245307f95"
+          },
+          "sha256": "9027e67865f27f7aa9d6a7a206353d64722c086f4679cee2bdea5daa43bfb990",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-copilot.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
+    },
+    {
+      "id": 2049,
+      "key": "dataverse",
+      "title": "Microsoft Dataverse",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "microsoft-dataverse"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5624,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-dataverse.svg",
+          "id": 3380,
+          "is_default": true,
+          "label": "microsoft-dataverse",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-dataverse.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cd51f75cd6188a46e7580d121fc498fdab56567cb687d9357dae421e2fbb3acb"
+          },
+          "sha256": "92865a2b3d1edff290b99849727c869d8fb15a904ae06dfbdd7487ea52d16d8d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-dataverse.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 786,
+      "key": "defender",
+      "title": "Microsoft Defender",
+      "url": "https://www.microsoft.com/security/business/microsoft-defender",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 安全防护产品。",
+      "category": "系统工具",
+      "tags": [
+        "安全",
+        "防病毒",
+        "终端保护",
+        "Microsoft Defender"
+      ],
+      "aliases": [
+        "microsoft-defender",
+        "安全",
+        "防病毒",
+        "终端保护"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1964,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-defender.svg",
+          "id": 1743,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-defender.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "c7d709ee0240505885a39caa789fe236b466502179496060a221fcb33134399d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 362,
@@ -702,9 +790,47 @@
           "sha256": "78994836c1540cc1717e379c8f4713f5fd7c44395edc832bbb4e342cbb9e9b3d",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-edge",
           "version": 4
+        },
+        {
+          "bytes": 3037,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-edge-5.svg",
+          "id": 3373,
+          "is_default": false,
+          "label": "edge",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "edge.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b79acd4e8ed410f0362421f597c35ae45789e2d6ca12eec51b4c92fbb33883f1"
+          },
+          "sha256": "027b1f4dce7320e877db3e4afe38d06ed29ec71650c46090517f5acb3fa7dd9b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/edge.svg",
+          "version": 5
+        },
+        {
+          "bytes": 4138,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-edge-6.svg",
+          "id": 3374,
+          "is_default": false,
+          "label": "microsoft-edge",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-edge.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e46a379499046d93eb4e3a8639e15efccb0682f9ba78992786a0ade01329d5ce"
+          },
+          "sha256": "ad0d9edc594f74a929f306d24111c574287cb66cc6bab05637204c4d4bbdcacf",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-edge.svg",
+          "version": 6
         }
       ],
-      "next_version": 5
+      "next_version": 7
     },
     {
       "id": 363,
@@ -750,6 +876,181 @@
           },
           "sha256": "5071d0049bfb96e194d3cc2d4580f4112ba1c8f0574a61037dd597e37f19603d",
           "source": "https://web.gotab.cn/sourceStore/website/01JCMQKJ3KYEYHWBR2BDTDGWC9.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 778,
+      "key": "excel",
+      "title": "Excel",
+      "url": "https://www.microsoft.com/microsoft-365/excel",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 电子表格应用。",
+      "category": "办公效率",
+      "tags": [
+        "电子表格",
+        "表格",
+        "微软Excel",
+        "Excel"
+      ],
+      "aliases": [
+        "microsoft-excel",
+        "电子表格",
+        "表格",
+        "微软Excel",
+        "excel",
+        "spreadsheet-editor"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1785,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-excel.svg",
+          "id": 1735,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-excel.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "8f81cc6d7af4d00c3771fa2efaaf883b8fcffcdc38b12b9d168cb5ae2f87886c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-excel.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 784,
+      "key": "exchange",
+      "title": "Exchange",
+      "url": "https://www.microsoft.com/microsoft-365/exchange/email",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 企业邮件服务。",
+      "category": "社交通讯",
+      "tags": [
+        "企业邮箱",
+        "邮件服务器",
+        "Exchange"
+      ],
+      "aliases": [
+        "microsoft-exchange",
+        "企业邮箱",
+        "邮件服务器",
+        "Email Server"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1288,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-exchange.svg",
+          "id": 1741,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-exchange.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "606e471e482bf392f6612376666825ceab33004ab5843decac2df19715900eba",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3431,
+      "key": "internet-explorer",
+      "title": "Internet Explorer",
+      "url": "https://learn.microsoft.com/en-us/lifecycle/products/internet-explorer-10",
+      "domains": [
+        "learn.microsoft.com"
+      ],
+      "description": "Microsoft 的 Internet Explorer 浏览器图标。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Internet Explorer",
+        "ie10",
+        "Internet-Explorer-10-(ie10)"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1517,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-internet-explorer-1.svg",
+          "id": 5264,
+          "is_default": true,
+          "label": "TechIcons · Internet Explorer",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Internet-Explorer-10-(ie10).svg",
+            "original_sha256": "2f053f1a58c98918cb3f673625afb68c14c410af278acf7382213a7159abb55f",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/ie10",
+            "reference_website": "https://learn.microsoft.com/en-us/lifecycle/products/internet-explorer-10"
+          },
+          "sha256": "ad7bf1517ca88cfaf9d82d967b0522999298cb4219b9cc499373a8000d309d9a",
+          "source": "https://techicons.dev/icons/ie10",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 787,
+      "key": "intune",
+      "title": "Microsoft Intune",
+      "url": "https://www.microsoft.com/security/business/microsoft-intune",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 终端与设备管理服务。",
+      "category": "系统工具",
+      "tags": [
+        "设备管理",
+        "企业管理",
+        "Microsoft Intune"
+      ],
+      "aliases": [
+        "microsoft-intune",
+        "设备管理",
+        "企业管理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 6162,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-intune.svg",
+          "id": 1744,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-intune.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "01a926015ea5b757ec10749072a3b7feac03a242529560d3dde61b1bdbbdc4f7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg",
           "version": 0
         }
       ],
@@ -900,6 +1201,49 @@
       "next_version": 5
     },
     {
+      "id": 3432,
+      "key": "ms-dos",
+      "title": "MS-DOS",
+      "url": "https://en.wikipedia.org/wiki/MS-DOS",
+      "domains": [
+        "en.wikipedia.org"
+      ],
+      "description": "Microsoft 的 DOS 操作系统图标。",
+      "category": "系统工具",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "MS-DOS",
+        "msdos"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 9287,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-ms-dos-1.svg",
+          "id": 5265,
+          "is_default": true,
+          "label": "TechIcons · MS-DOS",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "MS-DOS.svg",
+            "original_sha256": "0356f41671afa678705e54c650dfc7486682c7fa5e9843db497a4e6a2f7c35a9",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/msdos",
+            "reference_website": "https://en.wikipedia.org/wiki/MS-DOS"
+          },
+          "sha256": "6a99137210fad940690b81c6b9888faa9b7592f403a194f39f5b5225cf93f229",
+          "source": "https://techicons.dev/icons/msdos",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
       "id": 365,
       "key": "msn",
       "title": "MSN",
@@ -1003,9 +1347,55 @@
       "next_version": 3
     },
     {
+      "id": 3433,
+      "key": "nuget",
+      "title": "NuGet",
+      "url": "https://www.nuget.org",
+      "domains": [
+        "nuget.org"
+      ],
+      "description": ".NET 项目的软件包和依赖管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "NuGet",
+        "nuget"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1790,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-nuget-1.svg",
+          "id": 5266,
+          "is_default": true,
+          "label": "TechIcons · NuGet",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "NuGet.svg",
+            "original_sha256": "c4480a073e9c51666f1f419f5fc67b25c875224dbe99fa8be8ad8a8c25e86227",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/nuget",
+            "reference_website": "https://www.nuget.org"
+          },
+          "sha256": "5ba11c281974ad0d3e0923f457f31c11d8aca7fb34b5631249e7afc4e5798219",
+          "source": "https://techicons.dev/icons/nuget",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
       "id": 366,
+      "redirect_from": [
+        2223
+      ],
       "key": "office",
-      "title": "Microsoft Office",
+      "title": "Microsoft Office / Microsoft 365",
       "url": "https://office.com",
       "domains": [
         "office.com"
@@ -1028,7 +1418,11 @@
         "microsoft-office",
         "microsoftoffice",
         "office",
-        "microsoft365"
+        "microsoft365",
+        "office-365",
+        "Office 365",
+        "Microsoft 365",
+        "Microsoft Office"
       ],
       "notes": [],
       "icons": [
@@ -1131,9 +1525,28 @@
           "sha256": "7aa401f75392b6682c3af1cc7ecc9f331f099eedd32b8514b4c7a07b55dc8779",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#microsoft-office",
           "version": 4
+        },
+        {
+          "bytes": 437,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-office-5.svg",
+          "id": 3612,
+          "is_default": false,
+          "label": "Office 365",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "office-365.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6ddbc68547b30a7430dec3f18b93d0e80ea9a7c0b840be8f4b9541163b637636"
+          },
+          "sha256": "92b924e107274bb239771ba23e41d7c4b2206ffaecd393c0e351e2f4fdc47dfb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/office-365.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
     },
     {
       "id": 367,
@@ -1360,7 +1773,7 @@
         "outlook.com"
       ],
       "description": "",
-      "category": "办公效率",
+      "category": "社交通讯",
       "tags": [
         "全球App补充",
         "办公",
@@ -1456,9 +1869,28 @@
           "sha256": "e5ec36e75d8a30b1597c037b13cac3090a3cf6f8dc02db09c5eaa7512121e9d6",
           "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/outlook.svg",
           "version": 3
+        },
+        {
+          "bytes": 13156,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-outlook-4.svg",
+          "id": 3375,
+          "is_default": false,
+          "label": "microsoft-outlook",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-outlook.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "0cec8fea06329b7e60379b4a102b1eea6d93bce19d2055ddb3a92648984f2acf"
+          },
+          "sha256": "2ef7998742fcc08072b68b07e1a3a5e72a61a3b0a6a06dc781a6290ebd5d5a18",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-outlook.svg",
+          "version": 4
         }
       ],
-      "next_version": 4
+      "next_version": 5
     },
     {
       "id": 370,
@@ -1511,6 +1943,130 @@
       "next_version": 1
     },
     {
+      "id": 782,
+      "key": "power-automate",
+      "title": "Power Automate",
+      "url": "https://www.microsoft.com/power-platform/products/power-automate",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 工作流自动化服务。",
+      "category": "办公效率",
+      "tags": [
+        "自动化",
+        "工作流",
+        "Power Automate"
+      ],
+      "aliases": [
+        "microsoft-power-automate",
+        "自动化",
+        "工作流"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2253,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-power-automate.svg",
+          "id": 1739,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-power-automate.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "8c4dcf52ab2f3891d8f3cfb36120a9d9f2ecc499a51540924a52c747922772f0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-power-automate.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 779,
+      "key": "powerpoint",
+      "title": "PowerPoint",
+      "url": "https://www.microsoft.com/microsoft-365/powerpoint",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 演示文稿应用。",
+      "category": "办公效率",
+      "tags": [
+        "PPT",
+        "演示文稿",
+        "幻灯片",
+        "PowerPoint"
+      ],
+      "aliases": [
+        "microsoft-powerpoint",
+        "PPT",
+        "演示文稿",
+        "幻灯片"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2090,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-powerpoint.svg",
+          "id": 1736,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-powerpoint.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "9905e2bbf6589dbcebbef7b5c78f91d401d0627dce6abe469ad7b9f1e42b5114",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-powerpoint.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2050,
+      "key": "project",
+      "title": "Microsoft Project",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "microsoft-project"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2181,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-project.svg",
+          "id": 3381,
+          "is_default": true,
+          "label": "microsoft-project",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-project.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8d1e9fef730a67f2bd2f8c259e3104639ad17745933814bccade5e7bd5ceab72"
+          },
+          "sha256": "4478397eff2aa1b5c428aeb2606f3d4cbe7ebec9411b2e0608ec478015c4b15b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-project.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
       "id": 371,
       "key": "rewards",
       "title": "Microsoft Rewards",
@@ -1554,6 +2110,49 @@
           },
           "sha256": "5071d0049bfb96e194d3cc2d4580f4112ba1c8f0574a61037dd597e37f19603d",
           "source": "https://web.gotab.cn/sourceStore/website/01JCMQKJ3KYEYHWBR2BDTDGWC9.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 783,
+      "key": "sharepoint",
+      "title": "SharePoint",
+      "url": "https://www.microsoft.com/microsoft-365/sharepoint/collaboration",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 团队协作与文档平台。",
+      "category": "办公效率",
+      "tags": [
+        "团队协作",
+        "文档管理",
+        "SharePoint"
+      ],
+      "aliases": [
+        "microsoft-sharepoint",
+        "团队协作",
+        "文档管理",
+        "Collaboration Platform"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2483,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-sharepoint.svg",
+          "id": 1740,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-sharepoint.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "81e5599073008ef7d2a576216771fa135c25f46d6d7820ed17ddf56d9fb67e3f",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sharepoint.svg",
           "version": 0
         }
       ],
@@ -1696,6 +2295,89 @@
       "next_version": 5
     },
     {
+      "id": 785,
+      "key": "sql-server",
+      "title": "SQL Server",
+      "url": "https://www.microsoft.com/sql-server",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 关系型数据库产品。",
+      "category": "开发编程",
+      "tags": [
+        "MSSQL",
+        "微软数据库",
+        "数据库",
+        "SQL Server"
+      ],
+      "aliases": [
+        "microsoft-sql-server",
+        "MSSQL",
+        "微软数据库",
+        "数据库"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 14715,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-sql-server.svg",
+          "id": 1742,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-sql-server.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "7ede9f491f858e87f6c90339af3106b4078a06b6200c055b77cc9fd69787d388",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sql-server.svg",
+          "version": 0
+        },
+        {
+          "bytes": 14797,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-sql-server-1.svg",
+          "id": 3376,
+          "is_default": false,
+          "label": "microsoft-sql-server-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-sql-server-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7160a0ea6f6ff1f5608a4b6595e1c245595f4dd08117c54523d7925d40026145"
+          },
+          "sha256": "9ea463dffb2ed9db0e902083bc8606d32dc704aa7ffc84de22ae3c254fc7e5c9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sql-server-light.svg",
+          "version": 1
+        },
+        {
+          "bytes": 7279,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-sql-server-2.svg",
+          "id": 5262,
+          "is_default": false,
+          "label": "TechIcons · Microsoft SQL Server",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Microsoft-SQL-Server.svg",
+            "original_sha256": "4daffd1786428a52e17249163c2ad988dad6f6b620c193a0b451def4cb2089bb",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/microsoftsqlserver",
+            "reference_website": "https://www.microsoft.com/en-ca/sql-server"
+          },
+          "sha256": "4ec3c3c666ee36afd82f86b00f0af5c8f941caff50a1be852e1995a4e6826d25",
+          "source": "https://techicons.dev/icons/microsoftsqlserver",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
       "id": 373,
       "key": "teams",
       "title": "Microsoft Teams",
@@ -1704,7 +2386,7 @@
         "teams.microsoft.com"
       ],
       "description": "",
-      "category": "办公效率",
+      "category": "社交通讯",
       "tags": [
         "全球App补充",
         "办公",
@@ -1801,9 +2483,518 @@
           "sha256": "87201e32eb60ab7a55e7ed1606515bd72062ba7bc585b3218d429482443a3f2d",
           "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/MicrosoftTeams.svg",
           "version": 3
+        },
+        {
+          "bytes": 4934,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-teams-4.svg",
+          "id": 3377,
+          "is_default": false,
+          "label": "microsoft-teams",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-teams.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "1ab26279cd8fc9e773d496173ab5db9d28a8610b19f197340a94131e6477292e"
+          },
+          "sha256": "7d50cb25679c08f031d0a8cbe79dd48a65b8758adea4b7d875cff99e815be247",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-teams.svg",
+          "version": 4
         }
       ],
-      "next_version": 4
+      "next_version": 5
+    },
+    {
+      "id": 781,
+      "key": "to-do",
+      "title": "Microsoft To Do",
+      "url": "https://to-do.office.com/",
+      "domains": [
+        "to-do.office.com"
+      ],
+      "description": "Microsoft 待办与任务管理应用。",
+      "category": "办公效率",
+      "tags": [
+        "微软待办",
+        "待办清单",
+        "任务管理",
+        "Microsoft To Do"
+      ],
+      "aliases": [
+        "microsoft-to-do",
+        "微软待办",
+        "待办清单",
+        "任务管理"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 736,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-to-do.svg",
+          "id": 1738,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-to-do.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "e6dc13c3929485a9fafa660663e3f0848b9beef11a5edba3b751ffca5b005ece",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-to-do.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 2051,
+      "key": "visio",
+      "title": "Microsoft Visio",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "microsoft-visio"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4153,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-visio.svg",
+          "id": 3382,
+          "is_default": true,
+          "label": "microsoft-visio",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-visio.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3ef099685d9940d194ff836a3b0497721941e7b7f50e6a8d58f0aec601e2d22e"
+          },
+          "sha256": "260a6820aead6ce97f6d22e0cb05c8c5b92e7afd029665d10b4bcb3f47994a1b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-visio.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3434,
+      "key": "visual-studio",
+      "title": "Visual Studio",
+      "url": "https://visualstudio.microsoft.com",
+      "domains": [
+        "visualstudio.microsoft.com"
+      ],
+      "description": "Microsoft 的集成软件开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Visual Studio",
+        "visualstudio",
+        "Visual-Studio"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 264,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-visual-studio-1.svg",
+          "id": 5267,
+          "is_default": true,
+          "label": "TechIcons · Visual Studio",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Visual-Studio.svg",
+            "original_sha256": "abad94ec23395c38f2a83677f88e56215f976673aa112e800475477a876a2d29",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/visualstudio",
+            "reference_website": "https://visualstudio.microsoft.com"
+          },
+          "sha256": "c8c5a6f06d4b51991caf95aea2d2be9c768d6120079ab631b1ea3744fc201f4a",
+          "source": "https://techicons.dev/icons/visualstudio",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 775,
+      "key": "vscode",
+      "title": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/",
+      "domains": [
+        "code.visualstudio.com"
+      ],
+      "description": "Microsoft 代码编辑器。",
+      "category": "开发编程",
+      "tags": [
+        "VSCode",
+        "VS Code",
+        "代码编辑器",
+        "Visual Studio Code"
+      ],
+      "aliases": [
+        "microsoft-vscode",
+        "visual-studio-code",
+        "VSCode",
+        "VS Code",
+        "代码编辑器"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2289,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-vscode.svg",
+          "id": 1732,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "visual-studio-code.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "9678d02f8de50711a9fa468941b9a3acb76aab392518ada8a6b7fe26c5bd0830",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3463,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-vscode-1.svg",
+          "id": 5263,
+          "is_default": false,
+          "label": "TechIcons · Visual Studio Code (VS Code)",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Visual-Studio-Code-(VS-Code).svg",
+            "original_sha256": "503d580c442a7071aae180d9b4766e312e4600bf0e9d842b30f56d0e614eceb8",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/vscode",
+            "reference_website": "https://code.visualstudio.com"
+          },
+          "sha256": "fb3f019ac16f9492a80522fe3648fd599ddb1e8011633ce1bb7772fc208d0fd1",
+          "source": "https://techicons.dev/icons/vscode",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 776,
+      "redirect_from": [
+        3211,
+        3212,
+        3213,
+        3215
+      ],
+      "key": "windows",
+      "title": "Windows",
+      "url": "https://www.microsoft.com/windows",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 桌面操作系统。",
+      "category": "系统工具",
+      "tags": [
+        "微软Windows",
+        "操作系统",
+        "Windows"
+      ],
+      "aliases": [
+        "microsoft-windows",
+        "微软Windows",
+        "操作系统",
+        "windows-10",
+        "Windows 10",
+        "windows-os",
+        "win10",
+        "windows-11",
+        "Windows 11",
+        "windows-95",
+        "Windows 95",
+        "windows-retro",
+        "Windows Retro",
+        "windows-classic-theme",
+        "windows-95-theme"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 209,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows.svg",
+          "id": 1733,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-windows.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "d778548786d06a8ddd87ff43375df55504ee55473b683cede178f3308f00257d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-windows.svg",
+          "version": 0
+        },
+        {
+          "bytes": 317,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-1.svg",
+          "id": 4923,
+          "is_default": false,
+          "label": "Windows 10",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-10.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b640ede613661e163f9d5d71f4af179bd1c9687dca4222df5b384fa6a5227752"
+          },
+          "sha256": "6d871c45739a12853113fe2b448a58b3872125a4fd4a96381e2098fa3086d697",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-10.svg",
+          "version": 1
+        },
+        {
+          "bytes": 1388,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-2.svg",
+          "id": 4924,
+          "is_default": false,
+          "label": "Windows 11",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-11.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d070a070a1e98d759ed5378b8321d40a1d087f80b972b50575ca289760529d63"
+          },
+          "sha256": "c6a2945a1ae04bc6d2a9e1c118f7f61de617442da21807d08e76ec7ba78d64c0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-11.svg",
+          "version": 2
+        },
+        {
+          "bytes": 4963,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-3.svg",
+          "id": 4925,
+          "is_default": false,
+          "label": "Windows 95",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-95.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "fd9bd455fec8ff2ed2146e657493a0010a69395b784e854490ea0999bae36746"
+          },
+          "sha256": "cd515242f683da60cdede80119db3e4b6356b6d15f068d8232c900f8c24cc0cb",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-95.svg",
+          "version": 3
+        },
+        {
+          "bytes": 4987,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-4.svg",
+          "id": 4926,
+          "is_default": false,
+          "label": "windows-95-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-95-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d237bb451e903118992098e63135f27109a021b96d60797c1c4e8c142897bf76"
+          },
+          "sha256": "1df34779071d4e779b71485c81e87956e2665695e3f3b024963fd983f37c86fe",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-95-light.svg",
+          "version": 4
+        },
+        {
+          "bytes": 2462,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-5.svg",
+          "id": 4928,
+          "is_default": false,
+          "label": "Windows Retro",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-retro.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "abef6170dd38dd2f0a849ac08890b1290b5e1139c1cba477b75ad1dec3b16018"
+          },
+          "sha256": "a4f1d6e7256077f9eb692491726361917f69e3494ef6206469253545d8ae169b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-retro.svg",
+          "version": 5
+        },
+        {
+          "bytes": 2474,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-6.svg",
+          "id": 4929,
+          "is_default": false,
+          "label": "windows-retro-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-retro-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3a4ca3a0ed036ce68e33b79ea5d79bf5a9921cfa9c85b1ff1136cadf97c7c83e"
+          },
+          "sha256": "748d91f4ac6f9fca22b467aea129e597fc769d9e2a561e0fbc253a136784c96c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-retro-light.svg",
+          "version": 6
+        }
+      ],
+      "next_version": 7
+    },
+    {
+      "id": 3214,
+      "key": "windows-explorer",
+      "title": "Windows Explorer",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "windows-explorer"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2472,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-windows-explorer.svg",
+          "id": 4927,
+          "is_default": true,
+          "label": "windows-explorer",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "windows-explorer.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ddaf3dc76eeec89634b826fc264f3727edf9926aaf54ac62f957b9d6acc3b2fa"
+          },
+          "sha256": "692542a3acca23a2b91fa1d4897641ba42bc87aede11bd869c49348a029a4439",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/windows-explorer.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 777,
+      "key": "word",
+      "title": "Word",
+      "url": "https://www.microsoft.com/microsoft-365/word",
+      "domains": [
+        "www.microsoft.com"
+      ],
+      "description": "Microsoft 文档处理应用。",
+      "category": "办公效率",
+      "tags": [
+        "文字处理",
+        "文档",
+        "微软Word",
+        "Word"
+      ],
+      "aliases": [
+        "microsoft-word",
+        "文字处理",
+        "文档",
+        "微软Word"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1859,
+          "collection": "Dashboard Icons",
+          "file": "microsoft-word.svg",
+          "id": 1734,
+          "is_default": true,
+          "label": "彩色版本",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "microsoft-word.svg",
+            "repository": "https://github.com/homarr-labs/dashboard-icons"
+          },
+          "sha256": "0b10e8d227aebeef03b78f93147da9e21712bf3544df786dcc10c89cf01b853e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-word.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3435,
+      "key": "xamarin",
+      "title": "Xamarin",
+      "url": "https://dotnet.microsoft.com/en-us/apps/xamarin",
+      "domains": [
+        "dotnet.microsoft.com"
+      ],
+      "description": "基于 .NET 的跨平台应用开发框架。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Xamarin",
+        "xamarin"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 685,
+          "collection": "TechIcons / Devicon",
+          "file": "microsoft-xamarin-1.svg",
+          "id": 5268,
+          "is_default": true,
+          "label": "TechIcons · Xamarin",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Xamarin.svg",
+            "original_sha256": "887dd35c9245f807d51548704764fef1e7e8ea1d76d6894901192a5dc9eda47d",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/xamarin",
+            "reference_website": "https://dotnet.microsoft.com/en-us/apps/xamarin"
+          },
+          "sha256": "28af59c2a61766a1d53aa8c3eacf3fca71729ed03f588562bb02472d5c96b4cb",
+          "source": "https://techicons.dev/icons/xamarin",
+          "version": 1
+        }
+      ],
+      "next_version": 2
     },
     {
       "id": 374,
@@ -1944,545 +3135,6 @@
         }
       ],
       "next_version": 5
-    },
-    {
-      "title": "Visual Studio Code",
-      "url": "https://code.visualstudio.com/",
-      "domains": [
-        "code.visualstudio.com"
-      ],
-      "description": "Microsoft 代码编辑器。",
-      "category": "开发编程",
-      "tags": [
-        "VSCode",
-        "VS Code",
-        "代码编辑器",
-        "Visual Studio Code"
-      ],
-      "aliases": [
-        "microsoft-vscode",
-        "visual-studio-code",
-        "VSCode",
-        "VS Code",
-        "代码编辑器"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-vscode.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "9678d02f8de50711a9fa468941b9a3acb76aab392518ada8a6b7fe26c5bd0830",
-          "bytes": 2289,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "visual-studio-code.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "vscode"
-    },
-    {
-      "title": "Windows",
-      "url": "https://www.microsoft.com/windows",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 桌面操作系统。",
-      "category": "系统工具",
-      "tags": [
-        "微软Windows",
-        "操作系统",
-        "Windows"
-      ],
-      "aliases": [
-        "microsoft-windows",
-        "微软Windows",
-        "操作系统"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-windows.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "d778548786d06a8ddd87ff43375df55504ee55473b683cede178f3308f00257d",
-          "bytes": 209,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-windows.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-windows.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "windows"
-    },
-    {
-      "title": "Word",
-      "url": "https://www.microsoft.com/microsoft-365/word",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 文档处理应用。",
-      "category": "办公效率",
-      "tags": [
-        "文字处理",
-        "文档",
-        "微软Word",
-        "Word"
-      ],
-      "aliases": [
-        "microsoft-word",
-        "文字处理",
-        "文档",
-        "微软Word"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-word.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "0b10e8d227aebeef03b78f93147da9e21712bf3544df786dcc10c89cf01b853e",
-          "bytes": 1859,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-word.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-word.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "word"
-    },
-    {
-      "title": "Excel",
-      "url": "https://www.microsoft.com/microsoft-365/excel",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 电子表格应用。",
-      "category": "办公效率",
-      "tags": [
-        "电子表格",
-        "表格",
-        "微软Excel",
-        "Excel"
-      ],
-      "aliases": [
-        "microsoft-excel",
-        "电子表格",
-        "表格",
-        "微软Excel",
-        "excel",
-        "spreadsheet-editor"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-excel.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "8f81cc6d7af4d00c3771fa2efaaf883b8fcffcdc38b12b9d168cb5ae2f87886c",
-          "bytes": 1785,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-excel.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-excel.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "excel"
-    },
-    {
-      "title": "PowerPoint",
-      "url": "https://www.microsoft.com/microsoft-365/powerpoint",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 演示文稿应用。",
-      "category": "办公效率",
-      "tags": [
-        "PPT",
-        "演示文稿",
-        "幻灯片",
-        "PowerPoint"
-      ],
-      "aliases": [
-        "microsoft-powerpoint",
-        "PPT",
-        "演示文稿",
-        "幻灯片"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-powerpoint.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "9905e2bbf6589dbcebbef7b5c78f91d401d0627dce6abe469ad7b9f1e42b5114",
-          "bytes": 2090,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-powerpoint.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-powerpoint.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "powerpoint"
-    },
-    {
-      "title": "Access",
-      "url": "https://www.microsoft.com/microsoft-365/access",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 桌面数据库应用。",
-      "category": "办公效率",
-      "tags": [
-        "数据库",
-        "桌面数据库",
-        "Access"
-      ],
-      "aliases": [
-        "microsoft-access",
-        "数据库",
-        "桌面数据库"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-access.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "86cadc868dc42a2c0f2cc36f467493df7d2e62acf4759590855922ed97eb40ee",
-          "bytes": 1643,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-access.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-access.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "access"
-    },
-    {
-      "title": "Microsoft To Do",
-      "url": "https://to-do.office.com/",
-      "domains": [
-        "to-do.office.com"
-      ],
-      "description": "Microsoft 待办与任务管理应用。",
-      "category": "办公效率",
-      "tags": [
-        "微软待办",
-        "待办清单",
-        "任务管理",
-        "Microsoft To Do"
-      ],
-      "aliases": [
-        "microsoft-to-do",
-        "微软待办",
-        "待办清单",
-        "任务管理"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-to-do.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "e6dc13c3929485a9fafa660663e3f0848b9beef11a5edba3b751ffca5b005ece",
-          "bytes": 736,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-to-do.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-to-do.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "to-do"
-    },
-    {
-      "title": "Power Automate",
-      "url": "https://www.microsoft.com/power-platform/products/power-automate",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 工作流自动化服务。",
-      "category": "办公效率",
-      "tags": [
-        "自动化",
-        "工作流",
-        "Power Automate"
-      ],
-      "aliases": [
-        "microsoft-power-automate",
-        "自动化",
-        "工作流"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-power-automate.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "8c4dcf52ab2f3891d8f3cfb36120a9d9f2ecc499a51540924a52c747922772f0",
-          "bytes": 2253,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-power-automate.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-power-automate.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "power-automate"
-    },
-    {
-      "title": "SharePoint",
-      "url": "https://www.microsoft.com/microsoft-365/sharepoint/collaboration",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 团队协作与文档平台。",
-      "category": "办公效率",
-      "tags": [
-        "团队协作",
-        "文档管理",
-        "SharePoint"
-      ],
-      "aliases": [
-        "microsoft-sharepoint",
-        "团队协作",
-        "文档管理",
-        "Collaboration Platform"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-sharepoint.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "81e5599073008ef7d2a576216771fa135c25f46d6d7820ed17ddf56d9fb67e3f",
-          "bytes": 2483,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sharepoint.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-sharepoint.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "sharepoint"
-    },
-    {
-      "title": "Exchange",
-      "url": "https://www.microsoft.com/microsoft-365/exchange/email",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 企业邮件服务。",
-      "category": "办公效率",
-      "tags": [
-        "企业邮箱",
-        "邮件服务器",
-        "Exchange"
-      ],
-      "aliases": [
-        "microsoft-exchange",
-        "企业邮箱",
-        "邮件服务器",
-        "Email Server"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-exchange.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "606e471e482bf392f6612376666825ceab33004ab5843decac2df19715900eba",
-          "bytes": 1288,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-exchange.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "exchange"
-    },
-    {
-      "title": "SQL Server",
-      "url": "https://www.microsoft.com/sql-server",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 关系型数据库产品。",
-      "category": "开发编程",
-      "tags": [
-        "MSSQL",
-        "微软数据库",
-        "数据库",
-        "SQL Server"
-      ],
-      "aliases": [
-        "microsoft-sql-server",
-        "MSSQL",
-        "微软数据库",
-        "数据库"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-sql-server.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "7ede9f491f858e87f6c90339af3106b4078a06b6200c055b77cc9fd69787d388",
-          "bytes": 14715,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sql-server.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-sql-server.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "sql-server"
-    },
-    {
-      "title": "Microsoft Defender",
-      "url": "https://www.microsoft.com/security/business/microsoft-defender",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 安全防护产品。",
-      "category": "系统工具",
-      "tags": [
-        "安全",
-        "防病毒",
-        "终端保护",
-        "Microsoft Defender"
-      ],
-      "aliases": [
-        "microsoft-defender",
-        "安全",
-        "防病毒",
-        "终端保护"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-defender.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "c7d709ee0240505885a39caa789fe236b466502179496060a221fcb33134399d",
-          "bytes": 1964,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-defender.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "defender"
-    },
-    {
-      "title": "Microsoft Intune",
-      "url": "https://www.microsoft.com/security/business/microsoft-intune",
-      "domains": [
-        "www.microsoft.com"
-      ],
-      "description": "Microsoft 终端与设备管理服务。",
-      "category": "系统工具",
-      "tags": [
-        "设备管理",
-        "企业管理",
-        "Microsoft Intune"
-      ],
-      "aliases": [
-        "microsoft-intune",
-        "设备管理",
-        "企业管理"
-      ],
-      "notes": [],
-      "icons": [
-        {
-          "file": "microsoft-intune.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "01a926015ea5b757ec10749072a3b7feac03a242529560d3dde61b1bdbbdc4f7",
-          "bytes": 6162,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg",
-          "license": "Apache-2.0；商标归各品牌权利人",
-          "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
-          "provenance": {
-            "original_file": "microsoft-intune.svg",
-            "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
-        }
-      ],
-      "next_version": 1,
-      "key": "intune"
     }
   ]
 }

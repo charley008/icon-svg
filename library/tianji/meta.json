@@ -1,0 +1,59 @@
+{
+  "collection_id": 2800,
+  "schema_version": 1,
+  "id": 3027,
+  "title": "Tianji",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tianji"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1306,
+      "collection": "Dashboard Icons",
+      "file": "tianji.svg",
+      "id": 4682,
+      "is_default": true,
+      "label": "tianji",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tianji.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "91cfc45bf79b6e5ac9903b823c09e94a4a6f0b4b0b66e99cc8317df8c9f528c5"
+      },
+      "sha256": "0bebd5c731d0b8efaaa98766414c8f0a74f25e869f80c1b863344714459e1195",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tianji.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1354,
+      "collection": "Dashboard Icons",
+      "file": "tianji-1.svg",
+      "id": 4683,
+      "is_default": false,
+      "label": "tianji-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tianji-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e65c89c7d5355451b2c92238c98b0379e6f7e8986c8b8d60b226cea4437d1760"
+      },
+      "sha256": "238d6556d4423dbe77985b10ec2b4752ca6ab883f4c43706111083d25ae0bcfe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tianji-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

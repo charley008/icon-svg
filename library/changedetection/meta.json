@@ -1,0 +1,40 @@
+{
+  "collection_id": 950,
+  "schema_version": 1,
+  "id": 1177,
+  "title": "Changedetection",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "changedetection"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2792,
+      "collection": "Dashboard Icons",
+      "file": "changedetection.svg",
+      "id": 2228,
+      "is_default": true,
+      "label": "changedetection",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "changedetection.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dcf826ff17a505c00fe8c256a5781679c8b22b761d6ecc85ae8fc244adf77561"
+      },
+      "sha256": "243d1f5526f69e89c606d349ad73c4bc8a29f243ae4c311683531ccb7e47eefc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/changedetection.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

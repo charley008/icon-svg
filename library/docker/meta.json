@@ -150,10 +150,68 @@
       "sha256": "770b315e5a09b8ad56430c3828b31daf9800b013412fe428c8c02c2a6aa44446",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker.svg",
       "version": 5
+    },
+    {
+      "bytes": 4507,
+      "collection": "TechIcons / Devicon",
+      "file": "docker-6.svg",
+      "id": 5130,
+      "is_default": false,
+      "label": "TechIcons · Docker",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Docker.svg",
+        "original_sha256": "3fd830ea69431ed7a0b8d068cd5b34ad3f00a1a78195d50f13ff56713f2462e1",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/docker",
+        "reference_website": "https://www.docker.com"
+      },
+      "sha256": "08cf8f67a6bd89619c92372f546bf82e5df79c33eb416e07f544eba6bb649379",
+      "source": "https://techicons.dev/icons/docker",
+      "version": 6
     }
   ],
-  "next_version": 6,
+  "next_version": 7,
   "products": [
+    {
+      "id": 1348,
+      "key": "engine",
+      "title": "Docker Engine",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "docker-engine"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 648,
+          "collection": "Dashboard Icons",
+          "file": "docker-engine.svg",
+          "id": 2459,
+          "is_default": true,
+          "label": "docker-engine",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "docker-engine.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7de45e1ea203da32a040c257f47cd39a5711b3a200d27ec72dbccbc5efb1590b"
+          },
+          "sha256": "449859a407a85c74af86c9453174d2122a8dd2dd0e06ed799905092ec9a22f15",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker-engine.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
     {
       "id": 196,
       "key": "hub",
@@ -200,6 +258,44 @@
           },
           "sha256": "07a5ddba26fe8e58ee2f3521fa3ab2d557d65d6dc651b3b5fda7b409d83adea7",
           "source": "https://web.gotab.cn/sourceStore/website/01KDC517S8VZVHA62DM9QPCHF7.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 1350,
+      "key": "moby",
+      "title": "Docker Moby",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "docker-moby"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 9186,
+          "collection": "Dashboard Icons",
+          "file": "docker-moby.svg",
+          "id": 2462,
+          "is_default": true,
+          "label": "docker-moby",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "docker-moby.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "80d01bcbeda47fd4105a25a6fbea79b3cd14950c73abf95c1077da30aba46f04"
+          },
+          "sha256": "cdcb53d7bf8b08afd4106d9c20b89c57d4f7a11d25bc77c41538bec2b96e7138",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker-moby.svg",
           "version": 0
         }
       ],

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2655,
+  "schema_version": 1,
+  "id": 2882,
+  "title": "Solus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "solus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7373,
+      "collection": "Dashboard Icons",
+      "file": "solus.svg",
+      "id": 4500,
+      "is_default": true,
+      "label": "solus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "solus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0ef74daad2ded6a47a3115a8c011da84210b68e6d7613fa70678b98e8fefcb0"
+      },
+      "sha256": "980557ffd67a5f0fa8ee64e3904e4ad78ed8cb771cb7c35aff16f7e7eb45e836",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/solus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

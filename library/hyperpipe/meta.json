@@ -1,0 +1,59 @@
+{
+  "collection_id": 1511,
+  "schema_version": 1,
+  "id": 1738,
+  "title": "Hyperpipe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hyperpipe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 867,
+      "collection": "Dashboard Icons",
+      "file": "hyperpipe.svg",
+      "id": 2975,
+      "is_default": true,
+      "label": "hyperpipe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hyperpipe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cd69683ab2d7ddde127aa2587b7bd71dc7567c6d87df7445798de2bc94c319ce"
+      },
+      "sha256": "9a2918d956a63bdda87eff18f24277783101ca21a3c63db6bdd8d33d9d1c851e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hyperpipe.svg",
+      "version": 0
+    },
+    {
+      "bytes": 864,
+      "collection": "Dashboard Icons",
+      "file": "hyperpipe-1.svg",
+      "id": 2976,
+      "is_default": false,
+      "label": "hyperpipe-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hyperpipe-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7829edc99443e2bbbe45fb864df1a984cfe8c7d74db9ebcb32f26a0a2dce6efa"
+      },
+      "sha256": "e9a719193cc15fb6d02c4fffc302f317a08aea5829fe10923f37c7c263b19063",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hyperpipe-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

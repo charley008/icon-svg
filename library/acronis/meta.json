@@ -1,0 +1,40 @@
+{
+  "collection_id": 661,
+  "schema_version": 1,
+  "id": 888,
+  "title": "Acronis",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "acronis"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1498,
+      "collection": "Dashboard Icons",
+      "file": "acronis.svg",
+      "id": 1849,
+      "is_default": true,
+      "label": "acronis",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "acronis.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b9f2cb73c9250ebfd0ad9cca41960b814b46b4262ca85377e67f32d863af1ab"
+      },
+      "sha256": "526e0854fdf915cece7a6970790eee133e4b8c817586d6b02bfdca6bfe8de2cc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/acronis.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

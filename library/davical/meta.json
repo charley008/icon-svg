@@ -1,0 +1,45 @@
+{
+  "collection_id": 1075,
+  "schema_version": 1,
+  "id": 1302,
+  "title": "Davical",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Office-Suites",
+    "网络工具"
+  ],
+  "aliases": [
+    "davical",
+    "calendar-server",
+    "scheduling-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 993,
+      "collection": "Dashboard Icons",
+      "file": "davical.svg",
+      "id": 2392,
+      "is_default": true,
+      "label": "davical",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "davical.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dcc340f904e343bacb50d72a53134f829c9880064686a77f0ab81b8ad21688e8"
+      },
+      "sha256": "cc20fe9ae53143cf90ec2be0f39250a0d7c9d482c003ef31fe6ff00cc63cb40f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/davical.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

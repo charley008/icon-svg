@@ -149,9 +149,47 @@
       "sha256": "f8625d1c5053b1246c2ba628be5c3394d64986b4cd2c7ac091cadcf0f94fb862",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-alt.svg",
       "version": 5
+    },
+    {
+      "bytes": 650,
+      "collection": "Dashboard Icons",
+      "file": "apple-6.svg",
+      "id": 1947,
+      "is_default": false,
+      "label": "apple",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apple.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "72ab034548d45f1bfa327f97b9fb96f7931362a8296289b1512bbe44512df235"
+      },
+      "sha256": "8310c045ee5556816cd09d6a5c57435dd6f50d97aa6ea87ad331e52de9e2dc3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple.svg",
+      "version": 6
+    },
+    {
+      "bytes": 662,
+      "collection": "Dashboard Icons",
+      "file": "apple-7.svg",
+      "id": 1948,
+      "is_default": false,
+      "label": "apple-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apple-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e3f4be3cbefb8ce59f5502900fe70fcb9141d27129297ce725c5764634ee491a"
+      },
+      "sha256": "965313f3241d1c462db50590223d89de401d9aa5323aa9c210a1b48fc2213049",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-light.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": [
     {
       "id": 74,
@@ -221,9 +259,72 @@
           "sha256": "7e5097c4018054510b006606f82871e37c5b07e371993fa42235265ac91fa2ac",
           "source": "用户确认重绘：App Store 蓝色渐变与立体高光交叉棒",
           "version": 1
+        },
+        {
+          "bytes": 1199,
+          "collection": "Dashboard Icons",
+          "file": "apple-appstore-2.svg",
+          "id": 1949,
+          "is_default": false,
+          "label": "app-store",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "app-store.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6b303732fb35f04f1ef69fcf8fc12ccafaafbe6d5f5c1b247771883cc0dbf99e"
+          },
+          "sha256": "4a1af9bc6d8e27e4b08fd0e40246ee9317056ff24a7816a56a3ae96ac1401920",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/app-store.svg",
+          "version": 2
         }
       ],
-      "next_version": 2
+      "next_version": 3
+    },
+    {
+      "id": 964,
+      "key": "maps",
+      "title": "Apple Maps",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "出行地图",
+      "tags": [
+        "Dashboard Icons",
+        "Location"
+      ],
+      "aliases": [
+        "apple-maps",
+        "apple",
+        "maps",
+        "applemaps",
+        "mapsapple",
+        "maps-apple"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 14789,
+          "collection": "Dashboard Icons",
+          "file": "apple-maps.svg",
+          "id": 1951,
+          "is_default": true,
+          "label": "apple-maps",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-maps.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b4b84d7ea24f6946625302ff2e41bac37caf095d557849623313a6a309d1ac63"
+          },
+          "sha256": "ed1e078b429f2f0ea1b9706ddf5be7c32f9f41536555d81d4031aa24fa526e1c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-maps.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
     },
     {
       "id": 75,
@@ -361,11 +462,32 @@
           "sha256": "affed90790c7c65365e550054284fbe7002425f79c6ef8a136fba9c8bd856708",
           "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#applemusic",
           "version": 4
+        },
+        {
+          "bytes": 2165,
+          "collection": "Dashboard Icons",
+          "file": "apple-music-5.svg",
+          "id": 1950,
+          "is_default": false,
+          "label": "apple-music",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-music.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "e2ef7e7f0b608eedd0af93bce3ad0cf208628ec67650d9b16052c5bdc47dad69"
+          },
+          "sha256": "ee274a7b6c4698742fa37f6af78fde59b7c173bbfd452df5324b11ed6b36f34d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-music.svg",
+          "version": 5
         }
       ],
-      "next_version": 5
+      "next_version": 6
     },
     {
+      "id": 666,
+      "key": "podcasts",
       "title": "Apple Podcasts",
       "url": "https://podcasts.apple.com/",
       "domains": [
@@ -387,24 +509,128 @@
       "notes": [],
       "icons": [
         {
-          "file": "apple-podcasts.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "8b9a2e22588b1e79e0b1f8ed455b1b3e9b4aa14c0ecd4d0357f0ca8bfe807b31",
           "bytes": 2445,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-podcasts.svg",
+          "collection": "Dashboard Icons",
+          "file": "apple-podcasts.svg",
+          "id": 1627,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "apple-podcasts.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "8b9a2e22588b1e79e0b1f8ed455b1b3e9b4aa14c0ecd4d0357f0ca8bfe807b31",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-podcasts.svg",
+          "version": 0
         }
       ],
-      "next_version": 1,
-      "key": "podcasts"
+      "next_version": 1
+    },
+    {
+      "id": 965,
+      "key": "tv-plus",
+      "title": "Apple Tv Plus",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons",
+        "Video-Streaming",
+        "影音娱乐"
+      ],
+      "aliases": [
+        "apple-tv-plus",
+        "apple-tv",
+        "streaming-service"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 863,
+          "collection": "Dashboard Icons",
+          "file": "apple-tv-plus.svg",
+          "id": 1952,
+          "is_default": true,
+          "label": "apple-tv-plus",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-tv-plus.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "dcfd56cfd5502524617588fbee79b05f3eeb5180135de5307bf035515d42b28c"
+          },
+          "sha256": "8b49c55f12deda4ef2ff62a568525da0798635e903c5151c140054ddbddc8a60",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-tv-plus.svg",
+          "version": 0
+        },
+        {
+          "bytes": 875,
+          "collection": "Dashboard Icons",
+          "file": "apple-tv-plus-1.svg",
+          "id": 1953,
+          "is_default": false,
+          "label": "apple-tv-plus-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apple-tv-plus-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cca92ccfc0d8b34a0383988919377c4a1aca57af87d845757fe1dba4a6ec8c54"
+          },
+          "sha256": "9ae0ff7b1300d76ad3852f8523087ab51d0ccd10baff0f62737b0ff8dff20f0e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apple-tv-plus-light.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3314,
+      "key": "xcode",
+      "title": "Xcode",
+      "url": "https://developer.apple.com/xcode",
+      "domains": [
+        "developer.apple.com"
+      ],
+      "description": "Apple 平台的应用开发环境。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Xcode",
+        "xcode"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 21590,
+          "collection": "TechIcons / Devicon",
+          "file": "apple-xcode-1.svg",
+          "id": 5073,
+          "is_default": true,
+          "label": "TechIcons · Xcode",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Xcode.svg",
+            "original_sha256": "ea87b074c29282ed4d355370abc0bb2ccf02b80fec281a27c3333a5fe333b054",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/xcode",
+            "reference_website": "https://developer.apple.com/xcode"
+          },
+          "sha256": "15f3d6c0cdc12c5fe96b5ef529df068b7edd399c9ed0b4ecbe1dcdddc56bc140",
+          "source": "https://techicons.dev/icons/xcode",
+          "version": 1
+        }
+      ],
+      "next_version": 2
     }
   ]
 }

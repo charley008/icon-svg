@@ -1,0 +1,45 @@
+{
+  "collection_id": 2481,
+  "schema_version": 1,
+  "id": 2708,
+  "title": "Redict",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "redict",
+    "redis-admin",
+    "database-management-tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3206,
+      "collection": "Dashboard Icons",
+      "file": "redict.svg",
+      "id": 4278,
+      "is_default": true,
+      "label": "redict",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "redict.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ad7fda575e5e52fd2713eca5501d792e1783328c0fe17fe52af0a321be61b0af"
+      },
+      "sha256": "58033492257e940eb2d99770562c18c3520fafeca00b6eace608a7340dffc63d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/redict.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

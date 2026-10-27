@@ -1,0 +1,40 @@
+{
+  "collection_id": 2883,
+  "schema_version": 1,
+  "id": 3110,
+  "title": "Untangle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "untangle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1965,
+      "collection": "Dashboard Icons",
+      "file": "untangle.svg",
+      "id": 4793,
+      "is_default": true,
+      "label": "untangle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "untangle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fa88bf48f65cb9105fea6c8ff111f8051d65b301af887d2843f24e4a5af0b6c1"
+      },
+      "sha256": "3b98fdc6e43ccb96dca4a6ca089686400208876eb8b31a59bce4443a727048dd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/untangle.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

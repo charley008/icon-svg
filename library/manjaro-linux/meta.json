@@ -1,0 +1,42 @@
+{
+  "collection_id": 1773,
+  "schema_version": 1,
+  "id": 2000,
+  "title": "Manjaro Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "manjaro-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 211,
+      "collection": "Dashboard Icons",
+      "file": "manjaro-linux.svg",
+      "id": 3307,
+      "is_default": true,
+      "label": "manjaro-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "manjaro-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eba8b0d99365c8808edef497ce5ff9ef999b40b578e01abfb3176033662f9a29"
+      },
+      "sha256": "1446412b0831a34d3e7f910f591623eb2d248566e0290b4fba43dae135554a04",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/manjaro-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

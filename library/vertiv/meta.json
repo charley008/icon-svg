@@ -1,0 +1,59 @@
+{
+  "collection_id": 2902,
+  "schema_version": 1,
+  "id": 3129,
+  "title": "Vertiv",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vertiv"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 829,
+      "collection": "Dashboard Icons",
+      "file": "vertiv.svg",
+      "id": 4819,
+      "is_default": true,
+      "label": "vertiv",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vertiv.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "daa72206dc140b3e14cbb107a962541fd47bb79c1d878b48599c781051a279ef"
+      },
+      "sha256": "4c7dcad93998451505e22d73cb60c4763d66530396d65651b5fbff6f5619f3ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vertiv.svg",
+      "version": 0
+    },
+    {
+      "bytes": 821,
+      "collection": "Dashboard Icons",
+      "file": "vertiv-1.svg",
+      "id": 4820,
+      "is_default": false,
+      "label": "vertiv-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vertiv-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b5ae45047800b74403bc571d9aa1faced307e3b320c9b4f3057e5125a08f066"
+      },
+      "sha256": "aa7f0ad3bfa663081ec05e6448e38e8ef3127f4acbd38eee8c3c2b57d7d28222",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vertiv-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1971,
+  "schema_version": 1,
+  "id": 2198,
+  "title": "Nuclino",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nuclino"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2260,
+      "collection": "Dashboard Icons",
+      "file": "nuclino.svg",
+      "id": 3579,
+      "is_default": true,
+      "label": "nuclino",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nuclino.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9160e160d4e548bb5014d3dd73ca769f9a4dde2669ca2f31328cda2e7c372515"
+      },
+      "sha256": "565f318a291d506f69c627cefb404aa6e726f7f18ef202a59cf706fe0e87fbb9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nuclino.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

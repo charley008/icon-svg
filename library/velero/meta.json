@@ -1,0 +1,40 @@
+{
+  "collection_id": 2896,
+  "schema_version": 1,
+  "id": 3123,
+  "title": "Velero",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "velero"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 15414,
+      "collection": "Dashboard Icons",
+      "file": "velero.svg",
+      "id": 4807,
+      "is_default": true,
+      "label": "velero",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "velero.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2a99b2b7c9c3fb19f2aaca4b031f7b98d2b6979394e5aee796d10eafbdc638b"
+      },
+      "sha256": "6fc566cbbb909ba13db5cd50ded3edfd4a9bdbc02a67bed1edc6bae97a9b2dc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/velero.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

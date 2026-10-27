@@ -1,0 +1,40 @@
+{
+  "collection_id": 1636,
+  "schema_version": 1,
+  "id": 1863,
+  "title": "Kinto",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kinto"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6856,
+      "collection": "Dashboard Icons",
+      "file": "kinto.svg",
+      "id": 3134,
+      "is_default": true,
+      "label": "kinto",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kinto.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b885876a4f62ee708d1dbbe8279f4d23604a270f18398e135fafd204647ae8b3"
+      },
+      "sha256": "713f91c6b01bd5811f9ec2aa91ad28dd95ddcbb36b5cc847c419a24b1d690b32",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kinto.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

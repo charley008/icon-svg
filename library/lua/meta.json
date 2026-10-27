@@ -1,0 +1,60 @@
+{
+  "collection_id": 1746,
+  "schema_version": 1,
+  "id": 1973,
+  "title": "Lua",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lua"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1485,
+      "collection": "Dashboard Icons",
+      "file": "lua.svg",
+      "id": 3274,
+      "is_default": true,
+      "label": "lua",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lua.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37cc5799b78cf83e8b4026a77d3d7d6a6a1781e07f95764d2b58ddcbc0371064"
+      },
+      "sha256": "c283318972680687d005b9077225671e323822427417a0ce9e018dcc52af29f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lua.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2682,
+      "collection": "TechIcons / Devicon",
+      "file": "lua-1.svg",
+      "id": 5254,
+      "is_default": false,
+      "label": "TechIcons · Lua",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Lua.svg",
+        "original_sha256": "0d8eed8fb0cdc8d77a9948f08ac401be8c2dc67449332885c4a97cbe1e2bd449",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/lua",
+        "reference_website": "https://www.lua.org"
+      },
+      "sha256": "9b40f3a8ed95c0abc64084dca68c0a965eaee3677e2743791990bc8ada2d867e",
+      "source": "https://techicons.dev/icons/lua",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1881,
+  "schema_version": 1,
+  "id": 2108,
+  "title": "Myheats",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "myheats"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2754,
+      "collection": "Dashboard Icons",
+      "file": "myheats.svg",
+      "id": 3459,
+      "is_default": true,
+      "label": "myheats",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "myheats.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b13ed264489ada19ec7370e4e0fd6159b1e2e608037954933fb44ae54edb30be"
+      },
+      "sha256": "eb9d44d09660fdf4137a17ad0a6f3ede7be827e07f8697d2216887281a521d57",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/myheats.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2898,
+      "collection": "Dashboard Icons",
+      "file": "myheats-1.svg",
+      "id": 3460,
+      "is_default": false,
+      "label": "myheats-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "myheats-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "33f1c5284479bc2f50ca1c9bb9de58796efba6c7273ec154827476af5036a2fc"
+      },
+      "sha256": "bf74bd76810d977abf23632c69f2a649fcba92f50221bd3e38056a3e636c3700",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/myheats-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

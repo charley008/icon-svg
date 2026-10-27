@@ -1,0 +1,40 @@
+{
+  "collection_id": 2874,
+  "schema_version": 1,
+  "id": 3101,
+  "title": "Unbound",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "unbound"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1863,
+      "collection": "Dashboard Icons",
+      "file": "unbound.svg",
+      "id": 4781,
+      "is_default": true,
+      "label": "unbound",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unbound.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf24d2ec715f358a149f48bc44be348580915651cf1ac999e26fd0a1256f431b"
+      },
+      "sha256": "a0aa2db16088680b7b8a4e4c30b79a25447474b0d89322253dda0ed90faaa725",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unbound.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

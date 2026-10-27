@@ -1,0 +1,40 @@
+{
+  "collection_id": 1686,
+  "schema_version": 1,
+  "id": 1913,
+  "title": "Level Io",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "level-io"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1977,
+      "collection": "Dashboard Icons",
+      "file": "level-io.svg",
+      "id": 3195,
+      "is_default": true,
+      "label": "level-io",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "level-io.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b5d0a48e3cd8c6658af4c8710eb5f91ba15fe54aa31d56f620a6d3e978c8323"
+      },
+      "sha256": "7c1370f1ddf4681867f666227784a4d8ef43d0a036420be4e91517a1ff0d1bf8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/level-io.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

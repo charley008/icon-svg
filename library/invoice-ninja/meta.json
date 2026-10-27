@@ -1,0 +1,62 @@
+{
+  "collection_id": 1556,
+  "schema_version": 1,
+  "id": 1783,
+  "title": "Invoice Ninja",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "E-commerce-Platforms",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "invoice-ninja"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1487,
+      "collection": "Dashboard Icons",
+      "file": "invoice-ninja.svg",
+      "id": 3032,
+      "is_default": true,
+      "label": "invoice-ninja",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "invoice-ninja.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e91b51af21ef1f80e0b61ca7a6acb7bea84ac3ea221a06d5d2e76c282412eae5"
+      },
+      "sha256": "7eb6f118a58b9b67578d8666f1d92f041af6e565d5d230fe53f98df7695e5b03",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/invoice-ninja.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1502,
+      "collection": "Dashboard Icons",
+      "file": "invoice-ninja-1.svg",
+      "id": 3033,
+      "is_default": false,
+      "label": "invoice-ninja-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "invoice-ninja-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "96d9101525e38c458f15ac4d865ab33995a2dc847b15d5fe0b08aba2cc04be76"
+      },
+      "sha256": "3fac8b04525b32a99c7bd446a772ebc80369ddcaaff96ec65214eded2c0f2418",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/invoice-ninja-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

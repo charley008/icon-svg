@@ -1,0 +1,41 @@
+{
+  "collection_id": 2426,
+  "schema_version": 1,
+  "id": 2653,
+  "title": "Qd Today",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "qd-today",
+    "qd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6882,
+      "collection": "Dashboard Icons",
+      "file": "qd-today.svg",
+      "id": 4214,
+      "is_default": true,
+      "label": "qd-today",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "qd-today.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7f6dfdee81b065b36cd1232e66e5d568a979b6d45845ecf1d123f3f5cad9aef5"
+      },
+      "sha256": "662a3cfcb2c63683f348974c3ea4fd15492b981a39c486bf78ff8a4281986ed3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/qd-today.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

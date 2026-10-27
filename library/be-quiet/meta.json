@@ -1,0 +1,41 @@
+{
+  "collection_id": 856,
+  "schema_version": 1,
+  "id": 1083,
+  "title": "Be Quiet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "be-quiet",
+    "bequiet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2704,
+      "collection": "Dashboard Icons",
+      "file": "be-quiet.svg",
+      "id": 2101,
+      "is_default": true,
+      "label": "be-quiet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "be-quiet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "259f4f6b2213cedc4b2017c57b5baf768bee5a879786fde3ac5efe0845e39c87"
+      },
+      "sha256": "7e0ad8e2cec5770050fb2555a1f8456705ad09e286a7de132bdb95163d7d2946",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/be-quiet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

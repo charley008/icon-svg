@@ -1,0 +1,59 @@
+{
+  "collection_id": 2065,
+  "schema_version": 1,
+  "id": 2292,
+  "title": "Otp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "otp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6213,
+      "collection": "Dashboard Icons",
+      "file": "otp.svg",
+      "id": 3716,
+      "is_default": true,
+      "label": "otp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "otp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8688e5a8d6d7fa6cee8464fc58d444552d3f862c93b531a8919b0f12be178d2d"
+      },
+      "sha256": "1f13de1ea4cabca76771783a6add236f9e55c616216a865f05760afb5927c6ab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/otp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5856,
+      "collection": "Dashboard Icons",
+      "file": "otp-1.svg",
+      "id": 3717,
+      "is_default": false,
+      "label": "otp-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "otp-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e092b1ee54562ae9e3a861a48e45239fc109daf9058b8129718f0bf13878f982"
+      },
+      "sha256": "490fbc0d071db5d9d277ec72a06d8b699d880849caf2d817b0f34d766252c271",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/otp-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

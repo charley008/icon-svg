@@ -1,0 +1,40 @@
+{
+  "collection_id": 1587,
+  "schema_version": 1,
+  "id": 1814,
+  "title": "Jelu",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jelu"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1788,
+      "collection": "Dashboard Icons",
+      "file": "jelu.svg",
+      "id": 3074,
+      "is_default": true,
+      "label": "jelu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jelu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "727011fb13ce4dabc52feabb320317f2ffa2ae820a09a8fa99b6716e4d401cfc"
+      },
+      "sha256": "031a63011d9955860f068eb1f69be2c7f9e492f075f3775932e74b1bd4799ac5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jelu.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

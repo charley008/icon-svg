@@ -44,8 +44,27 @@
       "sha256": "035e46d3899acb6ecf176e881b88d4c45fa9afb74ceb80f90ff44369fb3b0877",
       "source": "https://web.gotab.cn/sourceStore/website/01KK8ZSTM3MG75AQY8TQCTEYAR.svg",
       "version": 0
+    },
+    {
+      "bytes": 575,
+      "collection": "Dashboard Icons",
+      "file": "linux-do-1.svg",
+      "id": 3239,
+      "is_default": false,
+      "label": "linuxdo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linuxdo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "acc887bc5fc0adfa35f58d90caaf6c175696e9031aee0dd4b09406dcc364b641"
+      },
+      "sha256": "ca1c86c2e68c4123e0a39a1b70b289219b0f3e7e5d7727c7a0851d19d93d0465",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linuxdo.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

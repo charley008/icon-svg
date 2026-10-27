@@ -1,0 +1,45 @@
+{
+  "collection_id": 3019,
+  "schema_version": 1,
+  "id": 3246,
+  "title": "Yacht",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Server-Panels",
+    "开发编程"
+  ],
+  "aliases": [
+    "yacht",
+    "docker-dashboard",
+    "container-manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1478,
+      "collection": "Dashboard Icons",
+      "file": "yacht.svg",
+      "id": 4974,
+      "is_default": true,
+      "label": "yacht",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yacht.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a708031dc42154d26adbf5dce42a3a741c152f5bb035e508c32557c314e92a0"
+      },
+      "sha256": "5d6b7605a6b3118d84498192cd7e2ab98705a6f03465a7a592c89187e6c95dc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yacht.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

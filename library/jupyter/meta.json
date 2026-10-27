@@ -1,0 +1,60 @@
+{
+  "collection_id": 1603,
+  "schema_version": 1,
+  "id": 1830,
+  "title": "Jupyter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jupyter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5649,
+      "collection": "Dashboard Icons",
+      "file": "jupyter.svg",
+      "id": 3093,
+      "is_default": true,
+      "label": "jupyter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jupyter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e84d3745e2ff2aec0565c1666c038cd05beba8652a46984dcdba22faea23bb1"
+      },
+      "sha256": "0fc471ddcca3051e2ff4e29cbf85fa63ff3f551144bbac88293cd9819c3a89d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jupyter.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1386,
+      "collection": "TechIcons / Devicon",
+      "file": "jupyter-1.svg",
+      "id": 5233,
+      "is_default": false,
+      "label": "TechIcons · Jupyter",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Jupyter.svg",
+        "original_sha256": "9b246fe756a3b600f68a7af1f17702033a1cdb6417da3a9f695337f584b5d545",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jupyter",
+        "reference_website": "https://jupyter.org"
+      },
+      "sha256": "b24b9690081f5bba5f1b535e9a42b2f9167ad16c872ef48132306384025f330e",
+      "source": "https://techicons.dev/icons/jupyter",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

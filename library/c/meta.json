@@ -1,0 +1,60 @@
+{
+  "collection_id": 924,
+  "schema_version": 1,
+  "id": 1151,
+  "title": "C",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "c"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1189,
+      "collection": "Dashboard Icons",
+      "file": "c.svg",
+      "id": 2194,
+      "is_default": true,
+      "label": "c",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "c.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f38b229cfd07d38c69c2446b9c79b8a15581000007913c39d5c1af5b33340366"
+      },
+      "sha256": "fbc2ce5db0a8a7a1849066636d034944ab787529d3460cba2b205b8431ae8e97",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/c.svg",
+      "version": 0
+    },
+    {
+      "bytes": 699,
+      "collection": "TechIcons / Devicon",
+      "file": "c-1.svg",
+      "id": 5097,
+      "is_default": false,
+      "label": "TechIcons · C",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "C.svg",
+        "original_sha256": "7f383aff199491bfc4d45ba3d4f0486cd1ece307216ace19bf205a8783ae68fd",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/c",
+        "reference_website": "https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170"
+      },
+      "sha256": "b182bf1cba58bca9138149cfa6ef222af032183bc89ebbbf740288a9b0a554b9",
+      "source": "https://techicons.dev/icons/c",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

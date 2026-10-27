@@ -1,0 +1,45 @@
+{
+  "collection_id": 1538,
+  "schema_version": 1,
+  "id": 1765,
+  "title": "Incus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools",
+    "Server-Panels",
+    "开发编程"
+  ],
+  "aliases": [
+    "incus",
+    "Container Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3916,
+      "collection": "Dashboard Icons",
+      "file": "incus.svg",
+      "id": 3010,
+      "is_default": true,
+      "label": "incus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "incus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "04824d484ff9d94e6ff344a06451dcf6315889e2563162b788a464688c63868b"
+      },
+      "sha256": "b188d04b647b0fcf627e70c222ed6973199aaa1aaec4f2fec2d8c56389f3f645",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/incus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

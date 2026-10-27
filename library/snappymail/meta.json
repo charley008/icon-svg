@@ -1,0 +1,64 @@
+{
+  "collection_id": 2642,
+  "schema_version": 1,
+  "id": 2869,
+  "title": "Snappymail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons",
+    "Email-Providers",
+    "Web-Browsers",
+    "浏览器"
+  ],
+  "aliases": [
+    "snappymail",
+    "webmail-app",
+    "browser-based-email"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2732,
+      "collection": "Dashboard Icons",
+      "file": "snappymail.svg",
+      "id": 4485,
+      "is_default": true,
+      "label": "snappymail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snappymail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bf056a1bd0b033638cb1733939c6fcec9adc055f4fd166eaf9bc8ee6e8fb90b9"
+      },
+      "sha256": "08ee7a70a15d7aee2906ed8af6ef855faff644440497bca8e671fa80b1e9769b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snappymail.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3020,
+      "collection": "Dashboard Icons",
+      "file": "snappymail-1.svg",
+      "id": 4486,
+      "is_default": false,
+      "label": "snappymail-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snappymail-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e8faa3d841781452f38aa98b3cbce37bc552545f6a97b0094e81e79f3862148d"
+      },
+      "sha256": "2331c95a5d2122a5e556a0b00f62bc085747589aa7914d95615cef016ba0afdb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snappymail-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,78 @@
+{
+  "collection_id": 2242,
+  "schema_version": 1,
+  "id": 2469,
+  "title": "Puter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "puter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2828,
+      "collection": "Dashboard Icons",
+      "file": "puter.svg",
+      "id": 3966,
+      "is_default": true,
+      "label": "puter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "puter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e5dba3aafbb6883471226a944c37c3e4ad831179289563b4687c3657724b93a5"
+      },
+      "sha256": "726b13354e891f593d16d9f9dccc66e61949b244161019df438058140670de8d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/puter.svg",
+      "version": 0
+    },
+    {
+      "bytes": 930,
+      "collection": "Dashboard Icons",
+      "file": "puter-1.svg",
+      "id": 3967,
+      "is_default": false,
+      "label": "puter-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "puter-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40396e3f2ab113cc3a2fcad2b2bda8016aa6f66f4a92111f43face0e44430a1b"
+      },
+      "sha256": "c9fd8afba399b73cc296d146fb8020d437304733b19544452f946e985f1ef49b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/puter-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2844,
+      "collection": "Dashboard Icons",
+      "file": "puter-2.svg",
+      "id": 3968,
+      "is_default": false,
+      "label": "puter-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "puter-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6229f1bc6c3c9b2154e45e6fcc59afda2a6456523c7f5c62fcbe1a8aa56f4bd3"
+      },
+      "sha256": "6e262b82250949b956ba679c4cc27808bebd446d1d593e2c12eb558ec808d1d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/puter-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

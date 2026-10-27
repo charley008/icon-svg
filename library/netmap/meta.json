@@ -1,0 +1,40 @@
+{
+  "collection_id": 1906,
+  "schema_version": 1,
+  "id": 2133,
+  "title": "Netmap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netmap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 612,
+      "collection": "Dashboard Icons",
+      "file": "netmap.svg",
+      "id": 3496,
+      "is_default": true,
+      "label": "netmap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netmap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "432793dcb79a0741c6b0bcef44fd03a158f676d7081b6f191dbe54d8b6dae716"
+      },
+      "sha256": "8d65cdd1f14cbc02199829d077cdcf7bd9557806ba56c763229b129c87155a03",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netmap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,4 +1,11 @@
 {
+  "collection_id": 641,
+  "schema_version": 1,
+  "id": 868,
+  "redirect_from": [
+    3294,
+    3295
+  ],
   "title": "Zyxel",
   "url": "https://www.zyxel.com/",
   "domains": [
@@ -17,28 +24,166 @@
     "合勤",
     "网络设备",
     "zyxel-green",
-    "zyxel-device"
+    "zyxel-device",
+    "zyxel-networks-wordmark-dark",
+    "Zyxel Networks Wordmark Dark",
+    "zyxel-networks-wordmark-light",
+    "Zyxel Networks Wordmark Light"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "zyxel.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "6f985b96fab92f7d68dcf88e9b051c2850683587269257d4416718959dd07008",
       "bytes": 1571,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks.svg",
+      "collection": "Dashboard Icons",
+      "file": "zyxel.svg",
+      "id": 1824,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "zyxel-networks.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "6f985b96fab92f7d68dcf88e9b051c2850683587269257d4416718959dd07008",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1615,
+      "collection": "Dashboard Icons",
+      "file": "zyxel-1.svg",
+      "id": 5032,
+      "is_default": false,
+      "label": "zyxel-networks-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zyxel-networks-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "80a44e0af210623bd7b5ff40a5c6b8c736f9cef69f17dee17be3affb6138e085"
+      },
+      "sha256": "8f0be22881325336052e14c3e7c3568596eac1bef2b3b53bf68f6caa43116a3a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1615,
+      "collection": "Dashboard Icons",
+      "file": "zyxel-2.svg",
+      "id": 5033,
+      "is_default": false,
+      "label": "zyxel-networks-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zyxel-networks-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "131d3b92488109758303e505b1e4298d19fd0c952e28ffdd54b5973b29db8bda"
+      },
+      "sha256": "9f32144a2bbaccc6d2417c5b1877bdb8318d772a8be92a6b9194ecb7557984c7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 8459,
+      "collection": "Dashboard Icons",
+      "file": "zyxel-3.svg",
+      "id": 5036,
+      "is_default": false,
+      "label": "Zyxel Networks Wordmark Dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zyxel-networks-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8d28ce5b39c7abea59c59b892f9a2e11b030216fd561d81a59d9a5d61a4716b4"
+      },
+      "sha256": "e003ad3b93e09f204aa1bcb13fbd562432188e317438d324de4c4871e82345fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks-wordmark-dark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 8435,
+      "collection": "Dashboard Icons",
+      "file": "zyxel-4.svg",
+      "id": 5037,
+      "is_default": false,
+      "label": "Zyxel Networks Wordmark Light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zyxel-networks-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c66824e13c9889b9865edac3f4b84ef71207fd7fe6b2ad5c21b59eb2ba9d686b"
+      },
+      "sha256": "508d41affbed911c2dffaa55384bcb5647229752c778d2c67779d6db0cc1f7f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-networks-wordmark-light.svg",
+      "version": 4
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "next_version": 5,
+  "products": [
+    {
+      "id": 3293,
+      "key": "communications",
+      "title": "Zyxel Communications",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "zyxel-communications"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1549,
+          "collection": "Dashboard Icons",
+          "file": "zyxel-communications.svg",
+          "id": 5034,
+          "is_default": true,
+          "label": "zyxel-communications",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zyxel-communications.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "f482626d1b00e4cb42e2b19fd1b72165e37f8677f84a90fba9ac5fc04b5daa01"
+          },
+          "sha256": "a1c98744ec0718d0c60cb9f5f7788cf4815f1a23070e56cb4bb82b53679709f7",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-communications.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1561,
+          "collection": "Dashboard Icons",
+          "file": "zyxel-communications-1.svg",
+          "id": 5035,
+          "is_default": false,
+          "label": "zyxel-communications-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "zyxel-communications-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a8f55b2674188aebce664eb6f7c10503cdcd3e559b73edabb60623ccfb7e1d70"
+          },
+          "sha256": "740f26fae8f3030fc6c51dd97303a9851341a5d4e704c70739b215a28a8386f3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zyxel-communications-light.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
 }

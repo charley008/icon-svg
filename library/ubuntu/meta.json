@@ -71,8 +71,66 @@
       "sha256": "d3b7e49173c307e34d764543045253e57540a626306214cc7a65509ac785a712",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/ubuntu-1.svg",
       "version": 2
+    },
+    {
+      "bytes": 860,
+      "collection": "Dashboard Icons",
+      "file": "ubuntu-3.svg",
+      "id": 4769,
+      "is_default": false,
+      "label": "ubuntu-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ubuntu-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68b59c363207f747015c5656497455fb78b22b879b74400406efb5046e503ccd"
+      },
+      "sha256": "b4ba74c80c9418bb0935e4ba1571be9c5c0212cab55d1e7f30a5df43f84b5893",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ubuntu-linux.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1416,
+      "collection": "Dashboard Icons",
+      "file": "ubuntu-4.svg",
+      "id": 4770,
+      "is_default": false,
+      "label": "ubuntu-linux-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ubuntu-linux-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "65886317420c356524c1e5682e0744ab572f1f61ad381c2dcd17a69ec2535826"
+      },
+      "sha256": "d6d36c3f96c229d939775d5afb3d98b4db148c0284b567bbb2f597123d5185a1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ubuntu-linux-alt.svg",
+      "version": 4
+    },
+    {
+      "bytes": 1370,
+      "collection": "TechIcons / Devicon",
+      "file": "ubuntu-5.svg",
+      "id": 5387,
+      "is_default": false,
+      "label": "TechIcons · Ubuntu",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ubuntu.svg",
+        "original_sha256": "72f136e99c7d57ec01b2dcdeeeeba4e01e22cb78fba657abc6842ec3a33d7178",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ubuntu",
+        "reference_website": "https://ubuntu.com"
+      },
+      "sha256": "e03328ef0c91a9ff951a99eea95e87dd4c540365a91c179585c0ffacb77e19f8",
+      "source": "https://techicons.dev/icons/ubuntu",
+      "version": 5
     }
   ],
-  "next_version": 3,
+  "next_version": 6,
   "products": []
 }

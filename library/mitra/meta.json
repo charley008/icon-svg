@@ -1,0 +1,40 @@
+{
+  "collection_id": 1834,
+  "schema_version": 1,
+  "id": 2061,
+  "title": "Mitra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mitra"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1870,
+      "collection": "Dashboard Icons",
+      "file": "mitra.svg",
+      "id": 3400,
+      "is_default": true,
+      "label": "mitra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mitra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77783580eeb36074f8d6857cf1ec8a0ffb159c9e1b5509cdc154a5b48a19342f"
+      },
+      "sha256": "e85f8dcc2e7309195aea12284aeb939d6ad71f7c526ee146c670cdafaf6b87f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mitra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

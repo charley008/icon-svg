@@ -1,0 +1,63 @@
+{
+  "collection_id": 2872,
+  "schema_version": 1,
+  "id": 3099,
+  "title": "Umami",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "umami",
+    "privacy-focused-analytics",
+    "website-statistics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 335,
+      "collection": "Dashboard Icons",
+      "file": "umami.svg",
+      "id": 4778,
+      "is_default": true,
+      "label": "umami",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "umami.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8e86067d4859cb60c48b9f587b79a48ca1139c96099869adfeff25f296ea639c"
+      },
+      "sha256": "f271bfc4661e8fe959095b979aacf36e20a229d080c51dbdbc29b6978944c69f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/umami.svg",
+      "version": 0
+    },
+    {
+      "bytes": 347,
+      "collection": "Dashboard Icons",
+      "file": "umami-1.svg",
+      "id": 4779,
+      "is_default": false,
+      "label": "umami-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "umami-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a71b4c3ed6e1af4f20fb87ea771ba3a8b1dcf869e7067499479cc226baf5675f"
+      },
+      "sha256": "33cb9adb6dc62291a49d55c7b7add4658c812627d72e845edf30424973b5e2d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/umami-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

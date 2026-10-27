@@ -1,0 +1,40 @@
+{
+  "collection_id": 2238,
+  "schema_version": 1,
+  "id": 2465,
+  "title": "Pure Storage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pure-storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 594,
+      "collection": "Dashboard Icons",
+      "file": "pure-storage.svg",
+      "id": 3962,
+      "is_default": true,
+      "label": "pure-storage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pure-storage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "748da2067803c5f1477decf0cf39e2624165f05aa22d41e0f6e53a0edc6e32fb"
+      },
+      "sha256": "d65ea6b6be282f8a4c2d5650152e29a2da260d355c630bb139b5bb6b0114cc50",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pure-storage.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

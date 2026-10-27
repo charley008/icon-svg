@@ -1,0 +1,125 @@
+{
+  "collection_id": 2087,
+  "schema_version": 1,
+  "id": 2314,
+  "redirect_from": [
+    2316,
+    2317
+  ],
+  "title": "Paperless",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "paperless",
+    "paperless-ng",
+    "Paperless Ng",
+    "Document Management",
+    "paperless-ngx",
+    "Paperless Ngx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 508,
+      "collection": "Dashboard Icons",
+      "file": "paperless.svg",
+      "id": 3746,
+      "is_default": true,
+      "label": "paperless",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paperless.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b9d0cb5ddad416f50f01f00b96f7db5f374ee9c9cbf1ad45201e2c7337fd3fe9"
+      },
+      "sha256": "3551e8e147c48e8b3ad40601270015d1a784ee494523164e1e6b9db560c370bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paperless.svg",
+      "version": 0
+    },
+    {
+      "bytes": 508,
+      "collection": "Dashboard Icons",
+      "file": "paperless-1.svg",
+      "id": 3747,
+      "is_default": false,
+      "label": "paperless-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paperless-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e8c6a6e418389ca9b7f3ecfd83879a108b58ee608fcda2222b36a513547d8db2"
+      },
+      "sha256": "990ed3971fd27b53d3a01b87e7186048a5e5075bff8c1b94818b44016cbafa4b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paperless-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 508,
+      "collection": "Dashboard Icons",
+      "file": "paperless-2.svg",
+      "id": 3748,
+      "is_default": false,
+      "label": "paperless-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paperless-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f594ade1a2c422903951d11e3fe5c589ef1c8d952619b637d8cf2cfdac76af28"
+      },
+      "sha256": "ffa11c76e80c8a1e1caf35b715e39b3324efbbc3724e6125f64786234790ce81",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paperless-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 728,
+      "collection": "Dashboard Icons",
+      "file": "paperless-3.svg",
+      "id": 3750,
+      "is_default": false,
+      "label": "Paperless Ng",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paperless-ng.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9afe1e00a6851b6277dd7c9388ec41013523fb21187fe2c18a5654c1a0531776"
+      },
+      "sha256": "fed341264b243875c91ac4ecf2e67610fd9122c65f6efaad15c7a51c0ab465e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paperless-ng.svg",
+      "version": 3
+    },
+    {
+      "bytes": 669,
+      "collection": "Dashboard Icons",
+      "file": "paperless-4.svg",
+      "id": 3751,
+      "is_default": false,
+      "label": "Paperless Ngx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paperless-ngx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ac3f690b151bdf14e16bebea52721178b37ff6198660a1258ec9445eafb2b8d0"
+      },
+      "sha256": "911525856fdcfeaa59433bcb5a6dc89593de48fbb73487042aa2491be65379aa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paperless-ngx.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

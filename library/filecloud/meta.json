@@ -1,0 +1,40 @@
+{
+  "collection_id": 1261,
+  "schema_version": 1,
+  "id": 1488,
+  "title": "Filecloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "filecloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1981,
+      "collection": "Dashboard Icons",
+      "file": "filecloud.svg",
+      "id": 2644,
+      "is_default": true,
+      "label": "filecloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filecloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c4ae882c32523f1f6db9430612ee05e4d52c8b2f42723e0e95307addf6e0a09"
+      },
+      "sha256": "3602e00409a7b8b979842813aabf56a4022469007ee260843c721f5aad5c5203",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filecloud.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

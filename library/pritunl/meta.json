@@ -1,0 +1,45 @@
+{
+  "collection_id": 2212,
+  "schema_version": 1,
+  "id": 2439,
+  "title": "Pritunl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "VPN",
+    "Networking-Tools",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "pritunl",
+    "VPN Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1592,
+      "collection": "Dashboard Icons",
+      "file": "pritunl.svg",
+      "id": 3929,
+      "is_default": true,
+      "label": "pritunl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pritunl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cbc45cb19aea18c4652cb6379f5fd857d72acd6938f5bcc1b6df9f614760a50d"
+      },
+      "sha256": "8092f146fb6ee631e680a2af0c6748753ef6006c5a9156474114c926caf0211b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pritunl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

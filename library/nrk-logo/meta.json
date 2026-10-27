@@ -1,0 +1,78 @@
+{
+  "collection_id": 1966,
+  "schema_version": 1,
+  "id": 2193,
+  "title": "Nrk Logo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nrk-logo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1100,
+      "collection": "Dashboard Icons",
+      "file": "nrk-logo.svg",
+      "id": 3572,
+      "is_default": true,
+      "label": "nrk-logo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nrk-logo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "25836f4893292d3ccee466f800da3a282fc467150b3a344d030dc94c48079236"
+      },
+      "sha256": "4681f25c8c2d5d0d75d4192dd666385bd0ce8ae2de5c45791cbe27386f56c87c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nrk-logo.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1100,
+      "collection": "Dashboard Icons",
+      "file": "nrk-logo-1.svg",
+      "id": 3573,
+      "is_default": false,
+      "label": "nrk-logo-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nrk-logo-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d314416af17b1219db9891878026f62d6b1bb49f2592c17dad8e971fb0b5d410"
+      },
+      "sha256": "4e0a15f7e5258ac7a7ed7f51e7d34fb51f50634041bbf0ddcd4c82383bf5f8a5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nrk-logo-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1100,
+      "collection": "Dashboard Icons",
+      "file": "nrk-logo-2.svg",
+      "id": 3574,
+      "is_default": false,
+      "label": "nrk-logo-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nrk-logo-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "363e3e4f11d7979bca674dba1855d9d10757834aa37614c035e7f2fd7d42a292"
+      },
+      "sha256": "202cf85ad80a49ccb85f856d2080a0fc3b1c1c98f4f970f27aa4293f6bbc7f0b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nrk-logo-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

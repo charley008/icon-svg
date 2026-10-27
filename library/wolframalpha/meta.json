@@ -1,0 +1,40 @@
+{
+  "collection_id": 2994,
+  "schema_version": 1,
+  "id": 3221,
+  "title": "Wolframalpha",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wolframalpha"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2128,
+      "collection": "Dashboard Icons",
+      "file": "wolframalpha.svg",
+      "id": 4936,
+      "is_default": true,
+      "label": "wolframalpha",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wolframalpha.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b0d8c3ade40153c2b4c07a94d4992fc6c32f5af244407e2fcabf6b2674214ca"
+      },
+      "sha256": "04f279ac3857c37149bafe03a4c6673d6d4b7fee089ff0e5c91d43aa892d6cdd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wolframalpha.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

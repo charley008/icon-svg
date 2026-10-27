@@ -1,0 +1,40 @@
+{
+  "collection_id": 1683,
+  "schema_version": 1,
+  "id": 1910,
+  "title": "Leantime",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "leantime"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 548,
+      "collection": "Dashboard Icons",
+      "file": "leantime.svg",
+      "id": 3189,
+      "is_default": true,
+      "label": "leantime",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "leantime.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fee7395e59a39c9b0391a0d68cf6a815c0a7353dd09f3853d49a6034d887922b"
+      },
+      "sha256": "955700fa5ec5a0537833bc505ca5b826fd49608f2329b46722891c1aa18915fd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leantime.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

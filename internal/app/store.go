@@ -71,20 +71,21 @@ func (i IconMeta) MarshalJSON() ([]byte, error) {
 }
 
 type GroupMeta struct {
-	ID          int64      `json:"id,omitempty"`
-	Published   *bool      `json:"published,omitempty"`
-	Deleted     bool       `json:"deleted,omitempty"`
-	Key         string     `json:"key,omitempty"`
-	Title       string     `json:"title"`
-	URL         string     `json:"url"`
-	Domains     []string   `json:"domains"`
-	Description string     `json:"description"`
-	Category    string     `json:"category"`
-	Tags        []string   `json:"tags"`
-	Aliases     []string   `json:"aliases"`
-	Notes       []string   `json:"notes"`
-	Icons       []IconMeta `json:"icons"`
-	Next        int        `json:"next_version"`
+	ID           int64      `json:"id,omitempty"`
+	RedirectFrom []int64    `json:"redirect_from,omitempty"`
+	Published    *bool      `json:"published,omitempty"`
+	Deleted      bool       `json:"deleted,omitempty"`
+	Key          string     `json:"key,omitempty"`
+	Title        string     `json:"title"`
+	URL          string     `json:"url"`
+	Domains      []string   `json:"domains"`
+	Description  string     `json:"description"`
+	Category     string     `json:"category"`
+	Tags         []string   `json:"tags"`
+	Aliases      []string   `json:"aliases"`
+	Notes        []string   `json:"notes"`
+	Icons        []IconMeta `json:"icons"`
+	Next         int        `json:"next_version"`
 }
 type BrandMeta struct {
 	ID     int64  `json:"collection_id,omitempty"`
@@ -316,7 +317,57 @@ func loadCatalog(tx *sql.Tx, library fs.FS) error {
 			}
 		}
 	}
+	return validateGroupRedirects(tx)
+}
+
+// Retired detail IDs share the same namespace as live groups. Reject collisions
+// so an old bookmark can never resolve ambiguously or replace another product.
+func validateGroupRedirects(q queryer) error {
+	rows, err := q.Query(`SELECT id,metadata FROM groups`)
+	if err != nil {
+		return err
+	}
+	defer rows.Close()
+	ids, aliases := map[int64]bool{}, map[int64]bool{}
+	for rows.Next() {
+		var id int64
+		var raw string
+		if err := rows.Scan(&id, &raw); err != nil {
+			return err
+		}
+		var meta GroupMeta
+		if err := json.Unmarshal([]byte(raw), &meta); err != nil {
+			return err
+		}
+		ids[id] = true
+		if len(meta.RedirectFrom) > 1000 {
+			return errors.New("旧详情地址过多")
+		}
+		for _, alias := range meta.RedirectFrom {
+			if alias <= 0 || alias > 1<<52 || aliases[alias] {
+				return errors.New("旧详情地址 ID 无效或重复")
+			}
+			aliases[alias] = true
+		}
+	}
+	if err := rows.Err(); err != nil {
+		return err
+	}
+	for alias := range aliases {
+		if ids[alias] {
+			return errors.New("旧详情地址与现有产品 ID 冲突")
+		}
+	}
 	return nil
+}
+
+func nextGroupID(q queryer) (int64, error) {
+	var id int64
+	err := q.QueryRow(`SELECT COALESCE(MAX(id),0)+1 FROM (SELECT id FROM groups UNION ALL SELECT CAST(old.value AS INTEGER) FROM groups g JOIN json_each(g.metadata,'$.redirect_from') old)`).Scan(&id)
+	if err == nil && id > 1<<52 {
+		err = errors.New("产品 ID 超出范围")
+	}
+	return id, err
 }
 
 func (s *Store) transaction(fn func(*sql.Tx) error) error {

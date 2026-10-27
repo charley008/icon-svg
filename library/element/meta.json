@@ -1,4 +1,7 @@
 {
+  "collection_id": 528,
+  "schema_version": 1,
+  "id": 704,
   "title": "Element",
   "url": "https://element.io/",
   "domains": [
@@ -21,23 +24,61 @@
   "notes": [],
   "icons": [
     {
-      "file": "element.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "dadef7649160a6b19b8e288e31da2b960091ba049f6f140e785b8be8388dc3c6",
       "bytes": 842,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/element.svg",
+      "collection": "Dashboard Icons",
+      "file": "element.svg",
+      "id": 1664,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "element.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "dadef7649160a6b19b8e288e31da2b960091ba049f6f140e785b8be8388dc3c6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/element.svg",
+      "version": 0
+    },
+    {
+      "bytes": 964,
+      "collection": "Dashboard Icons",
+      "file": "element-1.svg",
+      "id": 2540,
+      "is_default": false,
+      "label": "matrix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matrix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae2c8bfac3c8925274aab73264772ecc7ea04c5fa4f7d08a223b81f31d4a2563"
+      },
+      "sha256": "aa107c421bf90e99ac175116a5afdcfab918c19ab98564ed3f42a60a450eddcd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matrix.svg",
+      "version": 1
+    },
+    {
+      "bytes": 961,
+      "collection": "Dashboard Icons",
+      "file": "element-2.svg",
+      "id": 2541,
+      "is_default": false,
+      "label": "matrix-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matrix-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9e3079232eccca95a547b8fa24378897e4413a608692d4c49c4888731887c9c3"
+      },
+      "sha256": "a0cb8d6f2b1b57264e94b22b3dbb9c14af9a9d096f51bb75acd2721ceab3dac5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matrix-light.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 3,
   "products": []
 }

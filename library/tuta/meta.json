@@ -1,11 +1,14 @@
 {
+  "collection_id": 628,
+  "schema_version": 1,
+  "id": 853,
   "title": "Tuta",
   "url": "https://tuta.com/",
   "domains": [
     "tuta.com"
   ],
   "description": "加密电子邮件服务。",
-  "category": "办公效率",
+  "category": "社交通讯",
   "tags": [
     "Tutanota",
     "加密邮箱",
@@ -22,23 +25,100 @@
   "notes": [],
   "icons": [
     {
-      "file": "tuta.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8b022b825b8d254653a49c292df2b267c8c3a72ffab69fd16f2202d6bdf73538",
       "bytes": 748,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuta.svg",
+      "collection": "Dashboard Icons",
+      "file": "tuta.svg",
+      "id": 1810,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "tuta.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8b022b825b8d254653a49c292df2b267c8c3a72ffab69fd16f2202d6bdf73538",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuta.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "products": [
+    {
+      "id": 3076,
+      "key": "calendar",
+      "title": "Tuta Calendar",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "tuta-calendar"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2819,
+          "collection": "Dashboard Icons",
+          "file": "tuta-calendar.svg",
+          "id": 4746,
+          "is_default": true,
+          "label": "tuta-calendar",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tuta-calendar.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5a5e8daf516f8e6df19d84570d0c1422f3362798820475921084d55e988f8d9a"
+          },
+          "sha256": "c08ad6b7e53f66bf2a2b3fb134b23c86857337fbc07c8d168a988289b10692bd",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuta-calendar.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3077,
+      "key": "mail",
+      "title": "Tuta Mail",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "tuta-mail"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2063,
+          "collection": "Dashboard Icons",
+          "file": "tuta-mail.svg",
+          "id": 4747,
+          "is_default": true,
+          "label": "tuta-mail",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "tuta-mail.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6bff148b40a55e09530df0f28ce0037a5ca8a778b5f565f1e3adf28c1f59edeb"
+          },
+          "sha256": "c7be6a4f0c5b0192ad40dfe436fd9fa8247e935aff42c008d1985f5d93364406",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tuta-mail.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

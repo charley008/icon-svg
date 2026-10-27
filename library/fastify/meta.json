@@ -1,0 +1,45 @@
+{
+  "collection_id": 3122,
+  "schema_version": 1,
+  "id": 3364,
+  "title": "Fastify",
+  "url": "https://www.fastify.io",
+  "domains": [
+    "fastify.io"
+  ],
+  "description": "面向 Node.js 的 Web 服务框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Fastify",
+    "fastify"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8641,
+      "collection": "TechIcons / Devicon",
+      "file": "fastify-1.svg",
+      "id": 5156,
+      "is_default": true,
+      "label": "TechIcons · Fastify",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Fastify.svg",
+        "original_sha256": "049ca213e57a095e101a339603347bb783e466fbb6b45febeb129677eb108604",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/fastify",
+        "reference_website": "https://www.fastify.io"
+      },
+      "sha256": "6c22a4b614603685deec2c7a77d8db9751acb08950d09455e74cce569b95bcd6",
+      "source": "https://techicons.dev/icons/fastify",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

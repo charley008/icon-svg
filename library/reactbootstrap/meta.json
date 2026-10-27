@@ -1,0 +1,46 @@
+{
+  "collection_id": 3217,
+  "schema_version": 1,
+  "id": 3480,
+  "title": "React Bootstrap",
+  "url": "https://react-bootstrap.github.io",
+  "domains": [
+    "react-bootstrap.github.io"
+  ],
+  "description": "用于 React 应用的 Bootstrap 界面组件。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "React Bootstrap",
+    "reactbootstrap",
+    "React-Bootstrap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4392,
+      "collection": "TechIcons / Devicon",
+      "file": "reactbootstrap-1.svg",
+      "id": 5336,
+      "is_default": true,
+      "label": "TechIcons · React Bootstrap",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "React-Bootstrap.svg",
+        "original_sha256": "01716f37f84280b8326e49baf1259c6fa6ecff7f25d138ec612060cd924f6fad",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/reactbootstrap",
+        "reference_website": "https://react-bootstrap.github.io"
+      },
+      "sha256": "b8c643aca4d2b7f4034ac260c3f5c6320c3cf7ea700396e80a43435257991155",
+      "source": "https://techicons.dev/icons/reactbootstrap",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,83 @@
+{
+  "collection_id": 1341,
+  "schema_version": 1,
+  "id": 1568,
+  "redirect_from": [
+    1569
+  ],
+  "title": "Fromkai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fromkai",
+    "fromkai-wordmark-light",
+    "Fromkai Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2299,
+      "collection": "Dashboard Icons",
+      "file": "fromkai.svg",
+      "id": 2736,
+      "is_default": true,
+      "label": "fromkai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fromkai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0615a17073a956a629a9fb48886e21eb4a5cfa05c9438f28c525040edf0c32db"
+      },
+      "sha256": "21982f12ef6049572990f87cda5598fde9bebb206d25d4e47c25b7ded39bab74",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fromkai.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2314,
+      "collection": "Dashboard Icons",
+      "file": "fromkai-1.svg",
+      "id": 2737,
+      "is_default": false,
+      "label": "fromkai-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fromkai-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4691dd4bb72a936a742e4d4a9af9d6a57ffd6faa375858f19c8f28f297945e7e"
+      },
+      "sha256": "06d0d38df8e230753764fbc390f9e0a890319608c9bc5aad7ccd0c0b482e8820",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fromkai-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4105,
+      "collection": "Dashboard Icons",
+      "file": "fromkai-2.svg",
+      "id": 2738,
+      "is_default": false,
+      "label": "fromkai-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fromkai-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f95ff0cc2181176454be1699c244a8c437081b415672f5b268cd101d481dde03"
+      },
+      "sha256": "e3c7466473c1c116a29b5eac0d3fa11ca8a6238c8d5267e76fa9a4f41e896b8d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fromkai-wordmark-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

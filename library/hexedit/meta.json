@@ -1,0 +1,40 @@
+{
+  "collection_id": 1472,
+  "schema_version": 1,
+  "id": 1699,
+  "title": "Hexedit",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hexedit"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 920,
+      "collection": "Dashboard Icons",
+      "file": "hexedit.svg",
+      "id": 2927,
+      "is_default": true,
+      "label": "hexedit",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hexedit.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "07c32e5d26ba193e392aa650e95f088e234e8e5521f02e5d14fefda0409ba8f5"
+      },
+      "sha256": "43d39d30d23e4a2e3f4642f586ff387f031a96be4fd48000b076a15d5b3a414e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hexedit.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

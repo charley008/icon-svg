@@ -1,0 +1,40 @@
+{
+  "collection_id": 1034,
+  "schema_version": 1,
+  "id": 1261,
+  "title": "Cozy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cozy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4365,
+      "collection": "Dashboard Icons",
+      "file": "cozy.svg",
+      "id": 2339,
+      "is_default": true,
+      "label": "cozy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cozy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5367d5051f47a3239fae9f365e04a1dca63c3190f2af2c659f41d61cc8aa006a"
+      },
+      "sha256": "7a9956bee0d54c8e7aa05138a5651454e6ba1ebdb25e503955ddd6a3e0ccdac6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cozy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

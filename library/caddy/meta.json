@@ -1,0 +1,40 @@
+{
+  "collection_id": 928,
+  "schema_version": 1,
+  "id": 1155,
+  "title": "Caddy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "caddy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3409,
+      "collection": "Dashboard Icons",
+      "file": "caddy.svg",
+      "id": 2198,
+      "is_default": true,
+      "label": "caddy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "caddy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c59f2d66b5c4038625a38b19e9d27de63d639dc80e56865ff8f92d7d4da3941f"
+      },
+      "sha256": "a5811dfc0a8a9ad49c7ea4532138976d6265f067f8fa0da12dbbc22e591eb76e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/caddy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

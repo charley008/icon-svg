@@ -1,0 +1,64 @@
+{
+  "collection_id": 1655,
+  "schema_version": 1,
+  "id": 1882,
+  "redirect_from": [
+    1883
+  ],
+  "title": "Konica Minolta",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "konica-minolta",
+    "konica-minolta-symbol",
+    "Konica Minolta Symbol"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6936,
+      "collection": "Dashboard Icons",
+      "file": "konica-minolta.svg",
+      "id": 3156,
+      "is_default": true,
+      "label": "konica-minolta",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "konica-minolta.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "14704511b0c7ff817dea3f0f8b816f5b38659f0a04a4d98c9bdc0b36429935c9"
+      },
+      "sha256": "6f10820e9cf097b2c03e8869fe6aec3ee76d3148d853a80a8b80c762cdabf71d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/konica-minolta.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3793,
+      "collection": "Dashboard Icons",
+      "file": "konica-minolta-1.svg",
+      "id": 3157,
+      "is_default": false,
+      "label": "konica-minolta-symbol",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "konica-minolta-symbol.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d3022f21a1cd6ec710877f213004ebad8c75e3fb1887adc740605f1e51f23c2d"
+      },
+      "sha256": "6a40275bb579f8262f3890aca86cc3ac11b4d4733e2d1691b8d6c010f96f7758",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/konica-minolta-symbol.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

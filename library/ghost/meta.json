@@ -1,0 +1,45 @@
+{
+  "collection_id": 3131,
+  "schema_version": 1,
+  "id": 3373,
+  "title": "Ghost",
+  "url": "https://ghost.org",
+  "domains": [
+    "ghost.org"
+  ],
+  "description": "面向内容发布的网站与写作平台。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Ghost",
+    "ghost"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10108,
+      "collection": "TechIcons / Devicon",
+      "file": "ghost-1.svg",
+      "id": 5171,
+      "is_default": true,
+      "label": "TechIcons · Ghost",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ghost.svg",
+        "original_sha256": "a6766be686be9f80549cb3828cfeb00ef14e2c5f00ee3bbfc45aa1fecbe59883",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ghost",
+        "reference_website": "https://ghost.org"
+      },
+      "sha256": "17aae75969a729a016c79d35b463e23bb5bb729b2d3fb925eac7994b18bdb3ce",
+      "source": "https://techicons.dev/icons/ghost",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

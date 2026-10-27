@@ -1,0 +1,40 @@
+{
+  "collection_id": 1957,
+  "schema_version": 1,
+  "id": 2184,
+  "title": "Note Mark",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "note-mark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1596,
+      "collection": "Dashboard Icons",
+      "file": "note-mark.svg",
+      "id": 3560,
+      "is_default": true,
+      "label": "note-mark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "note-mark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f868e012541d4c036640be72909caebb12a465e6a0257974ffab8e4360162b5e"
+      },
+      "sha256": "363ab6313abef6620cab1b3816631e9c50ded8cb74f9feeab366ec976c18c13d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/note-mark.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

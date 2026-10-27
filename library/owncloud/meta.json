@@ -1,4 +1,7 @@
 {
+  "collection_id": 588,
+  "schema_version": 1,
+  "id": 808,
   "title": "ownCloud",
   "url": "https://owncloud.com/",
   "domains": [
@@ -22,23 +25,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "owncloud.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "89cea673abf2ee62daf7d229ea055222ae63b988d3e0bd5ab140f25873d8262f",
       "bytes": 1610,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/owncloud.svg",
+      "collection": "Dashboard Icons",
+      "file": "owncloud.svg",
+      "id": 1765,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "owncloud.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "89cea673abf2ee62daf7d229ea055222ae63b988d3e0bd5ab140f25873d8262f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/owncloud.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

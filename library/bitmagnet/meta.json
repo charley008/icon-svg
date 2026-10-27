@@ -1,0 +1,42 @@
+{
+  "collection_id": 876,
+  "schema_version": 1,
+  "id": 1103,
+  "title": "Bitmagnet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "bitmagnet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 919,
+      "collection": "Dashboard Icons",
+      "file": "bitmagnet.svg",
+      "id": 2131,
+      "is_default": true,
+      "label": "bitmagnet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitmagnet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "55d8240e9b4f886c5471a060960cb0f5a5a129c51d395ca6504c8280d4073762"
+      },
+      "sha256": "fce9c6ef61e88f2b10e6d3710bc56b43e2b64073c2d5ad10ca049ded48e14fb5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitmagnet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

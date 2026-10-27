@@ -1,0 +1,40 @@
+{
+  "collection_id": 1506,
+  "schema_version": 1,
+  "id": 1733,
+  "title": "Huginn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "huginn"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3608,
+      "collection": "Dashboard Icons",
+      "file": "huginn.svg",
+      "id": 2970,
+      "is_default": true,
+      "label": "huginn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "huginn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "464dec99a689455dcca6c908a69230ac8c3796e15949af40961ed54b96cb712b"
+      },
+      "sha256": "c19f3a9080740626bb5b911029d34fd4a00714034cdca5d5cd5842e70ae7071c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/huginn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

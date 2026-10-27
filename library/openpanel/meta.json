@@ -1,0 +1,61 @@
+{
+  "collection_id": 2039,
+  "schema_version": 1,
+  "id": 2266,
+  "title": "Openpanel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Server-Panels"
+  ],
+  "aliases": [
+    "openpanel",
+    "Server Control Panel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 839,
+      "collection": "Dashboard Icons",
+      "file": "openpanel.svg",
+      "id": 3682,
+      "is_default": true,
+      "label": "openpanel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openpanel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7af0125b34f789fef078b87a83d8d025f48c7b3518d3738c6ff22be1d0d059ea"
+      },
+      "sha256": "946187d42c4488fd174e402906e95535247a6b06941b277ab22410bc2c584c7a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openpanel.svg",
+      "version": 0
+    },
+    {
+      "bytes": 851,
+      "collection": "Dashboard Icons",
+      "file": "openpanel-1.svg",
+      "id": 3683,
+      "is_default": false,
+      "label": "openpanel-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openpanel-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97e682e009eed6f3d78b299304d5f4bc9fcbb40e43903feb90421b55d8527369"
+      },
+      "sha256": "7ab7d7f680c458e108c87c1c4b2637497d098790a4ccf1f16db1e0e0dbf6a0ae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openpanel-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

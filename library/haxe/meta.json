@@ -1,0 +1,45 @@
+{
+  "collection_id": 3141,
+  "schema_version": 1,
+  "id": 3388,
+  "title": "Haxe",
+  "url": "https://haxe.org",
+  "domains": [
+    "haxe.org"
+  ],
+  "description": "Haxe 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Haxe",
+    "haxe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 684,
+      "collection": "TechIcons / Devicon",
+      "file": "haxe-1.svg",
+      "id": 5200,
+      "is_default": true,
+      "label": "TechIcons · Haxe",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Haxe.svg",
+        "original_sha256": "820f1e5dc6954a9d05c4f45383e3e1041ec47018a52d639362b5866c4f55d9de",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/haxe",
+        "reference_website": "https://haxe.org"
+      },
+      "sha256": "9665d22f9d4bc1c53a966563e72d482d3b701844f10c32a7960fc4f0deed587e",
+      "source": "https://techicons.dev/icons/haxe",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3206,
+  "schema_version": 1,
+  "id": 3469,
+  "title": "Polygon",
+  "url": "https://www.polygon.technology",
+  "domains": [
+    "polygon.technology"
+  ],
+  "description": "面向区块链应用的网络与开发生态。",
+  "category": "金融支付",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Polygon",
+    "polygon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1068,
+      "collection": "TechIcons / Devicon",
+      "file": "polygon-1.svg",
+      "id": 5317,
+      "is_default": true,
+      "label": "TechIcons · Polygon",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Polygon.svg",
+        "original_sha256": "2668c959c710a6af7c1ce552219ec06d2f9a4b63eb8b016f8e21e152e7ef128d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/polygon",
+        "reference_website": "https://www.polygon.technology"
+      },
+      "sha256": "ee0f2df0c1551772642535d170eafcac0271d79c537fccd6d0153d35204a02c7",
+      "source": "https://techicons.dev/icons/polygon",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1533,
+  "schema_version": 1,
+  "id": 1760,
+  "title": "Iliadbox Svg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "iliadbox-svg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4973,
+      "collection": "Dashboard Icons",
+      "file": "iliadbox-svg.svg",
+      "id": 3003,
+      "is_default": true,
+      "label": "iliadbox-svg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iliadbox-svg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a00689de36ff637c720780ac020e68bfbbf9f54877d635cc11cb7a9abc5150a5"
+      },
+      "sha256": "2e9c5df65941a584e372e821dff41aa01a620fac9c73f5b4db942353fba70e79",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iliadbox-svg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

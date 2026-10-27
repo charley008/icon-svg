@@ -1,0 +1,59 @@
+{
+  "collection_id": 2068,
+  "schema_version": 1,
+  "id": 2295,
+  "title": "Outline",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "outline"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 886,
+      "collection": "Dashboard Icons",
+      "file": "outline.svg",
+      "id": 3721,
+      "is_default": true,
+      "label": "outline",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "outline.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f491869d6624953f63943cd005f809b7afd713156b9d4a109e54078e9fbc488"
+      },
+      "sha256": "92169d3c31eacbadb0a554e53b313cbbe76ef0c7e09ea9e127d66ac2b062aa36",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/outline.svg",
+      "version": 0
+    },
+    {
+      "bytes": 886,
+      "collection": "Dashboard Icons",
+      "file": "outline-1.svg",
+      "id": 3722,
+      "is_default": false,
+      "label": "outline-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "outline-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "588d3819e6a703f93f3b4932d471dfe796267062942c2fd6d6172e85d7de4f18"
+      },
+      "sha256": "4429d113c590063d3590a6b1f440d57f001f2736acc2b14b751d59d385a0a2e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/outline-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 2036,
+  "schema_version": 1,
+  "id": 2263,
+  "title": "Openldap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "网络工具"
+  ],
+  "aliases": [
+    "openldap",
+    "LDAP Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2406,
+      "collection": "Dashboard Icons",
+      "file": "openldap.svg",
+      "id": 3679,
+      "is_default": true,
+      "label": "openldap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openldap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae623a58354bb26823a2f5d18323cb2ce9a5f8536deaad830a01a3e085ddeb25"
+      },
+      "sha256": "18c458e5733d778701b3eb58b582e5c4eba39f6391ac6a599ef7ea4f7149480b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openldap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 2037,
+  "schema_version": 1,
+  "id": 2264,
+  "title": "Openlist",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File",
+    "网盘存储"
+  ],
+  "aliases": [
+    "openlist"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6159,
+      "collection": "Dashboard Icons",
+      "file": "openlist.svg",
+      "id": 3680,
+      "is_default": true,
+      "label": "openlist",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openlist.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b67829d873b7b0eec92056403cf3d1b3549cc515cc59147efc1af3c2fb3aa10b"
+      },
+      "sha256": "1c89837e4f3a7ce7a2b508aa6e429d43016cfc8dbdb1f813c3021248adca7a63",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openlist.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

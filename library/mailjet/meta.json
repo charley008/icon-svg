@@ -1,0 +1,43 @@
+{
+  "collection_id": 1765,
+  "schema_version": 1,
+  "id": 1992,
+  "title": "Mailjet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Email-Providers",
+    "社交通讯"
+  ],
+  "aliases": [
+    "mailjet",
+    "Email Service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 534,
+      "collection": "Dashboard Icons",
+      "file": "mailjet.svg",
+      "id": 3297,
+      "is_default": true,
+      "label": "mailjet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mailjet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76a53dfe283e223e3d7b2a94f05ac0851f4ff17aed209fc6dc19e7887bdcda47"
+      },
+      "sha256": "e575dd223d74beade01cac4f56ff953f73946f402f0607c40e5ae18adb1a9492",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mailjet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

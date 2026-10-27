@@ -1,0 +1,46 @@
+{
+  "collection_id": 3251,
+  "schema_version": 1,
+  "id": 3515,
+  "title": "Travis CI",
+  "url": "https://www.travis-ci.com",
+  "domains": [
+    "travis-ci.com"
+  ],
+  "description": "用于软件项目的持续集成服务。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Travis CI",
+    "travis",
+    "Travis-CI"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 382,
+      "collection": "TechIcons / Devicon",
+      "file": "travis-1.svg",
+      "id": 5385,
+      "is_default": true,
+      "label": "TechIcons · Travis CI",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Travis-CI.svg",
+        "original_sha256": "fc9c1aa171f385bccf4ae1cb5bf3bdf207f95bd8b1ad110faccb7144ee0095cf",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/travis",
+        "reference_website": "https://www.travis-ci.com"
+      },
+      "sha256": "8b7c95edaffe3c2c04fa3c21917c4cae8f73437425f530ee0415be83b8ecd597",
+      "source": "https://techicons.dev/icons/travis",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

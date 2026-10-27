@@ -1,0 +1,45 @@
+{
+  "collection_id": 3246,
+  "schema_version": 1,
+  "id": 3509,
+  "title": "TeX",
+  "url": "https://tex.stackexchange.com",
+  "domains": [
+    "tex.stackexchange.com"
+  ],
+  "description": "用于专业文档排版的系统。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "TeX",
+    "tex"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2044,
+      "collection": "TechIcons / Devicon",
+      "file": "tex-1.svg",
+      "id": 5378,
+      "is_default": true,
+      "label": "TechIcons · TeX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "TeX.svg",
+        "original_sha256": "b7d865d5a8a51a10e4b4b195f943749ba9f4103e2981b0162ea823ab70123bc2",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/tex",
+        "reference_website": "https://tex.stackexchange.com"
+      },
+      "sha256": "740b98b769dc86beeb16c07ac51e9e327fd0d3177a7fd0dde13777069bdb36c7",
+      "source": "https://techicons.dev/icons/tex",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

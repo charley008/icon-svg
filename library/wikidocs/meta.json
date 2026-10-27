@@ -1,0 +1,40 @@
+{
+  "collection_id": 2977,
+  "schema_version": 1,
+  "id": 3204,
+  "title": "Wikidocs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wikidocs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 606,
+      "collection": "Dashboard Icons",
+      "file": "wikidocs.svg",
+      "id": 4915,
+      "is_default": true,
+      "label": "wikidocs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikidocs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "644bdee06af94e17a2514417bd8e0c4b0020058ca0d548fb114b04a5a0545157"
+      },
+      "sha256": "10ecb8095ea34eb5ada3977a9a8c5b27dfeeca11bc917581416eb5b77d31fdf6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikidocs.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

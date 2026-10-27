@@ -1,0 +1,42 @@
+{
+  "collection_id": 1645,
+  "schema_version": 1,
+  "id": 1872,
+  "title": "Knx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "knx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2219,
+      "collection": "Dashboard Icons",
+      "file": "knx.svg",
+      "id": 3144,
+      "is_default": true,
+      "label": "knx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "knx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f4ddb3fbe3c76f2037cea5952b19a831d0a0a74542ab0e9f5eba33c74693ff31"
+      },
+      "sha256": "1b8878c6de8ce3c783425b95a9f66ab49f7a7bb21cc2231db8bcf9f494f5167e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/knx.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

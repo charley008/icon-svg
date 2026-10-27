@@ -1,0 +1,40 @@
+{
+  "collection_id": 1667,
+  "schema_version": 1,
+  "id": 1894,
+  "title": "Kubetail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kubetail"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1870,
+      "collection": "Dashboard Icons",
+      "file": "kubetail.svg",
+      "id": 3169,
+      "is_default": true,
+      "label": "kubetail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kubetail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3c92683f7a77e6788dc97a7718c7d6e2f8da962390727f18a30431b9c8709297"
+      },
+      "sha256": "401c3160a58345ad31e4c70f6addfd87dc29df32eded9ceb20a687793f626c9a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kubetail.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

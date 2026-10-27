@@ -1,0 +1,45 @@
+{
+  "collection_id": 3168,
+  "schema_version": 1,
+  "id": 3425,
+  "title": "Lumen",
+  "url": "https://lumen.laravel.com",
+  "domains": [
+    "lumen.laravel.com"
+  ],
+  "description": "用于 PHP 服务与 API 开发的轻量框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Lumen",
+    "lumen"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1535,
+      "collection": "TechIcons / Devicon",
+      "file": "lumen-1.svg",
+      "id": 5255,
+      "is_default": true,
+      "label": "TechIcons · Lumen",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Lumen.svg",
+        "original_sha256": "01aa07922185cb05f353e07bb119c240472caa655af227da35e1ee483eaa1eff",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/lumen",
+        "reference_website": "https://lumen.laravel.com"
+      },
+      "sha256": "63f3bf8f3202421002d518d867a0685ff6366893043bb8de4306dd1b2c8f38f5",
+      "source": "https://techicons.dev/icons/lumen",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

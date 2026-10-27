@@ -1,0 +1,59 @@
+{
+  "collection_id": 1754,
+  "schema_version": 1,
+  "id": 1981,
+  "title": "Lyrion",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lyrion"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1413,
+      "collection": "Dashboard Icons",
+      "file": "lyrion.svg",
+      "id": 3284,
+      "is_default": true,
+      "label": "lyrion",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lyrion.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d289c96e5085a4e640993883c1a6d09500b4167d10a5b5ed52e9e94d0c297db"
+      },
+      "sha256": "da4af55b0ece97f599db8bd8f143980bb77dae2d8fed6dc9c41db9e3b8eba5ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lyrion.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1409,
+      "collection": "Dashboard Icons",
+      "file": "lyrion-1.svg",
+      "id": 3285,
+      "is_default": false,
+      "label": "lyrion-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lyrion-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "04b8283a1ecc78395cbebf173ab4c38e1e763d5478ce39d64ff276cb677bb05b"
+      },
+      "sha256": "2e35f7453796e045779f9ba987c00e39c439ec20f1ab5258c1c25906826c5077",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lyrion-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

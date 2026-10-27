@@ -1,0 +1,45 @@
+{
+  "collection_id": 3235,
+  "schema_version": 1,
+  "id": 3498,
+  "title": "Solidity",
+  "url": "https://docs.soliditylang.org",
+  "domains": [
+    "docs.soliditylang.org"
+  ],
+  "description": "Solidity 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Solidity",
+    "solidity"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 535,
+      "collection": "TechIcons / Devicon",
+      "file": "solidity-1.svg",
+      "id": 5361,
+      "is_default": true,
+      "label": "TechIcons · Solidity",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Solidity.svg",
+        "original_sha256": "d17a000e2a4d29fe181cca14fd5ca24bbe3a529f05af0e9a4ee1b8ad5966d959",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/solidity",
+        "reference_website": "https://docs.soliditylang.org"
+      },
+      "sha256": "8a4c5fd1b2e02c3e89d52b85d179552d8bd57000ced103eca971be3bb7d2d18b",
+      "source": "https://techicons.dev/icons/solidity",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

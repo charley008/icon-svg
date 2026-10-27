@@ -1,0 +1,124 @@
+{
+  "collection_id": 1005,
+  "schema_version": 1,
+  "id": 1232,
+  "redirect_from": [
+    1233,
+    1234
+  ],
+  "title": "Comfyui",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "comfyui",
+    "comfyui-wordmark-light",
+    "Comfyui Wordmark Light",
+    "comfyui-wordmark-dark",
+    "Comfyui Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1475,
+      "collection": "Dashboard Icons",
+      "file": "comfyui.svg",
+      "id": 2301,
+      "is_default": true,
+      "label": "comfyui",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "comfyui.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8d1f64bfd824455bc83e510eab823943cde0bf8183122b301264e5d63312045e"
+      },
+      "sha256": "afa33315044cfbadce4149a272db3b2fe340f48d7c94ed07e9bb8da9357f440d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/comfyui.svg",
+      "version": 0
+    },
+    {
+      "bytes": 874,
+      "collection": "Dashboard Icons",
+      "file": "comfyui-1.svg",
+      "id": 2302,
+      "is_default": false,
+      "label": "comfyui-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "comfyui-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ee1f3d78a78ce76ffe579479ac14570fe712cae713335b58bd3418a251c86ff9"
+      },
+      "sha256": "f122481e1e0e422b21d09f66a2ace735a474ea7b1f5d5379b03ac00a77a87480",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/comfyui-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 874,
+      "collection": "Dashboard Icons",
+      "file": "comfyui-2.svg",
+      "id": 2303,
+      "is_default": false,
+      "label": "comfyui-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "comfyui-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b835ec331bbcc6a0760680fa6da9c49a6965620a8e207f9ca29d376e8a4094e"
+      },
+      "sha256": "b1be7352ff1cc25dc18c91a401fc4b8e05a7bd90b2d6fde76647fe5ff3903d6a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/comfyui-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 12758,
+      "collection": "Dashboard Icons",
+      "file": "comfyui-3.svg",
+      "id": 2305,
+      "is_default": false,
+      "label": "comfyui-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "comfyui-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8eb569a47b4528ca3f47d1fe3ce28a101f7716ae22e146a6a99154465235dcaf"
+      },
+      "sha256": "4aceaf5297daa8e7d9739656f0a4501a00ed71a7ad0f8b587b4d8255bfd3c2f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/comfyui-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 12603,
+      "collection": "Dashboard Icons",
+      "file": "comfyui-4.svg",
+      "id": 2304,
+      "is_default": false,
+      "label": "comfyui-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "comfyui-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cc5f9295e3b2dc2d610ac86a8903256074bc51a301531b0e15809440b791ed3b"
+      },
+      "sha256": "050d92ffd75b9b70497f3be3b0703b6444caf620213be509b2093f575ce36806",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/comfyui-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1018,
+  "schema_version": 1,
+  "id": 1245,
+  "title": "Contabo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "contabo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1196,
+      "collection": "Dashboard Icons",
+      "file": "contabo.svg",
+      "id": 2320,
+      "is_default": true,
+      "label": "contabo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "contabo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6024aa1ba48b600e656e204bd3547f2dbfebf62c7c68d8418a40603f8bdf91c5"
+      },
+      "sha256": "72f2d12a796a733fc92700f04d89da7f610a4f0318ae8be094fdf30aebdd7731",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/contabo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

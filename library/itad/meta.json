@@ -1,0 +1,40 @@
+{
+  "collection_id": 1568,
+  "schema_version": 1,
+  "id": 1795,
+  "title": "Itad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "itad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 786,
+      "collection": "Dashboard Icons",
+      "file": "itad.svg",
+      "id": 3053,
+      "is_default": true,
+      "label": "itad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "itad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b07b84612d4b9ffc82703a95d33ad9c26a02a44cf045ff5a9abbaeb44609969e"
+      },
+      "sha256": "b587b61ca406ee26c01183a859f7f64528a51fa6ad375bc5d39c20f9458120c7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/itad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

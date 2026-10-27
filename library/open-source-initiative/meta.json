@@ -1,0 +1,40 @@
+{
+  "collection_id": 2022,
+  "schema_version": 1,
+  "id": 2249,
+  "title": "Open Source Initiative",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "open-source-initiative"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 480,
+      "collection": "Dashboard Icons",
+      "file": "open-source-initiative.svg",
+      "id": 3653,
+      "is_default": true,
+      "label": "open-source-initiative",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-source-initiative.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "787ce927407de6cdef767a3c79aab8c5089a3e4bc9eda0a356ef84d44092744a"
+      },
+      "sha256": "ed4ab835601c4f8c9901bd5141b14e9b339cb8caaa5e3860e4c5c8378330c4ff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-source-initiative.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

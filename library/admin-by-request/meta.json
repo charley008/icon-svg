@@ -1,0 +1,40 @@
+{
+  "collection_id": 667,
+  "schema_version": 1,
+  "id": 894,
+  "title": "Admin By Request",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "admin-by-request"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 409,
+      "collection": "Dashboard Icons",
+      "file": "admin-by-request.svg",
+      "id": 1855,
+      "is_default": true,
+      "label": "admin-by-request",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "admin-by-request.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "248ec189f4173ae9e2a939e7e4631723a5593324a357c068c1a22420cc68ea11"
+      },
+      "sha256": "9ec56d05b324b64317665df84dac47952e925046d5c84520fe40aa14654054a3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/admin-by-request.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

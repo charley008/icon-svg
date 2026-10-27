@@ -1,0 +1,40 @@
+{
+  "collection_id": 1559,
+  "schema_version": 1,
+  "id": 1786,
+  "title": "Iobroker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "iobroker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 944,
+      "collection": "Dashboard Icons",
+      "file": "iobroker.svg",
+      "id": 3036,
+      "is_default": true,
+      "label": "iobroker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iobroker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68b9881d85abb5322e3a45240eb83a1aa33a7f24fb933ec14d5a4e25bd298925"
+      },
+      "sha256": "b5c4b7bfd905a36eeceed39401c1aeb6730cedaa2b9ea6aef1541fcdb186ca6d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iobroker.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

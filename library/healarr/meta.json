@@ -1,0 +1,40 @@
+{
+  "collection_id": 1457,
+  "schema_version": 1,
+  "id": 1684,
+  "title": "Healarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "healarr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4958,
+      "collection": "Dashboard Icons",
+      "file": "healarr.svg",
+      "id": 2904,
+      "is_default": true,
+      "label": "healarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "healarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "28c8b9cbe6582a833e176fa4e3fe6250411f21f6e903fa1f5b1de635add77d45"
+      },
+      "sha256": "1b39136bead6d13d224a7de1967fc205aad2aa2e94ece3a85cfb345b64b328b0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/healarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

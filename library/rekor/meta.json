@@ -1,0 +1,40 @@
+{
+  "collection_id": 2487,
+  "schema_version": 1,
+  "id": 2714,
+  "title": "Rekor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rekor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4889,
+      "collection": "Dashboard Icons",
+      "file": "rekor.svg",
+      "id": 4286,
+      "is_default": true,
+      "label": "rekor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rekor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5f27d090ea09eb9a9799f343305e5ed80c6a7bc463100296dc63c63487080220"
+      },
+      "sha256": "28222e53efff3d6b9ee064626d4e5ad0bf908f76864ba3cb6b78292ff007d7e7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rekor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

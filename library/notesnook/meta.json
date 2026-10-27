@@ -1,0 +1,59 @@
+{
+  "collection_id": 1960,
+  "schema_version": 1,
+  "id": 2187,
+  "title": "Notesnook",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "notesnook"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1303,
+      "collection": "Dashboard Icons",
+      "file": "notesnook.svg",
+      "id": 3564,
+      "is_default": true,
+      "label": "notesnook",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notesnook.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "82b4cf61569ad74ad76ba26ab53ccce6380c1151a27d5e13aff7979db4b7e3cd"
+      },
+      "sha256": "6d0f706efe974640e3b9986022c5370e7bcd2f8f00fbfe676d97b9e4c2ca67f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notesnook.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1351,
+      "collection": "Dashboard Icons",
+      "file": "notesnook-1.svg",
+      "id": 3565,
+      "is_default": false,
+      "label": "notesnook-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "notesnook-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b57489532857c48a07ea8878d9f38ede0b1c31ae80460333d6635804aaa30bb7"
+      },
+      "sha256": "74b49f1c5ed7c60cac8558e31ed776b93cc2e88a8c13ef5d5a5c7fadb4745356",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/notesnook-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

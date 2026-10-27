@@ -1,0 +1,106 @@
+{
+  "collection_id": 702,
+  "schema_version": 1,
+  "id": 929,
+  "redirect_from": [
+    930,
+    931
+  ],
+  "title": "Anaconda",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "anaconda",
+    "anaconda-wordmark-light",
+    "Anaconda Wordmark Light",
+    "anaconda-wordmark-dark",
+    "Anaconda Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3017,
+      "collection": "Dashboard Icons",
+      "file": "anaconda.svg",
+      "id": 1900,
+      "is_default": true,
+      "label": "anaconda",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anaconda.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "002d832fb910be9904d1709c42047eaa1b0be0adbcefa58bdc41c44b1ed43aa9"
+      },
+      "sha256": "34dc7e03a1858482ec1dfe511f0830007a2892590914178fe9e14a29301fd119",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anaconda.svg",
+      "version": 0
+    },
+    {
+      "bytes": 14245,
+      "collection": "Dashboard Icons",
+      "file": "anaconda-1.svg",
+      "id": 1902,
+      "is_default": false,
+      "label": "anaconda-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anaconda-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ccd9a784e3c9432c387dbfff43f21d2bd9cb6cd3be1e72cfd45342d125aa329"
+      },
+      "sha256": "e20ea0f4090b5caeac859439a4186d67f03aa6dc043e19f768d2d4a194e636e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anaconda-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 14242,
+      "collection": "Dashboard Icons",
+      "file": "anaconda-2.svg",
+      "id": 1901,
+      "is_default": false,
+      "label": "anaconda-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "anaconda-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97a1c5a34a13ea2d3f0e6d2882b90db7b3a6015160bba9d6aa625ff820b99f2e"
+      },
+      "sha256": "40779f4f99a8ed656ce5145058f8c1df6eba01d83117bcb74cbd96b6ef3b3692",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/anaconda-wordmark-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4022,
+      "collection": "TechIcons / Devicon",
+      "file": "anaconda-3.svg",
+      "id": 5061,
+      "is_default": false,
+      "label": "TechIcons · Anaconda",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Anaconda.svg",
+        "original_sha256": "070557b846ac5ca5404bc431a1e0be937c21f8733232b8971b5ec8d69ec7594b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/anaconda",
+        "reference_website": "https://www.anaconda.com"
+      },
+      "sha256": "4b7899bb06ba2b0da71c7953684a765b6c12a5a725c00325ecd2ba11c111e1a4",
+      "source": "https://techicons.dev/icons/anaconda",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

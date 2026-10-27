@@ -1,0 +1,40 @@
+{
+  "collection_id": 1206,
+  "schema_version": 1,
+  "id": 1433,
+  "title": "Enhance",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "enhance"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1054,
+      "collection": "Dashboard Icons",
+      "file": "enhance.svg",
+      "id": 2571,
+      "is_default": true,
+      "label": "enhance",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "enhance.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3da382ff6d5fac352db2d7e9b5846c21aa8b46a536ba13aec2ea0e6ea499ff56"
+      },
+      "sha256": "cec6b03b40f2060534b40a278c51f378d10147e913216d6ee25f59bee87530e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/enhance.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

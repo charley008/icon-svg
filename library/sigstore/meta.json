@@ -1,0 +1,45 @@
+{
+  "collection_id": 2617,
+  "schema_version": 1,
+  "id": 2844,
+  "title": "Sigstore",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "sigstore",
+    "digital-signatures",
+    "software-verification"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3490,
+      "collection": "Dashboard Icons",
+      "file": "sigstore.svg",
+      "id": 4454,
+      "is_default": true,
+      "label": "sigstore",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sigstore.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c821bb2253ed8f763b3ff7525b674010041545e2d420139e1f6cad416cf938f7"
+      },
+      "sha256": "8aff3e63e49423835ca023c47217a9abf086d9ab8323ef6f1fc017430e90a60b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sigstore.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

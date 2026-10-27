@@ -1,0 +1,62 @@
+{
+  "collection_id": 1357,
+  "schema_version": 1,
+  "id": 1584,
+  "title": "Gentoo Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "gentoo-linux"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3369,
+      "collection": "Dashboard Icons",
+      "file": "gentoo-linux.svg",
+      "id": 2755,
+      "is_default": true,
+      "label": "gentoo-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gentoo-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "99e3add3141dc01e191e7fe34fa1e3248f20fc97a03bb9d0531c384269824cf5"
+      },
+      "sha256": "d98ae2eba882e197f008413bbbe1441e1687176d5e5644142ff7367a47293ffb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gentoo-linux.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3317,
+      "collection": "TechIcons / Devicon",
+      "file": "gentoo-linux-1.svg",
+      "id": 5170,
+      "is_default": false,
+      "label": "TechIcons · Gentoo",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gentoo.svg",
+        "original_sha256": "9905a0894aad03dc9fd0023ad6e6425a624eae3ea70ea9280a37e1ac720f4769",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gentoo",
+        "reference_website": "https://www.gentoo.org"
+      },
+      "sha256": "6e667363f302255a1d2f676561a7f99b1b09064bc015c142dd294ca4978849d7",
+      "source": "https://techicons.dev/icons/gentoo",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

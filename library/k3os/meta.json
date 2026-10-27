@@ -1,0 +1,45 @@
+{
+  "collection_id": 3153,
+  "schema_version": 1,
+  "id": 3410,
+  "title": "K3OS",
+  "url": "https://k3os.io",
+  "domains": [
+    "k3os.io"
+  ],
+  "description": "面向 Kubernetes 节点的轻量化操作系统。",
+  "category": "系统工具",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "K3OS",
+    "k3os"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1349,
+      "collection": "TechIcons / Devicon",
+      "file": "k3os-1.svg",
+      "id": 5234,
+      "is_default": true,
+      "label": "TechIcons · K3OS",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "K3OS.svg",
+        "original_sha256": "b01aed796ba5cfac3508456bd90bda1837cf59dbf61aa7b82e3d4303a94f4d8d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/k3os",
+        "reference_website": "https://k3os.io"
+      },
+      "sha256": "d7725cafbc2be46a0ba13a51a22fb2ab8a8af0f66c5f56f3016e0a2553519c63",
+      "source": "https://techicons.dev/icons/k3os",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

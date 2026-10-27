@@ -1,0 +1,40 @@
+{
+  "collection_id": 2061,
+  "schema_version": 1,
+  "id": 2288,
+  "title": "Osmand",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "osmand"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 803,
+      "collection": "Dashboard Icons",
+      "file": "osmand.svg",
+      "id": 3712,
+      "is_default": true,
+      "label": "osmand",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "osmand.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48d24118fbcf1b56fc878aa8b588b3463ea9991784f0a6560bb3f6fff921738d"
+      },
+      "sha256": "214124dc4146cf105f2907ee8e59269ba578432a5595445acf5c05064763ce19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/osmand.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

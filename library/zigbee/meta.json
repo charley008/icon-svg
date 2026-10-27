@@ -1,0 +1,40 @@
+{
+  "collection_id": 3051,
+  "schema_version": 1,
+  "id": 3278,
+  "title": "Zigbee",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zigbee"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 712,
+      "collection": "Dashboard Icons",
+      "file": "zigbee.svg",
+      "id": 5014,
+      "is_default": true,
+      "label": "zigbee",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zigbee.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a17a5114d3383a1d1833c9c4cbf497fa2e2eda5ea61dc3179a029a7920cbd4a2"
+      },
+      "sha256": "163581cbd295056a3ecd6506716d3288d2517ba61bd0d0ea8cecf4b0e42b7275",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zigbee.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

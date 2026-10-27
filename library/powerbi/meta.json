@@ -1,0 +1,40 @@
+{
+  "collection_id": 2199,
+  "schema_version": 1,
+  "id": 2426,
+  "title": "Powerbi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "powerbi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1835,
+      "collection": "Dashboard Icons",
+      "file": "powerbi.svg",
+      "id": 3914,
+      "is_default": true,
+      "label": "powerbi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "powerbi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "203571019bda54b569a1f68da782f4867e65f6ecae584d06553b1a07b53680ad"
+      },
+      "sha256": "9944cb393ba6d64393adcb7f5f49a7a618936bb3dc8a7febef0012035c997c56",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerbi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

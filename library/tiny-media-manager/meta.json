@@ -1,0 +1,43 @@
+{
+  "collection_id": 2807,
+  "schema_version": 1,
+  "id": 3034,
+  "title": "Tiny Media Manager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video",
+    "Media"
+  ],
+  "aliases": [
+    "tiny-media-manager",
+    "tmm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2171,
+      "collection": "Dashboard Icons",
+      "file": "tiny-media-manager.svg",
+      "id": 4693,
+      "is_default": true,
+      "label": "tiny-media-manager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tiny-media-manager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c978cb23f0bae5e0b85e6466cbbe3853b51d72d9ccde04310f4be0579c8b7c43"
+      },
+      "sha256": "224fdb09557407cc66deb3e561ec4c122ef9785e0b39e0e152df539a3514fd99",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiny-media-manager.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1286,
+  "schema_version": 1,
+  "id": 1513,
+  "title": "Flarum",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flarum"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1032,
+      "collection": "Dashboard Icons",
+      "file": "flarum.svg",
+      "id": 2671,
+      "is_default": true,
+      "label": "flarum",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flarum.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5f721e35e866be4590e40989d49220bd6e73e9d96dd4ad64a37b395816d56ea1"
+      },
+      "sha256": "b0c89eb162233f6234a24f626ea703c2212501185f8d7719248b9ee0462f0b8a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flarum.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

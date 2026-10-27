@@ -1,0 +1,40 @@
+{
+  "collection_id": 693,
+  "schema_version": 1,
+  "id": 920,
+  "title": "Alist",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "alist"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1810,
+      "collection": "Dashboard Icons",
+      "file": "alist.svg",
+      "id": 1886,
+      "is_default": true,
+      "label": "alist",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alist.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89782175c0dead4e17a32d9078f75662f75e8e28357d6ac5b45d4cd4bdd6c186"
+      },
+      "sha256": "63af3775e6fe1d5c48f36bd2beb78d508f097ffa97d3875b6fb2757d262c6f75",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alist.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

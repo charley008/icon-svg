@@ -1,0 +1,79 @@
+{
+  "collection_id": 1580,
+  "schema_version": 1,
+  "id": 1807,
+  "title": "Javascript",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "javascript"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 720,
+      "collection": "Dashboard Icons",
+      "file": "javascript.svg",
+      "id": 3066,
+      "is_default": true,
+      "label": "javascript",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "javascript.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "697ce78da2ac1b021d336d516b944836c11867132dd383955f44a42bb4705b31"
+      },
+      "sha256": "79ac51ab987b8a1e3b768f27a12a547333a50d6fe09c405280991e26a7c8ee60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/javascript.svg",
+      "version": 0
+    },
+    {
+      "bytes": 732,
+      "collection": "Dashboard Icons",
+      "file": "javascript-1.svg",
+      "id": 3067,
+      "is_default": false,
+      "label": "javascript-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "javascript-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3436f66d789c5495a2c9af034ba6ada53c55dee2a33d175ded4dc96b3f718807"
+      },
+      "sha256": "32112fb80d8ba307faeea6e77093b0ffb22a910f3d8c0235888a202bcf69e696",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/javascript-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1185,
+      "collection": "TechIcons / Devicon",
+      "file": "javascript-2.svg",
+      "id": 5215,
+      "is_default": false,
+      "label": "TechIcons · JavaScript",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "JavaScript.svg",
+        "original_sha256": "0656ff65fc8eeacda5c78d7f9ffe91ec1eb919db64f56e0b7dcd460af4bbd36c",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/javascript",
+        "reference_website": "https://www.javascript.com"
+      },
+      "sha256": "216bd99df18e140ea33cd256e7e30f0b40df570ee6096f9e371da89f60619014",
+      "source": "https://techicons.dev/icons/javascript",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

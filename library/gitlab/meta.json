@@ -132,8 +132,27 @@
       "sha256": "50e527de6f30f366810e0ce4fcebe8c12a846ca7ae68129ce1b699fcf1964cfc",
       "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitlab.svg",
       "version": 4
+    },
+    {
+      "bytes": 1063,
+      "collection": "Dashboard Icons",
+      "file": "gitlab-5.svg",
+      "id": 2772,
+      "is_default": false,
+      "label": "gitlab",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gitlab.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f7142d76fac3c23b08ae67b9994a06fa7df9e776781df6b5fb1ba030f9a12111"
+      },
+      "sha256": "e8a8ed0c7b228ba7514ecd9bebbd8c1412dfa428093afb766bc67436c99ecdde",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gitlab.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

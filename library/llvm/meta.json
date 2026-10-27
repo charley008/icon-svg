@@ -1,0 +1,45 @@
+{
+  "collection_id": 3167,
+  "schema_version": 1,
+  "id": 3424,
+  "title": "LLVM",
+  "url": "https://llvm.org",
+  "domains": [
+    "llvm.org"
+  ],
+  "description": "编译器与软件工具链基础设施。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "LLVM",
+    "llvm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 176127,
+      "collection": "TechIcons / Devicon",
+      "file": "llvm-1.svg",
+      "id": 5253,
+      "is_default": true,
+      "label": "TechIcons · LLVM",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "LLVM.svg",
+        "original_sha256": "8904a6a575e9861009433ebb513e10edd49262f63c0c78457516906f610d7d48",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/llvm",
+        "reference_website": "https://llvm.org"
+      },
+      "sha256": "2ce48511729219966ca7edd9c76f685e7cd7019cd0d854d4066b585d1c2e54f3",
+      "source": "https://techicons.dev/icons/llvm",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

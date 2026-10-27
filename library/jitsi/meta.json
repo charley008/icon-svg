@@ -1,0 +1,83 @@
+{
+  "collection_id": 1593,
+  "schema_version": 1,
+  "id": 1820,
+  "title": "Jitsi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Communication"
+  ],
+  "aliases": [
+    "jitsi",
+    "video-meeting",
+    "web-conferencing"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 17711,
+      "collection": "Dashboard Icons",
+      "file": "jitsi.svg",
+      "id": 3081,
+      "is_default": true,
+      "label": "jitsi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jitsi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "582088faeb2170153ecde1404d4c9107bd7f546d3b9e0236ec85080a178536ac"
+      },
+      "sha256": "99c6c301a8c35a282311d380f6064cfcd97ae6dddff89e04b925a76f28fe508a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jitsi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 1821,
+      "key": "meet",
+      "title": "Jitsi Meet",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "社交通讯",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "jitsi-meet"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 13114,
+          "collection": "Dashboard Icons",
+          "file": "jitsi-meet.svg",
+          "id": 3082,
+          "is_default": true,
+          "label": "jitsi-meet",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "jitsi-meet.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "9411ca52bfc456ff51e720c4427a8f026c72b9305ed7b80bb59f916703cddc9b"
+          },
+          "sha256": "16950dac89b6cc85988fa78c63d2f5efb784216875953bcaa32fb38c2278cb2e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jitsi-meet.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

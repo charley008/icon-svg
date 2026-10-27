@@ -1,0 +1,44 @@
+{
+  "collection_id": 1979,
+  "schema_version": 1,
+  "id": 2206,
+  "title": "Nzbget",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Download-Managers",
+    "网络工具"
+  ],
+  "aliases": [
+    "nzbget",
+    "usenet-client",
+    "nzb-downloader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1823,
+      "collection": "Dashboard Icons",
+      "file": "nzbget.svg",
+      "id": 3590,
+      "is_default": true,
+      "label": "nzbget",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nzbget.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c8ead4a0fbb8c809196785be87bc605a448e6bae1d69321fc9dbc407dae5cd48"
+      },
+      "sha256": "653d7c591b6362d1e58279dffeb4eba1cf84434724813d91591afe1b398a893b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nzbget.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

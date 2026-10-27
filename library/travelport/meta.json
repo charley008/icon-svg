@@ -1,0 +1,40 @@
+{
+  "collection_id": 2834,
+  "schema_version": 1,
+  "id": 3061,
+  "title": "Travelport",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "travelport"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 665,
+      "collection": "Dashboard Icons",
+      "file": "travelport.svg",
+      "id": 4727,
+      "is_default": true,
+      "label": "travelport",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "travelport.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ab64cc50088206426195342a6a58b70d55b0d99192e48f2cdf802981c5299bbc"
+      },
+      "sha256": "5516111921c8ea7bb6619abf6a1f6027dc362fec713bddb7600bf176357f3ea9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/travelport.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

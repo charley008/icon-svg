@@ -1,0 +1,59 @@
+{
+  "collection_id": 1122,
+  "schema_version": 1,
+  "id": 1349,
+  "title": "Docker Mailserver",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docker-mailserver"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1128,
+      "collection": "Dashboard Icons",
+      "file": "docker-mailserver.svg",
+      "id": 2460,
+      "is_default": true,
+      "label": "docker-mailserver",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-mailserver.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4376cd0ce31059d4fcb38920fa4f5a85a2a0e5b6805e62d4b1a64f4a2138efe0"
+      },
+      "sha256": "4e22080a1ce897c5c91efb186790d4d16f5d67cf5179bb0cf5f89a727c9424a4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker-mailserver.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1122,
+      "collection": "Dashboard Icons",
+      "file": "docker-mailserver-1.svg",
+      "id": 2461,
+      "is_default": false,
+      "label": "docker-mailserver-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docker-mailserver-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "466fe08418559ae32187df2add07909916ee495769ed4663c80260c73c0bac90"
+      },
+      "sha256": "5a4f92d1935b1c49995ea7c64b0bbb9b4251de3d0c55acc9a2e45f63cdb6d194",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docker-mailserver-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

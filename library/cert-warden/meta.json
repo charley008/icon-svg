@@ -1,0 +1,59 @@
+{
+  "collection_id": 946,
+  "schema_version": 1,
+  "id": 1173,
+  "title": "Cert Warden",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cert-warden"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5401,
+      "collection": "Dashboard Icons",
+      "file": "cert-warden.svg",
+      "id": 2223,
+      "is_default": true,
+      "label": "cert-warden",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cert-warden.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d7798828574a64efc1955f7e82ca42f68625d84f760c0ffa9aaaf58514d26ed"
+      },
+      "sha256": "f299fd227dacc1f3ad2eafc40d0b746804492b1de8038f97c4dc06d98940cf43",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cert-warden.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5398,
+      "collection": "Dashboard Icons",
+      "file": "cert-warden-1.svg",
+      "id": 2224,
+      "is_default": false,
+      "label": "cert-warden-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cert-warden-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "432953ed8d24bae437d17e2d523b44eaadfda9c82cbde210fec087cf6ff88737"
+      },
+      "sha256": "19d31f369b59d4cbd3472328afa63322b421267df64911d43075b78b011bf2a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cert-warden-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

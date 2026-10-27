@@ -1,0 +1,40 @@
+{
+  "collection_id": 1157,
+  "schema_version": 1,
+  "id": 1384,
+  "title": "Dreeve",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dreeve"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3245,
+      "collection": "Dashboard Icons",
+      "file": "dreeve.svg",
+      "id": 2503,
+      "is_default": true,
+      "label": "dreeve",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dreeve.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6fec63752dc418d3725557b43c27b04b166b275dd34f44417bbb189d253d428c"
+      },
+      "sha256": "4467631e62f3d1969ea8478b611c714369ecb65a9a0b73a53b5712ff7ed35eaa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dreeve.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

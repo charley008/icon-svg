@@ -1,0 +1,61 @@
+{
+  "collection_id": 1709,
+  "schema_version": 1,
+  "id": 1936,
+  "title": "Linear",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "linear",
+    "linear-app"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1100,
+      "collection": "Dashboard Icons",
+      "file": "linear.svg",
+      "id": 3229,
+      "is_default": true,
+      "label": "linear",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linear.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "586a989c79bcf2284193e3240f1d12cc5a2ad42fa00bd09c622dfbb95438bcd6"
+      },
+      "sha256": "a075ae87ed991411c8b4401f17f71d2c0f2b0fc60b2aa4aeff8f8c587b4c95d3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linear.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1097,
+      "collection": "Dashboard Icons",
+      "file": "linear-1.svg",
+      "id": 3230,
+      "is_default": false,
+      "label": "linear-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "linear-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bfc9dfa60033f6b193cef2fd58b5b40b838f5bd92c422a973089338b2eefc98a"
+      },
+      "sha256": "166ec98f3ff85420bd869f12c7442f21633c885d6b638b7ad4d1fdbcd6c9c551",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/linear-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 1799,
+  "schema_version": 1,
+  "id": 2026,
+  "title": "Mediathekview",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Video-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "mediathekview",
+    "german-tv-replay",
+    "public-broadcasting-archive"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6860,
+      "collection": "Dashboard Icons",
+      "file": "mediathekview.svg",
+      "id": 3338,
+      "is_default": true,
+      "label": "mediathekview",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mediathekview.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d731b996bc583f7eb146a3f93da0cab572cbd0880b780ad8a2b5a53ddcd6de53"
+      },
+      "sha256": "f6da7b10e5f81e812a99d977602db42c5c83ec51fec1d8e66e7ddc29231ca804",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mediathekview.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

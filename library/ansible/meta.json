@@ -1,0 +1,63 @@
+{
+  "collection_id": 712,
+  "schema_version": 1,
+  "id": 939,
+  "title": "Ansible",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "DevOps",
+    "开发编程"
+  ],
+  "aliases": [
+    "ansible",
+    "Automation Tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 486,
+      "collection": "Dashboard Icons",
+      "file": "ansible.svg",
+      "id": 1912,
+      "is_default": true,
+      "label": "ansible",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ansible.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "304ef4dd7413bfc7ad209daf2b532584eaad3a30ebbf115e21c4bd873d40c561"
+      },
+      "sha256": "af672da932e024c94fc9fba705da7635272e6c3c792e44f82b2aed80a22a4abc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ansible.svg",
+      "version": 0
+    },
+    {
+      "bytes": 483,
+      "collection": "Dashboard Icons",
+      "file": "ansible-1.svg",
+      "id": 1913,
+      "is_default": false,
+      "label": "ansible-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ansible-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e6a3363b39dce0bffafe8a240ab676ff0f0ba0a4f10b144fe88bd4fd89363750"
+      },
+      "sha256": "accbd584185aaaf5d17daaf5b10bf3e3a3b3c90a1aa4ea9593db04559be0214b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ansible-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

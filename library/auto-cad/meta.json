@@ -1,0 +1,43 @@
+{
+  "collection_id": 779,
+  "schema_version": 1,
+  "id": 1006,
+  "title": "Auto Cad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "auto-cad",
+    "autocad",
+    "autodesk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3151,
+      "collection": "Dashboard Icons",
+      "file": "auto-cad.svg",
+      "id": 2006,
+      "is_default": true,
+      "label": "auto-cad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "auto-cad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1f31fcb8fd354ad84f731ae13adafa7a94350fb114cb60b9bc0763cf43c3916a"
+      },
+      "sha256": "e24b25421a7004a40c6726f3cf75fe02e7de0fe7e4264605b62af01db1b25bfd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/auto-cad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

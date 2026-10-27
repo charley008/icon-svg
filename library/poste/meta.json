@@ -1,0 +1,45 @@
+{
+  "collection_id": 2191,
+  "schema_version": 1,
+  "id": 2418,
+  "title": "Poste",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Email-Providers",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "poste",
+    "mail-server",
+    "smtp-server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1068,
+      "collection": "Dashboard Icons",
+      "file": "poste.svg",
+      "id": 3901,
+      "is_default": true,
+      "label": "poste",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poste.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "15e0f9025b625bd43be074a9c08b6ea7a1c2d06b7f25e1b8f7d7978485fbf685"
+      },
+      "sha256": "3598f31ed35ba310ffae9af584cc59336c5657c007ac8b6af1f72ababfbfefc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/poste.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

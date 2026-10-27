@@ -1,0 +1,42 @@
+{
+  "collection_id": 2728,
+  "schema_version": 1,
+  "id": 2955,
+  "title": "Swagger",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "swagger",
+    "swag"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2367,
+      "collection": "Dashboard Icons",
+      "file": "swagger.svg",
+      "id": 4592,
+      "is_default": true,
+      "label": "swagger",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "swagger.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e1e0e904078a3f378c4f477c634623aa6947989f8ebf9b6a5b3b524b7b7193aa"
+      },
+      "sha256": "df5e09cf59b4628dcd3230e52ecbad03185531583501a3b0efa60e9350c7e131",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/swagger.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

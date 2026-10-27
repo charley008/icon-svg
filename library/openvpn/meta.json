@@ -1,4 +1,7 @@
 {
+  "collection_id": 584,
+  "schema_version": 1,
+  "id": 803,
   "title": "OpenVPN",
   "url": "https://openvpn.net/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "openvpn.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8cfaea990be8c0df5601eec1a577a47036e71416cd5a3b74807578fc166aa623",
       "bytes": 640,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvpn.svg",
+      "collection": "Dashboard Icons",
+      "file": "openvpn.svg",
+      "id": 1760,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "openvpn.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8cfaea990be8c0df5601eec1a577a47036e71416cd5a3b74807578fc166aa623",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openvpn.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

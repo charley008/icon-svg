@@ -1,0 +1,40 @@
+{
+  "collection_id": 1291,
+  "schema_version": 1,
+  "id": 1518,
+  "title": "Fleetdm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fleetdm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1558,
+      "collection": "Dashboard Icons",
+      "file": "fleetdm.svg",
+      "id": 2677,
+      "is_default": true,
+      "label": "fleetdm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fleetdm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f47013dd40449e01e0a6748e515b96db1c4b72447c68a2c6c1dbccb8b8bab817"
+      },
+      "sha256": "ff0092684bfa8a577f600d4c3b3b19a77a63f3c3bb395ecfab37e2714d0b7499",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fleetdm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

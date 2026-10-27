@@ -1,4 +1,7 @@
 {
+  "collection_id": 582,
+  "schema_version": 1,
+  "id": 801,
   "title": "OpenMediaVault",
   "url": "https://www.openmediavault.org/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "openmediavault.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "4ebd3bc15c31b54276b55aed49b8be3c96c350e2ac240fedebd12a891e84444b",
       "bytes": 1710,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openmediavault.svg",
+      "collection": "Dashboard Icons",
+      "file": "openmediavault.svg",
+      "id": 1758,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "openmediavault.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "4ebd3bc15c31b54276b55aed49b8be3c96c350e2ac240fedebd12a891e84444b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openmediavault.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

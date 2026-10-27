@@ -1,0 +1,60 @@
+{
+  "collection_id": 742,
+  "schema_version": 1,
+  "id": 969,
+  "title": "Appwrite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "appwrite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 721,
+      "collection": "Dashboard Icons",
+      "file": "appwrite.svg",
+      "id": 1957,
+      "is_default": true,
+      "label": "appwrite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "appwrite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6341dc77d8437ff5a252408df446e03d858844b2cd993763f4a23372b4c1e4d"
+      },
+      "sha256": "7702675a3cacaf069285f3fcdc58a4a5f623069a4b17c0ab65dbca3f3c45c4ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/appwrite.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2295,
+      "collection": "TechIcons / Devicon",
+      "file": "appwrite-1.svg",
+      "id": 5074,
+      "is_default": false,
+      "label": "TechIcons · Appwrite",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Appwrite.svg",
+        "original_sha256": "83d76bce14741eb6b2364388b2ad80e1fcc61363a8e82a824bd9c4a907747603",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/appwrite",
+        "reference_website": "https://appwrite.io"
+      },
+      "sha256": "54af9b1f0520114f2e65a4ba67ef06a9b36dc65e231bf909a8f7e0458fc85d6c",
+      "source": "https://techicons.dev/icons/appwrite",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

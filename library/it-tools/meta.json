@@ -43,8 +43,46 @@
       "sha256": "fd2eef0ab1cf086b072fe1960117c587436eff65631f1a9ff0ea7745ac2dba0e",
       "source": "用户优选",
       "version": 0
+    },
+    {
+      "bytes": 6933,
+      "collection": "Dashboard Icons",
+      "file": "it-tools-1.svg",
+      "id": 3051,
+      "is_default": false,
+      "label": "it-tools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "it-tools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f29068eb90c8f43d68517e98259cd1a0a63eab74bbeb92ad47d62ba47dd81930"
+      },
+      "sha256": "98aeb19abc323db8205a18563ab5b8a49a84d4b2f4d6d8f3ddeab0adf2b74932",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/it-tools.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6930,
+      "collection": "Dashboard Icons",
+      "file": "it-tools-2.svg",
+      "id": 3052,
+      "is_default": false,
+      "label": "it-tools-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "it-tools-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4f49279e85b81d01776832bbfc1e73de69c9adb57792dce672e92d410e3a2da"
+      },
+      "sha256": "30bddf799d625b97a35c1f9be5e6d2af041a9d33324217de8cc3b980d4e68443",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/it-tools-light.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

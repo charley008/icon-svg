@@ -1,0 +1,84 @@
+{
+  "collection_id": 1088,
+  "schema_version": 1,
+  "id": 1315,
+  "title": "Deno",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "deno",
+    "node-js-alternative",
+    "javascript-environment"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6009,
+      "collection": "Dashboard Icons",
+      "file": "deno.svg",
+      "id": 2414,
+      "is_default": true,
+      "label": "deno",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deno.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4d6bfc3f8dc7ad4c7ad040540e019f16d3d1238fc0c6b4c34bb6a4654f6fb1ec"
+      },
+      "sha256": "e03258e9344769448643ef0833203f50863f66e847dec5b5facd6a825af3b02e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deno.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6028,
+      "collection": "Dashboard Icons",
+      "file": "deno-1.svg",
+      "id": 2415,
+      "is_default": false,
+      "label": "deno-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "deno-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "82450097ca643613163cd397d4335fab8acced31218ef65190d3a32ba922f84b"
+      },
+      "sha256": "650c06796510e872a880e2b8e0322d13a693fba3ca4bd376367ba9991f7861d3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/deno-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 3343,
+      "collection": "TechIcons / Devicon",
+      "file": "deno-2.svg",
+      "id": 5126,
+      "is_default": false,
+      "label": "TechIcons · Deno",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Deno.svg",
+        "original_sha256": "db3153aac0433501766042d59daeb11560d4e4e93793ac397a9a4dc83b7439cb",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/denojs",
+        "reference_website": "https://deno.land"
+      },
+      "sha256": "7df41ce18b3e4f61e2ab7a443a15ee67b5cab0f89f065c1dde2ac24c30fc189b",
+      "source": "https://techicons.dev/icons/denojs",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

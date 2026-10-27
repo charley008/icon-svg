@@ -1,4 +1,7 @@
 {
+  "collection_id": 567,
+  "schema_version": 1,
+  "id": 772,
   "title": "Mastodon",
   "url": "https://joinmastodon.org/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "mastodon.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "c5d0bbb046587569e575ebda4ae9f32da308f6ecfebe0b84ed0c615b974bc969",
       "bytes": 1421,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mastodon.svg",
+      "collection": "Dashboard Icons",
+      "file": "mastodon.svg",
+      "id": 1729,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "mastodon.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "c5d0bbb046587569e575ebda4ae9f32da308f6ecfebe0b84ed0c615b974bc969",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mastodon.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

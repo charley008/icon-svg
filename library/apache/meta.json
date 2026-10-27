@@ -38,8 +38,876 @@
       "sha256": "b72aa7783fab02130d714703ad9847b3c2e9a21b99cf17549bedbb1fd7466fa6",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/apache-3.svg",
       "version": 0
+    },
+    {
+      "bytes": 9400,
+      "collection": "Dashboard Icons",
+      "file": "apache-1.svg",
+      "id": 1923,
+      "is_default": false,
+      "label": "apache",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "apache.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc18cdc7440745756e012b5581104952c4e5fb1327fe7040b3d5ce35d11cbba3"
+      },
+      "sha256": "8d368c9e20c065731029cf9b9938e988b73cea245c2428a60dedbf950db0431f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "products": []
+  "next_version": 2,
+  "products": [
+    {
+      "id": 945,
+      "key": "airflow",
+      "title": "Apache Airflow",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-airflow"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1669,
+          "collection": "Dashboard Icons",
+          "file": "apache-airflow.svg",
+          "id": 1924,
+          "is_default": true,
+          "label": "apache-airflow",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-airflow.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a8a656e6334b1436c486c4a22b70b9939b3137e400d8bc0813ae9d5ae77efa77"
+          },
+          "sha256": "b9008e348a11e1890a878f295158a0e94282aee6e373f67d29e37c7437fb4ee8",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 946,
+      "key": "answer",
+      "title": "Apache Answer",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-answer"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 575,
+          "collection": "Dashboard Icons",
+          "file": "apache-answer.svg",
+          "id": 1925,
+          "is_default": true,
+          "label": "apache-answer",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-answer.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6611c3c3162be753cceb137cf451bfd598bb90605bb3bddaad1e17115b05d2c2"
+          },
+          "sha256": "61e176d52c27200a519bdffa997248be2d1d1b9f93d80b8785d8b2678fe368f9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-answer.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 947,
+      "key": "cassandra",
+      "title": "Apache Cassandra",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons",
+        "Databases",
+        "开发编程"
+      ],
+      "aliases": [
+        "apache-cassandra",
+        "NoSQL Database"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 11418,
+          "collection": "Dashboard Icons",
+          "file": "apache-cassandra.svg",
+          "id": 1926,
+          "is_default": true,
+          "label": "apache-cassandra",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-cassandra.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6bc2186c91edf441b0a79743f207ab0ee9b60068066853b7da00b802691dbc64"
+          },
+          "sha256": "f820a5a1c9d07f3f8d3cb0f166e32b50df7cadbec93e5cd2cbb0f5c5bfdde112",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-cassandra.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 948,
+      "key": "cloudstack",
+      "title": "Apache Cloudstack",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "云服务",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-cloudstack"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 5704,
+          "collection": "Dashboard Icons",
+          "file": "apache-cloudstack.svg",
+          "id": 1927,
+          "is_default": true,
+          "label": "apache-cloudstack",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-cloudstack.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "cb0111fcfe10720fcbf432f4973bbf28220f4a1fef2e0375031227d24e2ecaa3"
+          },
+          "sha256": "2d80e16f2e4e308ec30e11a302b14b6f0db18801aabd0f89556929ce6ffb4cda",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-cloudstack.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 949,
+      "key": "druid",
+      "title": "Apache Druid",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons",
+        "Databases",
+        "开发编程"
+      ],
+      "aliases": [
+        "apache-druid",
+        "realtime-database",
+        "analytics-database"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1626,
+          "collection": "Dashboard Icons",
+          "file": "apache-druid.svg",
+          "id": 1928,
+          "is_default": true,
+          "label": "apache-druid",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-druid.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "d52925a6271d1a9339d4389174cf1edb334deb0681d180fe82910a5e1a49c1e3"
+          },
+          "sha256": "188dd873d8281288fffcfbb4f3d15ae0031d8cd6f82b595cf246e4c2d399d9dc",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-druid.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3307,
+      "key": "groovy",
+      "title": "Apache Groovy",
+      "url": "https://groovy-lang.org",
+      "domains": [
+        "groovy-lang.org"
+      ],
+      "description": "运行于 JVM 的编程语言。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Apache Groovy",
+        "groovy",
+        "Apache-Groovy"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 49148,
+          "collection": "TechIcons / Devicon",
+          "file": "apache-groovy-1.svg",
+          "id": 5066,
+          "is_default": true,
+          "label": "TechIcons · Apache Groovy",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Apache-Groovy.svg",
+            "original_sha256": "df1a25f5531b99cd95c0c5ae47f0880fb886f7ab3a7ea6aa9828f632e9dee9b0",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/groovy",
+            "reference_website": "https://groovy-lang.org"
+          },
+          "sha256": "1f035dae7043fa3b3f5c6ba7ecddb0562cf57b97fc22ec076939796320f6a0a5",
+          "source": "https://techicons.dev/icons/groovy",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 950,
+      "redirect_from": [
+        1658
+      ],
+      "key": "guacamole",
+      "title": "Apache Guacamole",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-guacamole",
+        "guacamole",
+        "Guacamole",
+        "rdp-gateway",
+        "vnc-gateway"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 6673,
+          "collection": "Dashboard Icons",
+          "file": "apache-guacamole.svg",
+          "id": 1929,
+          "is_default": true,
+          "label": "apache-guacamole",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-guacamole.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ef75a34a8429b3390b138b097d8a263ea8d176ab4cda78e824de845614967ad9"
+          },
+          "sha256": "74514fe97983d578f829707a772378bfd3846d1d7eb406e175f643defee1c8b0",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-guacamole.svg",
+          "version": 0
+        },
+        {
+          "bytes": 55371,
+          "collection": "Dashboard Icons",
+          "file": "apache-guacamole-1.svg",
+          "id": 2864,
+          "is_default": false,
+          "label": "Guacamole",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "guacamole.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "08ccb3bc3f5ed0b7b0f7e84f2b2be8c4802c0e4786522232c032a3a90ce132cb"
+          },
+          "sha256": "ff1994fce724a655578df469e055a4cfc6abbed85c30cc6c6d0a13d8ab8a8638",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/guacamole.svg",
+          "version": 1
+        },
+        {
+          "bytes": 55389,
+          "collection": "Dashboard Icons",
+          "file": "apache-guacamole-2.svg",
+          "id": 2865,
+          "is_default": false,
+          "label": "guacamole-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "guacamole-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "70c879ba25911beeb7172e0df4f3a8011d784caf76281b63ed843eab03aa74ee"
+          },
+          "sha256": "c3da7b96bae83297ac9e2feac664220eeba38e87fea472c150d7f390a2cb57f5",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/guacamole-light.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 3308,
+      "key": "hadoop",
+      "title": "Apache Hadoop",
+      "url": "https://hadoop.apache.org",
+      "domains": [
+        "hadoop.apache.org"
+      ],
+      "description": "面向分布式数据存储与处理的开源平台。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Apache Hadoop",
+        "hadoop",
+        "Apache-Hadoop"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 14629,
+          "collection": "TechIcons / Devicon",
+          "file": "apache-hadoop-1.svg",
+          "id": 5067,
+          "is_default": true,
+          "label": "TechIcons · Apache Hadoop",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Apache-Hadoop.svg",
+            "original_sha256": "9a2eca34378dc1c0d7bf7d16a9993ef76ce7e4382075eda1c3ad513bf374afc3",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/hadoop",
+            "reference_website": "https://hadoop.apache.org"
+          },
+          "sha256": "ae7e16e5d90715260023e3657dd49ed4b8f726a3b92e5f597222489cb0be0d14",
+          "source": "https://techicons.dev/icons/hadoop",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 951,
+      "key": "iceberg",
+      "title": "Apache Iceberg",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-iceberg"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 8319,
+          "collection": "Dashboard Icons",
+          "file": "apache-iceberg.svg",
+          "id": 1930,
+          "is_default": true,
+          "label": "apache-iceberg",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-iceberg.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "35957f2579182d9a7e33d6995eb2f0c3cb8ec38dd54090efb52274d0aafc7199"
+          },
+          "sha256": "aad2bd72421b6289a7b0a990c53e729756311c2817ff75237e79c45fd5b3fad3",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-iceberg.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 952,
+      "redirect_from": [
+        953
+      ],
+      "key": "jena",
+      "title": "Apache Jena",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-jena",
+        "apache-jena-wordmark-light",
+        "Apache Jena Wordmark Light"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1514,
+          "collection": "Dashboard Icons",
+          "file": "apache-jena.svg",
+          "id": 1931,
+          "is_default": true,
+          "label": "apache-jena",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-jena.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c110cf1b2d362f733e2e9da62a679b1dc92025aa926f438097c31423fe9817a9"
+          },
+          "sha256": "eb4c62d86d88feb354f3524b422995cbe638dc19984c8dca1b2e81c6007df5e9",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-jena.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3460,
+          "collection": "Dashboard Icons",
+          "file": "apache-jena-1.svg",
+          "id": 1932,
+          "is_default": false,
+          "label": "apache-jena-wordmark-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-jena-wordmark-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "6241f860a316a23bc9127cab485f008306b26d1fc4e2292fe6f06d0e40e798ab"
+          },
+          "sha256": "ad18f53bbdc897f25bfb46d522fa0e5b6f5edd723e6a8627dd692f5c2a85b97b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-jena-wordmark-light.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 3309,
+      "key": "maven",
+      "title": "Apache Maven",
+      "url": "https://maven.apache.org",
+      "domains": [
+        "maven.apache.org"
+      ],
+      "description": "Java 项目的构建和依赖管理工具。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Apache Maven",
+        "maven",
+        "Apache-Maven"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 21791,
+          "collection": "TechIcons / Devicon",
+          "file": "apache-maven-1.svg",
+          "id": 5068,
+          "is_default": true,
+          "label": "TechIcons · Apache Maven",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Apache-Maven.svg",
+            "original_sha256": "eb546e1cfd7c0df769193160d2a03e1ec5243ae68eef48c70934a24ece6bbe31",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/maven",
+            "reference_website": "https://maven.apache.org"
+          },
+          "sha256": "1d9106437d2824bc168c9c2f978efea833b66cf083efb500a91dadd3a7dc7645",
+          "source": "https://techicons.dev/icons/maven",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 954,
+      "redirect_from": [
+        2265
+      ],
+      "key": "openoffice",
+      "title": "Apache OpenOffice",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "办公效率",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-openoffice",
+        "openoffice",
+        "Openoffice",
+        "Apache Openoffice"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2564,
+          "collection": "Dashboard Icons",
+          "file": "apache-openoffice.svg",
+          "id": 1933,
+          "is_default": true,
+          "label": "apache-openoffice",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-openoffice.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b3287bb5b594f4829372817bfe01a1d329bae594b716a34ff673bfd5e979c324"
+          },
+          "sha256": "e96d493bd3924d162ab8baea09454459365909a5bc14ad41b68e3e2e9c85ff8b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-openoffice.svg",
+          "version": 0
+        },
+        {
+          "bytes": 2570,
+          "collection": "Dashboard Icons",
+          "file": "apache-openoffice-1.svg",
+          "id": 3681,
+          "is_default": false,
+          "label": "Openoffice",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "openoffice.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8874a9310e1e84d276d8ce10c0c332163e79e89d5aa608201c2068d56e48bb08"
+          },
+          "sha256": "8e57e6c4096d72c45172554d706dc44795947ea2331024bc738420515b367072",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openoffice.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 955,
+      "key": "solr",
+      "title": "Apache Solr",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-solr"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1749,
+          "collection": "Dashboard Icons",
+          "file": "apache-solr.svg",
+          "id": 1934,
+          "is_default": true,
+          "label": "apache-solr",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-solr.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "c94ede28e354214127e443ec261600db9dbca03a37d964a42b2f63d5d0b4d005"
+          },
+          "sha256": "1e288436bba7c8f9e52dfe28dab632d1a7e60951e9ef7ae487855de10415f918",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-solr.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3310,
+      "key": "spark",
+      "title": "Apache Spark",
+      "url": "https://spark.apache.org",
+      "domains": [
+        "spark.apache.org"
+      ],
+      "description": "用于大规模数据处理与分析的计算引擎。",
+      "category": "开发编程",
+      "tags": [
+        "TechIcons",
+        "Devicon"
+      ],
+      "aliases": [
+        "Apache Spark",
+        "apachespark",
+        "Apache-Spark"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 1462,
+          "collection": "TechIcons / Devicon",
+          "file": "apache-spark-1.svg",
+          "id": 5069,
+          "is_default": true,
+          "label": "TechIcons · Apache Spark",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Apache-Spark.svg",
+            "original_sha256": "c9eea5d3f0bc25067fa5d2f8ec6c40226854ae85b7658e3d9cf07a15f702cc9a",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/apachespark",
+            "reference_website": "https://spark.apache.org"
+          },
+          "sha256": "76e16ff2a9e07b9d5afc5288c161c8cfc0cdf5117cec06f732da13cb9a04e928",
+          "source": "https://techicons.dev/icons/apachespark",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 956,
+      "key": "subversion",
+      "title": "Apache Subversion",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-subversion"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 7132,
+          "collection": "Dashboard Icons",
+          "file": "apache-subversion.svg",
+          "id": 1935,
+          "is_default": true,
+          "label": "apache-subversion",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-subversion.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "483953e4dbc07d033901efed527dbbe248c669bba275ed5e31c093f760275886"
+          },
+          "sha256": "cd7cb69d54cc9f406d6fde35bda97294cf5a7c66be26f6b966f5a21669048e3b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-subversion.svg",
+          "version": 0
+        },
+        {
+          "bytes": 1485,
+          "collection": "TechIcons / Devicon",
+          "file": "apache-subversion-1.svg",
+          "id": 5065,
+          "is_default": false,
+          "label": "TechIcons · Apache Subversion",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Apache-Subversion.svg",
+            "original_sha256": "503bd9ffc80261feabaaf3093b73fe6a16ee573a539c7e6186beea80d34747bd",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/subversion",
+            "reference_website": "https://subversion.apache.org"
+          },
+          "sha256": "27df53c366959a91d5228e14d717ee155c871851ef3c9fbfbefe6b337e54f6d0",
+          "source": "https://techicons.dev/icons/subversion",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 957,
+      "key": "superset",
+      "title": "Apache Superset",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-superset"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 972,
+          "collection": "Dashboard Icons",
+          "file": "apache-superset.svg",
+          "id": 1936,
+          "is_default": true,
+          "label": "apache-superset",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-superset.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "a62b6d9d048bab646914468256578b76dc9d17f9c6adc194e99fad74c77497e6"
+          },
+          "sha256": "122305378acea851a5be74853ffcc84868fe7818e21424d79e7b8cea32098aec",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-superset.svg",
+          "version": 0
+        },
+        {
+          "bytes": 972,
+          "collection": "Dashboard Icons",
+          "file": "apache-superset-1.svg",
+          "id": 1937,
+          "is_default": false,
+          "label": "apache-superset-dark",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-superset-dark.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "ab59050fedbd2edc66f958c49b4f6f2b5ea8002ca9cea26c46e31820fe0d6ad2"
+          },
+          "sha256": "10eb2a787b5d66b701997ffb829b18e2c47bcb1c218a530d50cca1650e9c2e66",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-superset-dark.svg",
+          "version": 1
+        },
+        {
+          "bytes": 972,
+          "collection": "Dashboard Icons",
+          "file": "apache-superset-2.svg",
+          "id": 1938,
+          "is_default": false,
+          "label": "apache-superset-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-superset-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "bc0bf33da0d13cd945a8b89d4be851d051519d64567f0ad1eff6d5fc0c007c71"
+          },
+          "sha256": "8da5b061e22eaf5223f9745d8d5c7a4e9c2cd006cc65da7ec4b82de95d79ca7a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-superset-light.svg",
+          "version": 2
+        }
+      ],
+      "next_version": 3
+    },
+    {
+      "id": 958,
+      "key": "tomcat",
+      "title": "Apache Tomcat",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "开发编程",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "apache-tomcat"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3819,
+          "collection": "Dashboard Icons",
+          "file": "apache-tomcat.svg",
+          "id": 1939,
+          "is_default": true,
+          "label": "apache-tomcat",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-tomcat.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "77f895114c645bfc75a174f279633aa681d2ac17bb4094a57c22ed13a282a947"
+          },
+          "sha256": "e80ff5602c074896f7ffa4c2928dbbebc9d957cb7c29b62c44ef77a59cedfc29",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-tomcat.svg",
+          "version": 0
+        },
+        {
+          "bytes": 3879,
+          "collection": "Dashboard Icons",
+          "file": "apache-tomcat-1.svg",
+          "id": 1940,
+          "is_default": false,
+          "label": "apache-tomcat-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "apache-tomcat-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7f46350628599c1843fab13b13b735e7c964556a7e619e46257083675f0bcf87"
+          },
+          "sha256": "f2e4b0522a70c70f09ce7f7f28df10629d08e6dfdbf89e0d05ea01677419ec99",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-tomcat-light.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    }
+  ]
 }

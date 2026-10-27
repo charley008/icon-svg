@@ -1,0 +1,105 @@
+{
+  "collection_id": 1915,
+  "schema_version": 1,
+  "id": 2142,
+  "redirect_from": [
+    2143,
+    2144
+  ],
+  "title": "Nextbike",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nextbike",
+    "nextbike-wordmark-light",
+    "Nextbike Wordmark Light",
+    "nextbike-wordmark-dark",
+    "Nextbike Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2921,
+      "collection": "Dashboard Icons",
+      "file": "nextbike.svg",
+      "id": 3508,
+      "is_default": true,
+      "label": "nextbike",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextbike.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f432807565fe6f183bce09da0ee9a2c8ca7d2d4d7ed42e217173887a2155fe6a"
+      },
+      "sha256": "888392c7f3c7099651cf02b47e0c7e3ef97de015d939721db488566167adc515",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextbike.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2921,
+      "collection": "Dashboard Icons",
+      "file": "nextbike-1.svg",
+      "id": 3509,
+      "is_default": false,
+      "label": "nextbike-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextbike-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bed0b66f5c60ccac9b8fefab482d945dd445a519cacce631c98eee81b4eca548"
+      },
+      "sha256": "7afdb03e7cdcbfc5287602b30d42338fa2554389ff9862e5c887f067c740a45b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextbike-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 7449,
+      "collection": "Dashboard Icons",
+      "file": "nextbike-2.svg",
+      "id": 3511,
+      "is_default": false,
+      "label": "nextbike-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextbike-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "96f317aeb073605e27eae671769858c3f0b47e7a562ba84b15037b83fa6dfe4f"
+      },
+      "sha256": "d339125677496fb1c1ca72e53d20149c86e6a4ca6d593a3b79078784160ada70",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextbike-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 7449,
+      "collection": "Dashboard Icons",
+      "file": "nextbike-3.svg",
+      "id": 3510,
+      "is_default": false,
+      "label": "nextbike-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nextbike-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2ad7ed2f6f28901e023cc77eb1c4491305ed605dcad9c7dafbbb9543cca455bb"
+      },
+      "sha256": "c2ebcfbb2889f8fb885a36faff572592f09cb482598b5bbbffa9e01c9033d50c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextbike-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

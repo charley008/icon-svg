@@ -1,0 +1,59 @@
+{
+  "collection_id": 2722,
+  "schema_version": 1,
+  "id": 2949,
+  "title": "Suwayomi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "suwayomi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1292,
+      "collection": "Dashboard Icons",
+      "file": "suwayomi.svg",
+      "id": 4584,
+      "is_default": true,
+      "label": "suwayomi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "suwayomi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b0a52f573e966d0c9afc710c72419873f14d1b0a2f19211aab7849a0dc7d3b9a"
+      },
+      "sha256": "4ed31fae0f49b2dd6217ac0c9af8e5df377e8f3eb55f229481e4487967a5f35b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/suwayomi.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1292,
+      "collection": "Dashboard Icons",
+      "file": "suwayomi-1.svg",
+      "id": 4585,
+      "is_default": false,
+      "label": "suwayomi-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "suwayomi-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "85052f5f5ad0b8ce9d3c0e6fb614d20593eb3c5cbefdd6afbeb18a01f2c09f4e"
+      },
+      "sha256": "771c04fe8ac20cea06a3dd4621411e3a33c0b3a47da784c74080fdda836434c9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/suwayomi-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

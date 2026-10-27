@@ -1,0 +1,59 @@
+{
+  "collection_id": 1437,
+  "schema_version": 1,
+  "id": 1664,
+  "title": "Hammond",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hammond"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 593,
+      "collection": "Dashboard Icons",
+      "file": "hammond.svg",
+      "id": 2872,
+      "is_default": true,
+      "label": "hammond",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hammond.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4f34149acccb20896f975efcd66c1cdb6a4ea86bb17edd5c3ccc0509e3b8da72"
+      },
+      "sha256": "749ac12eb944eb77dda485ca4d746d3800660721bc96692c50e55252bb9a477d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hammond.svg",
+      "version": 0
+    },
+    {
+      "bytes": 593,
+      "collection": "Dashboard Icons",
+      "file": "hammond-1.svg",
+      "id": 2873,
+      "is_default": false,
+      "label": "hammond-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hammond-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "05ad2d7d93dc6baa44b57cb7f01d7846eeb4674ea220883d6dbfaa92981e37cb"
+      },
+      "sha256": "ee66ec6400d444040d2c8fccf8f2951191c2fcac0e1a555864a9beb657434aaa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hammond-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2472,
+  "schema_version": 1,
+  "id": 2699,
+  "title": "Readthedocs",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "readthedocs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1901,
+      "collection": "Dashboard Icons",
+      "file": "readthedocs.svg",
+      "id": 4267,
+      "is_default": true,
+      "label": "readthedocs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "readthedocs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "57ff1c35707180e263d33b952fb3aca0cb916f9069a991c932c6e17ba83e3bc2"
+      },
+      "sha256": "9764503e8126996a741fa5fb573c7b39a7f9516ed15642687bfef33bd2c9a78c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/readthedocs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1901,
+      "collection": "Dashboard Icons",
+      "file": "readthedocs-1.svg",
+      "id": 4268,
+      "is_default": false,
+      "label": "readthedocs-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "readthedocs-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cb4ee0f8f3f604bb8a6f18b8b1ba483c96cf0ec0858aa608b6b57e129df15935"
+      },
+      "sha256": "394dfeb73cfb9f674bc77f9616953e3a338b5fda3aa169a8afd74ede4b6a4e6b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/readthedocs-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

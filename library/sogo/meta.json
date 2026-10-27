@@ -1,0 +1,40 @@
+{
+  "collection_id": 2649,
+  "schema_version": 1,
+  "id": 2876,
+  "title": "Sogo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sogo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3794,
+      "collection": "Dashboard Icons",
+      "file": "sogo.svg",
+      "id": 4493,
+      "is_default": true,
+      "label": "sogo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sogo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b24db97ff6ae7a66bbb5677a9e234f44356afa96f0819d567aa4f963f7b269b"
+      },
+      "sha256": "0bcaaecc1d53154577cafdf8fd9083416c74741d45b4f8a38c23398274b5bce4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sogo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

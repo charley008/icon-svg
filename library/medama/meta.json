@@ -1,0 +1,40 @@
+{
+  "collection_id": 1796,
+  "schema_version": 1,
+  "id": 2023,
+  "title": "Medama",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "medama"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1260,
+      "collection": "Dashboard Icons",
+      "file": "medama.svg",
+      "id": 3335,
+      "is_default": true,
+      "label": "medama",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "medama.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2183f377bd2980d7a876f598c8050abacfc298dc8bfddadd3e916a77acc154af"
+      },
+      "sha256": "7aeaa14d0aebc6c2207803ab77151a938508360f73ec47710b03eae2b1a138d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/medama.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

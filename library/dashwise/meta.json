@@ -1,0 +1,45 @@
+{
+  "collection_id": 1069,
+  "schema_version": 1,
+  "id": 1296,
+  "title": "Dashwise",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "dashwise",
+    "homelab-dashboard",
+    "server-dashboard",
+    "application-launcher"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1453,
+      "collection": "Dashboard Icons",
+      "file": "dashwise.svg",
+      "id": 2386,
+      "is_default": true,
+      "label": "dashwise",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dashwise.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6bc48bd5bee06a6702e1140f20e27d8ac0a92a571597c642cf1e152e15637ca"
+      },
+      "sha256": "6e26ad88c801b92eb73d60e81eef6068064cc01f68795579ccc62788a8878320",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dashwise.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

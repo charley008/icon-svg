@@ -1,0 +1,102 @@
+{
+  "collection_id": 1525,
+  "schema_version": 1,
+  "id": 1752,
+  "redirect_from": [
+    1753
+  ],
+  "title": "Icinga",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "icinga",
+    "icinga-full",
+    "Icinga Full"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1840,
+      "collection": "Dashboard Icons",
+      "file": "icinga.svg",
+      "id": 2993,
+      "is_default": true,
+      "label": "icinga",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icinga.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "619a7649f07b7128ca0e7509342160eec5a3ee8dd9686a7cf3b5cd47c15098e5"
+      },
+      "sha256": "e5f920c4c0ac6f1ceb7ef7f28e280fed163e2d5d94fbeb89d7d97ffd494065b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icinga.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1864,
+      "collection": "Dashboard Icons",
+      "file": "icinga-1.svg",
+      "id": 2994,
+      "is_default": false,
+      "label": "icinga-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icinga-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f2e593af7bfd8097e83f520c60c8d89f140237c086442e78aa2714f3bec71088"
+      },
+      "sha256": "6880190f67e37374b2a455d437f72e982c51b976e2c57de9a3e5b1d3da606190",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icinga-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4095,
+      "collection": "Dashboard Icons",
+      "file": "icinga-2.svg",
+      "id": 2995,
+      "is_default": false,
+      "label": "icinga-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icinga-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4fff22f3c876bd0a3f049d31428624cd41acae483f8482be4837533554c3291"
+      },
+      "sha256": "2168830e86e487de8dc887cc197aa347f67f762afc9a3746b424ad0bef99a9e6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icinga-full.svg",
+      "version": 2
+    },
+    {
+      "bytes": 4635,
+      "collection": "Dashboard Icons",
+      "file": "icinga-3.svg",
+      "id": 2996,
+      "is_default": false,
+      "label": "icinga-full-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "icinga-full-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a51547d6920d6bcc192e653d1fdb301fb120c5367a2f709a28964a5b7bc306cf"
+      },
+      "sha256": "cf7361223138f1741997f7f4bdf1e4c4253fd9cca87592912869b8444ae99be9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/icinga-full-light.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1951,
+  "schema_version": 1,
+  "id": 2178,
+  "title": "Nocodb",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nocodb"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1120,
+      "collection": "Dashboard Icons",
+      "file": "nocodb.svg",
+      "id": 3551,
+      "is_default": true,
+      "label": "nocodb",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nocodb.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "af5cdd2a8c36ce0afdd3f2954e34d4a95ab0657b6fbd0068e40afddaccaaeb4f"
+      },
+      "sha256": "6328f59ae192b029c63097707bdec2e84be4cc2eda0b263c837ab433570e8f48",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nocodb.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

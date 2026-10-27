@@ -1,0 +1,86 @@
+{
+  "collection_id": 1741,
+  "schema_version": 1,
+  "id": 1968,
+  "redirect_from": [
+    1969,
+    1970
+  ],
+  "title": "Lovable",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lovable",
+    "lovable-wordmark-light",
+    "Lovable Wordmark Light",
+    "lovable-wordmark-dark",
+    "Lovable Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2925,
+      "collection": "Dashboard Icons",
+      "file": "lovable.svg",
+      "id": 3269,
+      "is_default": true,
+      "label": "lovable",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lovable.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76910e7d58aa3a83d45752b849be7ae21d57ca8afa3602bd9d2c2eaebca3a745"
+      },
+      "sha256": "3d435f556aac3b25b70526dc2a83f8ae152d78c84533bed2d52530b54c7e791e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lovable.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8845,
+      "collection": "Dashboard Icons",
+      "file": "lovable-1.svg",
+      "id": 3271,
+      "is_default": false,
+      "label": "lovable-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lovable-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c0f1bc4ee3a8dcc0616627726173d1f91208780de31bd4053c83723f410ca1d4"
+      },
+      "sha256": "f428454d9e271af732a4350fade25738a277acdb8cd67c0851b709397bc23d34",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lovable-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 8833,
+      "collection": "Dashboard Icons",
+      "file": "lovable-2.svg",
+      "id": 3270,
+      "is_default": false,
+      "label": "lovable-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lovable-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62059f361e189c979f862202473a3c0999dfb9e9ba67e3a2b91d305de95a48f2"
+      },
+      "sha256": "e318c218687fb63e8acdd5d5343eccc016380a50e01f6612aa329a9773046c7d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lovable-wordmark-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

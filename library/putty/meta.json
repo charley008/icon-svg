@@ -1,4 +1,7 @@
 {
+  "collection_id": 598,
+  "schema_version": 1,
+  "id": 823,
   "title": "PuTTY",
   "url": "https://www.putty.org/",
   "domains": [
@@ -21,23 +24,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "putty.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "06b34263735e53a5fdf33cc4778b79a6f407030e23d83aecd1014a5cd17be0fa",
       "bytes": 2329,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/putty.svg",
+      "collection": "Dashboard Icons",
+      "file": "putty.svg",
+      "id": 1780,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "putty.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "06b34263735e53a5fdf33cc4778b79a6f407030e23d83aecd1014a5cd17be0fa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/putty.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4144,
+      "collection": "TechIcons / Devicon",
+      "file": "putty-1.svg",
+      "id": 5326,
+      "is_default": false,
+      "label": "TechIcons · PuTTY",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "PuTTY.svg",
+        "original_sha256": "b9b35aca6da411a99a248bd0a96f228d67190b54a85585a72bf533c768932b7a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/putty",
+        "reference_website": "https://www.putty.org"
+      },
+      "sha256": "5f947ca46da6c63a7a0c9cfc102fd9dc9bdf6aa6d3b426af5cc9e53708cc695f",
+      "source": "https://techicons.dev/icons/putty",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

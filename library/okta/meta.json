@@ -1,0 +1,81 @@
+{
+  "collection_id": 2001,
+  "schema_version": 1,
+  "id": 2228,
+  "title": "Okta",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "okta"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2842,
+      "collection": "Dashboard Icons",
+      "file": "okta.svg",
+      "id": 3620,
+      "is_default": true,
+      "label": "okta",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "okta.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "656b0c2497badeae5f083a3b255418d96590a8e7c4300d704771387bbda309cf"
+      },
+      "sha256": "c43d1d95f3f502639feeaa52716130459f389f40f8e7268e148f70019978f5a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/okta.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2842,
+      "collection": "Dashboard Icons",
+      "file": "okta-1.svg",
+      "id": 3621,
+      "is_default": false,
+      "label": "okta-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "okta-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b1ae364b31305cc09fa97e400cce450e7dc99454b3348a11dfffcdc4eb30f96"
+      },
+      "sha256": "31b442e171b208b609134c029f15ac81e0410be3d06a5d2149fbf1c7bef2a3b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/okta-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4836,
+      "collection": "TechIcons / Devicon",
+      "file": "okta-2.svg",
+      "id": 5295,
+      "is_default": false,
+      "label": "TechIcons · Okta",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Okta.svg",
+        "original_sha256": "4a4c1be54bb5461856139eabeefb2f19d5f31f2b677cd98dd7f1ece237110bc7",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/okta",
+        "reference_website": "https://www.okta.com"
+      },
+      "sha256": "87e0031ddb9b766f82b4fecca51b444013a05ac84daafeaa20b0e9c9933137b6",
+      "source": "https://techicons.dev/icons/okta",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

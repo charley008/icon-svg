@@ -1,0 +1,64 @@
+{
+  "collection_id": 1227,
+  "schema_version": 1,
+  "id": 1454,
+  "redirect_from": [
+    1455
+  ],
+  "title": "Euquista",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "euquista",
+    "euquista-wordmark-light",
+    "Euquista Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6197,
+      "collection": "Dashboard Icons",
+      "file": "euquista.svg",
+      "id": 2598,
+      "is_default": true,
+      "label": "euquista",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "euquista.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "82f6f642178d827ca1e8d8e6ef5be920244bbc8cdae8c2d9f010a06c093b1abb"
+      },
+      "sha256": "2c2c71c92bbf8b6b305ce17ac116181bb5aac80707147e3f45c19853c4ccf710",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/euquista.svg",
+      "version": 0
+    },
+    {
+      "bytes": 647,
+      "collection": "Dashboard Icons",
+      "file": "euquista-1.svg",
+      "id": 2599,
+      "is_default": false,
+      "label": "euquista-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "euquista-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b18f3ee31db0dc49b28ea6760fdfc771d77339e283e12964f0c8d7db42348267"
+      },
+      "sha256": "196fd1fda20025db3753fedf6e8f53da45664296181c5e0b71fe82c69ceb34ec",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/euquista-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

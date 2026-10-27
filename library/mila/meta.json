@@ -1,0 +1,40 @@
+{
+  "collection_id": 1827,
+  "schema_version": 1,
+  "id": 2054,
+  "title": "Mila",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mila"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1573,
+      "collection": "Dashboard Icons",
+      "file": "mila.svg",
+      "id": 3386,
+      "is_default": true,
+      "label": "mila",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mila.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d59313afdd678ef6645df52839be2d19f9652ad5703cd6a366cde389610da4b5"
+      },
+      "sha256": "982b1614e5f6ab6db56cc6da9bc34f8cd61ba873aeec8e74b7d37f115462bb0c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mila.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

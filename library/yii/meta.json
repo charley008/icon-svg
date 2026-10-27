@@ -1,0 +1,46 @@
+{
+  "collection_id": 3266,
+  "schema_version": 1,
+  "id": 3531,
+  "title": "Yii Framework",
+  "url": "https://www.yiiframework.com",
+  "domains": [
+    "yiiframework.com"
+  ],
+  "description": "PHP Web 应用开发框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Yii Framework",
+    "yii",
+    "Yii-Framework"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1425,
+      "collection": "TechIcons / Devicon",
+      "file": "yii-1.svg",
+      "id": 5410,
+      "is_default": true,
+      "label": "TechIcons · Yii Framework",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Yii-Framework.svg",
+        "original_sha256": "804d4ab25328a6d55f266c16931a82b4a96b03a40eee06420849fecfeb113f31",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/yii",
+        "reference_website": "https://www.yiiframework.com"
+      },
+      "sha256": "13f10c6a49577c37ec20a5bd3be1785ce795946ef4461acce3d2ed2869ff6960",
+      "source": "https://techicons.dev/icons/yii",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

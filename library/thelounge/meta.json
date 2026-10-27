@@ -1,0 +1,40 @@
+{
+  "collection_id": 2789,
+  "schema_version": 1,
+  "id": 3016,
+  "title": "Thelounge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thelounge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1231,
+      "collection": "Dashboard Icons",
+      "file": "thelounge.svg",
+      "id": 4670,
+      "is_default": true,
+      "label": "thelounge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thelounge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4852f3609a9d5f026f1d2952981c0e29585e1691329aa22acaeb2fcc70a43cab"
+      },
+      "sha256": "d4ca1b0e13196836c53233dc3252fd65f43a8a7a43399cd77f066433ce7e8f0d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thelounge.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

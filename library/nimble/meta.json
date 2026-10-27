@@ -1,0 +1,45 @@
+{
+  "collection_id": 3186,
+  "schema_version": 1,
+  "id": 3448,
+  "title": "Nimble",
+  "url": "https://nimble.directory",
+  "domains": [
+    "nimble.directory"
+  ],
+  "description": "Nim 项目的软件包管理工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Nimble",
+    "nimble"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1859,
+      "collection": "TechIcons / Devicon",
+      "file": "nimble-1.svg",
+      "id": 5285,
+      "is_default": true,
+      "label": "TechIcons · Nimble",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Nimble.svg",
+        "original_sha256": "f1302b9337e3bfb36a5856e9c83b1e2787bbd124c2790c672b47c4b9d7479c05",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/nimble",
+        "reference_website": "https://nimble.directory"
+      },
+      "sha256": "bbbea7b0f85e8cc0770939ad4f1f4bbf1138d9d5ec0e3dddc45a7d39cada5477",
+      "source": "https://techicons.dev/icons/nimble",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 752,
+  "schema_version": 1,
+  "id": 979,
+  "title": "Aroz Os",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "aroz-os"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 317,
+      "collection": "Dashboard Icons",
+      "file": "aroz-os.svg",
+      "id": 1968,
+      "is_default": true,
+      "label": "aroz-os",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aroz-os.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "672f2b2650802e1de0d115d1027d0a64834a75ad9ffcf67dd2ed9416f9adb8c5"
+      },
+      "sha256": "c184ca8f17a3b5d674d63c196478376d363d29d8c570e351cc9759c21dac7b6d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aroz-os.svg",
+      "version": 0
+    },
+    {
+      "bytes": 320,
+      "collection": "Dashboard Icons",
+      "file": "aroz-os-1.svg",
+      "id": 1969,
+      "is_default": false,
+      "label": "aroz-os-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aroz-os-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "89f4fdec1521883df5a624be769c3a233ab52914d35d8351c8464c086d967ab1"
+      },
+      "sha256": "539d670bea61e0a5c3bb6a707a54edf39dafb8ced1dc09debc41d28d2bf9b406",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aroz-os-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

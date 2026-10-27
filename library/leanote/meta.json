@@ -1,0 +1,44 @@
+{
+  "collection_id": 1682,
+  "schema_version": 1,
+  "id": 1909,
+  "title": "Leanote",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Note-taking-Apps",
+    "办公效率"
+  ],
+  "aliases": [
+    "leanote",
+    "markdown-notes",
+    "cloud-notes"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1177,
+      "collection": "Dashboard Icons",
+      "file": "leanote.svg",
+      "id": 3188,
+      "is_default": true,
+      "label": "leanote",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "leanote.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "729a6087db6cb29824919614e57946fb009917e371cbb44bc1b1e556c2b34d65"
+      },
+      "sha256": "d9b28bee1b1c5f617c6bf48f6d78f8d3333f5c64d1108695f7c425c8325ffbba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/leanote.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

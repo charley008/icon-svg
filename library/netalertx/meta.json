@@ -1,0 +1,64 @@
+{
+  "collection_id": 1898,
+  "schema_version": 1,
+  "id": 2125,
+  "title": "Netalertx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "netalertx",
+    "network-monitor",
+    "alerting-system"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1953,
+      "collection": "Dashboard Icons",
+      "file": "netalertx.svg",
+      "id": 3483,
+      "is_default": true,
+      "label": "netalertx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netalertx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c7d26e3905b5f9f08d6766d0ed706e46ef7f0d318ea648821c9297380f5fdc34"
+      },
+      "sha256": "7be6c17ef065cfea93e3ce4ee6059e22a55ff6584ca039cfd5a113da13a9e17a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netalertx.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2037,
+      "collection": "Dashboard Icons",
+      "file": "netalertx-1.svg",
+      "id": 3484,
+      "is_default": false,
+      "label": "netalertx-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netalertx-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6f0c25a7209c6db3305558b92f0c4526b86df9b03e5d9b6554205c67bdbfb7ad"
+      },
+      "sha256": "381e198c5674c4a8736c20bcaad4fe09441df51e3833bba01b85689caf955f90",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netalertx-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

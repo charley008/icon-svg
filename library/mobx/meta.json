@@ -1,0 +1,45 @@
+{
+  "collection_id": 3175,
+  "schema_version": 1,
+  "id": 3437,
+  "title": "MobX",
+  "url": "https://mobx.js.org",
+  "domains": [
+    "mobx.js.org"
+  ],
+  "description": "用于应用状态管理的开发库。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "MobX",
+    "mobx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1270,
+      "collection": "TechIcons / Devicon",
+      "file": "mobx-1.svg",
+      "id": 5270,
+      "is_default": true,
+      "label": "TechIcons · MobX",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "MobX.svg",
+        "original_sha256": "495afa63537474d8f8ff91dbe0a1ea7620b2e87945bc0722c62025e5b749b4be",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/mobx",
+        "reference_website": "https://mobx.js.org"
+      },
+      "sha256": "70d4154f93068a6731df54fa380123c8686ce7d744cbfd9de12d84093bac4882",
+      "source": "https://techicons.dev/icons/mobx",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

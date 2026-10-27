@@ -42,8 +42,46 @@
       "sha256": "1cfc913427d4518fd619878d37daaa148607484c4ab6a4a801bf9e3d9d2293a5",
       "source": "https://web.gotab.cn/sourceStore/website/01KZ7ZNNSNA9F4HPJPVE7WJTBE.svg",
       "version": 0
+    },
+    {
+      "bytes": 612,
+      "collection": "Dashboard Icons",
+      "file": "openrouter-1.svg",
+      "id": 3686,
+      "is_default": false,
+      "label": "open-router",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-router.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2748418615cea3c9bb5e395f16773b10ef7db31989decf2c6a1c132f68685fee"
+      },
+      "sha256": "eeb2c2326b81cdf9dd3221a7dcedb043347699860a897377462d055f7dcf9569",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-router.svg",
+      "version": 1
+    },
+    {
+      "bytes": 606,
+      "collection": "Dashboard Icons",
+      "file": "openrouter-2.svg",
+      "id": 3687,
+      "is_default": false,
+      "label": "open-router-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-router-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3ffdc5c3882c9f658059bfe1c06a389038e9dc4c594616893ae6495f3156c0f5"
+      },
+      "sha256": "65d0a38a0730a9c476db72219c9b9a9b6786d012ea5068bb271184e323e550ed",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-router-dark.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

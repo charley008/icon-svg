@@ -1,0 +1,40 @@
+{
+  "collection_id": 1619,
+  "schema_version": 1,
+  "id": 1846,
+  "title": "Kaufland",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kaufland"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2581,
+      "collection": "Dashboard Icons",
+      "file": "kaufland.svg",
+      "id": 3114,
+      "is_default": true,
+      "label": "kaufland",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kaufland.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c7c91462c066bb22da6e5482b5d01f12225a7e38ba35d40cc66a43fbe1a51586"
+      },
+      "sha256": "51bbac9de11bf487897b092d067db83272fad4c29dbe5d046ada46c2b63981be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kaufland.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

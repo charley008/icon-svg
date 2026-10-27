@@ -1,0 +1,43 @@
+{
+  "collection_id": 2490,
+  "schema_version": 1,
+  "id": 2717,
+  "title": "Remnawave",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Development",
+    "Security"
+  ],
+  "aliases": [
+    "remnawave",
+    "remna"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1367,
+      "collection": "Dashboard Icons",
+      "file": "remnawave.svg",
+      "id": 4289,
+      "is_default": true,
+      "label": "remnawave",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "remnawave.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8dca8ef99d8b9e85f2dda3f1ae51639ddbef658b2fe3865d32ecc16f79020b36"
+      },
+      "sha256": "a483331be6190805d89a25c219a69a8e2c350d178c029eb9495424526ed2b840",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/remnawave.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

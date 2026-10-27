@@ -1,0 +1,59 @@
+{
+  "collection_id": 2536,
+  "schema_version": 1,
+  "id": 2763,
+  "title": "Runson",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "runson"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8553,
+      "collection": "Dashboard Icons",
+      "file": "runson.svg",
+      "id": 4345,
+      "is_default": true,
+      "label": "runson",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "runson.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc64e03f8034d3c3c3090120354ec6be757b4fa21dddbf8732817fc193d479a6"
+      },
+      "sha256": "daf9368d7f5f57ff4d4763f607f3057667638f34b4ede30e41671e076c574cb7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/runson.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8575,
+      "collection": "Dashboard Icons",
+      "file": "runson-1.svg",
+      "id": 4346,
+      "is_default": false,
+      "label": "runson-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "runson-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "543c333c61d4b2ec7bfcb3fbbcfd2a04b87657d53efa499a9b119a14889eb889"
+      },
+      "sha256": "1fa39255c1fd7d472051eb442d181ff4c66d8b19f58ccaa888bbf9679f74f24f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/runson-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

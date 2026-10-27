@@ -1,0 +1,64 @@
+{
+  "collection_id": 2651,
+  "schema_version": 1,
+  "id": 2878,
+  "redirect_from": [
+    2879
+  ],
+  "title": "Solarwinds",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "solarwinds",
+    "solarwinds-wordmark-light",
+    "Solarwinds Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 573,
+      "collection": "Dashboard Icons",
+      "file": "solarwinds.svg",
+      "id": 4495,
+      "is_default": true,
+      "label": "solarwinds",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "solarwinds.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "003992e6820d086a905c85045c2afcdf82f1a95e4500d03f3a42e51d50c713c2"
+      },
+      "sha256": "176473c0bfcf549d5d3ae10cd707ae5f74c2487a768a8f3918ffde87444e1b93",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/solarwinds.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4938,
+      "collection": "Dashboard Icons",
+      "file": "solarwinds-1.svg",
+      "id": 4496,
+      "is_default": false,
+      "label": "solarwinds-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "solarwinds-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb42e0b003ecd188c23a0b795deb74fd1fcb1d856279f9e13d27ea0411dbba0b"
+      },
+      "sha256": "a4444224ea913648b2744815d91e370be6d6abfddd7ec8acfdbc871acea58673",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/solarwinds-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

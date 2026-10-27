@@ -1,0 +1,40 @@
+{
+  "collection_id": 2790,
+  "schema_version": 1,
+  "id": 3017,
+  "title": "Theodinproject",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "theodinproject"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1602,
+      "collection": "Dashboard Icons",
+      "file": "theodinproject.svg",
+      "id": 4671,
+      "is_default": true,
+      "label": "theodinproject",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "theodinproject.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e69ba3ab5c204d8c9149bb7e455fbd77e1ed87f44890cf55f20c035d2cba9620"
+      },
+      "sha256": "7705e8bed01a3ad5cbf89d1edc80e9780c06e697692fa5694943da90b13efb27",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/theodinproject.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

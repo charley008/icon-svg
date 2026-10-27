@@ -1,0 +1,40 @@
+{
+  "collection_id": 2098,
+  "schema_version": 1,
+  "id": 2325,
+  "title": "Partkeepr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "partkeepr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 694,
+      "collection": "Dashboard Icons",
+      "file": "partkeepr.svg",
+      "id": 3764,
+      "is_default": true,
+      "label": "partkeepr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "partkeepr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "326a456fbb409e0b4c3cd8722c5b5d47cd57207c63d76901e8991707e8f557c0"
+      },
+      "sha256": "1abb1216a327c640e4fc601ae7455aa403a7b21ed53afb6b2c353bf6a6b885e8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/partkeepr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

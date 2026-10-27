@@ -1,0 +1,62 @@
+{
+  "collection_id": 1019,
+  "schema_version": 1,
+  "id": 1246,
+  "title": "Control D",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "control-d",
+    "controld"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1080,
+      "collection": "Dashboard Icons",
+      "file": "control-d.svg",
+      "id": 2321,
+      "is_default": true,
+      "label": "control-d",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "control-d.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1128c384c9f1827ada615edd65a9a97816cbec6d851814203e9393356cdd307e"
+      },
+      "sha256": "fd1f8b14cb3996bb9ac081a1ad90a25abb73f12a140409207646f4092bad66e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/control-d.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1080,
+      "collection": "Dashboard Icons",
+      "file": "control-d-1.svg",
+      "id": 2322,
+      "is_default": false,
+      "label": "control-d-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "control-d-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "885d4786842c12e5dd537e4270f445dd7c7f1d4adc5da5aa37188cb72d4871df"
+      },
+      "sha256": "81fe7510b37cd2f41686c191d4a96dabec0f191191d1b56ba810703ef508e200",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/control-d-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

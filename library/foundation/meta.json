@@ -1,0 +1,45 @@
+{
+  "collection_id": 3126,
+  "schema_version": 1,
+  "id": 3368,
+  "title": "Foundation",
+  "url": "https://get.foundation",
+  "domains": [
+    "get.foundation"
+  ],
+  "description": "用于构建响应式网站的前端框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Foundation",
+    "foundation"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 23495,
+      "collection": "TechIcons / Devicon",
+      "file": "foundation-1.svg",
+      "id": 5164,
+      "is_default": true,
+      "label": "TechIcons · Foundation",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Foundation.svg",
+        "original_sha256": "5a7506319938d91c3deee818a727e55f2e779136a5a814925932d695363b6992",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/foundation",
+        "reference_website": "https://get.foundation"
+      },
+      "sha256": "686a316e0c5766502f31e4d6027d26c619e598d1c035712e72623d1ca9648615",
+      "source": "https://techicons.dev/icons/foundation",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

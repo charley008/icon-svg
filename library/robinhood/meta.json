@@ -1,0 +1,42 @@
+{
+  "collection_id": 2513,
+  "schema_version": 1,
+  "id": 2740,
+  "title": "Robinhood",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "robinhood"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2066,
+      "collection": "Dashboard Icons",
+      "file": "robinhood.svg",
+      "id": 4318,
+      "is_default": true,
+      "label": "robinhood",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "robinhood.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "92d04a8f7006c1609f336d0fb75f0d89d18a85d7f089084b75f478c09853a6bd"
+      },
+      "sha256": "9e6ff5f818d95548ea2efeb2269bfb336ddcee2669b908a1e43545c1bd76951a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/robinhood.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

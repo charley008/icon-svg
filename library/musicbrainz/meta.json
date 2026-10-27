@@ -1,0 +1,83 @@
+{
+  "collection_id": 1879,
+  "schema_version": 1,
+  "id": 2106,
+  "title": "Musicbrainz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "Music-Streaming"
+  ],
+  "aliases": [
+    "musicbrainz",
+    "music-database",
+    "audio-metadata"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10508,
+      "collection": "Dashboard Icons",
+      "file": "musicbrainz.svg",
+      "id": 3457,
+      "is_default": true,
+      "label": "musicbrainz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "musicbrainz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e8207d09b7a106e38e3b4f90a0b5bdeb386869a3b2945b988fd1eab9dc55320a"
+      },
+      "sha256": "2422f79aec55353a30be9c32587aaa144af91fba4259ddff04c6e8ff0b7e62b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/musicbrainz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": [
+    {
+      "id": 2107,
+      "key": "picard",
+      "title": "Musicbrainz Picard",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "影音娱乐",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "musicbrainz-picard"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 21689,
+          "collection": "Dashboard Icons",
+          "file": "musicbrainz-picard.svg",
+          "id": 3458,
+          "is_default": true,
+          "label": "musicbrainz-picard",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "musicbrainz-picard.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "8a0d2678bff6c2ebbf9e9a6e3a96c69313a74b985ecf0e61331e854062f96599"
+          },
+          "sha256": "b357bba810cf89ffef9d88cc509a2e430d0c1f2ffdcba764020073b98d12345c",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/musicbrainz-picard.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
+}

@@ -2,6 +2,10 @@
   "collection_id": 140,
   "schema_version": 1,
   "id": 211,
+  "redirect_from": [
+    1404,
+    1405
+  ],
   "title": "Ecosia",
   "url": "https://ecosia.org",
   "domains": [
@@ -17,7 +21,11 @@
     "ecosia.org"
   ],
   "aliases": [
-    "ecosia"
+    "ecosia",
+    "ecosia-wordmark-light",
+    "Ecosia Wordmark Light",
+    "ecosia-wordmark-dark",
+    "Ecosia Wordmark Dark"
   ],
   "notes": [],
   "icons": [
@@ -135,8 +143,46 @@
       "sha256": "ff3b12660fcde7dcc4a2176ea24a96765780789c7f9e9ef6344cf866e212feaa",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#ecosia",
       "version": 4
+    },
+    {
+      "bytes": 1383,
+      "collection": "Dashboard Icons",
+      "file": "ecosia-5.svg",
+      "id": 2533,
+      "is_default": false,
+      "label": "ecosia-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5fbf00c10773a94dbdbd31d7c1ccb9be3ca4f92fd9c6ecb5e5a8e0e78bb41bc7"
+      },
+      "sha256": "a26b8dbd22b8e6de83ac4c8d9423b9d4b71fff027daf0104c99eafb9ee375952",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ecosia-wordmark-light.svg",
+      "version": 5
+    },
+    {
+      "bytes": 1575,
+      "collection": "Dashboard Icons",
+      "file": "ecosia-6.svg",
+      "id": 2532,
+      "is_default": false,
+      "label": "ecosia-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ecosia-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3053ed534e813c0aab7d5609c7530a3107d1bafe5dbcb41b80414bd0d2f764d7"
+      },
+      "sha256": "15fee73024eccc6b599051b417ab3d461c832c2fd4fb173ee1ec88cce8345ffa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ecosia-wordmark-dark.svg",
+      "version": 6
     }
   ],
-  "next_version": 5,
+  "next_version": 7,
   "products": []
 }

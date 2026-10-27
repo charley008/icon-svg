@@ -1,0 +1,45 @@
+{
+  "collection_id": 3095,
+  "schema_version": 1,
+  "id": 3334,
+  "title": "Clojure",
+  "url": "https://clojure.org",
+  "domains": [
+    "clojure.org"
+  ],
+  "description": "Clojure 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Clojure",
+    "clojure"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1980,
+      "collection": "TechIcons / Devicon",
+      "file": "clojure-1.svg",
+      "id": 5105,
+      "is_default": true,
+      "label": "TechIcons · Clojure",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Clojure.svg",
+        "original_sha256": "405b1b05bbbdd7ddfdbe331fec17360de2b6b482b7f67aa66540fa12e6e73e25",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/clojure",
+        "reference_website": "https://clojure.org"
+      },
+      "sha256": "ebf0119abf2518872a7c7e6801db2837b0ce31c312088a7f105c3f156502b2c1",
+      "source": "https://techicons.dev/icons/clojure",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

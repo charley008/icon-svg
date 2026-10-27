@@ -1,0 +1,43 @@
+{
+  "collection_id": 3010,
+  "schema_version": 1,
+  "id": 3237,
+  "title": "Xiaomi Global",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "xiaomi-global",
+    "mi-global",
+    "redmi-global"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1612,
+      "collection": "Dashboard Icons",
+      "file": "xiaomi-global.svg",
+      "id": 4961,
+      "is_default": true,
+      "label": "xiaomi-global",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xiaomi-global.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9fb3df7fd72f7fa925cc6b10da843dc473a9f2074ffa39f0e98d0082512d270c"
+      },
+      "sha256": "1ceea37887bed9599960d7a1e74ebb07c392f903442301400108089b72c97853",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xiaomi-global.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

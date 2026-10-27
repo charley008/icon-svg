@@ -1,0 +1,40 @@
+{
+  "collection_id": 1110,
+  "schema_version": 1,
+  "id": 1337,
+  "title": "Directus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "directus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10207,
+      "collection": "Dashboard Icons",
+      "file": "directus.svg",
+      "id": 2442,
+      "is_default": true,
+      "label": "directus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "directus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "77a70d7ffc0e1e8f3bd2cd889ea11765eec7fba43740eb8bd00f87ecd8189752"
+      },
+      "sha256": "823622f8b8efc155fea1b39f7c7da75f0a918888ca35bc87b8b1c2538b5e5c4b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/directus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,63 @@
+{
+  "collection_id": 2571,
+  "schema_version": 1,
+  "id": 2798,
+  "title": "Security Onion",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "security-onion",
+    "onion",
+    "sos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7212,
+      "collection": "Dashboard Icons",
+      "file": "security-onion.svg",
+      "id": 4393,
+      "is_default": true,
+      "label": "security-onion",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "security-onion.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ed13473ff938f56576e3fb8c333bcb88cc3192387e67f9b978db11b2886f9e1"
+      },
+      "sha256": "32fbba58b995da91066f452e085a68416232e84c773bec98b49031a53d05b926",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/security-onion.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6732,
+      "collection": "Dashboard Icons",
+      "file": "security-onion-1.svg",
+      "id": 4394,
+      "is_default": false,
+      "label": "security-onion-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "security-onion-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e46adf75b6f42bf599fce47f94ef5290aed8e6efcfd66e72eef563273b96410"
+      },
+      "sha256": "36a67b851b037a216c16d8d8f7b8dc9885c6ad4defe4154e31b3b956c48592be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/security-onion-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

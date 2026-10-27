@@ -1,0 +1,105 @@
+{
+  "collection_id": 1652,
+  "schema_version": 1,
+  "id": 1879,
+  "redirect_from": [
+    1880,
+    1881
+  ],
+  "title": "Kong",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kong",
+    "kong-wordmark-light",
+    "Kong Wordmark Light",
+    "kong-wordmark-dark",
+    "Kong Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 641,
+      "collection": "Dashboard Icons",
+      "file": "kong.svg",
+      "id": 3152,
+      "is_default": true,
+      "label": "kong",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kong.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f73a7053fdaa1d7a234e51c4589b4aeef8f11fe8938a0a5b2dee9c5ba5cb5590"
+      },
+      "sha256": "bed6f7cf33eac3b814666bcc5388d8d81fb4d5adcfe8590ea529ac1b610ed0ad",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kong.svg",
+      "version": 0
+    },
+    {
+      "bytes": 649,
+      "collection": "Dashboard Icons",
+      "file": "kong-1.svg",
+      "id": 3153,
+      "is_default": false,
+      "label": "kong-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kong-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5ce094ec5ee648b4dc9d96ce299b185bee28f8f77d4619680eaad95131c7c964"
+      },
+      "sha256": "2b1c54fcd0986618ae1dd32b84ad72171effe0998134490afbde2b3260ae5bc6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kong-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1528,
+      "collection": "Dashboard Icons",
+      "file": "kong-2.svg",
+      "id": 3155,
+      "is_default": false,
+      "label": "kong-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kong-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eb315fa8fbb2f4f3ecca0c367ed549a0adbd13b8a1e7745266688520770f64a9"
+      },
+      "sha256": "cd347acefd252bf4103ae9a0ac3fec05a7b0427f46be47c7ea48fd0a5ffaf267",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kong-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1525,
+      "collection": "Dashboard Icons",
+      "file": "kong-3.svg",
+      "id": 3154,
+      "is_default": false,
+      "label": "kong-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kong-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "120411290ab654de4b7b8327ca83293725d791345ada30b30f5017110a7da2c4"
+      },
+      "sha256": "b860ca8fe48612325b5acb9c3ce5ecc92df37507363f7493e837a552796b19f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kong-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

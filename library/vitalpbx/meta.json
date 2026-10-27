@@ -1,0 +1,42 @@
+{
+  "collection_id": 2920,
+  "schema_version": 1,
+  "id": 3147,
+  "title": "Vitalpbx",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "vitalpbx"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 397,
+      "collection": "Dashboard Icons",
+      "file": "vitalpbx.svg",
+      "id": 4845,
+      "is_default": true,
+      "label": "vitalpbx",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vitalpbx.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "670245ab6a57a2743583400ff677c982f21cdd4ffddf54f4fea982eebded421f"
+      },
+      "sha256": "81693986e78d4004b00468f715d2a9fa87109ca4c22405a41425b848bfa2ccfb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vitalpbx.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

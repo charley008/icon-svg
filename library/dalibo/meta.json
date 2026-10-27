@@ -1,0 +1,44 @@
+{
+  "collection_id": 1065,
+  "schema_version": 1,
+  "id": 1292,
+  "title": "Dalibo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Databases",
+    "Organization",
+    "开发编程"
+  ],
+  "aliases": [
+    "dalibo",
+    "postgresql-support"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1710,
+      "collection": "Dashboard Icons",
+      "file": "dalibo.svg",
+      "id": 2380,
+      "is_default": true,
+      "label": "dalibo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dalibo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9522b1c2849eb6e0f57d242a7b29f9ddfd7e75757ae45b048ac2c987a2c2da2e"
+      },
+      "sha256": "16e12aed2c6d803d0fccb9fc265eab52fa9796c9a12be51f99148be333b78ac6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dalibo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

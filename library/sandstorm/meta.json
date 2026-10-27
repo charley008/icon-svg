@@ -1,0 +1,44 @@
+{
+  "collection_id": 2551,
+  "schema_version": 1,
+  "id": 2778,
+  "title": "Sandstorm",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Server-Panels",
+    "Web-Browsers",
+    "网络工具"
+  ],
+  "aliases": [
+    "sandstorm",
+    "Web Application Platform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 18248,
+      "collection": "Dashboard Icons",
+      "file": "sandstorm.svg",
+      "id": 4367,
+      "is_default": true,
+      "label": "sandstorm",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sandstorm.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be2af0f78a64c533230838f40132617a6e5b034264736a83e9023c3580defa42"
+      },
+      "sha256": "7cc71ccc6d70e9e23be66b849e9a0bc805b899b6edbf9bcada4c1a7f1f96ef30",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sandstorm.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

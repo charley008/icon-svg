@@ -1,0 +1,40 @@
+{
+  "collection_id": 1798,
+  "schema_version": 1,
+  "id": 2025,
+  "title": "Mediafire",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mediafire"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 972,
+      "collection": "Dashboard Icons",
+      "file": "mediafire.svg",
+      "id": 3337,
+      "is_default": true,
+      "label": "mediafire",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mediafire.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2d4a86b254ccc6ba715078b1cf53e3639efff20e384321efa42473b23a5dd166"
+      },
+      "sha256": "2e79f5667acbeee81ca60a6404b48bd694582f80d846dec50c9f642656e094f9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mediafire.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

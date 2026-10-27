@@ -1,0 +1,43 @@
+{
+  "collection_id": 2636,
+  "schema_version": 1,
+  "id": 2863,
+  "title": "Smartfox",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming-Platforms",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "smartfox"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3829,
+      "collection": "Dashboard Icons",
+      "file": "smartfox.svg",
+      "id": 4478,
+      "is_default": true,
+      "label": "smartfox",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "smartfox.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3a386ff69c9ea57f76309cbc5e7cf5ccd9ff7450b10db52dfd87bd924c0ff23d"
+      },
+      "sha256": "ecc40f433b5b66a338cfa4757898b4438e4750d9a79dd68dedb7811085d52558",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/smartfox.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

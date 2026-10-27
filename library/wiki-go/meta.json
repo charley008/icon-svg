@@ -1,0 +1,41 @@
+{
+  "collection_id": 2974,
+  "schema_version": 1,
+  "id": 3201,
+  "title": "Wiki Go",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Wiki"
+  ],
+  "aliases": [
+    "wiki-go"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 785,
+      "collection": "Dashboard Icons",
+      "file": "wiki-go.svg",
+      "id": 4912,
+      "is_default": true,
+      "label": "wiki-go",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wiki-go.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c56365b3d95499372979cbc24ee99aa3cdf7695b316541edc3d65150e1020d4f"
+      },
+      "sha256": "e62600190a66a27b4b333ca5471e2083ba0bbfc349b1f8d2cdd037aa558284dc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wiki-go.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

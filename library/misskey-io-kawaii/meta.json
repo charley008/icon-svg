@@ -1,0 +1,40 @@
+{
+  "collection_id": 1832,
+  "schema_version": 1,
+  "id": 2059,
+  "title": "Misskey Io Kawaii",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "misskey-io-kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 160064,
+      "collection": "Dashboard Icons",
+      "file": "misskey-io-kawaii.svg",
+      "id": 3398,
+      "is_default": true,
+      "label": "misskey-io-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "misskey-io-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b6b400d73f5857eec0f9aafceefc364eddaf990eb67bbd52509b2d0b3e98b42"
+      },
+      "sha256": "454c1ac50faa402de4a146d419d8c0598a70c80eab05dd27ac7e049143b6fb81",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/misskey-io-kawaii.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

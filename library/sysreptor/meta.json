@@ -1,0 +1,40 @@
+{
+  "collection_id": 2737,
+  "schema_version": 1,
+  "id": 2964,
+  "title": "Sysreptor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sysreptor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2523,
+      "collection": "Dashboard Icons",
+      "file": "sysreptor.svg",
+      "id": 4607,
+      "is_default": true,
+      "label": "sysreptor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sysreptor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c04aa316d36dc6f2629b688592af0a0dcd3b828ceeedca9010ae09044895a491"
+      },
+      "sha256": "127966a1029c610c18a93fbcf68f1d8ecabd1155784b1ca88d7230e160410ccb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sysreptor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

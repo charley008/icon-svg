@@ -1,0 +1,83 @@
+{
+  "collection_id": 2537,
+  "schema_version": 1,
+  "id": 2764,
+  "title": "Rust",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Programming-Languages",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "rust",
+    "system-programming-language",
+    "modern-language"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5574,
+      "collection": "Dashboard Icons",
+      "file": "rust.svg",
+      "id": 4347,
+      "is_default": true,
+      "label": "rust",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rust.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fcc4f63486c52aaf968e0ed660ccaad3729d755da26570188cb14d5eeedd8c39"
+      },
+      "sha256": "1341f5e06bed0ceea812df05483441315dd31fd853ed950257ca141294844729",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rust.svg",
+      "version": 0
+    },
+    {
+      "bytes": 5574,
+      "collection": "Dashboard Icons",
+      "file": "rust-1.svg",
+      "id": 4348,
+      "is_default": false,
+      "label": "rust-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rust-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "16f62a9daa3880a956bcf7fd84bce167be3ee5c159981b1a1f1295c7134da3fb"
+      },
+      "sha256": "d82bb7dc4d217a6166817bcf5dd7dcd4676bf999fdd8a5c9c1a37cfb81e4a429",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rust-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 117663,
+      "collection": "Dashboard Icons",
+      "file": "rust-2.svg",
+      "id": 4349,
+      "is_default": false,
+      "label": "rust-kawaii-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rust-kawaii-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "587b0a045b331c57f789f7ef17d33f8dc4c351196c5dfc4169c87042e72d3c99"
+      },
+      "sha256": "b13b980514c0ebe8cd9ccb77a9ea0197d3397c3e5c449228e5aff5cc79f8d92a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rust-kawaii-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

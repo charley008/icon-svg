@@ -1,0 +1,42 @@
+{
+  "collection_id": 1895,
+  "schema_version": 1,
+  "id": 2122,
+  "title": "Neon Tech",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "neon-tech",
+    "neon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2055,
+      "collection": "Dashboard Icons",
+      "file": "neon-tech.svg",
+      "id": 3478,
+      "is_default": true,
+      "label": "neon-tech",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "neon-tech.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a5461f96453387a99adc3425aa86e673e575358388b01c55ff3d1063cc098b45"
+      },
+      "sha256": "dd89286af692366ed815080097a2c3a201db7de7cc0f9d399b16e1d01ab8e556",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/neon-tech.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

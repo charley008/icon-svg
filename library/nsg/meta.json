@@ -1,0 +1,40 @@
+{
+  "collection_id": 1968,
+  "schema_version": 1,
+  "id": 2195,
+  "title": "Nsg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nsg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1392,
+      "collection": "Dashboard Icons",
+      "file": "nsg.svg",
+      "id": 3576,
+      "is_default": true,
+      "label": "nsg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nsg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cf4023ddaa11961904e1e4601864ccd20b9f60686cb38ad7f8ff8385d855c4de"
+      },
+      "sha256": "da238a4b136f4785af9c804c8bd85d4247ec61693d03b0963f90688e3f4fb331",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nsg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

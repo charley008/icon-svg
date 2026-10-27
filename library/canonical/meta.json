@@ -1,0 +1,44 @@
+{
+  "collection_id": 932,
+  "schema_version": 1,
+  "id": 1159,
+  "title": "Canonical",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Operating-Systems",
+    "Linux-Distributions",
+    "系统工具"
+  ],
+  "aliases": [
+    "canonical",
+    "Ubuntu Company"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 504,
+      "collection": "Dashboard Icons",
+      "file": "canonical.svg",
+      "id": 2205,
+      "is_default": true,
+      "label": "canonical",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "canonical.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa1347926730b3e399d3cc888fdb7a506db39e7dd39c8472ee0545f377204f12"
+      },
+      "sha256": "03da39535ec918eac12df465d2aa0b319264a7b3d49eea2b082e45b0133fecf3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/canonical.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

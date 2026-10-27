@@ -1,0 +1,44 @@
+{
+  "collection_id": 2630,
+  "schema_version": 1,
+  "id": 2857,
+  "title": "Sipeed",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "sipeed",
+    "sipeed-kvm",
+    "sipeed-nanokvm"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1089,
+      "collection": "Dashboard Icons",
+      "file": "sipeed.svg",
+      "id": 4471,
+      "is_default": true,
+      "label": "sipeed",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sipeed.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b120ed78f647959ea3ffee99d9cab1f0292112af3bdba0c3de40d9cd5d50639"
+      },
+      "sha256": "b0c95c065e93c25b73c4d7a7f826b61c2df2490106f73e1d5e1c69273c702d53",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sipeed.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

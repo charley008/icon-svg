@@ -1,0 +1,45 @@
+{
+  "collection_id": 3081,
+  "schema_version": 1,
+  "id": 3320,
+  "title": "Awk",
+  "url": "https://www.gnu.org/software/gawk/manual/gawk.html",
+  "domains": [
+    "gnu.org"
+  ],
+  "description": "Awk 编程语言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Awk",
+    "awk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 19079,
+      "collection": "TechIcons / Devicon",
+      "file": "awk-1.svg",
+      "id": 5085,
+      "is_default": true,
+      "label": "TechIcons · Awk",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Awk.svg",
+        "original_sha256": "edd102ebeae25859352ca5fd6727887533f330b7ddbc5f4724b0d0d9112d76c8",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/awk",
+        "reference_website": "https://www.gnu.org/software/gawk/manual/gawk.html"
+      },
+      "sha256": "de05fbd1692fe5980ae3cbd3a0045985d261e6b675c7a273bf242f112fd54ed8",
+      "source": "https://techicons.dev/icons/awk",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

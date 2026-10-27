@@ -1,0 +1,42 @@
+{
+  "collection_id": 2880,
+  "schema_version": 1,
+  "id": 3107,
+  "title": "University Applied Sciences Brandenburg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons",
+    "Education",
+    "教育科研"
+  ],
+  "aliases": [
+    "university-applied-sciences-brandenburg"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 525,
+      "collection": "Dashboard Icons",
+      "file": "university-applied-sciences-brandenburg.svg",
+      "id": 4789,
+      "is_default": true,
+      "label": "university-applied-sciences-brandenburg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "university-applied-sciences-brandenburg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "072b4ff840b604bb908434693972ab4e7cfac8b37bde3a34ff047736aebb58e1"
+      },
+      "sha256": "818df15b1f90c4fa5e095573573aa38831a8c0c0d6ae1b9e0ea1e92a04f2b68d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/university-applied-sciences-brandenburg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

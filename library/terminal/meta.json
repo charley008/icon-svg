@@ -1,0 +1,45 @@
+{
+  "collection_id": 2772,
+  "schema_version": 1,
+  "id": 2999,
+  "title": "Terminal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Operating-Systems",
+    "系统工具"
+  ],
+  "aliases": [
+    "terminal",
+    "command-line",
+    "shell-interface"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4922,
+      "collection": "Dashboard Icons",
+      "file": "terminal.svg",
+      "id": 4649,
+      "is_default": true,
+      "label": "terminal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "terminal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a46f89b52e19d7adabed303f143808738274932db1c085ad347b120beaa9f50e"
+      },
+      "sha256": "e4a9dfcd601d0bd89023267154082413bc4fa4938a94ce365d7621a9380415d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

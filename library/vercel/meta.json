@@ -114,9 +114,47 @@
       "sha256": "b09a5d6087ec96d7dd3b35dd9b9c6c7013635e06cb5eeb3fdd747b0b3056eaea",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#vercel-line",
       "version": 4
+    },
+    {
+      "bytes": 175,
+      "collection": "Dashboard Icons",
+      "file": "vercel-5.svg",
+      "id": 4809,
+      "is_default": false,
+      "label": "vercel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9dc4d2041230985253f057289ad492aa27796d36af945fbb3de2f6d7ca7839ac"
+      },
+      "sha256": "36b1cafd32d7ef292d626b2474753d6eb9afb04175b1d2290013d737bbaee6b3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vercel.svg",
+      "version": 5
+    },
+    {
+      "bytes": 175,
+      "collection": "Dashboard Icons",
+      "file": "vercel-6.svg",
+      "id": 4810,
+      "is_default": false,
+      "label": "vercel-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vercel-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "661a0559492651f2b4879da963469eba99ce0f5be435b56aaf28e91f1ba890ab"
+      },
+      "sha256": "8b6a1066c83dd48744186b313f0cf6fd06c66bf9a757a48c10a13993e5821a0c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vercel-light.svg",
+      "version": 6
     }
   ],
-  "next_version": 5,
+  "next_version": 7,
   "products": [
     {
       "id": 658,
@@ -158,9 +196,86 @@
           "sha256": "4b9fcd3e600294c78db2adcc96fa9f56a7a302a47f8fa6e28ed9bf3bf17c3e81",
           "source": "https://icon.4738.org/icons/HD-Icons/svg/nextjs-2.svg",
           "version": 0
+        },
+        {
+          "bytes": 848,
+          "collection": "Dashboard Icons",
+          "file": "vercel-nextjs-1.svg",
+          "id": 4811,
+          "is_default": false,
+          "label": "nextjs",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextjs.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "41885143402a74ffac0a2415bc0e5c6cefbcb91029bc117eb3b73800c60ad5db"
+          },
+          "sha256": "ee242113d2e510dd509eceb8577744b35ba887c14ac1b27e13fb724b2ad4eba6",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextjs.svg",
+          "version": 1
+        },
+        {
+          "bytes": 66311,
+          "collection": "Dashboard Icons",
+          "file": "vercel-nextjs-2.svg",
+          "id": 4812,
+          "is_default": false,
+          "label": "nextjs-kawaii",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextjs-kawaii.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "47d13a34b9f633dc80b75ceba7425bd9ff9356f40ba5d98d2863b6ba9af73d8b"
+          },
+          "sha256": "3e8cbc307bb9f75d3150d93f31d7fe03cb2eacaac4acd196a89a931af9f1e985",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextjs-kawaii.svg",
+          "version": 2
+        },
+        {
+          "bytes": 589,
+          "collection": "Dashboard Icons",
+          "file": "vercel-nextjs-3.svg",
+          "id": 4813,
+          "is_default": false,
+          "label": "nextjs-light",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "nextjs-light.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "3bdfaa6f9b7dc6c47ceead2e68c25ee37320f1d04ca24d34c8dfe2893e24a07f"
+          },
+          "sha256": "1c675c3a9a57cb32b056e0453a4f1394e673a151ef7c3dd1bb736e8c380cb82a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nextjs-light.svg",
+          "version": 3
+        },
+        {
+          "bytes": 307,
+          "collection": "TechIcons / Devicon",
+          "file": "vercel-nextjs-4.svg",
+          "id": 5394,
+          "is_default": false,
+          "label": "TechIcons · Next.js",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Next.js.svg",
+            "original_sha256": "861fd1c0edb4691cfbf8c9c6b6da6bd7e91bda9ad3d3f6299e4a52215656531f",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/nextjs",
+            "reference_website": "https://nextjs.org"
+          },
+          "sha256": "1564af00b17595450af8fa9c877e95f0486cc6b585a9f0b5083e8b578aeac66b",
+          "source": "https://techicons.dev/icons/nextjs",
+          "version": 4
         }
       ],
-      "next_version": 1
+      "next_version": 5
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2796,
+  "schema_version": 1,
+  "id": 3023,
+  "title": "Thinkcell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thinkcell"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 582,
+      "collection": "Dashboard Icons",
+      "file": "thinkcell.svg",
+      "id": 4678,
+      "is_default": true,
+      "label": "thinkcell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thinkcell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "38a6244524c94e48ed01ee26bff2008ae64cd0f8f73a870ff5f064b28941cb77"
+      },
+      "sha256": "44a45d93505ee8cbbf9d4cc7f9349f40be8f0cfb6503ba289f8573ccb2670331",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thinkcell.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

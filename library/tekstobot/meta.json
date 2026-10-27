@@ -1,0 +1,40 @@
+{
+  "collection_id": 2759,
+  "schema_version": 1,
+  "id": 2986,
+  "title": "Tekstobot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tekstobot"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 64993,
+      "collection": "Dashboard Icons",
+      "file": "tekstobot.svg",
+      "id": 4634,
+      "is_default": true,
+      "label": "tekstobot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tekstobot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0d47eac3539a717fa94282c4499802a7d675852fb824d196cf03f4c9bdfd223c"
+      },
+      "sha256": "999b84f125b165ebb1faba2fe377dcbe1c3fbde89c7f2e86fb1e6eb9357db91f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tekstobot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

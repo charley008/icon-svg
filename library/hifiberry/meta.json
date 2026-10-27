@@ -1,0 +1,40 @@
+{
+  "collection_id": 1478,
+  "schema_version": 1,
+  "id": 1705,
+  "title": "Hifiberry",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hifiberry"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1286,
+      "collection": "Dashboard Icons",
+      "file": "hifiberry.svg",
+      "id": 2934,
+      "is_default": true,
+      "label": "hifiberry",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hifiberry.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d8a2519a32627d74469e8396433cf1db36b342102730d855fd1017a02704d62f"
+      },
+      "sha256": "a5f095c8dfaca3c98628c311881cb73068e15f03d1d0569f1a2cb462fc76d830",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hifiberry.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

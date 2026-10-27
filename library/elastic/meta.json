@@ -1,4 +1,7 @@
 {
+  "collection_id": 527,
+  "schema_version": 1,
+  "id": 701,
   "title": "Elastic",
   "url": "https://www.elastic.co/",
   "domains": [
@@ -21,26 +24,106 @@
   "notes": [],
   "icons": [
     {
-      "file": "elastic.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "0c18118afe8be15996dab82206310810c63277fabc9524cfb561f99b38930485",
       "bytes": 1749,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic.svg",
+      "collection": "Dashboard Icons",
+      "file": "elastic.svg",
+      "id": 1661,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "elastic.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "0c18118afe8be15996dab82206310810c63277fabc9524cfb561f99b38930485",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic.svg",
+      "version": 0
+    },
+    {
+      "bytes": 593,
+      "collection": "TechIcons / Devicon",
+      "file": "elastic-1.svg",
+      "id": 5139,
+      "is_default": false,
+      "label": "TechIcons · Elastic Search",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Elastic-Search.svg",
+        "original_sha256": "7efc44ea67eac2a877248c0502e498bca8f61de490852c1a5c572db0b5d3f84d",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/elasticsearch",
+        "reference_website": "https://www.elastic.co/enterprise-search"
+      },
+      "sha256": "7fb99f6b5085b474cc289f4fe74b85f4f09350a97ce86fc37eb426d7a84755d7",
+      "source": "https://techicons.dev/icons/elasticsearch",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": [
     {
+      "id": 1409,
+      "key": "beats",
+      "title": "Elastic Beats",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "网络工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "elastic-beats"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 705,
+          "collection": "Dashboard Icons",
+          "file": "elastic-beats.svg",
+          "id": 2537,
+          "is_default": true,
+          "label": "elastic-beats",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "elastic-beats.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "5ff8460d2be13e61cd2af84d7162c13f03cb904f859b8c2da9e60e86d93523ad"
+          },
+          "sha256": "8b744ebd430e73a6b147d6b8397322d90fe0f3914f5d22f2c352f05071767949",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-beats.svg",
+          "version": 0
+        },
+        {
+          "bytes": 503,
+          "collection": "TechIcons / Devicon",
+          "file": "elastic-beats-1.svg",
+          "id": 5140,
+          "is_default": false,
+          "label": "TechIcons · Elastic Beats",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Elastic-Beats.svg",
+            "original_sha256": "b7c4afe3f09b90dbd42b0ac0602bff5137e8f213eb7a9b75397bf37cb3eb0fad",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/beats",
+            "reference_website": "https://www.elastic.co/beats"
+          },
+          "sha256": "50ecb544678c72895fa54641ff40f355a7d47b2a8b8563f579ba6a79aadc587a",
+          "source": "https://techicons.dev/icons/beats",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 702,
+      "key": "kibana",
       "title": "Kibana",
       "url": "https://www.elastic.co/kibana",
       "domains": [
@@ -63,26 +146,48 @@
       "notes": [],
       "icons": [
         {
-          "file": "elastic-kibana.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "5103b067e60d29e02938d391c6c429d37ab5bfefd4beef9fb2965623066d7558",
           "bytes": 439,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-kibana.svg",
+          "collection": "Dashboard Icons",
+          "file": "elastic-kibana.svg",
+          "id": 1662,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "elastic-kibana.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "5103b067e60d29e02938d391c6c429d37ab5bfefd4beef9fb2965623066d7558",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-kibana.svg",
+          "version": 0
+        },
+        {
+          "bytes": 393,
+          "collection": "TechIcons / Devicon",
+          "file": "elastic-kibana-1.svg",
+          "id": 5141,
+          "is_default": false,
+          "label": "TechIcons · Kibana",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Kibana.svg",
+            "original_sha256": "836bb17d110cf81c4081f33a666f2cd035908546a4bd4eea7f627b16f2def5f9",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/kibana",
+            "reference_website": "https://www.elastic.co/kibana"
+          },
+          "sha256": "fe6edb3e80fc4bae321991172530c6922a3ee0e6235e3a47223bfa95fc0bb9cd",
+          "source": "https://techicons.dev/icons/kibana",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "kibana"
+      "next_version": 2
     },
     {
+      "id": 703,
+      "key": "logstash",
       "title": "Logstash",
       "url": "https://www.elastic.co/logstash",
       "domains": [
@@ -103,24 +208,44 @@
       "notes": [],
       "icons": [
         {
-          "file": "elastic-logstash.svg",
-          "version": 0,
-          "label": "彩色版本",
-          "is_default": true,
-          "sha256": "f841c8c8b4116db7a910cbfd2d01196a055326e4b260fd6b6eb2dff9bcdd842a",
           "bytes": 392,
-          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-logstash.svg",
+          "collection": "Dashboard Icons",
+          "file": "elastic-logstash.svg",
+          "id": 1663,
+          "is_default": true,
+          "label": "彩色版本",
           "license": "Apache-2.0；商标归各品牌权利人",
           "method": "downloaded-svg",
-          "collection": "Dashboard Icons",
           "provenance": {
             "original_file": "elastic-logstash.svg",
             "repository": "https://github.com/homarr-labs/dashboard-icons"
-          }
+          },
+          "sha256": "f841c8c8b4116db7a910cbfd2d01196a055326e4b260fd6b6eb2dff9bcdd842a",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/elastic-logstash.svg",
+          "version": 0
+        },
+        {
+          "bytes": 308,
+          "collection": "TechIcons / Devicon",
+          "file": "elastic-logstash-1.svg",
+          "id": 5142,
+          "is_default": false,
+          "label": "TechIcons · Logstash",
+          "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+          "method": "user-provided-svg",
+          "provenance": {
+            "original_file": "Logstash.svg",
+            "original_sha256": "01fe7b38a1a5c40c789f6ed15e43049556569be1cc48330d20c11d3d6ff71ae7",
+            "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+            "reference": "https://techicons.dev/icons/logstash",
+            "reference_website": "https://www.elastic.co/logstash"
+          },
+          "sha256": "703606ad0d5fb31d7f818587ebc43cac4c29a26280d1989e68661f2222a40f78",
+          "source": "https://techicons.dev/icons/logstash",
+          "version": 1
         }
       ],
-      "next_version": 1,
-      "key": "logstash"
+      "next_version": 2
     }
   ]
 }

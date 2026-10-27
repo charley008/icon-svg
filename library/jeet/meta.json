@@ -1,0 +1,45 @@
+{
+  "collection_id": 3149,
+  "schema_version": 1,
+  "id": 3397,
+  "title": "Jeet",
+  "url": "http://jeet.gs",
+  "domains": [
+    "jeet.gs"
+  ],
+  "description": "用于 Web 页面布局的栅格系统。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Jeet",
+    "jeet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4039,
+      "collection": "TechIcons / Devicon",
+      "file": "jeet-1.svg",
+      "id": 5216,
+      "is_default": true,
+      "label": "TechIcons · Jeet",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Jeet.svg",
+        "original_sha256": "23941701db8a7ebf2272ef3a88fb28446e59f3efb221f0170e5fbde9b8330b48",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/jeet",
+        "reference_website": "http://jeet.gs"
+      },
+      "sha256": "3957cf58825759f8cbfcf54017c7e4f07b864fde4912d8b5fcbf596443203e93",
+      "source": "https://techicons.dev/icons/jeet",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1490,
+  "schema_version": 1,
+  "id": 1717,
+  "title": "Homelable",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "homelable"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1018,
+      "collection": "Dashboard Icons",
+      "file": "homelable.svg",
+      "id": 2951,
+      "is_default": true,
+      "label": "homelable",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "homelable.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b3e43eca349b07bd83e23ca2b273568effbc154c60ed476344165fde2866ddf7"
+      },
+      "sha256": "049bb4af2cb9ecd435202a98501b3c10522700e8525a0821b6ec4d3643ae3b72",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/homelable.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

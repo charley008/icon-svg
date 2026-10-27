@@ -1,0 +1,59 @@
+{
+  "collection_id": 2226,
+  "schema_version": 1,
+  "id": 2453,
+  "title": "Proxcenter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "proxcenter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2271,
+      "collection": "Dashboard Icons",
+      "file": "proxcenter.svg",
+      "id": 3944,
+      "is_default": true,
+      "label": "proxcenter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "proxcenter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2baa84af0a2ddaa9f73e3eb794664c25e67207242b0ee1725e973988ccdf06ec"
+      },
+      "sha256": "acf03a9d5f622ca9c60d5648a22abcdbab72132341ad72265e08cf2d21bcd225",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxcenter.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2271,
+      "collection": "Dashboard Icons",
+      "file": "proxcenter-1.svg",
+      "id": 3945,
+      "is_default": false,
+      "label": "proxcenter-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "proxcenter-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c5e9e003bd3f26960826ab4a33b41d3dfd601098a7512da64fa63c4e7e780f9b"
+      },
+      "sha256": "d5a30286d7cb99b87b4a06f66f97b346d5c3dafd9fffd62895e389d818de75ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/proxcenter-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,64 @@
+{
+  "collection_id": 2975,
+  "schema_version": 1,
+  "id": 3202,
+  "redirect_from": [
+    3203
+  ],
+  "title": "Wikidata",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wikidata",
+    "wikidata-wordmark-light",
+    "Wikidata Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 527,
+      "collection": "Dashboard Icons",
+      "file": "wikidata.svg",
+      "id": 4913,
+      "is_default": true,
+      "label": "wikidata",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikidata.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f04380628e2bbd80a733ce3a8000e40c431b0330df8a182c0f28a118b20030e5"
+      },
+      "sha256": "a7025e3766ce420f01cec5554c1001490dcd55854e1ebeed0881474c390b5538",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikidata.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2601,
+      "collection": "Dashboard Icons",
+      "file": "wikidata-1.svg",
+      "id": 4914,
+      "is_default": false,
+      "label": "wikidata-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wikidata-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "765c55637eeddb32ec913ab5e5b24d686a816425162c8efda08c41e960a383ac"
+      },
+      "sha256": "f54230ee5c79436fe21f961b18864bd705f595af4e60eef284cf013e70e1130c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wikidata-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

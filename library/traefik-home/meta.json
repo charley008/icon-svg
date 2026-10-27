@@ -1,0 +1,40 @@
+{
+  "collection_id": 2828,
+  "schema_version": 1,
+  "id": 3055,
+  "title": "Traefik Home",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "traefik-home"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1562,
+      "collection": "Dashboard Icons",
+      "file": "traefik-home.svg",
+      "id": 4721,
+      "is_default": true,
+      "label": "traefik-home",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "traefik-home.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "83e10803fdf41ba9701ffe646cfc679f7c6abc05e1500b799e1ce7c41424bbd3"
+      },
+      "sha256": "5c436aad682b183b7a30ddd9aeca2560bb3cd79620db6a3a73ced6bbaf6b1178",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/traefik-home.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

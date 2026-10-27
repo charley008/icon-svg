@@ -1,0 +1,41 @@
+{
+  "collection_id": 2736,
+  "schema_version": 1,
+  "id": 2963,
+  "title": "Syncplay",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "syncplay"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3053,
+      "collection": "Dashboard Icons",
+      "file": "syncplay.svg",
+      "id": 4602,
+      "is_default": true,
+      "label": "syncplay",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "syncplay.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e436aeedb467de1c52947c98a7f8276dd5059b615c58ce2a2ccc4374a55133de"
+      },
+      "sha256": "0b7065cb18d185f4ac51be22158a9c4fe4034c6e49f2063bba1eea16b752b848",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/syncplay.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

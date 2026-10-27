@@ -23,6 +23,7 @@ type App struct {
 	store        *Store
 	data, origin string
 	secure       bool
+	version      string
 	templates    *template.Template
 	files        AppResources
 	scanInterval atomic.Int64
@@ -36,6 +37,7 @@ func newApp(s *Store, data, origin string, secure bool, resources ...AppResource
 	if len(resources) > 0 {
 		files = resources[0]
 	}
+	var a *App
 	t, e := template.New("").Funcs(template.FuncMap{"metaFields": func(m GroupMeta, c []string) CategoryField { return CategoryField{m, c} }, "join": strings.Join, "add": func(a, b int) int { return a + b }, "asset": func(value any) string {
 		var i Icon
 		switch v := value.(type) {
@@ -50,11 +52,11 @@ func newApp(s *Store, data, origin string, secure bool, resources ...AppResource
 			return ""
 		}
 		return fmt.Sprintf("/assets/%d/%s", i.ID, i.Meta.SHA)
-	}, "kb": func(n int) string { return fmt.Sprintf("%.1f", float64(n)/1024) }}).ParseFS(files.Web, "templates/*.html")
+	}, "appVersion": func() string { return a.version }, "kb": func(n int) string { return fmt.Sprintf("%.1f", float64(n)/1024) }}).ParseFS(files.Web, "templates/*.html")
 	if e != nil {
 		return nil, fmt.Errorf("读取 web/templates 失败，请解压完整安装包：%w", e)
 	}
-	a := &App{store: s, data: data, origin: strings.TrimRight(origin, "/"), secure: secure, templates: t, files: files, scanChanged: make(chan struct{}, 1)}
+	a = &App{store: s, data: data, origin: strings.TrimRight(origin, "/"), secure: secure, templates: t, files: files, version: "dev", scanChanged: make(chan struct{}, 1)}
 	if err := a.configureScanInterval(5 * time.Minute); err != nil {
 		return nil, err
 	}
@@ -89,6 +91,8 @@ func (a *App) routes() http.Handler {
 	mux.Handle("POST /admin/library/schedule", a.auth(http.HandlerFunc(a.saveScanSchedule)))
 	mux.Handle("GET /admin/backup-database", a.auth(http.HandlerFunc(a.backupDatabase)))
 	mux.Handle("POST /admin/library/scan", a.auth(http.HandlerFunc(a.scanLibrary)))
+	mux.Handle("POST /admin/library/import", a.auth(http.HandlerFunc(a.importLibrary)))
+	mux.Handle("GET /admin/library/export", a.auth(http.HandlerFunc(a.exportFullLibrary)))
 	mux.Handle("GET /admin/settings", a.auth(http.HandlerFunc(a.adminSettings)))
 	mux.Handle("POST /admin/categories/{action}", a.auth(http.HandlerFunc(a.categoryAction)))
 	mux.Handle("GET /admin/brands/{id}", a.auth(http.HandlerFunc(a.adminBrand)))
@@ -122,7 +126,11 @@ func (a *App) headers(next http.Handler) http.Handler {
 			w.Header().Set("Cache-Control", "no-store")
 		}
 		if r.Method != "GET" && r.Method != "HEAD" {
-			r.Body = http.MaxBytesReader(w, r.Body, maxSVG+128*1024)
+			limit := int64(maxSVG + 128*1024)
+			if r.URL.Path == "/admin/library/import" {
+				limit = maxLibraryZIP + 128*1024
+			}
+			r.Body = http.MaxBytesReader(w, r.Body, limit)
 			origin := r.Header.Get("Origin")
 			expected := a.origin
 			if expected == "" {
@@ -136,12 +144,12 @@ func (a *App) headers(next http.Handler) http.Handler {
 				http.Error(w, "不允许跨站操作", 403)
 				return
 			}
-			if r.ContentLength > maxSVG+128*1024 {
+			if r.ContentLength > limit {
 				http.Error(w, "文件过大", 413)
 				return
 			}
 		}
-		if r.URL.Path != "/admin/library/scan" {
+		if r.URL.Path != "/admin/library/scan" && r.URL.Path != "/admin/library/import" {
 			a.store.viewMu.RLock()
 			defer a.store.viewMu.RUnlock()
 		}
@@ -333,7 +341,11 @@ func (a *App) home(w http.ResponseWriter, r *http.Request) {
 		if p.Brand != "" && g.Brand != p.Brand {
 			continue
 		}
-		if favoriteFilter && !favorites[strconv.FormatInt(g.ID, 10)] {
+		isFavorite := favorites[strconv.FormatInt(g.ID, 10)]
+		for _, oldID := range g.Meta.RedirectFrom {
+			isFavorite = isFavorite || favorites[strconv.FormatInt(oldID, 10)]
+		}
+		if favoriteFilter && !isFavorite {
 			continue
 		}
 		filtered = append(filtered, g)
@@ -378,6 +390,14 @@ func (a *App) home(w http.ResponseWriter, r *http.Request) {
 }
 func (a *App) detail(w http.ResponseWriter, r *http.Request) {
 	g, e := groupByID(a.store.db, requestID(r))
+	if errors.Is(e, sql.ErrNoRows) {
+		var target int64
+		err := a.store.db.QueryRow(`SELECT g.id FROM groups g JOIN brands b ON b.id=g.brand_id JOIN json_each(g.metadata,'$.redirect_from') old WHERE old.value=? AND b.published=1 AND b.deleted=0 AND g.published=1 AND g.deleted=0 AND EXISTS(SELECT 1 FROM icons i WHERE i.group_id=g.id AND i.deleted=0)`, requestID(r)).Scan(&target)
+		if err == nil {
+			http.Redirect(w, r, "/detail/"+strconv.FormatInt(target, 10), http.StatusPermanentRedirect)
+			return
+		}
+	}
 	if e != nil {
 		renderError(w, e)
 		return

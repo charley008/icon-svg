@@ -165,9 +165,47 @@
       "sha256": "a7f26d96be2a328fe91345d3bc1a06f6a25fb4dba49f72c81df0b6ba2674cf70",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#baidu-fill",
       "version": 5
+    },
+    {
+      "bytes": 1446,
+      "collection": "Dashboard Icons",
+      "file": "baidu-6.svg",
+      "id": 2077,
+      "is_default": false,
+      "label": "baidu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baidu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c06b13de3ac002d1913b2ca7c74508e9333bddbb0f487672f50d3f204795dd55"
+      },
+      "sha256": "05e95456b97a0c1ae2c4213c07652703f4eadb42bf5a67c5fffb482a183e5333",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/baidu.svg",
+      "version": 6
+    },
+    {
+      "bytes": 1446,
+      "collection": "Dashboard Icons",
+      "file": "baidu-7.svg",
+      "id": 2078,
+      "is_default": false,
+      "label": "baidu-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "baidu-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "726ca9207d45ee1e81ad2bf1aea7d2741b7a840f6615b7c50504c4929ea1637c"
+      },
+      "sha256": "bd2482ed679744ba2a163517aae93976327188c0c20af40d41fff15ebe0365ce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/baidu-light.svg",
+      "version": 7
     }
   ],
-  "next_version": 6,
+  "next_version": 8,
   "products": [
     {
       "id": 83,

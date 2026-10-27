@@ -1,0 +1,40 @@
+{
+  "collection_id": 2447,
+  "schema_version": 1,
+  "id": 2674,
+  "title": "Quetre",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "quetre"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1306,
+      "collection": "Dashboard Icons",
+      "file": "quetre.svg",
+      "id": 4237,
+      "is_default": true,
+      "label": "quetre",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quetre.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a00291f78834e453890dcaeea61d98122635034a18d76ca606c4f99bf9c97fab"
+      },
+      "sha256": "e4719c502f9f73fbdacb629210b86ebaf9557206657331893d855dccd0d0454d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/quetre.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

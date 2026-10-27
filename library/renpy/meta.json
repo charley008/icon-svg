@@ -1,0 +1,45 @@
+{
+  "collection_id": 3221,
+  "schema_version": 1,
+  "id": 3484,
+  "title": "Ren'Py",
+  "url": "https://www.renpy.org",
+  "domains": [
+    "renpy.org"
+  ],
+  "description": "用于视觉小说和叙事游戏开发的引擎。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Ren'Py",
+    "renpy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 74674,
+      "collection": "TechIcons / Devicon",
+      "file": "renpy-1.svg",
+      "id": 5342,
+      "is_default": true,
+      "label": "TechIcons · Ren'Py",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ren'Py.svg",
+        "original_sha256": "3fc2b2e68d987436392315f43848ce12d3bba2f1b6b44f49b414dab185ae763f",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/renpy",
+        "reference_website": "https://www.renpy.org"
+      },
+      "sha256": "3a4acb6c856d52015608136a29f74f1c092ef0883cf8ba297e65ed493e890810",
+      "source": "https://techicons.dev/icons/renpy",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2945,
+  "schema_version": 1,
+  "id": 3172,
+  "title": "Wakapi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wakapi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1507,
+      "collection": "Dashboard Icons",
+      "file": "wakapi.svg",
+      "id": 4873,
+      "is_default": true,
+      "label": "wakapi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wakapi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40c001d25ad5fcf68dde311164f781dc37aabbc5d6c2afaab0ca28129fd696a6"
+      },
+      "sha256": "9c9cc8dc5e7eb664cb28cdf8598558250c618fcbd05cc485617b96987add531f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wakapi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

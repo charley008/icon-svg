@@ -1,0 +1,59 @@
+{
+  "collection_id": 2544,
+  "schema_version": 1,
+  "id": 2771,
+  "title": "Sailfishos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sailfishos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1882,
+      "collection": "Dashboard Icons",
+      "file": "sailfishos.svg",
+      "id": 4359,
+      "is_default": true,
+      "label": "sailfishos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sailfishos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d6c6b1157d6a31454045880363554fa93d28297036c23f9a748e20749d573251"
+      },
+      "sha256": "8539dd529899f138a501e29e48348ce453675c0b468b22ab7bad90364644bb9c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sailfishos.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1879,
+      "collection": "Dashboard Icons",
+      "file": "sailfishos-1.svg",
+      "id": 4360,
+      "is_default": false,
+      "label": "sailfishos-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sailfishos-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "db7080ca0efed811d5890f65b994f0e8465b44c957017d0f787f317b365771e6"
+      },
+      "sha256": "58ee543f8794a00b09dda6a9948865a37a659397cbd2305111bc1a2907dfdba0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sailfishos-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

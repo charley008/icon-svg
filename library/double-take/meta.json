@@ -1,0 +1,64 @@
+{
+  "collection_id": 1150,
+  "schema_version": 1,
+  "id": 1377,
+  "title": "Double Take",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Smart-Home",
+    "Home-Automation",
+    "系统工具"
+  ],
+  "aliases": [
+    "double-take",
+    "ai-face-recognition",
+    "object-detection"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1949,
+      "collection": "Dashboard Icons",
+      "file": "double-take.svg",
+      "id": 2494,
+      "is_default": true,
+      "label": "double-take",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "double-take.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "634967fc11f7c9ce3e08c75803261994fff370aee42cedceb185c108516147f7"
+      },
+      "sha256": "d328f50fe7460727b49528421713bf167b886cf941faa3fcbd9639c0f0b5f2d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/double-take.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1949,
+      "collection": "Dashboard Icons",
+      "file": "double-take-1.svg",
+      "id": 2495,
+      "is_default": false,
+      "label": "double-take-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "double-take-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6aa1f35821606ee30fa799ecfb1c8a98825d0ad1e571931779de87913a33615f"
+      },
+      "sha256": "3363e2dfbb25cfe89aaed776a6739de326a68542a8c2fe1ed3a6832e55b62fd9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/double-take-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

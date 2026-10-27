@@ -1,0 +1,102 @@
+{
+  "collection_id": 1194,
+  "schema_version": 1,
+  "id": 1421,
+  "redirect_from": [
+    1422
+  ],
+  "title": "Emeraldhost",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "emeraldhost",
+    "emeraldhost-wordmark-dark",
+    "Emeraldhost Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4401,
+      "collection": "Dashboard Icons",
+      "file": "emeraldhost.svg",
+      "id": 2553,
+      "is_default": true,
+      "label": "emeraldhost",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emeraldhost.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a3a088a5650645d3fce43a8168d4db5a99b857016557b6dda77cb86ba7614b09"
+      },
+      "sha256": "e85df4aaced3b46805387420da3743e2e3e6d0ed483c7b44744cdbd1fb4ca693",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emeraldhost.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4401,
+      "collection": "Dashboard Icons",
+      "file": "emeraldhost-1.svg",
+      "id": 2554,
+      "is_default": false,
+      "label": "emeraldhost-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emeraldhost-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e22d2942880df746e0273ee1bbee78a47a01eb4b1b46613621c3236a185f8262"
+      },
+      "sha256": "c66eb580038bf07264fc3432f3a44f2e15e584ebdaba6ceaf87e22a02acd0cd4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emeraldhost-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4401,
+      "collection": "Dashboard Icons",
+      "file": "emeraldhost-2.svg",
+      "id": 2555,
+      "is_default": false,
+      "label": "emeraldhost-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emeraldhost-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9d7f77ac0e1109dd981f3fcc7bef141d3fc550260d2e32e7bba60e5d073acaf9"
+      },
+      "sha256": "38f90f0b8af2b648b2b2c39a57d68349ab231c04407daeed2c2e50119f6779b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emeraldhost-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 6733,
+      "collection": "Dashboard Icons",
+      "file": "emeraldhost-3.svg",
+      "id": 2556,
+      "is_default": false,
+      "label": "emeraldhost-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "emeraldhost-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "423d391bb65d0e301c1790d6f6173d2afee5bb57333b0fe9fd836bc2c3ea46cc"
+      },
+      "sha256": "d69e82ae76093f4304ec654919465658d15ec392258f8fcddd63bb4b435184f8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/emeraldhost-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

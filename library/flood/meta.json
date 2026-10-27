@@ -1,0 +1,40 @@
+{
+  "collection_id": 1295,
+  "schema_version": 1,
+  "id": 1522,
+  "title": "Flood",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "flood"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 890,
+      "collection": "Dashboard Icons",
+      "file": "flood.svg",
+      "id": 2682,
+      "is_default": true,
+      "label": "flood",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "flood.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "410226cefae3326f22418688248fd3b7458ce5861a6b68fc4c291308d11c3305"
+      },
+      "sha256": "4ee2ff26a3ad32f36b9707a2789f9a8d0de70148ace6f902d8483925a50ca2ff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/flood.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

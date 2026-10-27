@@ -1,0 +1,40 @@
+{
+  "collection_id": 2231,
+  "schema_version": 1,
+  "id": 2458,
+  "title": "Prusa Research",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "prusa-research"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6872,
+      "collection": "Dashboard Icons",
+      "file": "prusa-research.svg",
+      "id": 3955,
+      "is_default": true,
+      "label": "prusa-research",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "prusa-research.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5425d83e5d321b375e7eb904f5626bbc7965043a6fcb9120168756219c4e9564"
+      },
+      "sha256": "1c18a7892f16b8251318e3996f952324d515620200ec59cdffc76a3690a6736e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prusa-research.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

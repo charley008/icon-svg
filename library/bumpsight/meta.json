@@ -1,0 +1,40 @@
+{
+  "collection_id": 916,
+  "schema_version": 1,
+  "id": 1143,
+  "title": "Bumpsight",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bumpsight"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 684,
+      "collection": "Dashboard Icons",
+      "file": "bumpsight.svg",
+      "id": 2184,
+      "is_default": true,
+      "label": "bumpsight",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bumpsight.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39a6f7563ebae39c17f187b57326c0fd00227c0849a693cef3d0c15baa50b091"
+      },
+      "sha256": "5807ea3980dfad51b3270d7ab66e2b973afaac091f441b140399235c79099550",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bumpsight.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 2955,
+  "schema_version": 1,
+  "id": 3182,
+  "title": "Wd Mycloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "File-Sharing-\u0026-Sync",
+    "网盘存储"
+  ],
+  "aliases": [
+    "wd-mycloud",
+    "network-attached-storage",
+    "personal-cloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2492,
+      "collection": "Dashboard Icons",
+      "file": "wd-mycloud.svg",
+      "id": 4887,
+      "is_default": true,
+      "label": "wd-mycloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wd-mycloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40e886c34723abbbfe4233e0d13f8a4b008565df48bab318181dbb259c1024a6"
+      },
+      "sha256": "7edaae6f6bc4504f5eaf6bd3c3c6ce11843ef82df159984f5b22d24417b2544c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wd-mycloud.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

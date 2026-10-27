@@ -1,0 +1,40 @@
+{
+  "collection_id": 1520,
+  "schema_version": 1,
+  "id": 1747,
+  "title": "Iba",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "其他",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "iba"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1375,
+      "collection": "Dashboard Icons",
+      "file": "iba.svg",
+      "id": 2986,
+      "is_default": true,
+      "label": "iba",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iba.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "41ec87cb391cb49cc25933bb4083256403bf3d702f426c65319b24f821085aa7"
+      },
+      "sha256": "c70a7bc00bfe9e6e2a439ae90a404943be6879ea717c63872615d773be4b8abb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iba.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -126,8 +126,28 @@
       "sha256": "aed6cfb18746c33ddc99c2cf7b892ebec0b4e1ceb314b1f56a291b1b1a742173",
       "source": "https://raw.githubusercontent.com/HeyHuazi/SVGLOGO/main/static/library/tools/Canva_wordmark.svg",
       "version": 4
+    },
+    {
+      "bytes": 3598,
+      "collection": "TechIcons / Devicon",
+      "file": "canva-5.svg",
+      "id": 5100,
+      "is_default": false,
+      "label": "TechIcons · Canva",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Canva.svg",
+        "original_sha256": "56cd98419761b907cc959d3dae1c5dc74bbb47ec66071ae2ea4aeede0df3d916",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/canva",
+        "reference_website": "https://www.canva.com"
+      },
+      "sha256": "b309f47093ff76f5991fb072b10b64123e24eb82437e53d54c782af74f399a4a",
+      "source": "https://techicons.dev/icons/canva",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

@@ -1,0 +1,59 @@
+{
+  "collection_id": 1677,
+  "schema_version": 1,
+  "id": 1904,
+  "title": "Lancommander",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lancommander"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 553,
+      "collection": "Dashboard Icons",
+      "file": "lancommander.svg",
+      "id": 3180,
+      "is_default": true,
+      "label": "lancommander",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancommander.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc370ad65c2e9d96f3421b63b27c758277d52e6c80277883609df6afaf9ab46a"
+      },
+      "sha256": "e99518ba7e3c4edb5daff8627a593a3803c92b94633835bf76aac6e33df83d90",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancommander.svg",
+      "version": 0
+    },
+    {
+      "bytes": 550,
+      "collection": "Dashboard Icons",
+      "file": "lancommander-1.svg",
+      "id": 3181,
+      "is_default": false,
+      "label": "lancommander-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancommander-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca1bb5cec6153b7db8a14fe65079ef6472b63004e2c30d1a4d5215902094f54b"
+      },
+      "sha256": "af1c2f15ad0cd35b246b9ba2040061b8a475f5d1945ac0b46e5314ea5a18b836",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancommander-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

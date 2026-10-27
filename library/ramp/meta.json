@@ -1,0 +1,61 @@
+{
+  "collection_id": 2464,
+  "schema_version": 1,
+  "id": 2691,
+  "title": "Ramp",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "ramp"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 497,
+      "collection": "Dashboard Icons",
+      "file": "ramp.svg",
+      "id": 4254,
+      "is_default": true,
+      "label": "ramp",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ramp.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6c4fded3be481a1cc45bdf70520a4231c1474faad784fae305dafa5a87c898ab"
+      },
+      "sha256": "47da8cccc2abcd47a2591b5f300ca38084d0642362cb58af18de2e43053c1f61",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ramp.svg",
+      "version": 0
+    },
+    {
+      "bytes": 497,
+      "collection": "Dashboard Icons",
+      "file": "ramp-1.svg",
+      "id": 4255,
+      "is_default": false,
+      "label": "ramp-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ramp-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8c41dd989ff7fd8f99da133c86b862334e4d8537f1e52363e27815ed96cf08c"
+      },
+      "sha256": "e612fd63be452d6619246facfd70047c9b6c612d49caa8b550d686dae5ef459e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ramp-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

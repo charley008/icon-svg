@@ -1,0 +1,63 @@
+{
+  "collection_id": 975,
+  "schema_version": 1,
+  "id": 1202,
+  "title": "Cinny",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "Social-Media",
+    "社交通讯"
+  ],
+  "aliases": [
+    "cinny",
+    "Matrix Client"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 480,
+      "collection": "Dashboard Icons",
+      "file": "cinny.svg",
+      "id": 2256,
+      "is_default": true,
+      "label": "cinny",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cinny.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9ed67ce593b01336e6cd4441eb3784de65aab156b8e00b9a7d2c050408adc289"
+      },
+      "sha256": "b0187303617f9c04a0c1c578bf74331256d7307e00f595ffc095130bafc1277a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cinny.svg",
+      "version": 0
+    },
+    {
+      "bytes": 502,
+      "collection": "Dashboard Icons",
+      "file": "cinny-1.svg",
+      "id": 2257,
+      "is_default": false,
+      "label": "cinny-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cinny-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "343e20dcfbf7a9f19d59d96f3eddeade65ceb14cebedcaf7a25a48e62a072ddd"
+      },
+      "sha256": "0c4082b6428d4b60aeb5eb2d1cda8d4e17b513ad898975dd15ea6cf16abc7682",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cinny-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,63 @@
+{
+  "collection_id": 2148,
+  "schema_version": 1,
+  "id": 2375,
+  "title": "Pingvin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "pingvin",
+    "Monitoring Tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1018,
+      "collection": "Dashboard Icons",
+      "file": "pingvin.svg",
+      "id": 3838,
+      "is_default": true,
+      "label": "pingvin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pingvin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3acdf8f19373cb4c4921988732a47f78b25c5da8bba570e6adde6db64cf976de"
+      },
+      "sha256": "37b72b163785c41eda74f07c82e34577807b64d7cb918e8f413aedd56ce7f148",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pingvin.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1021,
+      "collection": "Dashboard Icons",
+      "file": "pingvin-1.svg",
+      "id": 3839,
+      "is_default": false,
+      "label": "pingvin-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pingvin-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "597972142b1e767a90578640119e656521f5e7b1f7057b517ca02f6fc3a8060f"
+      },
+      "sha256": "9a7842ee12799ae6cb07722cb7e1b6e052bbfe45cd0242d8857edb98693134b2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pingvin-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

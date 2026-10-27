@@ -45,8 +45,46 @@
       "sha256": "a76e6e021648e398bc4535f08e2ba412b45e9e811fddb3a0906ca824d4a0fe73",
       "source": "用户优选",
       "version": 0
+    },
+    {
+      "bytes": 1525,
+      "collection": "Dashboard Icons",
+      "file": "godaddy-1.svg",
+      "id": 2789,
+      "is_default": false,
+      "label": "godaddy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "godaddy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c11af308d331b5426c0138a4915fcf0d547d55440d3ffb2a6a62ccc0f2ed5603"
+      },
+      "sha256": "93309352b0796337b9606e8d458249d7fb6374bf6b132aaabd20f0caf098aac9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/godaddy.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4347,
+      "collection": "Dashboard Icons",
+      "file": "godaddy-2.svg",
+      "id": 2790,
+      "is_default": false,
+      "label": "godaddy-alt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "godaddy-alt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68139fd687e1440499ba4076a75274c27d81bbe03eacb4fbd665d46c855db165"
+      },
+      "sha256": "5da0c8520b06e7bbea0c9aa0b117e223c69636684c6b55e377139d4222238e3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/godaddy-alt.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

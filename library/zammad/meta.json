@@ -1,0 +1,44 @@
+{
+  "collection_id": 3043,
+  "schema_version": 1,
+  "id": 3270,
+  "title": "Zammad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Office-Suites",
+    "办公效率"
+  ],
+  "aliases": [
+    "zammad",
+    "customer-support",
+    "ticketing-system"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1977,
+      "collection": "Dashboard Icons",
+      "file": "zammad.svg",
+      "id": 5002,
+      "is_default": true,
+      "label": "zammad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zammad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "efe15ebd10cdb051dda40920ea774a6d5b8df5edb78c378cd6bac31567fed2dd"
+      },
+      "sha256": "c0c716847d658f0c1bec9321f7e34d31991c40ad886b521f7699596ea610427b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zammad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

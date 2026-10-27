@@ -1,0 +1,40 @@
+{
+  "collection_id": 1532,
+  "schema_version": 1,
+  "id": 1759,
+  "title": "Ifc",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ifc"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2917,
+      "collection": "Dashboard Icons",
+      "file": "ifc.svg",
+      "id": 3002,
+      "is_default": true,
+      "label": "ifc",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ifc.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "408b391e15856ce26fd3c12d2557345228d63e681f80e3ee54aa3d7674f81c30"
+      },
+      "sha256": "ce2fcbcd249aa4fed0309b9652b2e0a2da0424bf6fee760c55151fd7ba457114",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ifc.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

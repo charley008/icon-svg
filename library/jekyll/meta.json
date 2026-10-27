@@ -1,0 +1,44 @@
+{
+  "collection_id": 1582,
+  "schema_version": 1,
+  "id": 1809,
+  "title": "Jekyll",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Web-Browsers",
+    "开发编程"
+  ],
+  "aliases": [
+    "jekyll",
+    "Static Site Generator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2216,
+      "collection": "Dashboard Icons",
+      "file": "jekyll.svg",
+      "id": 3069,
+      "is_default": true,
+      "label": "jekyll",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jekyll.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "366ecc367d4049c60a3af187b4bcc027ff60e3d14633d1cbfb33058365393852"
+      },
+      "sha256": "2eeea81db2c2f00397236bac0f068d1d8f0c6146fe4497b7f27ac7392dd3e151",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jekyll.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

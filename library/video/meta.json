@@ -1,0 +1,40 @@
+{
+  "collection_id": 2907,
+  "schema_version": 1,
+  "id": 3134,
+  "title": "Video",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "video"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4970,
+      "collection": "Dashboard Icons",
+      "file": "video.svg",
+      "id": 4827,
+      "is_default": true,
+      "label": "video",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "video.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "acad5264eef2154ba83e5a1153c4e9642898e211887eff72c7fc4e5117a4d43d"
+      },
+      "sha256": "175121b606134fbf6eac2c3e21bb23968288a7156ad37b0dd3cf9879964defb6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/video.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

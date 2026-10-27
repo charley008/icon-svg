@@ -1,4 +1,7 @@
 {
+  "collection_id": 595,
+  "schema_version": 1,
+  "id": 815,
   "title": "Prometheus",
   "url": "https://prometheus.io/",
   "domains": [
@@ -21,23 +24,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "prometheus.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "b8718698ad8afa9ea526a6081f1077f61d974a66b067005469665cfaf88162a6",
       "bytes": 764,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prometheus.svg",
+      "collection": "Dashboard Icons",
+      "file": "prometheus.svg",
+      "id": 1772,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "prometheus.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "b8718698ad8afa9ea526a6081f1077f61d974a66b067005469665cfaf88162a6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/prometheus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1254,
+      "collection": "TechIcons / Devicon",
+      "file": "prometheus-1.svg",
+      "id": 5323,
+      "is_default": false,
+      "label": "TechIcons · Prometheus",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Prometheus.svg",
+        "original_sha256": "98964d3108cfc56d0f2ed76f807d9adbbcd3a00f535a92407e6d793b667ad099",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/prometheus",
+        "reference_website": "https://prometheus.io"
+      },
+      "sha256": "51c8cedfbf5fa777fe57bf2d2eb4162147924fc137a4c0ef0af25961a4fe63ba",
+      "source": "https://techicons.dev/icons/prometheus",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

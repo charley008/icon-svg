@@ -137,8 +137,27 @@
       "sha256": "eac365d95f74a5424ac1223dece7782af43ea2be5e74502f29fc1dbf0b0c717a",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#evernote-line",
       "version": 4
+    },
+    {
+      "bytes": 1640,
+      "collection": "Dashboard Icons",
+      "file": "evernote-5.svg",
+      "id": 2602,
+      "is_default": false,
+      "label": "evernote",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "evernote.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a16f8c37251811907647ef8b96071415ca585d4e71405f43715b293fc3e5cd43"
+      },
+      "sha256": "500e43966fbb4b5b77842dd92a412fb9788c3f02dc049e230ec59059516b3b14",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/evernote.svg",
+      "version": 5
     }
   ],
-  "next_version": 5,
+  "next_version": 6,
   "products": []
 }

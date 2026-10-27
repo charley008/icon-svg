@@ -1,0 +1,59 @@
+{
+  "collection_id": 2858,
+  "schema_version": 1,
+  "id": 3085,
+  "title": "Twingate",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "twingate"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 478,
+      "collection": "Dashboard Icons",
+      "file": "twingate.svg",
+      "id": 4757,
+      "is_default": true,
+      "label": "twingate",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "twingate.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e937a433208a70411b45681b55a95b07e761a5084e81bcaae3b94e1ebfbbaab"
+      },
+      "sha256": "1cd1524c7296835b5cb824fc25c8cba38e6bd1c4a1afa0250a6a67418d565099",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twingate.svg",
+      "version": 0
+    },
+    {
+      "bytes": 478,
+      "collection": "Dashboard Icons",
+      "file": "twingate-1.svg",
+      "id": 4758,
+      "is_default": false,
+      "label": "twingate-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "twingate-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "45f2c9d41acffc349d6b28de5cbb98b1041b93b708af0127872c492f78d14ab5"
+      },
+      "sha256": "bf353f85b6c7975fdb392096ccd83f1c2c00477d412163d0713774e63e230022",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twingate-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

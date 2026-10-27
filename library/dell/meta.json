@@ -37,8 +37,46 @@
       "sha256": "283a0276d6dbd515f2a78e853958e17d6d49eec10b8594313c66305e7dbecf7b",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/dell-1.svg",
       "version": 0
+    },
+    {
+      "bytes": 1167,
+      "collection": "Dashboard Icons",
+      "file": "dell-1.svg",
+      "id": 2410,
+      "is_default": false,
+      "label": "dell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "704917b4ceb8b3d74368f0bb556b4fdb59aee9eaff4f642ef92968e8f89dc4d4"
+      },
+      "sha256": "01eaba6e2444a0372d0d8264370aa209058ad3c631ce2f2978b9f64e0f306291",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dell.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1167,
+      "collection": "Dashboard Icons",
+      "file": "dell-2.svg",
+      "id": 2411,
+      "is_default": false,
+      "label": "dell-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dell-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b58dfe123d93adff91377d8701fea8bd63ce70391f49b6e931eb0983dfdb5e9a"
+      },
+      "sha256": "68d21ee2e165bacc0ca7cb49ac28fc81fd5aed242c6d4d1918cf7c2155dfe93f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dell-light.svg",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

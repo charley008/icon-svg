@@ -1,0 +1,42 @@
+{
+  "collection_id": 1193,
+  "schema_version": 1,
+  "id": 1420,
+  "title": "Embraer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Travel"
+  ],
+  "aliases": [
+    "embraer",
+    "Aircraft Manufacturer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1684,
+      "collection": "Dashboard Icons",
+      "file": "embraer.svg",
+      "id": 2551,
+      "is_default": true,
+      "label": "embraer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "embraer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5400539ec1f90cab7183230bb365c5caee8dbf3b376881d32fd3250708e522d5"
+      },
+      "sha256": "a44660bab5bac59c7da9e68de7686f4318febe104616449431e6f48551861213",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/embraer.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

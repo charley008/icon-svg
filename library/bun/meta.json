@@ -1,0 +1,45 @@
+{
+  "collection_id": 3089,
+  "schema_version": 1,
+  "id": 3328,
+  "title": "Bun",
+  "url": "https://bun.sh",
+  "domains": [
+    "bun.sh"
+  ],
+  "description": "JavaScript 和 TypeScript 运行时及开发工具集。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Bun",
+    "bun"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5603,
+      "collection": "TechIcons / Devicon",
+      "file": "bun-1.svg",
+      "id": 5096,
+      "is_default": true,
+      "label": "TechIcons · Bun",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Bun.svg",
+        "original_sha256": "54664655dec93da013d1fe8f8e1bf3311054708a17b445fdde319e0d7011f93c",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/bun",
+        "reference_website": "https://bun.sh"
+      },
+      "sha256": "241d37f7c1afaeabaf54ce73fb6a69047027c331eaaaaf584e4f84188bc9ed0f",
+      "source": "https://techicons.dev/icons/bun",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

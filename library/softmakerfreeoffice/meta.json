@@ -1,0 +1,40 @@
+{
+  "collection_id": 2647,
+  "schema_version": 1,
+  "id": 2874,
+  "title": "Softmakerfreeoffice",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "softmakerfreeoffice"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3058,
+      "collection": "Dashboard Icons",
+      "file": "softmakerfreeoffice.svg",
+      "id": 4491,
+      "is_default": true,
+      "label": "softmakerfreeoffice",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "softmakerfreeoffice.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0301d427795f63106b82994337b86362696f7af3a15cd38b61c1027329de009a"
+      },
+      "sha256": "f47da831cfd2631f5a1ea19f4ce3d00a14dab1b8bae4e2fc4538b184880fe2f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/softmakerfreeoffice.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

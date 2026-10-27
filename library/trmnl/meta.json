@@ -1,0 +1,42 @@
+{
+  "collection_id": 2838,
+  "schema_version": 1,
+  "id": 3065,
+  "title": "Trmnl",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "trmnl"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1303,
+      "collection": "Dashboard Icons",
+      "file": "trmnl.svg",
+      "id": 4733,
+      "is_default": true,
+      "label": "trmnl",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trmnl.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "108c1387382379914d0cff45daa54d436ab5b19d4f107842c4f2d5e0543e6350"
+      },
+      "sha256": "1b4a24f71d1f894720e375d6a10c3b7984236f2f3d3f0a945fd455b1ef054bff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trmnl.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

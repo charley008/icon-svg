@@ -1,0 +1,40 @@
+{
+  "collection_id": 1246,
+  "schema_version": 1,
+  "id": 1473,
+  "title": "Fasten Health",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fasten-health"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 823,
+      "collection": "Dashboard Icons",
+      "file": "fasten-health.svg",
+      "id": 2623,
+      "is_default": true,
+      "label": "fasten-health",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fasten-health.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e2919ab4424752e522f62e3ac892e21250a8f276bafa52c0a4767c9e17cab7b3"
+      },
+      "sha256": "bea3034e91ea8e1a968002fbcec642ba057d2563c03389922ef62f613470930e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fasten-health.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

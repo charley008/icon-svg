@@ -1,0 +1,124 @@
+{
+  "collection_id": 2184,
+  "schema_version": 1,
+  "id": 2411,
+  "redirect_from": [
+    2412,
+    2413
+  ],
+  "title": "Portabase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "portabase",
+    "portabase-wordmark-light",
+    "Portabase Wordmark Light",
+    "portabase-wordmark-dark",
+    "Portabase Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2211,
+      "collection": "Dashboard Icons",
+      "file": "portabase.svg",
+      "id": 3888,
+      "is_default": true,
+      "label": "portabase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portabase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "429ce1d0ae776bf4cfe317d14240239b9d3bb4d55f06b3d7aba5f720e8cb89f5"
+      },
+      "sha256": "7256fa1d6c7a7f087cec09aaf21f133ec9112410ee7e12e683291567d94bb056",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portabase.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2211,
+      "collection": "Dashboard Icons",
+      "file": "portabase-1.svg",
+      "id": 3889,
+      "is_default": false,
+      "label": "portabase-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portabase-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40e1cbf1fbfebe8781176362a8bef5ed4533f29f71884254584eea1f43481ed3"
+      },
+      "sha256": "d7a4f0ae9f73589eca1630677b10c115aa14dcf80260fd0f96cfbc04d603d369",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portabase-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2209,
+      "collection": "Dashboard Icons",
+      "file": "portabase-2.svg",
+      "id": 3890,
+      "is_default": false,
+      "label": "portabase-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portabase-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "76757595b49f6631f09436465471ac302ae4a118d06610096c6a45adce454451"
+      },
+      "sha256": "c88256b8bf918b9ba55a9588d487b08f69966743945a0f8b528e9f5d210e9e8d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portabase-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 10397,
+      "collection": "Dashboard Icons",
+      "file": "portabase-3.svg",
+      "id": 3892,
+      "is_default": false,
+      "label": "portabase-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portabase-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e6d4a64aefcc7200c9e0bf56205946afb088cd9f83155dbbdb4cd4bdacc3035b"
+      },
+      "sha256": "cdcbbd3fc0c1bd11696f39f46659d9e98c72737686b7bb9cf1dc4de42f017c0b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portabase-wordmark-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 10402,
+      "collection": "Dashboard Icons",
+      "file": "portabase-4.svg",
+      "id": 3891,
+      "is_default": false,
+      "label": "portabase-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portabase-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ca9757b4a008f4373b689ee7347ce092079a955a8f5a2e3845254bfdfebeac53"
+      },
+      "sha256": "a022fbd9910906469fb25436eaaadb699d919442aea9375b7993373ed3142bcd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portabase-wordmark-dark.svg",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

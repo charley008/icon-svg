@@ -1,0 +1,40 @@
+{
+  "collection_id": 734,
+  "schema_version": 1,
+  "id": 961,
+  "title": "App Service",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "app-service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3117,
+      "collection": "Dashboard Icons",
+      "file": "app-service.svg",
+      "id": 1944,
+      "is_default": true,
+      "label": "app-service",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "app-service.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "529d83fc80637a96b6d27f6cfac7536e1c5f9b1b67f58aef4e2e3d6f47fd4925"
+      },
+      "sha256": "43ed8f2f6a69974db8284bdcefce1a4c181cd339ce4e7a463967a28ec629ed19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/app-service.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,78 @@
+{
+  "collection_id": 1563,
+  "schema_version": 1,
+  "id": 1790,
+  "title": "Iplayer",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "iplayer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 416,
+      "collection": "Dashboard Icons",
+      "file": "iplayer.svg",
+      "id": 3042,
+      "is_default": true,
+      "label": "iplayer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iplayer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "847df22d551d9b7e0c52960805fdb62de1c08120f47c03f168aaf17ecf98f03f"
+      },
+      "sha256": "7ae470b84831c9992962f96091a90e121d3fefc2deccd49ef80d881019f94820",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iplayer.svg",
+      "version": 0
+    },
+    {
+      "bytes": 410,
+      "collection": "Dashboard Icons",
+      "file": "iplayer-1.svg",
+      "id": 3043,
+      "is_default": false,
+      "label": "iplayer-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iplayer-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "edd5702c975d27953491671ca9e472071851cd0346f2c4a6eb2377017ad3c415"
+      },
+      "sha256": "5a83f87aac7cb22de1b5f39635cb4d327bc6e5c7f676d72465761acca52aa472",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iplayer-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 410,
+      "collection": "Dashboard Icons",
+      "file": "iplayer-2.svg",
+      "id": 3044,
+      "is_default": false,
+      "label": "iplayer-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "iplayer-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a71245d45a468a8eafc6dc465581ee7704fbd51ce03186a4570558c72a0447a"
+      },
+      "sha256": "e00dd418bf1dd82e1e3acebac36d9b8a2a39345c65b8af546ec65b4f1272c53d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/iplayer-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

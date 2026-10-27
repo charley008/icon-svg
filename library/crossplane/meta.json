@@ -1,0 +1,59 @@
+{
+  "collection_id": 1040,
+  "schema_version": 1,
+  "id": 1267,
+  "title": "Crossplane",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "crossplane"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5890,
+      "collection": "Dashboard Icons",
+      "file": "crossplane.svg",
+      "id": 2346,
+      "is_default": true,
+      "label": "crossplane",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crossplane.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "57f19a06b17a324a45226b801aabdee26dae3598647843364b962c4bf9769316"
+      },
+      "sha256": "8dc0eddb524e198152de46261efa30a7e0f49fd6210202ad5897d0331caf6d66",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crossplane.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1313,
+      "collection": "Dashboard Icons",
+      "file": "crossplane-1.svg",
+      "id": 2347,
+      "is_default": false,
+      "label": "crossplane-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "crossplane-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ec9a0f3474f5d9439e5958b0986977f7c5536e94d6651f4c07b055739497f737"
+      },
+      "sha256": "080230070ff9d15c66a0a61d3a4f12155f2e66dd37cc64a8b37778f5d424ff53",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/crossplane-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

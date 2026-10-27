@@ -1,0 +1,45 @@
+{
+  "collection_id": 1703,
+  "schema_version": 1,
+  "id": 1930,
+  "title": "Lidarr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music-Streaming",
+    "Media-Servers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "lidarr",
+    "music-library-manager",
+    "audio-downloader"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 43414,
+      "collection": "Dashboard Icons",
+      "file": "lidarr.svg",
+      "id": 3222,
+      "is_default": true,
+      "label": "lidarr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lidarr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f55f69450a0ca03621e87550e81ec0f6798c4a578b54e4b988a9a7234a83647"
+      },
+      "sha256": "12ecc6df644a5a61bbe0f999e71d799fea1a6ad4131f71bca75e6b91e44d0762",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lidarr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

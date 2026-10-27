@@ -1,0 +1,40 @@
+{
+  "collection_id": 685,
+  "schema_version": 1,
+  "id": 912,
+  "title": "Akvorado",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "akvorado"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 91330,
+      "collection": "Dashboard Icons",
+      "file": "akvorado.svg",
+      "id": 1876,
+      "is_default": true,
+      "label": "akvorado",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "akvorado.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b35e0a43841a3a2c7a8b0fe36c377336511b92bd65092219e2bddee9520c1311"
+      },
+      "sha256": "bee416e92a74fdb3fa065e82d2c2e0a523e25699f0043916f36e78b1d8fd22b7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/akvorado.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

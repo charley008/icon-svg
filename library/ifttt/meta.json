@@ -1,0 +1,45 @@
+{
+  "collection_id": 3144,
+  "schema_version": 1,
+  "id": 3392,
+  "title": "IFTTT",
+  "url": "https://ifttt.com",
+  "domains": [
+    "ifttt.com"
+  ],
+  "description": "用于连接应用、设备和服务的自动化工具。",
+  "category": "办公效率",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "IFTTT",
+    "ifttt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 334,
+      "collection": "TechIcons / Devicon",
+      "file": "ifttt-1.svg",
+      "id": 5208,
+      "is_default": true,
+      "label": "TechIcons · IFTTT",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "IFTTT.svg",
+        "original_sha256": "76188672acff80d5aec8f422a0bb99a57e65d25128b9bfb4648fe18d7c7cb879",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ifttt",
+        "reference_website": "https://ifttt.com"
+      },
+      "sha256": "f6ec85d3cee5faff1cab343c525a08cee5dd2e258a7f0dc88a66da922c932a99",
+      "source": "https://techicons.dev/icons/ifttt",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 2921,
+  "schema_version": 1,
+  "id": 3148,
+  "title": "Vite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "vite",
+    "vite-js vite-ts"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1569,
+      "collection": "Dashboard Icons",
+      "file": "vite.svg",
+      "id": 4846,
+      "is_default": true,
+      "label": "vite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "63a264571d3a85cde99dceee29618929ed5a930145a64f86844ddb7e6b831127"
+      },
+      "sha256": "d92d426f74ec9a0b9f2c511bdd3ca0dde790beb4dc7497e4e19c7ef83a10c521",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vite.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

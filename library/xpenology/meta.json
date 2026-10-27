@@ -1,0 +1,78 @@
+{
+  "collection_id": 3013,
+  "schema_version": 1,
+  "id": 3240,
+  "title": "Xpenology",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "xpenology"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 769,
+      "collection": "Dashboard Icons",
+      "file": "xpenology.svg",
+      "id": 4964,
+      "is_default": true,
+      "label": "xpenology",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xpenology.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fad3cc5e2c9aea237fe3d43c038186ac4cb8b939b5c27474ca3c24111b0f2963"
+      },
+      "sha256": "0dd376fc79603874a67ff10798266fa479d4421fc39b2b5c3d3378d532553ca1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xpenology.svg",
+      "version": 0
+    },
+    {
+      "bytes": 772,
+      "collection": "Dashboard Icons",
+      "file": "xpenology-1.svg",
+      "id": 4965,
+      "is_default": false,
+      "label": "xpenology-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xpenology-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a6070c63c547519d6b322d68df17303a9f5fe45d6b94a4335229ab3e83e43d3"
+      },
+      "sha256": "95fca7fccf25ae7667bbd6f9d9843291fe7b206fba56bdf6e2dd87158bc8eba3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xpenology-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 757,
+      "collection": "Dashboard Icons",
+      "file": "xpenology-2.svg",
+      "id": 4966,
+      "is_default": false,
+      "label": "xpenology-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "xpenology-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbb17351520ceb8637447380363b44f629ddc93032c3bdaf21dc655e5b846569"
+      },
+      "sha256": "72cc0357545c68f56397ce06cd23b116e8bc953deaeb2efa6dfda74f9e74bd5b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/xpenology-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,0 +1,43 @@
+{
+  "collection_id": 1106,
+  "schema_version": 1,
+  "id": 1333,
+  "title": "Dilg",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "dilg",
+    "dilg-2025"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3914776,
+      "collection": "Dashboard Icons",
+      "file": "dilg.svg",
+      "id": 2437,
+      "is_default": true,
+      "label": "dilg",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dilg.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7d95a92406d2478c646841e10460702fcf4dfc9e534f4b2668c85e5b6d1127c9"
+      },
+      "sha256": "2ca4bed9f436188946278d125e0ec18ee4e854d0b54fa8e2e7e09ddef1e7fb6c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dilg.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

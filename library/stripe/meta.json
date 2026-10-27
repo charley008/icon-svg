@@ -131,8 +131,46 @@
       "sha256": "27306d0e28f50488a2c21e1c9b81e171811fa093bf64bc96d234e82f1b7deea6",
       "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stripe.svg",
       "version": 4
+    },
+    {
+      "bytes": 643,
+      "collection": "Dashboard Icons",
+      "file": "stripe-5.svg",
+      "id": 4569,
+      "is_default": false,
+      "label": "stripe-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "262813325b90e5ec2d96777b4ecb0bb2b6058b4d45293913d106d51651c7d283"
+      },
+      "sha256": "a4c87532983bb9a390d7fb48bd9a94b31f5c8ca6ce6e5f8401129a19b79c77eb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stripe-dark.svg",
+      "version": 5
+    },
+    {
+      "bytes": 643,
+      "collection": "Dashboard Icons",
+      "file": "stripe-6.svg",
+      "id": 4570,
+      "is_default": false,
+      "label": "stripe-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stripe-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e71055c5783431c670283b94c58512e12448bd6afd94eaa80d12af538dee76d6"
+      },
+      "sha256": "bfa44fccadfd9ff043cdf75b1f84e9b16b842a7b6110cf65269ac4a907a64973",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stripe-light.svg",
+      "version": 6
     }
   ],
-  "next_version": 5,
+  "next_version": 7,
   "products": []
 }

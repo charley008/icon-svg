@@ -1,0 +1,42 @@
+{
+  "collection_id": 3042,
+  "schema_version": 1,
+  "id": 3269,
+  "title": "Zalo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "zalo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3312,
+      "collection": "Dashboard Icons",
+      "file": "zalo.svg",
+      "id": 5001,
+      "is_default": true,
+      "label": "zalo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zalo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a2d89a6bebbace50e32b7c83e57eec64c9571ce59d53fd413152270ae59c6bef"
+      },
+      "sha256": "dc781135f12b1cfc4d5154770598693fa2816f558ab02e75f8ddf3a129c6597d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zalo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

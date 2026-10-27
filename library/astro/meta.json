@@ -1,0 +1,98 @@
+{
+  "collection_id": 760,
+  "schema_version": 1,
+  "id": 987,
+  "title": "Astro",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "astro"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 834,
+      "collection": "Dashboard Icons",
+      "file": "astro.svg",
+      "id": 1978,
+      "is_default": true,
+      "label": "astro",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "astro.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "38502102492c2b4a0cb93227c51f12150fe8b695aca236d66a29302166b2b4c2"
+      },
+      "sha256": "bd4faee665f738f8531e960a9db35316fcddece181b083bc1919d5eb2000b1f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/astro.svg",
+      "version": 0
+    },
+    {
+      "bytes": 834,
+      "collection": "Dashboard Icons",
+      "file": "astro-1.svg",
+      "id": 1979,
+      "is_default": false,
+      "label": "astro-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "astro-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3f03e86765c102b32d69f324f71e38ca28295876896d54ca0cdf06d193b8be8b"
+      },
+      "sha256": "e0d9323cc035eb6e021510ff6e1e16b06eb22f933092ff58eae52086190d07e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/astro-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 834,
+      "collection": "Dashboard Icons",
+      "file": "astro-2.svg",
+      "id": 1980,
+      "is_default": false,
+      "label": "astro-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "astro-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "206f5d0e6d1ca3f2b3634d15c29088b216d8c3da5b24bb5d1c18cd2518c484ee"
+      },
+      "sha256": "688cd2fdd6671ba7fcd831e7de76eb270ccb7afeb14fa0e949a9fc1886b906df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/astro-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 1841,
+      "collection": "TechIcons / Devicon",
+      "file": "astro-3.svg",
+      "id": 5078,
+      "is_default": false,
+      "label": "TechIcons · Astro",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Astro.svg",
+        "original_sha256": "f48e027603ad5d9823b86bd94fb77a499b0fae27e91649d5f9290fc9c92cecae",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/astro",
+        "reference_website": "https://astro.build"
+      },
+      "sha256": "22e005f3a5c98402894ffdfb637c091663cfdc9208fee92e380caa98554254cd",
+      "source": "https://techicons.dev/icons/astro",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

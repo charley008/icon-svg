@@ -1,0 +1,40 @@
+{
+  "collection_id": 1944,
+  "schema_version": 1,
+  "id": 2171,
+  "title": "Nielseniq",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "新闻资讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nielseniq"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1105,
+      "collection": "Dashboard Icons",
+      "file": "nielseniq.svg",
+      "id": 3543,
+      "is_default": true,
+      "label": "nielseniq",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nielseniq.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "95a6152c3d2eb227dc3efd0776f80b9b13fb9e1baf120dad559c9621d2d8ec67"
+      },
+      "sha256": "5625fdf7925fcb0fb30707a2e7a79132d89a4ed02256533dc32ed9be2f267fe2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nielseniq.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

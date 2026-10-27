@@ -38,8 +38,47 @@
       "sha256": "60ecaac569c9b1fbdb661a65fa3654e41f1a2de2662dfd1c803e8c174c6c3f4d",
       "source": "https://icon.4738.org/icons/HD-Icons/svg/arch-1.svg",
       "version": 0
+    },
+    {
+      "bytes": 538,
+      "collection": "Dashboard Icons",
+      "file": "arch-1.svg",
+      "id": 1960,
+      "is_default": false,
+      "label": "arch-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "arch-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "02f5c98ca58462f20b90c3f9f4b0ebd219e650901308855247a27c7cdb777fa1"
+      },
+      "sha256": "d38204fa7914eb2534341e5a7ef0930e77a91521a6178c42e3edf4345c7872a4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/arch-linux.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1772,
+      "collection": "TechIcons / Devicon",
+      "file": "arch-2.svg",
+      "id": 5075,
+      "is_default": false,
+      "label": "TechIcons · Arch Linux",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Arch-Linux.svg",
+        "original_sha256": "f979ac525905449f58bdabcc37b5d6d48670ceb02c6ce4d778fd71502ea8982e",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/archlinux",
+        "reference_website": "https://archlinux.org"
+      },
+      "sha256": "07acf5f187bcc8a5e4a1cf22d8c344d1690de1982590ec0605a4a66b0f0f39f7",
+      "source": "https://techicons.dev/icons/archlinux",
+      "version": 2
     }
   ],
-  "next_version": 1,
+  "next_version": 3,
   "products": []
 }

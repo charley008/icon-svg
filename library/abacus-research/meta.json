@@ -1,0 +1,40 @@
+{
+  "collection_id": 655,
+  "schema_version": 1,
+  "id": 882,
+  "title": "Abacus Research",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "abacus-research"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1918,
+      "collection": "Dashboard Icons",
+      "file": "abacus-research.svg",
+      "id": 1843,
+      "is_default": true,
+      "label": "abacus-research",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "abacus-research.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c13da9496d88e9f2a6c0744b3f902a33534d42479e42a5c228a9ee0dba19df81"
+      },
+      "sha256": "a290a4845d65cea9e55190052c186e8dfb46d34baf38c5e2423782b144bd9c9e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/abacus-research.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

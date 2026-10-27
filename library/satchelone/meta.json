@@ -1,0 +1,78 @@
+{
+  "collection_id": 2556,
+  "schema_version": 1,
+  "id": 2783,
+  "title": "Satchelone",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "satchelone"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 13339,
+      "collection": "Dashboard Icons",
+      "file": "satchelone.svg",
+      "id": 4373,
+      "is_default": true,
+      "label": "satchelone",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "satchelone.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8d05bf27b6f9aa7ae2232fbe105b310bc3cd35b9342ccc3e27460018f389d8c"
+      },
+      "sha256": "cc8df25a9ba4a36d1c0cbff9aa6a37661eebce5d2ee10a8ac28f090122a018f0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/satchelone.svg",
+      "version": 0
+    },
+    {
+      "bytes": 13062,
+      "collection": "Dashboard Icons",
+      "file": "satchelone-1.svg",
+      "id": 4374,
+      "is_default": false,
+      "label": "satchelone-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "satchelone-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a00a03d95685d369a882ff2a49bee726e62f168363d45f65f643ccdf7a1cd08b"
+      },
+      "sha256": "68e5cd667ed6054edaea772c33102c1fc210e0ad1d0befef91d06b8cc1d202b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/satchelone-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 13062,
+      "collection": "Dashboard Icons",
+      "file": "satchelone-2.svg",
+      "id": 4375,
+      "is_default": false,
+      "label": "satchelone-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "satchelone-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8b67a71ad98e513d82e2c19f8eb6495be686949cf9722a25bf7c9900999a0373"
+      },
+      "sha256": "a0efa337f5d7085b92295c73d9b95bed5146390c048d3b9f389db68308a6dc26",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/satchelone-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

@@ -1,4 +1,7 @@
 {
+  "collection_id": 627,
+  "schema_version": 1,
+  "id": 852,
   "title": "TrueNAS",
   "url": "https://www.truenas.com/",
   "domains": [
@@ -21,23 +24,100 @@
   "notes": [],
   "icons": [
     {
-      "file": "truenas.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "e827988e1e499a73a751b8953ab390996c33d530fa77fb08921a63b933f66c27",
       "bytes": 465,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/truenas.svg",
+      "collection": "Dashboard Icons",
+      "file": "truenas.svg",
+      "id": 1809,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "truenas.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "e827988e1e499a73a751b8953ab390996c33d530fa77fb08921a63b933f66c27",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/truenas.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "products": [
+    {
+      "id": 3067,
+      "key": "core",
+      "title": "Truenas Core",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "truenas-core"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 792,
+          "collection": "Dashboard Icons",
+          "file": "truenas-core.svg",
+          "id": 4735,
+          "is_default": true,
+          "label": "truenas-core",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "truenas-core.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "57998f40f3c604cb1a454352ff9f6fd9b6091e33b874ec8744ce0a283ee127cd"
+          },
+          "sha256": "3feaf9b6763808b48eaed06127e4d69c0563a67f8c7ae9c1993f3829d9ee9bc8",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/truenas-core.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 3068,
+      "key": "scale",
+      "title": "Truenas Scale",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "系统工具",
+      "tags": [
+        "Dashboard Icons"
+      ],
+      "aliases": [
+        "truenas-scale"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 3460,
+          "collection": "Dashboard Icons",
+          "file": "truenas-scale.svg",
+          "id": 4736,
+          "is_default": true,
+          "label": "truenas-scale",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "truenas-scale.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "7a73d944619b37f6257f65b79b53939f11d3c254693a5c1d5c3d2229fa4ab004"
+          },
+          "sha256": "b5df805c00d9c1e27cdca23d65b4f677d94f3050b6d7d7296011fc309383e42d",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/truenas-scale.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

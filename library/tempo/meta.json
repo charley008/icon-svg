@@ -1,0 +1,40 @@
+{
+  "collection_id": 2766,
+  "schema_version": 1,
+  "id": 2993,
+  "title": "Tempo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tempo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1303,
+      "collection": "Dashboard Icons",
+      "file": "tempo.svg",
+      "id": 4641,
+      "is_default": true,
+      "label": "tempo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tempo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bf2aa0089c2e8693400b76c22f745a92bb5d35de7fb63180ecdab05e03a758df"
+      },
+      "sha256": "777dc05918c0c1f4eb1b9f58258460cdfba42937974bb21f476635c4356df2af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tempo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

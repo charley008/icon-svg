@@ -1,0 +1,98 @@
+{
+  "collection_id": 2913,
+  "schema_version": 1,
+  "id": 3140,
+  "title": "Vim",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "vim"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1851,
+      "collection": "Dashboard Icons",
+      "file": "vim.svg",
+      "id": 4833,
+      "is_default": true,
+      "label": "vim",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vim.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b24dce9431e706b831be054b20b7c0f1571a8daed216d07f94c369e8347bff3d"
+      },
+      "sha256": "619dd3ee0c28cb897071557e1267fb2f097846400c0416209d14d7a71268b1e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vim.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1851,
+      "collection": "Dashboard Icons",
+      "file": "vim-1.svg",
+      "id": 4834,
+      "is_default": false,
+      "label": "vim-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vim-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dc47b3d13f4edeab0d2410ff369b9fb0098d7519d3406498c48ff3f2e5def62d"
+      },
+      "sha256": "036fa94c5d840e57dc220c93117c7015801a2f54b410d5b72c7757ba237ffbf6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vim-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1851,
+      "collection": "Dashboard Icons",
+      "file": "vim-2.svg",
+      "id": 4835,
+      "is_default": false,
+      "label": "vim-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vim-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8be1e6dc3ed127d08f4e3f5204ba3907ce92874bbe8b234456900b537d8036ea"
+      },
+      "sha256": "d943b36e118612ab1586ac9f7ba85c5be77547411e089f3f8761ee52ea6dde54",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vim-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 10204,
+      "collection": "TechIcons / Devicon",
+      "file": "vim-3.svg",
+      "id": 5395,
+      "is_default": false,
+      "label": "TechIcons · Vim",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Vim.svg",
+        "original_sha256": "a32e2f318cb0778c61a0166232bb6a36554037eeb9861526a343fcf8b9bccf6c",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/vim",
+        "reference_website": "https://www.vim.org"
+      },
+      "sha256": "cb574e14429a6edcd98907aafa1ee5717240d88fef24d159e4ddd87662cc8e7e",
+      "source": "https://techicons.dev/icons/vim",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

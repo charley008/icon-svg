@@ -1,0 +1,106 @@
+{
+  "collection_id": 2077,
+  "schema_version": 1,
+  "id": 2304,
+  "redirect_from": [
+    2305
+  ],
+  "title": "Packetfence",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "packetfence",
+    "NAC",
+    "packetfence-full",
+    "Packetfence Full"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2363,
+      "collection": "Dashboard Icons",
+      "file": "packetfence.svg",
+      "id": 3733,
+      "is_default": true,
+      "label": "packetfence",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "packetfence.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "39a3e1ab74dd1efe128c4efa7da2a40d5b15b82703e6dd6bd3ffe9ed779c8236"
+      },
+      "sha256": "ec8d371697b201d438cea1ef36b27c426a7d0de427b3c6020b3a9a0d718357e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/packetfence.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2417,
+      "collection": "Dashboard Icons",
+      "file": "packetfence-1.svg",
+      "id": 3734,
+      "is_default": false,
+      "label": "packetfence-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "packetfence-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36d9b26a5cbf67e1e68303b3a0e31e8b33b579a78dd42262689f7b6e5f22797d"
+      },
+      "sha256": "bb9eabbbd000cd4268f3935c236e3e2dc532b0aee85e41f230613d9353dab228",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/packetfence-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 10156,
+      "collection": "Dashboard Icons",
+      "file": "packetfence-2.svg",
+      "id": 3735,
+      "is_default": false,
+      "label": "packetfence-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "packetfence-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "db89cc8b40d856b2d119b23976295f6009e5d4194a0a1d8b188e2b4b4e2ba49c"
+      },
+      "sha256": "6d5c4ec2ea935822e5c12a63310340228d9becc6029bedac15457ce9cd09134e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/packetfence-full.svg",
+      "version": 2
+    },
+    {
+      "bytes": 10276,
+      "collection": "Dashboard Icons",
+      "file": "packetfence-3.svg",
+      "id": 3736,
+      "is_default": false,
+      "label": "packetfence-full-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "packetfence-full-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8ccdee3583f42c7376cb62499d65247bd82efa8e471a658fd0a0d41f7b6a1dd9"
+      },
+      "sha256": "a214fae580fd4f1bd33d3d6e043b631a4daa87088242b14b921a1d4a62820caf",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/packetfence-full-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

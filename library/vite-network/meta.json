@@ -1,0 +1,46 @@
+{
+  "collection_id": 3256,
+  "schema_version": 1,
+  "id": 3520,
+  "title": "Vite Network",
+  "url": "https://www.vite.org",
+  "domains": [
+    "vite.org"
+  ],
+  "description": "面向去中心化应用的区块链网络。",
+  "category": "金融支付",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Vite Network",
+    "vite",
+    "Vite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 210,
+      "collection": "TechIcons / Devicon",
+      "file": "vite-network-1.svg",
+      "id": 5396,
+      "is_default": true,
+      "label": "TechIcons · Vite Network",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Vite.svg",
+        "original_sha256": "4f1efe20dcae967dfe94ee5cab513caf5be12b9b1fe5ac9d0e73e352addcd678",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/vite",
+        "reference_website": "https://www.vite.org"
+      },
+      "sha256": "bb07d57543343001cb19fa7d445e43e5f987f79fb5793dcb934d69f180026516",
+      "source": "https://techicons.dev/icons/vite",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

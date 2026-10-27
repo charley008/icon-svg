@@ -1,0 +1,40 @@
+{
+  "collection_id": 1673,
+  "schema_version": 1,
+  "id": 1900,
+  "title": "Lancache",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "lancache"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 28253,
+      "collection": "Dashboard Icons",
+      "file": "lancache.svg",
+      "id": 3175,
+      "is_default": true,
+      "label": "lancache",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lancache.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c887cf90059cc4186c00e2f27f3e7b3e10b98b205628217396c0333fc5788f6"
+      },
+      "sha256": "19c9e8dc76868b6ecc73de3e9707eb3753036b69d878493e1d901d8aa812d6e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lancache.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

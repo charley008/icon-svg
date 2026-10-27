@@ -118,8 +118,46 @@
       "sha256": "52dbd87032579f40ff3b48afc00425c6debea48d413ab7675155f1e28f2705fa",
       "source": "https://raw.githubusercontent.com/pheralb/svgl/main/static/library/soundcloud-wordmark.svg",
       "version": 3
+    },
+    {
+      "bytes": 3837,
+      "collection": "Dashboard Icons",
+      "file": "soundcloud-5.svg",
+      "id": 4509,
+      "is_default": false,
+      "label": "soundcloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aee2e647d04f4885fabe2760156f20c6da12ece0e6ca860ddf337331019169f7"
+      },
+      "sha256": "ae772a96ec09809aed98c0d5134a36e8213576e1afaca9af7e424eaf34b985ee",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/soundcloud.svg",
+      "version": 5
+    },
+    {
+      "bytes": 3830,
+      "collection": "Dashboard Icons",
+      "file": "soundcloud-6.svg",
+      "id": 4510,
+      "is_default": false,
+      "label": "soundcloud-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "soundcloud-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4ec3f00058cfdbb2fe0d80d22d383d5889fddb1ee60f54a2d8b6a859fba75473"
+      },
+      "sha256": "99d6448629e370fe56175f39e48f59f8330d862f926a4e420e07be9b5279d631",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/soundcloud-dark.svg",
+      "version": 6
     }
   ],
-  "next_version": 5,
+  "next_version": 7,
   "products": []
 }

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3096,
+  "schema_version": 1,
+  "id": 3335,
+  "title": "ClojureScript",
+  "url": "https://clojurescript.org",
+  "domains": [
+    "clojurescript.org"
+  ],
+  "description": "可编译为 JavaScript 的 Clojure 方言。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "ClojureScript",
+    "clojurescript"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2164,
+      "collection": "TechIcons / Devicon",
+      "file": "clojurescript-1.svg",
+      "id": 5106,
+      "is_default": true,
+      "label": "TechIcons · ClojureScript",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "ClojureScript.svg",
+        "original_sha256": "4054b3f43adb2ccbffce591ed556b776df0948dfbbdeea3ad0154e0c06a99c67",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/clojurescript",
+        "reference_website": "https://clojurescript.org"
+      },
+      "sha256": "7eea7069ce44b02aa2fde5949d08aafd2f1947f7392e275b649fe951cfd2ed5e",
+      "source": "https://techicons.dev/icons/clojurescript",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1025,
+  "schema_version": 1,
+  "id": 1252,
+  "title": "Copyparty",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "copyparty"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6680,
+      "collection": "Dashboard Icons",
+      "file": "copyparty.svg",
+      "id": 2330,
+      "is_default": true,
+      "label": "copyparty",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "copyparty.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "783d0fa2732ddd46184f7f4f816ed6dc14d057668c92c18acd4bb6d1b55453b9"
+      },
+      "sha256": "f7e13001d5de211a4810d743387acb30881d555f3213e92f2c781cd1542ca952",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/copyparty.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2580,
+  "schema_version": 1,
+  "id": 2807,
+  "title": "Semaphore",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "semaphore"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 634,
+      "collection": "Dashboard Icons",
+      "file": "semaphore.svg",
+      "id": 4408,
+      "is_default": true,
+      "label": "semaphore",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "semaphore.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "37841b729da7444230308279cf7ae3133e0ddbcaa8f34a2ebe5e1c9fcb894a2b"
+      },
+      "sha256": "47a85456137429997b80eebe32e18e67e1f3d7c7b6de0f1c1de97d336a3df3da",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/semaphore.svg",
+      "version": 0
+    },
+    {
+      "bytes": 643,
+      "collection": "Dashboard Icons",
+      "file": "semaphore-1.svg",
+      "id": 4409,
+      "is_default": false,
+      "label": "semaphore-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "semaphore-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "461f84a33e1906eb6b3b4d2ae572543cdb12844182fed265a79818da4bff0693"
+      },
+      "sha256": "705cf4bd9e2ae61fc591b71461bd33bfb859ebc1f762b722656a4662606bed40",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/semaphore-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

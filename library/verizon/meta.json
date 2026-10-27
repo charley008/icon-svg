@@ -1,0 +1,40 @@
+{
+  "collection_id": 2899,
+  "schema_version": 1,
+  "id": 3126,
+  "title": "Verizon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "verizon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 324,
+      "collection": "Dashboard Icons",
+      "file": "verizon.svg",
+      "id": 4816,
+      "is_default": true,
+      "label": "verizon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "verizon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5d730aca98f9128d87764e001b7b336d4d35e7a31e89525106091bb5d6f091d3"
+      },
+      "sha256": "fa69c717f5d550a1d3bb363b0666dc1edd224841778fd3ab10983f38cff0e332",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/verizon.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

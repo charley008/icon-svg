@@ -1,0 +1,42 @@
+{
+  "collection_id": 1730,
+  "schema_version": 1,
+  "id": 1957,
+  "title": "Local Xpose",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "local-xpose",
+    "localxpose"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8056,
+      "collection": "Dashboard Icons",
+      "file": "local-xpose.svg",
+      "id": 3255,
+      "is_default": true,
+      "label": "local-xpose",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "local-xpose.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e64c435fbac581c7673b7b2e0c9c9275aa44ec366080200b3dcaccd3e0199249"
+      },
+      "sha256": "46597778051e63157557891187e9d1a9cee726900545fccf06163f6379d02e88",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/local-xpose.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

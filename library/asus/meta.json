@@ -1,4 +1,10 @@
 {
+  "collection_id": 502,
+  "schema_version": 1,
+  "id": 670,
+  "redirect_from": [
+    989
+  ],
   "title": "ASUS",
   "url": "https://www.asus.com/",
   "domains": [
@@ -16,28 +22,210 @@
     "asus",
     "华硕",
     "电脑",
-    "硬件"
+    "硬件",
+    "asus-full",
+    "Asus Full"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "asus.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "7e74e07369cde1074466b6be84dfbf4b79ef547f807548adc803b4ac6e077632",
       "bytes": 1383,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asus.svg",
+      "collection": "Dashboard Icons",
+      "file": "asus.svg",
+      "id": 1631,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "asus.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "7e74e07369cde1074466b6be84dfbf4b79ef547f807548adc803b4ac6e077632",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1654,
+      "collection": "Dashboard Icons",
+      "file": "asus-1.svg",
+      "id": 1983,
+      "is_default": false,
+      "label": "asus-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "asus-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7e8560f8617187a411ac8432d7c2dcd7ddadb2cbabf0636e6a1e3414bdc84478"
+      },
+      "sha256": "4fbdba56db349dcca84c2da7fa041102fd42a17f84ca49071b0ccf16cd8516a0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asus-full.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
-  "products": []
+  "next_version": 2,
+  "products": [
+    {
+      "id": 990,
+      "redirect_from": [
+        654
+      ],
+      "key": "rog",
+      "title": "ROG",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "Dashboard Icons",
+        "Gaming-Platforms",
+        "Hardware",
+        "设备硬件"
+      ],
+      "aliases": [
+        "asus-rog",
+        "gaming-laptop",
+        "gaming-pc",
+        "rog",
+        "ROG",
+        "玩家国度",
+        "Republic of Gamers",
+        "Asus Rog"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 2101,
+          "collection": "Dashboard Icons",
+          "file": "asus-rog.svg",
+          "id": 1984,
+          "is_default": true,
+          "label": "asus-rog",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "asus-rog.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "b55d53c720e40b0291311fb55d6949935f60412c5753cf3d377588bcbe67422b"
+          },
+          "sha256": "7e1ad76ce40df84d00c2c5c8a500f2b4902cd5104850ffcd611912ba97af484b",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asus-rog.svg",
+          "version": 0
+        },
+        {
+          "bytes": 4247,
+          "collection": "用户补充 SVG",
+          "file": "asus-rog-1.svg",
+          "id": 1609,
+          "is_default": false,
+          "label": "ROG",
+          "license": "商标及图形版权归各自权利人；参见素材来源",
+          "method": "downloaded-svg-optimized",
+          "provenance": {
+            "original_file": "rog-1.svg",
+            "original_url": "https://icon.4738.org/icons/HD-Icons/svg/rog-1.svg"
+          },
+          "sha256": "3aebdaaa5942d1436b24abbcedd86358fd25bf372ddefa4824ba99173f9dd002",
+          "source": "https://icon.4738.org/icons/HD-Icons/svg/rog-1.svg",
+          "version": 1
+        }
+      ],
+      "next_version": 2
+    },
+    {
+      "id": 470,
+      "key": "rog-ax11000",
+      "title": "ROG AX11000",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "用户优选",
+        "自用",
+        "硬件",
+        "设备",
+        "路由器",
+        "网络设备",
+        "ROG AX11000",
+        "rog-ax11000"
+      ],
+      "aliases": [
+        "rog-ax11000"
+      ],
+      "notes": [
+        "默认图标采用用户认可的 out 目录版本；其余为不同图案或原有备选。"
+      ],
+      "icons": [
+        {
+          "bytes": 184451,
+          "collection": "用户优化 SVG",
+          "file": "asus-rog-ax11000.svg",
+          "id": 1175,
+          "is_default": true,
+          "label": "ROG-AX11000",
+          "license": "原图版权及商标归权利人",
+          "method": "uploaded-svg",
+          "provenance": {
+            "original_file": "rog-ax11000.svg",
+            "original_is_default": true,
+            "original_slug": "rog-ax11000"
+          },
+          "rounded_corners": {
+            "previous_bytes": 184229,
+            "previous_sha256": "d857f41260aa455dd211001b7448538d8a5f022a3095742f75166c3d580f92cf",
+            "ratio": 0.2
+          },
+          "sha256": "66217ddabd0407347a777af90fa74d7a21a81863c6caac1e2dab6e99212c949c",
+          "source": "用户确认优化：ROG AX11000 原图保留机身与灯效，量化颜色并合并连续矩形矢量路径",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    },
+    {
+      "id": 991,
+      "key": "router",
+      "title": "Asus Router",
+      "url": "",
+      "domains": [],
+      "description": "",
+      "category": "设备硬件",
+      "tags": [
+        "Dashboard Icons",
+        "Networking-Tools",
+        "Smart-Home"
+      ],
+      "aliases": [
+        "asus-router",
+        "Router"
+      ],
+      "notes": [],
+      "icons": [
+        {
+          "bytes": 4708,
+          "collection": "Dashboard Icons",
+          "file": "asus-router.svg",
+          "id": 1985,
+          "is_default": true,
+          "label": "asus-router",
+          "license": "Apache-2.0；商标归各品牌权利人",
+          "method": "downloaded-svg",
+          "provenance": {
+            "original_file": "asus-router.svg",
+            "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+            "repository": "https://github.com/homarr-labs/dashboard-icons",
+            "upstream_sha256": "bffaab6fd658bf4101ba835408a19aa69e655afa2bce892a7b8368ae9dad7ec0"
+          },
+          "sha256": "23301ce3cdb8ab8d25ebcc8b50ea420c4ce0f713e86988533b15eb117bce470e",
+          "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/asus-router.svg",
+          "version": 0
+        }
+      ],
+      "next_version": 1
+    }
+  ]
 }

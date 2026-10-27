@@ -1,0 +1,40 @@
+{
+  "collection_id": 868,
+  "schema_version": 1,
+  "id": 1095,
+  "title": "Bikerouter",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bikerouter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2331,
+      "collection": "Dashboard Icons",
+      "file": "bikerouter.svg",
+      "id": 2118,
+      "is_default": true,
+      "label": "bikerouter",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bikerouter.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d88697bcec18b3ca5feefc79bdfec44085075b85e2384018706f18219b3bea4f"
+      },
+      "sha256": "fdb4a7ff09035443a343277b9e9a2ab22a6e5d22797af2f3f7f3edbb4546b42b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bikerouter.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

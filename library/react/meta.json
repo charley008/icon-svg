@@ -1,0 +1,67 @@
+{
+  "collection_id": 2468,
+  "schema_version": 1,
+  "id": 2695,
+  "title": "React",
+  "url": "https://react.dev/",
+  "domains": [
+    "react.dev"
+  ],
+  "description": "用于构建用户界面的 React 库。",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "reactjs",
+    "react-js",
+    "React",
+    "react.js",
+    "react-js",
+    "React 框架"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 408,
+      "collection": "Dashboard Icons",
+      "file": "react.svg",
+      "id": 4261,
+      "is_default": true,
+      "label": "reactjs",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reactjs.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b2af9f3fc23cbc1968fbd225b18c8744b6100a7b5478d9d0e69ae310664192dc"
+      },
+      "sha256": "953f35b38c7295aa8018daf885a7eac951f2297a38c984d5d3cefa27c59fe536",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/reactjs.svg",
+      "version": 0
+    },
+    {
+      "bytes": 37065,
+      "collection": "Dashboard Icons",
+      "file": "react-1.svg",
+      "id": 4262,
+      "is_default": false,
+      "label": "reactjs-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reactjs-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "94c9d8942550fe374338456540a0a8cd6d6be74fb36cffb51a0d6b695d0a3379"
+      },
+      "sha256": "d02149f011c01f0849975f2febb04a6ec2a34be422db8b683f67b664013e6c4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/reactjs-kawaii.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

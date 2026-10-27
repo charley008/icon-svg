@@ -1,0 +1,45 @@
+{
+  "collection_id": 3075,
+  "schema_version": 1,
+  "id": 3305,
+  "title": "Alpine.js",
+  "url": "https://alpinejs.dev",
+  "domains": [
+    "alpinejs.dev"
+  ],
+  "description": "轻量级 JavaScript 前端交互框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Alpine.js",
+    "alpinejs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 342,
+      "collection": "TechIcons / Devicon",
+      "file": "alpinejs-1.svg",
+      "id": 5060,
+      "is_default": true,
+      "label": "TechIcons · Alpine.js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Alpine.js.svg",
+        "original_sha256": "2cf0738c0e033f23d9593312c05b21eb0d2e034a017a49d4de56fb9b7d633ef8",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/alpinejs",
+        "reference_website": "https://alpinejs.dev"
+      },
+      "sha256": "6d6cc3a4ddfe83ff9a4bfd483a0284df9bd54838fc06e0a4041a905936b9bdcf",
+      "source": "https://techicons.dev/icons/alpinejs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

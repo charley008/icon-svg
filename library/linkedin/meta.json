@@ -156,8 +156,28 @@
       "sha256": "ec4556e469de80f8f9d2ccfba580deb13f3c96737dae3739d8aca291ad2c1719",
       "source": "https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg",
       "version": 5
+    },
+    {
+      "bytes": 517,
+      "collection": "TechIcons / Devicon",
+      "file": "linkedin-6.svg",
+      "id": 5250,
+      "is_default": false,
+      "label": "TechIcons · LinkedIn",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "LinkedIn.svg",
+        "original_sha256": "71d3e25ef4e06ac34f385476cff2cef2757179af665cda086711d211d85610c0",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/linkedin",
+        "reference_website": "https://www.linkedin.com"
+      },
+      "sha256": "9c121dfc5512703cb392ea3e125c429497df8f46e14986c393ec864595f218aa",
+      "source": "https://techicons.dev/icons/linkedin",
+      "version": 6
     }
   ],
-  "next_version": 6,
+  "next_version": 7,
   "products": []
 }

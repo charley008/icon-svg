@@ -144,8 +144,27 @@
       "sha256": "cc5ce055c9e4f617f0d8bbaeed06bec673c26b9494df324b54da009f42d344bb",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/logos.json#grok",
       "version": 5
+    },
+    {
+      "bytes": 1005,
+      "collection": "Dashboard Icons",
+      "file": "grok-6.svg",
+      "id": 2860,
+      "is_default": false,
+      "label": "grok",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grok.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f44f4ea37fa04ffbaa39eb87e004a5b5be0e82b849a9dd77d23cd003c899e342"
+      },
+      "sha256": "bfb85b2c2a4f681e135c58d4aa0c4bbe4d841f2009c9aab63140e6b4d72b5cfa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grok.svg",
+      "version": 6
     }
   ],
-  "next_version": 6,
+  "next_version": 7,
   "products": []
 }

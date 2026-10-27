@@ -1,0 +1,40 @@
+{
+  "collection_id": 2890,
+  "schema_version": 1,
+  "id": 3117,
+  "title": "Valetudo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "valetudo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2098,
+      "collection": "Dashboard Icons",
+      "file": "valetudo.svg",
+      "id": 4800,
+      "is_default": true,
+      "label": "valetudo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "valetudo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "851c1ca85a454948b11ec089846c302d76e9ee7a708cd3b52f7fe90dd01136fc"
+      },
+      "sha256": "2847a46e27a06d33e39cb32c6e38c1313a3fd819070520dd2fa9bfed0dcdabfa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/valetudo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

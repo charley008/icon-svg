@@ -1,0 +1,40 @@
+{
+  "collection_id": 969,
+  "schema_version": 1,
+  "id": 1196,
+  "title": "Chirpy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "chirpy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 692,
+      "collection": "Dashboard Icons",
+      "file": "chirpy.svg",
+      "id": 2249,
+      "is_default": true,
+      "label": "chirpy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chirpy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8a07377fe85c95c3ea99b185daf04597a6c61a9a5e63a95ef1f662a01f08dab8"
+      },
+      "sha256": "d5b31ccfc5cdf0326eec73382e9761af0a978fb13536904f7206991ff4a00e40",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chirpy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

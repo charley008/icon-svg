@@ -1,0 +1,40 @@
+{
+  "collection_id": 2563,
+  "schema_version": 1,
+  "id": 2790,
+  "title": "Scriberr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "scriberr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3584,
+      "collection": "Dashboard Icons",
+      "file": "scriberr.svg",
+      "id": 4383,
+      "is_default": true,
+      "label": "scriberr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "scriberr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c7fa56fdb8ea54cf0e6c0dfb8e55154e0f9b81559ae09593af644b04fca68ea5"
+      },
+      "sha256": "319a3365817a26c18d1caad583f1a07e47623662255b6335e1175453779f6c0f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/scriberr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

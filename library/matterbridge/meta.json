@@ -1,0 +1,42 @@
+{
+  "collection_id": 1788,
+  "schema_version": 1,
+  "id": 2015,
+  "title": "Matterbridge",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "matterbridge"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4090,
+      "collection": "Dashboard Icons",
+      "file": "matterbridge.svg",
+      "id": 3326,
+      "is_default": true,
+      "label": "matterbridge",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "matterbridge.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4637e77585b67fef43ff45d88cc179edc81fd1a8ee98c93a8336fea558604d0"
+      },
+      "sha256": "8bf8ab71c63a41359b108b42c762e215043567d3342ad53340b2b7c6733b753d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/matterbridge.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

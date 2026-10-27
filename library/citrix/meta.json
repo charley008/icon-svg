@@ -1,0 +1,40 @@
+{
+  "collection_id": 977,
+  "schema_version": 1,
+  "id": 1204,
+  "title": "Citrix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "citrix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2310,
+      "collection": "Dashboard Icons",
+      "file": "citrix.svg",
+      "id": 2259,
+      "is_default": true,
+      "label": "citrix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "citrix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b44af6b7b42abdce91d12f76efc59e9a4d0f28e74930c22a9b6464aec6c0474f"
+      },
+      "sha256": "9735729fe26e3d7e24ee2687a323bb100059b59e549cf6caa55cc6c434048b2b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/citrix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

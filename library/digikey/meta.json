@@ -1,0 +1,42 @@
+{
+  "collection_id": 1104,
+  "schema_version": 1,
+  "id": 1331,
+  "title": "Digikey",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons",
+    "E-Commerce",
+    "电商购物"
+  ],
+  "aliases": [
+    "digikey"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1367,
+      "collection": "Dashboard Icons",
+      "file": "digikey.svg",
+      "id": 2433,
+      "is_default": true,
+      "label": "digikey",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "digikey.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "94f54628b0cddda4fa79117942ee8bfe086292400b2eb7ca0bbc22ec3b193805"
+      },
+      "sha256": "e1fffcdb7e1f1c6196712aa87cbe0bad4928b23c254c1734721600161f39fdf7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/digikey.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

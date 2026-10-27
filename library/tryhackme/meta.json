@@ -1,0 +1,40 @@
+{
+  "collection_id": 2842,
+  "schema_version": 1,
+  "id": 3069,
+  "title": "Tryhackme",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tryhackme"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16084,
+      "collection": "Dashboard Icons",
+      "file": "tryhackme.svg",
+      "id": 4737,
+      "is_default": true,
+      "label": "tryhackme",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tryhackme.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7f58c1bd824a42fabfa581324656826b6e08a618d2c63647eabc89aec91ee6ce"
+      },
+      "sha256": "b2533691f7c787ac572627d3f8878363b559a73b9b2620256d0186d66af4e59c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tryhackme.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

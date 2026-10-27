@@ -1,0 +1,40 @@
+{
+  "collection_id": 882,
+  "schema_version": 1,
+  "id": 1109,
+  "title": "Blu Ray",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "blu-ray"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 8039,
+      "collection": "Dashboard Icons",
+      "file": "blu-ray.svg",
+      "id": 2140,
+      "is_default": true,
+      "label": "blu-ray",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "blu-ray.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "084ae2edf33f2ab01567d8b4d147a309f2edc24cc2d9f1d0d393d0f2f90d06cd"
+      },
+      "sha256": "2f35979c91cd44ef655e332a7b9c7caafa99856d34a1810a2aac555d98d591d2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/blu-ray.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

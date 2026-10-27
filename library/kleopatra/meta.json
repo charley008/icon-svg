@@ -1,0 +1,40 @@
+{
+  "collection_id": 1643,
+  "schema_version": 1,
+  "id": 1870,
+  "title": "Kleopatra",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kleopatra"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6717,
+      "collection": "Dashboard Icons",
+      "file": "kleopatra.svg",
+      "id": 3142,
+      "is_default": true,
+      "label": "kleopatra",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kleopatra.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09961e522b1947da857f20dca8bd0890b9afc3d2535470914ad901a727b63448"
+      },
+      "sha256": "9a4999a31c04bfce971497f8921c34af7d651194ee1e945e2fb186692f540d10",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kleopatra.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

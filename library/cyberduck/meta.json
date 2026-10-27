@@ -1,0 +1,40 @@
+{
+  "collection_id": 1061,
+  "schema_version": 1,
+  "id": 1288,
+  "title": "Cyberduck",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cyberduck"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1176,
+      "collection": "Dashboard Icons",
+      "file": "cyberduck.svg",
+      "id": 2375,
+      "is_default": true,
+      "label": "cyberduck",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cyberduck.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dd46793ef6e7fa0a67cbd2d4c9f02f7a95d4528c06e8002f7d37332194dcb6a1"
+      },
+      "sha256": "df778ab903b6874d97be3a0118761227da1c35f638caebea63d39e1aa7b7c57b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cyberduck.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

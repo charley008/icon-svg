@@ -1,0 +1,40 @@
+{
+  "collection_id": 940,
+  "schema_version": 1,
+  "id": 1167,
+  "title": "Castopod",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "castopod"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1779,
+      "collection": "Dashboard Icons",
+      "file": "castopod.svg",
+      "id": 2214,
+      "is_default": true,
+      "label": "castopod",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "castopod.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c3a5554ee013fedebb5eca4cc8736f0cbfd8a9fa1131b4a657ed43242b656846"
+      },
+      "sha256": "8c141d6b735d6aff96fdbb1bb46348d83bc4599f7c78e29d6d83b4fc39973337",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/castopod.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

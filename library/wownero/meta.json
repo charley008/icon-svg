@@ -1,0 +1,40 @@
+{
+  "collection_id": 3000,
+  "schema_version": 1,
+  "id": 3227,
+  "title": "Wownero",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wownero"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 614,
+      "collection": "Dashboard Icons",
+      "file": "wownero.svg",
+      "id": 4946,
+      "is_default": true,
+      "label": "wownero",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wownero.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "835d61b19873e91cbc50b30ae1535f4a5255b485230d4a035be6c908327e48b9"
+      },
+      "sha256": "298499542267c7bcc70d2b183438685d937103ca6f7d52a57786ef7ce081d6a0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wownero.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

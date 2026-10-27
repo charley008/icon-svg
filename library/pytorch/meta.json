@@ -1,0 +1,103 @@
+{
+  "collection_id": 2424,
+  "schema_version": 1,
+  "id": 2651,
+  "redirect_from": [
+    2652
+  ],
+  "title": "Pytorch",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pytorch",
+    "pytorch-wordmark-light",
+    "Pytorch Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 692,
+      "collection": "Dashboard Icons",
+      "file": "pytorch.svg",
+      "id": 4211,
+      "is_default": true,
+      "label": "pytorch",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pytorch.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5b01bb6e7e95ed0ee1c37fd5aba7a31e86dc2178a5fb29e2ad0c2db21b75d05b"
+      },
+      "sha256": "73dc99f2b88ab9eef23d06c77efdb602b8bd509b95e9d4a29d7aa956f6098b7d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pytorch.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2102,
+      "collection": "Dashboard Icons",
+      "file": "pytorch-1.svg",
+      "id": 4212,
+      "is_default": false,
+      "label": "pytorch-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pytorch-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0b09d0e6ca6dd3fb3826f1b44b42a5eacdf0355c9085d82149086179c7214c79"
+      },
+      "sha256": "0c4ccac3e9367da723d579739372daf07e019fd32bfa1d8389d88b46801d60bb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pytorch-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2123,
+      "collection": "Dashboard Icons",
+      "file": "pytorch-2.svg",
+      "id": 4213,
+      "is_default": false,
+      "label": "pytorch-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pytorch-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f68b2f296247f92046c58e4754bad23994fda10b29f84edb6bbd0f449c549836"
+      },
+      "sha256": "966df0d36756f296d94ffe6c560f2d51b65e6981a0c629c9b9d8b3b472de6cb2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pytorch-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 444,
+      "collection": "TechIcons / Devicon",
+      "file": "pytorch-3.svg",
+      "id": 5330,
+      "is_default": false,
+      "label": "TechIcons · PyTorch",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "PyTorch.svg",
+        "original_sha256": "7fb9c244f59aa3261ed17d6166ef50d0f07e6e5bc4e5211ca53b6e4837e09e75",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/pytorch",
+        "reference_website": "https://pytorch.org"
+      },
+      "sha256": "5cc9b8431406655094199ff66e50574251943954eaade1dc9e81a7213d5408f2",
+      "source": "https://techicons.dev/icons/pytorch",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

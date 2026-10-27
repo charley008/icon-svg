@@ -1,0 +1,44 @@
+{
+  "collection_id": 2701,
+  "schema_version": 1,
+  "id": 2928,
+  "title": "Step Ca",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "step-ca",
+    "Certificate Authority"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 947,
+      "collection": "Dashboard Icons",
+      "file": "step-ca.svg",
+      "id": 4559,
+      "is_default": true,
+      "label": "step-ca",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "step-ca.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e5957de2f30b9ee45d7c3a0a4fc51cbe60fa6c24d3a8cb78d68bb34b19ccdaab"
+      },
+      "sha256": "8334707c64b8d4d9a77f1350692f650ce0a168b99d6a8ce2aad958ec5b2e548f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/step-ca.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

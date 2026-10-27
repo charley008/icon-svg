@@ -1,0 +1,41 @@
+{
+  "collection_id": 966,
+  "schema_version": 1,
+  "id": 1193,
+  "title": "Chibisafe",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "chibisafe"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 32445,
+      "collection": "Dashboard Icons",
+      "file": "chibisafe.svg",
+      "id": 2246,
+      "is_default": true,
+      "label": "chibisafe",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "chibisafe.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8725b7f19a685387a84a95711605a2af9c5409790a050f20e4a8cade707da6f"
+      },
+      "sha256": "e4f305333f9e5ad2737f1646ee81fc502b24beb6cf772978f8e99a28ea4d29b9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/chibisafe.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

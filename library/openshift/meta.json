@@ -1,0 +1,61 @@
+{
+  "collection_id": 2044,
+  "schema_version": 1,
+  "id": 2271,
+  "title": "Openshift",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "openshift"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2924,
+      "collection": "Dashboard Icons",
+      "file": "openshift.svg",
+      "id": 3690,
+      "is_default": true,
+      "label": "openshift",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openshift.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "840b1838c48130c4c2642347f179f3263b970c85a7853868b3b5f2841d8beb93"
+      },
+      "sha256": "59f6d47dcc5632a76aee051102af5337735245016551d193514bae67f6a2afc9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openshift.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2603,
+      "collection": "Dashboard Icons",
+      "file": "openshift-1.svg",
+      "id": 3691,
+      "is_default": false,
+      "label": "openshift-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openshift-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9962f428c572de630b4769a929428e3ab4bbb317baf74dfff4774a3e416277e8"
+      },
+      "sha256": "04e5188fb32c70caf9dbe7fc819c12655d7ce51996ea58ec130cfe215f6a86df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openshift-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

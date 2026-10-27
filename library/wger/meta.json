@@ -1,0 +1,40 @@
+{
+  "collection_id": 2969,
+  "schema_version": 1,
+  "id": 3196,
+  "title": "Wger",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "生活服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wger"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1186,
+      "collection": "Dashboard Icons",
+      "file": "wger.svg",
+      "id": 4907,
+      "is_default": true,
+      "label": "wger",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wger.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a6e75ea5ed61dffce3680e467ea60378fbab56c0455274ef9e26adf33dfb76f"
+      },
+      "sha256": "c7112f775c5545ed13498df17d36a1720ff0ffc28a2b876b99f9c2581d5c1de7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wger.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

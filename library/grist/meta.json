@@ -1,0 +1,40 @@
+{
+  "collection_id": 1428,
+  "schema_version": 1,
+  "id": 1655,
+  "title": "Grist",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "grist"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2012,
+      "collection": "Dashboard Icons",
+      "file": "grist.svg",
+      "id": 2858,
+      "is_default": true,
+      "label": "grist",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "grist.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d423e9a928e1161e056ab0c90a531f463ecf59297a33f159cf077f139cac80e0"
+      },
+      "sha256": "75742546c1a00cc32fdcd55c437b3fe488226c17b5f30e84b9dfa1ee536f9bfb",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grist.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

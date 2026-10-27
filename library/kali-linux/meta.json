@@ -1,0 +1,44 @@
+{
+  "collection_id": 1611,
+  "schema_version": 1,
+  "id": 1838,
+  "title": "Kali Linux",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "操作系统",
+    "Linux"
+  ],
+  "aliases": [
+    "kali-linux",
+    "kali"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 9390,
+      "collection": "Dashboard Icons",
+      "file": "kali-linux.svg",
+      "id": 3105,
+      "is_default": true,
+      "label": "kali-linux",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kali-linux.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe9e82ff2023e01b12ca341cb960eb104713d5f1d225d9a2065f58c5597ae676"
+      },
+      "sha256": "6b247acdb03e4884a6cdb73fa30386e2d1858977e57aa15a749dd4b8b7637d01",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kali-linux.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

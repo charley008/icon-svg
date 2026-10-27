@@ -1,4 +1,7 @@
 {
+  "collection_id": 493,
+  "schema_version": 1,
+  "id": 659,
   "title": "Activepieces",
   "url": "https://www.activepieces.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "activepieces.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "9a3a61f2310013101c3ab938221e6cc05684be0a8a06a53602afee3d61b2918d",
       "bytes": 483,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/activepieces.svg",
+      "collection": "Dashboard Icons",
+      "file": "activepieces.svg",
+      "id": 1620,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "activepieces.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "9a3a61f2310013101c3ab938221e6cc05684be0a8a06a53602afee3d61b2918d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/activepieces.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

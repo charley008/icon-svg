@@ -98,6 +98,8 @@ print('Directory package verified: external library/web, independent data, empty
 Compress-Archive -Path (Join-Path $package '*') -DestinationPath (Join-Path $release "$assetName.zip") -Force
 python -c "import zipfile,sys; z=zipfile.ZipFile(sys.argv[1]); names=z.namelist(); assert 'icon-svg.exe' in names; assert 'web/templates/home.html' in names; assert 'data/README.txt' in names; assert len([x for x in names if x.startswith('library/') and x.endswith('.svg')])==int(sys.argv[2]); assert not any(x.endswith(('.sqlite3','initial-admin.txt')) for x in names)" (Join-Path $release "$assetName.zip") $expectedIconCount
 if ($LASTEXITCODE -ne 0) { throw 'Directory ZIP contents verification failed' }
+python .github/scripts/package-materials.py (Join-Path $release "icon-svg-$version-materials.zip")
+if ($LASTEXITCODE -ne 0) { throw 'Material ZIP packaging failed' }
 $hashes = Get-ChildItem $release -File | Where-Object Extension -eq '.zip' | Sort-Object Name | ForEach-Object {
   (Get-FileHash -LiteralPath $_.FullName -Algorithm SHA256).Hash.ToLowerInvariant() + '  ' + $_.Name
 }

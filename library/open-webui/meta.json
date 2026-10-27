@@ -1,0 +1,63 @@
+{
+  "collection_id": 2024,
+  "schema_version": 1,
+  "id": 2251,
+  "title": "Open Webui",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons",
+    "AI-\u0026-LLM-Platforms",
+    "AI"
+  ],
+  "aliases": [
+    "open-webui",
+    "llama-ui",
+    "ollama-webui"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 289,
+      "collection": "Dashboard Icons",
+      "file": "open-webui.svg",
+      "id": 3655,
+      "is_default": true,
+      "label": "open-webui",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-webui.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "54717f2b0d403a6a559c87622d23dfd3cff3538e910ea3dbd8ffbf015aa3ff89"
+      },
+      "sha256": "8eefeacf9d54e3544ab4a19bbef395efddb82f378749b8ee2cce94bbd642e367",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-webui.svg",
+      "version": 0
+    },
+    {
+      "bytes": 289,
+      "collection": "Dashboard Icons",
+      "file": "open-webui-1.svg",
+      "id": 3656,
+      "is_default": false,
+      "label": "open-webui-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "open-webui-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "35b7c932b57fb66f51af9ed6ad6a2693f5212e2a58f93e57a9be6d0deb22c157"
+      },
+      "sha256": "df33ddd17491ad48e22cbdb3b1bbeb089ab9430f11b7ddb49c401505640191d5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/open-webui-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

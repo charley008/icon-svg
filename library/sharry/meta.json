@@ -1,0 +1,59 @@
+{
+  "collection_id": 2596,
+  "schema_version": 1,
+  "id": 2823,
+  "title": "Sharry",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sharry"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5923,
+      "collection": "Dashboard Icons",
+      "file": "sharry.svg",
+      "id": 4428,
+      "is_default": true,
+      "label": "sharry",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sharry.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6792d3c6489387f988d47f3d3f91624d4b64ad48dbf1e7871dd3f8ec4b0f0d2"
+      },
+      "sha256": "4623293b68d6daebb328fe7f49de40779d5bdaab36051663b5d7dfc62ea64cae",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sharry.svg",
+      "version": 0
+    },
+    {
+      "bytes": 8624,
+      "collection": "Dashboard Icons",
+      "file": "sharry-1.svg",
+      "id": 4429,
+      "is_default": false,
+      "label": "sharry-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sharry-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a43e8a57876074f69cde82887e5bbb1964b9ea7a351c72c6d6cc15266ce43cdd"
+      },
+      "sha256": "22104a9b6ef9f377aeed7c761527cb0538594c13de956d19af2339e01cf99b01",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sharry-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 2714,
+  "schema_version": 1,
+  "id": 2941,
+  "title": "Sun Panel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "sun-panel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 872,
+      "collection": "Dashboard Icons",
+      "file": "sun-panel.svg",
+      "id": 4576,
+      "is_default": true,
+      "label": "sun-panel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sun-panel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e15c32d0eeafcdb37aac35a57e0d302fdf21406f51ef37780b1852549fed1939"
+      },
+      "sha256": "ce56a852133513cdddc8f486df5c802163f9c1e3dff751c2949c9bc7d952ec12",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sun-panel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

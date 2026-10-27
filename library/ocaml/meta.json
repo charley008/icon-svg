@@ -1,0 +1,60 @@
+{
+  "collection_id": 1985,
+  "schema_version": 1,
+  "id": 2212,
+  "title": "Ocaml",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ocaml"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6451,
+      "collection": "Dashboard Icons",
+      "file": "ocaml.svg",
+      "id": 3597,
+      "is_default": true,
+      "label": "ocaml",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ocaml.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d0a73a7bc32ed174815d2fd29689a10bcc5c06b303b9fa237ecc55bf0bd90f71"
+      },
+      "sha256": "cbe8e0ec62fcefbe89dfe523ac4d28c037d9beee132982d15e94050dcb8c5899",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ocaml.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4245,
+      "collection": "TechIcons / Devicon",
+      "file": "ocaml-1.svg",
+      "id": 5293,
+      "is_default": false,
+      "label": "TechIcons · OCaml",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "OCaml.svg",
+        "original_sha256": "5eff21a93a1cd31f981b6e4816bcb7fc4273e909c389585290d9a1fa097d7d24",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ocaml",
+        "reference_website": "https://ocaml.org"
+      },
+      "sha256": "1483030c5084daf0493c380a01f73d738aab8e4e6b91bba01034ae1723511b7a",
+      "source": "https://techicons.dev/icons/ocaml",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

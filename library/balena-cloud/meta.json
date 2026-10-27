@@ -1,0 +1,42 @@
+{
+  "collection_id": 843,
+  "schema_version": 1,
+  "id": 1070,
+  "title": "Balena Cloud",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud",
+    "云服务"
+  ],
+  "aliases": [
+    "balena-cloud"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3274,
+      "collection": "Dashboard Icons",
+      "file": "balena-cloud.svg",
+      "id": 2082,
+      "is_default": true,
+      "label": "balena-cloud",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "balena-cloud.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a9b1dc2f368d6086d11e73104173e7acfa7fa3cb1b9b275b310db4f28151c019"
+      },
+      "sha256": "d02131834740ba0416fdbb94f3f01824283e016272801356195647065e7c3c78",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/balena-cloud.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 774,
+  "schema_version": 1,
+  "id": 1001,
+  "title": "Aura",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media"
+  ],
+  "aliases": [
+    "aura"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1159,
+      "collection": "Dashboard Icons",
+      "file": "aura.svg",
+      "id": 2001,
+      "is_default": true,
+      "label": "aura",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "aura.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f223faa8c8e5bfa5f404b6f04a74e9477230489f303ca52184b6c5212294f1e9"
+      },
+      "sha256": "e7ed5d9170d54f8d438de13812294397acd85ee5f2c27756c387a2b5b2683f78",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/aura.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2631,
+  "schema_version": 1,
+  "id": 2858,
+  "title": "Skribblio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "skribblio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1126605,
+      "collection": "Dashboard Icons",
+      "file": "skribblio.svg",
+      "id": 4472,
+      "is_default": true,
+      "label": "skribblio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "skribblio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2d905aad735f1f95d61ae66d46da02d9bcc87b2d6f893c7714a81fdefa226b8"
+      },
+      "sha256": "c5883775e58dc62ca1fa0d461857109391f11dea835481afab8b3fe094ea992d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/skribblio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

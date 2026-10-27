@@ -1,0 +1,45 @@
+{
+  "collection_id": 1706,
+  "schema_version": 1,
+  "id": 1933,
+  "title": "Lighttpd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Web-Browsers",
+    "Server-Panels",
+    "Networking-Tools",
+    "网络工具"
+  ],
+  "aliases": [
+    "lighttpd",
+    "Web Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 510,
+      "collection": "Dashboard Icons",
+      "file": "lighttpd.svg",
+      "id": 3225,
+      "is_default": true,
+      "label": "lighttpd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lighttpd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "66e1d1db019de8812449ad2e6b731cd4254d1db04fc31338f0918f9b8ce265d8"
+      },
+      "sha256": "83da3106f61c5f65454103f95fb0d63b6ba6bf32b110053edd0a6220702854be",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lighttpd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

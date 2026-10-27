@@ -1,0 +1,40 @@
+{
+  "collection_id": 660,
+  "schema_version": 1,
+  "id": 887,
+  "title": "Acme",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "acme"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2468,
+      "collection": "Dashboard Icons",
+      "file": "acme.svg",
+      "id": 1848,
+      "is_default": true,
+      "label": "acme",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "acme.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e63041a3405f2f3c38b7d32de65c49b37233e23205856b644b5b5460bea940fe"
+      },
+      "sha256": "5af55d89ab7cc412956e94d479c2546e959df9b68be769e7ca79d36a2b688118",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/acme.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

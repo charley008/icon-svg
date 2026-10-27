@@ -1,0 +1,40 @@
+{
+  "collection_id": 2155,
+  "schema_version": 1,
+  "id": 2382,
+  "title": "Piwigo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "piwigo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 835,
+      "collection": "Dashboard Icons",
+      "file": "piwigo.svg",
+      "id": 3847,
+      "is_default": true,
+      "label": "piwigo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "piwigo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2deef1ddd9099ab42ef4b2ebf131ff3a2e13b89b3859c9721b9f3002a249fa33"
+      },
+      "sha256": "5e1a9742b910e45dec11100c2de1a1aa1c14a7ffecb4a1fb4d07cf1177b14d79",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/piwigo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

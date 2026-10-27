@@ -1,0 +1,59 @@
+{
+  "collection_id": 2000,
+  "schema_version": 1,
+  "id": 2227,
+  "title": "Oh My Posh",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oh-my-posh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1101,
+      "collection": "Dashboard Icons",
+      "file": "oh-my-posh.svg",
+      "id": 3618,
+      "is_default": true,
+      "label": "oh-my-posh",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oh-my-posh.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1114e8739b327dc95a2f431ab5670b79a2558a2f5eca62ab410cef30b33c99f4"
+      },
+      "sha256": "d7e2bb71d4225f26bc47360f408a27e8b85630868346f6645707438411288177",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oh-my-posh.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1137,
+      "collection": "Dashboard Icons",
+      "file": "oh-my-posh-1.svg",
+      "id": 3619,
+      "is_default": false,
+      "label": "oh-my-posh-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oh-my-posh-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6ff71d1ec3914e0731ff01548e8b896a72ed619d75f35d710b004379fc844d66"
+      },
+      "sha256": "1f40f06d4d23e860201d71fdc651901432a818149745fbe900ac443117cd59c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oh-my-posh-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

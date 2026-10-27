@@ -1,0 +1,45 @@
+{
+  "collection_id": 3098,
+  "schema_version": 1,
+  "id": 3338,
+  "title": "Codeac",
+  "url": "https://www.codeac.io",
+  "domains": [
+    "codeac.io"
+  ],
+  "description": "用于代码质量检查的自动化服务。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Codeac",
+    "codeac"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1620,
+      "collection": "TechIcons / Devicon",
+      "file": "codeac-1.svg",
+      "id": 5109,
+      "is_default": true,
+      "label": "TechIcons · Codeac",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Codeac.svg",
+        "original_sha256": "30c37178719af11b8e521b3419fd67856f358b1c4cb30c548e9503b965b0d06b",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/codeac",
+        "reference_website": "https://www.codeac.io"
+      },
+      "sha256": "8c1a3675377ac2a484019ff008b1dbe6ad94af98569f47b552c6d98b968dba28",
+      "source": "https://techicons.dev/icons/codeac",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

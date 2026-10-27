@@ -1,0 +1,45 @@
+{
+  "collection_id": 3161,
+  "schema_version": 1,
+  "id": 3418,
+  "title": "Ktor",
+  "url": "https://ktor.io",
+  "domains": [
+    "ktor.io"
+  ],
+  "description": "基于 Kotlin 的客户端与服务端应用框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Ktor",
+    "ktor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1118,
+      "collection": "TechIcons / Devicon",
+      "file": "ktor-1.svg",
+      "id": 5244,
+      "is_default": true,
+      "label": "TechIcons · Ktor",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Ktor.svg",
+        "original_sha256": "2a876b41c459c1addf308f7e6630587ee76c262401c1599400fb9152f7bcc92a",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ktor",
+        "reference_website": "https://ktor.io"
+      },
+      "sha256": "963595ecfb0c365cb62eeac5849861820f7cee1820f740a61618c0897c4f076f",
+      "source": "https://techicons.dev/icons/ktor",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

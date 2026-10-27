@@ -1,0 +1,59 @@
+{
+  "collection_id": 1173,
+  "schema_version": 1,
+  "id": 1400,
+  "title": "E Os",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "e-os"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 644,
+      "collection": "Dashboard Icons",
+      "file": "e-os.svg",
+      "id": 2524,
+      "is_default": true,
+      "label": "e-os",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "e-os.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7db60f96623f426d7c0be0107374a7758a1d7605983aceeeb22b49c12b5aae49"
+      },
+      "sha256": "fb228bb45021e990dedcfa2c161189d13c50384fe6bec2751d6a9136e8f8ade6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/e-os.svg",
+      "version": 0
+    },
+    {
+      "bytes": 867,
+      "collection": "Dashboard Icons",
+      "file": "e-os-1.svg",
+      "id": 2525,
+      "is_default": false,
+      "label": "e-os-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "e-os-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "41ba03ec61bbf8da3956fb222b7157434b6efcf949f11ecda424ad9c987a0e94"
+      },
+      "sha256": "60bfe30b6f5412678c0aa76440baff409c4078e82118eaaec8b2a8b3c9790031",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/e-os-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

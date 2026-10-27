@@ -1,0 +1,40 @@
+{
+  "collection_id": 2178,
+  "schema_version": 1,
+  "id": 2405,
+  "title": "Polaris Gamestream",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "polaris-gamestream"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6559,
+      "collection": "Dashboard Icons",
+      "file": "polaris-gamestream.svg",
+      "id": 3880,
+      "is_default": true,
+      "label": "polaris-gamestream",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "polaris-gamestream.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8028eadb7cbb4eb70cefeb9b00c3efe2b13665a91813125c383bd16c6dd57c82"
+      },
+      "sha256": "e6c37aa1514654e26b3afb3ca1b3a7b7fde6d97071ef6907399473e2eece3e7a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/polaris-gamestream.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

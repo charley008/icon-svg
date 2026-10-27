@@ -1,0 +1,41 @@
+{
+  "collection_id": 957,
+  "schema_version": 1,
+  "id": 1184,
+  "title": "Check Cle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "check-cle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3816,
+      "collection": "Dashboard Icons",
+      "file": "check-cle.svg",
+      "id": 2237,
+      "is_default": true,
+      "label": "check-cle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "check-cle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cdb84ea409948d1abd6f15e108e56da0bda557ee2f7b30b3e2c69c39b49b9a04"
+      },
+      "sha256": "943a5df4b0ffbb37940935e48c6af427ab10f0136cf07db35bf61f6213a6d117",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/check-cle.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

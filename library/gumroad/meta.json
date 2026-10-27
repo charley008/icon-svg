@@ -1,0 +1,40 @@
+{
+  "collection_id": 1432,
+  "schema_version": 1,
+  "id": 1659,
+  "title": "Gumroad",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "电商购物",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gumroad"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1126,
+      "collection": "Dashboard Icons",
+      "file": "gumroad.svg",
+      "id": 2866,
+      "is_default": true,
+      "label": "gumroad",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gumroad.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7f71829135de253f5dd29a6859b2eab0b2f2d0a8df3503d633b8e836ef5bed1a"
+      },
+      "sha256": "81653a4854ebd6911201035bcec1cd7d22594b3101746d8a4e21a83ceca5cce0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gumroad.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

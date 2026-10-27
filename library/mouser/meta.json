@@ -1,0 +1,40 @@
+{
+  "collection_id": 1861,
+  "schema_version": 1,
+  "id": 2088,
+  "title": "Mouser",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mouser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 42246,
+      "collection": "Dashboard Icons",
+      "file": "mouser.svg",
+      "id": 3436,
+      "is_default": true,
+      "label": "mouser",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mouser.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1a2396f076bb687974f5664a834ea243ef43e7490c014ac5e8963dfb62941b6"
+      },
+      "sha256": "5e45ac5cce06452cd32cef66adaf2029fcc13e532fe18685fba7c43aecfd2c4e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mouser.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

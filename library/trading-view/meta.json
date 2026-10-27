@@ -1,0 +1,64 @@
+{
+  "collection_id": 2826,
+  "schema_version": 1,
+  "id": 3053,
+  "title": "Trading View",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance",
+    "金融支付"
+  ],
+  "aliases": [
+    "trading-view",
+    "trading",
+    "view",
+    "charts"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 718,
+      "collection": "Dashboard Icons",
+      "file": "trading-view.svg",
+      "id": 4718,
+      "is_default": true,
+      "label": "trading-view",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trading-view.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aa5aa369a6a1801cce25f38fdfd4649a9ae2c7292785b30987bc8db639952e21"
+      },
+      "sha256": "575f05f627ad9611c823de2a9ae4bb590eeb9451e76a877ebcbbce5bf688e1e3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trading-view.svg",
+      "version": 0
+    },
+    {
+      "bytes": 718,
+      "collection": "Dashboard Icons",
+      "file": "trading-view-1.svg",
+      "id": 4719,
+      "is_default": false,
+      "label": "trading-view-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trading-view-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a0232dcd1a0ca6f8ddb71bbe53627bc60d2da91d7a30b9b8bf9bc59ee6099ed1"
+      },
+      "sha256": "774194ed46407e98bd9fd809da10e91db711259d8c6615d4a6d22dfc4c199b17",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trading-view-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

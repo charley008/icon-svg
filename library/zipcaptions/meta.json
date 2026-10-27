@@ -1,0 +1,44 @@
+{
+  "collection_id": 3055,
+  "schema_version": 1,
+  "id": 3282,
+  "title": "Zipcaptions",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "zipcaptions",
+    "Subtitle Tool"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1373,
+      "collection": "Dashboard Icons",
+      "file": "zipcaptions.svg",
+      "id": 5019,
+      "is_default": true,
+      "label": "zipcaptions",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zipcaptions.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d1d3f748dbe4533adf63528842a3cadfd58d6b8ca5c30c9186b36d26826fc136"
+      },
+      "sha256": "da31861fda7a5819441b677d574bd65615e4ed488b40281d63e716f9d029298a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zipcaptions.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

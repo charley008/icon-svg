@@ -1,0 +1,40 @@
+{
+  "collection_id": 1907,
+  "schema_version": 1,
+  "id": 2134,
+  "title": "Netsuite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netsuite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 374,
+      "collection": "Dashboard Icons",
+      "file": "netsuite.svg",
+      "id": 3497,
+      "is_default": true,
+      "label": "netsuite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netsuite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b56df54f33704d9eb5ad86fae40fde52642611e3e941bc05ac7af2909212f26"
+      },
+      "sha256": "815cd39a1413a014647d604857c9a407c80a382a6ed047dd1482f1f7b863f1f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netsuite.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

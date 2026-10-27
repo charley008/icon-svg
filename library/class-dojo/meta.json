@@ -1,0 +1,40 @@
+{
+  "collection_id": 979,
+  "schema_version": 1,
+  "id": 1206,
+  "title": "Class Dojo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "class-dojo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2696,
+      "collection": "Dashboard Icons",
+      "file": "class-dojo.svg",
+      "id": 2261,
+      "is_default": true,
+      "label": "class-dojo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "class-dojo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c0130e7a24fcf8a512cda508b24388850b50871c8fc2b4761d0072edcd286245"
+      },
+      "sha256": "f851998002ab74fc187626a6491625a9a27e21109f017fb98bfb46c1e9ec2fb2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/class-dojo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

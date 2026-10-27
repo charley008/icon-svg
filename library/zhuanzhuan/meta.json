@@ -23,11 +23,28 @@
   "notes": [],
   "icons": [
     {
+      "bytes": 407,
+      "collection": "用户提供 SVG",
+      "file": "zhuanzhuan-1.svg",
+      "id": 5413,
+      "is_default": true,
+      "label": "用户提供彩色版本",
+      "license": "用户提供；图案与商标归原权利人所有",
+      "method": "uploaded-svg",
+      "provenance": {
+        "original_file": "zhuanzhuan.svg",
+        "original_sha256": "480196d541aec1b5be5e179495ef3efcb5b13f8914ef3f299a820ddff2ee49a5"
+      },
+      "sha256": "480196d541aec1b5be5e179495ef3efcb5b13f8914ef3f299a820ddff2ee49a5",
+      "source": "用户提供：zhuanzhuan.svg",
+      "version": 1
+    },
+    {
       "bytes": 976,
       "collection": "Iconify / arcticons",
       "file": "zhuanzhuan.svg",
       "id": 1543,
-      "is_default": true,
+      "is_default": false,
       "label": "zhuan-zhuan",
       "license": "CC BY-SA 4.0",
       "method": "downloaded-svg",
@@ -46,6 +63,6 @@
       "version": 0
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

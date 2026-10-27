@@ -1,0 +1,40 @@
+{
+  "collection_id": 741,
+  "schema_version": 1,
+  "id": 968,
+  "title": "Applire",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "applire"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10951,
+      "collection": "Dashboard Icons",
+      "file": "applire.svg",
+      "id": 1956,
+      "is_default": true,
+      "label": "applire",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "applire.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "546ff2dc6eb43a250855eedcbe90d71596c145968023c4a072f2d1523a33cd6c"
+      },
+      "sha256": "67f9050cac1e30a48a8f59fae944c2182a855692e219906345d5e203cebcecce",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/applire.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1972,
+  "schema_version": 1,
+  "id": 2199,
+  "title": "Nut",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "nut"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3852,
+      "collection": "Dashboard Icons",
+      "file": "nut.svg",
+      "id": 3580,
+      "is_default": true,
+      "label": "nut",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "nut.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea219e3386af5c7f71358af5f084b4fa038fbe72fd93c2b13a195d2f6da28198"
+      },
+      "sha256": "048b28559f5be606eda65d618c109082284b3103e7c2f64c1f4f67c15f3ead07",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/nut.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

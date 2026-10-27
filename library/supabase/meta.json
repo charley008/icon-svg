@@ -1,0 +1,45 @@
+{
+  "collection_id": 2716,
+  "schema_version": 1,
+  "id": 2943,
+  "title": "Supabase",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud-Computing",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "supabase",
+    "supabase-io",
+    "firebase-alternative"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1018,
+      "collection": "Dashboard Icons",
+      "file": "supabase.svg",
+      "id": 4578,
+      "is_default": true,
+      "label": "supabase",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "supabase.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f705be332477efbb8fd3a9b84bd0a64de5c64d0e0fb424320114a0eb313d7f8c"
+      },
+      "sha256": "0065f8ea2d62a96676ac7b6b46276939c2100e3f61d5f676920458b5758cbcc6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/supabase.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 3001,
+  "schema_version": 1,
+  "id": 3228,
+  "title": "Writefreely",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "writefreely"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2436,
+      "collection": "Dashboard Icons",
+      "file": "writefreely.svg",
+      "id": 4947,
+      "is_default": true,
+      "label": "writefreely",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "writefreely.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3fa94efed355f3f1f6b24610872d2f1050b95fdcf07ec7308a5f202297cf1155"
+      },
+      "sha256": "bf5af60a82d032edfc39f9ef2416a29ec177c32bf3be857009641490c7243ae1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/writefreely.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2439,
+      "collection": "Dashboard Icons",
+      "file": "writefreely-1.svg",
+      "id": 4948,
+      "is_default": false,
+      "label": "writefreely-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "writefreely-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5e944caa973c8afad943382c0a2e30925d2078410daa945343b73141212240d7"
+      },
+      "sha256": "fe78c6d72ba63470a329ee3a8c3c57ddb80d39040fe1eb376c630cd04112c751",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/writefreely-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

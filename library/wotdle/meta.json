@@ -1,0 +1,59 @@
+{
+  "collection_id": 2999,
+  "schema_version": 1,
+  "id": 3226,
+  "title": "Wotdle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "wotdle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 811,
+      "collection": "Dashboard Icons",
+      "file": "wotdle.svg",
+      "id": 4944,
+      "is_default": true,
+      "label": "wotdle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wotdle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f7301f09ebcd6744f520c515fd95253b9dc425b4ccbe8819a3989fa7ed265d18"
+      },
+      "sha256": "7accd40c290374f6227ab604b760049951416fe9dbd84794696f1cdf99c09870",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wotdle.svg",
+      "version": 0
+    },
+    {
+      "bytes": 811,
+      "collection": "Dashboard Icons",
+      "file": "wotdle-1.svg",
+      "id": 4945,
+      "is_default": false,
+      "label": "wotdle-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wotdle-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "53929963200be8f8ee86a9b7f9cc70154905f80b0766978eeffbfcf3fba74a5c"
+      },
+      "sha256": "f0849065c0ba95c3270b0dbba6bbced5154b51e64aaec7982cda329ce1900a0b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wotdle-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

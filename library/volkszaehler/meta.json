@@ -1,0 +1,40 @@
+{
+  "collection_id": 2935,
+  "schema_version": 1,
+  "id": 3162,
+  "title": "Volkszaehler",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "volkszaehler"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 492,
+      "collection": "Dashboard Icons",
+      "file": "volkszaehler.svg",
+      "id": 4860,
+      "is_default": true,
+      "label": "volkszaehler",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "volkszaehler.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e0c1ed954d41291c304941824ac14a5ba081c65702ca68adb6891c74e4d53ec2"
+      },
+      "sha256": "f8d2144b121c1f59c153c7437779ad7722be7d4b5ebc9872939a5d28b6d71ac1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/volkszaehler.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 3018,
+  "schema_version": 1,
+  "id": 3245,
+  "title": "Yacd Blue",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yacd-blue"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 29040,
+      "collection": "Dashboard Icons",
+      "file": "yacd-blue.svg",
+      "id": 4973,
+      "is_default": true,
+      "label": "yacd-blue",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yacd-blue.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0f3aa32c83f95a9e82bdaa6a1db60b3f99cedf871860af52b4057182dbc6b2bd"
+      },
+      "sha256": "1d52ce7816d2905941dce2183484f9bd4a5249ce5c26a63a78ce8c9d53de31b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yacd-blue.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

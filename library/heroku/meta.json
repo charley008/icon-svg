@@ -1,0 +1,45 @@
+{
+  "collection_id": 3142,
+  "schema_version": 1,
+  "id": 3389,
+  "title": "Heroku",
+  "url": "https://www.heroku.com",
+  "domains": [
+    "heroku.com"
+  ],
+  "description": "托管应用的云端部署与运行平台。",
+  "category": "云服务",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Heroku",
+    "heroku"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 562,
+      "collection": "TechIcons / Devicon",
+      "file": "heroku-1.svg",
+      "id": 5202,
+      "is_default": true,
+      "label": "TechIcons · Heroku",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Heroku.svg",
+        "original_sha256": "3385de8966d218b6a837a6c5f2f07ba52de24a40d1b3b53dc918ede14acb9d13",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/heroku",
+        "reference_website": "https://www.heroku.com"
+      },
+      "sha256": "801bbff82cf987d3a5f30e93d1ead4088a002367c9ce7ce3dbaf78eb05f1b338",
+      "source": "https://techicons.dev/icons/heroku",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

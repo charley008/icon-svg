@@ -1,0 +1,40 @@
+{
+  "collection_id": 772,
+  "schema_version": 1,
+  "id": 999,
+  "title": "Auditorr",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "auditorr"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1581,
+      "collection": "Dashboard Icons",
+      "file": "auditorr.svg",
+      "id": 1998,
+      "is_default": true,
+      "label": "auditorr",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "auditorr.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c21a6bee0ae22af91fef0ebfc88a2f5ee4a3582eb956b9a358e4b2410b773ece"
+      },
+      "sha256": "ab3e4e74e81b6352577bd3a91eb4507fe0e096222c385acde9bfd952d0320fcd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/auditorr.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

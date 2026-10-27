@@ -1,0 +1,44 @@
+{
+  "collection_id": 2829,
+  "schema_version": 1,
+  "id": 3056,
+  "title": "Traefik Proxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "网络工具"
+  ],
+  "aliases": [
+    "traefik-proxy",
+    "Reverse Proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1418,
+      "collection": "Dashboard Icons",
+      "file": "traefik-proxy.svg",
+      "id": 4722,
+      "is_default": true,
+      "label": "traefik-proxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "traefik-proxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b9f03d850d694ae36636431c65cde3ce8fe9c6bf9614353a0761f43d65ceee5f"
+      },
+      "sha256": "36d49f361de3e03fd333d3e0f007903aa8cd054ab0c47515cbbc86eeda3ade77",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/traefik-proxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

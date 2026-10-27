@@ -1,0 +1,83 @@
+{
+  "collection_id": 874,
+  "schema_version": 1,
+  "id": 1101,
+  "redirect_from": [
+    1102
+  ],
+  "title": "Bitly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bitly",
+    "bitly-wordmark-light",
+    "Bitly Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1086,
+      "collection": "Dashboard Icons",
+      "file": "bitly.svg",
+      "id": 2128,
+      "is_default": true,
+      "label": "bitly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68a90b2f28d9970729823865f0c02f7d5c4816c93c625b3a8c7b77a4005b05b2"
+      },
+      "sha256": "7ee8f26891eccc957f37667acb946b56800c511a46651b870c639e12b3bc58e9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitly.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1790,
+      "collection": "Dashboard Icons",
+      "file": "bitly-1.svg",
+      "id": 2129,
+      "is_default": false,
+      "label": "bitly-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitly-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "15ba3cef9f2b310c957d4b1d8332b5fe7394df5333e89f47e84081b8b3b9ff2d"
+      },
+      "sha256": "b2603fc5d3c887c017af1e677ef86265fa29d0bab30941e1aaacf417f5fa2492",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitly-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2588,
+      "collection": "Dashboard Icons",
+      "file": "bitly-2.svg",
+      "id": 2130,
+      "is_default": false,
+      "label": "bitly-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitly-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "761eead0a16aef96ca8c7f2dbeda08aaf19157561bcb8dfde76804797d9d8b87"
+      },
+      "sha256": "f1844e1651d99acf271bcdf0a7cd5c23b005d61da2faae3e6a79bc289021e5a0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitly-wordmark-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

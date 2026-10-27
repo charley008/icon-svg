@@ -1,0 +1,40 @@
+{
+  "collection_id": 2934,
+  "schema_version": 1,
+  "id": 3161,
+  "title": "Voip Ms",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "voip-ms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 347,
+      "collection": "Dashboard Icons",
+      "file": "voip-ms.svg",
+      "id": 4859,
+      "is_default": true,
+      "label": "voip-ms",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "voip-ms.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b55b0247ede81cb673ee906d39fdb1df7843210b99cb9e58d861b629f2fb9e24"
+      },
+      "sha256": "84ad3db289302ef0e1f5ad7dad605514c38dee7ef9a261cf9741934e0a1b0376",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/voip-ms.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

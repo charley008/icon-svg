@@ -1,0 +1,40 @@
+{
+  "collection_id": 1327,
+  "schema_version": 1,
+  "id": 1554,
+  "title": "Freenas",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "freenas"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2360,
+      "collection": "Dashboard Icons",
+      "file": "freenas.svg",
+      "id": 2720,
+      "is_default": true,
+      "label": "freenas",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "freenas.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78abf0251cb1a623beadc0d93c5873cabc59a4096b5b325651cfca78236cfb14"
+      },
+      "sha256": "8cf1c0dafa3d87575cdde7b89614bd9c773b25674eef3a9133b6a06895390e3d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/freenas.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

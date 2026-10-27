@@ -1,0 +1,40 @@
+{
+  "collection_id": 2956,
+  "schema_version": 1,
+  "id": 3183,
+  "title": "Weavestream",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "weavestream"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 55578,
+      "collection": "Dashboard Icons",
+      "file": "weavestream.svg",
+      "id": 4888,
+      "is_default": true,
+      "label": "weavestream",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "weavestream.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "17147b8303a39bd4fa550b714743e5e3d330121c1d52d6bf857697b628e5688f"
+      },
+      "sha256": "17187f513382484ce6bd5d410bba9db89939e449b990f4c516773f359a6eb64d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/weavestream.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

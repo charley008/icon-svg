@@ -1,0 +1,64 @@
+{
+  "collection_id": 1164,
+  "schema_version": 1,
+  "id": 1391,
+  "title": "Duckdns",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Cloud-Computing",
+    "网络工具"
+  ],
+  "aliases": [
+    "duckdns",
+    "ddns-provider",
+    "dynamic-ip-service"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1475,
+      "collection": "Dashboard Icons",
+      "file": "duckdns.svg",
+      "id": 2513,
+      "is_default": true,
+      "label": "duckdns",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckdns.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f86d868d3863e9c8f9b257289b9f22b2ab583b668c34ec193b5dcad2b7d936b3"
+      },
+      "sha256": "01acac629a32e76e3468baa8471fe92086629e789fba18ed5708a31397c1ab47",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duckdns.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1472,
+      "collection": "Dashboard Icons",
+      "file": "duckdns-1.svg",
+      "id": 2514,
+      "is_default": false,
+      "label": "duckdns-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duckdns-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9648b32e7f8f324bf645e4e9afe1f8d3dd71aa645df030ee6694721820c8e938"
+      },
+      "sha256": "d11d4de5a7b913ea881b0414f9c9ce72b621768829a8f47ec85f2e2a7ce414fe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duckdns-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

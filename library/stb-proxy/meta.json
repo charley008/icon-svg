@@ -1,0 +1,40 @@
+{
+  "collection_id": 2700,
+  "schema_version": 1,
+  "id": 2927,
+  "title": "Stb Proxy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stb-proxy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2439,
+      "collection": "Dashboard Icons",
+      "file": "stb-proxy.svg",
+      "id": 4557,
+      "is_default": true,
+      "label": "stb-proxy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stb-proxy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2dcc3b339a565907de185ed1379762b07a69a9ed31d9ed21f709d2678c03bc1e"
+      },
+      "sha256": "b8f0de2aad520a3814844e9736d7e557f1d41502280c3183034763ecd001c04d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stb-proxy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

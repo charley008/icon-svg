@@ -1,0 +1,43 @@
+{
+  "collection_id": 2696,
+  "schema_version": 1,
+  "id": 2923,
+  "title": "Stash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "stash",
+    "Media Manager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 495,
+      "collection": "Dashboard Icons",
+      "file": "stash.svg",
+      "id": 4553,
+      "is_default": true,
+      "label": "stash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "290175e83673749f66b20e83bc7ec3367ac71e33488c1b7b87393cdcb2849ce1"
+      },
+      "sha256": "b4e32658d03012b55e055ee34127938ed138021213ff81a6dc78ccfd13c07e2a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stash.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

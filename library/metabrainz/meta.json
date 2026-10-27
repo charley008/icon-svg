@@ -1,0 +1,41 @@
+{
+  "collection_id": 1815,
+  "schema_version": 1,
+  "id": 2042,
+  "title": "Metabrainz",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "metabrainz"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 21124,
+      "collection": "Dashboard Icons",
+      "file": "metabrainz.svg",
+      "id": 3363,
+      "is_default": true,
+      "label": "metabrainz",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "metabrainz.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9514757d625a0ebaa0702b830123f429d8bdbc4904ab5fbea570ac37980a9ce7"
+      },
+      "sha256": "52747c76726f4428f1416700736a74d8718f0b0a457e98398a4759098a47229a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/metabrainz.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

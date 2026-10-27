@@ -1,0 +1,44 @@
+{
+  "collection_id": 1168,
+  "schema_version": 1,
+  "id": 1395,
+  "title": "Duo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Password-Managers",
+    "Security",
+    "系统工具"
+  ],
+  "aliases": [
+    "duo",
+    "Two-Factor Authentication"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1259,
+      "collection": "Dashboard Icons",
+      "file": "duo.svg",
+      "id": 2518,
+      "is_default": true,
+      "label": "duo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "duo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "46a7a97028e505d6de6b6a8129ee84b3a356e0d1a5d9575db344a73ebab351f2"
+      },
+      "sha256": "1faf164f7f9cbbcc0f94625614fe6389b6fa4dc752169fab1b18de2dd6e6f711",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/duo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

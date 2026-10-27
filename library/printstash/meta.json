@@ -1,0 +1,40 @@
+{
+  "collection_id": 2210,
+  "schema_version": 1,
+  "id": 2437,
+  "title": "Printstash",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "printstash"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 999,
+      "collection": "Dashboard Icons",
+      "file": "printstash.svg",
+      "id": 3927,
+      "is_default": true,
+      "label": "printstash",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "printstash.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "269d68671479fa2c833093433e510623a9f0d398683f19bc2b36309409f6c10f"
+      },
+      "sha256": "7e081488e73be0b4092dcd421988cfc4a01fc6e41321928cd249cd8a3f7bce40",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/printstash.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

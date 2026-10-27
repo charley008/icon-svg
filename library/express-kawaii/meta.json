@@ -1,0 +1,61 @@
+{
+  "collection_id": 1234,
+  "schema_version": 1,
+  "id": 1461,
+  "title": "Express",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "express-kawaii",
+    "Express Kawaii"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 124162,
+      "collection": "Dashboard Icons",
+      "file": "express-kawaii.svg",
+      "id": 2608,
+      "is_default": true,
+      "label": "express-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "express-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "23be8c363dd58fde77de08dfcedea442dd8d24581ed0325d2f06bf448338c36c"
+      },
+      "sha256": "d2f456999d4666950e4b0194d9ee80f3dc99841ec697ab3b8183919c21c069e0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/express-kawaii.svg",
+      "version": 0
+    },
+    {
+      "bytes": 954,
+      "collection": "TechIcons / Devicon",
+      "file": "express-kawaii-1.svg",
+      "id": 5153,
+      "is_default": false,
+      "label": "TechIcons · Express",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Express.svg",
+        "original_sha256": "27ec7e3d21d59102c046a96277877abf78aa9d7ad244277345d9c395486d42d4",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/express",
+        "reference_website": "https://expressjs.com"
+      },
+      "sha256": "db6c8d6238b883e90e4c3548d4d5cdcb1c842717bf5ec1597bc84a640197c4a3",
+      "source": "https://techicons.dev/icons/express",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

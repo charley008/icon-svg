@@ -1,0 +1,44 @@
+{
+  "collection_id": 2064,
+  "schema_version": 1,
+  "id": 2291,
+  "title": "Osu",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons",
+    "Gaming",
+    "游戏"
+  ],
+  "aliases": [
+    "osu",
+    "osu lazer",
+    "osu!"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6223,
+      "collection": "Dashboard Icons",
+      "file": "osu.svg",
+      "id": 3715,
+      "is_default": true,
+      "label": "osu",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "osu.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a8401010a98a31d45271681aad86dcaa91e5a96d6636b5a1d53760bae881045"
+      },
+      "sha256": "0953caf84c964b5a436d1a7ecbf86f0a4731285d3726bd84ad55e0757f6ec42d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/osu.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

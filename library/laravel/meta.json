@@ -1,0 +1,80 @@
+{
+  "collection_id": 1679,
+  "schema_version": 1,
+  "id": 1906,
+  "title": "Laravel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "laravel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3904,
+      "collection": "Dashboard Icons",
+      "file": "laravel.svg",
+      "id": 3184,
+      "is_default": true,
+      "label": "laravel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "laravel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c190d7f32d06de98d71efd10330d01ba875565383efb0bdecb59d6319524024b"
+      },
+      "sha256": "c970bdfea0d90dfc02113e87bf73f485904b622f056f45e45280ba8baf1b7643",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/laravel.svg",
+      "version": 0
+    },
+    {
+      "bytes": 43735,
+      "collection": "Dashboard Icons",
+      "file": "laravel-1.svg",
+      "id": 3185,
+      "is_default": false,
+      "label": "laravel-kawaii",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "laravel-kawaii.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "13a11dd2f5a2e96736ccd3dc406f8d258bbf3f4a35dbc60e61f18d0943eb98bb"
+      },
+      "sha256": "7628df9566a233e549a5bde25c211e5154d409c7764f81ddb5c0550254bc409b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/laravel-kawaii.svg",
+      "version": 1
+    },
+    {
+      "bytes": 4980,
+      "collection": "TechIcons / Devicon",
+      "file": "laravel-2.svg",
+      "id": 5247,
+      "is_default": false,
+      "label": "TechIcons · Laravel",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Laravel.svg",
+        "original_sha256": "f9895998138d20957d4ecece280a9b5f938db16a80a0baf2116e865c50526f38",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/laravel",
+        "reference_website": "https://laravel.com"
+      },
+      "sha256": "a515b67651c122fc139d9af26a7b82bfa6c2dc009ef75d2a9bf060006aff4b25",
+      "source": "https://techicons.dev/icons/laravel",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

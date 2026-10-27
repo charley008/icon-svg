@@ -1,0 +1,105 @@
+{
+  "collection_id": 2662,
+  "schema_version": 1,
+  "id": 2889,
+  "redirect_from": [
+    2890,
+    2891
+  ],
+  "title": "Sourcehut",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sourcehut",
+    "sourcehut-wordmark-light",
+    "Sourcehut Wordmark Light",
+    "sourcehut-wordmark-dark",
+    "Sourcehut Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 272,
+      "collection": "Dashboard Icons",
+      "file": "sourcehut.svg",
+      "id": 4512,
+      "is_default": true,
+      "label": "sourcehut",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sourcehut.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "880e49aa8c5bc75a5b8de76828ac8e589013a286f279327f9214005c64e26fa2"
+      },
+      "sha256": "3947d7c1ca460ccd60ba536130db0994544c2c22bf6b62559ea32a93914fc2ba",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sourcehut.svg",
+      "version": 0
+    },
+    {
+      "bytes": 357,
+      "collection": "Dashboard Icons",
+      "file": "sourcehut-1.svg",
+      "id": 4513,
+      "is_default": false,
+      "label": "sourcehut-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sourcehut-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98f686b7623c435eb5859699f8438670ca40262a056f4c52dd0dae6cc4cc9d26"
+      },
+      "sha256": "128997203d10d78b2d39d7e74c85e50b9254ab0366b88a27c97ada215dfae4c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sourcehut-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 2019,
+      "collection": "Dashboard Icons",
+      "file": "sourcehut-2.svg",
+      "id": 4515,
+      "is_default": false,
+      "label": "sourcehut-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sourcehut-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f0ec24d2dc4e3b4347c8e633bec6a76be75ec252253869113bf65502c52415fd"
+      },
+      "sha256": "85aa2549f5be94987cd1066cc551ec1644498ea9318757fc2f62de025f93f5ac",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sourcehut-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 2045,
+      "collection": "Dashboard Icons",
+      "file": "sourcehut-3.svg",
+      "id": 4514,
+      "is_default": false,
+      "label": "sourcehut-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sourcehut-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "948f3eb0273777d50fa6011c68e6cba46ed350e9a4da74ec533864b073447a8f"
+      },
+      "sha256": "7cc3636b527ff6f3920207edc7d5a1ef712beb797c6cce048e38e25a67a336e2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sourcehut-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "collection_id": 3191,
+  "schema_version": 1,
+  "id": 3453,
+  "title": "Oh my zsh",
+  "url": "https://ohmyz.sh",
+  "domains": [
+    "ohmyz.sh"
+  ],
+  "description": "用于配置与扩展 Zsh 命令行环境的工具。",
+  "category": "系统工具",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Oh my zsh",
+    "ohmyzsh",
+    "Oh-my-zsh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 54602,
+      "collection": "TechIcons / Devicon",
+      "file": "ohmyzsh-1.svg",
+      "id": 5294,
+      "is_default": true,
+      "label": "TechIcons · Oh my zsh",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Oh-my-zsh.svg",
+        "original_sha256": "990f95c09b1d9375b2118c51bf3d684790488222a0593878d07845bf558192f5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ohmyzsh",
+        "reference_website": "https://ohmyz.sh"
+      },
+      "sha256": "e5f688a47124c7e9a81e7882ad18ced57d405b079d8ee07d2688205a306d7a9c",
+      "source": "https://techicons.dev/icons/ohmyzsh",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

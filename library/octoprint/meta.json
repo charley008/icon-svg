@@ -1,0 +1,45 @@
+{
+  "collection_id": 1986,
+  "schema_version": 1,
+  "id": 2213,
+  "title": "Octoprint",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons",
+    "Home-Automation",
+    "Hardware",
+    "系统工具"
+  ],
+  "aliases": [
+    "octoprint",
+    "3d-printer-server",
+    "printer-interface"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1614,
+      "collection": "Dashboard Icons",
+      "file": "octoprint.svg",
+      "id": 3598,
+      "is_default": true,
+      "label": "octoprint",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "octoprint.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "97bea45badd6fb1138504d2ebb6df8c165959b62607ab1472663a9d40c24ebfc"
+      },
+      "sha256": "786c576939939f9ba7563d8ca0bf4cfec74c82b16900945ae4b0243d4f1c5370",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/octoprint.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

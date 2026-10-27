@@ -1,0 +1,46 @@
+{
+  "collection_id": 3247,
+  "schema_version": 1,
+  "id": 3510,
+  "title": "The Algorithms",
+  "url": "https://the-algorithms.com",
+  "domains": [
+    "the-algorithms.com"
+  ],
+  "description": "用于学习算法与程序实现的开源项目集合。",
+  "category": "教育科研",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "The Algorithms",
+    "thealgorithms",
+    "The-Algorithms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 728,
+      "collection": "TechIcons / Devicon",
+      "file": "thealgorithms-1.svg",
+      "id": 5379,
+      "is_default": true,
+      "label": "TechIcons · The Algorithms",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "The-Algorithms.svg",
+        "original_sha256": "4130cf241f3c23a6faaa93bf39c709348b0fb5acfaa57bb96a4104aae108bad5",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/thealgorithms",
+        "reference_website": "https://the-algorithms.com"
+      },
+      "sha256": "fc0bffd32f4142a5e20164bd1ffe890e2e7202cd40910da8534f06809759f336",
+      "source": "https://techicons.dev/icons/thealgorithms",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

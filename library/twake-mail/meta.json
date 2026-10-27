@@ -1,0 +1,64 @@
+{
+  "collection_id": 2855,
+  "schema_version": 1,
+  "id": 3082,
+  "redirect_from": [
+    3083
+  ],
+  "title": "Twake Mail",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "twake-mail",
+    "twake-mail-wordmark-light",
+    "Twake Mail Wordmark Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1844,
+      "collection": "Dashboard Icons",
+      "file": "twake-mail.svg",
+      "id": 4753,
+      "is_default": true,
+      "label": "twake-mail",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "twake-mail.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9b69c20ffecbd6ba631af69a300e0962c573380031d0e93f99cac13aa96634e4"
+      },
+      "sha256": "3b717c028dbcda02537b33c74fe5cc6aefb1e37e5f174efbf30ace3519d67601",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twake-mail.svg",
+      "version": 0
+    },
+    {
+      "bytes": 7900,
+      "collection": "Dashboard Icons",
+      "file": "twake-mail-1.svg",
+      "id": 4754,
+      "is_default": false,
+      "label": "twake-mail-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "twake-mail-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "40d19531ae7b206a497544a386d1b4d270fa5af72a44ae55f1512be8d4eb0d93"
+      },
+      "sha256": "12345c234ea9c853299ffe32a9de292d3b75944333b8859257415a735db1db09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/twake-mail-wordmark-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

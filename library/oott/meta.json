@@ -1,0 +1,59 @@
+{
+  "collection_id": 2013,
+  "schema_version": 1,
+  "id": 2240,
+  "title": "Oott",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oott"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1247,
+      "collection": "Dashboard Icons",
+      "file": "oott.svg",
+      "id": 3640,
+      "is_default": true,
+      "label": "oott",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oott.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5c884a55281aaecc899ac080f3581c2d51012df844a9785ad7293d013d079b82"
+      },
+      "sha256": "febca4fa0cacf8d9bf0cba976837f340bf14f89f9349f53afd4f9982bc008eaa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oott.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1247,
+      "collection": "Dashboard Icons",
+      "file": "oott-1.svg",
+      "id": 3641,
+      "is_default": false,
+      "label": "oott-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oott-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "41ea1bddb39e0dd0242f64218134bccdf5c70814377247ae92cb5bf4c89b8bef"
+      },
+      "sha256": "92ec69e54705fcc51f25723bd2470b97f92a31a39bdff68a57c90f346b08a548",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oott-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

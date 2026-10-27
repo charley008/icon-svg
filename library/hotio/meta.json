@@ -1,0 +1,40 @@
+{
+  "collection_id": 1495,
+  "schema_version": 1,
+  "id": 1722,
+  "title": "Hotio",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "hotio"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1811,
+      "collection": "Dashboard Icons",
+      "file": "hotio.svg",
+      "id": 2956,
+      "is_default": true,
+      "label": "hotio",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hotio.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5cc1d81d3c0f416be1ef01c74a1df9c123259aeffaebc7766856a212b04c44c8"
+      },
+      "sha256": "205a76798ffd91f359e373ab955a949ad3bcef87ec507fbb5c60147c89f9cc22",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hotio.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

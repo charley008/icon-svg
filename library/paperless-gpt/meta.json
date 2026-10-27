@@ -1,0 +1,40 @@
+{
+  "collection_id": 2088,
+  "schema_version": 1,
+  "id": 2315,
+  "title": "Paperless Gpt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "paperless-gpt"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12923,
+      "collection": "Dashboard Icons",
+      "file": "paperless-gpt.svg",
+      "id": 3749,
+      "is_default": true,
+      "label": "paperless-gpt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "paperless-gpt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "132286eadfe77607ce24ae86e495e06f098e7c67ad8d767192e86044d42768ad"
+      },
+      "sha256": "6802932ccc55aac53afbe64b8a3fb8cb570d07777eaec1af39ca93dc675490fe",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/paperless-gpt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

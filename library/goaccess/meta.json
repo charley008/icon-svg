@@ -1,0 +1,64 @@
+{
+  "collection_id": 1379,
+  "schema_version": 1,
+  "id": 1606,
+  "title": "Goaccess",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Developer-Tools",
+    "Networking-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "goaccess",
+    "Log Analyzer"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1099,
+      "collection": "Dashboard Icons",
+      "file": "goaccess.svg",
+      "id": 2786,
+      "is_default": true,
+      "label": "goaccess",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goaccess.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dfc5a91a8386ed071947b7dd4dcf216ff615e59a967f5321d4648ba6957b9811"
+      },
+      "sha256": "1ca22feb9318ba7316a3a14758c63de077c100b2212972b1514f94affbc69778",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/goaccess.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1099,
+      "collection": "Dashboard Icons",
+      "file": "goaccess-1.svg",
+      "id": 2787,
+      "is_default": false,
+      "label": "goaccess-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "goaccess-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fdbf7c4774a220477a139865da3d42fb341e16c9e217fbb3d9a55a74786e9b28"
+      },
+      "sha256": "5fe4693154c6e3ff270a91886ed69f174db4e4d1b3fe5cf46f34e1a9cb4870ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/goaccess-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

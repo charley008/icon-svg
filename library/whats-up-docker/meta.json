@@ -1,0 +1,40 @@
+{
+  "collection_id": 2971,
+  "schema_version": 1,
+  "id": 3198,
+  "title": "Whats Up Docker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "whats-up-docker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 96673,
+      "collection": "Dashboard Icons",
+      "file": "whats-up-docker.svg",
+      "id": 4909,
+      "is_default": true,
+      "label": "whats-up-docker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "whats-up-docker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "98248f61ca897a827518414fb432871477342672180e44ea0e54cd42fa2d07d7"
+      },
+      "sha256": "6bb7b53ef2394f07e41b29b271957a4c8d168bce23a1e0ec09c47a75542cd9ac",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whats-up-docker.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -142,9 +142,47 @@
       "sha256": "cdb6bf77020c749560a5aa222cae2a7ffa939ddbbd6db3088d217a2d4dad9a4e",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/ri.json#wechat-fill",
       "version": 4
+    },
+    {
+      "bytes": 1385,
+      "collection": "Dashboard Icons",
+      "file": "wechat-5.svg",
+      "id": 4901,
+      "is_default": false,
+      "label": "wechat",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "439de170dff232935f08357fbfb852bb302545d6125861ed6074fe6237b3f912"
+      },
+      "sha256": "9c0ce1865338e598cd1c79549ecec8bd41fc9340146a956201b4aae6d886c79c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wechat.svg",
+      "version": 5
+    },
+    {
+      "bytes": 1385,
+      "collection": "Dashboard Icons",
+      "file": "wechat-6.svg",
+      "id": 4902,
+      "is_default": false,
+      "label": "wechat-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wechat-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "36eb3ce24d0e508503c34027a91f2adc989be60018776c165b103c5e507a63a4"
+      },
+      "sha256": "91e5712c3eba3399a50c907e2aea372c6723199565f205868aa46c110b911f22",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wechat-light.svg",
+      "version": 6
     }
   ],
-  "next_version": 5,
+  "next_version": 7,
   "products": [
     {
       "id": 571,
@@ -360,7 +398,7 @@
         "work.weixin.qq.com"
       ],
       "description": "",
-      "category": "办公效率",
+      "category": "社交通讯",
       "tags": [
         "国内补充",
         "办公",

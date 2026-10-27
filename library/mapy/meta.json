@@ -1,0 +1,40 @@
+{
+  "collection_id": 1780,
+  "schema_version": 1,
+  "id": 2007,
+  "title": "Mapy",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "mapy"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1674,
+      "collection": "Dashboard Icons",
+      "file": "mapy.svg",
+      "id": 3316,
+      "is_default": true,
+      "label": "mapy",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "mapy.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8277b27dc3d49c581f1a355ee3efbef3823e0c8757619e284f257a6293ec4f9a"
+      },
+      "sha256": "c2a4c92d5d18853559f1d8e38b90f3c73b8ecc42b5a2db13f079a9ca6e41115f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/mapy.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

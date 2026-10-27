@@ -1,4 +1,7 @@
 {
+  "collection_id": 538,
+  "schema_version": 1,
+  "id": 734,
   "title": "Hacker News",
   "url": "https://news.ycombinator.com/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "hacker-news.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "4f7c4ad9e1840497c1a44e0b07cb34b3712ae4cf225705ad39d8d04f8b19a353",
       "bytes": 325,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hacker-news.svg",
+      "collection": "Dashboard Icons",
+      "file": "hacker-news.svg",
+      "id": 1694,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "hacker-news.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "4f7c4ad9e1840497c1a44e0b07cb34b3712ae4cf225705ad39d8d04f8b19a353",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hacker-news.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

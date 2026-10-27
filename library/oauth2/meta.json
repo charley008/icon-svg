@@ -1,0 +1,40 @@
+{
+  "collection_id": 1981,
+  "schema_version": 1,
+  "id": 2208,
+  "title": "Oauth2",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oauth2"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 16121,
+      "collection": "Dashboard Icons",
+      "file": "oauth2.svg",
+      "id": 3593,
+      "is_default": true,
+      "label": "oauth2",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oauth2.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "020f83e1f8d903211363a733361755af2197810fdd466a96a898535840a36eb0"
+      },
+      "sha256": "fecd33e1a204a4ed65350b06e3ba42763659ed5930b98b12110331203f64fd39",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oauth2.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1561,
+  "schema_version": 1,
+  "id": 1788,
+  "title": "Ionos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ionos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 257,
+      "collection": "Dashboard Icons",
+      "file": "ionos.svg",
+      "id": 3039,
+      "is_default": true,
+      "label": "ionos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ionos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1bee7bbcc27a22f1b9ceb3f63bb5fa38d874ca86c05d51a66d493ceba0ce8b42"
+      },
+      "sha256": "3cee687b04b4588579d38ce9de21bd087127ed52dc01bff2f3b1c2d13634b066",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ionos.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

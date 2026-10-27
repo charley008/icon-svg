@@ -1,0 +1,40 @@
+{
+  "collection_id": 1669,
+  "schema_version": 1,
+  "id": 1896,
+  "title": "Kyoo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kyoo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1573,
+      "collection": "Dashboard Icons",
+      "file": "kyoo.svg",
+      "id": 3171,
+      "is_default": true,
+      "label": "kyoo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kyoo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "cee0d882311bfdb3ec2cebfc998daaa5d50e91dbd82dc9e538a22c4edda54d69"
+      },
+      "sha256": "2c0c663b197cd544ed8be3d57758efedaaaee17169dcdd4cc387661f405477d4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kyoo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

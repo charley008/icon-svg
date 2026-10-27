@@ -1,0 +1,40 @@
+{
+  "collection_id": 2117,
+  "schema_version": 1,
+  "id": 2344,
+  "title": "Pelican Panel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pelican-panel"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7455,
+      "collection": "Dashboard Icons",
+      "file": "pelican-panel.svg",
+      "id": 3789,
+      "is_default": true,
+      "label": "pelican-panel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pelican-panel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5abbbe32dde9deb4f250e32c32ab76669fad09ac4e196aca656845e8b69dfbcb"
+      },
+      "sha256": "c7532d7b4364ee78b59506b1d15663da8237cec7951c60f6dfab6657f78abd4c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pelican-panel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

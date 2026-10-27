@@ -1,0 +1,40 @@
+{
+  "collection_id": 2508,
+  "schema_version": 1,
+  "id": 2735,
+  "title": "Ricoh",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ricoh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 442,
+      "collection": "Dashboard Icons",
+      "file": "ricoh.svg",
+      "id": 4311,
+      "is_default": true,
+      "label": "ricoh",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ricoh.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fb27dc35ce9606588e2ed33a222fa2bcf31445b0d1a8b97e1d9e593b417c3bac"
+      },
+      "sha256": "1e346c5b2544cd372d4fe833a0d20212f62718b7d2677f62752f2cb568d306df",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ricoh.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

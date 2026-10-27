@@ -1,0 +1,59 @@
+{
+  "collection_id": 1810,
+  "schema_version": 1,
+  "id": 2037,
+  "title": "Meshping",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "meshping"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 872,
+      "collection": "Dashboard Icons",
+      "file": "meshping.svg",
+      "id": 3356,
+      "is_default": true,
+      "label": "meshping",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meshping.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a020a303300584c942567ea723b4ef71a1ff0f2021d7ddcee651095556969de9"
+      },
+      "sha256": "2d0b40afcc59c605cfcd74faa10b1ec6c8e6a79fed28bd1a78e38beff5c37314",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/meshping.svg",
+      "version": 0
+    },
+    {
+      "bytes": 884,
+      "collection": "Dashboard Icons",
+      "file": "meshping-1.svg",
+      "id": 3357,
+      "is_default": false,
+      "label": "meshping-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "meshping-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "31064a7be132b84e5a7337f29b9dffb29a186cb99d14588ac8c788a15e3331a7"
+      },
+      "sha256": "28cf9e8a7de8958c95f949000a08cc19ce3abc7fec7cad841e42e0533c94197e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/meshping-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

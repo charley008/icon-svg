@@ -1,0 +1,40 @@
+{
+  "collection_id": 2878,
+  "schema_version": 1,
+  "id": 3105,
+  "title": "Unimus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "unimus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1068,
+      "collection": "Dashboard Icons",
+      "file": "unimus.svg",
+      "id": 4786,
+      "is_default": true,
+      "label": "unimus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "unimus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4449cf7bbad20455255ab5e507d2ae5312c86aad9e6a0468855973f39c8290f5"
+      },
+      "sha256": "daab950928cd9c6fbbc551f6e7e668ea1d33461494f00c8f1b5481b3fc44f29c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/unimus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,60 @@
+{
+  "collection_id": 2188,
+  "schema_version": 1,
+  "id": 2415,
+  "title": "Portracker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "portracker"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4120,
+      "collection": "Dashboard Icons",
+      "file": "portracker.svg",
+      "id": 3897,
+      "is_default": true,
+      "label": "portracker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portracker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7851d53f235428df20571c209c250da3a5ea54391570c88ba860c8546b4c355e"
+      },
+      "sha256": "977e9171c736d1df41a14a5569ec30ad0dc820b9f40c2c8d49940af5753e6613",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portracker.svg",
+      "version": 0
+    },
+    {
+      "bytes": 4120,
+      "collection": "Dashboard Icons",
+      "file": "portracker-1.svg",
+      "id": 3898,
+      "is_default": false,
+      "label": "portracker-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "portracker-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c9084aa45a280cb0c6417e1d00ec2d4078c47fcc2e2b38252949fc49f631b6b5"
+      },
+      "sha256": "3ce74cef65266ae4c5912a17591554f5f288aa50b8dcffedc1d9ef2eb052e8c5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/portracker-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

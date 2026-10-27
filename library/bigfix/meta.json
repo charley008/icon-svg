@@ -1,0 +1,40 @@
+{
+  "collection_id": 867,
+  "schema_version": 1,
+  "id": 1094,
+  "title": "Bigfix",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bigfix"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 876,
+      "collection": "Dashboard Icons",
+      "file": "bigfix.svg",
+      "id": 2117,
+      "is_default": true,
+      "label": "bigfix",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bigfix.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "11a7fb6a0101b17df68b0ade7760ff7aaa9662177db311d137a4b30a0ce45d64"
+      },
+      "sha256": "dc5c2cb72e81664cdbc018fef38d859148fb1d08e3401ce8e25221481d612ccd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bigfix.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

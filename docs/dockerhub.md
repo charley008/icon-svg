@@ -10,6 +10,7 @@
 - 前后台浅色 / 深色模式。
 - SVG 和 meta.json 保存到 library，自动扫描并建立索引；账号、日志和统计保存在 data。
 - 支持 Linux AMD64 和 ARM64。
+- 1.0.3 提供素材 ZIP 导入/导出，追加素材无需更新镜像；页面显示版本号及 GitHub 链接。
 
 ## 快速启动
 
@@ -80,3 +81,9 @@ docker compose exec icon-svg cat /app/data/initial-admin.txt
 ## 许可说明
 
 图标与商标归相应权利人所有。各素材来源和许可信息保存在 meta.json 及 /app/library/licenses 中；第三方程序依赖许可见 /app/THIRD_PARTY_NOTICES.txt。
+
+## 1.0.3 素材导入导出
+
+升级程序到 1.0.3 后，在后台“设置 → 素材库管理”导入或导出 ZIP。后续仅添加素材无需更新镜像。已有非空 library 不会被镜像初始素材覆盖；可从 GitHub 对应 Release 下载 `icon-svg-1.0.3-materials.zip`，通过导入补全。已有默认图标、资料和上下架状态保留，重复内容及相同 HTTPS 来源跳过。ZIP 最大 64 MB，仅包含素材和许可文件，不包含账号或数据库。
+
+分类整理包还可补全已有条目的空分类/“其他”，导入时保持对应选项勾选即可。已经设置的具体分类不会被覆盖。注意源码提交不等于已发布镜像，非空的 library 挂载目录也不会随镜像更新自动覆盖；请确认访问域名连接的实例以及其素材目录。

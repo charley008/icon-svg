@@ -1,0 +1,40 @@
+{
+  "collection_id": 947,
+  "schema_version": 1,
+  "id": 1174,
+  "title": "Certshell",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "certshell"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 941,
+      "collection": "Dashboard Icons",
+      "file": "certshell.svg",
+      "id": 2225,
+      "is_default": true,
+      "label": "certshell",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "certshell.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9c64de9a4c23013604fb5d932f48849b5b9e0ee825da24fca21357f5a4d0e7fc"
+      },
+      "sha256": "dec2d2a9c4a207181519d5588144afef87d2298632e94ad9edce32c334394871",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/certshell.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

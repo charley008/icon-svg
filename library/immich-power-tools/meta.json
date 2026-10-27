@@ -1,0 +1,42 @@
+{
+  "collection_id": 1536,
+  "schema_version": 1,
+  "id": 1763,
+  "title": "Immich Power Tools",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "immich-power-tools"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 725,
+      "collection": "Dashboard Icons",
+      "file": "immich-power-tools.svg",
+      "id": 3008,
+      "is_default": true,
+      "label": "immich-power-tools",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "immich-power-tools.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "908348311a10512f08e682267dc9e1aa0bfa8c08f88b84e94fa0c9509e55e92b"
+      },
+      "sha256": "8821177e8eb4c5030d6c588e4932766c78d54309f213b8f02bfc541aa404bae2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich-power-tools.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

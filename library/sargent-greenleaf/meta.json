@@ -1,0 +1,40 @@
+{
+  "collection_id": 2552,
+  "schema_version": 1,
+  "id": 2779,
+  "title": "Sargent Greenleaf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sargent-greenleaf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 787,
+      "collection": "Dashboard Icons",
+      "file": "sargent-greenleaf.svg",
+      "id": 4368,
+      "is_default": true,
+      "label": "sargent-greenleaf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sargent-greenleaf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3718bb5fb3815eef48411ba54747b8cfd896525ec4f64eb2317d8e6f2efcb596"
+      },
+      "sha256": "23c2322f6367c75d656474b7a522ac09d647ce2ddd5dc88afb8f80b74fee02b6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sargent-greenleaf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

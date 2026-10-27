@@ -1,0 +1,40 @@
+{
+  "collection_id": 1313,
+  "schema_version": 1,
+  "id": 1540,
+  "title": "Formbricks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "formbricks"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4117,
+      "collection": "Dashboard Icons",
+      "file": "formbricks.svg",
+      "id": 2704,
+      "is_default": true,
+      "label": "formbricks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "formbricks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2de628e7766529f863e7a91def80f2d81962b2727b5c0d82ca2a19e254bb8e4a"
+      },
+      "sha256": "f91acbda85bc809fe781fde7d34fc8b3bd4f310952de0059212ed1aa660f504f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/formbricks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

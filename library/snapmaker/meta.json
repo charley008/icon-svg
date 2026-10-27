@@ -1,0 +1,86 @@
+{
+  "collection_id": 2639,
+  "schema_version": 1,
+  "id": 2866,
+  "redirect_from": [
+    2867,
+    2868
+  ],
+  "title": "Snapmaker",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "snapmaker",
+    "snapmaker-wordmark-light",
+    "Snapmaker Wordmark Light",
+    "snapmaker-wordmark-dark",
+    "Snapmaker Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1049,
+      "collection": "Dashboard Icons",
+      "file": "snapmaker.svg",
+      "id": 4482,
+      "is_default": true,
+      "label": "snapmaker",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snapmaker.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a218dc1803c20b87507824480bc3ae1708d84df04a79bd7b44faff8aceeae41e"
+      },
+      "sha256": "faf21389668c2e3ce09b62e5a9eb96a514cf57f97736f6f6dff8ccbaa6fb8f4f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snapmaker.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6937,
+      "collection": "Dashboard Icons",
+      "file": "snapmaker-1.svg",
+      "id": 4484,
+      "is_default": false,
+      "label": "snapmaker-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snapmaker-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e84d613f8970de0edd76e85ec93308c8e2d6b448ebba285353b9d56d3dd639e"
+      },
+      "sha256": "0cdbde614fc0aaa89806815ec46ec6556243a1f6c475219c844c13034abdacab",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snapmaker-wordmark-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6937,
+      "collection": "Dashboard Icons",
+      "file": "snapmaker-2.svg",
+      "id": 4483,
+      "is_default": false,
+      "label": "snapmaker-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "snapmaker-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fe8b861512a249bf98bd5f17f7b35bf167b538804d4acf20222e17adfe678d86"
+      },
+      "sha256": "b150a52149947a0fdd099563f35ca8a0fe6bf3c6a992467ba7b28e083637d78c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/snapmaker-wordmark-dark.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

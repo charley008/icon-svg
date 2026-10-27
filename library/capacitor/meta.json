@@ -1,0 +1,45 @@
+{
+  "collection_id": 3092,
+  "schema_version": 1,
+  "id": 3331,
+  "title": "Capacitor",
+  "url": "https://capacitorjs.com",
+  "domains": [
+    "capacitorjs.com"
+  ],
+  "description": "用于构建跨平台原生应用的 Web 开发运行环境。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Capacitor",
+    "capacitor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 714,
+      "collection": "TechIcons / Devicon",
+      "file": "capacitor-1.svg",
+      "id": 5101,
+      "is_default": true,
+      "label": "TechIcons · Capacitor",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Capacitor.svg",
+        "original_sha256": "8297e3697be7be6d32784650327225c23c32bea55b7aa6e161ff32c1ef5e20ab",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/capacitor",
+        "reference_website": "https://capacitorjs.com"
+      },
+      "sha256": "8908612d19555ed6b4c0bae5b504b3cd3707d76664018a4d2f2d80e564d6c96a",
+      "source": "https://techicons.dev/icons/capacitor",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

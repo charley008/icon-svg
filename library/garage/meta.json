@@ -1,0 +1,40 @@
+{
+  "collection_id": 1350,
+  "schema_version": 1,
+  "id": 1577,
+  "title": "Garage",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "garage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3284,
+      "collection": "Dashboard Icons",
+      "file": "garage.svg",
+      "id": 2748,
+      "is_default": true,
+      "label": "garage",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "garage.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e9d777e3531055ad16aca63d9ad36f36fdb1e0fca522e219dd65cac59f6f14f5"
+      },
+      "sha256": "6640d77e0ddafa8ff00449c5835929d05a4226447fad57afc84f1938c7bd25d9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/garage.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

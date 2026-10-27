@@ -1,0 +1,40 @@
+{
+  "collection_id": 2756,
+  "schema_version": 1,
+  "id": 2983,
+  "title": "Teamtailor",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "teamtailor"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2312,
+      "collection": "Dashboard Icons",
+      "file": "teamtailor.svg",
+      "id": 4631,
+      "is_default": true,
+      "label": "teamtailor",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "teamtailor.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ff4c7d0634894caf0a144b1f643e32bd526808963a5da49f6e8bb56b10f09a73"
+      },
+      "sha256": "343d5fcf74d2d5ab550b406465e1f932a4024582dc4d306bd41ca1cd7bbce3e5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/teamtailor.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

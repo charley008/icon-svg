@@ -1,4 +1,7 @@
 {
+  "collection_id": 521,
+  "schema_version": 1,
+  "id": 694,
   "title": "D-Link",
   "url": "https://www.dlink.com/",
   "domains": [
@@ -22,23 +25,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "d-link.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "07238aee16ab366040bf429def8ac5c31222cd23234c8ec6910268c1e4f49671",
       "bytes": 3038,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/d-link.svg",
+      "collection": "Dashboard Icons",
+      "file": "d-link.svg",
+      "id": 1655,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "d-link.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "07238aee16ab366040bf429def8ac5c31222cd23234c8ec6910268c1e4f49671",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/d-link.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1167,
+  "schema_version": 1,
+  "id": 1394,
+  "title": "Dunkermotoren",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "dunkermotoren"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 584,
+      "collection": "Dashboard Icons",
+      "file": "dunkermotoren.svg",
+      "id": 2517,
+      "is_default": true,
+      "label": "dunkermotoren",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dunkermotoren.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "854e5d240379505c45fc5ad3d95bd8e0da9894e5202eea25ec32422bf0523aee"
+      },
+      "sha256": "7fafaea18d4efe206da31c5b654424d467906084ac34f5233913afda4502b6ff",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dunkermotoren.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

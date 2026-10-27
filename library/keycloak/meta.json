@@ -1,0 +1,40 @@
+{
+  "collection_id": 1628,
+  "schema_version": 1,
+  "id": 1855,
+  "title": "Keycloak",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "keycloak"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4034,
+      "collection": "Dashboard Icons",
+      "file": "keycloak.svg",
+      "id": 3124,
+      "is_default": true,
+      "label": "keycloak",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "keycloak.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8d59646b79576fbc1428ef1f9a69d6a9555fff31addd3c4814c01f3780ab1b96"
+      },
+      "sha256": "4bfa705cb2100d6497447b7384537f3631f61fda6744877e219e4966558187f2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/keycloak.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

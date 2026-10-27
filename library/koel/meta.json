@@ -1,0 +1,45 @@
+{
+  "collection_id": 1648,
+  "schema_version": 1,
+  "id": 1875,
+  "title": "Koel",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music-Streaming",
+    "Media-Servers",
+    "Web-Browsers",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "koel",
+    "Web Music Player"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2819,
+      "collection": "Dashboard Icons",
+      "file": "koel.svg",
+      "id": 3147,
+      "is_default": true,
+      "label": "koel",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "koel.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6ea0ab677c4d13654270e41350ba2b02ce60d10b452d61fc991c017d011fb9e"
+      },
+      "sha256": "fbe470e04b845068489ad25ae6568efc92f60273e5678dcea0ac1ee7f529e1e8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/koel.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": 1089,
+  "schema_version": 1,
+  "id": 1316,
+  "title": "Denodo",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "denodo"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2585,
+      "collection": "Dashboard Icons",
+      "file": "denodo.svg",
+      "id": 2416,
+      "is_default": true,
+      "label": "denodo",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "denodo.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5d7060323b404ff1f5b41666068a3108a8ba055d2e96fe228c618d8126a62a8"
+      },
+      "sha256": "9c926bfec52ee30c1c42727dd862d3a52a292cd16ed5f346b568b455b18ba118",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/denodo.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

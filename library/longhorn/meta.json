@@ -1,0 +1,44 @@
+{
+  "collection_id": 1738,
+  "schema_version": 1,
+  "id": 1965,
+  "title": "Longhorn",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Containerization-\u0026-Orchestration",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "longhorn",
+    "Distributed Block Storage"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1575,
+      "collection": "Dashboard Icons",
+      "file": "longhorn.svg",
+      "id": 3266,
+      "is_default": true,
+      "label": "longhorn",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "longhorn.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74096735c0ed6806b23ea7a4248c7b09174b51ceff8127f5ff1702163f7bec2e"
+      },
+      "sha256": "8c60ca08656916491424aa7692de7a0a26d05645b2a4d89223c3552f429d84e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/longhorn.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

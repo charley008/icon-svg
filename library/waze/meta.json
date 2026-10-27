@@ -1,0 +1,40 @@
+{
+  "collection_id": 2954,
+  "schema_version": 1,
+  "id": 3181,
+  "title": "Waze",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "waze"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2663,
+      "collection": "Dashboard Icons",
+      "file": "waze.svg",
+      "id": 4886,
+      "is_default": true,
+      "label": "waze",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "waze.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4a4435441fd4913f1273a90f2846250e7e78d35358efa971ae917ac677dbfdd6"
+      },
+      "sha256": "71e26dc5da7985aba3ef960cfac917aa476ea0ef2da1181e6f2f3b80c0ba5dda",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/waze.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

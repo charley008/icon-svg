@@ -1,4 +1,7 @@
 {
+  "collection_id": 548,
+  "schema_version": 1,
+  "id": 749,
   "title": "Immich",
   "url": "https://immich.app/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "immich.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "a5d4a43899e63ffc7e97246034f7f63cdfdc410aa803c5713d545290601c4d89",
       "bytes": 1172,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich.svg",
+      "collection": "Dashboard Icons",
+      "file": "immich.svg",
+      "id": 1708,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "immich.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "a5d4a43899e63ffc7e97246034f7f63cdfdc410aa803c5713d545290601c4d89",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/immich.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

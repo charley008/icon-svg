@@ -1,0 +1,40 @@
+{
+  "collection_id": 1255,
+  "schema_version": 1,
+  "id": 1482,
+  "title": "Fhem",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "fhem"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 900,
+      "collection": "Dashboard Icons",
+      "file": "fhem.svg",
+      "id": 2637,
+      "is_default": true,
+      "label": "fhem",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "fhem.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2f5415a107d1f6e690b37dafa07216dc83e79b291c6bdeef24de0f18d3c9f064"
+      },
+      "sha256": "83a5b14ffce14b862999d721a249be01d780a51d6063991b2a13d94f8b0dc666",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/fhem.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1591,
+  "schema_version": 1,
+  "id": 1818,
+  "title": "Jfrog",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "jfrog"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3362,
+      "collection": "Dashboard Icons",
+      "file": "jfrog.svg",
+      "id": 3079,
+      "is_default": true,
+      "label": "jfrog",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "jfrog.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "22ff6f2d7591cdb7249f10fa7f4504caed7c35832db014affdd78a975451e1ec"
+      },
+      "sha256": "5eef209dd16187a7c91cb218304d0d96bf47849b3c5ee013be37f75274beac09",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/jfrog.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

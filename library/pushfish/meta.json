@@ -1,0 +1,44 @@
+{
+  "collection_id": 2240,
+  "schema_version": 1,
+  "id": 2467,
+  "title": "Pushfish",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "Networking-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "pushfish",
+    "Push Notification"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1569,
+      "collection": "Dashboard Icons",
+      "file": "pushfish.svg",
+      "id": 3964,
+      "is_default": true,
+      "label": "pushfish",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pushfish.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "90378da6bf2cd2733c061fba82a52a86e1f93171cf205616818b806953e5ee21"
+      },
+      "sha256": "9983f36d87d21bc819221a2b81498a05b02b2fe74c8c4935d3280284599bf406",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pushfish.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

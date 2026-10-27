@@ -1,0 +1,59 @@
+{
+  "collection_id": 2469,
+  "schema_version": 1,
+  "id": 2696,
+  "title": "Reactive Resume",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "reactive-resume"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 741,
+      "collection": "Dashboard Icons",
+      "file": "reactive-resume.svg",
+      "id": 4263,
+      "is_default": true,
+      "label": "reactive-resume",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reactive-resume.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "12e86d3a578fecf8a6dce14fd329aa91bc836405575541dca858b7d604d564b2"
+      },
+      "sha256": "4e3173a53004c023ef8b62066c48869a13762ed9b4a51b790e81de156d15cce1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/reactive-resume.svg",
+      "version": 0
+    },
+    {
+      "bytes": 756,
+      "collection": "Dashboard Icons",
+      "file": "reactive-resume-1.svg",
+      "id": 4264,
+      "is_default": false,
+      "label": "reactive-resume-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "reactive-resume-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "62b6e4c30139fb7af9ad8cbf44a0226e5a2aa2b97320bfc8bd6ac42a2a5b44c2"
+      },
+      "sha256": "da087041e8ae188f8391e18d8e94498049dd050051406b80be66b7d038b5caa4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/reactive-resume-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

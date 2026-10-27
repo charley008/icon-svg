@@ -1,0 +1,40 @@
+{
+  "collection_id": 775,
+  "schema_version": 1,
+  "id": 1002,
+  "title": "Auracast",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "auracast"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 877,
+      "collection": "Dashboard Icons",
+      "file": "auracast.svg",
+      "id": 2002,
+      "is_default": true,
+      "label": "auracast",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "auracast.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "112b44cc4a5dff3ad3a1d640f82445380c135bc0eeec3752b62b2f413099893e"
+      },
+      "sha256": "51f0884d797ebbb141d02881f65f3369bff88e5fe3df8f47f241965e24bf2e0d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/auracast.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1216,
+  "schema_version": 1,
+  "id": 1443,
+  "title": "Etcd",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "etcd"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1427,
+      "collection": "Dashboard Icons",
+      "file": "etcd.svg",
+      "id": 2587,
+      "is_default": true,
+      "label": "etcd",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "etcd.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef87b77b2417dfa6b6b8dd8b864bb00ec1f1c78cb74d95f4182e1cb5c7952ef3"
+      },
+      "sha256": "10f974ea5a58555cbda8e9829b0412bc3ff5680892d37e8970cf0698eb5698e4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/etcd.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

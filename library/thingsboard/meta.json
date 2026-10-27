@@ -1,0 +1,40 @@
+{
+  "collection_id": 2795,
+  "schema_version": 1,
+  "id": 3022,
+  "title": "Thingsboard",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "thingsboard"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4933,
+      "collection": "Dashboard Icons",
+      "file": "thingsboard.svg",
+      "id": 4677,
+      "is_default": true,
+      "label": "thingsboard",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "thingsboard.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0e9fee0add6f4ba39a3a980e2485a0ec4c3e7875135baa09e59348c1f6a33276"
+      },
+      "sha256": "e9e4a4a137c1206abe9543a5b916c817cef1db3828e3bc0125ace58051bc5494",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/thingsboard.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

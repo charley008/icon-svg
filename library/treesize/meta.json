@@ -1,0 +1,40 @@
+{
+  "collection_id": 2835,
+  "schema_version": 1,
+  "id": 3062,
+  "title": "Treesize",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "treesize"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 350,
+      "collection": "Dashboard Icons",
+      "file": "treesize.svg",
+      "id": 4728,
+      "is_default": true,
+      "label": "treesize",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "treesize.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a8d8681ee39be6924ae78c1488c3d3f14c44916c4069f128e99f8693e4f7d15a"
+      },
+      "sha256": "5d02ebf6b2122f669c44a0b7d343397c523193dfd5a5683fcb09ab0e5f8a1a74",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/treesize.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

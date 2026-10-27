@@ -1,0 +1,44 @@
+{
+  "collection_id": 1027,
+  "schema_version": 1,
+  "id": 1254,
+  "title": "Coredns",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Networking-Tools",
+    "Server-Panels",
+    "网络工具"
+  ],
+  "aliases": [
+    "coredns",
+    "DNS Server"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 7550,
+      "collection": "Dashboard Icons",
+      "file": "coredns.svg",
+      "id": 2332,
+      "is_default": true,
+      "label": "coredns",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "coredns.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b5d613562bbf8c88987e63f0b0af96166200a301097c7f7ccdcaf89857e53e5d"
+      },
+      "sha256": "e9f04c868be53824005094193c1f6c2af99fbf48080553a7ddd8064809e6b4af",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/coredns.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

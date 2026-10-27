@@ -1,0 +1,40 @@
+{
+  "collection_id": 2463,
+  "schema_version": 1,
+  "id": 2690,
+  "title": "Rallly",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "rallly"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1240,
+      "collection": "Dashboard Icons",
+      "file": "rallly.svg",
+      "id": 4253,
+      "is_default": true,
+      "label": "rallly",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rallly.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "d856df33c7329b91e5b97ea1dfea7cc4c956309014abe78c0159f5d5cafe51cf"
+      },
+      "sha256": "0105759919653373a5c30e5fff3120ce23dc25a10e9806d0e2a79b4301d9f4f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rallly.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

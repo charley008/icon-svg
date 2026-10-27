@@ -1,0 +1,41 @@
+{
+  "collection_id": 2194,
+  "schema_version": 1,
+  "id": 2421,
+  "title": "Postgresus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "Cloud"
+  ],
+  "aliases": [
+    "postgresus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 12862,
+      "collection": "Dashboard Icons",
+      "file": "postgresus.svg",
+      "id": 3905,
+      "is_default": true,
+      "label": "postgresus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "postgresus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "728b0ab2085defdb8d301f22ef37498b2d90c9c2ca2ababb9d336084636d6250"
+      },
+      "sha256": "8ccbe791a3508a24f33cb29cc84f7668f3506588c93ac7a3a3a9f2acfdde9234",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/postgresus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

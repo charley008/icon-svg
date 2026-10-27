@@ -1,0 +1,40 @@
+{
+  "collection_id": 1179,
+  "schema_version": 1,
+  "id": 1406,
+  "title": "Eisfair",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "eisfair"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2799,
+      "collection": "Dashboard Icons",
+      "file": "eisfair.svg",
+      "id": 2534,
+      "is_default": true,
+      "label": "eisfair",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "eisfair.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e412b06d4066934bce45b2172faec1cb922a45a5bdefd6e006d77434900def12"
+      },
+      "sha256": "bb33ee35a70af5be82457bd62f7d39564953da9295133b3e92a0f263c307bb0e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eisfair.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

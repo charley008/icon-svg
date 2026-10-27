@@ -1,0 +1,43 @@
+{
+  "collection_id": 1529,
+  "schema_version": 1,
+  "id": 1756,
+  "title": "Ideco",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons",
+    "Security",
+    "网络工具"
+  ],
+  "aliases": [
+    "ideco",
+    "ideco-ngfw"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 671,
+      "collection": "Dashboard Icons",
+      "file": "ideco.svg",
+      "id": 2999,
+      "is_default": true,
+      "label": "ideco",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ideco.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "96a31e40405536fb57dca2469cd1a51007ef6bb9f32db9e3f55687eee946c5f6"
+      },
+      "sha256": "4c5addced5106ec940d3893252b67dbf7ce23178f7e6de808ec31a7d61f112f7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ideco.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

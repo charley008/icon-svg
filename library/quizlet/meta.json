@@ -1,0 +1,40 @@
+{
+  "collection_id": 2451,
+  "schema_version": 1,
+  "id": 2678,
+  "title": "Quizlet",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "教育科研",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "quizlet"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1559,
+      "collection": "Dashboard Icons",
+      "file": "quizlet.svg",
+      "id": 4241,
+      "is_default": true,
+      "label": "quizlet",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "quizlet.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3c8ebb9c593367efc417147508de1471435828bfb94a3f98b6b1b835cd599d64"
+      },
+      "sha256": "8dc1af0b3181e3147a4cd7c05bf5c3ae42c7fe36c736f06381c4202eca91abb4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/quizlet.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

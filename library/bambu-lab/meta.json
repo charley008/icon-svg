@@ -40,8 +40,65 @@
       "source": "https://cdn.worldvectorlogo.com/logos/bambu-lab-2.svg",
       "source_page": "https://worldvectorlogo.com/zh/logo/bambu-lab-2",
       "version": 0
+    },
+    {
+      "bytes": 318,
+      "collection": "Dashboard Icons",
+      "file": "bambu-lab-1.svg",
+      "id": 2085,
+      "is_default": false,
+      "label": "bambu-lab",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bambu-lab.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e260bb71ecca01210c0254789ee2c9b63b05b15af65c7e1eac9917391d89e377"
+      },
+      "sha256": "e8bb5851705ecfea595f33c2162b950d24dfa5855ad5002ee4026d6779b2130a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bambu-lab.svg",
+      "version": 1
+    },
+    {
+      "bytes": 318,
+      "collection": "Dashboard Icons",
+      "file": "bambu-lab-2.svg",
+      "id": 2086,
+      "is_default": false,
+      "label": "bambu-lab-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bambu-lab-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "43486f3465a9abcc09e8b8725658ec5a8634b6d4e7849b978709279daf0f0e74"
+      },
+      "sha256": "68c0de15a9b93683b426fca7621b37f4984fd508d18c55c75aa0c83c0eb84c3f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bambu-lab-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 318,
+      "collection": "Dashboard Icons",
+      "file": "bambu-lab-3.svg",
+      "id": 2087,
+      "is_default": false,
+      "label": "bambu-lab-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bambu-lab-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4925ff16d1d346abd85128d99b0dfbe6a6b4195cb84784172940a6907976b2f9"
+      },
+      "sha256": "3693e6bcb1359fcae9b9080114390d4aedc36f21213caa4987cb0002779722a7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bambu-lab-light.svg",
+      "version": 3
     }
   ],
-  "next_version": 1,
+  "next_version": 4,
   "products": []
 }

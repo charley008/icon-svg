@@ -1,0 +1,40 @@
+{
+  "collection_id": 3049,
+  "schema_version": 1,
+  "id": 3276,
+  "title": "Zendesk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "zendesk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 343,
+      "collection": "Dashboard Icons",
+      "file": "zendesk.svg",
+      "id": 5011,
+      "is_default": true,
+      "label": "zendesk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "zendesk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bd65518c0316e71fb3ff835d9387b0e323741c1ae413657fc5a9c3fe2f41d9d4"
+      },
+      "sha256": "5216a6e983d0479f0d2ca9f5e91a92e84c3bf12c84d2ec9651f050a568663cc6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/zendesk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

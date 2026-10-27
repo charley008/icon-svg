@@ -1,0 +1,105 @@
+{
+  "collection_id": 2813,
+  "schema_version": 1,
+  "id": 3040,
+  "redirect_from": [
+    3041,
+    3042
+  ],
+  "title": "Toolhive",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "toolhive",
+    "toolhive-wordmark-light",
+    "Toolhive Wordmark Light",
+    "toolhive-wordmark-dark",
+    "Toolhive Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2735,
+      "collection": "Dashboard Icons",
+      "file": "toolhive.svg",
+      "id": 4702,
+      "is_default": true,
+      "label": "toolhive",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toolhive.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b4cf2fa77dd9ba861df8f93e51cc91597e260c28e14d3a95ed247c8ae84bc1e"
+      },
+      "sha256": "ff6c81b079e0165fb5e3924b1cd2728ca37a89b7347fc12fbd40b262dbed9b70",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toolhive.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2735,
+      "collection": "Dashboard Icons",
+      "file": "toolhive-1.svg",
+      "id": 4703,
+      "is_default": false,
+      "label": "toolhive-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toolhive-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "443effe7ce9c4247c04f01cf351fa81684025ef55f83336ed1149bca19d1993a"
+      },
+      "sha256": "d70ab01786c6406bf5c41333de3a90c02da753566b594b2b072c582da6d9a540",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toolhive-light.svg",
+      "version": 1
+    },
+    {
+      "bytes": 13070,
+      "collection": "Dashboard Icons",
+      "file": "toolhive-2.svg",
+      "id": 4705,
+      "is_default": false,
+      "label": "toolhive-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toolhive-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "166a9f1aa879c927aad0ad14d90c8ed1239656236871d4a7dde0066d83921a8b"
+      },
+      "sha256": "8a57f5dabb0c478dc8a934c70fbe23b4bd999a3f30277a10e33275fe624c1b19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toolhive-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 13070,
+      "collection": "Dashboard Icons",
+      "file": "toolhive-3.svg",
+      "id": 4704,
+      "is_default": false,
+      "label": "toolhive-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "toolhive-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c29deec693ab1c195b091f2cace8d79e5867d6bf311d799b0cb33c54e450915b"
+      },
+      "sha256": "efdadb9486e58f0c0fc32d95b3071137c6cb5a2f530eab486ca3da43c2857172",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/toolhive-wordmark-dark.svg",
+      "version": 3
+    }
+  ],
+  "next_version": 4,
+  "products": []
+}

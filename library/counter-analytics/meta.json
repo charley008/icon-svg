@@ -1,0 +1,40 @@
+{
+  "collection_id": 1033,
+  "schema_version": 1,
+  "id": 1260,
+  "title": "Counter Analytics",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "counter-analytics"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 419,
+      "collection": "Dashboard Icons",
+      "file": "counter-analytics.svg",
+      "id": 2338,
+      "is_default": true,
+      "label": "counter-analytics",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "counter-analytics.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a4fe9c2c0a3225fe57c47161df86cf5e6f3a7e91ac1dffc56dd3e59786457898"
+      },
+      "sha256": "d5e736bec62a0ae00d43da7b0b726dd9bd8c08b1fb08323bc9d3b6e88fd558b5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/counter-analytics.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

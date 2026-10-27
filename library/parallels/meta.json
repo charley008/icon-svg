@@ -1,0 +1,40 @@
+{
+  "collection_id": 2094,
+  "schema_version": 1,
+  "id": 2321,
+  "title": "Parallels",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "云服务",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "parallels"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 593,
+      "collection": "Dashboard Icons",
+      "file": "parallels.svg",
+      "id": 3757,
+      "is_default": true,
+      "label": "parallels",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "parallels.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ce26660e7c78644922c952bd23a436c91a7fbae2ca99498be949723aaeb3edc0"
+      },
+      "sha256": "5ec9d56035438446ef72bfcbc2c08b8214c2fc0680481681007efb4d8a01764f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/parallels.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

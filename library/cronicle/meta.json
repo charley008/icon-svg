@@ -1,0 +1,41 @@
+{
+  "collection_id": 1038,
+  "schema_version": 1,
+  "id": 1265,
+  "title": "Cronicle",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "cronicle"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2464,
+      "collection": "Dashboard Icons",
+      "file": "cronicle.svg",
+      "id": 2343,
+      "is_default": true,
+      "label": "cronicle",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cronicle.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e4637429afcbcf202a23d7a3f4d54412d5abac2525a6a739f53e13fc42eb328b"
+      },
+      "sha256": "acffdb0a3bb61a10afd9e5caedfa1bfbc6c3d5df97a041ca952c832613238d7f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cronicle.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,49 @@
+{
+  "collection_id": 2075,
+  "schema_version": 1,
+  "id": 2302,
+  "title": "P Cal",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "p-cal",
+    "calendar",
+    "cal",
+    "private calendar",
+    "personal calendar",
+    "agenda",
+    "personal agenda",
+    "private agenda"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1856,
+      "collection": "Dashboard Icons",
+      "file": "p-cal.svg",
+      "id": 3731,
+      "is_default": true,
+      "label": "p-cal",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "p-cal.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "71b666b2545d97803b56d5f978ba7b09a9b3000961db73476aa572b4476a2e03"
+      },
+      "sha256": "0fdda43eb75c1237939def6d22205f842eced27a93a090e67bc6cafd04f8356b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/p-cal.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

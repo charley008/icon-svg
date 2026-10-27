@@ -1,4 +1,7 @@
 {
+  "collection_id": 575,
+  "schema_version": 1,
+  "id": 793,
   "title": "NetBird",
   "url": "https://netbird.io/",
   "domains": [
@@ -21,24 +24,24 @@
   "notes": [],
   "icons": [
     {
-      "file": "netbird.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "9d4e76400f9a33d03949401b03ba45782d5ce08b3a90faa3d1315700fa2c0e27",
       "bytes": 9550,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbird.svg",
+      "collection": "Dashboard Icons",
+      "file": "netbird.svg",
+      "id": 1750,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg-cleaned",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "netbird.svg",
-        "repository": "https://github.com/homarr-labs/dashboard-icons",
-        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved."
-      }
+        "processing": "Removed editor metadata and non-rendering CSS comments; vector artwork preserved.",
+        "repository": "https://github.com/homarr-labs/dashboard-icons"
+      },
+      "sha256": "9d4e76400f9a33d03949401b03ba45782d5ce08b3a90faa3d1315700fa2c0e27",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netbird.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

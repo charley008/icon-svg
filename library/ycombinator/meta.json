@@ -1,0 +1,59 @@
+{
+  "collection_id": 3023,
+  "schema_version": 1,
+  "id": 3250,
+  "title": "Ycombinator",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "ycombinator"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 389,
+      "collection": "Dashboard Icons",
+      "file": "ycombinator.svg",
+      "id": 4980,
+      "is_default": true,
+      "label": "ycombinator",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ycombinator.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bef0859eaba6f8751086aae319d3125e5fe784b8bf2f0a9e7f3010a84913b60f"
+      },
+      "sha256": "6be095a1110cf5bac12819d2061acfd385df1da85604804c5561f549167a289a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ycombinator.svg",
+      "version": 0
+    },
+    {
+      "bytes": 392,
+      "collection": "Dashboard Icons",
+      "file": "ycombinator-1.svg",
+      "id": 4981,
+      "is_default": false,
+      "label": "ycombinator-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "ycombinator-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6b65507472e2943af1edaddf1a70aec8c27c35ad3a3affdb9e8a7acc126ef96b"
+      },
+      "sha256": "fcea6a6235868edabbca138de8da9a4701c5e390472139d753ec04a3cf771be3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/ycombinator-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

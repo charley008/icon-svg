@@ -1,0 +1,40 @@
+{
+  "collection_id": 1644,
+  "schema_version": 1,
+  "id": 1871,
+  "title": "Klipper",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "klipper"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2394,
+      "collection": "Dashboard Icons",
+      "file": "klipper.svg",
+      "id": 3143,
+      "is_default": true,
+      "label": "klipper",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "klipper.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b048d50741a56f586360f2ffca76ebd814ffc3461c31ec70c7737158a7d31374"
+      },
+      "sha256": "f70a6ad2a45e5d0d2e661edc310f9c29c439fe3d2f47ad3470ce631ec67157d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/klipper.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

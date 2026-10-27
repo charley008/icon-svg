@@ -1,0 +1,40 @@
+{
+  "collection_id": 2702,
+  "schema_version": 1,
+  "id": 2929,
+  "title": "Stirling Pdf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "stirling-pdf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1072,
+      "collection": "Dashboard Icons",
+      "file": "stirling-pdf.svg",
+      "id": 4560,
+      "is_default": true,
+      "label": "stirling-pdf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "stirling-pdf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09b653138e5d13b640ad94ca097b89200337dfb1c7b19dbea038853d12007bdb"
+      },
+      "sha256": "20c052e9f881431ce31094f16d366c269e19daf5889ec097fe1946043e61aba9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/stirling-pdf.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

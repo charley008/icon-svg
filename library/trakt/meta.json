@@ -1,0 +1,44 @@
+{
+  "collection_id": 2832,
+  "schema_version": 1,
+  "id": 3059,
+  "title": "Trakt",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Media-Servers",
+    "Social-Media",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "trakt",
+    "Media Tracking"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1966,
+      "collection": "Dashboard Icons",
+      "file": "trakt.svg",
+      "id": 4725,
+      "is_default": true,
+      "label": "trakt",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "trakt.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4923b9cd284435e5716f235d4c27cd2f4a4c18643278930a4bc2c5843f3e8b6c"
+      },
+      "sha256": "509c8557725164cb9a348ce79dc594021ee3fac07f7f450d9152589c4ce3c7d3",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/trakt.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

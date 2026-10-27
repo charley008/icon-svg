@@ -1,0 +1,59 @@
+{
+  "collection_id": 997,
+  "schema_version": 1,
+  "id": 1224,
+  "title": "Cockpit Cms",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cockpit-cms"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 585,
+      "collection": "Dashboard Icons",
+      "file": "cockpit-cms.svg",
+      "id": 2289,
+      "is_default": true,
+      "label": "cockpit-cms",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cockpit-cms.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "9fd5d864698e4089b241a16098800a299a80a3120f6eebac625fd5c535d4958a"
+      },
+      "sha256": "7a2d8699fe15f3450da88f1f00ad2238d75060aad597b69323f3a0fd5a2c78fc",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cockpit-cms.svg",
+      "version": 0
+    },
+    {
+      "bytes": 600,
+      "collection": "Dashboard Icons",
+      "file": "cockpit-cms-1.svg",
+      "id": 2290,
+      "is_default": false,
+      "label": "cockpit-cms-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cockpit-cms-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0ad076641fbf494b90fce9d198530a3072cdd5c071d2c8cf52bdbd30b4ad4ef0"
+      },
+      "sha256": "f276862f24614539f17e135bcad078617b6dfb63db154b03087d89854a99dbd4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cockpit-cms-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

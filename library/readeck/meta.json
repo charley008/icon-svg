@@ -1,0 +1,40 @@
+{
+  "collection_id": 2471,
+  "schema_version": 1,
+  "id": 2698,
+  "title": "Readeck",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "readeck"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 543,
+      "collection": "Dashboard Icons",
+      "file": "readeck.svg",
+      "id": 4266,
+      "is_default": true,
+      "label": "readeck",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "readeck.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "454179c363fe428239cc7768aea87deaf134970077570c26d8a9d1247a94937a"
+      },
+      "sha256": "4a64e4a8c16b9a0f700ccf77db3067059b5456b0310082c66e7b7c2858ebd12b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/readeck.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,59 @@
+{
+  "collection_id": 2919,
+  "schema_version": 1,
+  "id": 3146,
+  "title": "Viseron",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "viseron"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 148453,
+      "collection": "Dashboard Icons",
+      "file": "viseron.svg",
+      "id": 4843,
+      "is_default": true,
+      "label": "viseron",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viseron.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eab8b370411b4b811a55f5aea1550ec83ebd3363e11ce8740b900807167d9fe3"
+      },
+      "sha256": "06b57f20b7eda508268fc8e126564797869415077611f32c62454276e9089b06",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/viseron.svg",
+      "version": 0
+    },
+    {
+      "bytes": 149078,
+      "collection": "Dashboard Icons",
+      "file": "viseron-1.svg",
+      "id": 4844,
+      "is_default": false,
+      "label": "viseron-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "viseron-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "493a4eed62662ae8fb0044ee6a25adfecc0a9aa6609682f6dd66319df47305d5"
+      },
+      "sha256": "045716c6dd9ec7763c69d98fc92929acce83e52c42f30191b5f32b47500d4c1e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/viseron-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

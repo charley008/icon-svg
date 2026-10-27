@@ -1,0 +1,40 @@
+{
+  "collection_id": 899,
+  "schema_version": 1,
+  "id": 1126,
+  "title": "Br",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设计素材",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "br"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5595,
+      "collection": "Dashboard Icons",
+      "file": "br.svg",
+      "id": 2162,
+      "is_default": true,
+      "label": "br",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "br.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3226372b98f41b6a4b90aa34f25cde34cf088046692567713e0ab33240d83e3b"
+      },
+      "sha256": "a3605778c8d2a7c256e17e77f923408935a9c48c50f2eb49070beb4f1734ef4f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/br.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

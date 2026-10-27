@@ -1,4 +1,7 @@
 {
+  "collection_id": 537,
+  "schema_version": 1,
+  "id": 733,
   "title": "Grafana",
   "url": "https://grafana.com/",
   "domains": [
@@ -21,23 +24,43 @@
   "notes": [],
   "icons": [
     {
-      "file": "grafana.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "8f32897073ee93594ab2339482ef21ca3767044055da89e2baf9066d25592df7",
       "bytes": 4233,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grafana.svg",
+      "collection": "Dashboard Icons",
+      "file": "grafana.svg",
+      "id": 1693,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "grafana.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "8f32897073ee93594ab2339482ef21ca3767044055da89e2baf9066d25592df7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/grafana.svg",
+      "version": 0
+    },
+    {
+      "bytes": 3402,
+      "collection": "TechIcons / Devicon",
+      "file": "grafana-1.svg",
+      "id": 5188,
+      "is_default": false,
+      "label": "TechIcons · Grafana",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Grafana.svg",
+        "original_sha256": "c99f5d2cc1d94239a2df09fc764c25b1a50bc747cfd8af3130c8549074654349",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/grafana",
+        "reference_website": "https://grafana.com"
+      },
+      "sha256": "27387249e7a9544afb39dcbe00162fbcce0df2fb1dbb3e5e2540cebf11d6cea7",
+      "source": "https://techicons.dev/icons/grafana",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

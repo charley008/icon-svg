@@ -44,8 +44,27 @@
       "sha256": "85a5e6dc1d9d1a879284ea4d65e65c41ca00793e9725f6bdd8d094f269ccc2c4",
       "source": "https://web.gotab.cn/sourceStore/website/01JB3Y37K1AGVSKKHAJ1J7BV6N.svg",
       "version": 0
+    },
+    {
+      "bytes": 284,
+      "collection": "Dashboard Icons",
+      "file": "vue-1.svg",
+      "id": 4869,
+      "is_default": false,
+      "label": "vue-js",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "vue-js.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "176efe63ea254af1c954740e489abcbf384bffc541cdc45b3aa2f206f9843dca"
+      },
+      "sha256": "ef730cfac88be0faaf0fc1b36de4c370bf3536326d1ea54cb8b223b8a2966275",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/vue-js.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
+  "next_version": 2,
   "products": []
 }

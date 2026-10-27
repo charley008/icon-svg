@@ -1,0 +1,59 @@
+{
+  "collection_id": 689,
+  "schema_version": 1,
+  "id": 916,
+  "title": "Alertmanager",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "alertmanager"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1058,
+      "collection": "Dashboard Icons",
+      "file": "alertmanager.svg",
+      "id": 1880,
+      "is_default": true,
+      "label": "alertmanager",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alertmanager.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc14a980d96d29d330c025b3037cc279235a1bf26d10f4bf1f796f9c34f14888"
+      },
+      "sha256": "be7032a1a515c7bf053522aa5492790e164301edcbd6d3aaec6fca17f02a5e6f",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alertmanager.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1089,
+      "collection": "Dashboard Icons",
+      "file": "alertmanager-1.svg",
+      "id": 1881,
+      "is_default": false,
+      "label": "alertmanager-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "alertmanager-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4e665277f4bfe7de37dcb2e9492e08e97a28bbcf51cd617cc3c3862030db150d"
+      },
+      "sha256": "ccd9c709e989aab151e16c11fcae3fac23c26e4620bae068cc75fb7ce9fc51b2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alertmanager-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

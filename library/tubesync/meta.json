@@ -1,0 +1,59 @@
+{
+  "collection_id": 2844,
+  "schema_version": 1,
+  "id": 3071,
+  "title": "Tubesync",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tubesync"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1081,
+      "collection": "Dashboard Icons",
+      "file": "tubesync.svg",
+      "id": 4739,
+      "is_default": true,
+      "label": "tubesync",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tubesync.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "19c677b5d95be701e41ccb3d0b93125e2108922b40e7b665e81dba5f206f1f0b"
+      },
+      "sha256": "465a773d4c10515fe6e16d036d132cdd830dd85e6445d35d0d1c241df5f0cca9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tubesync.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1081,
+      "collection": "Dashboard Icons",
+      "file": "tubesync-1.svg",
+      "id": 4740,
+      "is_default": false,
+      "label": "tubesync-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tubesync-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fbf038e5202bc2b63d1f216ef8dad57dfb6453f1b4903d0aeac739b4bd495482"
+      },
+      "sha256": "8951414f50406dcc4fcb64475616bf80bc6a77be3744ff7a2c9200af267f492c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tubesync-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

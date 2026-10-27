@@ -1,0 +1,63 @@
+{
+  "collection_id": 1855,
+  "schema_version": 1,
+  "id": 2082,
+  "title": "Moodist",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons",
+    "Music-Streaming",
+    "影音娱乐"
+  ],
+  "aliases": [
+    "moodist",
+    "music-app",
+    "android-music-player"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 678,
+      "collection": "Dashboard Icons",
+      "file": "moodist.svg",
+      "id": 3426,
+      "is_default": true,
+      "label": "moodist",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "moodist.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "8abe51f3c0d3cd4ec69d8cd965a472d987e69aa4fdc933904d6fefee943f5075"
+      },
+      "sha256": "59dbef05bdd82e245e38a5c87e43011106dbc0c088f0c125333a62a0819c42ea",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/moodist.svg",
+      "version": 0
+    },
+    {
+      "bytes": 678,
+      "collection": "Dashboard Icons",
+      "file": "moodist-1.svg",
+      "id": 3427,
+      "is_default": false,
+      "label": "moodist-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "moodist-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "fc6f72255afb0ae13b994c5a436ca64a5c653a1b4b590a603a5639709f767d26"
+      },
+      "sha256": "cf23b0d865fa9e911d72c38da785e88b0a40b85d84180dde381c1ddfbd021840",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/moodist-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

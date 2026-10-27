@@ -2,6 +2,9 @@
   "collection_id": 422,
   "schema_version": 1,
   "id": 580,
+  "redirect_from": [
+    3216
+  ],
   "title": "Wise",
   "url": "https://wise.com",
   "domains": [
@@ -16,7 +19,9 @@
     "wise.com"
   ],
   "aliases": [
-    "wise"
+    "wise",
+    "wise-moneytransfer",
+    "Wise Moneytransfer"
   ],
   "notes": [],
   "icons": [
@@ -111,8 +116,27 @@
       "sha256": "3a9ea1751d80df2203fd47faa2bfc71fe2be7293602a26c801c58383bbd72ba7",
       "source": "https://raw.githubusercontent.com/iconify/icon-sets/master/json/arcticons.json#wise",
       "version": 3
+    },
+    {
+      "bytes": 561,
+      "collection": "Dashboard Icons",
+      "file": "wise-4.svg",
+      "id": 4930,
+      "is_default": false,
+      "label": "Wise Moneytransfer",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "wise-moneytransfer.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "0f7f5d7cf1e56aad1d204a769f3004c15fc6e71d02b82e129a25c11c350ef633"
+      },
+      "sha256": "8a39c7881c668cff01b41ff37f049662b989c4b6844529617b56da9084df6460",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/wise-moneytransfer.svg",
+      "version": 4
     }
   ],
-  "next_version": 4,
+  "next_version": 5,
   "products": []
 }

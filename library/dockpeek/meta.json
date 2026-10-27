@@ -1,0 +1,60 @@
+{
+  "collection_id": 1128,
+  "schema_version": 1,
+  "id": 1355,
+  "title": "Dockpeek",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "dockpeek"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 487,
+      "collection": "Dashboard Icons",
+      "file": "dockpeek.svg",
+      "id": 2467,
+      "is_default": true,
+      "label": "dockpeek",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dockpeek.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d09f7c040f75e18f7ede0f5303eb666fc17757facaef86a9a77d6ed14a42983"
+      },
+      "sha256": "96f3d15955a9e8b4694b13ee74bd9e6cf0cc68fe8a602477cf2b96c36d3a9f77",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dockpeek.svg",
+      "version": 0
+    },
+    {
+      "bytes": 431,
+      "collection": "Dashboard Icons",
+      "file": "dockpeek-1.svg",
+      "id": 2468,
+      "is_default": false,
+      "label": "dockpeek-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dockpeek-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "321024fccc432e487a70eb42b457c554563a600ec9292e33f75b5ec5d5c026f2"
+      },
+      "sha256": "0cd870247f690156ff4fc6f84d4892bca389badba345ad5b0a4dab69ee8f2ca4",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dockpeek-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

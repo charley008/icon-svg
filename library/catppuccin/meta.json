@@ -1,0 +1,40 @@
+{
+  "collection_id": 941,
+  "schema_version": 1,
+  "id": 1168,
+  "title": "Catppuccin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "catppuccin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 48882,
+      "collection": "Dashboard Icons",
+      "file": "catppuccin.svg",
+      "id": 2215,
+      "is_default": true,
+      "label": "catppuccin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "catppuccin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1191281f9e47c6e5af573c662c904a2ed31d40d961eb600c40ef432759486b8a"
+      },
+      "sha256": "8e08b5753abb4c33d6d16f08e451c4313a06b746a7da861ecc2eea65a7d99094",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/catppuccin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

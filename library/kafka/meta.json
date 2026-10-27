@@ -1,0 +1,125 @@
+{
+  "collection_id": 1607,
+  "schema_version": 1,
+  "id": 1834,
+  "redirect_from": [
+    1835,
+    1836
+  ],
+  "title": "Kafka",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kafka",
+    "kafka-wordmark-light",
+    "Kafka Wordmark Light",
+    "kafka-wordmark-dark",
+    "Kafka Wordmark Dark"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1708,
+      "collection": "Dashboard Icons",
+      "file": "kafka.svg",
+      "id": 3100,
+      "is_default": true,
+      "label": "kafka",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kafka.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1d6f93ba193fe160a24c706e6f3381f044582446595e7206e65d0f104628c9b4"
+      },
+      "sha256": "7db65666fe17419acfc1d112e7f4825883e658fd6a5749d44032c4a46543a792",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kafka.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1708,
+      "collection": "Dashboard Icons",
+      "file": "kafka-1.svg",
+      "id": 3101,
+      "is_default": false,
+      "label": "kafka-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kafka-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "5789e2cc87cd869638618bc3560796b0b464c55c2e29f60f24bdb2ca8b85c98f"
+      },
+      "sha256": "313ce6fe047dbf1c22e30789421762b14f6d78470dcf29f9d883b364e0b7daf6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kafka-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 9630,
+      "collection": "Dashboard Icons",
+      "file": "kafka-2.svg",
+      "id": 3103,
+      "is_default": false,
+      "label": "kafka-wordmark-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kafka-wordmark-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "902b6dea309e3fcde125309bc67f36f8e2ffb71484cc3fdc4cd9f1006c2b8293"
+      },
+      "sha256": "9ea13d86fd3995f5d88b7dcee5ba465b58e2c934238c764f95c790a63978641a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kafka-wordmark-light.svg",
+      "version": 2
+    },
+    {
+      "bytes": 9630,
+      "collection": "Dashboard Icons",
+      "file": "kafka-3.svg",
+      "id": 3102,
+      "is_default": false,
+      "label": "kafka-wordmark-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kafka-wordmark-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "400d7d3ed7fcfc81d833dd7b2a1fb58161daa1e4b78592f50e2948e1bcd06632"
+      },
+      "sha256": "973efca03a17e3ed695bc9913c700743401bd4f01e215cfc47ea2024b03e57a9",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kafka-wordmark-dark.svg",
+      "version": 3
+    },
+    {
+      "bytes": 1750,
+      "collection": "TechIcons / Devicon",
+      "file": "kafka-4.svg",
+      "id": 5235,
+      "is_default": false,
+      "label": "TechIcons · Apache Kafka",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Apache-Kafka.svg",
+        "original_sha256": "2505c5b688c18c8fd5dd8e888561eb7b23a56a75d291ff17e8ee18770193f3e8",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/apachekafka",
+        "reference_website": "https://kafka.apache.org"
+      },
+      "sha256": "e6ab19ce0050a50c3d370189ef66d3a4ad5d6673579d55e6487e646facc85165",
+      "source": "https://techicons.dev/icons/apachekafka",
+      "version": 4
+    }
+  ],
+  "next_version": 5,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 3105,
+  "schema_version": 1,
+  "id": 3345,
+  "title": "Core-js",
+  "url": "https://github.com/zloirock/core-js",
+  "domains": [
+    "github.com"
+  ],
+  "description": "JavaScript 标准库兼容性补充工具。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Core-js",
+    "corejs"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 4707,
+      "collection": "TechIcons / Devicon",
+      "file": "corejs-1.svg",
+      "id": 5116,
+      "is_default": true,
+      "label": "TechIcons · Core-js",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Core-js.svg",
+        "original_sha256": "3bbfe84f9c06a9ed0e77adfa993ee12292e04a0522739ea7aa0984b8422acc9f",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/corejs",
+        "reference_website": "https://github.com/zloirock/core-js"
+      },
+      "sha256": "3df8f757bbad169e50e5cb42befb8055f218e761629c1c9f9a22e49e92e697d4",
+      "source": "https://techicons.dev/icons/corejs",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

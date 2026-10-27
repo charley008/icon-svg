@@ -1,0 +1,40 @@
+{
+  "collection_id": 893,
+  "schema_version": 1,
+  "id": 1120,
+  "title": "Bootstrap",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "bootstrap"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2122,
+      "collection": "Dashboard Icons",
+      "file": "bootstrap.svg",
+      "id": 2154,
+      "is_default": true,
+      "label": "bootstrap",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bootstrap.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c305c68b568e20a9c29edc648e0799dec131d1a51a5a998a38ead57c1aa06003"
+      },
+      "sha256": "a61bd4cf46d9f54b6b99a124e9211372f60b145d8337c4acc7be80b226c3b72b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bootstrap.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

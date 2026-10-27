@@ -1,0 +1,40 @@
+{
+  "collection_id": 1188,
+  "schema_version": 1,
+  "id": 1415,
+  "title": "Eliza Os",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "eliza-os"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 85843,
+      "collection": "Dashboard Icons",
+      "file": "eliza-os.svg",
+      "id": 2546,
+      "is_default": true,
+      "label": "eliza-os",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "eliza-os.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "f8c9d31ff9bd048d8ff4a20ce2c8429a9990009f5cc837561a939e305959fdf3"
+      },
+      "sha256": "498339c97faa78204909645515e163f50489ff0a1f3e80d3b74e500653375baa",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/eliza-os.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

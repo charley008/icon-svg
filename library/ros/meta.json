@@ -1,0 +1,46 @@
+{
+  "collection_id": 3224,
+  "schema_version": 1,
+  "id": 3487,
+  "title": "Robot Operating System (ROS)",
+  "url": "https://www.ros.org",
+  "domains": [
+    "ros.org"
+  ],
+  "description": "面向机器人软件开发的工具与组件。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Robot Operating System (ROS)",
+    "ros",
+    "Robot-Operating-System-(ROS)"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1506,
+      "collection": "TechIcons / Devicon",
+      "file": "ros-1.svg",
+      "id": 5345,
+      "is_default": true,
+      "label": "TechIcons · Robot Operating System (ROS)",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Robot-Operating-System-(ROS).svg",
+        "original_sha256": "7c7aead54caafb22dbb70d852c97530d0c4180346e9e60626e31666ea39a3f61",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/ros",
+        "reference_website": "https://www.ros.org"
+      },
+      "sha256": "60a156fa947267fb7a44c3bb1761579499ad97cb44ef157449f5adf788e451fb",
+      "source": "https://techicons.dev/icons/ros",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

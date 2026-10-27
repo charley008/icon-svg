@@ -1,0 +1,45 @@
+{
+  "collection_id": 3133,
+  "schema_version": 1,
+  "id": 3377,
+  "title": "Gitter",
+  "url": "https://gitter.im",
+  "domains": [
+    "gitter.im"
+  ],
+  "description": "面向开发者社区的交流与聊天工具。",
+  "category": "社交通讯",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "Gitter",
+    "gitter"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 214,
+      "collection": "TechIcons / Devicon",
+      "file": "gitter-1.svg",
+      "id": 5179,
+      "is_default": true,
+      "label": "TechIcons · Gitter",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Gitter.svg",
+        "original_sha256": "845a072b7bbbbf32f439ba2de69facb99e540528963c7787fc3a36e8bfd38f15",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/gitter",
+        "reference_website": "https://gitter.im"
+      },
+      "sha256": "0ab2c1784e8938a3acc3af7a74f7449e32beadce5365e1473500a8f9e407a006",
+      "source": "https://techicons.dev/icons/gitter",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

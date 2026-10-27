@@ -1,0 +1,162 @@
+{
+  "collection_id": 2575,
+  "schema_version": 1,
+  "id": 2802,
+  "redirect_from": [
+    2803,
+    2804
+  ],
+  "title": "Self Host",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "self-host",
+    "self-host-animated-dark",
+    "Self Host Animated Dark",
+    "self-host-animated-light",
+    "Self Host Animated Light"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 6393,
+      "collection": "Dashboard Icons",
+      "file": "self-host.svg",
+      "id": 4398,
+      "is_default": true,
+      "label": "self-host",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bc65933d6bc7cbd704995441ca56c4c7457de948d1dea1a88934456473f5725f"
+      },
+      "sha256": "cc506b374862eafc255ae1839a10250e9d92defaa3a53c42e790ca624d95a41a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host.svg",
+      "version": 0
+    },
+    {
+      "bytes": 6393,
+      "collection": "Dashboard Icons",
+      "file": "self-host-1.svg",
+      "id": 4399,
+      "is_default": false,
+      "label": "self-host-black",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host-black.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bf29855474239945d65f92dcdb9323ca7986d958e0702732c77b0ad659117f36"
+      },
+      "sha256": "9852085ef4e13d839c7ebedb6e69e232721c2b7eb95fab24642b9b78765583f8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host-black.svg",
+      "version": 1
+    },
+    {
+      "bytes": 6393,
+      "collection": "Dashboard Icons",
+      "file": "self-host-2.svg",
+      "id": 4400,
+      "is_default": false,
+      "label": "self-host-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "74ca300bf9b035911fd312cd257adaaf0c64fb5ca194af6a8cb5030e7640a01a"
+      },
+      "sha256": "acff9d8f00fcacf8a12a54d2acc77e481f20d0f2009aaa4b9edeef1eedd74e12",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host-dark.svg",
+      "version": 2
+    },
+    {
+      "bytes": 6393,
+      "collection": "Dashboard Icons",
+      "file": "self-host-3.svg",
+      "id": 4401,
+      "is_default": false,
+      "label": "self-host-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6da8037f05ce1442a6451febdd23c38d3f64d90812c2834c1d6ab279e6a80ca"
+      },
+      "sha256": "ae9cdc130faaecfaa14efe7e932bb975091afc72ea30950e2c54dadce3c39def",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host-light.svg",
+      "version": 3
+    },
+    {
+      "bytes": 6393,
+      "collection": "Dashboard Icons",
+      "file": "self-host-4.svg",
+      "id": 4402,
+      "is_default": false,
+      "label": "self-host-white",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host-white.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "3898d9dbada58b3fe3e597fcaa0591fdf3cbcc80f3b0f0cb2e81dc8fc2451938"
+      },
+      "sha256": "525ba37379783d0008fae1033cee65ab26122ca188e447a4a156a66acfb489db",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host-white.svg",
+      "version": 4
+    },
+    {
+      "bytes": 10316,
+      "collection": "Dashboard Icons",
+      "file": "self-host-5.svg",
+      "id": 4403,
+      "is_default": false,
+      "label": "Self Host Animated Dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host-animated-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c4c284a28335cb9a696d7c42f4be424ba3ef9acf558b963529195ba9cb02f758"
+      },
+      "sha256": "869449ebf0e8da452b119f34ce8585da7ad9b573f81bcf4922315d5fc37e8489",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host-animated-dark.svg",
+      "version": 5
+    },
+    {
+      "bytes": 10316,
+      "collection": "Dashboard Icons",
+      "file": "self-host-6.svg",
+      "id": 4404,
+      "is_default": false,
+      "label": "Self Host Animated Light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "self-host-animated-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "21221d4797c9ac0271bebcb7e6b5e964a45686df02dbd173fc4798231941f902"
+      },
+      "sha256": "1df888b826ddc62bff24b1c1e7f0a4706395a51627f8cc8ee33cc7d27e1af8a8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/self-host-animated-light.svg",
+      "version": 6
+    }
+  ],
+  "next_version": 7,
+  "products": []
+}

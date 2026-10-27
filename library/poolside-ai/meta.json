@@ -1,0 +1,78 @@
+{
+  "collection_id": 2183,
+  "schema_version": 1,
+  "id": 2410,
+  "title": "Poolside Ai",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "AI",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "poolside-ai"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2251,
+      "collection": "Dashboard Icons",
+      "file": "poolside-ai.svg",
+      "id": 3885,
+      "is_default": true,
+      "label": "poolside-ai",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poolside-ai.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "791b43102078996aa9d8c31edb20ad84341ccdf486b71d07a97eaf284640a6a7"
+      },
+      "sha256": "c94dc658ae5accadbb05fb4699562e777b968ff28c106b28bbf608a1f46fb09b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/poolside-ai.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1927,
+      "collection": "Dashboard Icons",
+      "file": "poolside-ai-1.svg",
+      "id": 3886,
+      "is_default": false,
+      "label": "poolside-ai-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poolside-ai-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "b33e62be1ca632adfb562c59144e0074524c6a4391724a81e267605d213ad283"
+      },
+      "sha256": "4ed138f3ebfc469e8cad3505e806981e54f1b927cdb1f9d6b17d3b3eaf457e5d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/poolside-ai-dark.svg",
+      "version": 1
+    },
+    {
+      "bytes": 1927,
+      "collection": "Dashboard Icons",
+      "file": "poolside-ai-2.svg",
+      "id": 3887,
+      "is_default": false,
+      "label": "poolside-ai-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "poolside-ai-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bfa1c82992ed6d2715c89aef62969568bf4a14fb7cb330373e25b626f01bfe52"
+      },
+      "sha256": "db76511fd78f5ae7a778744e24cb6773d54b1293e679e45a59d9fbd7d07494f5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/poolside-ai-light.svg",
+      "version": 2
+    }
+  ],
+  "next_version": 3,
+  "products": []
+}

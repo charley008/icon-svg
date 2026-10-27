@@ -1,0 +1,42 @@
+{
+  "collection_id": 1059,
+  "schema_version": 1,
+  "id": 1286,
+  "title": "Cyber Power Full",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons",
+    "Hardware",
+    "设备硬件"
+  ],
+  "aliases": [
+    "cyber-power-full"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3870,
+      "collection": "Dashboard Icons",
+      "file": "cyber-power-full.svg",
+      "id": 2373,
+      "is_default": true,
+      "label": "cyber-power-full",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cyber-power-full.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ef98670ae9a316c92452ae2e9f0db42d6f9367af80b1411a67a4fa28be0eca50"
+      },
+      "sha256": "1f9cd0e70125f0218dc5c9cbb63b33b5db102520a92d73e64ca1845612398a60",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cyber-power-full.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

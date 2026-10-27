@@ -1,4 +1,10 @@
 {
+  "collection_id": 541,
+  "schema_version": 1,
+  "id": 742,
+  "redirect_from": [
+    1698
+  ],
   "title": "Hetzner",
   "url": "https://www.hetzner.com/",
   "domains": [
@@ -16,28 +22,50 @@
     "hetzner",
     "云主机",
     "服务器",
-    "托管"
+    "托管",
+    "hetzner-h",
+    "Hetzner H",
+    "hetzner-min"
   ],
   "notes": [],
   "icons": [
     {
-      "file": "hetzner.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "ae529b95486a52abb2ef81026c3f18fa32c9b7f914b4d25c26c91c99b25f79d6",
       "bytes": 1958,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hetzner.svg",
+      "collection": "Dashboard Icons",
+      "file": "hetzner.svg",
+      "id": 1701,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "hetzner.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "ae529b95486a52abb2ef81026c3f18fa32c9b7f914b4d25c26c91c99b25f79d6",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hetzner.svg",
+      "version": 0
+    },
+    {
+      "bytes": 9591,
+      "collection": "Dashboard Icons",
+      "file": "hetzner-1.svg",
+      "id": 2926,
+      "is_default": false,
+      "label": "Hetzner H",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "hetzner-h.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "30f45a9681da457ccb0d62574115bfe575ba4db4e72ff1d1873d31161dfee235"
+      },
+      "sha256": "ddf83de9bf26f852eb8ed986622b6db241befb8941111721b9c3a81f439f66e1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/hetzner-h.svg",
+      "version": 1
     }
   ],
-  "next_version": 1,
-  "schema_version": 1,
+  "next_version": 2,
   "products": []
 }

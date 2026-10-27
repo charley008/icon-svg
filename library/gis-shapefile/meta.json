@@ -1,0 +1,40 @@
+{
+  "collection_id": 1365,
+  "schema_version": 1,
+  "id": 1592,
+  "title": "Gis Shapefile",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "gis-shapefile"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2458,
+      "collection": "Dashboard Icons",
+      "file": "gis-shapefile.svg",
+      "id": 2763,
+      "is_default": true,
+      "label": "gis-shapefile",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "gis-shapefile.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "664e30abf24ed7a0b0273b3fdf696925b0fce2ecbe004a825f47ae9be4cf6d26"
+      },
+      "sha256": "100a99dfacb6f2fabe3196156983c4a79632320a570d408f9f151e5e7ef5ef15",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/gis-shapefile.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

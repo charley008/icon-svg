@@ -1,0 +1,40 @@
+{
+  "collection_id": 1994,
+  "schema_version": 1,
+  "id": 2221,
+  "title": "Odysseus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "odysseus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 333,
+      "collection": "Dashboard Icons",
+      "file": "odysseus.svg",
+      "id": 3610,
+      "is_default": true,
+      "label": "odysseus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "odysseus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "49af3eae6e107aa425e8d3148d1c1363e1397821428200b0d0879489da0df236"
+      },
+      "sha256": "afb5bc392cc353dcad8cae4bce76e194ebbedaa872648f5671e5fde1dd5f4aa8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/odysseus.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,44 @@
+{
+  "collection_id": 3212,
+  "schema_version": 1,
+  "id": 3475,
+  "title": "pytest",
+  "url": "https://docs.pytest.org",
+  "domains": [
+    "docs.pytest.org"
+  ],
+  "description": "Python 项目的自动化测试框架。",
+  "category": "开发编程",
+  "tags": [
+    "TechIcons",
+    "Devicon"
+  ],
+  "aliases": [
+    "pytest"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 735,
+      "collection": "TechIcons / Devicon",
+      "file": "pytest-1.svg",
+      "id": 5328,
+      "is_default": true,
+      "label": "TechIcons · pytest",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "pytest.svg",
+        "original_sha256": "e3073e7f520866f93a40e76b633efc29715539150423178cdb2e33f7077e4be1",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/pytest",
+        "reference_website": "https://docs.pytest.org"
+      },
+      "sha256": "c831a95224face1841f4dcf2d58710f56ad62b8797f83d1c35d116b0264f57f8",
+      "source": "https://techicons.dev/icons/pytest",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

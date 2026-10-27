@@ -1,0 +1,63 @@
+{
+  "collection_id": 2848,
+  "schema_version": 1,
+  "id": 3075,
+  "title": "Turbopack",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "turbopack",
+    "webpack-alternative",
+    "javascript-bundler"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 942,
+      "collection": "Dashboard Icons",
+      "file": "turbopack.svg",
+      "id": 4744,
+      "is_default": true,
+      "label": "turbopack",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "turbopack.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "aadf3b1cd8197271b33e2d84c268ecfcf4cfb82100edf50e55511e26ca00047c"
+      },
+      "sha256": "cf56b7ed85e139c883bd4706f11ed4e22c62e7b5654a44f94b1e14f91420d1c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/turbopack.svg",
+      "version": 0
+    },
+    {
+      "bytes": 972,
+      "collection": "Dashboard Icons",
+      "file": "turbopack-1.svg",
+      "id": 4745,
+      "is_default": false,
+      "label": "turbopack-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "turbopack-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "060883c84ea5d574bf61b3982a40078902411e2bac7a8828abac17297f1d73ac"
+      },
+      "sha256": "aa53a3fb265a20276a7680bf5af0fd7a9a00c0b6b33fc908ea995ada4ccd32c7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/turbopack-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

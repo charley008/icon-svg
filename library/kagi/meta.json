@@ -1,0 +1,40 @@
+{
+  "collection_id": 1610,
+  "schema_version": 1,
+  "id": 1837,
+  "title": "Kagi",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "搜索导航",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "kagi"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1194,
+      "collection": "Dashboard Icons",
+      "file": "kagi.svg",
+      "id": 3104,
+      "is_default": true,
+      "label": "kagi",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "kagi.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "22c114d144a337ab29178ed9a95cfafaf931ebeb398e0c756405845d287277bc"
+      },
+      "sha256": "1cb85715fb0a4883c03a07e220d220f638a77da69ce4ce69fb73e37b38193a19",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/kagi.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

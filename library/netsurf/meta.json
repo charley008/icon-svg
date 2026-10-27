@@ -1,0 +1,59 @@
+{
+  "collection_id": 1908,
+  "schema_version": 1,
+  "id": 2135,
+  "title": "Netsurf",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "netsurf"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1030,
+      "collection": "Dashboard Icons",
+      "file": "netsurf.svg",
+      "id": 3498,
+      "is_default": true,
+      "label": "netsurf",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netsurf.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "da4daedb4be9cd57714b3b5376c95443078e7272ad1f50d032d277e4323ae2a3"
+      },
+      "sha256": "669df6b08eba71bb3e79e76a535355c27a9a0a7b1c22d88210a6465e74b6dbe1",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netsurf.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1078,
+      "collection": "Dashboard Icons",
+      "file": "netsurf-1.svg",
+      "id": 3499,
+      "is_default": false,
+      "label": "netsurf-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "netsurf-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a39b0ef34ce7829516e7f9061cdd50a5f3dfa55746bd9ed99648598181e76da2"
+      },
+      "sha256": "f8625927c43a594f488b1305b6ec169978ef6605f6599c58c1b777d964b63526",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/netsurf-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

@@ -1,0 +1,42 @@
+{
+  "collection_id": 1381,
+  "schema_version": 1,
+  "id": 1608,
+  "title": "Godot",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Development"
+  ],
+  "aliases": [
+    "godot",
+    "godot-engine"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3631,
+      "collection": "Dashboard Icons",
+      "file": "godot.svg",
+      "id": 2791,
+      "is_default": true,
+      "label": "godot",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "godot.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "c2d7226ac579d479e06fcf5f87502eb747ba427d370ecd0432bc6cc24815c08d"
+      },
+      "sha256": "44b7c13d89d25d6ae0fa013e3feea168e942d2518acb57f0d86bfee5b81dae2a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/godot.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

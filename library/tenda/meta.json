@@ -1,0 +1,40 @@
+{
+  "collection_id": 2768,
+  "schema_version": 1,
+  "id": 2995,
+  "title": "Tenda",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "tenda"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3602,
+      "collection": "Dashboard Icons",
+      "file": "tenda.svg",
+      "id": 4644,
+      "is_default": true,
+      "label": "tenda",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "tenda.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "eeaffa42d5437d29f9fc3e9310fe3ed3d886a8e84694a4b3487b99a763bf4c2b"
+      },
+      "sha256": "c62562eaba98580414339740545739350fa4b45389121dbf30e0c62e58d8f9c7",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tenda.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": 2506,
+  "schema_version": 1,
+  "id": 2733,
+  "title": "Rhodecode",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons",
+    "Version-Control-Systems",
+    "Developer-Tools",
+    "开发编程"
+  ],
+  "aliases": [
+    "rhodecode",
+    "code-repository",
+    "git-hosting"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5654,
+      "collection": "Dashboard Icons",
+      "file": "rhodecode.svg",
+      "id": 4309,
+      "is_default": true,
+      "label": "rhodecode",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "rhodecode.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dd2a0a5b9021feb558293c78b06128ab31e38d2d691f5ff5c5a157fa455714c6"
+      },
+      "sha256": "c4144d3e9246e69803b169e2e6dd99cd1ccbda9d2b0c20136aeade75c46ba7d0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/rhodecode.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

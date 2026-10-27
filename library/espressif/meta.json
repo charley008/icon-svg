@@ -1,0 +1,40 @@
+{
+  "collection_id": 1215,
+  "schema_version": 1,
+  "id": 1442,
+  "title": "Espressif",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "设备硬件",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "espressif"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1283,
+      "collection": "Dashboard Icons",
+      "file": "espressif.svg",
+      "id": 2586,
+      "is_default": true,
+      "label": "espressif",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "espressif.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "6d88d0cfe4848689eb95e8af7479f0e4ef78a81851453ee7efab4148d67eaa9f"
+      },
+      "sha256": "4e5d80fce732a09cde98a51feb66c175e7e8cfd8548731ee2011338544eb4c97",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/espressif.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

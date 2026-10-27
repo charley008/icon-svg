@@ -1,0 +1,40 @@
+{
+  "collection_id": 2153,
+  "schema_version": 1,
+  "id": 2380,
+  "title": "Piped",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "piped"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3369,
+      "collection": "Dashboard Icons",
+      "file": "piped.svg",
+      "id": 3845,
+      "is_default": true,
+      "label": "piped",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "piped.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1e56d8e3dc6dad39a28d0fc39caf50fa709a2f9ce919658ffd830e6b10bdbb95"
+      },
+      "sha256": "368d015e99e7658edc480fa47281ea8186677291864b61af65511d146f17054a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/piped.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

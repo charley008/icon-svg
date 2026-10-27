@@ -1,4 +1,7 @@
 {
+  "collection_id": 591,
+  "schema_version": 1,
+  "id": 811,
   "title": "Pi-hole",
   "url": "https://pi-hole.net/",
   "domains": [
@@ -21,23 +24,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "pi-hole.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "44944e34a721797c3271cfc6b15dff81cd6fbbf66c7c96da53a34ed39be06ea5",
       "bytes": 1434,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pi-hole.svg",
+      "collection": "Dashboard Icons",
+      "file": "pi-hole.svg",
+      "id": 1768,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "pi-hole.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "44944e34a721797c3271cfc6b15dff81cd6fbbf66c7c96da53a34ed39be06ea5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pi-hole.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

@@ -1,0 +1,40 @@
+{
+  "collection_id": 2477,
+  "schema_version": 1,
+  "id": 2704,
+  "title": "Recommander",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "recommander"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2060,
+      "collection": "Dashboard Icons",
+      "file": "recommander.svg",
+      "id": 4274,
+      "is_default": true,
+      "label": "recommander",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "recommander.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ae7a8a4e29da07da9a6710b31902b965faf5c3b0687021b06fa04433b8e40b0e"
+      },
+      "sha256": "b758ccf8862e17b8576bcbb2275d380483c0c9530b5b2458171d7f060ff6289e",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/recommander.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,0 +1,40 @@
+{
+  "collection_id": 1251,
+  "schema_version": 1,
+  "id": 1478,
+  "title": "Feishin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "影音娱乐",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "feishin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1001,
+      "collection": "Dashboard Icons",
+      "file": "feishin.svg",
+      "id": 2632,
+      "is_default": true,
+      "label": "feishin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "feishin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2ffb9184ee8869fef6769e3ab9b9a8e2d692d64161e71b03ee19031480aa941c"
+      },
+      "sha256": "b23a96b11d800be9986e97af390684e0fe528227fa62707b1cfdc5dc2d9715ac",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/feishin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

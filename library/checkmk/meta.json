@@ -1,0 +1,40 @@
+{
+  "collection_id": 961,
+  "schema_version": 1,
+  "id": 1188,
+  "title": "Checkmk",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "checkmk"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 688,
+      "collection": "Dashboard Icons",
+      "file": "checkmk.svg",
+      "id": 2241,
+      "is_default": true,
+      "label": "checkmk",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "checkmk.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "e20ed0df53ef302b2fd873cef668545b9588465025fed507baefee6e3cbc5376"
+      },
+      "sha256": "6900e6ed7d92de91ff8b38ddf0a17b153700651d0fb6173421e54b464ff6973a",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/checkmk.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

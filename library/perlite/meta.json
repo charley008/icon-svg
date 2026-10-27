@@ -1,0 +1,40 @@
+{
+  "collection_id": 2125,
+  "schema_version": 1,
+  "id": 2352,
+  "title": "Perlite",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "perlite"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 10137,
+      "collection": "Dashboard Icons",
+      "file": "perlite.svg",
+      "id": 3799,
+      "is_default": true,
+      "label": "perlite",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "perlite.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "dcaca4d77c6f97ba5e149e05152493642878cc278029a756ceaf5fd3ddf17668"
+      },
+      "sha256": "76d9c3b2e7402873b77e395d2adf62b293e72f5cdf706296fa501a0d29bb6dd5",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/perlite.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

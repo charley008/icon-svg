@@ -1,0 +1,44 @@
+{
+  "collection_id": 1265,
+  "schema_version": 1,
+  "id": 1492,
+  "title": "Filerun",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网盘存储",
+  "tags": [
+    "Dashboard Icons",
+    "File-Sharing-\u0026-Sync",
+    "网盘存储"
+  ],
+  "aliases": [
+    "filerun",
+    "web-file-manager",
+    "online-file-browser"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 469,
+      "collection": "Dashboard Icons",
+      "file": "filerun.svg",
+      "id": 2649,
+      "is_default": true,
+      "label": "filerun",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "filerun.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bb362ca66cb821b9ddb9ee3ad1e81d224cbf40cae59a6e70a41c166af0c12f46"
+      },
+      "sha256": "8a8c8b7f90c8b897b19da6f1af21ba53856be639a7ed715e763c76e602dc37bd",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/filerun.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

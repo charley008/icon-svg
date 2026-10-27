@@ -1,0 +1,44 @@
+{
+  "collection_id": 2040,
+  "schema_version": 1,
+  "id": 2267,
+  "title": "Openproject",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons",
+    "Organization",
+    "办公效率"
+  ],
+  "aliases": [
+    "openproject",
+    "task-management",
+    "project-planning"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1039,
+      "collection": "Dashboard Icons",
+      "file": "openproject.svg",
+      "id": 3684,
+      "is_default": true,
+      "label": "openproject",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "openproject.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "4b61ac62d524d6101381e560d069172a946c2bbb43995a67b9b65d0ea2e32df5"
+      },
+      "sha256": "c3311a650e1055c91ee3f4bd0e85101a4f8c6eff766d322b37b4d0fdea05c597",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/openproject.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

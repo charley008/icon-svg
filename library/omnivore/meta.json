@@ -1,0 +1,40 @@
+{
+  "collection_id": 2007,
+  "schema_version": 1,
+  "id": 2234,
+  "title": "Omnivore",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "阅读",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "omnivore"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 814,
+      "collection": "Dashboard Icons",
+      "file": "omnivore.svg",
+      "id": 3631,
+      "is_default": true,
+      "label": "omnivore",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "omnivore.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "48e131a5bad941f8f2f8201f1dd4e6f39ec2b4dc85442e19d0ebd2ee06663d14"
+      },
+      "sha256": "6e6b7f9c23c9d1d24a65e8181b40808a0067157565dd834e94716b5db176d69b",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/omnivore.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

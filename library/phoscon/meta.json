@@ -1,0 +1,59 @@
+{
+  "collection_id": 2134,
+  "schema_version": 1,
+  "id": 2361,
+  "title": "Phoscon",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "系统工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "phoscon"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 488,
+      "collection": "Dashboard Icons",
+      "file": "phoscon.svg",
+      "id": 3815,
+      "is_default": true,
+      "label": "phoscon",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phoscon.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "780d81c6ee6424b29e49374f24afb686c9cf5376db35461b4499413cdf7456ec"
+      },
+      "sha256": "84c077b2708843a127257047b71a44da64c81bfca12a78dc8c2325b27d0e6bf2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phoscon.svg",
+      "version": 0
+    },
+    {
+      "bytes": 488,
+      "collection": "Dashboard Icons",
+      "file": "phoscon-1.svg",
+      "id": 3816,
+      "is_default": false,
+      "label": "phoscon-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "phoscon-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "a6984393f39b3b694a51db2a1d7fba5f5574775372b1995c9ea1c59f3a902b9e"
+      },
+      "sha256": "4224b527a02bda59d31e113797fcc7e7bf213043da3c984e6fe4c34ef5dca44d",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/phoscon-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

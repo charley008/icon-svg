@@ -1,0 +1,40 @@
+{
+  "collection_id": 908,
+  "schema_version": 1,
+  "id": 1135,
+  "title": "Browsh",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "浏览器",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "browsh"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 628,
+      "collection": "Dashboard Icons",
+      "file": "browsh.svg",
+      "id": 2174,
+      "is_default": true,
+      "label": "browsh",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "browsh.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1ccef33f9440c4844264d4a899508cd6abfb48b48e464dd00468d525030a7feb"
+      },
+      "sha256": "8909fd5ed1e727726b1c7035b3d595300c5e1e0811eddecfe982148324aea506",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/browsh.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

@@ -1,4 +1,7 @@
 {
+  "collection_id": 631,
+  "schema_version": 1,
+  "id": 857,
   "title": "Uptime Kuma",
   "url": "https://uptime.kuma.pet/",
   "domains": [
@@ -23,23 +26,23 @@
   "notes": [],
   "icons": [
     {
-      "file": "uptime-kuma.svg",
-      "version": 0,
-      "label": "彩色版本",
-      "is_default": true,
-      "sha256": "f3caa8a8bac253a77fa2ae7e7bc9b062b55a006abd787b111533714152ec744c",
       "bytes": 630,
-      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/uptime-kuma.svg",
+      "collection": "Dashboard Icons",
+      "file": "uptime-kuma.svg",
+      "id": 1813,
+      "is_default": true,
+      "label": "彩色版本",
       "license": "Apache-2.0；商标归各品牌权利人",
       "method": "downloaded-svg",
-      "collection": "Dashboard Icons",
       "provenance": {
         "original_file": "uptime-kuma.svg",
         "repository": "https://github.com/homarr-labs/dashboard-icons"
-      }
+      },
+      "sha256": "f3caa8a8bac253a77fa2ae7e7bc9b062b55a006abd787b111533714152ec744c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/uptime-kuma.svg",
+      "version": 0
     }
   ],
   "next_version": 1,
-  "schema_version": 1,
   "products": []
 }

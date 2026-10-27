@@ -1,0 +1,42 @@
+{
+  "collection_id": 1114,
+  "schema_version": 1,
+  "id": 1341,
+  "title": "Dixa",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "社交通讯",
+  "tags": [
+    "Dashboard Icons",
+    "Communication",
+    "社交通讯"
+  ],
+  "aliases": [
+    "dixa"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1781,
+      "collection": "Dashboard Icons",
+      "file": "dixa.svg",
+      "id": 2448,
+      "is_default": true,
+      "label": "dixa",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "dixa.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1a45822861938a7de97deac7107f0f69285a45d73b28eec793bfdebed732b78c"
+      },
+      "sha256": "d257934e912e0941de3df7e10408c6b16400835ce50fbe23587b0951f13e0f72",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/dixa.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

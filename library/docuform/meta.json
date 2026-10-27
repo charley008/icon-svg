@@ -1,0 +1,40 @@
+{
+  "collection_id": 1133,
+  "schema_version": 1,
+  "id": 1360,
+  "title": "Docuform",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "办公效率",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "docuform"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 708,
+      "collection": "Dashboard Icons",
+      "file": "docuform.svg",
+      "id": 2473,
+      "is_default": true,
+      "label": "docuform",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "docuform.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "78d4ed80dae9af76c2f2e170ea2951e4cffdcbfc06d675a4e4bbfc1029fdf94e"
+      },
+      "sha256": "2ed800860aaeb13f63c08e11f84e8c2446aa48d0538871082e207f9fc600cab8",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/docuform.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

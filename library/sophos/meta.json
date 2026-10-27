@@ -1,0 +1,59 @@
+{
+  "collection_id": 2660,
+  "schema_version": 1,
+  "id": 2887,
+  "title": "Sophos",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "sophos"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2535,
+      "collection": "Dashboard Icons",
+      "file": "sophos.svg",
+      "id": 4507,
+      "is_default": true,
+      "label": "sophos",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sophos.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1dfadc3006dede2a758a9c4c4e407ea42aadb70d337b86eb565496003f5c03a9"
+      },
+      "sha256": "b7e747bf442d782a1792be3ff1c07a030b62f3640ea5a3b4c9ac802759a10379",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sophos.svg",
+      "version": 0
+    },
+    {
+      "bytes": 2535,
+      "collection": "Dashboard Icons",
+      "file": "sophos-1.svg",
+      "id": 4508,
+      "is_default": false,
+      "label": "sophos-dark",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "sophos-dark.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "1916c91cb3aa070bf00d121d74d7dc1d6041dd7bdd1d6e091777ae1c7e612187"
+      },
+      "sha256": "9e54faab09655a59d89026dcb256c2f877d0736c48aabec0e48d870b7a713d34",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/sophos-dark.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

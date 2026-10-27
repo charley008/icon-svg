@@ -1,0 +1,59 @@
+{
+  "collection_id": 2147,
+  "schema_version": 1,
+  "id": 2374,
+  "title": "Pingdom",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "pingdom"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 619,
+      "collection": "Dashboard Icons",
+      "file": "pingdom.svg",
+      "id": 3836,
+      "is_default": true,
+      "label": "pingdom",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pingdom.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "06732550010d5255bd05d689dc711623939993f3fdb63449fe70ba6884ac1ee6"
+      },
+      "sha256": "f843b7abd6850f15b797037b94d5194d1d36f01b294ceffe264dcba5fab2adb2",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pingdom.svg",
+      "version": 0
+    },
+    {
+      "bytes": 616,
+      "collection": "Dashboard Icons",
+      "file": "pingdom-1.svg",
+      "id": 3837,
+      "is_default": false,
+      "label": "pingdom-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "pingdom-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "68cd05866121dbcefa99b3e789e23d5295fb903bb066f1e5167cfa612545f313"
+      },
+      "sha256": "0c88a602911bd571b8442f0ddeeb75cb0888639f8b45d7d2cf8b932c84708add",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/pingdom-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

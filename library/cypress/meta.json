@@ -1,0 +1,60 @@
+{
+  "collection_id": 1062,
+  "schema_version": 1,
+  "id": 1289,
+  "title": "Cypress",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "cypress"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 3255,
+      "collection": "Dashboard Icons",
+      "file": "cypress.svg",
+      "id": 2376,
+      "is_default": true,
+      "label": "cypress",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "cypress.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "be17ed52ce7606d2aff89b9f3f9991fd360b764c46ed58c7f86d418193af4bd0"
+      },
+      "sha256": "17acf46583c61916d20cdeb803c47f4bfd0df60c8e9c68d66f944e01c6887b22",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/cypress.svg",
+      "version": 0
+    },
+    {
+      "bytes": 1622,
+      "collection": "TechIcons / Devicon",
+      "file": "cypress-1.svg",
+      "id": 5122,
+      "is_default": false,
+      "label": "TechIcons · Cypress",
+      "license": "MIT（Devicon）；图标与商标归各权利人所有。",
+      "method": "user-provided-svg",
+      "provenance": {
+        "original_file": "Cypress.svg",
+        "original_sha256": "1eeb71ec990131dfcaeb9e97fb723c2850a5e682a404a85f0167dea225331e30",
+        "processing": "removed editor metadata only; preserved vector paths, colors and dimensions",
+        "reference": "https://techicons.dev/icons/cypressio",
+        "reference_website": "https://www.cypress.io"
+      },
+      "sha256": "a2178a7850ee413b76a28bb716015bc5d0bcc91bdce131302934215a5ec0ca76",
+      "source": "https://techicons.dev/icons/cypressio",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

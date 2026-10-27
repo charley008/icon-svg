@@ -1,0 +1,41 @@
+{
+  "collection_id": 1733,
+  "schema_version": 1,
+  "id": 1960,
+  "title": "Lockheed Martin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Organization"
+  ],
+  "aliases": [
+    "lockheed-martin"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 30183,
+      "collection": "Dashboard Icons",
+      "file": "lockheed-martin.svg",
+      "id": 3259,
+      "is_default": true,
+      "label": "lockheed-martin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "lockheed-martin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "7448a57bd3acb0d7b320a0e47e6f6b289a2844ed538e7384acdfc05a9da94f4c"
+      },
+      "sha256": "c6bb5a27103caaf798c73a2461bcf3f4a485f7be659bd0c0e55d4df4f946254c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/lockheed-martin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

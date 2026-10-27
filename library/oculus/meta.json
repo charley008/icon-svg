@@ -1,0 +1,59 @@
+{
+  "collection_id": 1988,
+  "schema_version": 1,
+  "id": 2215,
+  "title": "Oculus",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "游戏",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "oculus"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 880,
+      "collection": "Dashboard Icons",
+      "file": "oculus.svg",
+      "id": 3600,
+      "is_default": true,
+      "label": "oculus",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oculus.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "619a72d40d5b7d62883b08da4adb958f23e5aa165aa85546a738125fa0d81226"
+      },
+      "sha256": "7415b4b404d46f919dc2d91bb204b4bb33e826d87f656d708e75127fb64e07c0",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oculus.svg",
+      "version": 0
+    },
+    {
+      "bytes": 910,
+      "collection": "Dashboard Icons",
+      "file": "oculus-1.svg",
+      "id": 3601,
+      "is_default": false,
+      "label": "oculus-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "oculus-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "66816d85b8a67b7bb3ec5c3f69660351d23043864b7de7906878d3250190c9cb"
+      },
+      "sha256": "b3de9d466ab189a80282172044eb0ed4656debda657e2ce0f43076debc36a7ca",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/oculus-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

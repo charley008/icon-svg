@@ -1,0 +1,40 @@
+{
+  "collection_id": 3028,
+  "schema_version": 1,
+  "id": 3255,
+  "title": "Yourls",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "yourls"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 2293,
+      "collection": "Dashboard Icons",
+      "file": "yourls.svg",
+      "id": 4986,
+      "is_default": true,
+      "label": "yourls",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "yourls.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "bc22fa08d342649dd051dab9518c533954c0ab85f4b8e678fa28ca059f5bdebf"
+      },
+      "sha256": "06d4f1b45b66a5d0c3eab79e4b74b2746a0ad2afa9b7f9725e9f0fa0c242c751",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/yourls.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

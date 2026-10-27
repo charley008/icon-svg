@@ -1,0 +1,44 @@
+{
+  "collection_id": 872,
+  "schema_version": 1,
+  "id": 1099,
+  "title": "Bitcoin",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "金融支付",
+  "tags": [
+    "Dashboard Icons",
+    "Finance-\u0026-Banking",
+    "金融支付"
+  ],
+  "aliases": [
+    "bitcoin",
+    "btc",
+    "digital-currency"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1142,
+      "collection": "Dashboard Icons",
+      "file": "bitcoin.svg",
+      "id": 2124,
+      "is_default": true,
+      "label": "bitcoin",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "bitcoin.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "2a4fb62ab350a83de1cb1df445b99fe4b4108b7ae60aa56ab770e94ed7ba17f3"
+      },
+      "sha256": "b1c151b5e563549582fc0faf231955e7e5cf285a897af390311758c3fccfb827",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/bitcoin.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

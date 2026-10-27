@@ -1,0 +1,59 @@
+{
+  "collection_id": 2106,
+  "schema_version": 1,
+  "id": 2333,
+  "title": "Payload",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "开发编程",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "payload"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 372,
+      "collection": "Dashboard Icons",
+      "file": "payload.svg",
+      "id": 3774,
+      "is_default": true,
+      "label": "payload",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "payload.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "ea755fd0b8d84168a3d19d524ef9e6aa8e70127e89449c931c41c6e89de0ef71"
+      },
+      "sha256": "bfc5bdcee16a2b48d978d48dfeb07b691d0828ed0afd7068d960af98ee702863",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/payload.svg",
+      "version": 0
+    },
+    {
+      "bytes": 411,
+      "collection": "Dashboard Icons",
+      "file": "payload-1.svg",
+      "id": 3775,
+      "is_default": false,
+      "label": "payload-light",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "payload-light.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "86ed2d58aa13a8151cb25a3ddeee5f4a951ba74c6dfe448c73ee8874411eb963"
+      },
+      "sha256": "39f61bf7aec766c1210a93ca351526f1a9b06318e76ceea0b788506f3233c434",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/payload-light.svg",
+      "version": 1
+    }
+  ],
+  "next_version": 2,
+  "products": []
+}

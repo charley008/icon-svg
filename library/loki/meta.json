@@ -1,0 +1,40 @@
+{
+  "collection_id": 1737,
+  "schema_version": 1,
+  "id": 1964,
+  "title": "Loki",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "网络工具",
+  "tags": [
+    "Dashboard Icons"
+  ],
+  "aliases": [
+    "loki"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 5075,
+      "collection": "Dashboard Icons",
+      "file": "loki.svg",
+      "id": 3265,
+      "is_default": true,
+      "label": "loki",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "loki.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "84c08793ec053187245cf1f157ecef891d9924530ea1879d7d064820151085ed"
+      },
+      "sha256": "716c0943a4d764c94e8449204fc58bee1003daf12732b65d171f3248346e7ace",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/loki.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}

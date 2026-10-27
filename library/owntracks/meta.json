@@ -1,0 +1,43 @@
+{
+  "collection_id": 2073,
+  "schema_version": 1,
+  "id": 2300,
+  "title": "Owntracks",
+  "url": "",
+  "domains": [],
+  "description": "",
+  "category": "出行地图",
+  "tags": [
+    "Dashboard Icons",
+    "Monitoring-Tools",
+    "Smart-Home"
+  ],
+  "aliases": [
+    "owntracks",
+    "Location Tracking"
+  ],
+  "notes": [],
+  "icons": [
+    {
+      "bytes": 1877,
+      "collection": "Dashboard Icons",
+      "file": "owntracks.svg",
+      "id": 3728,
+      "is_default": true,
+      "label": "owntracks",
+      "license": "Apache-2.0；商标归各品牌权利人",
+      "method": "downloaded-svg",
+      "provenance": {
+        "original_file": "owntracks.svg",
+        "processing": "removed editor metadata, comments and non-rendering scripts; preserved vector geometry",
+        "repository": "https://github.com/homarr-labs/dashboard-icons",
+        "upstream_sha256": "09e8086fe1121241a9ca49a6471f1a01c31bffb35ff9b65edacc3099b5ecd61a"
+      },
+      "sha256": "5f62f1a7f068d6ae938fc84d7a5b4d9babc5b2dce5ac96384f7d6b3e4e14af9c",
+      "source": "https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/owntracks.svg",
+      "version": 0
+    }
+  ],
+  "next_version": 1,
+  "products": []
+}
