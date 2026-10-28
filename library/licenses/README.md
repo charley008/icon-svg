@@ -49,12 +49,12 @@
 
 - Upstream commit: `83f32e08257b66fbd971ac8d7645f5b38d52e85d` (2026-10-27 snapshot).
 - Added 3212 SVGs; preserved existing versions and defaults. Removed editor-only metadata, CSS comments, unused web fonts, embedded color-profile descriptors and non-rendering scripts where needed. Vector geometry and RGB colors retained.
-- 99 upstream files containing raster data, invalid XML or unsupported content excluded; full per-file provenance and exclusion report: `docs/dashboard-icons-import.json`.
+- Upstream files containing raster data, invalid XML or unsupported content were excluded. Included artwork retains its source and provenance in each icon's metadata.
 - Apache-2.0 repository license remains in `dashboard-icons-Apache-2.0.txt`; artwork and trademark rights remain with their respective owners.
 
 ## User-supplied operating-system SVGs (2026-10-27)
 
-- Added 2 Red Hat, 2 Linux and 7 Debian SVG variants supplied directly by the user. Original download filenames and SHA256 hashes are retained in each icon metadata; mapping: `docs/user-os-assets-20261027.json`.
+- Added 2 Red Hat, 2 Linux and 7 Debian SVG variants supplied directly by the user. Original download filenames and SHA256 hashes are retained in each icon's metadata.
 - No separate permission statement accompanied these files; no additional copyright or trademark license grant is asserted. Existing per-icon and upstream notices remain in place.
 - Modifications: remove an external DOCTYPE declaration from `2333386-code-linux-os_85584.svg`; remove non-rendering Inkscape/Sodipodi/RDF metadata from `distributorlogodebian_103834.svg`. SVG geometry, transforms, gradients and colors remain unchanged. Nine other supplied SVGs retain their exact original bytes.
 
@@ -65,4 +65,4 @@
 
 ## Curated library exclusion (2026-10-27)
 
-- At the owner's request, all PVY and PVY Affiliate artwork was permanently removed (237 SVGs). The upstream synchronizer excludes this brand family, including its 240 upstream file variants; no excluded artwork is redistributed in the materials ZIP.
+- At the owner's request, all PVY and PVY Affiliate artwork was removed from the library; no excluded artwork is redistributed in the materials ZIP.
