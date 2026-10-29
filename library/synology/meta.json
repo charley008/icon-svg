@@ -137,21 +137,22 @@
       ],
       "icons": [
         {
-          "bytes": 3071,
+          "bytes": 3562,
           "collection": "用户优选",
           "file": "synology-dsm.svg",
           "id": 1285,
           "is_default": true,
           "label": "dsm",
           "license": "原图版权及商标归权利人",
-          "method": "existing-svg",
+          "method": "uploaded-svg",
           "provenance": {
             "original_file": "dsm.svg",
             "original_is_default": true,
-            "original_slug": "dsm"
+            "original_slug": "dsm",
+            "original_sha256": "abf4c1f173569f317f377092cce094015d715909f4d38d0c7e3ffd452c8864a3"
           },
-          "sha256": "38454a3bd02bfc01a560c8afa45d3d7afc429506ee2481c659bda32efb82ec6f",
-          "source": "用户优选",
+          "sha256": "abf4c1f173569f317f377092cce094015d715909f4d38d0c7e3ffd452c8864a3",
+          "source": "用户提供：dsm.svg",
           "version": 0
         },
         {
