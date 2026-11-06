@@ -4,8 +4,19 @@
 <body>{{template "admin-nav" .CSRF}}
 <main class="admin-page settings-page">
   <a class="text-button" href="/admin">← 返回合集管理</a>
-  <div class="page-heading"><div><div class="eyebrow">WORKSPACE SETTINGS</div><h1>设置</h1><p class="muted">管理数据、账号安全，查看操作记录。</p></div></div>
-  <nav class="editor-nav" aria-label="设置导航"><a href="/admin/settings?view=data" {{if eq .View "data"}}aria-current="page"{{end}}>数据库备份</a><a href="/admin/settings?view=library" {{if eq .View "library"}}aria-current="page"{{end}}>素材库管理</a><a href="/admin/settings?view=account" {{if eq .View "account"}}aria-current="page"{{end}}>账号安全</a><a href="/admin/settings?view=categories" {{if eq .View "categories"}}aria-current="page"{{end}}>分类管理</a><a href="/admin/settings?view=logs" {{if eq .View "logs"}}aria-current="page"{{end}}>操作日志</a></nav>
+  <div class="page-heading"><div><div class="eyebrow">WORKSPACE SETTINGS</div><h1>设置</h1><p class="muted">管理顶部导航、数据和账号安全，查看操作记录。</p></div></div>
+  <nav class="editor-nav" aria-label="设置导航"><a href="/admin/settings?view=navigation" {{if eq .View "navigation"}}aria-current="page"{{end}}>顶部导航</a><a href="/admin/settings?view=data" {{if eq .View "data"}}aria-current="page"{{end}}>数据库备份</a><a href="/admin/settings?view=library" {{if eq .View "library"}}aria-current="page"{{end}}>素材库管理</a><a href="/admin/settings?view=account" {{if eq .View "account"}}aria-current="page"{{end}}>账号安全</a><a href="/admin/settings?view=categories" {{if eq .View "categories"}}aria-current="page"{{end}}>分类管理</a><a href="/admin/settings?view=logs" {{if eq .View "logs"}}aria-current="page"{{end}}>操作日志</a></nav>
+  {{if eq .View "navigation"}}<section class="panel" id="navigation" aria-labelledby="navigation-title">
+    <h2 id="navigation-title">顶部导航</h2><p class="muted">在图标库和详情页顶部显示快捷链接，最多 12 条。使用上下按钮调整顺序；地址支持 https:// 开头的完整网址或 /docs/ 这样的站内路径。链接目标内容仍需单独部署。</p>
+    {{if .NavigationSaved}}<p class="import-result" role="status">导航已保存，前台立即生效。</p>{{end}}
+    <form action="/admin/navigation" method="post" id="navigation-form" class="field-grid">
+      <input type="hidden" name="csrf" value="{{.CSRF}}">
+      <div id="navigation-rows">{{range .Navigation}}{{template "navigation-row" .}}{{end}}</div>
+      <div class="navigation-controls"><button type="button" class="button" id="navigation-add">＋ 添加链接</button><button type="submit" class="button button-primary">保存导航</button></div>
+      <p class="muted" id="navigation-count" aria-live="polite"></p>
+    </form>
+    <template id="navigation-row-template">{{template "navigation-row"}}</template>
+  </section>{{end}}
   {{if not .View}}<p class="muted">请选择上方的设置项目。</p>{{end}}
   {{if eq .View "categories"}}<section class="panel" id="categories" aria-labelledby="categories-title">
     <h2 id="categories-title">分类管理</h2><p class="muted">统一管理分类名称。改名会同步已有合集和产品；移除分类时将内容迁移到选定分类，不删除图标。数量包含草稿和回收站。</p>
@@ -14,7 +25,7 @@
   </section>{{end}}
   {{if eq .View "data"}}<section class="panel" id="data" aria-labelledby="data-title">
     <h2 id="data-title">数据库备份</h2>
-    <p class="muted">备份管理员账号、操作日志、下载统计和扫描设置，不包含 SVG 素材。素材导出请进入“素材库管理”。</p>
+    <p class="muted">备份管理员账号、操作日志、下载统计、扫描设置和顶部导航，不包含 SVG 素材。素材导出请进入“素材库管理”。</p>
     <div class="export-actions"><a class="button button-primary" href="/admin/backup-database">↓ 下载数据库备份</a></div>
     <p class="muted">恢复前停止程序，将备份中的 data/runtime.sqlite3 放回 data 目录；素材目录需要单独保留。</p>
   </section>{{end}}
@@ -80,3 +91,12 @@
     {{if gt .Pages 1}}<nav class="pagination" aria-label="日志分页">{{range .Links}}{{if .Gap}}<span class="pagination-gap" aria-hidden="true">…</span>{{else}}<a class="button {{if .Active}}button-primary{{end}}" href="{{.URL}}#logs" aria-label="第 {{.Number}} 页" {{if .Active}}aria-current="page"{{end}}>{{.Number}}</a>{{end}}{{end}}</nav>{{end}}
   </section>{{end}}
 </main>{{template "site-footer"}}</body></html>
+
+{{define "navigation-row"}}<fieldset class="navigation-row">
+  <legend>导航链接</legend>
+  <label>名称<input name="title" value="{{if .}}{{.Title}}{{end}}" required maxlength="40" placeholder="例如：常用工具"></label>
+  <label>地址<input name="url" value="{{if .}}{{.URL}}{{end}}" required maxlength="2048" placeholder="/tools.html 或 https://example.com/"></label>
+  <label>显示状态<select name="visible"><option value="1">显示</option><option value="0" {{if .}}{{if not .Visible}}selected{{end}}{{end}}>隐藏</option></select></label>
+  <label>打开方式<select name="new_tab"><option value="0">当前页面</option><option value="1" {{if .}}{{if .NewTab}}selected{{end}}{{end}}>新标签页</option></select></label>
+  <div class="navigation-row-actions"><button type="button" class="button" data-navigation="up" aria-label="上移链接">↑</button><button type="button" class="button" data-navigation="down" aria-label="下移链接">↓</button><button type="button" class="button danger" data-navigation="remove">删除</button></div>
+</fieldset>{{end}}

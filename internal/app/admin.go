@@ -224,6 +224,8 @@ func (a *App) adminHome(w http.ResponseWriter, r *http.Request) {
 }
 
 type AdminSettings struct {
+	Navigation         []NavigationLink
+	NavigationSaved    bool
 	ImportMessage      string
 	Scan               LibraryScanStatus
 	ScanSchedule       string
@@ -239,8 +241,17 @@ type AdminSettings struct {
 
 func (a *App) adminSettings(w http.ResponseWriter, r *http.Request) {
 	p := AdminSettings{CSRF: csrf(r), View: r.URL.Query().Get("view")}
-	if p.View != "data" && p.View != "account" && p.View != "logs" && p.View != "categories" && p.View != "library" {
+	if p.View != "data" && p.View != "account" && p.View != "logs" && p.View != "categories" && p.View != "library" && p.View != "navigation" {
 		p.View = ""
+	}
+	if p.View == "navigation" {
+		var err error
+		p.Navigation, err = a.navigationLinks()
+		if err != nil {
+			renderError(w, err)
+			return
+		}
+		p.NavigationSaved = r.URL.Query().Get("saved") == "1"
 	}
 	if p.View == "library" {
 		if r.URL.Query().Get("imported") == "1" {

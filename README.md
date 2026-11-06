@@ -22,7 +22,7 @@
 
 ## Windows
 
-可按下文从源码编译 1.0.3，或下载已经发布的对应版本的 [Release 完整 ZIP](https://github.com/charley008/icon-svg/releases)，完整解压到可写目录后双击 `icon-svg.exe`。无需安装 Go、Python、Node.js；请保留 `library` 和 `web`，EXE 不包含这些文件。
+可按下文从源码编译 1.0.4，或下载已经发布的对应版本的 [Release 完整 ZIP](https://github.com/charley008/icon-svg/releases)，完整解压到可写目录后双击 `icon-svg.exe`。无需安装 Go、Python、Node.js；请保留 `library` 和 `web`，EXE 不包含这些文件。
 
 ```text
 icon-svg/
@@ -141,6 +141,14 @@ docker run -d --name icon-svg --restart unless-stopped -p 127.0.0.1:1089:8000 -v
 素材 ID 用于保持详情链接稳定，由程序写入 `meta.json`，建议保留。索引可随时重建；不需要清空账号数据库。JSON 或 SVG 无效时保留上一份可用索引，并在控制台输出扫描错误。
 
 默认图标由 `is_default` 决定，不依赖文件名。新版本编号递增，删除后不复用。方形 SVG 上传时自动添加矢量圆角，页面与下载使用相同素材。
+
+## 顶部导航
+
+在后台“设置 → 顶部导航”中添加快捷链接，支持名称、地址、显示/隐藏、当前页面或新标签页打开，以及上下调整顺序，最多 12 条。保存后图标库和详情页顶部立即生效，手机端自动换行。
+
+地址支持 `https://example.com/docs/` 等完整 HTTP(S) 地址，以及 `/tools.html` 等以 `/` 开头的站内路径。站内路径始终使用当前访问域名；链接目标文件仍需由 Nginx 或其他服务提供。
+
+导航保存在 `data/runtime.sqlite3` 中，随数据库备份保留；更新程序时继续挂载原来的 `data/` 即可。默认没有自定义链接，清空并保存可移除全部导航。
 
 ## 后台素材库管理
 

@@ -52,6 +52,15 @@ func newApp(s *Store, data, origin string, secure bool, resources ...AppResource
 			return ""
 		}
 		return fmt.Sprintf("/assets/%d/%s", i.ID, i.Meta.SHA)
+	}, "navigationLinks": func() ([]NavigationLink, error) {
+		links, err := a.navigationLinks()
+		visible := make([]NavigationLink, 0, len(links))
+		for _, link := range links {
+			if link.Visible {
+				visible = append(visible, link)
+			}
+		}
+		return visible, err
 	}, "appVersion": func() string { return a.version }, "kb": func(n int) string { return fmt.Sprintf("%.1f", float64(n)/1024) }}).ParseFS(files.Web, "templates/*.html")
 	if e != nil {
 		return nil, fmt.Errorf("读取 web/templates 失败，请解压完整安装包：%w", e)
@@ -93,6 +102,7 @@ func (a *App) routes() http.Handler {
 	mux.Handle("POST /admin/library/scan", a.auth(http.HandlerFunc(a.scanLibrary)))
 	mux.Handle("POST /admin/library/import", a.auth(http.HandlerFunc(a.importLibrary)))
 	mux.Handle("GET /admin/library/export", a.auth(http.HandlerFunc(a.exportFullLibrary)))
+	mux.Handle("POST /admin/navigation", a.auth(http.HandlerFunc(a.saveNavigation)))
 	mux.Handle("GET /admin/settings", a.auth(http.HandlerFunc(a.adminSettings)))
 	mux.Handle("POST /admin/categories/{action}", a.auth(http.HandlerFunc(a.categoryAction)))
 	mux.Handle("GET /admin/brands/{id}", a.auth(http.HandlerFunc(a.adminBrand)))

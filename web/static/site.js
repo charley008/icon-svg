@@ -81,3 +81,42 @@ if(libraryImportForm){
   libraryImportForm.addEventListener('submit',()=>{button.disabled=true;button.textContent='正在导入…';progress.classList.remove('hidden');});
   window.addEventListener('pageshow',()=>{button.disabled=false;button.textContent=label;progress.classList.add('hidden');});
 }
+
+const navigationForm=document.getElementById('navigation-form');
+if(navigationForm){
+  const rows=document.getElementById('navigation-rows');
+  const add=document.getElementById('navigation-add');
+  const template=document.getElementById('navigation-row-template');
+  const update=()=>{
+    const items=Array.from(rows.children);
+    add.disabled=items.length>=12;
+    document.getElementById('navigation-count').textContent=`${items.length} / 12 条链接，保存后生效。`;
+    items.forEach((row,index)=>{
+      row.querySelector('legend').textContent=`链接 ${index+1}`;
+      row.querySelector('[data-navigation="up"]').disabled=index===0;
+      row.querySelector('[data-navigation="down"]').disabled=index===items.length-1;
+    });
+  };
+  add.addEventListener('click',()=>{
+    if(rows.children.length>=12)return;
+    const row=template.content.firstElementChild.cloneNode(true);
+    rows.append(row);
+    update();
+    row.querySelector('input').focus();
+  });
+  rows.addEventListener('click',event=>{
+    const button=event.target.closest('[data-navigation]');
+    if(!button)return;
+    const row=button.closest('.navigation-row');
+    const action=button.dataset.navigation;
+    if(action==='up'&&row.previousElementSibling)rows.insertBefore(row,row.previousElementSibling);
+    if(action==='down'&&row.nextElementSibling)rows.insertBefore(row.nextElementSibling,row);
+    if(action==='remove'){
+      const target=row.nextElementSibling||row.previousElementSibling;
+      row.remove();
+      (target?target.querySelector('input'):add).focus();
+    }
+    update();
+  });
+  update();
+}
