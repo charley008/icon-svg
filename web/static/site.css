@@ -65,7 +65,7 @@ body>.workspace{display:flex;flex-direction:column;min-height:100vh;min-height:1
 
 /* Editable public navigation */
 .public-navigation{display:flex;align-items:center;gap:6px;flex:1;min-width:0;flex-wrap:wrap;justify-content:center}
-.public-navigation a{padding:8px 12px;border-radius:9px;font-size:12px;color:var(--ink);overflow-wrap:anywhere}
+.public-navigation a{padding:8px 12px;border-radius:9px;font-size:16px;font-weight:600;color:var(--ink);overflow-wrap:anywhere}
 .public-navigation a:hover,.public-navigation a:focus-visible{color:var(--purple);background:var(--purple-soft)}
 .topbar:has(.public-navigation){height:auto;min-height:86px;padding-block:16px;flex-wrap:wrap}
 .navigation-row{display:grid;grid-template-columns:minmax(120px,1fr) minmax(180px,2fr) 100px 120px auto;gap:12px;align-items:end;border:1px solid var(--line);border-radius:12px;padding:16px;margin:0 0 16px;min-width:0}
