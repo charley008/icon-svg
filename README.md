@@ -20,9 +20,9 @@
 
 启动时扫描文件库并重建查询索引，之后默认每 5 分钟扫描一次；设置中也可手动刷新。后台修改直接更新素材文件和索引。全新安装的操作日志、下载次数和会话为空，管理员账号独立生成；仓库不包含数据库或凭据。
 
-## Windows
+## Windows（自行编译）
 
-可按下文从源码编译 1.0.5，或下载已经发布的对应版本的 [Release 完整 ZIP](https://github.com/charley008/icon-svg/releases)，完整解压到可写目录后双击 `icon-svg.exe`。无需安装 Go、Python、Node.js；请保留 `library` 和 `web`，EXE 不包含这些文件。
+正式发布仅提供 Docker 镜像和素材包，不再自动构建 Windows 预编译包。如需在 Windows 运行，可按下文从源码编译；请保留 `library` 和 `web`，EXE 不包含这些文件。
 
 ```text
 icon-svg/
@@ -52,7 +52,7 @@ icon-svg/
 
 首次生成的管理员凭据位于 `data/initial-admin.txt`，用户名与密码各占一行。修改密码后该文件会删除。密码最少 8 位，不预设通用密码。
 
-源码编译输出到 `bin/` 时，从父目录读取 `library/`、`web/`，并使用父目录的 `data/`。分发部署请使用完整 ZIP，不要只复制 EXE。
+源码编译输出到 `bin/` 时，从父目录读取 `library/`、`web/`，并使用父目录的 `data/`。分发时保留这些目录，不要只复制 EXE。
 
 运行 `icon-svg.exe -version` 可查看版本号。
 

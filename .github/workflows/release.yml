@@ -3,12 +3,21 @@ name: Build and release
 on:
   push:
     tags: ['v*.*.*']
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: Existing version tag to publish
+        required: true
+        type: string
+
+env:
+  RELEASE_TAG: ${{ inputs.release_tag || github.ref_name }}
 
 permissions:
   contents: read
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
+  group: ${{ github.workflow }}-${{ inputs.release_tag || github.ref_name }}
   cancel-in-progress: false
 
 jobs:
@@ -18,6 +27,8 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ env.RELEASE_TAG }}
       - uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6
         with:
           go-version-file: go.mod
@@ -25,7 +36,7 @@ jobs:
         shell: bash
         run: |
           version=$(tr -d '\r\n' < cmd/icon-svg/VERSION)
-          if [[ ! "$GITHUB_REF_NAME" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]] || [[ "$GITHUB_REF_NAME" != "v$version" ]]; then
+          if [[ ! "$RELEASE_TAG" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]] || [[ "$RELEASE_TAG" != "v$version" ]]; then
             echo 'Release tag must be v<major>.<minor>.<patch> and match cmd/icon-svg/VERSION' >&2
             exit 1
           fi
@@ -57,66 +68,15 @@ jobs:
         if: always()
         run: docker compose -f docker-compose.yaml -f docker-compose.build.yaml -p icon-svg-ci down --volumes
 
-  windows:
-    name: Windows directory package
-    needs: verify
-    runs-on: windows-latest
-    timeout-minutes: 20
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
-        with:
-          persist-credentials: false
-      - uses: actions/setup-go@924ae3a1cded613372ab5595356fb5720e22ba16 # v6
-        with:
-          go-version-file: go.mod
-      - name: Windows tests
-        run: go test ./...
-      - name: Build, verify external directories and package
-        shell: pwsh
-        run: ./.github/scripts/package-windows.ps1
-      - name: Store downloadable binaries
-        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
-        with:
-          name: icon-svg-windows-amd64
-          path: dist/release/*
-          if-no-files-found: error
-          retention-days: 30
-      - name: Publish tagged release
-        if: startsWith(github.ref, 'refs/tags/')
-        shell: pwsh
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          RELEASE_TAG: ${{ github.ref_name }}
-        run: |
-          $ErrorActionPreference = 'Stop'
-          $version = (Get-Content cmd/icon-svg/VERSION -Raw).Trim()
-          if ($env:RELEASE_TAG -ne "v$version") { throw 'Tag must match VERSION' }
-          $assets = @(Get-ChildItem dist/release -File | ForEach-Object FullName)
-          $notes = @"
-          - 优化小 VPS 内存占用：改用磁盘索引、限制缓存，扫描后释放临时内存。
-          - 减少启动、登录和设置操作中的重复素材加载。
-          - 兼容现有 data、library 持久化目录，无需迁移数据。
-          "@
-          $notes | Set-Content dist/release-notes.md -Encoding utf8
-          gh release view $env:RELEASE_TAG --json tagName *> $null
-          if ($LASTEXITCODE -eq 0) {
-            gh release upload $env:RELEASE_TAG @assets --clobber
-          } else {
-            gh release create $env:RELEASE_TAG @assets --verify-tag --title $version --notes-file dist/release-notes.md
-          }
-          if ($LASTEXITCODE -ne 0) { throw 'Release upload failed' }
-
   docker:
     name: Publish Docker Hub image
-    needs: [verify, windows]
+    needs: verify
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
         with:
+          ref: ${{ env.RELEASE_TAG }}
           persist-credentials: false
       - name: Prepare Docker image name
         id: image
@@ -135,7 +95,8 @@ jobs:
             exit 1
           fi
           echo "name=$DOCKERHUB_USERNAME/$REPOSITORY" >> "$GITHUB_OUTPUT"
-          echo "version=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+          echo "version=${RELEASE_TAG#v}" >> "$GITHUB_OUTPUT"
+          echo "revision=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - name: Set up QEMU
         uses: docker/setup-qemu-action@99012661954931238ded8c8b007157a8430204e1 # v4
         with:
@@ -159,6 +120,42 @@ jobs:
           labels: |
             org.opencontainers.image.title=icon-svg
             org.opencontainers.image.version=${{ steps.image.outputs.version }}
-            org.opencontainers.image.revision=${{ github.sha }}
+            org.opencontainers.image.revision=${{ steps.image.outputs.revision }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+  release:
+    name: Publish release and materials
+    needs: docker
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ env.RELEASE_TAG }}
+          persist-credentials: false
+      - name: Package materials
+        shell: bash
+        run: |
+          version=$(tr -d '\r\n' < cmd/icon-svg/VERSION)
+          python3 .github/scripts/package-materials.py "dist/release/icon-svg-$version-materials.zip"
+          cd dist/release
+          sha256sum *.zip > SHA256SUMS.txt
+      - name: Publish tagged release
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          cat > dist/release-notes.md <<'EOF'
+          - 优化小 VPS 内存占用：改用磁盘索引、限制缓存，扫描后释放临时内存。
+          - 减少启动、登录和设置操作中的重复素材加载。
+          - 兼容现有 data、library 持久化目录，无需迁移数据。
+          EOF
+          if gh release view "$RELEASE_TAG" --json tagName > /dev/null 2>&1; then
+            gh release upload "$RELEASE_TAG" dist/release/* --clobber
+          else
+            gh release create "$RELEASE_TAG" dist/release/* --verify-tag --title "${RELEASE_TAG#v}" --notes-file dist/release-notes.md
+          fi
