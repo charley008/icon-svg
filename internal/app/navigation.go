@@ -66,7 +66,7 @@ func (a *App) saveNavigation(w http.ResponseWriter, r *http.Request) {
 	}
 	raw, err := json.Marshal(links)
 	if err == nil {
-		err = a.store.transaction(func(tx *sql.Tx) error {
+		err = a.store.runtimeTransaction(func(tx *sql.Tx) error {
 			if _, err := tx.Exec(`INSERT INTO runtime.settings(key,value) VALUES('navigation_links',?) ON CONFLICT(key) DO UPDATE SET value=excluded.value`, string(raw)); err != nil {
 				return err
 			}

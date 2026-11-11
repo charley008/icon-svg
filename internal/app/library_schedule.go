@@ -32,7 +32,7 @@ func (a *App) saveScanSchedule(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	interval := time.Duration(minutes) * time.Minute
-	if err := a.store.transaction(func(tx *sql.Tx) error {
+	if err := a.store.runtimeTransaction(func(tx *sql.Tx) error {
 		if _, err := tx.Exec(`INSERT INTO runtime.settings(key,value) VALUES('scan_interval',?) ON CONFLICT(key) DO UPDATE SET value=excluded.value`, interval.String()); err != nil {
 			return err
 		}

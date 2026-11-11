@@ -9,6 +9,7 @@ import (
 	"io/fs"
 	"os"
 	"path"
+	"path/filepath"
 	"sort"
 	"strings"
 	"sync"
@@ -254,11 +255,11 @@ func (l *Library) saveLocked(files map[string][]byte) error {
 	if _, e := l.root.Lstat(".pending.json"); e == nil {
 		return errors.New("素材库存在未完成写入，请先刷新素材库恢复")
 	}
-	current, e := l.load()
+	current, e := l.currentFingerprint()
 	if e != nil {
 		return e
 	}
-	if l.fingerprint != "" && fingerprint(current) != l.fingerprint {
+	if l.fingerprint != "" && current != l.fingerprint {
 		return errors.New("素材文件已被外部修改，请先刷新素材库后再保存")
 	}
 	changes := map[string][]byte{}
@@ -286,11 +287,11 @@ func (l *Library) saveLocked(files map[string][]byte) error {
 			return e
 		}
 	}
-	updated, e := l.load()
+	updated, e := l.currentFingerprint()
 	if e != nil {
 		return e
 	}
-	l.fingerprint = fingerprint(updated)
+	l.fingerprint = updated
 	return nil
 }
 
@@ -298,38 +299,55 @@ func (l *Library) saveLocked(files map[string][]byte) error {
 // external edit leaves the last good index available and never partially loads.
 func (l *Library) load() (map[string][]byte, error) { return l.loadFiles(false) }
 func (l *Library) loadFiles(useCache bool) (map[string][]byte, error) {
+	files := map[string][]byte{}
+	e := l.walkFiles(useCache, func(name string, content []byte) { files[name] = content })
+	return files, e
+}
+
+// Saving only needs a consistency fingerprint. Hash one file at a time rather
+// than allocating another complete SVG snapshot beside the pending changes.
+func (l *Library) currentFingerprint() (string, error) {
+	hashes := map[string]string{}
+	if e := l.walkFiles(false, func(name string, content []byte) { hashes[name] = digest(content) }); e != nil {
+		return "", e
+	}
+	return fingerprintHashes(hashes), nil
+}
+
+func (l *Library) walkFiles(useCache bool, visit func(string, []byte)) error {
 	l.loadStats = scanIOStats{}
 	nextCache := map[string]cachedLibraryFile{}
+	cacheBytes := 0
 	entries, e := fs.ReadDir(l.root.FS(), ".")
 	if e != nil {
-		return nil, e
+		return e
 	}
-	files := map[string][]byte{}
+	files := map[string]bool{}
 	total := 0
 	for _, entry := range entries {
 		if e = l.check(entry.Name()); e != nil {
-			return nil, e
+			return e
 		}
 		if entry.Name() == "licenses" || strings.HasPrefix(entry.Name(), ".") {
 			continue
 		}
 		if entry.Type()&os.ModeSymlink != 0 {
-			return nil, errors.New("素材库不允许符号链接")
+			return errors.New("素材库不允许符号链接")
 		}
 		if !entry.IsDir() {
 			continue
 		}
 		slug := entry.Name()
 		if !validSlug(slug) {
-			return nil, fmt.Errorf("无效合集目录: %s", slug)
+			return fmt.Errorf("无效合集目录: %s", slug)
 		}
 		children, e := fs.ReadDir(l.root.FS(), slug)
 		if e != nil {
-			return nil, e
+			return e
 		}
 		for _, child := range children {
 			if e = l.check(slug + "/" + child.Name()); e != nil {
-				return nil, e
+				return e
 			}
 			if child.IsDir() || strings.HasPrefix(child.Name(), ".") {
 				continue
@@ -339,44 +357,53 @@ func (l *Library) loadFiles(useCache bool) (map[string][]byte, error) {
 			}
 			name := slug + "/" + child.Name()
 			if !libraryTarget(name) {
-				return nil, fmt.Errorf("无效素材文件名: %s", name)
+				return fmt.Errorf("无效素材文件名: %s", name)
 			}
 			content, info, reused, e := l.readScannedFile(name, useCache)
 			if e != nil {
-				return nil, e
+				return e
 			}
 			if reused {
 				l.loadStats.Reused++
 			} else {
 				l.loadStats.Read++
 			}
-			if strings.HasSuffix(name, ".svg") {
+			if strings.HasSuffix(name, ".svg") && cacheBytes+len(content) <= 512<<10 {
 				nextCache[name] = cachedLibraryFile{Info: info, Content: content}
+				cacheBytes += len(content)
 			}
 
 			total += len(content)
 			if total > 256<<20 || len(files) > 50000 {
-				return nil, errors.New("素材库超出扫描限制")
+				return errors.New("素材库超出扫描限制")
 			}
-			files[name] = content
+			files[name] = true
+			visit(name, content)
 		}
 		if _, ok := files[slug+"/meta.json"]; !ok {
-			return nil, fmt.Errorf("合集缺少 meta.json: %s", slug)
+			return fmt.Errorf("合集缺少 meta.json: %s", slug)
 		}
 	}
 	categories, e := l.read("categories.json")
 	if e == nil {
 		l.loadStats.Read++
-		files["categories.json"] = categories
+		visit("categories.json", categories)
 	} else if !errors.Is(e, fs.ErrNotExist) {
-		return nil, e
+		return e
 	}
 	l.cache = nextCache
-	return files, nil
+	return nil
 }
 func fingerprint(files map[string][]byte) string {
-	keys := make([]string, 0, len(files))
-	for k := range files {
+	hashes := make(map[string]string, len(files))
+	for name, content := range files {
+		hashes[name] = digest(content)
+	}
+	return fingerprintHashes(hashes)
+}
+func fingerprintHashes(hashes map[string]string) string {
+	keys := make([]string, 0, len(hashes))
+	for k := range hashes {
 		keys = append(keys, k)
 	}
 	sort.Strings(keys)
@@ -384,7 +411,7 @@ func fingerprint(files map[string][]byte) string {
 	for _, k := range keys {
 		buf.WriteString(k)
 		buf.WriteByte(0)
-		buf.WriteString(digest(files[k]))
+		buf.WriteString(hashes[k])
 		buf.WriteByte(0)
 	}
 	return digest(buf.Bytes())
@@ -505,8 +532,8 @@ func librarySnapshot(q queryer) (map[string][]byte, error) {
 	return files, nil
 }
 
-// Catalog tables live only in :memory:. Operational tables are resolved from
-// the attached disk database; no catalog bytes are written to that database.
+// The disk catalogue is disposable; library files remain the authority. The
+// attached runtime database alone contains accounts and operational state.
 func openLibraryStore(file, dir, username, password string) (*Store, error) {
 	l, e := openLibrary(dir)
 	if e != nil {
@@ -518,23 +545,39 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
 			l.Close()
 		}
 	}()
-	input, e := l.input()
+	dataDir := filepath.Dir(file)
+	if e = os.MkdirAll(dataDir, 0700); e != nil {
+		return nil, e
+	}
+	indexFile := filepath.Join(dataDir, "catalog.sqlite3")
+	// The library lock is held. Discard the previous catalogue after a crash;
+	// never rebuild from stale cached rows or touch the runtime database.
+	for _, suffix := range []string{"", "-journal", "-wal", "-shm"} {
+		if e = os.Remove(indexFile + suffix); e != nil && !errors.Is(e, fs.ErrNotExist) {
+			return nil, e
+		}
+	}
+	f, e := os.OpenFile(indexFile, os.O_CREATE|os.O_EXCL|os.O_RDWR, 0600)
 	if e != nil {
 		return nil, e
 	}
-	s, e := newIndex(input)
+	if e = f.Close(); e != nil {
+		return nil, e
+	}
+	// Build an empty schema, then index exactly once through the normal scanner.
+	s, e := newIndexFile(libraryInput{snapshotFS(nil)}, indexFile)
 	if e != nil {
 		return nil, e
 	}
 	defer func() {
 		if !ok {
-			s.db.Close()
+			s.close()
 		}
 	}()
 	if _, e = s.db.Exec(`ATTACH DATABASE ? AS runtime`, file); e != nil {
 		return nil, e
 	}
-	if _, e = s.db.Exec(`PRAGMA runtime.journal_mode=WAL; PRAGMA temp_store=MEMORY;
+	if _, e = s.db.Exec(`PRAGMA runtime.journal_mode=WAL; PRAGMA runtime.cache_size=-512;
  CREATE TABLE IF NOT EXISTS runtime.admins(username TEXT PRIMARY KEY,password TEXT NOT NULL);
  CREATE TABLE IF NOT EXISTS runtime.sessions(token TEXT PRIMARY KEY,csrf TEXT NOT NULL,expires INTEGER NOT NULL);
  CREATE TABLE IF NOT EXISTS runtime.attempts(ip TEXT NOT NULL,created INTEGER NOT NULL);
@@ -574,18 +617,6 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
 	return s, nil
 }
 
-func (l *Library) input() (libraryInput, error) {
-	files, e := l.load()
-	if e != nil {
-		return libraryInput{}, e
-	}
-	files, e = normalizeLibraryFiles(files)
-	if e != nil {
-		return libraryInput{}, e
-	}
-	return libraryInput{snapshotFS(files)}, nil
-}
-
 func (s *Store) reloadLibrary() error { return s.scanLibrary(false) }
 func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 	// Most periodic scans find no changes. Read files without blocking page
@@ -608,6 +639,10 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 	if unchanged {
 		return nil
 	}
+	// The protected reload below rereads the tree; do not retain the probe's
+	// complete SVG snapshot alongside it.
+	run.Files = nil
+	probe = nil
 	s.viewMu.Lock()
 	defer s.viewMu.Unlock()
 	s.writeMu.Lock()
@@ -621,6 +656,7 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 	if e != nil {
 		return e
 	}
+	run.Files = files
 	fp := fingerprint(files)
 	if fp == l.fingerprint {
 		return nil
@@ -668,6 +704,12 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 		}
 	}()
 	l.fingerprint = fp
+	// All source bytes have been validated and inserted. Release them before
+	// producing the canonical snapshot for publication.
+	run.Files = nil
+	files = nil
+	normalized = nil
+	input = libraryInput{}
 	canonical, e := librarySnapshot(tx)
 	if e != nil {
 		return e
@@ -703,6 +745,9 @@ func (s *Store) recordDownload(i Icon) error {
 
 func (s *Store) close() {
 	s.db.Close()
+	if s.indexFile != "" {
+		os.Remove(s.indexFile)
+	}
 	if s.library != nil {
 		s.library.Close()
 	}

@@ -17,7 +17,7 @@ COPY --chown=10001:10001 library /app/library-seed
 RUN mkdir -p /app/library && chown app:app /app/library
 COPY LICENSE THIRD_PARTY_NOTICES.txt /app/
 COPY --chmod=755 docker-entrypoint.sh /app/docker-entrypoint.sh
-ENV LISTEN_ADDR=0.0.0.0:8000 DATA_DIR=/app/data LIBRARY_DIR=/app/library WEB_DIR=/app/web OPEN_BROWSER=false
+ENV LISTEN_ADDR=0.0.0.0:8000 DATA_DIR=/app/data LIBRARY_DIR=/app/library WEB_DIR=/app/web OPEN_BROWSER=false GOMEMLIMIT=32MiB
 EXPOSE 8000
 HEALTHCHECK --interval=30s --timeout=5s --start-period=60s --retries=3 CMD ["/app/icon-svg", "-healthcheck"]
 ENTRYPOINT ["/app/docker-entrypoint.sh"]

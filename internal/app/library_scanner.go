@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/fs"
 	"os"
+	"runtime/debug"
 	"sort"
 	"strings"
 	"time"
@@ -80,6 +81,9 @@ func (s *Store) scanLibrary(full bool) error {
 		return errLibraryScanRunning
 	}
 	defer l.scanMu.Unlock()
+	// Scanning is an infrequent bulk operation. Return its temporary buffers to
+	// the OS before becoming idle instead of retaining the scan high-water mark.
+	defer debug.FreeOSMemory()
 	started := time.Now()
 	l.statusMu.Lock()
 	status := l.status

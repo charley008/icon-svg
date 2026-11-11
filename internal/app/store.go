@@ -8,8 +8,10 @@ import (
 	"errors"
 	"fmt"
 	"io/fs"
+	"os"
 	"path"
 	"regexp"
+	"runtime/debug"
 	"strings"
 	"sync"
 	"time"
@@ -119,10 +121,11 @@ type Icon struct {
 	SVG            []byte
 }
 type Store struct {
-	db      *sql.DB
-	library *Library
-	writeMu sync.Mutex
-	viewMu  sync.RWMutex
+	db        *sql.DB
+	indexFile string
+	library   *Library
+	writeMu   sync.Mutex
+	viewMu    sync.RWMutex
 }
 type queryer interface {
 	Query(string, ...any) (*sql.Rows, error)
@@ -165,22 +168,34 @@ func cleanGroup(m GroupMeta) GroupMeta {
 	return m
 }
 
-// newIndex creates the rebuildable catalogue in memory. Persistent state is
-// attached separately by openLibraryStore and never contains catalogue tables.
+// newIndex provides an isolated catalogue for callers without a data directory.
 func newIndex(library fs.FS) (*Store, error) {
-	db, e := sql.Open("sqlite", ":memory:")
+	return newIndexFile(library, ":memory:")
+}
+
+// Production uses a rebuildable disk catalogue with a small page cache. SVGs
+// remain validated snapshots, so external edits cannot bypass scan validation.
+func newIndexFile(library fs.FS, file string) (*Store, error) {
+	db, e := sql.Open("sqlite", file)
 	if e != nil {
 		return nil, e
 	}
 	db.SetMaxOpenConns(1)
 	s := &Store{db: db}
+	if file != ":memory:" {
+		s.indexFile = file
+	}
 	ok := false
 	defer func() {
 		if !ok {
 			db.Close()
+			if s.indexFile != "" {
+				os.Remove(s.indexFile)
+			}
 		}
 	}()
-	if _, e = db.Exec(`PRAGMA foreign_keys=ON; PRAGMA busy_timeout=10000; PRAGMA temp_store=MEMORY;
+	if _, e = db.Exec(`PRAGMA foreign_keys=ON; PRAGMA busy_timeout=10000;
+ PRAGMA temp_store=FILE; PRAGMA cache_size=-1024; PRAGMA mmap_size=0;
  CREATE TABLE IF NOT EXISTS categories(name TEXT PRIMARY KEY);
  CREATE TABLE IF NOT EXISTS brands(id INTEGER PRIMARY KEY,slug TEXT UNIQUE NOT NULL,parent TEXT REFERENCES brands(slug),metadata TEXT NOT NULL,published INTEGER NOT NULL DEFAULT 1,deleted INTEGER NOT NULL DEFAULT 0,updated_at TEXT NOT NULL);
  CREATE TABLE IF NOT EXISTS groups(id INTEGER PRIMARY KEY,brand_id INTEGER NOT NULL REFERENCES brands(id),product_key TEXT NOT NULL DEFAULT '',metadata TEXT NOT NULL,next_version INTEGER NOT NULL DEFAULT 0,published INTEGER NOT NULL DEFAULT 1,deleted INTEGER NOT NULL DEFAULT 0,updated_at TEXT NOT NULL,UNIQUE(brand_id,product_key),UNIQUE(id,brand_id));
@@ -371,8 +386,21 @@ func nextGroupID(q queryer) (int64, error) {
 }
 
 func (s *Store) transaction(fn func(*sql.Tx) error) error {
+	return s.writeTransaction(fn, true)
+}
+
+// Sessions, settings, audit and download counters do not change material files.
+// Avoid loading and serializing the entire SVG library for these operations.
+func (s *Store) runtimeTransaction(fn func(*sql.Tx) error) error {
+	return s.writeTransaction(fn, false)
+}
+
+func (s *Store) writeTransaction(fn func(*sql.Tx) error, saveLibrary bool) error {
 	s.writeMu.Lock()
 	defer s.writeMu.Unlock()
+	if saveLibrary {
+		defer debug.FreeOSMemory()
+	}
 	tx, err := s.db.Begin()
 	if err != nil {
 		return err
@@ -381,12 +409,14 @@ func (s *Store) transaction(fn func(*sql.Tx) error) error {
 	if err = fn(tx); err != nil {
 		return err
 	}
-	files, e := librarySnapshot(tx)
-	if e != nil {
-		return e
-	}
-	if e = s.library.save(files); e != nil {
-		return e
+	if saveLibrary {
+		files, e := librarySnapshot(tx)
+		if e != nil {
+			return e
+		}
+		if e = s.library.save(files); e != nil {
+			return e
+		}
 	}
 	return tx.Commit()
 }

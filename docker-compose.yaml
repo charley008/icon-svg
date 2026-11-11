@@ -14,6 +14,7 @@ services:
       PUBLIC_ORIGIN: ${PUBLIC_ORIGIN:-}
       SCAN_INTERVAL: ${SCAN_INTERVAL:-60m}
       COOKIE_SECURE: ${COOKIE_SECURE:-false}
+      GOMEMLIMIT: ${GOMEMLIMIT:-32MiB}
     volumes:
       - ./library:/app/library
       - ./data:/app/data

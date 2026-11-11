@@ -81,7 +81,7 @@ func publicArchive(tx *sql.Tx, z *zip.Writer, ids map[int64]bool) error {
 }
 func (a *App) allDownload(w http.ResponseWriter, r *http.Request) {
 	a.archive(w, r, "icon-svg-library.zip", func(z *zip.Writer) error {
-		return a.store.transaction(func(tx *sql.Tx) error { return publicArchive(tx, z, nil) })
+		return a.store.runtimeTransaction(func(tx *sql.Tx) error { return publicArchive(tx, z, nil) })
 	})
 }
 func (a *App) selectionDownload(w http.ResponseWriter, r *http.Request) {
@@ -103,13 +103,13 @@ func (a *App) selectionDownload(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	a.archive(w, r, "icon-svg-selection.zip", func(z *zip.Writer) error {
-		return a.store.transaction(func(tx *sql.Tx) error { return publicArchive(tx, z, ids) })
+		return a.store.runtimeTransaction(func(tx *sql.Tx) error { return publicArchive(tx, z, ids) })
 	})
 }
 func (a *App) exportLibrary(w http.ResponseWriter, r *http.Request) {
 	prefix := "library/"
 	a.archive(w, r, "icon-svg-library.zip", func(z *zip.Writer) error {
-		return a.store.transaction(func(tx *sql.Tx) error {
+		return a.store.runtimeTransaction(func(tx *sql.Tx) error {
 			rows, e := tx.Query(`SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands WHERE deleted=0 AND published=1 ORDER BY slug`)
 			if e != nil {
 				return e

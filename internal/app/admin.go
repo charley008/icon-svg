@@ -71,7 +71,7 @@ func (a *App) login(w http.ResponseWriter, r *http.Request) {
 	now := time.Now().Unix()
 	var allowed bool
 	var session, token string
-	e := a.store.transaction(func(tx *sql.Tx) error {
+	e := a.store.runtimeTransaction(func(tx *sql.Tx) error {
 		if _, e := tx.Exec(`DELETE FROM attempts WHERE created<?`, now-900); e != nil {
 			return e
 		}
@@ -133,7 +133,7 @@ func (a *App) changePassword(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "两次输入的新密码不一致", 400)
 		return
 	}
-	e := a.store.transaction(func(tx *sql.Tx) error {
+	e := a.store.runtimeTransaction(func(tx *sql.Tx) error {
 		var username, encoded string
 		if e := tx.QueryRow(`SELECT username,password FROM admins LIMIT 1`).Scan(&username, &encoded); e != nil {
 			return e

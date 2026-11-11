@@ -25,7 +25,7 @@ func (a *App) scanLibrary(w http.ResponseWriter, r *http.Request) {
 		http.Redirect(w, r, "/admin/settings?view=library", 303)
 		return
 	}
-	if e := a.store.transaction(func(tx *sql.Tx) error { return audit(tx, "library_scanned", "library") }); e != nil {
+	if e := a.store.runtimeTransaction(func(tx *sql.Tx) error { return audit(tx, "library_scanned", "library") }); e != nil {
 		renderError(w, e)
 		return
 	}
