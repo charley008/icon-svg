@@ -13,10 +13,8 @@ import (
 	"net/http"
 	"net/url"
 	"os"
-	"sort"
 	"strconv"
 	"strings"
-	"sync"
 	"sync/atomic"
 	"time"
 )
@@ -34,8 +32,6 @@ type App struct {
 	assetSlots   chan struct{}
 	adminSlots   chan struct{}
 	archiveSlots chan struct{}
-	catalogMu    sync.Mutex
-	catalog      *publicCatalog
 }
 
 type AppResources struct{ Web, Library, Root fs.FS }
@@ -268,164 +264,36 @@ type HomePage struct {
 	HeroIcons                             []Group
 	Groups                                []Group
 	Categories                            []Category
-	Brands                                []Brand
 	Brand, Category, Q, Sort              string
 	Total, Icons, BrandCount, Page, Pages int
 	Links                                 []PageLink
 	Hero                                  bool
 	BrandDirectory                        bool
-	BrandCards, DirectoryCards            []BrandOverview
+	DirectoryCards                        []BrandOverview
+	DirectoryCount                        int
 	NavBrandCards                         []BrandOverview
 	SelectedBrand                         *BrandOverview
 }
 
 type BrandOverview struct {
-	Brand    Brand
-	Logo     *Icon
-	Main     *Group
-	Products []Group
-	Previews []Group
-	Icons    int
-}
-
-func brandOverviews(brands []Brand, groups []Group) []BrandOverview {
-	byBrand := map[string][]Group{}
-	for _, g := range groups {
-		if g.Count > 0 {
-			byBrand[g.Brand] = append(byBrand[g.Brand], g)
-		}
-	}
-	result := []BrandOverview{}
-	for _, b := range brands {
-		if !b.Published || b.Deleted || len(byBrand[b.Slug]) == 0 {
-			continue
-		}
-		card := BrandOverview{Brand: b}
-		for _, g := range byBrand[b.Slug] {
-			card.Icons += g.Count
-			if g.Key == "" {
-				main := g
-				card.Main = &main
-				card.Logo = g.Icon
-			} else {
-				card.Products = append(card.Products, g)
-				if len(card.Previews) < 4 {
-					card.Previews = append(card.Previews, g)
-				}
-			}
-		}
-		result = append(result, card)
-	}
-	return result
+	Brand        Brand
+	Logo         *Icon
+	Main         *Group
+	ProductCount int
+	Previews     []Group
+	Icons        int
 }
 
 func (a *App) home(w http.ResponseWriter, r *http.Request) {
-	catalog, e := a.publicCatalog(r.Context())
-	if e != nil {
-		renderError(w, e)
+	p, err := a.store.publicHome(r.Context(), r.URL.Query())
+	if err != nil {
+		if errors.Is(err, sql.ErrNoRows) {
+			http.NotFound(w, r)
+		} else {
+			renderError(w, err)
+		}
 		return
 	}
-	groups, brands := catalog.groups, catalog.brands
-	q := r.URL.Query()
-	p := HomePage{Q: strings.TrimSpace(q.Get("q")), Category: q.Get("category"), Brand: q.Get("brand"), Sort: q.Get("sort"), Page: 1}
-	p.BrandDirectory = q.Get("view") == "brands" && p.Brand == ""
-	p.BrandCards = catalog.cards
-	p.NavBrandCards = brandNavigation(catalog.cards, "", p.Brand)
-	if p.Brand != "" {
-		for n := range p.BrandCards {
-			if p.BrandCards[n].Brand.Slug == p.Brand {
-				p.SelectedBrand = &p.BrandCards[n]
-				break
-			}
-		}
-		if p.SelectedBrand == nil {
-			http.NotFound(w, r)
-			return
-		}
-	}
-	if len(p.Q) > 300 {
-		p.Q = p.Q[:300]
-	}
-	search := strings.ToLower(p.Q)
-	p.Page, _ = strconv.Atoi(q.Get("page"))
-	if p.Page < 1 {
-		p.Page = 1
-	}
-	categories := map[string]int{}
-	heroCandidates := map[string]Group{}
-	filtered := []Group{}
-	favorites := map[string]bool{}
-	favoriteFilter := q.Has("favorites")
-	for _, id := range strings.Split(q.Get("favorites"), ",") {
-		favorites[id] = true
-	}
-	for _, b := range brands {
-		if b.Published && !b.Deleted {
-			p.BrandCount++
-			p.Brands = append(p.Brands, b)
-		}
-	}
-	for _, g := range groups {
-		if g.Count == 0 {
-			continue
-		}
-		heroCandidates[g.Brand+"/"+g.Key] = g
-		p.Icons += g.Count
-		categories[g.Meta.Category]++
-		if p.Q != "" && !strings.Contains(catalog.search[g.ID], search) {
-			continue
-		}
-		if p.Category != "" && g.Meta.Category != p.Category {
-			continue
-		}
-		if p.Brand != "" && g.Brand != p.Brand {
-			continue
-		}
-		isFavorite := favorites[strconv.FormatInt(g.ID, 10)]
-		for _, oldID := range g.Meta.RedirectFrom {
-			isFavorite = isFavorite || favorites[strconv.FormatInt(oldID, 10)]
-		}
-		if favoriteFilter && !isFavorite {
-			continue
-		}
-		filtered = append(filtered, g)
-	}
-	for _, key := range []string{"google/", "apple/", "github/", "wechat/", "bytedance/douyin", "openai/chatgpt", "bilibili/", "alipay/", "google/youtube", "microsoft/", "figma/", "qq/", "spotify/", "alibaba/taobao"} {
-		if g, ok := heroCandidates[key]; ok {
-			p.HeroIcons = append(p.HeroIcons, g)
-		}
-	}
-	for name, count := range categories {
-		p.Categories = append(p.Categories, Category{name, count})
-	}
-	sortByName(p.Categories, func(c Category) string { return c.Name })
-	switch p.Sort {
-	case "popular":
-		sort.SliceStable(filtered, func(i, j int) bool { return filtered[i].Downloads > filtered[j].Downloads })
-	case "recent":
-		sort.SliceStable(filtered, func(i, j int) bool { return filtered[i].Updated > filtered[j].Updated })
-	}
-	p.Total = len(filtered)
-	if p.BrandDirectory {
-		for _, card := range p.BrandCards {
-			b := card.Brand
-			haystack := strings.ToLower(b.Slug + " " + b.Meta.Title + " " + strings.Join(b.Meta.Aliases, " ") + " " + strings.Join(b.Meta.Domains, " "))
-			if p.Q == "" || strings.Contains(haystack, strings.ToLower(p.Q)) {
-				p.DirectoryCards = append(p.DirectoryCards, card)
-			}
-		}
-		p.Total = len(p.DirectoryCards)
-	}
-	p.Pages = max(1, (p.Total+47)/48)
-	p.Page = min(p.Page, p.Pages)
-	start := (p.Page - 1) * 48
-	if p.BrandDirectory {
-		p.DirectoryCards = p.DirectoryCards[start:min(start+48, p.Total)]
-	} else {
-		p.Groups = filtered[start:min(start+48, p.Total)]
-	}
-	p.Hero = p.Q == "" && p.Brand == "" && p.Category == "" && !favoriteFilter && !p.BrandDirectory
-	p.Links = paginationLinks(p.Page, p.Pages, q)
 	a.render(w, "home.html", p)
 }
 func (a *App) detail(w http.ResponseWriter, r *http.Request) {
@@ -470,15 +338,17 @@ func (a *App) detail(w http.ResponseWriter, r *http.Request) {
 	}{g, b, visible})
 }
 func (a *App) serveSVG(w http.ResponseWriter, r *http.Request, i Icon) {
-	var content []byte
-	if e := a.store.db.QueryRowContext(r.Context(), `SELECT svg FROM icons WHERE id=?`, i.ID).Scan(&content); e != nil {
-		http.NotFound(w, r)
+	file, err := a.store.openSVG(r.Context(), i)
+	if err != nil {
+		unavailable(w)
 		return
 	}
+	defer file.Close()
 	w.Header().Set("Content-Security-Policy", "sandbox; default-src 'none'; style-src 'unsafe-inline'")
 	w.Header().Set("Content-Type", "image/svg+xml")
-	http.ServeContent(w, r, i.Meta.File, time.Time{}, bytes.NewReader(content))
+	http.ServeContent(w, r, i.Meta.File, time.Time{}, file)
 }
+
 func (a *App) asset(w http.ResponseWriter, r *http.Request) {
 	i, e := publicIcon(contextQueries{r.Context(), a.store.db}, requestID(r))
 	if e != nil || r.PathValue("hash") != i.Meta.SHA {

@@ -79,95 +79,15 @@ func (q contextQueries) Exec(query string, args ...any) (sql.Result, error) {
 	return q.db.ExecContext(q.Context, query, args...)
 }
 
-type publicCatalog struct {
-	changes, dataVersion int64
-	built                time.Time
-	groups               []Group
-	brands               []Brand
-	cards                []BrandOverview
-	search               map[int64]string
-}
-
-// Cache only metadata, never SVGs or arbitrary URL responses. SQLite's counters
-// detect committed edits (including direct SQL) without modifying the schema.
-// SetMaxOpenConns(1) keeps total_changes on the same connection; data_version
-// also detects writes made through another connection. The age bound covers a
-// recycled connection, and a single owner rebuilds the immutable snapshot.
-func (a *App) publicCatalog(ctx context.Context) (*publicCatalog, error) {
-	if err := lockContext(ctx, &a.catalogMu); err != nil {
-		return nil, err
-	}
-	defer a.catalogMu.Unlock()
-	var changes, version int64
-	readVersion := func() error {
-		return a.store.db.QueryRowContext(ctx, `SELECT total_changes(), data_version FROM pragma_data_version`).Scan(&changes, &version)
-	}
-	if err := readVersion(); err != nil {
-		return nil, err
-	}
-	if c := a.catalog; c != nil && c.changes == changes && c.dataVersion == version && time.Since(c.built) < time.Minute {
-		return c, nil
-	}
-	if err := lockContext(ctx, &a.store.writeMu); err != nil {
-		return nil, err
-	}
-	defer a.store.writeMu.Unlock()
-	if err := readVersion(); err != nil {
-		return nil, err
-	}
-	groups, err := a.store.groupsContext(ctx, false)
-	if err != nil {
-		return nil, err
-	}
-	brands, err := a.store.brandsContext(ctx)
-	if err != nil {
-		return nil, err
-	}
-	c := &publicCatalog{changes: changes, dataVersion: version, built: time.Now(), groups: groups, brands: brands, cards: brandOverviews(brands, groups), search: make(map[int64]string, len(groups))}
-	for _, g := range groups {
-		c.search[g.ID] = strings.ToLower(g.Brand + " " + g.Key + " " + g.Meta.Title + " " + strings.Join(g.Meta.Tags, " ") + " " + strings.Join(g.Meta.Aliases, " ") + " " + strings.Join(g.Meta.Domains, " "))
-	}
-	a.catalog = c
-	return c, nil
-}
-
 const brandNavigationLimit = 30
 
-func brandNavigation(cards []BrandOverview, query, selected string) []BrandOverview {
-	query = strings.ToLower(strings.TrimSpace(query))
-	result := make([]BrandOverview, 0, brandNavigationLimit)
-	var current *BrandOverview
-	for n := range cards {
-		card := &cards[n]
-		if card.Brand.Slug == selected {
-			current = card
-		}
-		text := card.Brand.Slug + " " + card.Brand.Meta.Title + " " + strings.Join(card.Brand.Meta.Aliases, " ") + " " + strings.Join(card.Brand.Meta.Domains, " ")
-		if len(result) < brandNavigationLimit && strings.Contains(strings.ToLower(text), query) {
-			result = append(result, *card)
-		}
-	}
-	if current != nil && query == "" {
-		for _, card := range result {
-			if card.Brand.Slug == selected {
-				return result
-			}
-		}
-		if len(result) == brandNavigationLimit {
-			result = result[:len(result)-1]
-		}
-		result = append(result, *current)
-	}
-	return result
-}
-
 func (a *App) searchBrands(w http.ResponseWriter, r *http.Request) {
-	query := r.URL.Query().Get("q")
+	query := strings.TrimSpace(r.URL.Query().Get("q"))
 	if len(query) > 300 {
-		http.Error(w, "搜索内容过长", http.StatusBadRequest)
+		http.Error(w, "搜索内容过长", 400)
 		return
 	}
-	c, err := a.publicCatalog(r.Context())
+	cards, err := a.store.publicBrands(r.Context(), query, "", brandNavigationLimit, 0, false)
 	if err != nil {
 		renderError(w, err)
 		return
@@ -177,8 +97,8 @@ func (a *App) searchBrands(w http.ResponseWriter, r *http.Request) {
 		Title string `json:"title"`
 		Logo  string `json:"logo,omitempty"`
 	}
-	items := make([]item, 0, brandNavigationLimit)
-	for _, card := range brandNavigation(c.cards, query, "") {
+	items := make([]item, 0, len(cards))
+	for _, card := range cards {
 		entry := item{Slug: card.Brand.Slug, Title: card.Brand.Meta.Title}
 		if card.Logo != nil {
 			entry.Logo = "/assets/" + strconv.FormatInt(card.Logo.ID, 10) + "/" + card.Logo.Meta.SHA

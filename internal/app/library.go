@@ -3,6 +3,7 @@ package app
 import (
 	"bytes"
 	"context"
+	"database/sql"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -24,7 +25,7 @@ type Library struct {
 	lock        *os.File
 	mu          sync.Mutex
 	fingerprint string
-	cache       map[string]cachedLibraryFile
+	records     map[string]libraryFileRecord
 	loadStats   scanIOStats
 	scanMu      sync.Mutex
 	statusMu    sync.RWMutex
@@ -308,17 +309,15 @@ func (l *Library) loadFiles(useCache bool) (map[string][]byte, error) {
 // Saving only needs a consistency fingerprint. Hash one file at a time rather
 // than allocating another complete SVG snapshot beside the pending changes.
 func (l *Library) currentFingerprint() (string, error) {
-	hashes := map[string]string{}
-	if e := l.walkFiles(false, func(name string, content []byte) { hashes[name] = digest(content) }); e != nil {
-		return "", e
+	_, records, _, err := l.scanFileTree(l.records, false)
+	if err != nil {
+		return "", err
 	}
-	return fingerprintHashes(hashes), nil
+	return fingerprintHashes(recordHashes(records)), nil
 }
 
 func (l *Library) walkFiles(useCache bool, visit func(string, []byte)) error {
 	l.loadStats = scanIOStats{}
-	nextCache := map[string]cachedLibraryFile{}
-	cacheBytes := 0
 	entries, e := fs.ReadDir(l.root.FS(), ".")
 	if e != nil {
 		return e
@@ -360,7 +359,7 @@ func (l *Library) walkFiles(useCache bool, visit func(string, []byte)) error {
 			if !libraryTarget(name) {
 				return fmt.Errorf("无效素材文件名: %s", name)
 			}
-			content, info, reused, e := l.readScannedFile(name, useCache)
+			content, _, reused, e := l.readScannedFile(name, useCache)
 			if e != nil {
 				return e
 			}
@@ -368,10 +367,6 @@ func (l *Library) walkFiles(useCache bool, visit func(string, []byte)) error {
 				l.loadStats.Reused++
 			} else {
 				l.loadStats.Read++
-			}
-			if strings.HasSuffix(name, ".svg") && cacheBytes+len(content) <= 512<<10 {
-				nextCache[name] = cachedLibraryFile{Info: info, Content: content}
-				cacheBytes += len(content)
 			}
 
 			total += len(content)
@@ -392,7 +387,6 @@ func (l *Library) walkFiles(useCache bool, visit func(string, []byte)) error {
 	} else if !errors.Is(e, fs.ErrNotExist) {
 		return e
 	}
-	l.cache = nextCache
 	return nil
 }
 func fingerprint(files map[string][]byte) string {
@@ -418,9 +412,20 @@ func fingerprintHashes(hashes map[string]string) string {
 	return digest(buf.Bytes())
 }
 
-func librarySnapshot(q queryer) (map[string][]byte, error) {
+func (s *Store) metadataSnapshot(q queryer, subset ...map[string]bool) (map[string][]byte, error) {
 	files := map[string][]byte{}
-	rows, e := q.Query(`SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands ORDER BY slug`)
+	var rows *sql.Rows
+	var e error
+	if len(subset) > 0 {
+		names := []string{}
+		for name := range subset[0] {
+			names = append(names, name)
+		}
+		raw, _ := json.Marshal(names)
+		rows, e = q.Query(`SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands WHERE slug IN(SELECT value FROM json_each(?)) ORDER BY slug`, string(raw))
+	} else {
+		rows, e = q.Query(`SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands ORDER BY slug`)
+	}
 	if e != nil {
 		return nil, e
 	}
@@ -483,15 +488,11 @@ func librarySnapshot(q queryer) (map[string][]byte, error) {
 				if i.Meta.File != filename(b.Slug, g.Key, i.Meta.Version) {
 					return nil, errors.New("无效素材文件名")
 				}
-				var content []byte
-				if e = q.QueryRow(`SELECT svg FROM icons WHERE id=?`, i.ID).Scan(&content); e != nil {
-					return nil, e
-				}
 				im := i.Meta
 				im.ID = i.ID
 				im.Deleted = i.Deleted
 				gm.Icons = append(gm.Icons, im)
-				files[b.Slug+"/"+im.File] = content
+
 			}
 			if g.Key == "" {
 				m.GroupMeta = gm
@@ -530,6 +531,11 @@ func librarySnapshot(q queryer) (map[string][]byte, error) {
 		return nil, e
 	}
 	files["categories.json"] = append(raw, '\n')
+	for name, raw := range s.pendingSVG {
+		if strings.HasSuffix(name, ".svg") {
+			files[name] = raw
+		}
+	}
 	return files, nil
 }
 
@@ -551,22 +557,8 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
 		return nil, e
 	}
 	indexFile := filepath.Join(dataDir, "catalog.sqlite3")
-	// The library lock is held. Discard the previous catalogue after a crash;
-	// never rebuild from stale cached rows or touch the runtime database.
-	for _, suffix := range []string{"", "-journal", "-wal", "-shm"} {
-		if e = os.Remove(indexFile + suffix); e != nil && !errors.Is(e, fs.ErrNotExist) {
-			return nil, e
-		}
-	}
-	f, e := os.OpenFile(indexFile, os.O_CREATE|os.O_EXCL|os.O_RDWR, 0600)
-	if e != nil {
-		return nil, e
-	}
-	if e = f.Close(); e != nil {
-		return nil, e
-	}
 	// Build an empty schema, then index exactly once through the normal scanner.
-	s, e := newIndexFile(libraryInput{snapshotFS(nil)}, indexFile)
+	s, e := openPersistentCatalog(indexFile)
 	if e != nil {
 		return nil, e
 	}
@@ -604,7 +596,23 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
 		}
 	}
 	s.library = l
-	l.fingerprint = ""
+	s.source = l.root.FS()
+	var indexedRoot string
+	if err := s.db.QueryRow(`SELECT root,fingerprint FROM library_state WHERE id=1`).Scan(&indexedRoot, &l.fingerprint); err != nil && err != sql.ErrNoRows {
+		return nil, err
+	}
+	if indexedRoot != l.root.Name() {
+		l.fingerprint = ""
+		if _, e = s.db.Exec(`DELETE FROM library_files; DELETE FROM library_state`); e != nil {
+			return nil, e
+		}
+	}
+	if records, err := readLibraryRecords(s.db); err == nil {
+		l.scanned = recordHashes(records)
+		l.records = records
+	} else {
+		return nil, err
+	}
 	if e = s.reloadLibrary(); e != nil {
 		return nil, e
 	}
@@ -620,117 +628,128 @@ func openLibraryStore(file, dir, username, password string) (*Store, error) {
 
 func (s *Store) reloadLibrary() error { return s.scanLibrary(false) }
 func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
-	// Most periodic scans find no changes. Read files without blocking page
-	// requests; take the view lock only when publishing a changed index.
 	l := s.library
+	old, err := readLibraryRecords(s.db)
+	if err != nil {
+		return err
+	}
 	l.mu.Lock()
-	// A cold start must rebuild the disposable index anyway. Skip its probe
-	// rather than reading the entire library twice before validation begins.
-	cold := l.fingerprint == ""
-	var probe map[string][]byte
-	var probeErr error
-	if !cold {
-		probe, probeErr = l.loadFiles(!full)
-	}
-	run.Files = probe
-	run.IO = l.loadStats
-	unchanged := !cold && probeErr == nil && fingerprint(probe) == l.fingerprint
-	pending := false
-	if _, e := l.root.Lstat(".pending.json"); e == nil {
-		unchanged = false
-		pending = true
-	}
+	_, records, stats, err := l.scanFileTree(old, full)
+	// Compare to the committed manifest, not a file-write transaction's
+	// provisional in-memory fingerprint while that transaction is committing.
+	baseline := fingerprintHashes(recordHashes(old))
 	l.mu.Unlock()
-	if probeErr != nil && !pending {
-		return probeErr
+	if err != nil {
+		return err
 	}
-	if unchanged {
+	run.IO, run.Hashes = stats, recordHashes(records)
+	if !full && fingerprintHashes(run.Hashes) == baseline {
 		return nil
 	}
-	// The protected reload below rereads the tree; do not retain the probe's
-	// complete SVG snapshot alongside it.
-	run.Files = nil
-	probe = nil
 	s.viewMu.Lock()
 	defer s.viewMu.Unlock()
 	s.writeMu.Lock()
 	defer s.writeMu.Unlock()
 	l.mu.Lock()
 	defer l.mu.Unlock()
-	if e := l.recover(); e != nil {
-		return e
+	if err = l.recover(); err != nil {
+		return err
 	}
-	files, e := l.load()
-	run.IO = l.loadStats
-	if e != nil {
-		return e
+	files, records, _, err := l.scanFileTree(records, false)
+	if err != nil {
+		return err
 	}
-	run.Files = files
-	fp := fingerprint(files)
-	if fp == l.fingerprint {
+	if !full && fingerprintHashes(recordHashes(records)) == l.fingerprint {
+		run.Hashes = recordHashes(records)
 		return nil
 	}
-	normalized, e := normalizeLibraryFiles(files)
-	if e != nil {
-		return e
+	normalized, err := normalizeLibraryFiles(files)
+	if err != nil {
+		return err
 	}
-	input := libraryInput{snapshotFS(normalized)}
-	tx, e := s.db.Begin()
-	if e != nil {
-		return e
+	tx, err := s.db.Begin()
+	if err != nil {
+		return err
 	}
 	defer tx.Rollback()
-	if _, e = tx.Exec(`DELETE FROM icons;DELETE FROM groups;UPDATE brands SET parent=NULL;DELETE FROM brands;DELETE FROM categories;`); e != nil {
-		return e
-	}
-	if len(files) > 0 {
-		if e = loadCatalog(tx, input); e != nil {
-			return e
+	changed := map[string]bool{}
+	for name, r := range records {
+		if previous, ok := old[name]; full || !ok || previous.Hash != r.Hash {
+			if strings.Contains(name, "/") {
+				changed[path.Dir(name)] = true
+			}
 		}
 	}
-	if raw, ok := files["categories.json"]; ok {
+	for name := range old {
+		if _, ok := records[name]; !ok && strings.Contains(name, "/") {
+			changed[path.Dir(name)] = true
+		}
+	}
+	for name, raw := range normalized {
+		if strings.HasSuffix(name, "/meta.json") && digest(raw) != records[name].Hash {
+			changed[path.Dir(name)] = true
+		}
+	}
+	if _, err = tx.Exec(`PRAGMA defer_foreign_keys=ON; DELETE FROM categories`); err != nil {
+		return err
+	}
+	for slug := range changed {
+		if _, err = tx.Exec(`DELETE FROM icons WHERE brand_id IN(SELECT id FROM brands WHERE slug=?); DELETE FROM groups WHERE brand_id IN(SELECT id FROM brands WHERE slug=?); DELETE FROM brands WHERE slug=?`, slug, slug, slug); err != nil {
+			return err
+		}
+	}
+	if err = loadCatalog(tx, libraryInput{collectionSubset{FS: snapshotFS(normalized), slugs: changed}}, records); err != nil {
+		return err
+	}
+	if raw, ok := normalized["categories.json"]; ok {
 		var names []string
-		if e = json.Unmarshal(raw, &names); e != nil {
-			return e
+		if err = json.Unmarshal(raw, &names); err != nil {
+			return err
 		}
 		for _, name := range names {
 			if strings.TrimSpace(name) == "" || len(name) > 240 {
 				return errors.New("无效分类名称")
 			}
-			if _, e = tx.Exec(`INSERT OR IGNORE INTO categories(name) VALUES(?)`, name); e != nil {
-				return e
+			if _, err = tx.Exec(`INSERT OR IGNORE INTO categories VALUES(?)`, name); err != nil {
+				return err
 			}
 		}
 	}
-	if _, e = tx.Exec(`INSERT OR IGNORE INTO categories VALUES('其他'); INSERT OR IGNORE INTO categories SELECT DISTINCT json_extract(metadata,'$.category') FROM groups WHERE COALESCE(json_extract(metadata,'$.category'),'')<>''; UPDATE icons SET downloads=COALESCE((SELECT count FROM runtime.downloads WHERE key=(SELECT slug FROM brands WHERE id=icons.brand_id)||'/'||icons.filename),0)`); e != nil {
-		return e
+	if _, err = tx.Exec(`INSERT OR IGNORE INTO categories VALUES('其他'); INSERT OR IGNORE INTO categories SELECT DISTINCT json_extract(metadata,'$.category') FROM groups WHERE COALESCE(json_extract(metadata,'$.category'),'')<>''; UPDATE icons SET downloads=COALESCE((SELECT count FROM runtime.downloads WHERE key=(SELECT slug FROM brands WHERE id=icons.brand_id)||'/'||icons.filename),0)`); err != nil {
+		return err
+	}
+	canonical, err := s.metadataSnapshot(tx, changed)
+	if err != nil {
+		return err
 	}
 	previous := l.fingerprint
+	previousRecords := l.records
 	published := false
 	defer func() {
 		if !published {
 			l.fingerprint = previous
+			l.records = previousRecords
 		}
 	}()
-	l.fingerprint = fp
-	// All source bytes have been validated and inserted. Release them before
-	// producing the canonical snapshot for publication.
-	run.Files = nil
-	files = nil
-	normalized = nil
-	input = libraryInput{}
-	canonical, e := librarySnapshot(tx)
-	if e != nil {
-		return e
+	// The source has just been scanned; publish only canonical metadata.
+	l.fingerprint = fingerprintHashes(recordHashes(records))
+	l.records = records
+	if err = l.saveLocked(canonical); err != nil {
+		return err
 	}
-	if e = l.saveLocked(canonical); e != nil {
-		return e
+	_, records, _, err = l.scanFileTree(records, false)
+	if err != nil {
+		return err
 	}
-	if e = tx.Commit(); e != nil {
-		return e
+	if err = s.saveLibraryRecords(tx, records); err != nil {
+		return err
+	}
+	if err = tx.Commit(); err != nil {
+		return err
 	}
 	published = true
-	run.Files = canonical
+	l.records = records
+	run.Hashes = recordHashes(records)
 	run.Updated = true
 	return nil
 }
@@ -759,9 +778,6 @@ func (s *Store) recordDownloadContext(ctx context.Context, i Icon) error {
 
 func (s *Store) close() {
 	s.db.Close()
-	if s.indexFile != "" {
-		os.Remove(s.indexFile)
-	}
 	if s.library != nil {
 		s.library.Close()
 	}

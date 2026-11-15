@@ -11,13 +11,9 @@ import (
 	"time"
 )
 
-type cachedLibraryFile struct {
-	Info    fs.FileInfo
-	Content []byte
-}
 type scanIOStats struct{ Read, Reused int }
 type scanRun struct {
-	Files   map[string][]byte
+	Hashes  map[string]string
 	IO      scanIOStats
 	Updated bool
 }
@@ -34,9 +30,8 @@ type LibraryScanStatus struct {
 	AddedAt                                             time.Time
 }
 
-// Metadata is always reread. SVG content can be reused after checking identity,
-// size and modification time. Full scans bypass this cache, including edits
-// made by tools that deliberately preserve the timestamp of an existing inode.
+// Bulk import/export reads check that each file remains stable while reading.
+// SVG contents are not retained in an application-level cache.
 func (l *Library) readScannedFile(name string, useCache bool) ([]byte, fs.FileInfo, bool, error) {
 	info, e := l.root.Stat(name)
 	if e != nil {
@@ -44,12 +39,6 @@ func (l *Library) readScannedFile(name string, useCache bool) ([]byte, fs.FileIn
 	}
 	if !info.Mode().IsRegular() {
 		return nil, nil, false, errors.New("素材必须是普通文件")
-	}
-	if useCache && strings.HasSuffix(name, ".svg") {
-		old, ok := l.cache[name]
-		if ok && info.Size() == old.Info.Size() && info.ModTime().Equal(old.Info.ModTime()) && os.SameFile(info, old.Info) {
-			return old.Content, info, true, nil
-		}
 	}
 	content, e := l.read(name)
 	if e != nil {
@@ -109,21 +98,20 @@ func (s *Store) scanLibrary(full bool) error {
 	} else {
 		status.LastSuccess = status.Finished
 	}
-	if run.Files != nil && err == nil {
-		status.Files = len(run.Files)
+	if run.Hashes != nil && err == nil {
+		status.Files = len(run.Hashes)
 		status.Collections = 0
 		status.Icons = 0
 		next := map[string]string{}
 		addedSVG := []string{}
 		l.mu.Lock()
-		for name, content := range run.Files {
+		for name, hash := range run.Hashes {
 			if strings.HasSuffix(name, "/meta.json") {
 				status.Collections++
 			}
 			if strings.HasSuffix(name, ".svg") {
 				status.Icons++
 			}
-			hash := digest(content)
 			next[name] = hash
 			if old, ok := l.scanned[name]; !ok {
 				status.Added++

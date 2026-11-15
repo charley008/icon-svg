@@ -697,7 +697,7 @@ func (a *App) upload(w http.ResponseWriter, r *http.Request) {
 			m.Version = old.Meta.Version
 			m.Default = old.Meta.Default
 			m.Provenance = old.Meta.Provenance
-			if _, e = tx.Exec(`UPDATE icons SET metadata=?,hash=?,svg=? WHERE id=?`, jsonText(m), m.SHA, content, replace); e != nil {
+			if _, e = tx.Exec(`UPDATE icons SET metadata=?,hash=? WHERE id=?`, jsonText(m), m.SHA, replace); e != nil {
 				return e
 			}
 		} else {
@@ -714,13 +714,14 @@ func (a *App) upload(w http.ResponseWriter, r *http.Request) {
 			if m.Label == "" {
 				m.Label = strings.TrimSuffix(m.File, ".svg")
 			}
-			if _, e = tx.Exec(`INSERT INTO icons(brand_id,group_id,filename,version,metadata,hash,svg,is_default) VALUES(?,?,?,?,?,?,?,?)`, g.BrandID, g.ID, m.File, m.Version, jsonText(m), m.SHA, content, m.Default); e != nil {
+			if _, e = tx.Exec(`INSERT INTO icons(brand_id,group_id,filename,version,metadata,hash,is_default) VALUES(?,?,?,?,?,?,?)`, g.BrandID, g.ID, m.File, m.Version, jsonText(m), m.SHA, m.Default); e != nil {
 				return errors.New("文件名冲突；请检查其他产品标识是否与版本编号重叠")
 			}
 			if _, e = tx.Exec(`UPDATE groups SET next_version=next_version+1 WHERE id=?`, g.ID); e != nil {
 				return e
 			}
 		}
+		a.store.stageSVG(g.Brand, m.File, content)
 		if _, e = tx.Exec(`UPDATE groups SET updated_at=? WHERE id=?`, stamp(), g.ID); e != nil {
 			return e
 		}

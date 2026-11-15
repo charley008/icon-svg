@@ -122,11 +122,13 @@ type Icon struct {
 	SVG            []byte
 }
 type Store struct {
-	db        *sql.DB
-	indexFile string
-	library   *Library
-	writeMu   sync.Mutex
-	viewMu    sync.RWMutex
+	db         *sql.DB
+	indexFile  string
+	library    *Library
+	writeMu    sync.Mutex
+	viewMu     sync.RWMutex
+	source     fs.FS
+	pendingSVG map[string][]byte
 }
 type queryer interface {
 	Query(string, ...any) (*sql.Rows, error)
@@ -174,15 +176,17 @@ func newIndex(library fs.FS) (*Store, error) {
 	return newIndexFile(library, ":memory:")
 }
 
-// Production uses a rebuildable disk catalogue with a small page cache. SVGs
-// remain validated snapshots, so external edits cannot bypass scan validation.
+// Production uses a persistent, rebuildable metadata index with a small page
+// cache. SVG bodies stay in the library and are verified when opened.
 func newIndexFile(library fs.FS, file string) (*Store, error) {
+	_, statErr := os.Stat(file)
+	existed := statErr == nil
 	db, e := sql.Open("sqlite", file)
 	if e != nil {
 		return nil, e
 	}
 	db.SetMaxOpenConns(1)
-	s := &Store{db: db}
+	s := &Store{db: db, source: library}
 	if file != ":memory:" {
 		s.indexFile = file
 	}
@@ -190,21 +194,34 @@ func newIndexFile(library fs.FS, file string) (*Store, error) {
 	defer func() {
 		if !ok {
 			db.Close()
-			if s.indexFile != "" {
+			if s.indexFile != "" && !existed {
 				os.Remove(s.indexFile)
 			}
 		}
 	}()
-	if _, e = db.Exec(`PRAGMA foreign_keys=ON; PRAGMA busy_timeout=10000;
- PRAGMA temp_store=FILE; PRAGMA cache_size=-1024; PRAGMA mmap_size=0;
- CREATE TABLE IF NOT EXISTS categories(name TEXT PRIMARY KEY);
- CREATE TABLE IF NOT EXISTS brands(id INTEGER PRIMARY KEY,slug TEXT UNIQUE NOT NULL,parent TEXT REFERENCES brands(slug),metadata TEXT NOT NULL,published INTEGER NOT NULL DEFAULT 1,deleted INTEGER NOT NULL DEFAULT 0,updated_at TEXT NOT NULL);
- CREATE TABLE IF NOT EXISTS groups(id INTEGER PRIMARY KEY,brand_id INTEGER NOT NULL REFERENCES brands(id),product_key TEXT NOT NULL DEFAULT '',metadata TEXT NOT NULL,next_version INTEGER NOT NULL DEFAULT 0,published INTEGER NOT NULL DEFAULT 1,deleted INTEGER NOT NULL DEFAULT 0,updated_at TEXT NOT NULL,UNIQUE(brand_id,product_key),UNIQUE(id,brand_id));
- CREATE TABLE IF NOT EXISTS icons(id INTEGER PRIMARY KEY,brand_id INTEGER NOT NULL REFERENCES brands(id),group_id INTEGER NOT NULL,filename TEXT NOT NULL COLLATE NOCASE,version INTEGER NOT NULL,metadata TEXT NOT NULL,hash TEXT NOT NULL,svg BLOB NOT NULL,is_default INTEGER NOT NULL CHECK(is_default IN(0,1)),deleted INTEGER NOT NULL DEFAULT 0,downloads INTEGER NOT NULL DEFAULT 0,FOREIGN KEY(group_id,brand_id) REFERENCES groups(id,brand_id),UNIQUE(brand_id,filename),UNIQUE(group_id,version));
- CREATE UNIQUE INDEX IF NOT EXISTS group_default ON icons(group_id) WHERE is_default=1 AND deleted=0;
- CREATE INDEX IF NOT EXISTS icon_group ON icons(group_id,deleted,is_default);
-`); e != nil {
+	if _, e = db.Exec(`PRAGMA foreign_keys=ON; PRAGMA busy_timeout=10000; PRAGMA temp_store=FILE; PRAGMA cache_size=-1024; PRAGMA mmap_size=0;`); e != nil {
 		return nil, e
+	}
+	var version int
+	if e = db.QueryRow(`PRAGMA user_version`).Scan(&version); e != nil {
+		return nil, e
+	}
+	if version != catalogVersion {
+		if _, e = db.Exec(`DROP TABLE IF EXISTS icons; DROP TABLE IF EXISTS groups; UPDATE brands SET parent=NULL;`); e != nil && version != 0 {
+			return nil, e
+		}
+		if _, e = db.Exec(`DROP TABLE IF EXISTS brands; DROP TABLE IF EXISTS categories; DROP TABLE IF EXISTS library_files; DROP TABLE IF EXISTS library_state;`); e != nil {
+			return nil, e
+		}
+	}
+	if _, e = db.Exec(catalogSchema); e != nil {
+		return nil, e
+	}
+	if existed && version != catalogVersion {
+		// Reclaim pages that held SVG BLOBs in the old, disposable index.
+		if _, e = db.Exec(`VACUUM`); e != nil {
+			return nil, e
+		}
 	}
 	tx, e := db.Begin()
 	if e != nil {
@@ -225,7 +242,7 @@ func newIndexFile(library fs.FS, file string) (*Store, error) {
 	return s, nil
 }
 
-func loadCatalog(tx *sql.Tx, library fs.FS) error {
+func loadCatalog(tx *sql.Tx, library fs.FS, trusted ...map[string]libraryFileRecord) error {
 	dirs, err := fs.ReadDir(library, ".")
 	if err != nil {
 		return err
@@ -268,6 +285,23 @@ func loadCatalog(tx *sql.Tx, library fs.FS) error {
 		}
 	}
 	parents := map[string]string{}
+	parentRows, err := tx.Query(`SELECT slug,coalesce(parent,'') FROM brands`)
+	if err != nil {
+		return err
+	}
+	for parentRows.Next() {
+		var slug, parent string
+		if err = parentRows.Scan(&slug, &parent); err != nil {
+			parentRows.Close()
+			return err
+		}
+		parents[slug] = parent
+	}
+	err = parentRows.Err()
+	parentRows.Close()
+	if err != nil {
+		return err
+	}
 	for _, item := range items {
 		parents[item.slug] = item.meta.Parent
 	}
@@ -307,13 +341,22 @@ func loadCatalog(tx *sql.Tx, library fs.FS) error {
 				if i.Version < 0 || i.File != filename(item.slug, g.Key, i.Version) {
 					return fmt.Errorf("文件命名不符: %s", i.File)
 				}
-				content, err := fs.ReadFile(library, path.Join(item.slug, i.File))
-				if err != nil {
-					return err
+				name := path.Join(item.slug, i.File)
+				record, verified := libraryFileRecord{}, false
+				if len(trusted) > 0 {
+					record, verified = trusted[0][name]
 				}
-				i.SHA, i.Bytes = digest(content), len(content)
-				if _, err = validateSVG(content); err != nil {
-					return fmt.Errorf("%s: %w", i.File, err)
+				if verified {
+					i.SHA, i.Bytes = record.Hash, int(record.Size)
+				} else {
+					content, err := fs.ReadFile(library, name)
+					if err != nil {
+						return err
+					}
+					i.SHA, i.Bytes = digest(content), len(content)
+					if _, err = validateSVG(content); err != nil {
+						return fmt.Errorf("%s: %w", i.File, err)
+					}
 				}
 				if i.Default && !i.Deleted {
 					defaults++
@@ -324,7 +367,7 @@ func loadCatalog(tx *sql.Tx, library fs.FS) error {
 				if i.Version > maxVersion {
 					maxVersion = i.Version
 				}
-				if _, err = tx.Exec(`INSERT INTO icons(id,brand_id,group_id,filename,version,metadata,hash,svg,is_default,deleted) VALUES(?,?,?,?,?,?,?,?,?,?)`, recordID(i.ID), bid, gid, i.File, i.Version, jsonText(i), i.SHA, content, i.Default, i.Deleted); err != nil {
+				if _, err = tx.Exec(`INSERT INTO icons(id,brand_id,group_id,filename,version,metadata,hash,is_default,deleted) VALUES(?,?,?,?,?,?,?,?,?)`, recordID(i.ID), bid, gid, i.File, i.Version, jsonText(i), i.SHA, i.Default, i.Deleted); err != nil {
 					return err
 				}
 			}
@@ -399,7 +442,22 @@ func (s *Store) runtimeTransaction(fn func(*sql.Tx) error) error {
 func (s *Store) writeTransaction(fn func(*sql.Tx) error, saveLibrary bool) error {
 	s.writeMu.Lock()
 	defer s.writeMu.Unlock()
+	committed := false
 	if saveLibrary {
+		s.library.mu.Lock()
+		previous := s.library.fingerprint
+		previousRecords := s.library.records
+		s.library.mu.Unlock()
+		defer func() {
+			if !committed {
+				s.library.mu.Lock()
+				s.library.fingerprint = previous
+				s.library.records = previousRecords
+				s.library.mu.Unlock()
+			}
+		}()
+		s.pendingSVG = map[string][]byte{}
+		defer func() { s.pendingSVG = nil }()
 		defer debug.FreeOSMemory()
 	}
 	tx, err := s.db.Begin()
@@ -411,7 +469,7 @@ func (s *Store) writeTransaction(fn func(*sql.Tx) error, saveLibrary bool) error
 		return err
 	}
 	if saveLibrary {
-		files, e := librarySnapshot(tx)
+		files, e := s.metadataSnapshot(tx)
 		if e != nil {
 			return e
 		}
@@ -419,7 +477,14 @@ func (s *Store) writeTransaction(fn func(*sql.Tx) error, saveLibrary bool) error
 			return e
 		}
 	}
-	return tx.Commit()
+	if saveLibrary {
+		if err = s.persistLibraryFiles(tx); err != nil {
+			return err
+		}
+	}
+	err = tx.Commit()
+	committed = err == nil
+	return err
 }
 func audit(q queryer, action, target string) error {
 	_, err := q.Exec(`INSERT INTO audit(action,target,created_at) VALUES(?,?,?)`, action, target, stamp())
@@ -556,14 +621,10 @@ func iconByID(q queryer, id int64) (Icon, error) {
 	return i, err
 }
 func publicIcon(q queryer, id int64) (Icon, error) {
-	i, err := iconByID(q, id)
-	if err != nil {
-		return i, err
-	}
-	var n int
-	err = q.QueryRow(`SELECT COUNT(*) FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id WHERE i.id=? AND i.deleted=0 AND g.deleted=0 AND g.published=1 AND b.deleted=0 AND b.published=1`, id).Scan(&n)
-	if err == nil && n == 0 {
-		err = sql.ErrNoRows
-	}
+	var i Icon
+	err := q.QueryRow(`SELECT i.id,i.group_id,b.slug,g.product_key,i.filename,i.hash
+ FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id
+ WHERE i.id=? AND i.deleted=0 AND g.deleted=0 AND g.published=1 AND b.deleted=0 AND b.published=1`, id).
+		Scan(&i.ID, &i.GroupID, &i.Brand, &i.Product, &i.Meta.File, &i.Meta.SHA)
 	return i, err
 }

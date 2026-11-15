@@ -2,10 +2,12 @@ package app
 
 import (
 	"archive/zip"
+	"context"
 	"database/sql"
 	"encoding/json"
 	"errors"
 	"fmt"
+	"io"
 	"io/fs"
 	"net/http"
 	"os"
@@ -56,8 +58,8 @@ func zipEntry(z *zip.Writer, name string, content []byte) error {
 	_, e = f.Write(content)
 	return e
 }
-func publicArchive(tx queryer, z *zip.Writer, ids map[int64]bool) error {
-	rows, e := tx.Query(`SELECT i.id,b.slug,i.filename,i.svg FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id WHERE i.deleted=0 AND g.deleted=0 AND g.published=1 AND b.deleted=0 AND b.published=1 ORDER BY b.slug,i.filename`)
+func (s *Store) publicArchive(ctx context.Context, tx queryer, z *zip.Writer, ids map[int64]bool) error {
+	rows, e := tx.Query(`SELECT i.id,b.slug,i.filename,i.hash FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id WHERE i.deleted=0 AND g.deleted=0 AND g.published=1 AND b.deleted=0 AND b.published=1 ORDER BY b.slug,i.filename`)
 	if e != nil {
 		return e
 	}
@@ -66,14 +68,14 @@ func publicArchive(tx queryer, z *zip.Writer, ids map[int64]bool) error {
 	for rows.Next() {
 		var id int64
 		var brand, name string
-		var content []byte
-		if e = rows.Scan(&id, &brand, &name, &content); e != nil {
+		var hash string
+		if e = rows.Scan(&id, &brand, &name, &hash); e != nil {
 			return e
 		}
 		if ids != nil && !ids[id] {
 			continue
 		}
-		if e = zipEntry(z, brand+"/"+name, content); e != nil {
+		if e = s.zipSVG(ctx, z, brand+"/"+name, Icon{ID: id, Brand: brand, Meta: IconMeta{File: name, SHA: hash}}); e != nil {
 			return e
 		}
 		found++
@@ -93,7 +95,7 @@ func (a *App) allDownload(w http.ResponseWriter, r *http.Request) {
 			return err
 		}
 		defer tx.Rollback()
-		return publicArchive(contextQueries{r.Context(), tx}, z, nil)
+		return a.store.publicArchive(r.Context(), contextQueries{r.Context(), tx}, z, nil)
 	})
 }
 func (a *App) selectionDownload(w http.ResponseWriter, r *http.Request) {
@@ -120,7 +122,7 @@ func (a *App) selectionDownload(w http.ResponseWriter, r *http.Request) {
 			return err
 		}
 		defer tx.Rollback()
-		return publicArchive(contextQueries{r.Context(), tx}, z, ids)
+		return a.store.publicArchive(r.Context(), contextQueries{r.Context(), tx}, z, ids)
 	})
 }
 func (a *App) exportLibrary(w http.ResponseWriter, r *http.Request) {
@@ -191,12 +193,8 @@ func (a *App) exportLibrary(w http.ResponseWriter, r *http.Request) {
 						if i.Deleted {
 							continue
 						}
-						var content []byte
-						if e = tx.QueryRow(`SELECT svg FROM icons WHERE id=?`, i.ID).Scan(&content); e != nil {
-							return e
-						}
 						gm.Icons = append(gm.Icons, i.Meta)
-						if e = zipEntry(z, prefix+b.Slug+"/"+i.Meta.File, content); e != nil {
+						if e = a.store.zipSVG(r.Context(), z, prefix+b.Slug+"/"+i.Meta.File, i); e != nil {
 							return e
 						}
 					}
@@ -233,4 +231,18 @@ func (a *App) exportLibrary(w http.ResponseWriter, r *http.Request) {
 			return zipEntry(z, "README.txt", []byte(fmt.Sprintln("icon-svg 素材导出：仅含当前上架且未删除的合集、产品和图标。完整恢复请使用完整备份。")))
 		})
 	})
+}
+
+func (s *Store) zipSVG(ctx context.Context, z *zip.Writer, name string, i Icon) error {
+	f, err := s.openSVG(ctx, i)
+	if err != nil {
+		return err
+	}
+	defer f.Close()
+	entry, err := z.Create(name)
+	if err != nil {
+		return err
+	}
+	_, err = io.Copy(entry, cancelReader{ctx: ctx, r: f})
+	return err
 }

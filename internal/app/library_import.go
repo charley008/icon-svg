@@ -313,7 +313,9 @@ func (s *Store) importLibraryFiles(incoming map[string][]byte, fillCategories bo
 	if err = audit(tx, "library_imported", fmt.Sprintf("新增 %d，跳过 %d，分类补全 %d", result.Added, result.Skipped, result.Categorized)); err != nil {
 		return result, err
 	}
-	canonical, err := librarySnapshot(tx)
+	s.pendingSVG = merged
+	defer func() { s.pendingSVG = nil }()
+	canonical, err := s.metadataSnapshot(tx)
 	if err != nil {
 		return result, err
 	}
@@ -346,13 +348,20 @@ func (s *Store) importLibraryFiles(incoming map[string][]byte, fillCategories bo
 		canonical[name] = raw
 	}
 	previous := l.fingerprint
+	previousRecords := l.records
 	if err = l.saveLocked(canonical); err != nil {
+		return result, err
+	}
+	if err = s.saveLibraryRecordsAfterImport(tx); err != nil {
+		l.fingerprint = previous
+		l.records = previousRecords
 		return result, err
 	}
 	if err = tx.Commit(); err != nil {
 		// Force the next scan to recover the disk/index boundary if committing
 		// the runtime audit fails after the durable file journal was applied.
 		l.fingerprint = previous
+		l.records = previousRecords
 	}
 	return result, err
 }

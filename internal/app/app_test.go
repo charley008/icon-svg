@@ -3,6 +3,7 @@ package app
 import (
 	"archive/zip"
 	"bytes"
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -196,7 +197,16 @@ func TestFullLibraryLoadAndRestart(t *testing.T) {
 		t.Fatalf("published export contains %d icons, want %d (recycle-bin records must be excluded)", imported, wantPublicIcons)
 	}
 	var raw []byte
-	s.db.QueryRow(`SELECT svg FROM icons WHERE id=1`).Scan(&raw)
+	indexed, _ := iconByID(s.db, 1)
+	stream, err := s.openSVG(context.Background(), indexed)
+	if err != nil {
+		t.Fatal(err)
+	}
+	raw, e = io.ReadAll(stream)
+	stream.Close()
+	if e != nil {
+		t.Fatal(e)
+	}
 	if digest(raw) == "" {
 		t.Fatal("empty content")
 	}
@@ -360,7 +370,7 @@ func TestExportReimportBackupAndCleanup(t *testing.T) {
 	if len(files) != 0 {
 		t.Fatal("temporary files remain")
 	}
-	a.store.db.Exec(`UPDATE icons SET svg=NULL WHERE id=-1`)
+	a.store.db.Exec(`UPDATE icons SET hash='' WHERE id=-1`)
 	assertCode(t, send(t, h, "POST", "/download/selection", url.Values{"ids": {"999999"}}, nil), 400)
 	files, _ = os.ReadDir(filepath.Join(a.data, "cache"))
 	if len(files) != 0 {

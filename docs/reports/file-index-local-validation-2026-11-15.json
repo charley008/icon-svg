@@ -1,0 +1,429 @@
+{
+  "environment": {
+    "platform": "Windows 11 WSL2 Linux 6.18",
+    "go": "1.26.3",
+    "cpu_limit": 1,
+    "memory_limit_mib": 512,
+    "swap": false,
+    "gomaxprocs": 1,
+    "production_tested": false,
+    "note": "Single comparison per configuration; cgroup file-cache accounting depends on page ownership. Compare process RSS, not a promised VPS Docker total."
+  },
+  "baseline_v1.0.6": {
+    "cold": {
+      "phase": "cold_start",
+      "memory_mib": 169.69,
+      "anon_mib": 25.52,
+      "file_mib": 126.21,
+      "working_set_mib": 150.01,
+      "rss_mib": 38.55,
+      "peak_rss_mib": 143.42,
+      "cpu_us": 4304661,
+      "rchar_mib": 239.9,
+      "ready_seconds": 5.63
+    },
+    "warm": {
+      "phase": "warm_start",
+      "memory_mib": 68.93,
+      "anon_mib": 25.25,
+      "file_mib": 40.03,
+      "working_set_mib": 68.04,
+      "rss_mib": 38.29,
+      "peak_rss_mib": 143.59,
+      "cpu_us": 3151776,
+      "rchar_mib": 243.94,
+      "ready_seconds": 3.554
+    },
+    "catalog_mib": 40.0,
+    "stores_svg": true,
+    "gomemlimit": "128MiB",
+    "stages": {
+      "normal": {
+        "requests": 30,
+        "status": {
+          "200": 30
+        },
+        "p50_ms": 6.89,
+        "p95_ms": 14.7,
+        "response_bytes_mean": 134071
+      },
+      "cancel_burst": {
+        "requests": 300,
+        "status": {
+          "200": 300
+        },
+        "p50_ms": 7.39,
+        "p95_ms": 13.3,
+        "response_bytes_mean": 134293,
+        "cpu_seconds": 2.778
+      },
+      "recovery": {
+        "requests": 15,
+        "status": {
+          "200": 15
+        },
+        "p50_ms": 0.99,
+        "p95_ms": 1.34,
+        "response_bytes_mean": 15
+      },
+      "sustained": {
+        "requests": 2573,
+        "status": {
+          "200": 2541,
+          "503": 32
+        },
+        "p50_ms": 234.67,
+        "p95_ms": 258.19,
+        "response_bytes_mean": 134092
+      }
+    },
+    "idle": {
+      "phase": "idle",
+      "memory_mib": 115.98,
+      "anon_mib": 71.84,
+      "file_mib": 40.03,
+      "working_set_mib": 115.12,
+      "rss_mib": 85.0,
+      "peak_rss_mib": 143.59,
+      "cpu_us": 26303463,
+      "rchar_mib": 266.73
+    },
+    "final_health": "200",
+    "asset_code": "200",
+    "zip_code": "200",
+    "zip_entries": 5129,
+    "zip_corrupt_member": null,
+    "resources": {
+      "files": {
+        "peak_memory_mib": 175.46,
+        "peak_rss_mib": 103.07,
+        "last_rss_mib": 93.75,
+        "last_file_mib": 88.57
+      },
+      "sustained": {
+        "peak_memory_mib": 121.32,
+        "peak_rss_mib": 90.18,
+        "last_rss_mib": 85.36,
+        "last_file_mib": 40.03
+      },
+      "warm_start": {
+        "peak_memory_mib": 170.42,
+        "peak_rss_mib": 139.46,
+        "last_rss_mib": 131.53,
+        "last_file_mib": 39.44
+      },
+      "cold_start": {
+        "peak_memory_mib": 267.98,
+        "peak_rss_mib": 140.55,
+        "last_rss_mib": 135.48,
+        "last_file_mib": 126.15
+      },
+      "cancel_burst": {
+        "peak_memory_mib": 114.46,
+        "peak_rss_mib": 83.8,
+        "last_rss_mib": 83.49,
+        "last_file_mib": 40.03
+      },
+      "normal": {
+        "peak_memory_mib": 112.73,
+        "peak_rss_mib": 82.79,
+        "last_rss_mib": 82.79,
+        "last_file_mib": 40.03
+      },
+      "recovery": {
+        "peak_memory_mib": 113.7,
+        "peak_rss_mib": 83.5,
+        "last_rss_mib": 83.5,
+        "last_file_mib": 40.03
+      },
+      "idle": {
+        "peak_memory_mib": 116.23,
+        "peak_rss_mib": 85.0,
+        "last_rss_mib": 85.0,
+        "last_file_mib": 40.03
+      }
+    },
+    "oom": false
+  },
+  "candidate_v1.0.7_128mib": {
+    "cold": {
+      "phase": "cold_start",
+      "memory_mib": 25.71,
+      "anon_mib": 14.94,
+      "file_mib": 8.22,
+      "working_set_mib": 23.38,
+      "rss_mib": 27.96,
+      "peak_rss_mib": 76.42,
+      "cpu_us": 3851406,
+      "rchar_mib": 86.21,
+      "ready_seconds": 4.478
+    },
+    "warm": {
+      "phase": "warm_start",
+      "memory_mib": 13.77,
+      "anon_mib": 11.46,
+      "file_mib": 0.03,
+      "working_set_mib": 13.74,
+      "rss_mib": 23.18,
+      "peak_rss_mib": 42.97,
+      "cpu_us": 298246,
+      "rchar_mib": 22.47,
+      "ready_seconds": 0.639
+    },
+    "catalog_mib": 8.1,
+    "stores_svg": false,
+    "gomemlimit": "128MiB",
+    "stages": {
+      "normal": {
+        "requests": 30,
+        "status": {
+          "200": 30
+        },
+        "p50_ms": 10.18,
+        "p95_ms": 10.84,
+        "response_bytes_mean": 16834
+      },
+      "cancel_burst": {
+        "requests": 300,
+        "status": {
+          "200": 300
+        },
+        "p50_ms": 6.79,
+        "p95_ms": 9.73,
+        "response_bytes_mean": 16940,
+        "cpu_seconds": 2.192
+      },
+      "recovery": {
+        "requests": 15,
+        "status": {
+          "200": 15
+        },
+        "p50_ms": 0.87,
+        "p95_ms": 1.43,
+        "response_bytes_mean": 15
+      },
+      "sustained": {
+        "requests": 4076,
+        "status": {
+          "200": 4049,
+          "503": 27
+        },
+        "p50_ms": 146.83,
+        "p95_ms": 217.18,
+        "response_bytes_mean": 16935
+      }
+    },
+    "idle": {
+      "phase": "idle",
+      "memory_mib": 26.5,
+      "anon_mib": 23.81,
+      "file_mib": 0.03,
+      "working_set_mib": 26.47,
+      "rss_mib": 36.4,
+      "peak_rss_mib": 42.97,
+      "cpu_us": 22891338,
+      "rchar_mib": 2185.72
+    },
+    "final_health": "200",
+    "asset_code": "200",
+    "zip_code": "200",
+    "zip_entries": 5129,
+    "zip_corrupt_member": null,
+    "resources": {
+      "warm_start": {
+        "peak_memory_mib": 22.96,
+        "peak_rss_mib": 31.79,
+        "last_rss_mib": 31.79,
+        "last_file_mib": 0.03
+      },
+      "idle": {
+        "peak_memory_mib": 26.5,
+        "peak_rss_mib": 36.4,
+        "last_rss_mib": 36.4,
+        "last_file_mib": 0.03
+      },
+      "files": {
+        "peak_memory_mib": 46.02,
+        "peak_rss_mib": 45.65,
+        "last_rss_mib": 45.65,
+        "last_file_mib": 10.05
+      },
+      "cancel_burst": {
+        "peak_memory_mib": 22.88,
+        "peak_rss_mib": 33.12,
+        "last_rss_mib": 33.12,
+        "last_file_mib": 0.03
+      },
+      "cold_start": {
+        "peak_memory_mib": 68.01,
+        "peak_rss_mib": 75.9,
+        "last_rss_mib": 44.47,
+        "last_file_mib": 6.66
+      },
+      "recovery": {
+        "peak_memory_mib": 22.73,
+        "peak_rss_mib": 33.12,
+        "last_rss_mib": 33.12,
+        "last_file_mib": 0.03
+      },
+      "normal": {
+        "peak_memory_mib": 16.21,
+        "peak_rss_mib": 26.23,
+        "last_rss_mib": 26.23,
+        "last_file_mib": 0.03
+      },
+      "sustained": {
+        "peak_memory_mib": 27.16,
+        "peak_rss_mib": 36.52,
+        "last_rss_mib": 36.4,
+        "last_file_mib": 0.03
+      }
+    },
+    "oom": false
+  },
+  "candidate_v1.0.7_64mib": {
+    "cold": {
+      "phase": "cold_start",
+      "memory_mib": 24.91,
+      "anon_mib": 14.57,
+      "file_mib": 8.23,
+      "working_set_mib": 22.49,
+      "rss_mib": 27.79,
+      "peak_rss_mib": 72.09,
+      "cpu_us": 3850703,
+      "rchar_mib": 86.21,
+      "ready_seconds": 4.368
+    },
+    "warm": {
+      "phase": "warm_start",
+      "memory_mib": 14.1,
+      "anon_mib": 11.41,
+      "file_mib": 0.03,
+      "working_set_mib": 14.07,
+      "rss_mib": 23.13,
+      "peak_rss_mib": 42.22,
+      "cpu_us": 290666,
+      "rchar_mib": 22.48,
+      "ready_seconds": 0.546
+    },
+    "catalog_mib": 8.11,
+    "stores_svg": false,
+    "gomemlimit": "64MiB",
+    "stages": {
+      "normal": {
+        "requests": 30,
+        "status": {
+          "200": 30
+        },
+        "p50_ms": 9.93,
+        "p95_ms": 10.44,
+        "response_bytes_mean": 16834
+      },
+      "cancel_burst": {
+        "requests": 300,
+        "status": {
+          "200": 300
+        },
+        "p50_ms": 6.95,
+        "p95_ms": 9.82,
+        "response_bytes_mean": 16940,
+        "cpu_seconds": 2.225
+      },
+      "recovery": {
+        "requests": 15,
+        "status": {
+          "200": 15
+        },
+        "p50_ms": 0.96,
+        "p95_ms": 1.27,
+        "response_bytes_mean": 15
+      },
+      "sustained": {
+        "requests": 4070,
+        "status": {
+          "200": 4048,
+          "503": 22
+        },
+        "p50_ms": 144.19,
+        "p95_ms": 224.82,
+        "response_bytes_mean": 16939
+      }
+    },
+    "idle": {
+      "phase": "idle",
+      "memory_mib": 24.8,
+      "anon_mib": 23.72,
+      "file_mib": 0.03,
+      "working_set_mib": 24.77,
+      "rss_mib": 36.31,
+      "peak_rss_mib": 42.22,
+      "cpu_us": 22870554,
+      "rchar_mib": 2185.94
+    },
+    "final_health": "200",
+    "asset_code": "200",
+    "zip_code": "200",
+    "zip_entries": 5129,
+    "zip_corrupt_member": null,
+    "resources": {
+      "warm_start": {
+        "peak_memory_mib": 20.82,
+        "peak_rss_mib": 28.77,
+        "last_rss_mib": 28.77,
+        "last_file_mib": 0.03
+      },
+      "idle": {
+        "peak_memory_mib": 26.01,
+        "peak_rss_mib": 36.31,
+        "last_rss_mib": 36.31,
+        "last_file_mib": 0.03
+      },
+      "files": {
+        "peak_memory_mib": 41.64,
+        "peak_rss_mib": 45.98,
+        "last_rss_mib": 45.98,
+        "last_file_mib": 0.03
+      },
+      "cancel_burst": {
+        "peak_memory_mib": 23.44,
+        "peak_rss_mib": 33.33,
+        "last_rss_mib": 33.33,
+        "last_file_mib": 0.03
+      },
+      "cold_start": {
+        "peak_memory_mib": 67.55,
+        "peak_rss_mib": 72.0,
+        "last_rss_mib": 27.79,
+        "last_file_mib": 8.23
+      },
+      "recovery": {
+        "peak_memory_mib": 23.17,
+        "peak_rss_mib": 33.33,
+        "last_rss_mib": 33.33,
+        "last_file_mib": 0.03
+      },
+      "normal": {
+        "peak_memory_mib": 15.85,
+        "peak_rss_mib": 25.67,
+        "last_rss_mib": 25.67,
+        "last_file_mib": 0.03
+      },
+      "sustained": {
+        "peak_memory_mib": 27.27,
+        "peak_rss_mib": 36.39,
+        "last_rss_mib": 36.31,
+        "last_file_mib": 0.03
+      }
+    },
+    "oom": false
+  },
+  "incremental": {
+    "changed_collections": [
+      "36kr"
+    ],
+    "unmodified_collections": 2722,
+    "seconds_including_admin_render": 1.511,
+    "updated_page_visible": true,
+    "restored_original": true
+  }
+}

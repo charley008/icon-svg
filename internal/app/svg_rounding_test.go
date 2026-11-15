@@ -2,6 +2,8 @@ package app
 
 import (
 	"bytes"
+	"context"
+	"io"
 	"strings"
 	"testing"
 )
@@ -27,7 +29,21 @@ func TestUploadRounding(t *testing.T) {
 	cookie, token := authenticate(t, a, h)
 	assertCode(t, uploadTest(t, h, cookie, token, 1, testSVG), 303)
 	var uploaded []byte
-	a.store.db.QueryRow(`SELECT svg FROM icons WHERE filename='google-1.svg'`).Scan(&uploaded)
+	var uploadedID int64
+	a.store.db.QueryRow(`SELECT id FROM icons WHERE filename='google-1.svg'`).Scan(&uploadedID)
+	indexed, err := iconByID(a.store.db, uploadedID)
+	if err != nil {
+		t.Fatal(err)
+	}
+	stream, err := a.store.openSVG(context.Background(), indexed)
+	if err != nil {
+		t.Fatal(err)
+	}
+	uploaded, err = io.ReadAll(stream)
+	stream.Close()
+	if err != nil {
+		t.Fatal(err)
+	}
 	if !bytes.Equal(uploaded, rounded) {
 		t.Fatal("upload must store the prepared SVG")
 	}

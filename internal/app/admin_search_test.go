@@ -23,7 +23,7 @@ func TestAdminSearchFindsProductsAndVersions(t *testing.T) {
 		t.Fatal(err)
 	}
 	version := IconMeta{File: "google-gmail-1.svg", Version: 1, Label: "彩色新版", SHA: digest(testSVG), Bytes: len(testSVG), Provenance: map[string]any{"original_file": "source-mail.svg"}}
-	if _, err = a.store.db.Exec(`INSERT INTO icons(brand_id,group_id,filename,version,metadata,hash,svg,is_default) VALUES(1,2,?,1,?,?,?,0)`, version.File, jsonText(version), version.SHA, testSVG); err != nil {
+	if _, err = a.store.db.Exec(`INSERT INTO icons(brand_id,group_id,filename,version,metadata,hash,is_default) VALUES(1,2,?,1,?,?,0)`, version.File, jsonText(version), version.SHA); err != nil {
 		t.Fatal(err)
 	}
 	for _, query := range []string{"淘宝", " TAOBAO ", "taobao.com", "购物", "Google 淘宝", "google-gmail-1.svg", "彩色新版", "source-mail.svg"} {
