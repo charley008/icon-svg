@@ -16,6 +16,13 @@ import (
 )
 
 func (a *App) archive(w http.ResponseWriter, r *http.Request, name string, build func(*zip.Writer) error) {
+	select {
+	case a.archiveSlots <- struct{}{}:
+		defer func() { <-a.archiveSlots }()
+	default:
+		unavailable(w)
+		return
+	}
 	file, e := os.CreateTemp(filepath.Join(a.data, "cache"), "archive-*.zip")
 	if e != nil {
 		renderError(w, e)
@@ -49,7 +56,7 @@ func zipEntry(z *zip.Writer, name string, content []byte) error {
 	_, e = f.Write(content)
 	return e
 }
-func publicArchive(tx *sql.Tx, z *zip.Writer, ids map[int64]bool) error {
+func publicArchive(tx queryer, z *zip.Writer, ids map[int64]bool) error {
 	rows, e := tx.Query(`SELECT i.id,b.slug,i.filename,i.svg FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id WHERE i.deleted=0 AND g.deleted=0 AND g.published=1 AND b.deleted=0 AND b.published=1 ORDER BY b.slug,i.filename`)
 	if e != nil {
 		return e
@@ -81,7 +88,12 @@ func publicArchive(tx *sql.Tx, z *zip.Writer, ids map[int64]bool) error {
 }
 func (a *App) allDownload(w http.ResponseWriter, r *http.Request) {
 	a.archive(w, r, "icon-svg-library.zip", func(z *zip.Writer) error {
-		return a.store.runtimeTransaction(func(tx *sql.Tx) error { return publicArchive(tx, z, nil) })
+		tx, err := a.store.db.BeginTx(r.Context(), &sql.TxOptions{ReadOnly: true})
+		if err != nil {
+			return err
+		}
+		defer tx.Rollback()
+		return publicArchive(contextQueries{r.Context(), tx}, z, nil)
 	})
 }
 func (a *App) selectionDownload(w http.ResponseWriter, r *http.Request) {
@@ -103,7 +115,12 @@ func (a *App) selectionDownload(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	a.archive(w, r, "icon-svg-selection.zip", func(z *zip.Writer) error {
-		return a.store.runtimeTransaction(func(tx *sql.Tx) error { return publicArchive(tx, z, ids) })
+		tx, err := a.store.db.BeginTx(r.Context(), &sql.TxOptions{ReadOnly: true})
+		if err != nil {
+			return err
+		}
+		defer tx.Rollback()
+		return publicArchive(contextQueries{r.Context(), tx}, z, ids)
 	})
 }
 func (a *App) exportLibrary(w http.ResponseWriter, r *http.Request) {

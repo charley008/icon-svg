@@ -42,7 +42,7 @@ jobs:
           fi
       - name: Test and check
         run: |
-          go test ./...
+          go test -race ./...
           go vet ./...
           node --check web/static/site.js
           node --check web/static/theme.js
@@ -149,11 +149,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
         run: |
-          cat > dist/release-notes.md <<'EOF'
-          - 优化小 VPS 内存占用：改用磁盘索引、限制缓存，扫描后释放临时内存。
-          - 减少启动、登录和设置操作中的重复素材加载。
-          - 兼容现有 data、library 持久化目录，无需迁移数据。
-          EOF
+          if [ -f "docs/releases/${RELEASE_TAG}.md" ]; then
+            cp "docs/releases/${RELEASE_TAG}.md" dist/release-notes.md
+          else
+            printf '%s\n' 'See the tagged source and commit history for this release.' > dist/release-notes.md
+          fi
           if gh release view "$RELEASE_TAG" --json tagName > /dev/null 2>&1; then
             gh release upload "$RELEASE_TAG" dist/release/* --clobber
           else

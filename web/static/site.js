@@ -39,10 +39,27 @@ $('#download-png')?.addEventListener('click',async()=>{
   }catch(e){toast(e.message||'PNG 导出失败');}finally{button.disabled=false;}
 });
 
+let brandSearchTimer,brandSearchRequest;
 $('#brand-nav-search')?.addEventListener('input',e=>{
-  const query=e.target.value.trim().toLocaleLowerCase();let matches=0;
-  all('[data-brand-name]').forEach(link=>{const visible=link.dataset.brandName.toLocaleLowerCase().includes(query);link.classList.toggle('hidden',!visible);if(visible)matches++;});
-  $('#brand-nav-empty').classList.toggle('hidden',matches>0);
+  clearTimeout(brandSearchTimer);brandSearchRequest?.abort();
+  const query=e.target.value.trim(),controller=new AbortController();brandSearchRequest=controller;
+  $('#brand-nav-more').href='/?'+new URLSearchParams({view:'brands',q:query});
+  brandSearchTimer=setTimeout(async()=>{
+    try{
+      const response=await fetch('/api/brands?'+new URLSearchParams({q:query}),{signal:controller.signal});
+      if(!response.ok)throw new Error('搜索暂时不可用');
+      const brands=await response.json();if(controller.signal.aborted)return;
+      all('#categories .brand-nav-item').forEach(link=>link.remove());
+      const fragment=document.createDocumentFragment();
+      for(const brand of brands){
+        const link=document.createElement('a');link.className='nav-item category-button brand-nav-item';link.href='/?brand='+encodeURIComponent(brand.slug);
+        if(new URLSearchParams(location.search).get('brand')===brand.slug)link.classList.add('active');
+        if(brand.logo){const image=document.createElement('img');image.src=brand.logo;image.width=image.height=22;image.alt='';image.loading='lazy';link.append(image);}
+        const label=document.createElement('span');label.className='brand-nav-name';label.textContent=brand.title;link.append(label);fragment.append(link);
+      }
+      $('#brand-nav-empty').before(fragment);$('#brand-nav-empty').classList.toggle('hidden',brands.length>0);
+    }catch(error){if(error.name!=='AbortError')toast('搜索暂时不可用，可按 Enter 查看合集总览');}
+  },250);
 });
 
 $('#categories .brand-nav-item.active')?.scrollIntoView({block:'nearest'});

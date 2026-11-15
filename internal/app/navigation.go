@@ -1,12 +1,14 @@
 package app
 
 import (
+	"context"
 	"database/sql"
 	"encoding/json"
 	"fmt"
 	"net/http"
 	"net/url"
 	"strings"
+	"time"
 	"unicode"
 	"unicode/utf8"
 )
@@ -21,8 +23,10 @@ type NavigationLink struct {
 }
 
 func (a *App) navigationLinks() ([]NavigationLink, error) {
+	ctx, cancel := context.WithTimeout(context.Background(), time.Second)
+	defer cancel()
 	var raw string
-	err := a.store.db.QueryRow(`SELECT value FROM runtime.settings WHERE key='navigation_links'`).Scan(&raw)
+	err := a.store.db.QueryRowContext(ctx, `SELECT value FROM runtime.settings WHERE key='navigation_links'`).Scan(&raw)
 	if err == sql.ErrNoRows {
 		return nil, nil
 	}

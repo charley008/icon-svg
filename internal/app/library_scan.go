@@ -16,9 +16,14 @@ func normalizeLibraryFiles(files map[string][]byte) (map[string][]byte, error) {
 	out := map[string][]byte{}
 	metas := map[string]*BrandMeta{}
 	keys := []string{}
+	svgByBrand := map[string][]string{}
 	var bid, gid, iid int64
 	for name, raw := range files {
 		out[name] = raw
+		if strings.HasSuffix(name, ".svg") {
+			slug := path.Dir(name)
+			svgByBrand[slug] = append(svgByBrand[slug], path.Base(name))
+		}
 		if !strings.HasSuffix(name, "/meta.json") {
 			continue
 		}
@@ -80,12 +85,7 @@ func normalizeLibraryFiles(files map[string][]byte) (map[string][]byte, error) {
 			}
 			g.Icons = kept
 		}
-		svgNames := []string{}
-		for file := range files {
-			if path.Dir(file) == slug && strings.HasSuffix(file, ".svg") {
-				svgNames = append(svgNames, path.Base(file))
-			}
-		}
+		svgNames := svgByBrand[slug]
 		sort.Strings(svgNames)
 		for _, file := range svgNames {
 			if used[file] {

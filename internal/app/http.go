@@ -2,6 +2,7 @@ package app
 
 import (
 	"bytes"
+	"context"
 	"database/sql"
 	"encoding/json"
 	"errors"
@@ -15,6 +16,7 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"sync"
 	"sync/atomic"
 	"time"
 )
@@ -28,6 +30,12 @@ type App struct {
 	files        AppResources
 	scanInterval atomic.Int64
 	scanChanged  chan struct{}
+	publicSlots  chan struct{}
+	assetSlots   chan struct{}
+	adminSlots   chan struct{}
+	archiveSlots chan struct{}
+	catalogMu    sync.Mutex
+	catalog      *publicCatalog
 }
 
 type AppResources struct{ Web, Library, Root fs.FS }
@@ -66,6 +74,10 @@ func newApp(s *Store, data, origin string, secure bool, resources ...AppResource
 		return nil, fmt.Errorf("读取 web/templates 失败，请解压完整安装包：%w", e)
 	}
 	a = &App{store: s, data: data, origin: strings.TrimRight(origin, "/"), secure: secure, templates: t, files: files, version: "dev", scanChanged: make(chan struct{}, 1)}
+	a.publicSlots = make(chan struct{}, 4)
+	a.assetSlots = make(chan struct{}, 16)
+	a.adminSlots = make(chan struct{}, 8)
+	a.archiveSlots = make(chan struct{}, 1)
 	if err := a.configureScanInterval(5 * time.Minute); err != nil {
 		return nil, err
 	}
@@ -76,6 +88,7 @@ func (a *App) routes() http.Handler {
 	static, _ := fs.Sub(a.files.Web, "static")
 	mux.Handle("GET /static/", http.StripPrefix("/static/", http.FileServer(http.FS(static))))
 	mux.HandleFunc("GET /{$}", a.home)
+	mux.HandleFunc("GET /api/brands", a.searchBrands)
 	mux.HandleFunc("GET /licenses", func(w http.ResponseWriter, r *http.Request) {
 		content, _ := fs.ReadFile(a.files.Root, "THIRD_PARTY_NOTICES.txt")
 		w.Header().Set("Content-Type", "text/plain; charset=utf-8")
@@ -87,7 +100,9 @@ func (a *App) routes() http.Handler {
 	mux.HandleFunc("GET /download/all.zip", a.allDownload)
 	mux.HandleFunc("POST /download/selection", a.selectionDownload)
 	mux.HandleFunc("GET /healthz", func(w http.ResponseWriter, r *http.Request) {
-		if e := a.store.db.Ping(); e != nil {
+		ctx, cancel := context.WithTimeout(r.Context(), time.Second)
+		defer cancel()
+		if e := a.store.db.PingContext(ctx); e != nil {
 			http.Error(w, "database unavailable", 503)
 			return
 		}
@@ -123,6 +138,16 @@ func (a *App) routes() http.Handler {
 }
 func (a *App) headers(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		release, ok := a.admit(w, r)
+		if !ok {
+			return
+		}
+		defer release()
+		if !strings.HasPrefix(r.URL.Path, "/admin") && !strings.HasPrefix(r.URL.Path, "/static/") {
+			ctx, cancel := context.WithTimeout(r.Context(), 15*time.Second)
+			defer cancel()
+			r = r.WithContext(ctx)
+		}
 		defer func() {
 			if e := recover(); e != nil {
 				log.Printf("request panic: %v", e)
@@ -159,8 +184,11 @@ func (a *App) headers(next http.Handler) http.Handler {
 				return
 			}
 		}
-		if r.URL.Path != "/admin/library/scan" && r.URL.Path != "/admin/library/import" {
-			a.store.viewMu.RLock()
+		if r.URL.Path != "/admin/library/scan" && r.URL.Path != "/admin/library/import" && r.URL.Path != "/healthz" && !strings.HasPrefix(r.URL.Path, "/static/") {
+			if !a.store.viewMu.TryRLock() {
+				unavailable(w)
+				return
+			}
 			defer a.store.viewMu.RUnlock()
 		}
 		next.ServeHTTP(w, r)
@@ -168,6 +196,10 @@ func (a *App) headers(next http.Handler) http.Handler {
 }
 func renderError(w http.ResponseWriter, e error) {
 	code := 400
+	if errors.Is(e, context.Canceled) || errors.Is(e, context.DeadlineExceeded) {
+		unavailable(w)
+		return
+	}
 	if errors.Is(e, sql.ErrNoRows) {
 		code = 404
 	}
@@ -243,6 +275,7 @@ type HomePage struct {
 	Hero                                  bool
 	BrandDirectory                        bool
 	BrandCards, DirectoryCards            []BrandOverview
+	NavBrandCards                         []BrandOverview
 	SelectedBrand                         *BrandOverview
 }
 
@@ -287,20 +320,17 @@ func brandOverviews(brands []Brand, groups []Group) []BrandOverview {
 }
 
 func (a *App) home(w http.ResponseWriter, r *http.Request) {
-	groups, e := a.store.groups(false)
+	catalog, e := a.publicCatalog(r.Context())
 	if e != nil {
 		renderError(w, e)
 		return
 	}
-	brands, e := a.store.brands()
-	if e != nil {
-		renderError(w, e)
-		return
-	}
+	groups, brands := catalog.groups, catalog.brands
 	q := r.URL.Query()
 	p := HomePage{Q: strings.TrimSpace(q.Get("q")), Category: q.Get("category"), Brand: q.Get("brand"), Sort: q.Get("sort"), Page: 1}
 	p.BrandDirectory = q.Get("view") == "brands" && p.Brand == ""
-	p.BrandCards = brandOverviews(brands, groups)
+	p.BrandCards = catalog.cards
+	p.NavBrandCards = brandNavigation(catalog.cards, "", p.Brand)
 	if p.Brand != "" {
 		for n := range p.BrandCards {
 			if p.BrandCards[n].Brand.Slug == p.Brand {
@@ -316,6 +346,7 @@ func (a *App) home(w http.ResponseWriter, r *http.Request) {
 	if len(p.Q) > 300 {
 		p.Q = p.Q[:300]
 	}
+	search := strings.ToLower(p.Q)
 	p.Page, _ = strconv.Atoi(q.Get("page"))
 	if p.Page < 1 {
 		p.Page = 1
@@ -341,8 +372,7 @@ func (a *App) home(w http.ResponseWriter, r *http.Request) {
 		heroCandidates[g.Brand+"/"+g.Key] = g
 		p.Icons += g.Count
 		categories[g.Meta.Category]++
-		haystack := strings.ToLower(g.Brand + " " + g.Key + " " + g.Meta.Title + " " + strings.Join(g.Meta.Tags, " ") + " " + strings.Join(g.Meta.Aliases, " ") + " " + strings.Join(g.Meta.Domains, " "))
-		if p.Q != "" && !strings.Contains(haystack, strings.ToLower(p.Q)) {
+		if p.Q != "" && !strings.Contains(catalog.search[g.ID], search) {
 			continue
 		}
 		if p.Category != "" && g.Meta.Category != p.Category {
@@ -399,10 +429,11 @@ func (a *App) home(w http.ResponseWriter, r *http.Request) {
 	a.render(w, "home.html", p)
 }
 func (a *App) detail(w http.ResponseWriter, r *http.Request) {
-	g, e := groupByID(a.store.db, requestID(r))
+	queries := contextQueries{r.Context(), a.store.db}
+	g, e := groupByID(queries, requestID(r))
 	if errors.Is(e, sql.ErrNoRows) {
 		var target int64
-		err := a.store.db.QueryRow(`SELECT g.id FROM groups g JOIN brands b ON b.id=g.brand_id JOIN json_each(g.metadata,'$.redirect_from') old WHERE old.value=? AND b.published=1 AND b.deleted=0 AND g.published=1 AND g.deleted=0 AND EXISTS(SELECT 1 FROM icons i WHERE i.group_id=g.id AND i.deleted=0)`, requestID(r)).Scan(&target)
+		err := queries.QueryRow(`SELECT g.id FROM groups g JOIN brands b ON b.id=g.brand_id JOIN json_each(g.metadata,'$.redirect_from') old WHERE old.value=? AND b.published=1 AND b.deleted=0 AND g.published=1 AND g.deleted=0 AND EXISTS(SELECT 1 FROM icons i WHERE i.group_id=g.id AND i.deleted=0)`, requestID(r)).Scan(&target)
 		if err == nil {
 			http.Redirect(w, r, "/detail/"+strconv.FormatInt(target, 10), http.StatusPermanentRedirect)
 			return
@@ -412,12 +443,12 @@ func (a *App) detail(w http.ResponseWriter, r *http.Request) {
 		renderError(w, e)
 		return
 	}
-	b, e := brandByID(a.store.db, g.BrandID)
+	b, e := brandByID(queries, g.BrandID)
 	if e != nil || !b.Published || b.Deleted || !g.Published || g.Deleted {
 		http.NotFound(w, r)
 		return
 	}
-	icons, e := iconsFor(a.store.db, g.ID)
+	icons, e := iconsFor(queries, g.ID)
 	if e != nil {
 		renderError(w, e)
 		return
@@ -440,7 +471,7 @@ func (a *App) detail(w http.ResponseWriter, r *http.Request) {
 }
 func (a *App) serveSVG(w http.ResponseWriter, r *http.Request, i Icon) {
 	var content []byte
-	if e := a.store.db.QueryRow(`SELECT svg FROM icons WHERE id=?`, i.ID).Scan(&content); e != nil {
+	if e := a.store.db.QueryRowContext(r.Context(), `SELECT svg FROM icons WHERE id=?`, i.ID).Scan(&content); e != nil {
 		http.NotFound(w, r)
 		return
 	}
@@ -449,7 +480,7 @@ func (a *App) serveSVG(w http.ResponseWriter, r *http.Request, i Icon) {
 	http.ServeContent(w, r, i.Meta.File, time.Time{}, bytes.NewReader(content))
 }
 func (a *App) asset(w http.ResponseWriter, r *http.Request) {
-	i, e := publicIcon(a.store.db, requestID(r))
+	i, e := publicIcon(contextQueries{r.Context(), a.store.db}, requestID(r))
 	if e != nil || r.PathValue("hash") != i.Meta.SHA {
 		http.NotFound(w, r)
 		return
@@ -464,12 +495,12 @@ func (a *App) asset(w http.ResponseWriter, r *http.Request) {
 	a.serveSVG(w, r, i)
 }
 func (a *App) download(w http.ResponseWriter, r *http.Request) {
-	i, e := publicIcon(a.store.db, requestID(r))
+	i, e := publicIcon(contextQueries{r.Context(), a.store.db}, requestID(r))
 	if e != nil {
 		http.NotFound(w, r)
 		return
 	}
-	if e = a.store.recordDownload(i); e != nil {
+	if e = a.store.recordDownloadContext(r.Context(), i); e != nil {
 		renderError(w, e)
 		return
 	}

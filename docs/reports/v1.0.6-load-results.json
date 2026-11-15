@@ -1,0 +1,253 @@
+{
+  "environment": {
+    "date": "2026-11-15",
+    "platform": "Windows 11 / WSL2 Ubuntu 24.04 / Docker 29.8.1",
+    "go": "1.26.3 linux/amd64",
+    "cpu_limit": 1,
+    "memory_limit_mib": 512,
+    "swap_limit_mib": 0,
+    "gomaxprocs": 1,
+    "periodic_scan": false,
+    "sampler_seconds": 0.25,
+    "corpus": "repository library snapshot, not production data"
+  },
+  "comparison": {
+    "1.0.5": {
+      "version": "1.0.5",
+      "gomemlimit": "32MiB",
+      "go": "1.26.3",
+      "ready": true,
+      "startup_seconds": 8.606,
+      "stages": {
+        "normal": {
+          "requests": 16,
+          "status": {
+            "200": 16
+          },
+          "success_p50_ms": 260.73,
+          "success_p95_ms": 283.51,
+          "response_bytes_mean": 1022537
+        },
+        "cancel_burst": {
+          "requests": 300,
+          "status": {
+            "timeout": 300
+          },
+          "success_p50_ms": null,
+          "success_p95_ms": null,
+          "response_bytes_mean": null
+        },
+        "recovery": {
+          "requests": 30,
+          "status": {
+            "timeout": 30
+          },
+          "success_p50_ms": null,
+          "success_p95_ms": null,
+          "response_bytes_mean": null
+        },
+        "sustained": {
+          "requests": 320,
+          "status": {
+            "timeout": 320
+          },
+          "success_p50_ms": null,
+          "success_p95_ms": null,
+          "response_bytes_mean": null
+        }
+      },
+      "final_health": {
+        "code": "timeout",
+        "seconds": 2.002295984,
+        "bytes": 0
+      },
+      "container_state": {
+        "Status": "running",
+        "OOMKilled": false,
+        "ExitCode": 0
+      },
+      "resources": {
+        "cancel_burst": {
+          "peak_memory_mib": 509.96,
+          "peak_anon_mib": 406.14,
+          "last_memory_mib": 504.19,
+          "max_threads": 6,
+          "cpu_seconds": 11.905
+        },
+        "final_idle": {
+          "peak_memory_mib": 512.0,
+          "peak_anon_mib": 502.69,
+          "last_memory_mib": 512.0,
+          "max_threads": 7,
+          "cpu_seconds": 11.767
+        },
+        "normal": {
+          "peak_memory_mib": 179.58,
+          "peak_anon_mib": 41.29,
+          "last_memory_mib": 179.01,
+          "max_threads": 6,
+          "cpu_seconds": 3.737
+        },
+        "recovery": {
+          "peak_memory_mib": 512.0,
+          "peak_anon_mib": 499.44,
+          "last_memory_mib": 512.0,
+          "max_threads": 7,
+          "cpu_seconds": 28.333
+        },
+        "startup": {
+          "peak_memory_mib": 222.2,
+          "peak_anon_mib": 87.09,
+          "last_memory_mib": 160.81,
+          "max_threads": 5,
+          "cpu_seconds": 7.156
+        },
+        "sustained": {
+          "peak_memory_mib": 512.0,
+          "peak_anon_mib": 502.69,
+          "last_memory_mib": 511.98,
+          "max_threads": 7,
+          "cpu_seconds": 19.534
+        }
+      }
+    },
+    "1.0.6": {
+      "version": "1.0.6",
+      "gomemlimit": "128MiB",
+      "go": "1.26.3",
+      "ready": true,
+      "startup_seconds": 3.616,
+      "stages": {
+        "normal": {
+          "requests": 16,
+          "status": {
+            "200": 16
+          },
+          "success_p50_ms": 7.37,
+          "success_p95_ms": 183.45,
+          "response_bytes_mean": 135702
+        },
+        "cancel_burst": {
+          "requests": 300,
+          "status": {
+            "200": 300
+          },
+          "success_p50_ms": 7.33,
+          "success_p95_ms": 12.35,
+          "response_bytes_mean": 134147
+        },
+        "recovery": {
+          "requests": 30,
+          "status": {
+            "200": 30
+          },
+          "success_p50_ms": 0.93,
+          "success_p95_ms": 1.19,
+          "response_bytes_mean": 15
+        },
+        "sustained": {
+          "requests": 2571,
+          "status": {
+            "200": 2549,
+            "503": 21,
+            "404": 1
+          },
+          "success_p50_ms": 235.06,
+          "success_p95_ms": 244.79,
+          "response_bytes_mean": 134105
+        }
+      },
+      "final_health": {
+        "code": 200,
+        "seconds": 0.0014398280000023078,
+        "bytes": 15
+      },
+      "container_state": {
+        "Status": "running",
+        "OOMKilled": false,
+        "ExitCode": 0
+      },
+      "resources": {
+        "cancel_burst": {
+          "peak_memory_mib": 114.76,
+          "peak_anon_mib": 70.61,
+          "last_memory_mib": 103.0,
+          "max_threads": 6,
+          "cpu_seconds": 2.712
+        },
+        "final_idle": {
+          "peak_memory_mib": 117.03,
+          "peak_anon_mib": 72.53,
+          "last_memory_mib": 117.03,
+          "max_threads": 7,
+          "cpu_seconds": 0.0
+        },
+        "normal": {
+          "peak_memory_mib": 114.47,
+          "peak_anon_mib": 70.39,
+          "last_memory_mib": 114.47,
+          "max_threads": 5,
+          "cpu_seconds": 0.0
+        },
+        "recovery": {
+          "peak_memory_mib": 102.06,
+          "peak_anon_mib": 57.5,
+          "last_memory_mib": 100.79,
+          "max_threads": 6,
+          "cpu_seconds": 0.011
+        },
+        "startup": {
+          "peak_memory_mib": 170.3,
+          "peak_anon_mib": 128.89,
+          "last_memory_mib": 73.13,
+          "max_threads": 4,
+          "cpu_seconds": 3.131
+        },
+        "sustained": {
+          "peak_memory_mib": 121.36,
+          "peak_anon_mib": 76.68,
+          "last_memory_mib": 117.03,
+          "max_threads": 7,
+          "cpu_seconds": 19.985
+        }
+      }
+    }
+  },
+  "gc_control": {
+    "1.0.5": {
+      "version": "1.0.5",
+      "gomemlimit": "128MiB",
+      "burst_status": {
+        "timeout": 300
+      },
+      "recovery_status": {
+        "timeout": 15
+      },
+      "peak_memory_mib": 512.0
+    },
+    "1.0.6": {
+      "version": "1.0.6",
+      "gomemlimit": "32MiB",
+      "burst_status": {
+        "200": 300
+      },
+      "recovery_status": {
+        "200": 15
+      },
+      "peak_memory_mib": 88.74
+    }
+  },
+  "final_candidate_smoke": {
+    "1.0.6": {
+      "version": "1.0.6",
+      "gomemlimit": "128MiB",
+      "burst_status": {
+        "200": 300
+      },
+      "recovery_status": {
+        "200": 15
+      },
+      "peak_memory_mib": 105.05
+    }
+  }
+}

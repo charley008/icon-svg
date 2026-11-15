@@ -2,6 +2,7 @@ package app
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -623,10 +624,17 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 	// requests; take the view lock only when publishing a changed index.
 	l := s.library
 	l.mu.Lock()
-	probe, probeErr := l.loadFiles(!full)
+	// A cold start must rebuild the disposable index anyway. Skip its probe
+	// rather than reading the entire library twice before validation begins.
+	cold := l.fingerprint == ""
+	var probe map[string][]byte
+	var probeErr error
+	if !cold {
+		probe, probeErr = l.loadFiles(!full)
+	}
 	run.Files = probe
 	run.IO = l.loadStats
-	unchanged := probeErr == nil && fingerprint(probe) == l.fingerprint
+	unchanged := !cold && probeErr == nil && fingerprint(probe) == l.fingerprint
 	pending := false
 	if _, e := l.root.Lstat(".pending.json"); e == nil {
 		unchanged = false
@@ -653,6 +661,7 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 		return e
 	}
 	files, e := l.load()
+	run.IO = l.loadStats
 	if e != nil {
 		return e
 	}
@@ -727,17 +736,22 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 }
 
 func (s *Store) recordDownload(i Icon) error {
-	s.writeMu.Lock()
+	return s.recordDownloadContext(context.Background(), i)
+}
+func (s *Store) recordDownloadContext(ctx context.Context, i Icon) error {
+	if e := lockContext(ctx, &s.writeMu); e != nil {
+		return e
+	}
 	defer s.writeMu.Unlock()
-	tx, e := s.db.Begin()
+	tx, e := s.db.BeginTx(ctx, nil)
 	if e != nil {
 		return e
 	}
 	defer tx.Rollback()
-	if _, e = tx.Exec(`INSERT INTO runtime.downloads(key,count) VALUES(?,1) ON CONFLICT(key) DO UPDATE SET count=count+1`, i.Brand+"/"+i.Meta.File); e != nil {
+	if _, e = tx.ExecContext(ctx, `INSERT INTO runtime.downloads(key,count) VALUES(?,1) ON CONFLICT(key) DO UPDATE SET count=count+1`, i.Brand+"/"+i.Meta.File); e != nil {
 		return e
 	}
-	if _, e = tx.Exec(`UPDATE icons SET downloads=downloads+1 WHERE id=?`, i.ID); e != nil {
+	if _, e = tx.ExecContext(ctx, `UPDATE icons SET downloads=downloads+1 WHERE id=?`, i.ID); e != nil {
 		return e
 	}
 	return tx.Commit()

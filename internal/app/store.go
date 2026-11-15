@@ -1,6 +1,7 @@
 package app
 
 import (
+	"context"
 	"crypto/sha256"
 	"database/sql"
 	"encoding/hex"
@@ -438,7 +439,10 @@ func brandByID(q queryer, id int64) (Brand, error) {
 	return scanBrand(q.QueryRow(`SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands WHERE id=?`, id))
 }
 func (s *Store) brands() ([]Brand, error) {
-	rows, err := s.db.Query(`SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands ORDER BY slug`)
+	return s.brandsContext(context.Background())
+}
+func (s *Store) brandsContext(ctx context.Context) ([]Brand, error) {
+	rows, err := s.db.QueryContext(ctx, `SELECT id,slug,COALESCE(parent,''),metadata,published,deleted FROM brands ORDER BY slug`)
 	if err != nil {
 		return nil, err
 	}
@@ -470,11 +474,14 @@ func groupByID(q queryer, id int64) (Group, error) {
 	return scanGroup(q.QueryRow(`SELECT g.id,g.brand_id,b.slug,g.product_key,g.metadata,g.next_version,g.published,g.deleted,g.updated_at FROM groups g JOIN brands b ON b.id=g.brand_id WHERE g.id=?`, id))
 }
 func (s *Store) groups(admin bool) ([]Group, error) {
+	return s.groupsContext(context.Background(), admin)
+}
+func (s *Store) groupsContext(ctx context.Context, admin bool) ([]Group, error) {
 	where := `WHERE b.published=1 AND b.deleted=0 AND g.published=1 AND g.deleted=0`
 	if admin {
 		where = ""
 	}
-	rows, err := s.db.Query(`SELECT g.id,g.brand_id,b.slug,g.product_key,g.metadata,g.next_version,g.published,g.deleted,g.updated_at FROM groups g JOIN brands b ON b.id=g.brand_id ` + where + ` ORDER BY b.slug,g.product_key`)
+	rows, err := s.db.QueryContext(ctx, `SELECT g.id,g.brand_id,b.slug,g.product_key,g.metadata,g.next_version,g.published,g.deleted,g.updated_at FROM groups g JOIN brands b ON b.id=g.brand_id `+where+` ORDER BY b.slug,g.product_key`)
 	if err != nil {
 		return nil, err
 	}
@@ -493,7 +500,7 @@ func (s *Store) groups(admin bool) ([]Group, error) {
 		return nil, err
 	}
 	// One metadata query for the whole listing; never read SVG BLOBs here.
-	previews, err := s.db.Query(`SELECT i.id,i.group_id,i.metadata,i.deleted,i.downloads,b.slug,g.product_key FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id ORDER BY i.is_default DESC,i.version`)
+	previews, err := s.db.QueryContext(ctx, `SELECT i.id,i.group_id,i.metadata,i.deleted,i.downloads,b.slug,g.product_key FROM icons i JOIN groups g ON g.id=i.group_id JOIN brands b ON b.id=i.brand_id ORDER BY i.is_default DESC,i.version`)
 	if err != nil {
 		return nil, err
 	}
