@@ -462,11 +462,15 @@ func (a *App) createBrand(w http.ResponseWriter, r *http.Request) {
 			parentArg = parent
 		}
 		b := BrandMeta{Schema: 1, GroupMeta: m, Products: []GroupMeta{}}
-		res, e := tx.Exec(`INSERT INTO brands(slug,parent,metadata,published,updated_at) VALUES(?,?,?,?,?)`, slug, parentArg, jsonText(b), false, stamp())
+		nextID, err := nextMaterialID(tx, "brands")
+		if err != nil {
+			return err
+		}
+		id = nextID
+		_, e := tx.Exec(`INSERT INTO brands(id,slug,parent,metadata,published,updated_at) VALUES(?,?,?,?,?,?)`, id, slug, parentArg, jsonText(b), false, stamp())
 		if e != nil {
 			return errors.New("合集标识已存在，或上级合集不存在")
 		}
-		id, _ = res.LastInsertId()
 		gid, e := nextGroupID(tx)
 		if e != nil {
 			return e
@@ -531,7 +535,7 @@ func (a *App) editBrand(w http.ResponseWriter, r *http.Request) {
 }
 func (a *App) brandAction(w http.ResponseWriter, r *http.Request) {
 	action := r.PathValue("action")
-	if action != "trash" && action != "restore" {
+	if action != "delete" && action != "trash" && action != "restore" {
 		http.NotFound(w, r)
 		return
 	}
@@ -541,7 +545,16 @@ func (a *App) brandAction(w http.ResponseWriter, r *http.Request) {
 		if e != nil {
 			return e
 		}
-		if _, e = tx.Exec(`UPDATE brands SET deleted=?,updated_at=? WHERE id=?`, action == "trash", stamp(), id); e != nil {
+		if action != "restore" {
+			if e = reserveDeletedIDs(tx); e != nil {
+				return e
+			}
+			e = a.store.deleteBrand(tx, b)
+			action = "delete"
+		} else {
+			_, e = tx.Exec(`UPDATE brands SET deleted=0,updated_at=? WHERE id=?`, stamp(), id)
+		}
+		if e != nil {
 			return e
 		}
 		return audit(tx, "brand_"+action, b.Slug)
@@ -617,7 +630,7 @@ func (a *App) editGroup(w http.ResponseWriter, r *http.Request) {
 }
 func (a *App) groupAction(w http.ResponseWriter, r *http.Request) {
 	action := r.PathValue("action")
-	if action != "trash" && action != "restore" {
+	if action != "delete" && action != "trash" && action != "restore" {
 		http.NotFound(w, r)
 		return
 	}
@@ -631,7 +644,16 @@ func (a *App) groupAction(w http.ResponseWriter, r *http.Request) {
 			return errors.New("主图标不能作为产品移除")
 		}
 		bid = g.BrandID
-		if _, e = tx.Exec(`UPDATE groups SET deleted=?,updated_at=? WHERE id=?`, action == "trash", stamp(), g.ID); e != nil {
+		if action != "restore" {
+			if e = reserveDeletedIDs(tx); e != nil {
+				return e
+			}
+			e = a.store.deleteGroup(tx, g)
+			action = "delete"
+		} else {
+			_, e = tx.Exec(`UPDATE groups SET deleted=0,updated_at=? WHERE id=?`, stamp(), g.ID)
+		}
+		if e != nil {
 			return e
 		}
 		return audit(tx, "product_"+action, g.Brand+"/"+g.Key)
@@ -714,7 +736,11 @@ func (a *App) upload(w http.ResponseWriter, r *http.Request) {
 			if m.Label == "" {
 				m.Label = strings.TrimSuffix(m.File, ".svg")
 			}
-			if _, e = tx.Exec(`INSERT INTO icons(brand_id,group_id,filename,version,metadata,hash,is_default) VALUES(?,?,?,?,?,?,?)`, g.BrandID, g.ID, m.File, m.Version, jsonText(m), m.SHA, m.Default); e != nil {
+			id, e := nextMaterialID(tx, "icons")
+			if e != nil {
+				return e
+			}
+			if _, e = tx.Exec(`INSERT INTO icons(id,brand_id,group_id,filename,version,metadata,hash,is_default) VALUES(?,?,?,?,?,?,?,?)`, id, g.BrandID, g.ID, m.File, m.Version, jsonText(m), m.SHA, m.Default); e != nil {
 				return errors.New("文件名冲突；请检查其他产品标识是否与版本编号重叠")
 			}
 			if _, e = tx.Exec(`UPDATE groups SET next_version=next_version+1 WHERE id=?`, g.ID); e != nil {
@@ -759,8 +785,12 @@ func (a *App) iconAction(w http.ResponseWriter, r *http.Request) {
 				return errors.New("请先恢复版本")
 			}
 			e = setDefault(tx, g.ID, i.ID)
-		case "trash":
-			_, e = tx.Exec(`UPDATE icons SET deleted=1,is_default=0,metadata=json_set(metadata,'$.is_default',json('false')) WHERE id=?`, i.ID)
+		case "delete", "trash":
+			if e = reserveDeletedIDs(tx); e != nil {
+				return e
+			}
+			e = a.store.deleteIcon(tx, i)
+			action = "delete"
 			if e == nil && i.Meta.Default {
 				var other int64
 				if err := tx.QueryRow(`SELECT id FROM icons WHERE group_id=? AND deleted=0 ORDER BY version LIMIT 1`, g.ID).Scan(&other); err == nil {

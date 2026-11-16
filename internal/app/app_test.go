@@ -260,7 +260,7 @@ func TestUploadLimitAndPasswordRotation(t *testing.T) {
 	response := send(t, h, "POST", "/admin/login", url.Values{"username": {"admin"}, "password": {"newpass8"}}, nil)
 	assertCode(t, response, 303)
 }
-func TestNamingDefaultsTrashAndCaching(t *testing.T) {
+func TestNamingDefaultsDeletionAndCaching(t *testing.T) {
 	a, h := testApp(t)
 	c, token := authenticate(t, a, h)
 	var gid int64
@@ -282,13 +282,16 @@ func TestNamingDefaultsTrashAndCaching(t *testing.T) {
 			t.Fatal("default inconsistency")
 		}
 	}
-	assertCode(t, send(t, h, "POST", fmt.Sprintf("/admin/icons/%d/trash", id), form, c), 303)
+	assertCode(t, send(t, h, "POST", fmt.Sprintf("/admin/icons/%d/delete", id), form, c), 303)
+	if _, err := os.Stat(filepath.Join(a.store.library.root.Name(), "google", name)); !os.IsNotExist(err) {
+		t.Fatal("deleted SVG remains on disk", err)
+	}
 	assertCode(t, uploadTest(t, h, c, token, gid, testSVG), 303)
 	a.store.db.QueryRow(`SELECT filename FROM icons WHERE group_id=? AND version=3`, gid).Scan(&name)
 	if name != "google-gmail-3.svg" {
 		t.Fatal("reused number", name)
 	}
-	assertCode(t, send(t, h, "POST", fmt.Sprintf("/admin/icons/%d/restore", id), form, c), 303)
+	assertCode(t, send(t, h, "POST", fmt.Sprintf("/admin/icons/%d/restore", id), form, c), 404)
 	icons, _ = iconsFor(a.store.db, gid)
 	defaults := 0
 	for _, i := range icons {

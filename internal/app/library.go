@@ -220,6 +220,7 @@ func validSVGName(name string) bool {
 
 // A durable redo journal makes multi-file changes recoverable after a crash.
 // It contains only validated library-relative targets and is removed last.
+// A JSON null value means remove the file; non-null values replace its bytes.
 func (l *Library) recover() error {
 	raw, e := l.read(".pending.json")
 	if errors.Is(e, fs.ErrNotExist) {
@@ -241,8 +242,30 @@ func (l *Library) recover() error {
 	}
 	sort.Strings(keys)
 	for _, name := range keys {
-		if e = l.atomicFile(name, files[name]); e != nil {
+		if files[name] == nil {
+			if e = l.check(name); e == nil {
+				e = l.root.Remove(name)
+				if errors.Is(e, fs.ErrNotExist) {
+					e = nil
+				}
+			}
+		} else {
+			e = l.atomicFile(name, files[name])
+		}
+		if e != nil {
 			return e
+		}
+	}
+	// A deleted metadata file denotes deletion of the entire collection.
+	// Remove only its now-empty directory, never recursively follow contents.
+	for _, name := range keys {
+		if files[name] == nil && strings.HasSuffix(name, "/meta.json") {
+			if e = l.check(path.Dir(name)); e != nil {
+				return e
+			}
+			if e = l.root.Remove(path.Dir(name)); e != nil && !errors.Is(e, fs.ErrNotExist) {
+				return e
+			}
 		}
 	}
 	return l.root.Remove(".pending.json")
@@ -273,7 +296,7 @@ func (l *Library) saveLocked(files map[string][]byte) error {
 		if e != nil && !errors.Is(e, fs.ErrNotExist) {
 			return e
 		}
-		if !bytes.Equal(old, content) {
+		if (content == nil && e == nil) || (content != nil && !bytes.Equal(old, content)) {
 			changes[name] = content
 		}
 	}
@@ -536,6 +559,9 @@ func (s *Store) metadataSnapshot(q queryer, subset ...map[string]bool) (map[stri
 			files[name] = raw
 		}
 	}
+	for name := range s.pendingDeletes {
+		files[name] = nil
+	}
 	return files, nil
 }
 
@@ -634,6 +660,10 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 		return err
 	}
 	l.mu.Lock()
+	if err = l.recover(); err != nil {
+		l.mu.Unlock()
+		return err
+	}
 	_, records, stats, err := l.scanFileTree(old, full)
 	// Compare to the committed manifest, not a file-write transaction's
 	// provisional in-memory fingerprint while that transaction is committing.
@@ -663,7 +693,7 @@ func (s *Store) reloadLibraryIndex(full bool, run *scanRun) error {
 		run.Hashes = recordHashes(records)
 		return nil
 	}
-	normalized, err := normalizeLibraryFiles(files)
+	normalized, err := s.normalizeLibraryFiles(files)
 	if err != nil {
 		return err
 	}

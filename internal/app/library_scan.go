@@ -12,12 +12,15 @@ import (
 
 // Assign stable IDs to new entries without letting directory ordering change
 // existing detail URLs. Newly discovered SVGs use the established naming rule.
-func normalizeLibraryFiles(files map[string][]byte) (map[string][]byte, error) {
+func (s *Store) normalizeLibraryFiles(files map[string][]byte) (map[string][]byte, error) {
 	out := map[string][]byte{}
 	metas := map[string]*BrandMeta{}
 	keys := []string{}
 	svgByBrand := map[string][]string{}
 	var bid, gid, iid int64
+	if err := s.db.QueryRow(`SELECT coalesce((SELECT CAST(value AS INTEGER) FROM runtime.settings WHERE key='deleted_id_brands'),0),coalesce((SELECT CAST(value AS INTEGER) FROM runtime.settings WHERE key='deleted_id_groups'),0),coalesce((SELECT CAST(value AS INTEGER) FROM runtime.settings WHERE key='deleted_id_icons'),0)`).Scan(&bid, &gid, &iid); err != nil {
+		return nil, err
+	}
 	for name, raw := range files {
 		out[name] = raw
 		if strings.HasSuffix(name, ".svg") {

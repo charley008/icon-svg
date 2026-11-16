@@ -285,7 +285,7 @@ func (s *Store) importLibraryFiles(incoming map[string][]byte, fillCategories bo
 	if total > int(maxLibraryExpanded) {
 		return result, errors.New("合并后的素材库超过 256 MB")
 	}
-	merged, err = normalizeLibraryFiles(merged)
+	merged, err = s.normalizeLibraryFiles(merged)
 	if err != nil {
 		return result, err
 	}

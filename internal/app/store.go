@@ -122,13 +122,14 @@ type Icon struct {
 	SVG            []byte
 }
 type Store struct {
-	db         *sql.DB
-	indexFile  string
-	library    *Library
-	writeMu    sync.Mutex
-	viewMu     sync.RWMutex
-	source     fs.FS
-	pendingSVG map[string][]byte
+	db             *sql.DB
+	indexFile      string
+	library        *Library
+	writeMu        sync.Mutex
+	viewMu         sync.RWMutex
+	source         fs.FS
+	pendingSVG     map[string][]byte
+	pendingDeletes map[string]bool
 }
 type queryer interface {
 	Query(string, ...any) (*sql.Rows, error)
@@ -422,7 +423,7 @@ func validateGroupRedirects(q queryer) error {
 
 func nextGroupID(q queryer) (int64, error) {
 	var id int64
-	err := q.QueryRow(`SELECT COALESCE(MAX(id),0)+1 FROM (SELECT id FROM groups UNION ALL SELECT CAST(old.value AS INTEGER) FROM groups g JOIN json_each(g.metadata,'$.redirect_from') old)`).Scan(&id)
+	err := q.QueryRow(`SELECT COALESCE(MAX(id),0)+1 FROM (SELECT id FROM groups UNION ALL SELECT CAST(old.value AS INTEGER) FROM groups g JOIN json_each(g.metadata,'$.redirect_from') old UNION ALL SELECT CAST(value AS INTEGER) FROM runtime.settings WHERE key='deleted_id_groups')`).Scan(&id)
 	if err == nil && id > 1<<52 {
 		err = errors.New("产品 ID 超出范围")
 	}
@@ -457,7 +458,11 @@ func (s *Store) writeTransaction(fn func(*sql.Tx) error, saveLibrary bool) error
 			}
 		}()
 		s.pendingSVG = map[string][]byte{}
-		defer func() { s.pendingSVG = nil }()
+		s.pendingDeletes = map[string]bool{}
+		defer func() {
+			s.pendingSVG = nil
+			s.pendingDeletes = nil
+		}()
 		defer debug.FreeOSMemory()
 	}
 	tx, err := s.db.Begin()
