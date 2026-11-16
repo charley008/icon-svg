@@ -39,7 +39,8 @@ docker compose up -d
 需要从源码构建镜像时，在项目根目录执行：
 
 ```sh
-docker compose -f docker-compose.yaml -f docker-compose.build.yaml up -d --build
+docker build -t charley008/icon-svg:latest .
+docker compose up -d --pull never
 ```
 
 ### HTTPS 与端口
